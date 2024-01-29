@@ -1,0 +1,732 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/q7vmCCmyiHnuKGMzHZlr0fD44b9.jpg",
+  "id": 150689,
+  "title": "Cinderella",
+  "poster_path": "https://image.tmdb.org/t/p/w500/j91LJmcWo16CArFOoapsz84bwxb.jpg",
+  "release_date": "2015-03-06",
+  "vote_average": 6.8,
+  "vote_count": 6808,
+  "popularity": 81.661,
+  "overview": "When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her daughters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger in the woods.",
+  "imdb_id": "tt1661199",
+  "budget": 95000000,
+  "homepage": "http://movies.disney.com/cinderella",
+  "revenue": 543514353,
+  "runtime": 105,
+  "tagline": "Midnight is just the beginning.",
+  "genres": [
+    "Romance",
+    "Fantasy",
+    "Family",
+    "Drama"
+  ],
+  "production_companies": [
+    "Walt Disney Pictures",
+    "Genre Films",
+    "Beagle Pug Films",
+    "Allison Shearmur Productions"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Lily James",
+        "character": "Cinderella"
+      },
+      {
+        "name": "Cate Blanchett",
+        "character": "Stepmother, Lady Tremaine"
+      },
+      {
+        "name": "Richard Madden",
+        "character": "Prince"
+      },
+      {
+        "name": "Stellan Skarsgård",
+        "character": "Grand Duke"
+      },
+      {
+        "name": "Holliday Grainger",
+        "character": "Anastasia Tremaine"
+      },
+      {
+        "name": "Sophie McShera",
+        "character": "Drizella Tremaine"
+      },
+      {
+        "name": "Derek Jacobi",
+        "character": "King"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "character": "Fairy Godmother"
+      },
+      {
+        "name": "Nonso Anozie",
+        "character": "Captain"
+      },
+      {
+        "name": "Ben Chaplin",
+        "character": "Cinderella's Father"
+      },
+      {
+        "name": "Hayley Atwell",
+        "character": "Cinderella's Mother"
+      },
+      {
+        "name": "Richard McCabe",
+        "character": "Baron"
+      },
+      {
+        "name": "Rob Brydon",
+        "character": "Master Phineus"
+      },
+      {
+        "name": "Jana Pérez",
+        "character": "Princess Chelina of Zaragosa"
+      },
+      {
+        "name": "Alex MacQueen",
+        "character": "Royal Crier"
+      },
+      {
+        "name": "Tom Edden",
+        "character": "Lizard Footman"
+      },
+      {
+        "name": "Gareth Mason",
+        "character": "Goose Coachman"
+      },
+      {
+        "name": "Paul Hunter",
+        "character": "Farmer"
+      },
+      {
+        "name": "Eloise Webb",
+        "character": "Cinderella (10 years)"
+      },
+      {
+        "name": "Joshua McGuire",
+        "character": "Palace Official"
+      },
+      {
+        "name": "Matthew Steer",
+        "character": "Halberdier"
+      },
+      {
+        "name": "Mimî M. Khayisa",
+        "character": "Slipper Lady"
+      },
+      {
+        "name": "Laura Elsworthy",
+        "character": "Slipper Lady"
+      },
+      {
+        "name": "Ella Smith",
+        "character": "Slipper Lady"
+      },
+      {
+        "name": "Ann Davies",
+        "character": "Slipper Lady"
+      },
+      {
+        "name": "Gerard Horan",
+        "character": "Lord Veneering"
+      },
+      {
+        "name": "Katie West",
+        "character": "Cook"
+      },
+      {
+        "name": "Daniel Tuite",
+        "character": "Gardener"
+      },
+      {
+        "name": "Anjana Vasan",
+        "character": "Maid"
+      },
+      {
+        "name": "Stuart Neal",
+        "character": "Stable Boy"
+      },
+      {
+        "name": "Tomiwa Edun",
+        "character": "Trooper"
+      },
+      {
+        "name": "Joseph Kloska",
+        "character": "Royal Crier's Assistant"
+      },
+      {
+        "name": "Andy Apollo",
+        "character": "Prince's Retinue Member"
+      },
+      {
+        "name": "Craig Mather",
+        "character": "Prince's Retinue Member"
+      },
+      {
+        "name": "Jonny Owen-Last",
+        "character": "Prince's Retinue Member"
+      },
+      {
+        "name": "Nari Blair-Mangat",
+        "character": "Prince's Retinue Member"
+      },
+      {
+        "name": "Michael Jenn",
+        "character": "King's Doctor"
+      },
+      {
+        "name": "Josh O'Connor",
+        "character": "Ballroom Palace Guard"
+      },
+      {
+        "name": "Elina Alminas",
+        "character": "Princess Valentina (uncredited)"
+      },
+      {
+        "name": "Janet Dawe",
+        "character": "Townsperson / Onion Seller (uncredited)"
+      },
+      {
+        "name": "Robert J. Fraser",
+        "character": "Townsperson (uncredited)"
+      },
+      {
+        "name": "Alex Gillison",
+        "character": "Townsperson (uncredited)"
+      },
+      {
+        "name": "Rajesh Kalhan",
+        "character": "Nobleman (uncredited)"
+      },
+      {
+        "name": "Joe Kennard",
+        "character": "Palace Guard (uncredited)"
+      },
+      {
+        "name": "João Costa Menezes",
+        "character": "Ball Dancer (uncredited)"
+      },
+      {
+        "name": "Gino Picciano",
+        "character": "Ball Guest (uncredited)"
+      },
+      {
+        "name": "Julian Seager",
+        "character": "Townsperson / Tavern Drinker (uncredited)"
+      },
+      {
+        "name": "Sarah Sharman",
+        "character": "Market Trader (uncredited)"
+      },
+      {
+        "name": "Zizi Strallen",
+        "character": "Ball Guest (uncredited)"
+      },
+      {
+        "name": "Tom Swacha",
+        "character": "Footman (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Dante Ferretti",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Chris Weitz",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Leslie Tomkins",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Francesca Lo Schiavo",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Sandy Powell",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Patrick Doyle",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Patrick Doyle",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Martin Walsh",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Kenneth Branagh",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "James Mather",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "David Mackie",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Tom Sayers",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Richard Pryke",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Peter Clarke",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "David Barron",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tim Lewis",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Simon Kinberg",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Alexander Witt",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Alexander Witt",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Lucy Bevan",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Haris Zambarloukos",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Hamish Doyne-Ditmas",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Charles Perrault",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Joe Morley",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Luke Redgrave",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Julian White",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Kay Georgiou",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Samir Foco",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Allison Shearmur",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Alison Harvey",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Wakana Yoshihara",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      },
+      {
+        "name": "Alain Lalanne",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "David Watkins",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Gary Freeman",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "David Davenport",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jed Loughran",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Chris Benstead",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Chris Benstead",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "name": "Gerry Turner",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Carol Hemming",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Jason Swanscott",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Orin Beaton",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Simon Trundle",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "François Dumoulin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Charley Henley",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Anthony Caron-Delion",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Steve Dent",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Helen Xenopoulos",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Paul Laugier",
+        "department": "Art",
+        "job": "Standby Art Director"
+      },
+      {
+        "name": "David Balfour",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Heather Noble",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Katherine Tibbetts",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "John Marzano",
+        "department": "Camera",
+        "job": "Helicopter Camera"
+      },
+      {
+        "name": "Orla Carrol",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Rob Killick",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Simon Chase",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Roger Pearce",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Naomi Donne",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Matthew Tucker",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "name": "Norma Webb",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Mike Dowson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Alf Tramontin",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Emma Norton",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jonathan Olley",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Ruth Key",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Patrick Ledda",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Lucy Friend",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Charlotte Law",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Stuart Wilson",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Sparky Tehnsuko",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Vanessa Davies",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Vanessa Baker",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Richard Daldry",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Steve Harding",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Warren J.W. Leathem",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Malcolm Huse",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Caroline Fallon",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "William Dodds",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Graham Martyr",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "James Shearman",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "James Shearman",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Georgina Millett",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Peter Byrne",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Thomas Fennell",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Ana Stichini",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Dean Thompson",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Samar Pollitt",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Kimberly Dunbar",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Nick Davis",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Jackie Yau",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Keith Mead",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Celeste Talaszek",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Rebecca Wolf",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      }
+    ]
+  },
+  "keywords": [
+    "magic",
+    "kingdom",
+    "fairy tale",
+    "prince",
+    "royalty",
+    "orphan",
+    "lost shoe",
+    "evil stepmother",
+    "based on fairy tale",
+    "retelling",
+    "live action and animation",
+    "live action remake"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.",
+    "A girl named Ella (Cinderella) has the purest heart living in a cruel world filled with evil stepsisters and an evil stepmother out to ruin Ella's life. Ella becomes one with her pure heart when she meets the Prince and dances her way to a better life with glass shoes, and a little help from her fairy godmother, of course.",
+    "A live-action retelling of the classic fairytale about a servant stepdaughter who is abused by her jealous stepmother and stepsisters after her father died. Forced to be a servant in her own house, through it all she did not let anything or anyone crush her spirit. Then one day, she meets a dashing stranger in the woods.—gmorato",
+    "Ella is living a great life until her mother dies. Ella's father remarries a \"good\" woman with two wretched daughters. One day Ella's father goes on a journey and never returns because of his death. Ella gets stuck living with her \"family\" until she rides in the woods and meets a Prince. The Prince holds a ball expecting to see Ella there. The stepmother admits her jealousy and locks up the girl, whom she calls Cinderella, in her attic room.",
+    "In a far off kingdom, beautiful Ella lives a happy and carefree life under the watchful eye of her equally loving father even after her mother tragically passed away. But when her father dies unexpectedly, Ella is left in the hands of her evil stepmother and stepsisters. Though she has to work all the household chores, Ella keeps the promise to stay kind and courageous, especially when she meets a haggish woman who happens to be her fairy godmother and falls in love with a mysterious Kit, who in reality is the prince.—Blazer346"
+  ],
+  "synopsis": "Ella (Eloise Webb) lives with her wealthy parents in a beautiful estate in a peaceful kingdom. From a young age, she is taught by her mother (Hayley Atwell) to believe in the existence and presence of magic, allowing her to befriend the many animals on the estate, particularly the mice. Everything is perfect until her mother contracts a fatal illness. On her deathbed, she makes Ella promise that she'll always have courage and show kindness to others.Years later, Ella's (Lily James) father (Ben Chaplin) reveals that an old acquaintance, Lord Tremaine, has passed away and that he has chosen Tremaine's widow (Cate Blanchett), who has two daughters of her own, Drizella (Sophie McShera) and Anastasia (Holliday Grainger), as his second wife. Ella welcomes her step family warmly, despite the stepsisters' less than pleasant attitudes and her needing to protect her friends from her stepmother's cat, Lucifer.Soon after, Ella's father goes abroad on business. Sadly, he becomes ill and also dies. This new loss results in Lady Tremaine revealing her true cold, wicked nature. Desperate for money, she dismisses the servants and forces Ella to do all the work. Even worse, she gives Ella's room to the stepsisters, forces her to sleep in the attic, and won't even let her eat with the family. One morning, after Ella, not wanting to sleep in the cold attic, sleeps by the fireplace, her soot covered face leads her stepsisters to dub her Cinderella, which Lady Tremaine (and even Ella herself) calls her.Crushed by their cruelty, Ella goes for a ride in the woods, where she encounters a hunting party. She meets one of the hunters (Richard Madden), who claims to be an apprentice named Kit who lives in the palace. Unknown to her, he's actually the only son of the land's dying king (Derek Jacobi). Despite never learning her name, Kit (a nickname given to him by his father) is enchanted by Ella's charm, kindness, and unique outlook on life and becomes obsessed with her. Upon learning that he has little time left, the King insists that Kit find a bride at an upcoming ball. Despite the law saying that he must marry a princess, Kit can't get over the mystery girl and talks his father into letting every eligible maiden in the land attend.When the ball is announced, the Tremaine family is ecstatic at the prospect of marrying into royalty. However, when Lady Tremaine refuses to buy Ella a new dress, she fashions one herself from an old dress of her mother's with help from the mice. The night of the ball, Ella tries to join her step family on the way out, but Lady Tremaine, claiming that her mere presence will disgrace them, leads her daughters in ripping up the dress before leaving without her.Ella runs into the garden in tears and encounters an old beggar woman, who reveals herself to be her Fairy Godmother (Helena Bonham Carter). She uses her magic to turn a pumpkin into a magnificent carriage, four mice into horses, two lizards into footmen and a goose into a coachman, as well as turning Ella's dress into a gorgeous blue gown complete with glass shoes before sending her on her way with the warning that the spell only lasts until midnight.At the ball, Ella wins the coveted first dance with Kit, whose true identity she's pleasantly surprised to learn. This irritates the Grand Duke (Stellan Skarsgård), who's secretly promised Kit to a princess, a fact Lady Tremaine overhears. After dancing, Ella and Kit tour the palace and grounds together, slowly falling in love, but before he can learn her name, the clock strikes 11:59, forcing her to flee, dropping one of her glass shoes in the process. She manages to get away before the stroke of midnight and hides the other shoe in her room as a memento.Soon after, the King dies, but not before giving his son permission to find his love. Once it's announced that every maiden in the kingdom is to try on the shoe, Ella goes to her room for hers, only to find Lady Tremaine waiting with it in hand, having figured out her identity from her attitude after the ball.Lady Tremaine demands that Ella make her head of the royal family and give her daughters proper husbands when she becomes queen and when she refuses, Lady Tremaine smashes the shoe and locks Ella in her room. She then brings the shoe and identity of the mystery girl to the Grand Duke and talks him into rewarding her with title of countess and worthy husbands for her daughters. He takes the shattered shoe to Kit, hoping to convince him to forget the mystery girl, but this makes him more determined than ever to find his love.The Grand Duke and the captain of the guards (Nonso Anozie) lead a garrison to try the remaining shoe on all the maidens in the land, all of whom are rejected by its magic, before arriving at the Tremaine estate. When the shoe rejects both stepsisters, they turn to leave, only to hear Ella singing thanks to the mice opening her bedroom window.The Grand Duke tries to leave anyway but is stopped by one of the men, who reveals himself to be Kit in disguise and demands that the captain investigate the sound. Once Ella is found, Lady Tremaine tries to forbid her from trying on the shoe, but is overruled by the captain. Sure enough, the shoe fits and Ella leaves with Kit after forgiving her stepmother, who later is forced to leave the kingdom with her daughters and the Grand Duke, never to return.Kit and Ella are married and crowned king and queen. The Fairy Godmother narrates that they become the land's most beloved monarchs, ruling with the courage and kindness she promised her mother."
+}

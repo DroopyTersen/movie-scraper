@@ -1,0 +1,725 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hO97RyNjBIMfzfFpUjNhsm4zImh.jpg",
+  "id": 70981,
+  "title": "Prometheus",
+  "poster_path": "https://image.tmdb.org/t/p/w500/m7nZCtHJyDLncBUarfM5h5mrppx.jpg",
+  "release_date": "2012-05-30",
+  "vote_average": 6.546,
+  "vote_count": 11513,
+  "popularity": 60.373,
+  "overview": "A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race.",
+  "imdb_id": "tt1446714",
+  "budget": 130000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/prometheus",
+  "revenue": 403354469,
+  "runtime": 124,
+  "tagline": "The Search for Our Beginning Could Lead to Our End",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Dune Entertainment",
+    "Scott Free Productions",
+    "20th Century Fox",
+    "Brandywine Productions"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Noomi Rapace",
+        "character": "Dr. Elizabeth Shaw"
+      },
+      {
+        "name": "Michael Fassbender",
+        "character": "David"
+      },
+      {
+        "name": "Charlize Theron",
+        "character": "Meredith Vickers"
+      },
+      {
+        "name": "Idris Elba",
+        "character": "Janek"
+      },
+      {
+        "name": "Guy Pearce",
+        "character": "Peter Weyland"
+      },
+      {
+        "name": "Logan Marshall-Green",
+        "character": "Charlie Holloway"
+      },
+      {
+        "name": "Sean Harris",
+        "character": "Fifield"
+      },
+      {
+        "name": "Rafe Spall",
+        "character": "Millburn"
+      },
+      {
+        "name": "Emun Elliott",
+        "character": "Chance"
+      },
+      {
+        "name": "Benedict Wong",
+        "character": "Ravel"
+      },
+      {
+        "name": "Kate Dickie",
+        "character": "Ford"
+      },
+      {
+        "name": "Branwell Donaghey",
+        "character": "Mercenary #1"
+      },
+      {
+        "name": "Vladimir \"Furdo\" Furdik",
+        "character": "Mercenary #2"
+      },
+      {
+        "name": "C.C. Smiff",
+        "character": "Mercenary #3"
+      },
+      {
+        "name": "Shane Steyn",
+        "character": "Mercenary #4"
+      },
+      {
+        "name": "Ian Whyte",
+        "character": "Last Engineer"
+      },
+      {
+        "name": "John Lebar",
+        "character": "Ghost Engineer"
+      },
+      {
+        "name": "Daniel James",
+        "character": "Sacrifice Engineer"
+      },
+      {
+        "name": "Patrick Wilson",
+        "character": "Shaw's Father"
+      },
+      {
+        "name": "Lucy Hutchinson",
+        "character": "Young Shaw"
+      },
+      {
+        "name": "Giannina Facio",
+        "character": "Shaw's Mother"
+      },
+      {
+        "name": "Anil Biltoo",
+        "character": "Linguist Teacher"
+      },
+      {
+        "name": "Louisa Staples",
+        "character": "Greeting Message Violinist"
+      },
+      {
+        "name": "James Embree",
+        "character": "Mechanic #1"
+      },
+      {
+        "name": "Florian Robin",
+        "character": "Mechanic #2"
+      },
+      {
+        "name": "Matthew Burgess",
+        "character": "Mechanic #3"
+      },
+      {
+        "name": "Eugene O'Hare",
+        "character": "Mechanic #4"
+      },
+      {
+        "name": "Richard Thomson",
+        "character": "Archaeological Assistant"
+      },
+      {
+        "name": "Philip McGinley",
+        "character": "Archaeological Assistant"
+      },
+      {
+        "name": "Jenny Rainsford",
+        "character": "Archaeological Assistant"
+      },
+      {
+        "name": "Rhona Croker",
+        "character": "Archaeological Assistant"
+      },
+      {
+        "name": "Wambui Wa-Ngatho",
+        "character": "Automated Voice (Swahili) (voice)"
+      },
+      {
+        "name": "Wannaporn Rienjang",
+        "character": "Automated Voice (Thai) (voice)"
+      },
+      {
+        "name": "Zed Sevcikova",
+        "character": "Automated Voice (Czech) (voice)"
+      },
+      {
+        "name": "Sonam Dugdak",
+        "character": "Automated Voice (Tibetan) (voice)"
+      },
+      {
+        "name": "Reynir Thor Eggertsson",
+        "character": "Automated Voice (Icelandic) (voice)"
+      },
+      {
+        "name": "Shin-Ichiro Okajima",
+        "character": "Automated Voice (Japanese) (voice)"
+      },
+      {
+        "name": "Charalambos Dendrinos",
+        "character": "Automated Voice (Greek) (voice)"
+      },
+      {
+        "name": "Berhane Woldegabriel",
+        "character": "Automated Voice (Amharic) (voice)"
+      },
+      {
+        "name": "Annie Penn",
+        "character": "Ship Computer Voice (voice)"
+      },
+      {
+        "name": "Robin Atkin Downes",
+        "character": "Ship Computer Voice (voice)"
+      },
+      {
+        "name": "James Currie",
+        "character": "Weyland Guest (uncredited)"
+      },
+      {
+        "name": "Dan Dewhirst",
+        "character": "Peter Weyland Files (uncredited)"
+      },
+      {
+        "name": "Phill Martin",
+        "character": "Elephantine Engineer (uncredited)"
+      },
+      {
+        "name": "Arnold Montey",
+        "character": "Elephantine Engineer (uncredited)"
+      },
+      {
+        "name": "Matt Rook",
+        "character": "Elder Engineer (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Avy Kaufman",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Dariusz Wolski",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Ridley Scott",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ridley Scott",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David Giler",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Janty Yates",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Arthur Max",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Pietro Scalia",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Walter Hill",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dan O'Bannon",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Ronald Shusett",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "H. R. Giger",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Daniele Massaccesi",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Daniele Massaccesi",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Mark Huffam",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Rob Inch",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Ron Bartlett",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mark P. Stoeckinger",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Nina Gold",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Sonja Klaus",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "John King",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Karen Wakefield",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jana Carboni",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Paul Inglis",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Michael Costigan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Tim Gomillion",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Dennis Rogers",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Marc Streitenfeld",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Damon Lindelof",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Damon Lindelof",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Nana Fischer",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Philip Elton",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Jamie Dixon",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jon Spaihts",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Michael Ellenberg",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Del Spiva",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Neville Page",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Alex Cameron",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Marc Homes",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Claudio Campana",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Tom Whitehead",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Dan O'Connell",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Michael Hertlein",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Margit Pfeiffer",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Julie Feiner",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "John T. Cucci",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Charley Henley",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Doug Hemphill",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Michelle Eisenreich",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Joseph Bonn",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Paul Butterworth",
+        "department": "Visual Effects",
+        "job": "Visual Effects Designer"
+      },
+      {
+        "name": "Richard Stammers",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Anthony Caron-Delion",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Peter Dorme",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Peter Devlin",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Gary Spratling",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Calandra Meredith",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Laura Davison",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Sarah Griggs",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Tom Weaving",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Helen Xenopoulos",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "James Newell",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Victor Ray Ennis",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Trent Claus",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Dick Edwards",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Martin Hill",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Annette Wullems",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Allen Maris",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Kerry Brown",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Perry Evans",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Graham Hall",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "David Morgan",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Gordon Harmer",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Georgiana Sayer",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Bruno de Santa",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Kirsty Whalley",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Amal Baggar",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "name": "Catherine Charlton",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Steve Hart",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Annie Penn",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Daniel S. Irwin",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "David Vyle Levy",
+        "department": "Art",
+        "job": "Conceptual Design"
+      },
+      {
+        "name": "Peta Dunstall",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Michael Queen",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Enzo Angileri",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Trevor Wood",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Miranda Marks",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Aisling Nairn",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Nicky Knowles",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Archie Campbell-Baldwin",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Mark 'Rocky' Evans",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Carolina Jiménez",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "Maher Asaad Baker",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Ferran Domenech",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Mike Potter",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Davide Losi",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      }
+    ]
+  },
+  "keywords": [
+    "android",
+    "alien",
+    "space",
+    "creature",
+    "spin off",
+    "creation",
+    "emergency surgery",
+    "stasis",
+    "archeological dig",
+    "god complex",
+    "cave drawing",
+    "prometheus",
+    "genetic mutation",
+    "origins of life",
+    "2090s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.",
+    "Following a faint trail of clues, the accomplished archaeologist, Doctor Elizabeth Shaw, and her partner, Charlie Holloway, along with a seventeen-man crew, embark on an ambitious, deep-space scientific expedition. Aboard the revolutionary space-exploration starship, USCSS Prometheus, the team sets foot on the rocky terrain of the desolate exomoon, LV-223, in 2093, to investigate the existence of the superior extraterrestrial species known as the \"Engineers\". But, there, inside a mysterious, complex structure of cavernous dark chambers and an intricate underground system of tunnels, more enigmas await. Now, a terrifying discovery threatens not only the outcome of the bold outer-space mission but also the very future of humankind. Is the world prepared for the answers to the fundamental questions of human existence?—Nick Riganas"
+  ],
+  "synopsis": "Millions of years ago, a spacecraft of an advanced humanoid alien race arrives on a primordial planet, possibly Earth. One of the aliens consumes a dark liquid, causing its body to disintegrate and fall into a nearby waterfall. We see its DNA break down and recombine, seeding the planet with the building blocks of life.In the year 2089 on the Isle of Skye off the shore of Scotland, archaeologist couple Elizabeth Shaw (Noomi Rapace) and her boyfriend Charlie Holloway (Logan Marshall-Green) discover a star map in a cave which they record among the remnants of several otherwise unconnected ancient cultures. They interpret this as an invitation from humanity's forerunners. Peter Weyland (Guy Pearce), the elderly founder and CEO of the Weyland Corporation, funds the creation of the scientific deep space research vessel called the USS Prometheus to follow the map to the distant moon of LV-223 several light years from Earth.The ship's crew travels in hibernation stasis at light speed while the android David (Michael Fassbender) stays awake at the pilot control to monitor their entire voyage. In 2093, the ship arrives in the orbit around LV-223 (Note: it is not the same planet first seen in the 1979 movie Alien but is in a nearby region of space, as confirmed by Ridley Scott on Friday June 1st on BBC radio 5 live. Alien is set on LV-426). After being awakened from hibernation, the crew are informed of their mission to find the ancient aliens, called \"Engineers\" who may be the creators of the human race. They also view a holographic message from Weyland himself, who tells them about his funding for the mission and that he has since died. Weyland also informs everyone that Charlie and Elizabeth are in charge of the mission.The Prometheus enters the atmosphere of the planet, encountering turbulence which dissipates when they break through the cloud cover and can see the surface. The Prometheus lands near an alien structure (resembling a large temple-like pyramid) and a team including Shaw, Holloway, and David explores it, while Vickers and Captain Janek (Idris Elba) remain aboard the ship and monitor their progress. Mission director Meredith Vickers (Charlize Theron) orders them to avoid any direct contact and to return if the aliens are found.Inside the pyramid, they discover a pocket of breathable air. In a dank chamber that David unlocks, they find hundreds of cylinder-like artifacts, a monolithic statue of a humanoid head, and the decapitated corpse of a giant alien, thought to be one of the Engineers. Other bodies are later found in the structure, and the species is presumed to be extinct. They view archive footage of holographic Engineers running down the corridors reacting to a long-ago emergency (also of note: the alien Engineers are dressed in the exact same bio-mechanical spacesuits that the dead alien \"Space Jockey\" wears in the crashed spaceship in the original Alien movie, thus confirming the connection between them as one and the same extraterrestrial species).David secretly returns a cylinder to the ship, while the remaining cylinders in the chamber begin leaking a dark fluid, activated by the change in temperature or atmosphere when the chamber was opened. A rapidly approaching storm forces the crew to return to Prometheus, leaving crew members Milburn (Rafe Spall) and Fifield (Sean Harris) stranded in the pyramid structure after becoming lost trying to find the way out. Shaw insists they take the Engineer's head back to the ship with them and they barely make it back alive, David rescuing the couple when they're blown off the loading platform.In the ship, Shaw and medic Ford (Kate Dickie) analyze the Engineer's head, removing a heavy helmet with David's help. They discover that its DNA is identical to that of the human race. Using an electrified needle, they bring the head temporarily back to life. However, exposure to the breathable atmosphere, causes the severed Engineer's head to decompose rapidly and it disintegrates. Later, David investigates the cylinder and discovers several ampoules containing a viscous black fluid.The crew of Prometheus discuss the meaning of life, the android David questions why he was created by man and Shaw questions her own existence as she is infertile and unable to create life.David intentionally infects Holloway with the substance he found within the ampoule, hiding it in a drop of liquid on his finger and briefly dipping it into a glass of champagne Holloway drinks to celebrate their discovery. Later, Shaw and the infected Holloway have sex. Holloway later looks in a mirror and sees his eyes are changing; they are rheumy and he sees a small, silver worm-like organism emerge from one of his corneas.Back inside the structure, Fifield and Milburn see a strange, snake-like creature emerge from a pool of the black fluid that has leaked from the cylinders. When Milburn tries to examine the creature, it quickly grabs his hand and wraps itself around his arm, breaking it in a matter of seconds. When Fifield tries to cut it off, a corrosive fluid (yellow acidic blood) from one of the creatures melts Fifield's helmet, exposing him to the dark liquid leaking from the cylinders. The creature then works its way into his suit and forces itself down his throat.The next morning after the storm subsides, the Prometheus crew returns to the structure and finds Milburn's corpse. David discovers a room containing a living Engineer in stasis and a holographic star map highlighting several distant planetary systems. He watches as holograms of the Engineers activate a navigational system. One of the planets that eventually appears is Earth. Suddenly the system shuts down, leaving the hologram of Earth behind. David finds a single Engineer in a nearby stasis pod and can hear its heart beating.Holloway's infection rapidly ravages his body, and he is rushed back to the ship. As he visibly deteriorates, Vickers refuses to let him aboard, citing quarantine protocols. When he approaches Vickers, begging her to kill him, she burns him to death with a flamethrower. Shaw is devastated.A medical scan reveals that Shaw, despite being sterile, is pregnant. David subdues her in order to return her to Earth in stasis. He takes the cross her father gave her, saying that it could be contaminated. She escapes and uses an automated medical surgery pod in Vickers' quarters to extract a horrific cephalopod-like creature from her abdomen while she is still conscious. Weyland is found to have been in stasis aboard the ship, and it's revealed that Vickers is his daughter. Weyland explains to Shaw that he intends to ask the Engineers to help him avoid his impending death.A mutated Fifield is discovered just outside the hanger bay and attacks and kills several crew members before being killed himself. Janek theorizes that the moon they are on was used by the Engineers as a military base until they lost control of their biological weapons, namely the cylinders and the black fluid they contain. The remaining crew return to the structure and awaken the Engineer, who is occupying what is discovered to be a space ship (the same design as the derelict alien space ship seen in Alien (1979)).David speaks an alien language to the Engineer, asking him why they made mankind and asking him to extend the life of his own creator, Mr. Weyland. The Engineer responds by ripping his head out and killing Weyland and Ford. Shaw escapes from the alien ship as it is activated by the Engineer.The still-active David suggests the Engineer is going to release the ampoules of black fluid on Earth, thus killing every living creature in the planet. Vickers orders Janek to return to Earth, but Shaw convinces him to stop the Engineer's ship. Janek and his two surviving crewmen take off and crash the Prometheus into the Engineer's ship while Vickers flees in an escape pod. The disabled Engineer ship crashes onto the planet, falling onto Vickers, crushing her. Shaw barely escapes being crushed herself.Shaw goes to the escape pod to retrieve supplies and finds that her aborted-but-still-alive alien offspring has grown to gigantic size. The Engineer survives the crash, enters the escape pod and attacks Shaw, who releases the tentacled creature. It subdues the Engineer by thrusting an ovipositor down its throat. Shaw believes she's stranded on the planet until David contacts her and tells her that there are more of the Engineers ships elsewhere on the planet. She recovers David's remains from the alien ship, taking back the cross David had taken from her, and together they travel to and activate another Engineer ship. Shaw and the remains of android David then take off to travel to the Engineers' homeworld, Paradise, in an attempt to understand why they created humanity and why they later attempted to destroy it.In the final shot, in Vickers' escape pod, an alien creature (very similar to the xenomorph seen in the other Alien (1979) movies) bursts out of the dying Engineer's chest."
+}

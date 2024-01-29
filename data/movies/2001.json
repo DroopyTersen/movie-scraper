@@ -1,0 +1,931 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/syO4HCR4t3tz6TX9CbYlW9fTQX3.jpg",
+  "id": 2001,
+  "title": "We Own the Night",
+  "poster_path": "https://image.tmdb.org/t/p/w500/fcb2c9BcRc21iiWih23FQfT39uB.jpg",
+  "release_date": "2007-10-12",
+  "vote_average": 6.694,
+  "vote_count": 1277,
+  "popularity": 19.552,
+  "overview": "A New York nightclub manager tries to save his brother and father from Russian mafia hitmen.",
+  "imdb_id": "tt0498399",
+  "budget": 21000000,
+  "homepage": "",
+  "revenue": 55033767,
+  "runtime": 118,
+  "tagline": "Two brothers on opposite sides of the law. Beyond their differences lies loyalty.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "2929 Productions",
+    "Nick Wechsler Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Robert 'Bobby' Green"
+      },
+      {
+        "name": "Mark Wahlberg",
+        "character": "Cpt. Joseph 'Joe' Grusinsky"
+      },
+      {
+        "name": "Eva Mendes",
+        "character": "Amada Juarez"
+      },
+      {
+        "name": "Robert Duvall",
+        "character": "Dep. Chief Albert 'Burt' Grusinsky"
+      },
+      {
+        "name": "Alex Veadov",
+        "character": "Vadim Nezhinski"
+      },
+      {
+        "name": "Paul Herman",
+        "character": "Spiro Giavannis"
+      },
+      {
+        "name": "Antoni Corone",
+        "character": "Lt. Michael Solo"
+      },
+      {
+        "name": "Tony Musante",
+        "character": "Cpt. Jack Shapiro"
+      },
+      {
+        "name": "Katie Condidorio",
+        "character": "Hazel"
+      },
+      {
+        "name": "Danny Hoch",
+        "character": "Louis 'Jumbo' Falsetti"
+      },
+      {
+        "name": "Oleg Taktarov",
+        "character": "Pavel Lubyarsky"
+      },
+      {
+        "name": "Dominic Colón",
+        "character": "Freddie"
+      },
+      {
+        "name": "Joseph D'Onofrio",
+        "character": "Bloodied Patron"
+      },
+      {
+        "name": "Yelena Solovey",
+        "character": "Kalina Buzhayev"
+      },
+      {
+        "name": "Moni Moshonov",
+        "character": "Marat Buzhayev"
+      },
+      {
+        "name": "Maggie Kiley",
+        "character": "Sandra Grusinsky"
+      },
+      {
+        "name": "Craig Walker",
+        "character": "Russell De Keifer"
+      },
+      {
+        "name": "Claudia Lopez",
+        "character": "Claudia"
+      },
+      {
+        "name": "Edward Shkolnikov",
+        "character": "Eli Mirichenko"
+      },
+      {
+        "name": "Katya Savina",
+        "character": "Eli & Masha's Daughter"
+      },
+      {
+        "name": "Matthew Djentchouraev",
+        "character": "Eli & Masha's Son"
+      },
+      {
+        "name": "Scott Nicholson",
+        "character": "Nat the Cop"
+      },
+      {
+        "name": "Robert C. Kirk",
+        "character": "Sgt. Provenzano"
+      },
+      {
+        "name": "Al Linea",
+        "character": "Portly Cop"
+      },
+      {
+        "name": "Teddy Coluca",
+        "character": "Uniformed Cop #1"
+      },
+      {
+        "name": "Frank Girardeau",
+        "character": "Police Chaplain"
+      },
+      {
+        "name": "Joseph Coffey",
+        "character": "Uniformed Cop #2"
+      },
+      {
+        "name": "Jose Edwin Soto",
+        "character": "Latino Man"
+      },
+      {
+        "name": "Greg Wilson",
+        "character": "Poker Player"
+      },
+      {
+        "name": "Ed Koch",
+        "character": "Mayor"
+      },
+      {
+        "name": "Fred Burrell",
+        "character": "Commissioner Ruddy"
+      },
+      {
+        "name": "Mike Massimino",
+        "character": "Hospital Guard"
+      },
+      {
+        "name": "Edward Conlon",
+        "character": "Hospital Guard #2"
+      },
+      {
+        "name": "Sharon Wilkins",
+        "character": "Nurse"
+      },
+      {
+        "name": "Ross Brodar",
+        "character": "Tattooed Man"
+      },
+      {
+        "name": "Francis Toumbakaris",
+        "character": "Slavic Youth"
+      },
+      {
+        "name": "Hoon Lee",
+        "character": "Emergency Services Driver"
+      },
+      {
+        "name": "Barbara Ann Davison",
+        "character": "Neighbor Lady"
+      },
+      {
+        "name": "Irwin Gray",
+        "character": "Neighbor"
+      },
+      {
+        "name": "Luigi Scorcia",
+        "character": "Luigi"
+      },
+      {
+        "name": "Miriam Cruz",
+        "character": "Amanda's Mother"
+      },
+      {
+        "name": "Doug Torres",
+        "character": "Schneider"
+      },
+      {
+        "name": "Tony Guida",
+        "character": "Vitt the Guard"
+      },
+      {
+        "name": "Robert G. McKay",
+        "character": "Riker's Desk Guard"
+      },
+      {
+        "name": "Blaise Corrigan",
+        "character": "Uniformed Police Officer"
+      },
+      {
+        "name": "Karl Bury",
+        "character": "Cop"
+      },
+      {
+        "name": "Joe Forbrich",
+        "character": "Guard"
+      },
+      {
+        "name": "Robert A. Pennacchia",
+        "character": "Guard"
+      },
+      {
+        "name": "Richard Petrocelli",
+        "character": "Tough Looking Cop"
+      },
+      {
+        "name": "Nik Pjeternikaj",
+        "character": "Albanian Drug Lord"
+      },
+      {
+        "name": "Jamal Weathers",
+        "character": "Parabolic Engineer"
+      },
+      {
+        "name": "Elliot Santiago",
+        "character": "El Caribe Bouncer #1"
+      },
+      {
+        "name": "Jeff Ward",
+        "character": "El Caribe Bouncer #2"
+      },
+      {
+        "name": "Christopher Place",
+        "character": "El Caribe Party Patron #1"
+      },
+      {
+        "name": "Samantha MacIvor",
+        "character": "El Caribe Party Patron #2"
+      },
+      {
+        "name": "Bob Colletti",
+        "character": "El Caribe Party Patron #3"
+      },
+      {
+        "name": "Aaron Vexler",
+        "character": "El Caribe Party Patron #4"
+      },
+      {
+        "name": "Victor Tatarkin",
+        "character": "Vadim's Goon #2"
+      },
+      {
+        "name": "Patrick M. Walsh",
+        "character": "Eli Bodyguard"
+      },
+      {
+        "name": "Salvatore Inzerillo",
+        "character": "Police Reporter"
+      },
+      {
+        "name": "Ava Lee Scott",
+        "character": "Veronica"
+      },
+      {
+        "name": "Douglas J. Aguirre",
+        "character": "Bobby Green's Bodyguard"
+      },
+      {
+        "name": "Ashley Avis",
+        "character": "Vadim's Girlfriend"
+      },
+      {
+        "name": "James Balsamo",
+        "character": "Club Dancer"
+      },
+      {
+        "name": "Edwin J. Birmingham",
+        "character": "ESU Officer"
+      },
+      {
+        "name": "Robert Bizik",
+        "character": "Police Officer"
+      },
+      {
+        "name": "John Borras",
+        "character": "Riker's Prison Guard"
+      },
+      {
+        "name": "Mike Burke",
+        "character": "Pavel's Driver"
+      },
+      {
+        "name": "Dominick Cicco",
+        "character": "Police Officer"
+      },
+      {
+        "name": "J.W. Cortes",
+        "character": "Bouncer"
+      },
+      {
+        "name": "Erin Deighan",
+        "character": "El Caribe Party Patron"
+      },
+      {
+        "name": "Tony Devon",
+        "character": "Body Guard"
+      },
+      {
+        "name": "Turi Haim",
+        "character": "Dancer"
+      },
+      {
+        "name": "Gina Hernandez",
+        "character": "Policeman's Wife"
+      },
+      {
+        "name": "Philip E Jones",
+        "character": "Strip Club Visitor"
+      },
+      {
+        "name": "Edward M. Kelahan",
+        "character": "Bar Patron"
+      },
+      {
+        "name": "Nina Lisandrello",
+        "character": "Bobby's Friend"
+      },
+      {
+        "name": "Bernadette Lords",
+        "character": "El Caribe Party Patron"
+      },
+      {
+        "name": "Robert Nardi",
+        "character": "TNT Cop in Shootout"
+      },
+      {
+        "name": "Karen Nazarov",
+        "character": "Slavic Drug Packager"
+      },
+      {
+        "name": "Tyler Noble",
+        "character": "Bobby's Friend"
+      },
+      {
+        "name": "Loukas Papas",
+        "character": "El Caribe Party Guest"
+      },
+      {
+        "name": "Martin Pfefferkorn",
+        "character": "Perp in Precinct"
+      },
+      {
+        "name": "Alexandra Tejeda Rieloff",
+        "character": "Cop's Wife"
+      },
+      {
+        "name": "Marilyn Salisbury",
+        "character": "Mourner"
+      },
+      {
+        "name": "Kristen Schiano",
+        "character": "Nightclub Guest"
+      },
+      {
+        "name": "Aaron Scotti",
+        "character": "El Caribe Party Patron"
+      },
+      {
+        "name": "Richard Shankman",
+        "character": "TNT Detective"
+      },
+      {
+        "name": "Sybelle Silverphoenix",
+        "character": "Club Goer"
+      },
+      {
+        "name": "Christopher Stadulis",
+        "character": "Police Officer"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Joaquin Phoenix",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Wojciech Kilar",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Douglas Aibel",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Nick Wechsler",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mark Wahlberg",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "James Gunn",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "J.J. Abrams",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Joaquín Baca-Asay",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Billy Miller",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Sarah E. McMillan",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Andy Malcolm",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "James Gray",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "James Gray",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Marc Butan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Axelrad",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Ford Wheeler",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Catherine Davis",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Mark Cuban",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Todd Wagner",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Anthony Katagas",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Anthony Katagas",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Mike Upton",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Scott Rosenstock",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Peter von Bartheld",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Ronald G. Roumas",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Gary Rizzo",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "John Cenatiempo",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Kelly Gleason",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Craig Haagensen",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Janice Williams",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Bradley Parker",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Stephanie Holbrook",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Aaron Vexler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jimmy Price",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Tom Cross",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Alan Freedman",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Donald Mowat",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kent Sparling",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Couper Samuelson",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Samantha MacIvor",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Thomas Varga",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "John J. Ciccimarro",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Douglas Murray",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Douglas Murray",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "James C. Feng",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Stephen Consentino",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Veronica Lupu",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Robert Shoup",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Pierre Rovira",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Brianne Zulauf",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Rebecca Fulton",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Wayne Paull",
+        "department": "Camera",
+        "job": "\"C\" Camera Operator"
+      },
+      {
+        "name": "Margot Boccia",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Craig Lindberg",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Caoimhe Doyle",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Susan Starr",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Kelly Port",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Milton Buras",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Eric Swanek",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Jovan Vitagliano",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Michael Clancy",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Brian McClean",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Mary Cooke",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Angie Rubin",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Dallas Hartnett",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Doug Torres",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Isabel Henderson",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Samuel H. Hinckley",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Kerin Ferallo",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Kevin Flatow",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Anne Joyce",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Christopher Spelman",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "name": "Sarah Dennis",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Alisa M. Colley",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Peter Phillips",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Daniel Tresca",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Gayle Vangrofsky",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Kathi Scharer",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Frank Rinato",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "David Cooney",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Francisco Ortiz",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Bob Fredrickson",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Ryder Washburn",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Nathan Nance",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Patrick McDonald",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Lance Mayer",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Melvin Pukowsky",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Robert Currie",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Elizabeth Umstead",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Jeong-Hwa Fonkalsrud",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jeff Naparstek",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Patrick Mangan",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Patrick Mangan",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "name": "Bill Kolpin",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Greg Finkel",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Edward Iacobelli",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Sam Perry",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Mark Simon",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Justine M. Cote",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Brian Kenyon",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Les McDonough",
+        "department": "Directing",
+        "job": "Additional Second Assistant Director"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "parent child relationship",
+    "bratva (russian mafia)",
+    "gangster",
+    "cocaine",
+    "nightclub",
+    "investigation",
+    "police chief",
+    "arrest",
+    "murder",
+    "shootout",
+    "hospital",
+    "raid",
+    "drugs",
+    "pursuit",
+    "1980s",
+    "protective custody",
+    "brooklyn"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A New York City nightclub manager tries to save his brother and father from Russian Mafia hitmen.",
+    "Brooklyn, 1988. Crime is rife, especially drugs and drug violence. A Russian thug is building his heroin trade, while everyone laughs at the cops. Brothers have chosen different paths: Joe has followed his father Bert into New York's Finest; he's a rising star. Bobby, who uses his mother's maiden name, manages a club. Bobby too is on the rise: he has a new girlfriend and a green-light to develop a Manhattan club. Joe and Bert ask him to help with intelligence gathering; he declines. Then, Joe raids Bobby's club to arrest the Russian. From there, things spiral out of control: the Russian puts out a hit on Joe, personal losses mount, and Bobby's loyalties face the test.—<jhailey@hotmail.com>"
+  ],
+  "synopsis": "New York, November 1988: A new breed of narcotics has swept the great city, bringing with it a ferocious crime wave more terrifying than any in recent memory. Outmanned and outgunned by the new criminal order, the police find themselves burying one of their own at the rate of two a month. An all-out war rages, threatening to engulf guilty and innocent alike.Bobby Green (Joaquin Phoenix) is caught in the crossfire. Manager of a Russian nightclub in Brighton Beach owned by his mentor Marat Buzhayev (Moni Moshonov) and frequented by gangsters like Buzhayev's nephew Vadim Nezhinski (Alex Veadov), Bobby keeps his distance, not wanting to get involved. Despite his hedonistic, amoral lifestyle, he is committed to his girlfriend Amada (Eva Mendes) and has ambitions to open another club in Manhattan for Buzhayev.Bobby has a secret, however, which he guards closely. His brother is Police Captain Joseph Grusinsky (Mark Wahlberg), who has followed in the footsteps of their father, legendary Deputy Chief Bert Grusinsky (Robert Duvall). Bobby's already strained relationship with his father and brother is tested when Bert warns his son that this is a war, and he's going to have to choose a side.He can no longer remain neutral when his brother is badly wounded in an assassination attempt, and Bobby discovers his father could be next. Realizing they will only be safe when Nezhinski and his organization are destroyed, Bobby and Joseph join forces for an all-out assault. Together, they'll try to prove the NYPD's '80s rallying cry in the war on drugs: We Own the Night.--------------------------------------------------------------\nBrooklyn, November 1988Bobby Green (Joaquin Phoenix) kisses and fondles his girlfriend Amada Juarez lying on a sofa. A knock on the door interrupts them to tell them there is a problem. Bobby leaves and goes out into a large bustling nightlcub, the El Caribe. Downstairs topless women dance on the bar and men are fighting, Bobby helps to quell the commotion. He tells his assistant Jumbo Falsetti he is going across the street to talk to the owner.There he is greeted warmly by an older Russian couple and their guests in a modest house. The older man, Marat Buzhayev hints at new plans and the women give homemade desserts to Bobby. He apologizes and leaves. Amada puts on an overcoat and tells some friends tonight she is meeting \"the family\".At a large Polish catholic church in Queens there is a special function for Capt. Joe Grusinsky. Bobby and Amada park nearby and share a joint before going in. In the crowded basement they make their way to a small group of senior police officers. Bobby greets his father, Deputy Chief Bert Grusinsky and brother Joe and the other two men. The Chief says they need to talk alone and the five men go upstairs to the pews. Joe announces he will be the head of a narcotics unit next week. The police suspect the owner of Bobby's nightclub is involved in smuggling drugs into the USA. Bobby refuses to believe it. Bert then talks to Bobby alone and reproaches him for his lifestyle, Puerto Rican girlfriend, and using his late mother's maiden name. Upset, Bobby and Amada leave, as Joe is welcomed to the stage and his new promotion.Later at Bobby's apartment Amada says she is ready to move in and gives Bobby a gold chain gift. Other guests are there and Jumbo arrives with recreational drugs, everyone parties hard.In the evening Bobby once again goes to the Buzhayev house. Marat this time talks about opening another nightclub, Bobby is enthusiastic and has some grand ideas. It is noted Marat's main business is fur importing.Back at the club Bobby and Jumbo chat, they notice Amada schmoozing with Vadim Nezhinski. Jumbo mentions a rumour that Vadim had someone's head cutoff. Suddenly a group of police led by Joe Grusinsky raid the bar frisking patrons for drugs. Joe taunts Vadim and joyfully tears up a large money roll. Bobby is treated roughly by the cops and one smears black ink over his face. Many people are arrested. Back at the station one of the arrested Russians cuts his own throat and bleeds out. In the morning Bert comes to take him out but a disheveled Bobby refuses the help and flips the older man the finger. Cleaned up, he goes to Joe's office. Joe apologizes but the two brothers end up fighting with harsh words.Joe parks his car in front of his house and struggles with a bag of groceries. A hooded man appears with a handgun pointed at Joe, then shoots him in the face.Bert is told while working out a boxing gym, he half faints.In the apartment, there's many people partying and a cash money poker game. The phone rings, Amada answers but it's for Bobby. It is Michael, one of the cops from the church telling Bobby Joe has been shot but is at Jamaica Hospital and still alive. Shocked, Bobby goes to the hospital right away. Bert once again verbally chews out Bobby.Joe will survive but will need several months hospitalization. Joe goes to see Amada at her mother's place.At a diner Vadim comes to Bobby and offers to show him his business operation. They think Bobby can help them spread their product through his social connections. Bobby is hesitant. Vadim scoffs at the local police then hints that they shot Joe and are prepared to get Bert next.Bobby goes to warn his father. The Chief thanks him but doesn't plan on any action, Bobby is dismissed. The next day, alone with Michael, Bobby offers to go undercover, if the cops can catch Vadim in possession of his big drug shipment everything will be OK. The cop gives Bobby a zippo lighter with a hidden mic, they arrange a safety word \"feather\".Bobby makes contact with Pavel to say he wants in. At the drug house Bobby watches the Russians cut and repack white powder. Vadim is suspicious and frisks Bobby. He wonders why there is both a lighter and matches. He takes the lighter apart and finds the bug just as Bobby manages to say the word \"feather\". Police storm the building shooting and in a wild gunfight Bobby jumps out of a 2nd storey window and lands in pain. Vadim is arrested but while sitting handcuffed in a squad car he hears Bert coming to the scene loudly expressing concern for his \"son\". Bert rides in the ambulance with the badly injured Bobby.Joe is released after four months in the hospital. At the welcome home party Bobby and Amada are greeted as family. Joe, Bert and Michael discuss Vadim as Bobby listens. Amada leaves to visit her mother, Bobby finds her there with Jumbo, they leave and Bobby warns her it was too risky.Joe goes to the jail to see Vadim but finds out he has been transferred to a hospital. Bert then goes to pick up Bobby and Amada as it turns out Vadim has escaped. They decide to change motels, Bert is to lead the way, Bobby and Amada in a car with a driver and a third car following. Shortly after leaving the Cue Motor Inn Bobby notices the trailing guard car is missing. Suddenly a car comes alongside, a gun is extended and Bobby's driver is shot and killed.Bobby takes control of the car as the assassins move ahead to attack Bert. A wild car chase through heavy traffic and rain, Bobby sees his father is outgunned and killed in front of him. The cars come to a crashing stop.Bobby and Amada are now under guard at the Kennedy Airport Sheraton. Joe and Bobby grieve for their father. There is an honour guard full colours funeral for Chief Grusinksy. Marat Buzhayev attends the funeral. One evening Amada notices Bobby is studying for the police entrance exam. She is furious he has decided on this dangerous career change without talking to her about it first. Exeunt Amada.Bobby is sworn in as a cop due to his \"special knowledge\" but he will have to go through the Academy later. He will be a plainclothes cop helping at the precinct. He goes to the El Caribe to talk to Jumbo. Jumbo doesn't know much about the drug trade but lets slip he knew about the Cue Motor Inn. Out back Bobby assaults Jumbo and gets more info, Jumbo had told Buzhayev about the motel and then reveals the Russian will be up to something on Tuesday.At a cop war council they plan how to get Buzhayev and Vadim. Bobby remembers Buzhayev takes his grandkids horse riding every Tuesday, Joe approves a raid at the stables. Later Joe gives Bobby their father's revolver.At a derelict site by the water the Russian gangsters meet, observed by armed cops hiding in the weeds. Inside Buzhayev demonstrates the drug smuggling method. They rinse a fur pelt in a basin of water so the drugs are dissolved. Once the water is evaporated a pure white powder remains. Joe starts the raid and a gunfight erupts. Joe falls to the ground unhurt but gun shy. Bobby grabs the shotgun and advances with the other cops. He chases Vadim into a field of tall weeds. Unable to find him he goes back to the cops who have arrested Buzhayev. The cops throw smoke bombs and flares into the weeds to flush Vadim but Bobby can't wait. He goes into the smoky burning weeds, and finally shoots Vadim.Sometime later, at the Police Academy grad ceremony, Joe says he is getting an admin job so he can spend more time with his 3 kids. Robert Grusinsky is named the valedictorian. Bobby thought he saw Amada at the ceremony but then realizes its only another woman who looks like her. He feels upset about it considering how much he misses her."
+}

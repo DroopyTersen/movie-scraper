@@ -1,0 +1,625 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/iFPpb2KIWKwBfyqSJivE4JegFPP.jpg",
+  "id": 10895,
+  "title": "Pinocchio",
+  "poster_path": "https://image.tmdb.org/t/p/w500/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
+  "release_date": "1940-02-23",
+  "vote_average": 7.1,
+  "vote_count": 5559,
+  "popularity": 40.037,
+  "overview": "When loving Geppetto creates a wooden puppet, his wish is granted when it comes to life as a little wooden boy named Pinocchio. With his faithful friend and conscience Jiminy Cricket by his side, Pinocchio, embarks on fantastic adventures that his bravery, loyalty and honesty until triumphs in his triumphs in his quest for his heart's desire: to become a real boy.",
+  "imdb_id": "tt0032910",
+  "budget": 2600000,
+  "homepage": "https://movies.disney.com/pinocchio",
+  "revenue": 164000000,
+  "runtime": 88,
+  "tagline": "When you wish upon a star, your dreams come true.",
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "production_companies": [
+    "Walt Disney Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Dickie Jones",
+        "character": "Pinocchio / Alexander (voice) (uncredited)"
+      },
+      {
+        "name": "Cliff Edwards",
+        "character": "Jiminy Cricket (voice) (uncredited)"
+      },
+      {
+        "name": "Christian Rub",
+        "character": "Geppetto (voice) (uncredited)"
+      },
+      {
+        "name": "Evelyn Venable",
+        "character": "The Blue Fairy (voice) (uncredited)"
+      },
+      {
+        "name": "Walter Catlett",
+        "character": "'Honest John' Worthington Foulfellow (voice) (uncredited)"
+      },
+      {
+        "name": "Mel Blanc",
+        "character": "Gideon (hiccup) (voice) (uncredited)"
+      },
+      {
+        "name": "Charles Judels",
+        "character": "Stromboli / The Coachman (voice) (uncredited)"
+      },
+      {
+        "name": "Frankie Darro",
+        "character": "Lampwick (voice) (uncredited)"
+      },
+      {
+        "name": "Don Brodie",
+        "character": "Carnival Barker (voice) (uncredited)"
+      },
+      {
+        "name": "Marion Darlington",
+        "character": "Birds (voice) (uncredited)"
+      },
+      {
+        "name": "John McLeish",
+        "character": "Carnival Barker (voice) (uncredited)"
+      },
+      {
+        "name": "Patricia Page",
+        "character": "Marionettes (voice) (uncredited)"
+      },
+      {
+        "name": "Thurl Ravenscroft",
+        "character": "Monstro the Whale (uncredited)"
+      },
+      {
+        "name": "Stuart Buchanan",
+        "character": "Carnival Barker (voice) (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Walt Disney",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Paul J. Smith",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Ted Sears",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "name": "Otto Englander",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "name": "Webb Smith",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "name": "Frank Churchill",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Leigh Harline",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Leigh Harline",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Art Babbitt",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Jack Campbell",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ben Sharpsteen",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Bill Roberts",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Bill Roberts",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "name": "Hamilton Luske",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Jim Handley",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "T. Hee",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "T. Hee",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "name": "Wilfred Jackson",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Wilfred Jackson",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "name": "Eric Larson",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Eric Larson",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Oskar Fischinger",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Wolfgang Reitherman",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Wolfgang Reitherman",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Bill Peet",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "name": "Ken Anderson",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Frank Thomas",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Frank Thomas",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Erdman Penner",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "name": "Carlo Collodi",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "William Cottrell",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "name": "Joseph Sabo",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "name": "Aurelius Battaglia",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "name": "John Lounsbery",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Joe Grant",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Lloyd L. Richardson",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Dick Kelsey",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "John Walbridge",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Jack Kinney",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Jack Kinney",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "name": "John P. Miller",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Charles A. Nichols",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ward Kimball",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ward Kimball",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Les Clark",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Milt Kahl",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Milt Kahl",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Jack Bradbury",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Don Lusk",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ollie Johnston",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "John Elliotte",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Preston Blair",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ray Huffine",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "name": "Don Towsley",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "George Rowley",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Edwin Aardal",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Merle Cox",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "name": "Bill Tytla",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Graham Heid",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "McLaren Stewart",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Thor Putnam",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Claude Coats",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "name": "Marvin Woodward",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Larry Lansburgh",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Joshua Meador",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bruce Bushman",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Don Patterson",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "John McManus",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Don Tobin",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Kendall O'Connor",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Art Palmer",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Fred Moore",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Fred Moore",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Hugh Fraser",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Albert Hurter",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Charles Philippi",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Norman Ferguson",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Norman Ferguson",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "name": "Bernard Wolf",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Hugh Hennesy",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Charles Payzant",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Louis Debney",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Ugo D'Orsi",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Robert Martsch",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Norman Tate",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "John Hubley",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Lynn Karp",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ed Starr",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "name": "Mike Holoboff",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Ford Beebe Jr.",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Campbell Grant",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "George Lowerre",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Terrell Stapp",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Al Zinnen",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Martin Provensen",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Bob Broughton",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Bob McCrea",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ned Washington",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "name": "Chuck Wheeler",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Edward H. Plumb",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Arthur Heinemann",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "keywords": [
+    "rescue",
+    "sea",
+    "child abuse",
+    "based on novel or book",
+    "magic",
+    "whale",
+    "italy",
+    "lie",
+    "fairy",
+    "carnival",
+    "wish",
+    "puppet",
+    "nose",
+    "conscience",
+    "wish fulfillment",
+    "toy comes to life",
+    "animal cruelty",
+    "child slavery",
+    "pinocchio",
+    "cartoon donkey"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "A living puppet, with the help of a cricket as his conscience, must prove himself worthy to become a real boy.",
+    "Inventor Geppetto creates a wooden marionette called Pinocchio. His wish for Pinocchio to be a real boy is unexpectedly granted by a fairy. The fairy assigns Jiminy Cricket to act as Pinocchio's \"conscience\" and keep him out of trouble. Jiminy is not too successful in this endeavor and most of the film is spent with Pinocchio deep in trouble.—Tim Pickett <quetzal@yoyo.cc.monash.edu.au>",
+    "Toymaker Gepetto creates a wooden puppet toy named Pinocchio and wishes on a star that he would be a real boy. A kindly Blue Fairy appears and grants his wish thus making Pinocchio come alive. Pinocchio learns that he must prove himself worthy in order to make his father's wish come true. With help from tiny Jiminy Cricket, Pinocchio comes across challenges of temptation such as a sly fox and his cat sidekick and a greedy puppeteer. His final challenge comes when he figures out his father goes missing by getting swallowed by the massive whale Monstro and must go find and save him.",
+    "Jiminy Cricket finds himself at the home of Geppetto, a simple carpenter and toy-maker. Geppetto is old and his only company is his cat, Figaro, and goldfish, Cleo. He has made a toy puppet, Pinocchio, and wishes that the puppet was a real boy. To his astonishment, this comes true. Pinocchio now sets about behaving like a real boy, with Jiminy as his guide and conscience, but the novelty of being a wooden boy soon attracts the attention of some unscrupulous characters.—grantss",
+    "In Pinocchio, Walt Disney's adaptation of Carlo Collodi's 1883 children's fantasy novel, the story depicts the desire of a freshly carved wooden puppet to become a real boy: a living, breathing kid that can talk and walk without strings. Indeed, this fervent yearning for a wholesome life becomes real when the angelic Blue Fairy hears the romantic wish of kindly puppet-maker Geppetto and decides to vitalise Pinocchio, his inanimate creation. However, as all human beings are incomplete without a conscience, minuscule but wise Jiminy Cricket becomes Pinocchio's faithful companion and the voice of reason--an unshakable supporter entrusted with the crucial task of guiding the gullible boy through life's constant distractions. Now Pinocchio has everything he needs to succeed. Will the smiling boy made of enchanted pine wood manage to be brave, truthful, and unselfish?—Nick Riganas"
+  ],
+  "synopsis": "The film opens with Jiminy Cricket sitting in a library singing \"When You Wish Upon A Star\". Addressing the camera, he starts to tell the audience why he believes in such a thing. Opening up a storybook of \"Pinocchio\", he explains how he came to the house of woodcarver Geppetto and his pets Figaro the cat and Cleo the fish. Geppetto has just made a little wooden puppet called Pinocchio, whom he loves dearly (\"Little Wooden Puppet\"). Before he goes to bed, Geppetto wishes upon the evening star that Pinocchio would become a real, live boy. As Geppetto sleeps, the Blue Fairy arrives and grants the wish partially; Pinocchio has come to life, but he is still a puppet and must prove himself worthy before becoming a real boy. However, being naive, he requires some guidance, and the Blue Fairy appoints Jiminy Cricket to be his \"conscience\". The cricket tells Pinocchio that anytime he needs Jiminy, all he needs to do is whistle (\"Give a Little Whistle\").The next morning, Geppetto sends his son off to school. But Jiminy Cricket is still asleep! Pinocchio, alone and full of good intentions, heads off to school, but is sidetracked by the wily fox John Worthington Foulfellow and his simpleton accomplice Gideon the cat. Recognizing his uniqueness, the smooth-talking crooks decide to sell Pinocchio to marionette master Stromboli, whose travelling show is in town. Convincing Pinocchio that this is his chance to become an actor, Honest John and Gideon take the puppet to Stromboli (\"Hi-Diddle-Dee-Dee\"). Jiminy Cricket jumps in and tries to stop Pinocchio from being taken away, but he is too late; Pinocchio becomes a success as part of Stromboli's show, dancing alongside normal puppets in a European-themed musical extravaganza (\"I've Got No Strings\"). Jiminy Cricket, feeling that he failed at his job, walks off into the night.Pinocchio tries to return home to Geppetto. Stromboli, not wanting to lose such a cash cow, locks the puppet in a bird cage. Alone in Stromboli's dark and damp caravan, Pinocchio whistles for Jiminy Cricket. He finds Pinocchio, but is not strong enough to unlock the bird cage. Suddenly, the Blue Fairy appears. Not wanting to admit he was naughty, Pinocchio tells a series of lies, but with every lie his nose grows longer. The Blue Fairy forgives him and lets him out of the cage, but warns him that he'll never become human if he keeps misbehaving. (She also restores his nose to its original size.)Pinocchio and Jiminy Cricket escape from Stromboli and head for home. Yet it isn't long before the duo become separated, and once more Pinocchio bumps into Honest John and Gideon, who have been hired by a dubious coachman to round up boys to take to the anarchic Pleasure Island amusement park. Jiminy, realizing that once again he has been too late, follows Pinocchio to Pleasure Island, where boys can be naughty as much as they like and treat themselves to beer and cigars. But there's a catch to all this; since they are acting like jackasses, the magic of the island gradually turns them into donkeys, which the coachman sells into a lifetime of humiliation and slavery in circuses and mines. Pinocchio starts to change into a donkey, growing long ears and a tail, but before the transformation is complete he manages to flee the horrible amusement park, and returns home. To his dismay, his father isn't there.A dove arrives with a note from the Blue Fairy explaining that Geppetto has gone to sea to search for his lost son and has been swallowed by the whale Monstro. Determined to save his father, Pinocchio and his reluctant conscience journey to the bottom of the sea. They find Geppetto in the belly of the whale, and escape by setting a fire in the belly of the sea monster, who sneezes them right out. In revenge, Monstro destroys Geppetto's raft. Without regard for his own safety, Pinocchio saves Geppetto from drowning but at the cost of his own life. Geppetto's wish is finally granted. Pinocchio's sacrifice has proved to the Blue Fairy that he is worthy, and he is brought back to life not as a puppet but as a real live boy.While Geppetto, Pinocchio, Figaro and Cleo celebrate, Jiminy Cricket steps outside to look at the wishing star. The cricket has now also proved himself to be a good conscience, and receives a gold badge."
+}

@@ -1,0 +1,845 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cnD5ygO97xFY8wQPwLP5v9saus7.jpg",
+  "id": 2142,
+  "title": "Cop Land",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qzR7m6kUhsbdid3xRK2jTXjyNmG.jpg",
+  "release_date": "1997-08-15",
+  "vote_average": 6.789,
+  "vote_count": 1451,
+  "popularity": 19.848,
+  "overview": "Freddy Heflin is the sheriff of a place everyone calls “Cop Land” — a small and seemingly peaceful town populated by the big city police officers he’s long admired. Yet something ugly is taking place behind the town’s peaceful facade. And when Freddy uncovers a massive, deadly conspiracy among these local residents, he is forced to take action and make a dangerous choice between protecting his idols and upholding the law.",
+  "imdb_id": "tt0118887",
+  "budget": 15000000,
+  "homepage": "http://www.miramax.com/movie/cop-land",
+  "revenue": 44862187,
+  "runtime": 104,
+  "tagline": "No One Is Above The Law.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Miramax",
+    "Across the River Productions",
+    "Woods Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sylvester Stallone",
+        "character": "Sheriff Freddy Heflin"
+      },
+      {
+        "name": "Harvey Keitel",
+        "character": "Ray Donlan"
+      },
+      {
+        "name": "Ray Liotta",
+        "character": "Gary \"Figgsy\" Figgis"
+      },
+      {
+        "name": "Robert De Niro",
+        "character": "Lt. Moe Tilden"
+      },
+      {
+        "name": "Peter Berg",
+        "character": "Joey Randone"
+      },
+      {
+        "name": "Janeane Garofalo",
+        "character": "Deputy Cindy Betts"
+      },
+      {
+        "name": "Robert Patrick",
+        "character": "Jack Rucker"
+      },
+      {
+        "name": "Michael Rapaport",
+        "character": "Murray \"Superboy\" Babitch"
+      },
+      {
+        "name": "Annabella Sciorra",
+        "character": "Liz Randone"
+      },
+      {
+        "name": "Noah Emmerich",
+        "character": "Deputy Bill Geisler"
+      },
+      {
+        "name": "Cathy Moriarty",
+        "character": "Rose Donlan"
+      },
+      {
+        "name": "John Spencer",
+        "character": "Leo Crasky"
+      },
+      {
+        "name": "Frank Vincent",
+        "character": "PDA President Lassaro"
+      },
+      {
+        "name": "Malik Yoba",
+        "character": "Detective Carson"
+      },
+      {
+        "name": "Arthur J. Nascarella",
+        "character": "Frank Lagonda"
+      },
+      {
+        "name": "Edie Falco",
+        "character": "Berta"
+      },
+      {
+        "name": "Victor Williams",
+        "character": "Russell"
+      },
+      {
+        "name": "Paul Calderon",
+        "character": "Hector - Medic"
+      },
+      {
+        "name": "John Doman",
+        "character": "Lassaro's Aide"
+      },
+      {
+        "name": "Debbie Harry",
+        "character": "Delores"
+      },
+      {
+        "name": "Vincent Laresca",
+        "character": "Medic #2"
+      },
+      {
+        "name": "Oliver Solomon",
+        "character": "Black Man"
+      },
+      {
+        "name": "Terri Towns",
+        "character": "Black Woman"
+      },
+      {
+        "name": "David Butler",
+        "character": "Thin Cop"
+      },
+      {
+        "name": "Brad Beyer",
+        "character": "Young Cop"
+      },
+      {
+        "name": "Charles Dumas",
+        "character": "TV Cyril Johns"
+      },
+      {
+        "name": "John Johnson",
+        "character": "News Anchor"
+      },
+      {
+        "name": "Frank Pellegrino",
+        "character": "Mayor"
+      },
+      {
+        "name": "Robert John Burke",
+        "character": "Officer B"
+      },
+      {
+        "name": "John Ventimiglia",
+        "character": "Officer V"
+      },
+      {
+        "name": "Terry Serpico",
+        "character": "Tony - Wincing Cop"
+      },
+      {
+        "name": "Method Man",
+        "character": "Shondel"
+      },
+      {
+        "name": "Sean Cullen",
+        "character": "Other Cop"
+      },
+      {
+        "name": "Paul Herman",
+        "character": "Game Operator"
+      },
+      {
+        "name": "Mel Gorham",
+        "character": "Monica"
+      },
+      {
+        "name": "Graciela Lecube",
+        "character": "Spanish Woman"
+      },
+      {
+        "name": "Chris Conte",
+        "character": "Gordon"
+      },
+      {
+        "name": "Anthony Citro",
+        "character": "Young Freddy"
+      },
+      {
+        "name": "Alexandra Adi",
+        "character": "Young Liz"
+      },
+      {
+        "name": "Mark Casella",
+        "character": "Fireman"
+      },
+      {
+        "name": "Timothy Stickney",
+        "character": "Window Yeller"
+      },
+      {
+        "name": "William Kalaidjian",
+        "character": "Police Chaplain"
+      },
+      {
+        "name": "Sean Runnette",
+        "character": "IA Detective #1"
+      },
+      {
+        "name": "Michael Gaston",
+        "character": "IA Detective #2 - Rubin"
+      },
+      {
+        "name": "Ben Ellerin",
+        "character": "Little Kid with Gordon"
+      },
+      {
+        "name": "David Diaz",
+        "character": "Funeral Reporter"
+      },
+      {
+        "name": "Tracy O. Emory",
+        "character": "Video Camera Op - News Segment"
+      },
+      {
+        "name": "Robert W. Castle",
+        "character": "Chaplain at Joey's Funeral"
+      },
+      {
+        "name": "Bruce Altman",
+        "character": "Counselor Burt Kandel"
+      },
+      {
+        "name": "Carly Fordham",
+        "character": "Liz's Daughter"
+      },
+      {
+        "name": "Tony Giorgio",
+        "character": "Ceremonial Officer"
+      },
+      {
+        "name": "Kevin O'Sullivan",
+        "character": "Head Pall Bearer / Flag Holder"
+      },
+      {
+        "name": "Louis D'Alto",
+        "character": "Exiting Cop"
+      },
+      {
+        "name": "Sylvia Kahn",
+        "character": "Deli Lady"
+      },
+      {
+        "name": "Ronn Munro",
+        "character": "Chief of Police"
+      },
+      {
+        "name": "John Henry",
+        "character": "Officer in Alleyway"
+      },
+      {
+        "name": "Richard Lisi",
+        "character": "Officer in Alleyway 'Charley'"
+      },
+      {
+        "name": "Hans Moody",
+        "character": "Sergeant in Alleyway"
+      },
+      {
+        "name": "Garry Pastore",
+        "character": "Core Cop 'Johnny B'"
+      },
+      {
+        "name": "Tony Sirico",
+        "character": "Toy Torillo"
+      },
+      {
+        "name": "Peter Ashton Wise",
+        "character": "Plaza Cop #1"
+      },
+      {
+        "name": "P.J. Brown",
+        "character": "Plaza Cop #2"
+      },
+      {
+        "name": "Manuel Corrado",
+        "character": "Plaza Cop #3"
+      },
+      {
+        "name": "Jeffrey H. Kaufman",
+        "character": "Plaza Cop #4"
+      },
+      {
+        "name": "Europe Harmon",
+        "character": "Plaza Cop #5"
+      },
+      {
+        "name": "Rene Ojeda",
+        "character": "Plaza Cop #6"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Howard Shore",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "James Mangold",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "James Mangold",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Cathy Konrad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Todd M. Thaler",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Bob Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Harvey Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Craig McKay",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Meryl Poster",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "David Carbonara",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Cary Woods",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Eric Alan Edwards",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Lester Cohen",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Magdaline Volaitis",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Kevin King Templeton",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Mark De Alessandro",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Ilona Herman",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Nicholas Lundy",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Karin Wiesel",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Ellen Lutter",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Ezra Swerdlow",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Gayle Keller",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Wing Lee",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Judy Lovell",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Danny Aiello III",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Francesca Paris",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Kerry Orent",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Ron Bochar",
+        "department": "Sound",
+        "job": "Sound Effects Designer"
+      },
+      {
+        "name": "Kam Chan",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Marko Costanzo",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Lewis Goldstein",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Henry Alex Rubin",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Roger M. Bobb",
+        "department": "Production",
+        "job": "Trainee Production Coordinator"
+      },
+      {
+        "name": "Fred Rosenberg",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Richard Rutkowski",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Ashley Cusato",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard Miller",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Tracy Lee McGrath",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Reilly Steele",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Igor Sunara",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Christopher Goode",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Christopher Goode",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Christopher Swartout",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Jery Hewitt",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Frank Kern",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Scott H. Eddo",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Dustin Smith",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Harriet Zucker",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Philip Stockton",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Craig Markey",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Anthony Gore",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Sandy Hamilton",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Meredith Jacobson Marciano",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "David Scott Gagnon",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Sam Emerson",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Jac Rubenstein",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Rick Raphael",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Wilfred Caban",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Pete Romano",
+        "department": "Camera",
+        "job": "Underwater Director of Photography"
+      },
+      {
+        "name": "Wendy Lee Roberts",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Glenfield Payne",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Michael Leather",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Kenton Jakub",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Lori Hicks",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Lukasz Jogalla",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Glen Pangione",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Amy Safhay",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Judi Goodman",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Charles E. McCarry",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Joseph Coscia",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Steven Visscher",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Michelle Kuznetsky Silverman",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Mary Ramos",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Allan Byer",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Linda Murphy",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Bruce Pross",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "Gary Martone",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Michele Paris",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Vebe Borge",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Amy Lynn",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Lisa Nilsson",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Rebecca Strickland",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Alan Muzeni",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Bob Balzarini",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Henry S. Avelin",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Kathi Scharer",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Kevin Flynn",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Kevin Keefe",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Roseann Milano",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Gus Papadopoulos",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Andrew Zolot",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Marlene Arvan",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Pedro Hernández",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "James R. Bilz",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Steven Lawrence",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "John 'JR' Craigmile",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "May Kuckro",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Adam Gilmore",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Addison Pettit",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Mark Ginsberg",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Lynne Maureen Curtis",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Michele Carmel Long",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Valerie Desjardins",
+        "department": "Crew",
+        "job": "Script"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "corruption",
+    "new jersey",
+    "police",
+    "handcuffs",
+    "fbi",
+    "bridge",
+    "car crash",
+    "murder",
+    "arson",
+    "organized crime",
+    "bad cop",
+    "dirty cop",
+    "internal affairs",
+    "police corruption",
+    "car accident",
+    "nypd",
+    "world trade center",
+    "neo-noir"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The Sheriff of a suburban New Jersey community, populated by New York City police officers, slowly discovers the town is a front for mob connections and corruption.",
+    "Sometime in the 1970's, police officers from New York City wanted a safe haven to live, away from the dangers of the streets of New York City, this is when they established a \"Cop Land\" in the small New Jersey town of Garrison. Freddy Heflin who was always admired by the New York cops wanted to become one, but because he was deaf in one ear this prevents him from achieving his goal, but has become sheriff of Garrison. Recently there have been a dark omen surrounding the NYPD, and Freddy is now investigating on this case, then Internal Affairs officer Mo Tilden is also on the case and asks Freddy for help, but Freddy could not. Now Freddy suspects that a New York City cop named Ray Donlan might be one of the many cops who is corrupted by the mob and other criminals. Now, Freddy must find a cop who is nicknamed \"Superboy\" who can testify against Donlan and protect him, before Donlan finds Superboy and kills him.—John Wiggins",
+    "Freddy Heflin (Stallone) is the sheriff of a place everyone calls \"Cop Land\" - a small and seemingly peaceful town populated by the big city police officers he's long admired. Yet something ugly is taking place behind the town's peaceful facade. And when Freddy uncovers a massive, deadly conspiracy among these local residents, he is forced to take action and make a dangerous choice between protecting his idols and upholding the law.",
+    "Policemen have always been the idols of Freddy Heflin. Due to being slightly deaf, Heflin could never pass the physical to become a police officer himself. However, because of his friendly, amiable nature, he's managed to get himself elected Sheriff of a small New Jersey county outside of New York City, and he lives in a town where many NYPD cops also live. Mo Tilden is an Internal Affairs investigator for the NYPD, and his investigation of some crooked cops leads him to this small town, and to Sheriff Freddy Heflin. Heflin begins to help Tilden, and discovers that some of his heroes may have feet of clay...—Afterburner <aburner@erols.com>",
+    "Freddy Heflin is the sheriff of Garrison, New Jersey, a small town that many NYPD officers call home. But when an officer is responsible for a violent incident involving a civilian, he leads his own investigation and uncovers a racially-charged conspiracy within the NYPD.—Marcos Eduardo Acosta Aldrete"
+  ],
+  "synopsis": "In the fictional town of Garrison, New Jersey, located across the Hudson River from New York City, a number of residents are NYPD officers. Local sheriff Freddy Heflin (Sylvester Stallone) is secretly in love with Liz Randone (Annabella Sciorra), whose life he once saved after a car accident. Her rescue cost him the hearing in one ear and made him ineligible to become a New York City cop, as so many of his peers did, including Liz's abusive and unfaithful husband Joey Randone (Peter Berg).One night, Murray \"Superboy\" Babitch (Michael Rapaport), nephew of Lt. Ray Donlan (Harvey Keitel), is driving across the George Washington Bridge when his car is sideswiped by a couple of African-American teens. Babitch attempts to force them to pull over. The passenger points what Babitch thinks is a weapon and then the front tire of his car goes flat. (Superboy had run over a bottle leaving a nightclub in Manhattan.) Believing they have fired at him, Babitch shoots back. In an ensuing accident, the teens are killed. Jack Rucker (Robert Patrick) removes the steering wheel lock that Babitch mistook for a weapon from the hands of one of the dead teens and is caught trying to plant a weapon in their vehicle to justify the shooting.Worried about the repercussions on his career of having shot unarmed black teens, Babitch is persuaded by Donlan to fake his suicide. Ray pretends that Babitch has jumped off the bridge. Other corrupt police officers, including Detective Leo Crasky (John Spencer) and Frank Lagonda (Arthur Nascarella), fear that Babitch will resurface and testify about their corruption to Internal Affairs.Internal Affairs investigator Lt. Moe Tilden (Robert De Niro) asks if Heflin will provide information on the corrupt cops who live in his town. Heflin is intimidated by the New York City cops and is reluctant to betray them, derailing Tilden's investigation. Superiors in the department, related to the corrupt cops, order Tilden to shut down the investigation.Although the Babitch cover-up appears to be initially successful, Ray is told by Patrolmen's Defense Association President Vincent Lassaro (Frank Vincent) that without a body, the case will not stay cold. Ray reluctantly decides that his nephew must be killed. During a loud party held by Ray at his house, Babitch is tipped off by his aunt Rose (Cathy Moriarty). Ray, Jack and Frank try to drown Babitch in Ray's hot tub. When Joe Randone arrives at the party late, he hears the shots Babitch fired to stop his drowning -- Babitch flees in to the night and goes to Freddy's house looking for help, but when he sees Freddy's friend (and fellow NYPD cop) Gary \"Figgsy\" Figgis (Ray Liotta), he flees. Later at the bar the police all hang out at, Joey disagrees with Ray over his plans to find & eliminate his nephew.Later that evening while on patrol, Joey Randone gets into a fight with a violent suspect and is thrown off a rooftop. While he is clinging to an aerial and calling for help, Donlan sees him but fails to render assistance, in revenge for Randone's affair with Donlan's wife. By the time the cops get to the roof, Randone has fallen to his death.When Freddy realizes his mistake, he visits Tilden and is angrily told that the case was blown by his failure to co-operate sooner. As he leaves, Freddy sees a number of NYPD case files on the corrupt cops and steals them. He studies the files and realizes the extent of his friends' corruption. Deputy Cindy Betts (Janeane Garofalo) decides to leave Garrison, frustrated by the New York City cops having turned the town into their own personal fiefdom.Freddy returns home to find Figgsy packing to leave, not wanting to be further involved. Freddy finds out that Figgsy burned down his own house for the insurance money, accidentally killing his crack-addicted girlfriend Monica (Mel Gorham). Heflin manages to convince Rose to reveal where Babitch is hiding, then takes him to Garrison's jail. Heflin generously permits Deputy Bill Geisler (Noah Emmerich), who is nervous about protecting Babitch, to go home and take care of his pregnant wife.Heflin attempts to bring Babitch to New York City to turn over to Tilden there, but Lagonda, Donlan and Rucker ambush him. Rucker cruelly fires a gun next to Freddy's good ear, deafening and disabling him. Babitch is taken, presumably to be killed.On foot and almost totally deaf, Heflin follows them to Donlan's house, where a shootout commences. Heflin kills both Jack and Frank. Heflin is then shot in the shoulder by Leo Crasky, but is saved by the arrival of Figgsy, who kills Crasky. In the house, Babitch is trying to escape through a window. Donlan sneaks up behind Heflin, but before he can fire, Figgsy shoots. Barely hearing the shot, Heflin turns and shoots. As Donlan lies dying on the floor, he mutters obscenities, to which Heflin replies simply: \"I can't hear you, Ray.\"Figgsy and Heflin personally take Babitch to New York City and to Internal Affairs, refusing to allow any other cop to do the job. Tilden takes the prisoner into custody. After the scandal has been investigated and indictments handed down, Heflin, who has recovered hearing in his good ear, ends up looking at the New York City skyline from across the Hudson River. Deputy Geisler notifies him about a jack-knifed truck and Freddy goes back to work."
+}

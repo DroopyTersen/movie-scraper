@@ -1,0 +1,656 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/1AZz3SSYB3i9FOfc8r3enewSsRM.jpg",
+  "id": 431,
+  "title": "Cube",
+  "poster_path": "https://image.tmdb.org/t/p/w500/cRp5XzTdXs2BdvL4MF19HPP831z.jpg",
+  "release_date": "1997-09-09",
+  "vote_average": 6.797,
+  "vote_count": 4472,
+  "popularity": 22.338,
+  "overview": "A group of strangers find themselves trapped in a maze-like prison. It soon becomes clear that each of them possesses the peculiar skills necessary to escape, if they don't wind up dead first.",
+  "imdb_id": "tt0123755",
+  "budget": 350000,
+  "homepage": "",
+  "revenue": 8969065,
+  "runtime": 90,
+  "tagline": "Don't look for a reason... Look for a way out.",
+  "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Cube Libre",
+    "Feature Film Project",
+    "The Harold Greenberg Fund",
+    "Odeon Films",
+    "Ontario Film Development Corporation",
+    "Téléfilm Canada",
+    "Viacom Canada"
+  ],
+  "production_countries": [
+    "CA"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Nicole de Boer",
+        "character": "Leaven"
+      },
+      {
+        "name": "Nicky Guadagni",
+        "character": "Holloway"
+      },
+      {
+        "name": "Maurice Dean Wint",
+        "character": "Quentin"
+      },
+      {
+        "name": "David Hewlett",
+        "character": "Worth"
+      },
+      {
+        "name": "Andrew Miller",
+        "character": "Kazan"
+      },
+      {
+        "name": "Wayne Robson",
+        "character": "Rennes"
+      },
+      {
+        "name": "Julian Richings",
+        "character": "Alderson"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Vincenzo Natali",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Vincenzo Natali",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "André Bijelic",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Graeme Manson",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Mehra Meh",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Betty Orr",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mark Korven",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Derek Rogers",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Derek Rogers",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "John Sanders",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Jasna Stefanovic",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Diana Magnus",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Deirdre Bowen",
+        "department": "Production",
+        "job": "Casting Consultant"
+      },
+      {
+        "name": "Stephen Barden",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "John Stoneham Jr.",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Colin Brunton",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Anastasia Masaro",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "William Phillips",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Wiebke von Carolsfeld",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "name": "John Laing",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Wendy May Moore",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Scott Smith",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Scott Smith",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Patrick McGowan",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "John Sievert",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Gene Alexander",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Sue Conley",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Michelle Schubert",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Virginia Storey",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Darcy Kite",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Darcy Kite",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Todd Warren",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jeff Wachsmann",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Frank Leone",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Lisa Burling",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Craig Henighan",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jill Purdy",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Keith Elliott",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Michael Gibson",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Mark Zsifkovits",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Louise Mackintosh",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Louise Mackintosh",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Susann Greenwood",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Susann Greenwood",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Norah Wakula",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Bob Ceh",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Susan Tanton",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Stephen Willetts",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Cheryl Ladrillo",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Andrew Rucklidge",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Greg Sigurdson",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Steve McNamee",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Sophie Giraud",
+        "department": "Camera",
+        "job": "Additional Still Photographer"
+      },
+      {
+        "name": "Jeremy Hudspith",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Geoff Tunnard",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Rob Kingston",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Patricia Joyes",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Peter Kelly",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jane Kim",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Peter Atto",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Don Irvine",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Daniel Chiasson",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Patrick Tidy",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Paul Howden",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Andy Jekabsons",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Oscar Fenoglio",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Mark Ryan",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Lisa Bechard",
+        "department": "Visual Effects",
+        "job": "Digital Effects Producer"
+      },
+      {
+        "name": "Walter-Joseph Grabowski",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Deborah Kiss",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Deborah Kiss",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Linda Darras",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Greg Shim",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Mario D'Amaral",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Sue Motahedin",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Mark Newman",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Jamie Williamson",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Brian Fowler",
+        "department": "Art",
+        "job": "Head Carpenter"
+      },
+      {
+        "name": "Tamara Rigby-Funke",
+        "department": "Costume & Make-Up",
+        "job": "Costume Mistress"
+      },
+      {
+        "name": "Paul Gentleman",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "name": "Juliet Wintrobe",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "name": "Mark McLean",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Stephani Buchman",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Scott Craven",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Edmond Kopp",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jim Young",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Sandor Ajzenstat",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Brad Hopkins",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Todd Moore",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Brian Myatt",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Brian Myatt",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Craig Semenuk",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Barb Sniderman",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Kevin Richter",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Matthew Brookes",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Kevin P. O'Rourke",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Sarah Jarvis",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "name": "Patricia Quintanilla",
+        "department": "Sound",
+        "job": "Assistant Dialogue Editor"
+      },
+      {
+        "name": "Colin Woods",
+        "department": "Sound",
+        "job": "Assistant Dialogue Editor"
+      },
+      {
+        "name": "Jeff Orr",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Jeff Orr",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Dana Kearns",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Dana Kearns",
+        "department": "Art",
+        "job": "On Set Props"
+      },
+      {
+        "name": "Brad Thornton",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Stephen Segal",
+        "department": "Visual Effects",
+        "job": "Digital Effects Producer"
+      },
+      {
+        "name": "Rob MacKinnon",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Nick Seary",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Liz Wolfe",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Hugh Graham",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "name": "Evelyn Mitsou",
+        "department": "Art",
+        "job": "On Set Props"
+      },
+      {
+        "name": "Patty White",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Patty White",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      }
+    ]
+  },
+  "keywords": [
+    "escape",
+    "entrapment",
+    "riddle",
+    "autism",
+    "mathematics",
+    "claustrophobia",
+    "maze",
+    "prime number",
+    "psychology",
+    "trapdoor",
+    "gore",
+    "trap",
+    "murder",
+    "labyrinth",
+    "survival horror",
+    "numbers",
+    "cube",
+    "mechanical",
+    "industrial"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Six complete strangers with widely varying personalities are involuntarily placed in an endless maze containing deadly traps.",
+    "Six different people, each from a very different walk of life, awaken to find themselves inside a giant cube with thousands of possible rooms. Each has a skill that becomes clear when they must band together to get out: a cop, a math whiz, a building designer, a doctor, an escape master, and a disabled man. Each plays a part in their thrilling quest to find answers as to why they've been imprisoned.—<dadroog@hotmail.com>",
+    "Six total strangers awaken one day to find themselves alone in a cubical maze. Once they meet, they work together using their given skills and talents to survive the deadly traps which guard many of the colored cubic rooms. Using Leaven's mathematical skills, they press forward, upward, and downward through the hatches to try and find the outer shell.—Ryan"
+  ],
+  "synopsis": "The film opens with a man, Alderson (Julian Richings), waking up in a cube-shaped room with glowing, computer circuit-like walls and six doors, one at the center of each wall, ceiling and floor. After recovering from his confusion, he opens two of the doors and looks into them to find rooms that differ to the one he is in only by color. He then opens and goes through a third door. He looks around and then takes a step, but is suddenly cut into large square-shaped pieces. He falls apart and the rack of crosshatched wires which diced him moves into view. It folds up and retracts.Later, in another room, several people find each other: Quentin (Maurice Dean Wint), Worth (David Hewlett), Holloway (Nicky Guadagni), Rennes (Wayne Robson), and Leaven (Nicole de Boer). None of them know where they are, how they got there, or why they are there. Quentin, however, knows that there are traps, as he had looked into a room and nearly got his head cut off. The five decide to stay together and look for the way out. Rennes takes the lead. He exemplifies how to test for traps by tossing a boot into the rooms while holding onto the laces, to trigger potential traps, figuring that the trapped room contains motion detectors. Holloway speculates on several possible creators of the Cube, being aliens or the government his main options. Rennes remarks that staying still will not solve anything, and says that they should move in a straight line until they get to the end. The others agree, and they begin moving through the rooms.While moving, they discover a series of different numbers on the hatchways between each of the rooms. At one point, Rennes throws the boot in and does not find anything, but detects that the room has dry air, and deduces that it most likely employs an electrochemical sensor, which detects hydrogen sulfide emitted from the skin. Quentin realizes that Rennes is an escape artist who has escaped more than seven major prisons. Soon after, Rennes jumps into a room tested with a boot, and is sprayed in the face with acid. The others pull him back, but he dies as the acid corrodes his face and the inside of his head. The group decides that the room must have contained an electrochemical sensor which Rennes missed, and realize that they must find a better way of testing the rooms.Quentin asks everyone about their occupations. He says he is a police officer, Holloway says she is a doctor, and Worth says he works \"in an office building, doing office building stuff.\" Leaven claims simply to \"hang out\" with her friends. Quentin believes that nothing is a coincidence, that each of them has a purpose in the cube. After Holloway talks about her rings and broaches, Quentin asks why Leaven has her glasses, while Holloway has had her jewelry taken away. Leaven reveals herself to excel at mathematics, and after looking at the numbers on a crawlspace, theorizes that when one of those numbers is prime, the room is booby-trapped.Leaven's purpose becomes attempting to \"crack the Cube's code\", and they progress through the cubes. When they find themselves in a room with trapped rooms all around and below, Quentin checks the door in the ceiling, through which falls a seventh person: Kazan (Andrew Miller). He appears to be mentally handicapped. At least two of the others see him as a burden, but Holloway decides to bring him along.The group starts speculating about their surroundings, which causes a conflict between Quentin and Holloway. Quentin dismisses Holloway's ideas as conspiracy theories, and Holloway thinks that Quentin is naive. Soon after this, Quentin enters a room without prime numbers and narrowly avoids death from a trap consisting of rotating razor wires. Leaven's theory that non-prime-numbered rooms are safe is shown to be incorrect. Quentin begins suspecting that Worth is a spy, and is increasingly irritated by Kazan's mental state. The group rests, while Leaven attempts to decipher the numbers.After some time, Quentin tricks Worth into revealing that he is one of the architects who designed the enormous cube-shaped shell which contains the cube-shaped rooms. When asked about who contracted him to do the job, he states that he doesn't know. Although the others begin to distrust Worth (Quentin going as far as beating him), he is able to give them information about the dimensions of the outer cube: it is 434 feet (26 rooms) on each side, totaling 17,576 rooms. Leaven then intuits that the numbers between the rooms could be encoded cartesian coordinates representing the position of rooms within the Cube. The group begins moving towards the nearest edge. As for the traps, they begin to \"boot\" the rooms again.The group is forced to pass through a room containing a sound-activated trap. Quentin argues to leave Kazan behind, but Holloway overrules him. Everyone makes it through, but when it is Quentin's turn, Kazan calls out, and nearly causes his death. Quentin, furious, nearly beats him, and when Holloway stops him, he turns on her and they argue heatedly, ending when Quentin slaps her. Despite the growing tensions, they continue.The group finally reaches one of the side \"edges\" of the Cube, but discovers that there is a gap between the door and the outer shell. They fashion a rope from their clothes, and Holloway volunteers to swing out on the rope to investigate. As she is suspended outside the room, the Cube shakes and Holloway nearly falls. Quentin catches her, but then lets her fall to her death. He tells the others that she slipped, but they are dubious.The group then decides to try to reach the \"bottom\" edge of the Cube, but agree that they need to rest before setting out for it. As they sleep, Quentin carries Leaven into another room. He tries to convince Leaven to abandon the others, and makes sexual advances at her and becomes abusive when it is obvious that she dislikes him. Worth and Kazan awaken and save Leaven. Quentin becomes paranoid, and says that he did not trust Holloway, to which the rest of the group guesses that he let her die. Enraged, Quentin beats and then throws Worth through a door in the floor. Worth laughs hysterically at what he sees in that room: Rennes's corpse. They think that they have been going in circles, but then Worth notices that the \"acid room\" which killed Rennes is no longer adjacent to that room. He and Leaven realize that the rooms must be moving. Leaven also realizes that rooms which have traps are marked with numbers which are not simply prime numbers, as she had previously thought, but the larger set of prime powers. The prisoners then face the task of performing prime calculations of three three-digit numbers for every room they enter. Fortunately, Kazan is at this point is revealed to be an autistic savant with the capacity to perform these calculations quickly and easily. He utters the number of distinct prime factors each number has, as the room numbers are read to him.They make their way towards the exit safely with Kazan's help. Worth devises a plan to incapacitate Quentin, who has gone completely mad. Worth fights Quentin into a room below them and they leave him to die. They proceed and reach the bridge cube. When they open its door, bright light pours into the room. Worth announces that he will not go, as there is nothing for him in the world outside. As he and Leaven share a moment, Quentin appears having somehow managed to catch up with the trio, and kills Leaven by stabbing her with a door handle he somehow broke off a door. He stabs Worth as well, and grabs Kazan, who is climbing out. Worth grabs Quentin's leg with the last of his strength, and Quentin is crushed in the crawlspace between the cubes when the cubes realign. Having saved Kazan, Worth lies down next to Leaven and dies.In the final shot, Kazan is seen walking slowly into a bright light."
+}

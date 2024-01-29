@@ -1,0 +1,958 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4OzWF8mXU9BP8Y4qGFcLl8d0Dr4.jpg",
+  "id": 861,
+  "title": "Total Recall",
+  "poster_path": "https://image.tmdb.org/t/p/w500/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+  "release_date": "1990-06-01",
+  "vote_average": 7.292,
+  "vote_count": 5409,
+  "popularity": 42.147,
+  "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company who manufacture memories. Something goes wrong during his memory implant turning Doug's life upside down and even to question what is reality and what isn't.",
+  "imdb_id": "tt0100802",
+  "budget": 65000000,
+  "homepage": "",
+  "revenue": 261317921,
+  "runtime": 113,
+  "tagline": "They stole his mind, now he wants it back.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Carolco Pictures",
+    "Ronald Shusett/Gary Goldman Productions",
+    "TriStar Pictures"
+  ],
+  "production_countries": [
+    "US",
+    "MX"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Arnold Schwarzenegger",
+        "character": "Douglas Quaid / Hauser"
+      },
+      {
+        "name": "Rachel Ticotin",
+        "character": "Melina"
+      },
+      {
+        "name": "Sharon Stone",
+        "character": "Lori Quaid"
+      },
+      {
+        "name": "Ronny Cox",
+        "character": "Vilos Cohaagen"
+      },
+      {
+        "name": "Michael Ironside",
+        "character": "Richter"
+      },
+      {
+        "name": "Marshall Bell",
+        "character": "George / Kuato"
+      },
+      {
+        "name": "Mel Johnson Jr.",
+        "character": "Benny"
+      },
+      {
+        "name": "Michael Champion",
+        "character": "Helm"
+      },
+      {
+        "name": "Roy Brocksmith",
+        "character": "Dr. Edgemar"
+      },
+      {
+        "name": "Ray Baker",
+        "character": "Bob McClane"
+      },
+      {
+        "name": "Rosemary Dunsmore",
+        "character": "Dr. Lull"
+      },
+      {
+        "name": "David Knell",
+        "character": "Ernie"
+      },
+      {
+        "name": "Alexia Robinson",
+        "character": "Tiffany"
+      },
+      {
+        "name": "Dean Norris",
+        "character": "Tony"
+      },
+      {
+        "name": "Mark Carlton",
+        "character": "Bartender"
+      },
+      {
+        "name": "Debbie Lee Carrington",
+        "character": "Thumbelina"
+      },
+      {
+        "name": "Lycia Naff",
+        "character": "Mary"
+      },
+      {
+        "name": "Robert Costanzo",
+        "character": "Harry"
+      },
+      {
+        "name": "Michael LaGuardia",
+        "character": "Stevens"
+      },
+      {
+        "name": "Priscilla Allen",
+        "character": "Fat Lady"
+      },
+      {
+        "name": "Ken Strausbaugh",
+        "character": "Immigration Officer"
+      },
+      {
+        "name": "Marc Alaimo",
+        "character": "Everett"
+      },
+      {
+        "name": "Michael Gregory",
+        "character": "Rebel Lieutenant"
+      },
+      {
+        "name": "Ken Gildin",
+        "character": "Hotel Clerk"
+      },
+      {
+        "name": "Mickey Jones",
+        "character": "Burly Miner"
+      },
+      {
+        "name": "Parker Whitman",
+        "character": "Martian Husband"
+      },
+      {
+        "name": "Ellen Gollas",
+        "character": "Martian Wife"
+      },
+      {
+        "name": "Gloria Dorson",
+        "character": "Woman in Phone Booth"
+      },
+      {
+        "name": "Erika Carlsson",
+        "character": "Miss Lonelyhearts"
+      },
+      {
+        "name": "Benny Corral",
+        "character": "Punk Cabbie"
+      },
+      {
+        "name": "Bob Tzudiker",
+        "character": "Doctor"
+      },
+      {
+        "name": "Erik Cord",
+        "character": "Lab Assistant"
+      },
+      {
+        "name": "Frank Kopyc",
+        "character": "Technician"
+      },
+      {
+        "name": "Chuck Sloan",
+        "character": "Scientist"
+      },
+      {
+        "name": "Dave Nicolson",
+        "character": "Scientist"
+      },
+      {
+        "name": "Paula McClure",
+        "character": "Newscaster"
+      },
+      {
+        "name": "Rebecca Ruth",
+        "character": "Reporter"
+      },
+      {
+        "name": "Milt Tarver",
+        "character": "Commercial Announcer"
+      },
+      {
+        "name": "Roger Cudney",
+        "character": "Agent"
+      },
+      {
+        "name": "Monica Steuer",
+        "character": "Mutant Mother"
+      },
+      {
+        "name": "Sasha Rionda",
+        "character": "Mutant Child"
+      },
+      {
+        "name": "Linda Howell",
+        "character": "Tennis Pro"
+      },
+      {
+        "name": "Robert Picardo",
+        "character": "Johnnycab (voice)"
+      },
+      {
+        "name": "Kamala Lopez",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Morgan Lofting",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Patti Attar",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Bob Bergen",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Joe Unger",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Karlyn Michelson",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Joel Kramer",
+        "character": "Harry's Henchman (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Philip K. Dick",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "name": "Mike Fenton",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Valorie Massalas",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Judy Taylor",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jerry Goldsmith",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Jerry Goldsmith",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Jon Povill",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "name": "Mario Kassar",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mario Kassar",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "name": "Jeff Dawn",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Dan O'Bannon",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Ronald Shusett",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Ronald Shusett",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jost Vacano",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Paul Verhoeven",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Frank J. Urioste",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "William Sandell",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Robert Gould",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Erica Edell Phillips",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Eric Brevig",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "James E. Tocci",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "David Appleby",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Buzz Feitshans",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert Fentress",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Elliot Schick",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Carlos Puente",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "José Rodríguez Granada",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Scott A. Hecker",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Kenneth Hall",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Joel Kramer",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Tony Brubaker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Vic Armstrong",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Vic Armstrong",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Alan Howarth",
+        "department": "Crew",
+        "job": "Special Sound Effects"
+      },
+      {
+        "name": "Thomas L. Fisher",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Freddie Hice",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ron Lambert",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Gene LeBell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ron Cobb",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Mayes C. Rubeo",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Gerardo Albarrán",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Kent",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Allan Graf",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Derek Brechin",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Chris Boardman",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "name": "Xavier Grobet",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Wayne Fitzgerald",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Andrew G. Vajna",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "David Rodgers",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "name": "Steve Burg",
+        "department": "Art",
+        "job": "Production Illustrator"
+      },
+      {
+        "name": "Ric Roman Waugh",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeannie Epper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Norman B. Schwartz",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Nick Dimitri",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Arthur Morton",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Vanessa Theme Ament",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Erik Cord",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rob Bottin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "name": "Steven Lambert",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Doug Coleman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dick Ziker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "J. Fernando Solorio",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Stephen Hunter Flick",
+        "department": "Sound",
+        "job": "Supervising Sound Effects Editor"
+      },
+      {
+        "name": "Billy D. Lucas",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Donna Evans",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Anuar Badin",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Joan Thomas",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Cal DiValerio",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Trudy Ramirez",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Scott R. Fisher",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Markus Rothkranz",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Taneia Lednicky",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Alan Collis",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Bob Bremner",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Kathy Chasen-Hay",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "David A. Arnold",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Raúl Sarmiento",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Peter Tothpal",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Lily Flaschner",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Hank Salerno",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "C. Marie Davis",
+        "department": "Visual Effects",
+        "job": "Additional Visual Effects"
+      },
+      {
+        "name": "Michael White",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Judith Goodman",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Dana Gustafson",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Thierry Coup",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "David Bartlett",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Judy Cammer",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Craig Berkeley",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Juan Clemente Prosper",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Kenny Endoso",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary Goldman",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Fred Runner",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Dean Drabin",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Dana Dru Evenson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Efren del Moral",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Miguel Lima",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Teodoro García",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Tom Boyd",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Giacomo G. Ghiazza",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "name": "Jim Davidson",
+        "department": "Crew",
+        "job": "Production Controller"
+      },
+      {
+        "name": "Sergio Jara Jr.",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "David W. Alstadter",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "George Merkert",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Marlo Pabon",
+        "department": "Visual Effects",
+        "job": "Visual Effects Compositor"
+      },
+      {
+        "name": "W.C. 'Chunky' Huse",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Steve Love",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Haleen K. Holt",
+        "department": "Costume & Make-Up",
+        "job": "Costume Illustrator"
+      },
+      {
+        "name": "Henry Alvarez",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Judee Flick",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "James W. Kristoff",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Donna Tracy",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Robin Weiss",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Rosemary Campbell",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jason Bentley",
+        "department": "Sound",
+        "job": "Assistant Music Supervisor"
+      },
+      {
+        "name": "Elissa Bello",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Thomas B. DiValerio",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Larry Clark",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Antonio Mata",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Steven Ladish",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Miguel Chang",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Steve Slocomb",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Heriberto Cárdenas",
+        "department": "Crew",
+        "job": "Cableman"
+      },
+      {
+        "name": "John R. Elliott",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "John Downey",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Mazzareno Sgolacchia",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Jorge Mancilla",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Alan B. Samuels",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Ignazio Maccarone",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "David McMillan",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Scott Ross",
+        "department": "Production",
+        "job": "General Manager"
+      },
+      {
+        "name": "Joni Kearney",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Mike Elizalde",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Noori Dehnahi",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Melissa Smith",
+        "department": "Production",
+        "job": "Director of Operations"
+      },
+      {
+        "name": "Eric Clarke",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Rosa Lilia Pérez Ortega",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Chere Rae",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "double life",
+    "planet mars",
+    "based on novel or book",
+    "oxygen",
+    "resistance",
+    "telepathy",
+    "falsely accused",
+    "dystopia",
+    "villainess",
+    "mutant",
+    "hologram",
+    "space travel",
+    "space colony",
+    "utopia",
+    "fake identity",
+    "secret agent",
+    "futuristic",
+    "cyberpunk",
+    "fictional war",
+    "false memory",
+    "robot cop",
+    "implanted memory",
+    "action hero",
+    "virtual world",
+    "2080s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "When a man goes in to have virtual vacation memories of the planet Mars implanted in his mind, an unexpected and harrowing series of events forces him to go to the planet for real - or is he?",
+    "Douglas Quaid is haunted by a recurring dream about a journey to Mars. He hopes to find out more about this dream and buys a holiday at Rekall Inc. where they sell implanted memories. But something goes wrong with the memory implantation and he remembers being a secret agent fighting against the evil Mars administrator Cohaagen. Now the story really begins and it's a rollercoaster ride until the massive end of the movie.—Harald Mayr <marvin@bike.augusta.de>",
+    "Douglas Quaid is a bored construction worker in the year 2084 who dreams of visiting the colonized Mars. He visits \"Rekall,\" a company that plants false memories into people's brains, in order to experience the thrill of Mars without having to travel there. But something goes wrong during the procedure; Quaid discovers that his entire life is actually a false memory and that the people who implanted it in his head now want him dead.—Jwelch5742",
+    "Earth, 2084. Plagued by vivid visions of colonised Mars, construction worker Douglas Quaid longs for a trip to the distant red planet. To decipher his recurring nightmares, Quaid purchases a cheaper alternative to the expensive journey: virtual recollections of an imaginary vacation to Mars, provided by Rekall Inc., a company implanting memories. Instead, the procedure backfires on him, and what Quaid used to perceive as reality becomes a blur. And as the bullets start flying, the answers Quaid seeks are on Mars. However, how can he tell the difference between reality and fantasy? Is Quaid prepared for a total recall?—Nick Riganas",
+    "What is reality when you can't trust your memory? An Earthbound construction worker keeps having dreams about Mars. A trip to a false memory transplant service for an imaginary trip to Mars goes terribly wrong and another personality surfaces. When his old self returns, he finds groups of his friends and several strangers seem to have orders to kill him. He finds records his other self left him that tell him to get to Mars to join up with the underground. The reality of the situation is constantly in question. Who is he? Which personality is correct? Which version of reality is true?—John Vogel <jlvogel@comcast.net>"
+  ],
+  "synopsis": "In 2084, Douglas Quaid (Arnold Schwarzenegger) is a construction worker on Earth, married to Lori (Sharon Stone), who works for a greedy mining company. Fantasizing of travelling to Mars, he visits \"Rekall\", a company that can implant memories of a virtual vacation. Against the advice of one of his coworkers (who claims a friend of his nearly got a lobotomy at Rekall), Quaid opts for a trip to Mars, including the option of being a secret agent and discovering alien technology as part of his virtual experience. When Quaid is sedated and put into the implant machine, the technicians discover he has already undergone a previous memory wipe.Quaid wakes up, frenzied and disoriented, claiming the Rekall technicians have blown his cover. He attacks them in an attempt to escape, but they manage to subdue and sedate him again, wiping the memory of his visit to Rekall and sending him home.Quaid wakes up in a taxi nearing his residence, unaware of how he got there. On his way home, he is attacked by his former coworkers who tell him he should not have gone to Rekall and during the struggle, he kills his would-be assailants. As he gets home and attempts to explain what's happened to his wife, Lori, she turns on him and tries to kill him, but he manages to subdue her. She admits she is not his wife. Quaid races out of the apartment as men, led by Richter (Michael Ironside), attempt to catch him. While in hiding, Quaid is given a briefcase by a man who claims to have worked with him. It contains money, a disguise and fake identity papers, as well as a device which Quaid uses to remove a tracking device implanted in his skull. The briefcase also contains a video from Quaid himself. In the video Quaid identifies himself as \"Hauser\" and says that he used to work on Mars as an enforcer for planetary administrator Vilos Cohaagen (Ronny Cox). His job had included hunting down rebels, but he betrayed Cohaagen after coming to believe in the rebel cause. \"Hauser\" believes that Cohaagen is responsible for wiping his memory and instructs Quaid to seek out his former boss on Mars.Quaid uses the money and the disguise to travel to Mars, where he finds clues from Hauser that lead him to Venusville, a red light district of the Mars colony where people have mutated due to poor radiation shielding. In a bar called 'The Last Resort', he discovers Melina (Rachel Ticotin), Hauser's former lover, who refuses to have anything to do with him, believing that he had been acting as a double agent all-along. Returning to his hotel, Quaid is met by Lori and Dr. Edgemar (Roy Brocksmith), the developer of Rekall. They attempt to convince Quaid that his virtual vacation has gone wrong, and that all of his experiences since leaving Rekall have been part of a free-form paranoid delusion that his brain has constructed. Quaid seems almost convinced until he notices how nervous Edgemar is and kills the doctor. Richter's men arrive to capture him, but Quaid is saved by Melina, who he saves by killing Lori. The two return to Venusville where the rebels manage to hold off Richter's men. On hearing this Cohaagen orders the air supply to Venusville sealed off.Quaid, Melina, and a taxi driver named Benny (Mel Johnson, Jr.) make their way to the rebel headquarters. Quaid is taken to meet Kuato, a small humanoid form conjoined to another man named George (Marshall Bell). Kuato probes Quaid's mind and discovers that he knows about an alien reactor that would provide oxygen for the entire planet. Cohaagen has covered up the existence of the reactor fearing that free oxygen would break his control over Mars. Kuato implores Quaid to activate the reactor and free Mars.Before they can proceed, Cohaagen's men assault the rebel base and Benny is revealed to be a double-agent, killing Kuato and capturing Quaid and Melina. They are taken to Cohaagen's offices, where he shows them another video from Hauser, revealing that Quaid's entire experience had been part of an elaborate plot devised by Cohaagen and Hauser to infiltrate the rebel stronghold and kill Kuato. Cohaagen orders Quaid to be restored to his original Hauser persona and that Melina should be reprogrammed as Hauser's loyal wife. However, Quaid and Melina escape and head to the alien reactor, killing both Benny and Richter.Cohaagen arrives first at the control room, and attempts to dissuade Quaid from using the alien artifact, claiming it will destroy the planet, and threatening to blow up the control room with a nearby bomb. Quaid throws the explosive away, destroying a seal on the room, depressurizing it. Cohaagen is dragged out and dies from asphyxiation and decompression on the planet's surface.Quaid manages to activate the artifact before he and Melina are blown out, and both are saved as waves of air are generated by the artifact, which has melted the ice below the Martian crust. A new atmosphere sweeps across the planetary surface, shattering the windows of the Mars colony, giving its residents fresh air to breathe. As the population begins to walk into the new blue sky of Mars, Quaid wonders if this is still part of his Rekall fantasy before he turns to kiss Melina."
+}

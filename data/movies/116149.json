@@ -1,0 +1,1566 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/wqX1vVZnBWwb0E18kt4epWYL90z.jpg",
+  "id": 116149,
+  "title": "Paddington",
+  "poster_path": "https://image.tmdb.org/t/p/w500/y7lFcSKhFrcelocr2VFflJnVzIH.jpg",
+  "release_date": "2014-11-24",
+  "vote_average": 7.1,
+  "vote_count": 3470,
+  "popularity": 29.92,
+  "overview": "A young Peruvian bear travels to London in search of a new home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family.",
+  "imdb_id": "tt1109624",
+  "budget": 55000000,
+  "homepage": "http://www.paddington.com/",
+  "revenue": 259207227,
+  "runtime": 96,
+  "tagline": "The adventure begins.",
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Family"
+  ],
+  "production_companies": [
+    "Heyday Films",
+    "StudioCanal",
+    "Anton Capital Entertainment",
+    "TF1 Films Production",
+    "Canal+",
+    "Ciné+",
+    "TF1"
+  ],
+  "production_countries": [
+    "FR",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ben Whishaw",
+        "character": "Paddington (voice)"
+      },
+      {
+        "name": "Hugh Bonneville",
+        "character": "Henry Brown"
+      },
+      {
+        "name": "Sally Hawkins",
+        "character": "Mary Brown"
+      },
+      {
+        "name": "Madeleine Harris",
+        "character": "Judy Brown"
+      },
+      {
+        "name": "Samuel Joslin",
+        "character": "Jonathan Brown"
+      },
+      {
+        "name": "Nicole Kidman",
+        "character": "Millicent"
+      },
+      {
+        "name": "Julie Walters",
+        "character": "Mrs. Bird"
+      },
+      {
+        "name": "Imelda Staunton",
+        "character": "Aunt Lucy (voice)"
+      },
+      {
+        "name": "Peter Capaldi",
+        "character": "Reginald Curry"
+      },
+      {
+        "name": "Michael Gambon",
+        "character": "Uncle Pastuzo (voice)"
+      },
+      {
+        "name": "Jim Broadbent",
+        "character": "Samuel Gruber"
+      },
+      {
+        "name": "Madeleine Worrall",
+        "character": "Agatha Clyde"
+      },
+      {
+        "name": "Tim Downie",
+        "character": "Montgomery Clyde"
+      },
+      {
+        "name": "Matt King",
+        "character": "Andre the Thief"
+      },
+      {
+        "name": "Simon Farnaby",
+        "character": "Barry"
+      },
+      {
+        "name": "Kayvan Novak",
+        "character": "Grant"
+      },
+      {
+        "name": "Matt Lucas",
+        "character": "Joe"
+      },
+      {
+        "name": "Jonathan Derbyshire",
+        "character": "Master Gruber"
+      },
+      {
+        "name": "Mary Roscoe",
+        "character": "Master Gruber's Aunt"
+      },
+      {
+        "name": "Jude Wright",
+        "character": "Tony"
+      },
+      {
+        "name": "Lottie Steer",
+        "character": "Young Millicent"
+      },
+      {
+        "name": "Alice Lowe",
+        "character": "Geographers' Guild Receptionist"
+      },
+      {
+        "name": "Will Smith",
+        "character": "Geographer (Present Day)"
+      },
+      {
+        "name": "Toby Williams",
+        "character": "Geographer (Present Day)"
+      },
+      {
+        "name": "Catherine Shepherd",
+        "character": "Geographer (Present Day)"
+      },
+      {
+        "name": "Sean Bridgeman",
+        "character": "Morgan Clyde"
+      },
+      {
+        "name": "Cleo Sylvestre",
+        "character": "Marjorie Clyde"
+      },
+      {
+        "name": "Geoffrey Palmer",
+        "character": "Head Geographer"
+      },
+      {
+        "name": "Gus Brown",
+        "character": "Second Geographer"
+      },
+      {
+        "name": "Rufus Jones",
+        "character": "Third Geographer"
+      },
+      {
+        "name": "Kenneth Hadley",
+        "character": "Fourth Geographer"
+      },
+      {
+        "name": "David McKail",
+        "character": "Fifth Geographer"
+      },
+      {
+        "name": "James Bachman",
+        "character": "Sixth Geographer"
+      },
+      {
+        "name": "Javier Marzan",
+        "character": "Buckingham Palace Sentry"
+      },
+      {
+        "name": "Llewella Gideon",
+        "character": "Class Teacher"
+      },
+      {
+        "name": "Justin Edwards",
+        "character": "Desk Sergeant"
+      },
+      {
+        "name": "Iain Mitchell",
+        "character": "Dog Owner"
+      },
+      {
+        "name": "Barry Ashton",
+        "character": "Judge"
+      },
+      {
+        "name": "Michael Bond",
+        "character": "Kindly Gentleman"
+      },
+      {
+        "name": "Steve Edge",
+        "character": "Natural History Museum Security Guard"
+      },
+      {
+        "name": "Steve Oram",
+        "character": "Paddington Station Security Guard"
+      },
+      {
+        "name": "Tom Meeten",
+        "character": "Paddington Station Security Guard"
+      },
+      {
+        "name": "Hamish McColl",
+        "character": "Petting Zoo Keeper"
+      },
+      {
+        "name": "Dominic Coleman",
+        "character": "Policeman"
+      },
+      {
+        "name": "Tarik Blake",
+        "character": "Pupil"
+      },
+      {
+        "name": "Theresa Watson",
+        "character": "Stenographer"
+      },
+      {
+        "name": "Ross Boatman",
+        "character": "Trader"
+      },
+      {
+        "name": "Eddie Nestor",
+        "character": "Underground Ticket Inspector"
+      },
+      {
+        "name": "George Newton",
+        "character": "Angel (uncredited)"
+      },
+      {
+        "name": "Alexander Bracq",
+        "character": "Commuter #1 (uncredited)"
+      },
+      {
+        "name": "Ancuta Breaban",
+        "character": "Commuter #2 (uncredited)"
+      },
+      {
+        "name": "Faith Elizabeth",
+        "character": "Commuter #3 (uncredited)"
+      },
+      {
+        "name": "Barrie Martin",
+        "character": "Commuter #4 (uncredited)"
+      },
+      {
+        "name": "Stuart Matthews",
+        "character": "Commuter #5 (uncredited)"
+      },
+      {
+        "name": "Fabio Vollono",
+        "character": "Commuter #7 (uncredited)"
+      },
+      {
+        "name": "Julie Vollono",
+        "character": "Commuter #8 (uncredited)"
+      },
+      {
+        "name": "Matthew David McCarthy",
+        "character": "Docker (uncredited)"
+      },
+      {
+        "name": "Denis Khoroshko",
+        "character": "Immigrant (uncredited)"
+      },
+      {
+        "name": "Jack Philips",
+        "character": "Market Stall Owner (uncredited)"
+      },
+      {
+        "name": "Asim Chaudhry",
+        "character": "Security Guard (uncredited)"
+      },
+      {
+        "name": "Nigel Genis",
+        "character": "Station Blocker (uncredited)"
+      },
+      {
+        "name": "Jim Lawrence",
+        "character": "Trader (uncredited)"
+      },
+      {
+        "name": "Vic Waghorn",
+        "character": "Additional Voices (voice) (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Bob Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Harvey Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Danny Hambrook",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "David Heyman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Lindy Hemming",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Steven Lawrence",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Glenn Freemantle",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Glenn Freemantle",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Hamish McColl",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "name": "Nina Gold",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Harry Pain",
+        "department": "Art",
+        "job": "Draughtsman"
+      },
+      {
+        "name": "Gary Williamson",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Peter Gleaves",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Lee Sheward",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Erik Wilson",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Alexandra Ferguson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "David Horrill",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Gareth Brough",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Paul King",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Paul King",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Paul King",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "name": "Tania Blunden",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Perry Sheehan",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Jeffrey Clifford",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Olivier Courson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ron Halpern",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Nick Urata",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Eddie Baker",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Rosie Alison",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jonny Franklin",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Michael Hirsh",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Michael Bond",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Michael Bond",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Michael McSweeney",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Theo Park",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Marion Weise",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Sue Whitaker",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Wyn Vaughan-Humphreys",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Niv Adiri",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Danny Freemantle",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Glen Gathard",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Peter Hanson",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Andy Nelson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Elliot Scott",
+        "department": "Art",
+        "job": "Draughtsman"
+      },
+      {
+        "name": "Robert J. Dugdale",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Jack Stew",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Ian Tapp",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Emilie O'Connor",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Vince McGahon",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Ruben Cardol",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "John Hayes",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Dillon Bennett",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Laura Miles",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Laurie Sparham",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Sam Heasman",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Graham Johnston",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Graham Johnston",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Neil Weatherley",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Tim Wellspring",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Andrew Hunt",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Mark Appleby",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Choi Ho Man",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Mark Everson",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Fiona DeSouza",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Donna Turner Culver",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "Pawel Polak",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Ian Comley",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Sally Crees",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Mitch Crease",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Ian Morgan",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Andy Lowe",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Karen Holt",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Simon Diggins",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Adam Slater",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Daniel Swingler",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Cathy Cosgrove",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Daniel Goodall",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Nick Freemantle",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Laurent Laban",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Chris Hurtt",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Julian Hutchens",
+        "department": "Lighting",
+        "job": "Lighting Supervisor"
+      },
+      {
+        "name": "Adam Laschinger",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Kevin Foy",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Mike Tehrani",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Warwick Hewett",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Kevin Daly",
+        "department": "Lighting",
+        "job": "Standby Rigger"
+      },
+      {
+        "name": "Poli Kyriacou",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Ann Fenton",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Brad Silby",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Ashish Dewan",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Nigel Crafts",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Rob White",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Lee Bagley",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Richard Ketteridge",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "name": "Christian Kaestner",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Paul Paragon",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Ricky Leach",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Amanda Dague",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "John Antill",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Simon Hill",
+        "department": "Crew",
+        "job": "Mix Technician"
+      },
+      {
+        "name": "Marieke Franzen",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Warren Browne",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Nathan Porter",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Michael Brunet",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Geoff Wigmore",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Will Rae Smith",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Nat Turner",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Ben Irving",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Mathieu Vig",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Andrew Betts",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Dan Garlick",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jon Capleton",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Casey Michaels",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Frederikke Glick",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Giacomo Bargellesi",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Ian Fellows",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Jean-Baptiste Godin",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Lars Erik Eriksen",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Hugo Gauvreau",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Nico Coronado",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "David Vivaldini",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Leslie Wylie",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Anthony Luigi Santoro",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Annie Hitchcock",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Alfonso Sicilia",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Aaron Lear",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Adam Parker",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Elena Topouzoglou",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Oliver Fergusson-Taylor",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Andrea Espinal",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Petra Schwane",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Adrian Nurse",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Jeremie Ducrocq",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Alex Grace",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Tamara King",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Sam Alberg",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Attila Szapek",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Mickaël Léger",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Christophe Pacaud",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Jonathan Carré",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Anelia Asparuhova",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Matthew Chandler",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Christian Hayes",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Rebecca Dark",
+        "department": "Crew",
+        "job": "Floor Runner"
+      },
+      {
+        "name": "Izzy Field",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Lee Gawthrop",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Stephen Hargreaves",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Phil Hawley",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Alex Kerr",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Joel Rainsley",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jon Duncan",
+        "department": "Production",
+        "job": "Post Production Accountant"
+      },
+      {
+        "name": "Jo Jackson",
+        "department": "Crew",
+        "job": "Mix Technician"
+      },
+      {
+        "name": "Rebecca Tredget",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Siggy Stone",
+        "department": "Crew",
+        "job": "Floor Runner"
+      },
+      {
+        "name": "Andy Sauer",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Jeff Sullivan",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "David Sedgwick",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jane Clark",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "John Greaves",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "John Usher",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "James Osborn-Brown",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Alex Kerr",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "name": "Nic Goodey",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "James Joseph McDonald",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Manohar Tahilramani",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Sanchari Chowdhury-Kesler",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Oliver Armstrong",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Paul Surgison",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Zarene Dallas",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Daniel Lillie",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "name": "Jeremie Lodomez",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Daniel Stones",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jeffrey Gates",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Jess MacDonald",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Jack Dehaan",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Amie Tridgell",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Sotiris Loukatos",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Duncan Riedl",
+        "department": "Crew",
+        "job": "Generator Operator"
+      },
+      {
+        "name": "Andrew Pinson",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Robert Jackson",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Harvey Woodward",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Marko Živanović",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Olivia Fitzroy",
+        "department": "Crew",
+        "job": "Floor Runner"
+      },
+      {
+        "name": "Samantha Harley",
+        "department": "Art",
+        "job": "Standby Art Director"
+      },
+      {
+        "name": "Ed Riley",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Chardae Adams",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "David Stapleton",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Eleri Coulten",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Ales Gargulac",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Anna Maria Pacchioni",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Bruce Nelson",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Marc Rice",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Owen Johnson",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Paul Beilby",
+        "department": "Lighting",
+        "job": "Lighting Supervisor"
+      },
+      {
+        "name": "Marine Poirson",
+        "department": "Lighting",
+        "job": "Lighting Supervisor"
+      },
+      {
+        "name": "Thaison Doan",
+        "department": "Visual Effects",
+        "job": "2D Supervisor"
+      },
+      {
+        "name": "Ben White",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Del Strachan",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Justin Brown",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Matt Walker",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Dee Churchfield",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Giles Brown",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Doug Lankston",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Anthony Parnell",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Jane Burstow",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Pippa Gillespie",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Sarah Herrmann",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "David Sawyer",
+        "department": "Art",
+        "job": "Standby Carpenter"
+      },
+      {
+        "name": "Sydney Bell",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "David Engleman",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Nicholas Girard",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Thomas Henderson",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Paul Houston",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Tom Keegan",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Robert McGrath",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Marcus Mildewhall",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "John Moxom",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Pete Smith",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Josh Witcher",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Jeffrey Woodbridge",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Louis Connoways",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Martian Freeman",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Andrew Golding",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Raymond Grant",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Anthony Hoskins",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Alan Kavanagh",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Keith Mowatt",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Stephen Rowley",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Manuel Villar",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Robert Dyson",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Russell Read",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Robert West",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Peter Davis",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Douglas Emanuel",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Rob Lillie",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "James Wickison",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Dom Aronin",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Tom Foran",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Stefan Mitchell",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Nic Britt",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Alex Edyvean",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Steve Garay",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "David Nye",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Aaron Parrott",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Hannah Wilson",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Dan Massett",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Sam Kissick",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Norman Malcolm Smith",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Mark Holt",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      }
+    ]
+  },
+  "keywords": [
+    "london, england",
+    "based on novel or book",
+    "peru",
+    "anthropomorphism",
+    "bear",
+    "based on children's book",
+    "family",
+    "talking to animals",
+    "children's book",
+    "taxidermist",
+    "live action and animation",
+    "personification",
+    "natural history museum"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+    "A young Peruvian bear with a passion for all things British travels to London in search of a home. Finding himself lost and alone at Paddington Station, he begins to realize that city life is not all he had imagined--until he meets the kind Brown family, who read the label around his neck ('Please look after this bear. Thank you.') and offer him a temporary haven. It looks as though his luck has changed until this rarest of bears catches the eye of a museum taxidermist.—Marmalade Films",
+    "In the deep jungles of darkest Peru, British geographer Montgomery Clyde (Tim Downey) happens upon a previously-unknown species of bear. He is about to shoot it, to take it back as a specimen to the United Kingdom, when another bear playfully takes his gun away. He learns that this family of bears is intelligent and can learn English, and that they have a big appetite for marmalade. He names them Lucy (Imelda Staunton) and Pastuzo (Sir Michael Gambon). As he departs, he throws his hat to Pastuzo and tells the bears that they are always welcome should they wish to go to London. Several years later, the two bears are living in harmony with their nephew when an earthquake strikes their home, forcing them to seek shelter underground. After being trapped by a falling tree, Uncle Pastuzo is unable to reach the shelter in time and dies from his injuries. The next morning, Uncle Pastuzo's hat is found by his nephew, Paddington (Ben Whishaw). Aunt Lucy encourages her nephew to go find solace in London, and stows him away on a cargo ship, after which she says she will move into the Home for Retired Bears."
+  ],
+  "synopsis": "In the deep jungles of darkest Peru, a British geographer named Montgomery Clyde happens upon a previously unknown species of bear. He is about to shoot it to take back a specimen to England when another bear playfully takes his gun away. He learns that this family of bears is intelligent and can learn English, and that they have a deep appetite for marmalade. He names them Lucy and Pastuzo. As he departs, he throws his hat to Pastuzo and tells the bears that they are always welcome should they wish to go to London.Years later, the two bears are living in harmony with their nephew when an earthquake strikes their home, forcing them to seek shelter underground. Distracted and upset at the loss of his home, Pastuzo is unable to reach the shelter in time. He disappears, with his hat being found the next day by his nephew. Aunt Lucy encourages her nephew to go and find solace in London, and stows him away on a cargo ship, after which she says she will move into the Home for Retired Bears.The young bear reaches London, but he fails to find a home. He is taken in briefly by the Brown family, who name him after Paddington Station, where they found him. Henry Brown, a devoted risk analyst, is adamant that Paddington (Ben Whishaw) stay only one night while they find a place for him to live permanently. Paddington causes a series of accidents across the house, further isolating himself from the Browns.Paddington thinks he can find a home with the explorer who found his aunt and uncle but does not know the explorer's name. Mary Brown (Sally Hawkins) takes Paddington to an antique shop owner who discovers that the hat bears the stamp of the Geographers Guild, but the Guild says that it never sent a member to explore darkest Peru. With the help of Mr. Brown (Hugh Bonneville), Paddington infiltrates the Geographers Guild archives and discovers an expedition to Peru was undertaken by Montgomery Clyde. He uses the city's phone books to track the addresses of all the \"M Clyde's\" in London.Meanwhile, a sadistic museum taxidermist named Millicent Clyde (Nicole Kidman) captures, kills, and stuffs exotic animals to house in the Natural History Museum. When she becomes aware of Paddington, she immediately sets out to hunt him down. The Brown family departs for the day, leaving Paddington home alone. Scheming with the Browns' nosy neighbor Mr. Curry, Millicent sneaks in and attempts to capture Paddington; he inadvertently repels her, but burns the kitchen in the process. Oblivious to Paddington's statement of Millicent's capture attempt, the Browns state that he must move into a new house as soon as possible.Feeling unwanted at the Browns, Paddington leaves and attempts to track Montgomery Clyde himself. He finally locates the house, only to discover that Clyde died many years ago, and that Millicent is actually his daughter - who resents her father for losing his job and membership with the museum; out of a change of heart, he refused to bring a valuable Peruvian bear specimen home, even though it would have made him the wealthiest man in the world.Millicent is determined to succeed where her father failed and become rich and famous herself. She tranquilizes Paddington and prepares to stuff him, but when Mr. Curry discovers her true intentions, he informs the Brown family, and they rush to save Paddington. They rescue him, and Paddington subdues Millicent by throwing a marmalade sandwich at her, which attracts a huge flock of pigeons, distracting her as family relative Mrs. Bird (Julie Walters) opens a roof hatch and inadvertently pushes her off of the roof, trapping her on a flagpole.In the aftermath, the Browns adopt Paddington into their family and Millicent is sentenced to community service at a petting zoo. Paddington writes to Aunt Lucy saying he is happy and has finally found a home."
+}

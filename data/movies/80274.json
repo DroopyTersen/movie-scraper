@@ -1,0 +1,899 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/qGqlWb5izTPtFngBWdbJAEmninR.jpg",
+  "id": 80274,
+  "title": "Ender's Game",
+  "poster_path": "https://image.tmdb.org/t/p/w500/vrEpLNkv30qw7JiVyorgR6NOWDm.jpg",
+  "release_date": "2013-10-24",
+  "vote_average": 6.59,
+  "vote_count": 5543,
+  "popularity": 36.588,
+  "overview": "Based on the classic novel by Orson Scott Card, Ender's Game is the story of the Earth's most gifted children training to defend their homeplanet in the space wars of the future.",
+  "imdb_id": "tt1731141",
+  "budget": 110000000,
+  "homepage": "",
+  "revenue": 125537191,
+  "runtime": 114,
+  "tagline": "This is not a game.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Digital Domain",
+    "Chartoff Productions",
+    "Taleswapper",
+    "K/O Paper Products",
+    "OddLot Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Harrison Ford",
+        "character": "Colonel Hyrum Graff"
+      },
+      {
+        "name": "Asa Butterfield",
+        "character": "Ender Wiggin"
+      },
+      {
+        "name": "Hailee Steinfeld",
+        "character": "Petra Arkanian"
+      },
+      {
+        "name": "Viola Davis",
+        "character": "Major Gwen Anderson"
+      },
+      {
+        "name": "Ben Kingsley",
+        "character": "Mazer Rackham"
+      },
+      {
+        "name": "Abigail Breslin",
+        "character": "Valentine Wiggin"
+      },
+      {
+        "name": "Aramis Knight",
+        "character": "Bean"
+      },
+      {
+        "name": "Moisés Arias",
+        "character": "Bonzo Madrid"
+      },
+      {
+        "name": "Nonso Anozie",
+        "character": "Sergeant Dap"
+      },
+      {
+        "name": "Suraj Partha",
+        "character": "Alai"
+      },
+      {
+        "name": "Khylin Rhambo",
+        "character": "Dink Meeker"
+      },
+      {
+        "name": "Jimmy 'Jax' Pinchak",
+        "character": "Peter Wiggin"
+      },
+      {
+        "name": "Conor Carroll",
+        "character": "Bernard"
+      },
+      {
+        "name": "Tony Mirrcandani",
+        "character": "Admiral Chjamrajnagar"
+      },
+      {
+        "name": "Stevie Ray Dallimore",
+        "character": "John Wiggin"
+      },
+      {
+        "name": "Andrea Powell",
+        "character": "Theresa Wiggin"
+      },
+      {
+        "name": "Brandon Soo Hoo",
+        "character": "Fly Molo"
+      },
+      {
+        "name": "Han Soto",
+        "character": "Lieutenant Soto"
+      },
+      {
+        "name": "Kyle Clements",
+        "character": "Young Mazer Rackham"
+      },
+      {
+        "name": "Kelvin Harrison Jr.",
+        "character": "Salamander (uncredited)"
+      },
+      {
+        "name": "Caleb J. Thaggard",
+        "character": "Stilson"
+      },
+      {
+        "name": "Cameron Gaskins",
+        "character": "Slattery"
+      },
+      {
+        "name": "Wendy Miklovic",
+        "character": "Female Doctor"
+      },
+      {
+        "name": "Jasmine Kaur",
+        "character": "Professor"
+      },
+      {
+        "name": "Edrick Browne",
+        "character": "Eros Tech Officer Hendee"
+      },
+      {
+        "name": "Christopher Coakley",
+        "character": "Stilson Buddy #1"
+      },
+      {
+        "name": "Chase Walker",
+        "character": "Stilson Buddy #2"
+      },
+      {
+        "name": "Gavin Hood",
+        "character": "Giant"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jay Meagher",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "John Papsidera",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Donald McAlpine",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Lee Smith",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Zach Staenberg",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Dan Moore",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Dane A. Davis",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Dane A. Davis",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Sean Haworth",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "David Coatsworth",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Gavin Hood",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Gavin Hood",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ron Bartlett",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Alex Kurtzman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Roberto Orci",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert Chartoff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steve Jablonsky",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Gigi Pritzker",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kate Dowd",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Tim Gomillion",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Deborah Del Prete",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Kathrine Gordon",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Anne Rapp",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Peter Lando",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Lynn Hendee",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Orson Scott Card",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Orson Scott Card",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "J.J. Perry",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David A. Whittaker",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Raman Rao",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Greg Berry",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Garrett Warren",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Garrett Warren",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Linda McDonough",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Bill Lischak",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "John Roesch",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Alicia Vela-Bailey",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Steven R. Mathis",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Austin Basile",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Mandy Safavi",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ed Ulbrich",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ben Procter",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Christine Bieselin Clark",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Trefor Proud",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Sarah Forrest",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Eric Lindemann",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Hilda Hodges",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "A. Todd Holland",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Anthony Syracuse",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Clint Wallace",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Noelle King",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Russ Doyle",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Sue Rowe",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Lauri Mills",
+        "department": "Crew",
+        "job": "Studio Teachers"
+      },
+      {
+        "name": "Anshuman Prasad",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Chris Hopkins",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Rochelle Harvey",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "C. Scott Baker",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Matthew E. Butler",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jinnie Pak",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Tim Carras",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Joshua D. Comen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Remi Tournois",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "name": "Collette Nunes",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Richard Foreman Jr.",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Matt Blackshear",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Don Miloyevich",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Alyson Dee Moore",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Tom Goodrich",
+        "department": "Crew",
+        "job": "Studio Teachers"
+      },
+      {
+        "name": "Mark Breakspear",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Chris Haarhoff",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "David An",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Jess Platt",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Stacey Butterworth",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Anthony J. Henderson",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Andrew M. Casbon III",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Winston Helgason",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Alex Gibson",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Karri Farris",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ronald Hersey",
+        "department": "Camera",
+        "job": "Helicopter Camera"
+      },
+      {
+        "name": "Ronald Hersey",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Ronald Hersey",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "David Vyle Levy",
+        "department": "Art",
+        "job": "Conceptual Design"
+      },
+      {
+        "name": "Emily Eddey",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Diane Slattery",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Brian A. Waits",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "John Trapman",
+        "department": "Camera",
+        "job": "Helicopter Camera"
+      },
+      {
+        "name": "Des Carey",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Betty Lou Skinner",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Lisa Beroud",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Steve Miller",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Will Arnot",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Glenn E. Moran",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Jason Waggenspack",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Brooks Robinson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Randy Kinyon",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Amy Heinz-Barnett",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Michael Blackbourn",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Daina Daigle",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Remi Savva",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "LaToya Henderson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Becky Cotton",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Dave Merry",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Twig Leveque",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "John Naehrlich",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "James Miller",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Derek Casari",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "name": "Matthew W. Kielkopf",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "Tohda Asuka",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Zeljko Barcan",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Nick Epstein",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Earl Paraszczynec",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Dusan Strugar",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Hanzhi Tang",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Tully Summers",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "name": "Gavin Gregory",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Annemarie Griggs",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Sergio Jimenez",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Lara Ramirez",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Andrew Smith",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Nancy St. John",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Ryan Valade",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Max Dennison",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Georg Kaltenbrunner",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Yoan Souligoux",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Sujil Sukumaran",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Sai Win Myint Oo",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Christine Felman",
+        "department": "Visual Effects",
+        "job": "VFX Production Coordinator"
+      },
+      {
+        "name": "Nardeep Chander",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Julien Depredurand",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Matthew W. Davis",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Jen Wasson",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Michael Cioni",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Katie Fellion",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Tony Bacigalupi",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Sean J. Donnelly",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Charles Howes",
+        "department": "Crew",
+        "job": "Studio Teachers"
+      },
+      {
+        "name": "Michael Provost",
+        "department": "Crew",
+        "job": "Acting Double"
+      },
+      {
+        "name": "Ivy Zhong",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mallory Thompson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Venkatesh Roddam",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ted Ravinett",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Juan Couto",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Austin Kane",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "fight",
+    "starship",
+    "intolerance",
+    "war strategy",
+    "chosen one",
+    "earth",
+    "child prodigy",
+    "futuristic",
+    "space",
+    "alien invasion",
+    "universe",
+    "military school",
+    "adventurer",
+    "morality tale",
+    "based on young adult novel",
+    "boy group",
+    "starships"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Young Ender Wiggin is recruited by the International Military to lead the fight against the Formics, an insectoid alien race who had previously tried to invade Earth and had inflicted heavy losses on humankind.",
+    "The Earth was ravaged by the Formics, an alien race seemingly determined to destroy humanity. Fifty years later, the people of Earth remain banded together to prevent their own annihilation from this technologically superior alien species. Ender Wiggin, a quiet but brilliant boy, may become the savior of the human race. He is separated from his beloved sister and his terrifying brother and brought to battle school in orbit around earth. He will be tested and honed into an empathetic killer who begins to despise what he does as he learns to fight in hopes of saving Earth and his family.—CrystalSinger45, Jesse Daniels, strouda56",
+    "In the near future, a hostile alien race has attacked Earth. In preparation for the next attack, the highly esteemed Colonel Graff and the International Military seek to find a future leader who can save the human race. Ender Wiggin, a shy but strategically brilliant young mind, is recruited to join the elite, where he's trained to lead his fellow soldiers into an epic battle that will determine the future of Earth.—Summit Entertainment",
+    "In the future, Earth is attacked by the alien race Formics and after many casualties, the hero Mazer Rackham destroys the mothership and defeats the aliens. Fifty years later, the outcast boy Ender Wiggin is recruited by Colonel Graff and Major Gwen Anderson to be part of a selected team of boys and girls that are being prepared by the International Military for the next invasion of the Formics. Colonel Graff believes that he may be the leader and savior of the human race, but Major Anderson is concerned with the psychological damages that may be caused to Ender.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Ender is a slight fragile teenager with the expanding mind of a genius. His brother, the brute jock, is violent and only sees through strength and brutality. His sister the kind and compassionate one sees only through an affected sense of contact. Ender is a third child in a population overloaded world that is reeling from the previous war with the alien race of insectivorous beings who work and behave like the ants nest, the Formics. Having been brought in to being by loving parents who gained permission for his birth, Ender feels he is not only unwanted but excess baggage to the world. However, his mind is his strength. He is gifted with the ability to become his aggressor and think like his aggressor thus giving him the key to the aggressor as he learns to love them through their frailty - using this to exploit them and thus destroy them. This ability is seen by those old men solidified in their ways, who have no flexibility in their thinking anymore, and exploit Ender to achieve their own ends. But at what cost, and to whom?—BlueEyes001"
+  ],
+  "synopsis": "In the future, humanity is preparing to launch an attack on the home world of an alien race called the Formics who had attacked Earth and killed millions. Over the course of fifty years, gifted children are trained by the International Fleet to become commanders of a new fleet for this counterattack.Cadet Andrew \"Ender\" Wiggin (Asa Butterfield), a gifted boy, draws the attention of Colonel Hyrum Graff (Harrison Ford) and Major Gwen Anderson (Viola Davis) by his aptitude in simulated space combat. They order the removal of his monitor, signifying the end of the cadet program. Ender is attacked by Stilson, a student he defeated in the combat sim, but Ender fights back and severely injures him. Ender confesses his grief to his older sister Valentine but is harassed further by their older brother Peter. Graff arrives to reveal he was being tested and still part of the program. Graff brings Ender to Battle School, placing Ender with other cadets his age, but treats him as extraordinary, ostracizing him from the others.Among other studies, the cadets are placed in squads and perform training games in a zero gravity \"Battle Room\". Ender quickly adapts to the games, devising new strategies older students have not yet seen. Graff reassigns Ender to Salamander Army, led by Commander Bonzo Madrid. Bonzo is resentful of the new addition and prevents Ender from training. Another cadet, Petra Arkanian, takes Ender and trains him privately. In one match, Ender goes against Bonzo's orders and working with Petra, achieves a key victory for his army.Meanwhile, Ender plays a computerized \"mind game\" set in a fantasy world aimed to present difficult choices to the player. In one situation, Ender creates a solution to overcome an unsolvable problem. Later, he encounters a Formic in the game, and then a simulated image of Valentine entering the ruins of a castle. Inside, he finds another image of Valentine but as he nears, it turns into an image of Peter before the game ends.Graff promotes Ender to his own squad, made from other students that have gained Ender's trust. They are put in increasingly difficult battles. In one match against two other teams including Bonzo's squad, Ender devises a novel strategy of sacrificing part of his team to achieve a goal, impressing Graff. Bonzo accosts Ender in the bathroom after the match, but Ender fights back and mortally harms him. Distraught over this, Ender prepares to quit Battle School, but Graff has Valentine speak to him and convince him to continue.Graff takes Ender to humanity's forward base on a former Formic planet near their home world. There, Ender meets Mazer Rackham (Ben Kingsley), who explains how he spotted the shared-mind nature of the Formics to stop the attack fifty years prior. Rackham noticed that the formic battle formations had an epicenter in one particular ship. So, he rammed his plane into the center of that ship, & that disabled the entire formic battle fleet. They also figure out that the epicenter ship had a formic queen, much like the queen in the ant world & there was perhaps another queen on the formic home world, which if killed would disable the entire formic fleet.Ender finds that his former squad members are also here to help him train in computerized simulations of large fleet combat; Rackham puts special emphasis on the fleet's Molecular Detachment (MD) Device that is capable of disintegrating matter. Ender's training is rigorous, and Anderson expresses concern they are pushing Ender too fast, but Graff notes they have run out of time to replace Ender.Ender's final test is monitored by several of the fleet commanders. As the simulation starts, Ender finds his fleet over the Formic home world and vastly outnumbered. He orders most of his fleet to sacrifice themselves to protect the MD long enough to fire on the home world, which is does. The simulation ends, and Ender believes the test is over, but the commanders restart the video screens, showing that the destruction of the Formic home world was real, and Ender had been controlling the real fleet this time. Despite Graff's assurance he will be known as a hero, Ender is furious as everyone will remember him as a killer.As Ender struggles with his emotions, he recognizes one of the Formic structures nearby (on the forward base) similar to the ruined castle from the game, and believing they were trying to communicate with him, races out towards it. He follows the path set by the game and encounters a dying Formic queen who has been protecting another queen egg.Ender writes in a letter to Valentine that he is heading to deep space with the egg, determined to colonize a new Formic world with it."
+}

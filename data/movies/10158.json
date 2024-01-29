@@ -1,0 +1,596 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/1ddbFAPdD0miHXuX7nIjcvtwDZK.jpg",
+  "id": 10158,
+  "title": "White Men Can't Jump",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jnI05Z2Cm9ACEJo8FGen7tdHKLl.jpg",
+  "release_date": "1992-03-27",
+  "vote_average": 6.608,
+  "vote_count": 1240,
+  "popularity": 18.915,
+  "overview": "Two street basketball hustlers try to con each other, then team up for a bigger score.",
+  "imdb_id": "tt0105812",
+  "budget": 31000000,
+  "homepage": "",
+  "revenue": 90753806,
+  "runtime": 115,
+  "tagline": "It ain't easy being this good.",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "production_companies": [
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Wesley Snipes",
+        "character": "Sidney Deane"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Billy Hoyle"
+      },
+      {
+        "name": "Rosie Perez",
+        "character": "Gloria Clement"
+      },
+      {
+        "name": "Tyra Ferrell",
+        "character": "Rhonda Deane"
+      },
+      {
+        "name": "Cylk Cozart",
+        "character": "Robert"
+      },
+      {
+        "name": "Kadeem Hardison",
+        "character": "Junior"
+      },
+      {
+        "name": "Ernest Harden Jr.",
+        "character": "George"
+      },
+      {
+        "name": "John Marshall Jones",
+        "character": "Walter"
+      },
+      {
+        "name": "Marques Johnson",
+        "character": "Raymond"
+      },
+      {
+        "name": "David Roberson",
+        "character": "T.J."
+      },
+      {
+        "name": "Kevin Benton",
+        "character": "Zeke"
+      },
+      {
+        "name": "Nigel Miguel",
+        "character": "Dwight 'The Flight' McGhee"
+      },
+      {
+        "name": "Duane Martin",
+        "character": "Willie Lewis"
+      },
+      {
+        "name": "Bill Henderson",
+        "character": "Self"
+      },
+      {
+        "name": "Sonny Craver",
+        "character": "Self"
+      },
+      {
+        "name": "Jon Hendricks",
+        "character": "Self"
+      },
+      {
+        "name": "Eloy Casados",
+        "character": "Tony Stucci"
+      },
+      {
+        "name": "Frank Rossi",
+        "character": "Frank Stucci"
+      },
+      {
+        "name": "Freeman Williams",
+        "character": "Duck Johnson"
+      },
+      {
+        "name": "Louis Price",
+        "character": "Eddie 'The King' Faroo"
+      },
+      {
+        "name": "Alex Trebek",
+        "character": "Himself"
+      },
+      {
+        "name": "Reggie Leon",
+        "character": "Reggie"
+      },
+      {
+        "name": "Sarah Stavrou",
+        "character": "Etiwanda"
+      },
+      {
+        "name": "Reynaldo Rey",
+        "character": "Tad"
+      },
+      {
+        "name": "Lanei Chapman",
+        "character": "Lanei"
+      },
+      {
+        "name": "Irene Nettles",
+        "character": "Real Estate Agent"
+      },
+      {
+        "name": "Torri Whitehead",
+        "character": "Tanya"
+      },
+      {
+        "name": "Lisa McDowell",
+        "character": "Alisa"
+      },
+      {
+        "name": "Dion B. Vines",
+        "character": "The Bank"
+      },
+      {
+        "name": "David Maxwell",
+        "character": "Malcolm"
+      },
+      {
+        "name": "Bill Caplan",
+        "character": "Tournament Announcer"
+      },
+      {
+        "name": "Richard James Baker",
+        "character": "Tournament Referee"
+      },
+      {
+        "name": "Amy Golden",
+        "character": "Big Guy's Girlfriend"
+      },
+      {
+        "name": "Jeanette Srubar",
+        "character": "Little Guy's Girlfriend"
+      },
+      {
+        "name": "Zandra Hill",
+        "character": "Sponsor"
+      },
+      {
+        "name": "Fred P. Gregory",
+        "character": "Sponsor"
+      },
+      {
+        "name": "Carl E. Hodge",
+        "character": "Pickup Truck Driver"
+      },
+      {
+        "name": "Ruben Martinez",
+        "character": "Ruben"
+      },
+      {
+        "name": "Gary Lazer",
+        "character": "Oki-Dog Businessman"
+      },
+      {
+        "name": "Donna Howell",
+        "character": "Yolanda"
+      },
+      {
+        "name": "Don Fullilove",
+        "character": "Jake"
+      },
+      {
+        "name": "Johnny Gilbert",
+        "character": "Jeopardy! Announcer"
+      },
+      {
+        "name": "Leonard A. Oakland",
+        "character": "Dr. Leonard Allen"
+      },
+      {
+        "name": "Allan Malamud",
+        "character": "Rocket Scientist"
+      },
+      {
+        "name": "Jeanne McCarthy",
+        "character": "Dressing Room Staffer"
+      },
+      {
+        "name": "John Charles Sheehan",
+        "character": "Cop"
+      },
+      {
+        "name": "Gregg Daniel",
+        "character": "Leon"
+      },
+      {
+        "name": "Carl A. McGee",
+        "character": "Gambler"
+      },
+      {
+        "name": "Chick Hearn",
+        "character": "NBA Announcer"
+      },
+      {
+        "name": "Stu Lantz",
+        "character": "NBA Announcer"
+      },
+      {
+        "name": "Ronald Beals",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Joe Metcalf",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Mahcoe Moore",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Mark Hill",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Eric Kizzie",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Chalmer Maddox",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Leroy Michaux",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Joseph Duffy",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Pete Duffy",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Gary Moeller",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Daniel Porto",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Lester Hawkins",
+        "character": "Ballplayer"
+      },
+      {
+        "name": "Jeffrey Todd",
+        "character": "Ballplayer"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Victoria Thomas",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Ron Shelton",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Ron Shelton",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "David V. Lester",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Doc Kane",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Robert R. Benton",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Paul Seydor",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Simone Boisseree",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "J. Dennis Washington",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Russell Boyd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Ed Milkovich",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Kimberly Ray",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Francine Jamison-Tanchuck",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Don Miller",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mike Benson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "John Kwiatkowski",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Kimberly Lowe Voigt",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Julius LeFlore",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Jory Weitz",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Richard Alexander Wells",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "David E. Campbell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Gregg Rudloff",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "John T. Reitz",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Anthony Milch",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Steve Schwalbe",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Gordon Ecker",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Howell Gibbens",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Kenneth Walker",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Patrick Bietz",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Richard E. Yawn",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Barbara J. Boguski",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Bruce Fortune",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Michele Perrone",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Kirk Francis",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Scott Leva",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sterfon Demings",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Gary Baxley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Richardson",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Ty Suehiro",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Michele Rappaport",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Roger G. Fortune",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Patrick Murray",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Shawn Sykora",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Michael Dressel",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Robert Bradshaw",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Mike Johnson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Larry Carow",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Holly Huckins",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Betty Jean Slater",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Leslie Gaulin",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Clay H. Wilson",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Michael Meinardus",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Mark Pearson",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Edmond Wright",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Robert J. Metoyer",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Patricia Messina",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Stephanie Cozart Burton",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Bill Dannevik",
+        "department": "Sound",
+        "job": "Foley Editor"
+      }
+    ]
+  },
+  "keywords": [
+    "friendship",
+    "sports",
+    "white trash",
+    "male friendship",
+    "racial segregation",
+    "basketball",
+    "streetball",
+    "jeopardy",
+    "los angeles, california",
+    "buddy",
+    "hoodlum",
+    "confidence artist",
+    "hustling"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Black and white basketball hustlers join forces to double their chances of winning money on the street courts and in a basketball tournament.",
+    "Billy and Sydney think they're the best basketball hustlers in town, so when they join forces, nothing can stop them, except each other. To add to their problems, Billy owes money and is being chased by a pair of gangster types.—Rob Hartill"
+  ],
+  "synopsis": ""
+}

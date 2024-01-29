@@ -1,0 +1,1731 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hB4ibOHXm1Xl0IbuYVioktDGUWJ.jpg",
+  "id": 718032,
+  "title": "Licorice Pizza",
+  "poster_path": "https://image.tmdb.org/t/p/w500/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg",
+  "release_date": "2021-11-26",
+  "vote_average": 7,
+  "vote_count": 2039,
+  "popularity": 38.881,
+  "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+  "imdb_id": "tt11271038",
+  "budget": 40000000,
+  "homepage": "http://licoricepizzamovie.com",
+  "revenue": 33300000,
+  "runtime": 133,
+  "tagline": "Things come easy when they matter so much.",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    "Metro-Goldwyn-Mayer",
+    "Focus Features",
+    "Bron Studios",
+    "Ghoulardi Film Company"
+  ],
+  "production_countries": [
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Alana Haim",
+        "character": "Alana Kane"
+      },
+      {
+        "name": "Cooper Hoffman",
+        "character": "Gary Valentine"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "Jack Holden"
+      },
+      {
+        "name": "Tom Waits",
+        "character": "Rex Blau"
+      },
+      {
+        "name": "Bradley Cooper",
+        "character": "Jon Peters"
+      },
+      {
+        "name": "Benny Safdie",
+        "character": "Joel Wachs"
+      },
+      {
+        "name": "Skyler Gisondo",
+        "character": "Lance Brannigan"
+      },
+      {
+        "name": "Mary Elizabeth Ellis",
+        "character": "Momma Anita"
+      },
+      {
+        "name": "John Michael Higgins",
+        "character": "Jerry Frick"
+      },
+      {
+        "name": "Christine Ebersole",
+        "character": "Lucille Doolittle"
+      },
+      {
+        "name": "Harriet Sansom Harris",
+        "character": "Mary Grady"
+      },
+      {
+        "name": "Joseph Cross",
+        "character": "Matthew"
+      },
+      {
+        "name": "Danielle Haim",
+        "character": "Danielle Kane"
+      },
+      {
+        "name": "Este Haim",
+        "character": "Este Kane"
+      },
+      {
+        "name": "Moti Haim",
+        "character": "Moti Kane"
+      },
+      {
+        "name": "Donna Haim",
+        "character": "Donna Kane"
+      },
+      {
+        "name": "Maya Rudolph",
+        "character": "Gale"
+      },
+      {
+        "name": "Ryan Heffington",
+        "character": "Steve"
+      },
+      {
+        "name": "Nate Mann",
+        "character": "Brian"
+      },
+      {
+        "name": "Isabelle Kusman",
+        "character": "Sue Pomerantz"
+      },
+      {
+        "name": "Destry Allyn Spielberg",
+        "character": "Frisbee Kahill"
+      },
+      {
+        "name": "George DiCaprio",
+        "character": "Mr. Jack"
+      },
+      {
+        "name": "Iyana Halley",
+        "character": "Wig Shop Brenda"
+      },
+      {
+        "name": "Ray Chase",
+        "character": "B. Mitch Reed"
+      },
+      {
+        "name": "Emma Dumont",
+        "character": "Airplane Brenda"
+      },
+      {
+        "name": "Yumi Mizui",
+        "character": "Mioko"
+      },
+      {
+        "name": "Megumi Anjo",
+        "character": "Kimiko"
+      },
+      {
+        "name": "Emily Althaus",
+        "character": "Kiki Page"
+      },
+      {
+        "name": "Tim Conway Jr.",
+        "character": "Vic the Director"
+      },
+      {
+        "name": "Griff Giacchino",
+        "character": "Mark"
+      },
+      {
+        "name": "Will Angarola",
+        "character": "Kirk"
+      },
+      {
+        "name": "Milo Herschlag",
+        "character": "Greg Valentine"
+      },
+      {
+        "name": "Craig Stark",
+        "character": "Long Haired Freak"
+      },
+      {
+        "name": "Louis Delavenne",
+        "character": "Rive Gauche Waiter"
+      },
+      {
+        "name": "Rogelio Camarillo",
+        "character": "Armand"
+      },
+      {
+        "name": "Nathan M. Hadden",
+        "character": "Tail o' the Cock Valet"
+      },
+      {
+        "name": "Brian Kehew",
+        "character": "Sonny & Cher Tech"
+      },
+      {
+        "name": "Ray Nicholson",
+        "character": "Ray"
+      },
+      {
+        "name": "Eloy Perez",
+        "character": "Guillermo"
+      },
+      {
+        "name": "Pearl Minnie Anderson",
+        "character": "Sharon"
+      },
+      {
+        "name": "Dan Chariton",
+        "character": "Sam Harpoon"
+      },
+      {
+        "name": "James Kelley",
+        "character": "Tim"
+      },
+      {
+        "name": "Dexter Demme",
+        "character": "Cherry Bomb Kid / Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "River Cornwell",
+        "character": "Cherry Bomb Kid"
+      },
+      {
+        "name": "Harrison Bray",
+        "character": "Cherry Bomb Kid"
+      },
+      {
+        "name": "Sasha Spielberg",
+        "character": "Tiny Toes Girl"
+      },
+      {
+        "name": "Karissa Reynafarje",
+        "character": "Tiny Toes Girl"
+      },
+      {
+        "name": "Savannah Ioakimedes",
+        "character": "Tiny Toes Girl"
+      },
+      {
+        "name": "Dorie Samovitz",
+        "character": "Tiny Toes Girl"
+      },
+      {
+        "name": "Anna Cordell",
+        "character": "Tiny Toes Girl"
+      },
+      {
+        "name": "Adam Somner",
+        "character": "Tiny Toes Photographer"
+      },
+      {
+        "name": "Joshua Carl Allen",
+        "character": "Tiny Toes Photographer"
+      },
+      {
+        "name": "Patrick Hoelck",
+        "character": "Tiny Toes Photographer"
+      },
+      {
+        "name": "Collin Sutton",
+        "character": "Tiny Toes Photographer"
+      },
+      {
+        "name": "Lucia Angarola",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Lola Brown",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Nancy Cornwell",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Harry Fincher",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Laura Gary",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Julie Goldklang",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Ava Gosselaar",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Lila Kay",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Lucy Lopez",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Zoe Novak",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Van Rich-Takayama",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Isaac Soren",
+        "character": "Grant High School Student"
+      },
+      {
+        "name": "Phil Bray",
+        "character": "Don the Bartender"
+      },
+      {
+        "name": "Patrick Aranda",
+        "character": "Tail o' the Cock Pianist"
+      },
+      {
+        "name": "Andrew C. Eure",
+        "character": "Jerry Best Crew"
+      },
+      {
+        "name": "Joshua Zev Nathan",
+        "character": "Jerry Best Crew / Tilt"
+      },
+      {
+        "name": "Mia Bruno",
+        "character": "Jerry Best Crew"
+      },
+      {
+        "name": "Trevor Tavares",
+        "character": "A Jack"
+      },
+      {
+        "name": "Kathy Trinh",
+        "character": "A Jill"
+      },
+      {
+        "name": "Greg Goetzman",
+        "character": "Jerry Best"
+      },
+      {
+        "name": "Grace Anderson",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Minnie Ida Anderson",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Jack Anderson",
+        "character": "Under One Roof Kid / Jimbo"
+      },
+      {
+        "name": "Lucille Anderson",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Mahalia Flanagan",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Seamus Flanagan",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Tallulah Hoffman",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Willa Hoffman",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Megan Kelley",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Hudson Monkarsh",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Olive Monkarsh",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Stella Monkarsh",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Waylon Richling",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Ben Schacter",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Matty Schacter",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Hazel Schaffer",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "June Schaffer",
+        "character": "Under One Roof Kid"
+      },
+      {
+        "name": "Delaina Mitchell",
+        "character": "Stage Mom"
+      },
+      {
+        "name": "Liz Cackowski",
+        "character": "Stage Mom"
+      },
+      {
+        "name": "Vanessa Schacter",
+        "character": "Stage Mom"
+      },
+      {
+        "name": "Alexandra Monkarsh",
+        "character": "Stage Mom"
+      },
+      {
+        "name": "Tyler Young",
+        "character": "Audience Dad"
+      },
+      {
+        "name": "Josh Monkarsh",
+        "character": "Audience Dad"
+      },
+      {
+        "name": "Max Mitchell",
+        "character": "William"
+      },
+      {
+        "name": "Erica Sullivan",
+        "character": "Director's Assistant"
+      },
+      {
+        "name": "Bottara Angele",
+        "character": "Fairgoer"
+      },
+      {
+        "name": "Laura Louise Richardson",
+        "character": "Fairgoer"
+      },
+      {
+        "name": "Lakin Valdez",
+        "character": "Cop"
+      },
+      {
+        "name": "Mark Kirksey",
+        "character": "Cop"
+      },
+      {
+        "name": "Allegra Clark",
+        "character": "Police Dispatch (voice)"
+      },
+      {
+        "name": "Ingrid Sophie Schram",
+        "character": "B. Mitch Reed Assistant"
+      },
+      {
+        "name": "Ariel Rechtshaid",
+        "character": "KPPC Management"
+      },
+      {
+        "name": "Doug Weaver",
+        "character": "UPS Driver"
+      },
+      {
+        "name": "Ted McCarthy",
+        "character": "Waterbed Ted (voice)"
+      },
+      {
+        "name": "Lori Killam",
+        "character": "Janice"
+      },
+      {
+        "name": "Coco Soren",
+        "character": "Lucy's Friend"
+      },
+      {
+        "name": "Austin Anderson",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "William Angarola",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Hudson Brown",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Sawyer Conklin",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Sylvie Conklin",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Sharyn Dent-Bray",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Renee Flanagan",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Jamie Giacchino",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Apryl Huntzinger",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Shana Dishell Richling",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Thomas John Rudolph",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Charlotte Schmid-Maybach",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Ford Stoller",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "George Stoller",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Theo Stoller",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "William Stoller",
+        "character": "Fat Bernie's Waterbed Customer"
+      },
+      {
+        "name": "Zoe Herschlag",
+        "character": "Wendi Jo"
+      },
+      {
+        "name": "Henri Abergel",
+        "character": "Henri"
+      },
+      {
+        "name": "Theresa Anderson",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Mark Flanagan",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Joanne Gough",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Paul Gough",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Cassandra Kulukundis",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Danielle Miller",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Hank Oster",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Reina Reyes",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Kimiko Kasai",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Dick Rudolph",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Kirk Saduski",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Katy Weber",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Dennis Weiss",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Mark Wolfson",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Ryan B. Young",
+        "character": "Tail o' the Cock Patron"
+      },
+      {
+        "name": "Benjamin Barrett",
+        "character": "Latin Lad"
+      },
+      {
+        "name": "Demelza Cronin",
+        "character": "Tennis Girl"
+      },
+      {
+        "name": "Katie Cronin",
+        "character": "Tennis Girl"
+      },
+      {
+        "name": "Dennis McCarthy",
+        "character": "Reporter"
+      },
+      {
+        "name": "Mary Eileen O'Donnell",
+        "character": "Reporter"
+      },
+      {
+        "name": "William Potter",
+        "character": "Joel Wachs Photographer"
+      },
+      {
+        "name": "Ted McCarthy",
+        "character": "Joel Wachs Chief of Staff"
+      },
+      {
+        "name": "Karen Kilgariff",
+        "character": "Joel Wachs Mom"
+      },
+      {
+        "name": "Alex Herschlag",
+        "character": "Joel Wachs Dad"
+      },
+      {
+        "name": "Madison Sonora",
+        "character": "Joel Wachs Volunteer"
+      },
+      {
+        "name": "Jonathan Goetzman",
+        "character": "Joel Wachs Volunteer"
+      },
+      {
+        "name": "Victoria Kunkel",
+        "character": "Joel Wachs Volunteer"
+      },
+      {
+        "name": "Jon Beavers",
+        "character": "Number 12 Creep"
+      },
+      {
+        "name": "Luigi Della Ripa",
+        "character": "Luigi the Tailor"
+      },
+      {
+        "name": "Riley Parker",
+        "character": "Annoying Pinball Kid"
+      },
+      {
+        "name": "Max Beristain",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Eden Burakoff",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Alex Canter",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Avery Carey",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "AJ Carr",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Angenaya Carr",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Nick Cohen",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Eric Culhane",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Astaria Dayne",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Mick Giacchino",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Luna Gray",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Julia Greene",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Sung Han",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Lawrence Haymes",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Arlo Reilly",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Francesca Sarracino",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Luigi Sarracino",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Frank Scott",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Max Scott",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Yanari Warren",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Ciara Williamson",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Hannah Williamson",
+        "character": "Fat Bernie's Pinball Crowd"
+      },
+      {
+        "name": "Dan Anderson",
+        "character": "Encino Theater Staff"
+      },
+      {
+        "name": "Kat Barnette",
+        "character": "Ticket Taker"
+      },
+      {
+        "name": "Natalia Becerril",
+        "character": "Latin Lady (uncredited)"
+      },
+      {
+        "name": "Zachary Chicos",
+        "character": "Upscale Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "Gerren Hall",
+        "character": "Campaign Employee (uncredited)"
+      },
+      {
+        "name": "Fatimah Hassan",
+        "character": "Driver (uncredited)"
+      },
+      {
+        "name": "Steven Herrera",
+        "character": "Teen Fair Goer (uncredited)"
+      },
+      {
+        "name": "Brandon Koen",
+        "character": "Fair Goer (uncredited)"
+      },
+      {
+        "name": "Richard B. Larimore",
+        "character": "Golfer (uncredited)"
+      },
+      {
+        "name": "Paige Locke",
+        "character": "Fair Goer (uncredited)"
+      },
+      {
+        "name": "Zoe McLane",
+        "character": "Pinball Teen (uncredited)"
+      },
+      {
+        "name": "Anthony Molinari",
+        "character": "Cop #2 (uncredited)"
+      },
+      {
+        "name": "John C. Reilly",
+        "character": "Fred Gwynne / Herman Munster (uncredited)"
+      },
+      {
+        "name": "Patrick Salway",
+        "character": "Pinball Kid (uncredited)"
+      },
+      {
+        "name": "Tess Rianne Sullivan",
+        "character": "Wachs Campaign Staffer (uncredited)"
+      },
+      {
+        "name": "Charlotte Townsend",
+        "character": "Fairgoer #3 (uncredited)"
+      },
+      {
+        "name": "Jeff Willy",
+        "character": "Fair Volunteer (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Daniel Lupi",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "JoAnne Sellar",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Susan McNamara",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Chris Palermo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Bridges",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "name": "Robert Downey Sr.",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jonny Greenwood",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Kevin Foster",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jimmy N. Roberts",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Terri Douglas",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Tim Trella",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Anthony Molinari",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dianne Chadwick",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "William Fletcher",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Adam Somner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Adam Somner",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Aaron L. Gilbert",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ted Kim",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Michael Tolochko",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Rick Miller",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Acord",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "David Acord",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Sara Murphy",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Clay Donahue Fontenot",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Melinda Sue Gordon",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Erin Tanaka",
+        "department": "Costume & Make-Up",
+        "job": "Truck Costumer"
+      },
+      {
+        "name": "Anthony Syracuse",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Mark Boucher",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Jeremy Cisneros",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Marilyn Giacomazzi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jason Cloth",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Heba Thorisdottir",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Brian Machleit",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Jason Sanford",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Laura Gary",
+        "department": "Crew",
+        "job": "Studio Teacher"
+      },
+      {
+        "name": "Colin Anderson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Chris Scarabosio",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Lori McCoy-Bell",
+        "department": "Costume & Make-Up",
+        "job": "Hair Assistant"
+      },
+      {
+        "name": "Lilia Mishel Acevedo",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Josh Friz",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Craig Frosty Silva",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Liz Wilson",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Pavy Olivarez",
+        "department": "Costume & Make-Up",
+        "job": "Hair Assistant"
+      },
+      {
+        "name": "Elia P. Popov",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Michael Bauman",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Melissa Yonkey",
+        "department": "Costume & Make-Up",
+        "job": "Hair Assistant"
+      },
+      {
+        "name": "Jennifer Herrenkohl",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Beth Miller",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Roy K. Cancino",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Jeff Kunkle",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Elizabeth Warn",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Sera Trimble",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sera Trimble",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Sera Trimble",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Andy Jurgensen",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Kathleen Rosen",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Michael Lyon",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Lori Guidroz",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Colin Dennis",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Jillian Giacomini",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Robert Nagle",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lisa Pinero",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Brian Kinney",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Alfred Ainsworth",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Steve Irwin",
+        "department": "Crew",
+        "job": "Playback Coordinator"
+      },
+      {
+        "name": "Florencia Martin",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Charlotte Townsend",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ethan Goodwin",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Paul E. Stroh",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Erik L. Brown",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Josh Yadon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tyler John Young",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jeremy Fry",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Thomas M. Dangcil",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Robert B. Dechellis",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Kit Conners",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Shauna Duggins",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Samson Neslund",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Eva Rismanforoush",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Henry Cantor",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Demelza Cronin",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Adrian Lubanski",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Julie Rea",
+        "department": "Costume & Make-Up",
+        "job": "Hair Assistant"
+      },
+      {
+        "name": "Tracy Dixon",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Frank Annunziata",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Chris Raines",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Joe Chouchanian",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Danielle Raveh",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Jeffrey G. Barnett",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christi Cagle",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Samantha Englender",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Trevor Tavares",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Mandy Artusato",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Adrian Valdes",
+        "department": "Art",
+        "job": "Paint Coordinator"
+      },
+      {
+        "name": "Danny Rowe",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Pernilla Nylander",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Mike Sowa",
+        "department": "Editing",
+        "job": "Digital Intermediate Colorist"
+      },
+      {
+        "name": "Justin Dickson",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Joseph Hicks",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Mario Rene Hernandez",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Greg Curry",
+        "department": "Editing",
+        "job": "Dailies Technician"
+      },
+      {
+        "name": "Amanda Darouie",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Julia Saeri Lee",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Sofia Snyder",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Bea Stoykova",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Eddie A. Reid IV",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Sally Potters",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Charlie Jaramillo",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Michael Glaser",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Keomanee Vilaythong",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Chris Zimmerman",
+        "department": "Art",
+        "job": "Sign Painter"
+      },
+      {
+        "name": "Laura J. Hill",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Cameron Thorburn",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Tristan Daoussis",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Tammy Williamson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Scott M. Anderson",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Justin Geoffroy",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Hayley Wright",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Sarah Regan",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "Ryan Watson",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "David Croley Broyles",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "David Marnell",
+        "department": "Directing",
+        "job": "Additional Second Assistant Director"
+      },
+      {
+        "name": "Michael Arnold",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Shaun Young",
+        "department": "Art",
+        "job": "Set Decorating Coordinator"
+      },
+      {
+        "name": "Andrew Leitch",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Kelly Hunt",
+        "department": "Production",
+        "job": "Extras Casting Assistant"
+      },
+      {
+        "name": "Kevynn Brewer",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Kasia Trojak",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Rick Miller",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eric Crocombe",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Max Bostic",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Mike McKee",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Sophia Tapia",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Greg Tracy",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ryan Creasy",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Jay Trautman",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Kimo Han",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Jack Van Nuis",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Devin Hayes",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "John Whitley",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Billy Sender",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Vic Chouchanian",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Julianna Castigliego",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Mike Painter",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Andrew Kalicki",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "David Boyle",
+        "department": "Crew",
+        "job": "Legal Services"
+      },
+      {
+        "name": "Nathan M. Hadden",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Bob Riley",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Damon Green",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Kerry Hyatt",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Dan Birnbaum",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Chad Hladki",
+        "department": "Crew",
+        "job": "Loader"
+      },
+      {
+        "name": "Brent Wilson",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Tracy M. Jarvis",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Margarita Kalend",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Jade Thompson",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Colleen Coviello",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Taylor Erickson",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Zachary Quemore",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "John B. Austin",
+        "department": "Crew",
+        "job": "Medical Consultant"
+      },
+      {
+        "name": "Greg Giebel",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Sarah Husein",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Adam Macy",
+        "department": "Crew",
+        "job": "Legal Services"
+      },
+      {
+        "name": "Leroy Mcleod",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Christian A. Medina",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Bailey Moore",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Rosalie Sangenitto",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Sydney Shore",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Alexis Tanasoca",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Sierra Hoyle",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Claudia Abrego",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      }
+    ]
+  },
+  "keywords": [
+    "high school",
+    "california",
+    "jealousy",
+    "1970s",
+    "politician",
+    "coming of age",
+    "love",
+    "teenage love",
+    "young love",
+    "san fernando valley",
+    "pinball machine",
+    "child actor",
+    "young entrepreneur",
+    "closeted homosexual",
+    "brother brother relationship",
+    "jewish",
+    "age-gap relationship",
+    "period piece",
+    "teenager"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The story of Alana Kane and Gary Valentine growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+    "\"Licorice Pizza\" is the story of Alana Kane and Gary Valentine growing up, running around, and falling in love in the San Fernando Valley in 1973. Written and directed by Paul Thomas Anderson, the film tracks the treacherous navigation of first love.—United Artist Releasing",
+    "San Fernando Valley, 1973. Disarmed by his fearless confidence and surprising maturity, bored 25-year-old photographer's assistant Alana Kane reluctantly accepts to go out for a drink with sunny 15-year-old child actor Gary Valentine, her unexpected admirer. As one thing leads to another, the platonic soulmates embark on ambitious business ventures, trying to find their feet and purpose in a crazy world. But can Gary and Alana remain friends against the backdrop of life's ups and downs?—Nick Riganas",
+    "California, early-1970s. Gary Valentine, a 15-year-old boy, is attracted to Alana Kane, the 20-something-year-old who appeared at his school to assist with taking school photos. He asks her out and after many such requests she reluctantly agrees.—grantss",
+    "Tells the story of the unlikely friendship between fifteen year old Gary Valentine and twenty-five year old Alana Kane in the San Fernando Valley in the summer of 1973, their story complete with many of the cultural touchstones of the place and era, such as Hollywood movie star fame, waterbeds, the oil crisis, and the reemergence of pinball machines. While confident Gary, who has some minor fame in being an actor, would like his and Alana's relationship to be more than just friends, he does somewhat respect her want to keep it solely as friends if only to keep her in his life in the hope of possibly more between them in the future. Sometimes directed by Gary and sometimes by Alana, the pair, with others often joining them, embark on one venture after another in trying to find their respective place in life, individually and as a pair.—Huggo"
+  ],
+  "synopsis": "San Fernando Valley, 1973 - Several boys are getting ready to have their pictures taken, while a couple of others set off a cherry bomb in the bathroom. One of the boys, Gary Valentine (Cooper Hoffman), sees the photographer's assistant, Alana Kane (Alana Haim), and becomes smitten with her. He tries to talk to her, though she seems disinterested due to the fact that she is 25 and he is 15. Gary tells Alana that he is an actor, and he eventually succeeds in getting her to agree to hang out with him, but not as a date.Gary and Alana meet at a restaurant that he frequents since he appears to know the manager. The two discuss their jobs, and Gary mentions that he also works with his mother at a public relations company. Gary assures Alana that they are not going to forget each other. They walk home, and we see Alana lives with her parents and two sisters (all played by Haim's real family), while Gary lives with his brother Greg (Milo Herschlag).Gary works with his mom, Momma Anita (Mary Elizabeth Ellis), and they meet with a restaurant owner, Jerry Frick (John Michael Higgins), and his wife Mioko (Yumi Mizui), over a new Japanese restaurant they are trying to open. Jerry speaks with a accent racist accent to his wife. Later on, Anita tells Gary that she can't accompany him for a trip to New York where he will be featured on auditions and a variety show.Alana accompanies Gary to New York, where he rejoins his movie partners from the film \"Under One Roof\", where he starred as one of many siblings along with renowned actress Lucille Dolittle (Christine Ebersole). During the show, Gary hits Lucille over the head with a pillow, and when being interviewed, he makes a joke about \"doing three beavers\". Lucille later angrily chastises him and hits him. Afterward, Gary meets with an agent, Gale (Maya Rudolph), and does a commercial for a vest. While this happens, Alana befriends another actor named Lance (Skyler Gisondo).Upon returning to California, Alana begins a relationship with Lance. However, when she brings him over for dinner with her family, he declines to say a prayer because, despite being raised in the Jewish faith, he identifies as an atheist. Alana breaks things off with him shortly afterward.Gary soon gets into the waterbed business and gets his friends Kirk (Will Arangola) and Mark (Griff Giacchino), along with Alana, now that they are becoming friends, although Gary is still in love with her. They go to an expo called Soggy Bottom, where there are other booths like one for \"The Munsters\", with Fred Gwynne (John C. Reilly) in attendance. As Gary tries to sell the water beds, cops come to aggressively arrest him on suspicion of murder. Alana runs all the way to the police station, where Gary is soon let go when their first suspect says he doesn't know Gary. He leaves the station and hugs Alana.Alana operates the phones at the waterbed business, with Gary telling her to sound \"sexier\", but he feels she overdoes it. He later accompanies her to meet an agent, Mary Grady (Harriet Sansom Harris). When she asks Alana if she would do nudity in films, she initially says yes, but Gary urges her to say no. The two argue on the way home because Gary isn't comfortable with audiences seeing Alana nude when he can't. She later relents and shows him her breasts but slaps him when he asks to touch them.Alana joins Gary at an event to sell waterbeds, where Gary meets a girl from school named Sue Pomerantz (Isabelle Kusman). The two chat and go off to hook up, which Alana sees and appears jealous for it. She randomly kisses another guy out of spite and then walks home in nothing but her underwear (as she was modeling that way).Later on, Alana goes to an audition for a part alongside actor Jack Holden (Sean Penn). He takes a liking to her and compares her to Grace Kelly. Jack takes Alana to a bar, \"The Tail o' the Cock\", where Gary and his friends also make an appearance. Jack runs into his old friend, director Rex Blau (Tom Waits), and they convince everyone in attendance to watch Jack recreate a motorcycle stunt from his film \"The Bridges of Toko-San\", which he did with Kelly. Alana sits on the back of the motorcycle, but as soon as Jack takes off, Alana falls backwards. Gary runs all the way to Alana to make sure she is okay while everyone else cheers for Jack. He walks back with her to the waterbed store where she falls asleep. Gary contemplates groping her but decides against it.News reports come out that there is an oil embargo that is creating a gas crisis, which Alana says is in part thanks to the waterbeds, since they are made from vinyl, and vinyl is made from oil. The two, plus Greg, Kirk, and Mark, later deliver a waterbed to the home of producer Jon Peters (Bradley Cooper), who is something of a lunatic. He grills Gary for the pronunciation of his girlfriend's name (being Barbra Streisand), and explicitly threatens to kill Gary's whole family if he messes anything up during the setup. Gary and Alana set up the water bed, but accidentally pull the hose out and get the carpet wet. They get the other three boys out of there quickly.On their way out, they run into Jon coming up a hill, where he forces them to take him to the gas station to fill up since his car broke down. They leave him there when they see Jon threatening to light a man on fire by spraying him with the gas nozzle while holding a lighter. They drive back towards Jon's car, where Gary starts to smash the windshield. Unfortunately, their truck runs out of gas, and they have to roll the truck carefully down the hills backwards until it eventually stops in the middle of the street somewhere. Gary and the boys go off to get gas, while Alana sits on the street. Jon walks nearby and throws a garbage bin through a store window, but she manages to avoid being seen by him before he tries to hit on two tennis players.With the waterbed business failing from the gas crisis, Gary and Alana look to move onto other work. Gary invests in a pinball arcade while Alana decides to do volunteer work for mayoral candidate Councilman Joel Wachs (Benny Safdie). Gary and Alana have an argument, leading to them parting ways.While Alana is taking calls at the campaign office, she notices a creepy guy (Jon Beavers) scoping the office out. She confronts him but he gives her vague responses as to why he is there. Alana is later invited to drinks with Wachs, where the creepy guy is sitting nearby again. She meets Wachs' partner Matthew (Joseph Cross), and Alana learns that Wachs is gay and that the creep is most likely a spy trying to dig up dirt on Wachs and his campaign. Wachs asks Alana to go home with Matthew and pretend that she is his girlfriend. When they get home, Matthew breaks down in tears, asking Alana if she has a boyfriend. She says \"yes and no\", but they both cry over the fact that the guys in their life are jerks.Gary is at the opening of his pinball arcade, dealing with obnoxious kids and adults. He runs into Alana's friend and asks where she is. He runs to the campaign office to look for her but she is not there. Similarly, Alana goes to the restaurant where she first went out with Gary, but he isn't there. They eventually keep going until they literally run into each other in front of the movie theater. Gary brings Alana back to the arcade and introduces her as \"Mrs. Alana Valentine\". She calls him an idiot, but he then kisses her.The two run off again together, with Alana telling Gary that she loves him."
+}

@@ -1,0 +1,1112 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tJMvfYI2m6npeKRU9rAlLNTLlIj.jpg",
+  "id": 256591,
+  "title": "Focus",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
+  "release_date": "2015-02-25",
+  "vote_average": 6.879,
+  "vote_count": 7483,
+  "popularity": 39.249,
+  "overview": "Nicky, an accomplished con artist, gets romantically involved with his disciple Jess but later ends their relationship. Years later, she returns as a femme fatale to spoil his plans.",
+  "imdb_id": "tt2381941",
+  "budget": 50100000,
+  "homepage": "http://focusmovie.com/",
+  "revenue": 153962963,
+  "runtime": 105,
+  "tagline": "Never Drop The Con.",
+  "genres": [
+    "Romance",
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    "K & S Films",
+    "RatPac Entertainment",
+    "Zaftig Films",
+    "Warner Bros. Pictures",
+    "Di Novi Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Will Smith",
+        "character": "Nicky Spurgeon"
+      },
+      {
+        "name": "Margot Robbie",
+        "character": "Jess Barrett"
+      },
+      {
+        "name": "Rodrigo Santoro",
+        "character": "Garriga"
+      },
+      {
+        "name": "Gerald McRaney",
+        "character": "Owens"
+      },
+      {
+        "name": "Adrian Martinez",
+        "character": "Farhad"
+      },
+      {
+        "name": "Robert Taylor",
+        "character": "McEwen"
+      },
+      {
+        "name": "BD Wong",
+        "character": "Liyuan"
+      },
+      {
+        "name": "Brennan Brown",
+        "character": "Horst"
+      },
+      {
+        "name": "Dominic Fumusa",
+        "character": "Jared"
+      },
+      {
+        "name": "Dotan Bonen",
+        "character": "Gordon"
+      },
+      {
+        "name": "Griff Furst",
+        "character": "Gareth"
+      },
+      {
+        "name": "Stephanie Honoré",
+        "character": "Janice"
+      },
+      {
+        "name": "David Stanford",
+        "character": "Drunken Stranger"
+      },
+      {
+        "name": "Steve Kim",
+        "character": "Liyuan's Bodyguard"
+      },
+      {
+        "name": "Don Yesso",
+        "character": "Card Player / Football Coach"
+      },
+      {
+        "name": "Juan Minujín",
+        "character": "Marcello"
+      },
+      {
+        "name": "Jano Seitun",
+        "character": "Bartender"
+      },
+      {
+        "name": "Melania Lenoir",
+        "character": "Pretty Woman"
+      },
+      {
+        "name": "Pietro Gian",
+        "character": "Massive Security Guard"
+      },
+      {
+        "name": "Justina Bustos",
+        "character": "Blonde Bartender"
+      },
+      {
+        "name": "Paula Brasca",
+        "character": "Saleswoman"
+      },
+      {
+        "name": "Antonella Macchi",
+        "character": "Apollonia"
+      },
+      {
+        "name": "Aaron Jay Rome",
+        "character": "Bartender"
+      },
+      {
+        "name": "Armando Leduc",
+        "character": "Bald Guy"
+      },
+      {
+        "name": "Jon Eyez",
+        "character": "Bruiser"
+      },
+      {
+        "name": "Clay Chamberlin",
+        "character": "Mark #1"
+      },
+      {
+        "name": "Danny Ladmirault",
+        "character": "Mark #2"
+      },
+      {
+        "name": "Chip Carriere",
+        "character": "Lead Official"
+      },
+      {
+        "name": "Daniella Short",
+        "character": "Naked Woman"
+      },
+      {
+        "name": "Frank J. Monteleone",
+        "character": "Tech"
+      },
+      {
+        "name": "Alan Sabbagh",
+        "character": "Team Argentina Head Engineer"
+      },
+      {
+        "name": "Hervé Segata",
+        "character": "France Team Engineer"
+      },
+      {
+        "name": "Jorge Takashima",
+        "character": "Team Korea Engineer"
+      },
+      {
+        "name": "Pierre Marquille",
+        "character": "HRT Team Owner"
+      },
+      {
+        "name": "Nas Mehdi",
+        "character": "Head of Team India"
+      },
+      {
+        "name": "Federico Bongiorno",
+        "character": "Head of Team Russia"
+      },
+      {
+        "name": "Kate Adair",
+        "character": "Tourist Thief"
+      },
+      {
+        "name": "Billy Slaughter",
+        "character": "Passing Thief"
+      },
+      {
+        "name": "Lindsay Clift",
+        "character": "Another Thief"
+      },
+      {
+        "name": "Thomas Francis Murphy",
+        "character": "Hustler"
+      },
+      {
+        "name": "Nicoye Banks",
+        "character": "Card Shark"
+      },
+      {
+        "name": "Ruy Gatti",
+        "character": "French Tech"
+      },
+      {
+        "name": "Cacilie Hughes",
+        "character": "Jenny"
+      },
+      {
+        "name": "Alvin Chon",
+        "character": "Liyuan's Bodyguard #2"
+      },
+      {
+        "name": "Brett Baker",
+        "character": "Another Thief"
+      },
+      {
+        "name": "Taylor Persh",
+        "character": "Sous Chef"
+      },
+      {
+        "name": "Mariano Bertolini",
+        "character": "Waiter"
+      },
+      {
+        "name": "Scott M. Jefferson",
+        "character": "Add'l McEwen Tech"
+      },
+      {
+        "name": "Billy Louviere",
+        "character": "Rowdy Guy #1"
+      },
+      {
+        "name": "Thomas Thomason",
+        "character": "Rowdy Guy #2"
+      },
+      {
+        "name": "Antonella Saldicco",
+        "character": "Party Guest #1"
+      },
+      {
+        "name": "Joaquín Berthold",
+        "character": "Party Guest #2"
+      },
+      {
+        "name": "Marina Artigas",
+        "character": "Party Guest #3"
+      },
+      {
+        "name": "Dario Dukah",
+        "character": "Party Guest #4"
+      },
+      {
+        "name": "Martin Covert",
+        "character": "Doctor"
+      },
+      {
+        "name": "Apollo Robbins",
+        "character": "Apollo"
+      },
+      {
+        "name": "Michael Dardant",
+        "character": "Card Mechanic #1"
+      },
+      {
+        "name": "Victor Moran",
+        "character": "Card Mechanic #2"
+      },
+      {
+        "name": "Eric McMullen",
+        "character": "Doc"
+      },
+      {
+        "name": "Han Soto",
+        "character": "Head of Team Japan"
+      },
+      {
+        "name": "Yeshi Tenzin",
+        "character": "Head of Team Japan #2"
+      },
+      {
+        "name": "Laney Chouest",
+        "character": "Head of Team"
+      },
+      {
+        "name": "Darrell Foster",
+        "character": "Head of Team Italy"
+      },
+      {
+        "name": "Hilary Tuttle",
+        "character": "Waitress Thieff"
+      },
+      {
+        "name": "Guillermo Miguel",
+        "character": "Team Argentina"
+      },
+      {
+        "name": "Nina Leon",
+        "character": "BA Reporter"
+      },
+      {
+        "name": "Nick Reasons",
+        "character": "Sideline Reporter"
+      },
+      {
+        "name": "Chris Dieker",
+        "character": "Coin Toss Rhino"
+      },
+      {
+        "name": "Stevie Baggs Jr.",
+        "character": "Coin Toss Thresher"
+      },
+      {
+        "name": "Thomas Holley",
+        "character": "Announcer #1"
+      },
+      {
+        "name": "Walter Prestenberg, Jr.",
+        "character": "Announcer #2"
+      },
+      {
+        "name": "Nicholas Harris",
+        "character": "Interview Thresher"
+      },
+      {
+        "name": "Patrick O'Hara",
+        "character": "Team Owner"
+      },
+      {
+        "name": "David Haines",
+        "character": "Nicky's Crew Tommy"
+      },
+      {
+        "name": "Steve Hammond",
+        "character": "Cafe Host Mark"
+      },
+      {
+        "name": "Derrick Townsend",
+        "character": "Frat Guy #1"
+      },
+      {
+        "name": "Juan Gaspard",
+        "character": "Fan in Stands (uncredited)"
+      },
+      {
+        "name": "Joe Chrest",
+        "character": "Jeweler (uncredited)"
+      },
+      {
+        "name": "Ricardo Vargas",
+        "character": "Security (uncredited)"
+      },
+      {
+        "name": "Sheena Sakai",
+        "character": "Skybox Model (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Denise Di Novi",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Skip Lievsay",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Charles Croughwell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Lisa Tong",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Bernard Telsey",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Xavier Grobet",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Stan Wlodkowski",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Stan Wlodkowski",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Glenn Ficarra",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Glenn Ficarra",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "John Requa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "John Requa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Pierce Austin",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Beth Mickle",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Jeffrey Harlacker",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Marko Costanzo",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Wyatt Sprague",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Tania McComas",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Christa Vausbinder",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Stephen E. Hagen",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Mike Satterfield",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Duke Foster",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Judy Murdock",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Michael Matzdorff",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Aimee Stuit",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Kristin Lekki",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Meagan McLaughlin",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Dayna Pink",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Keith Gruchala",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Tiffany Little Canfield",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Nick Urata",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "George A. Lara",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Kelly Curley",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Connie Balduzzi",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "David A. Wolf",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "name": "Thirl Haston",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Donna Chance",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Jim Rider",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Chelsea Bruland",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Glenn Kaplan",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Pola Zito",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Kiante Elam",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Will Blount",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Anna Rane",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Elizabeth Himelstein",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "W. Harry Fortuna",
+        "department": "Production",
+        "job": "Location Coordinator"
+      },
+      {
+        "name": "Anthony Ortiz",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Andy Ryan",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Frank Masi",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Jac Rubenstein",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Frank Buono",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Charley Bob Burnham",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Remi Tournois",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Mitch Dubin",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Matt Blackshear",
+        "department": "Editing",
+        "job": "Digital Intermediate Editor"
+      },
+      {
+        "name": "Lisa K. Sessions",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Rob King",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ian Vertovec",
+        "department": "Editing",
+        "job": "Digital Intermediate Colorist"
+      },
+      {
+        "name": "Kenton Jakub",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Randall S. Coe",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Thomas Jones",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Brian Heller",
+        "department": "Camera",
+        "job": "Helicopter Camera"
+      },
+      {
+        "name": "Grayson Austin",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Grayson Austin",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Des Carey",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Joel Dougherty",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Jason Waggenspack",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Cid Swank",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Ferdinand Duplantier Jr.",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Jason Ruder",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Jason Ruder",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "name": "Zachary Sieffert",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Jen Wasson",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Katie Fellion",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Jan Kovac",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Steven Mnuchin",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Dave Kelsey",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Tony Ward",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Dan Sweetman",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Trinh Vu",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Kelly Herdus",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Charlie Gogolak",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "David Vaccari",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Ryan Hosking",
+        "department": "Camera",
+        "job": "Helicopter Camera"
+      },
+      {
+        "name": "Anne Morgan",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Alice Alward",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Chris Craine",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Lori Castano",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Misti Moreaux",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Derek Eby",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Christopher Kaller",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Paul Urmson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Terry Anderson",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Igor Nikolic",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Nate Selee",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Sidney J. Lambert",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Rick Chefalas",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "John B. Clarey III",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Paul Ledford",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Matt Kutcher",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Paul Abraham",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Rachel Grissom",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Jennifer Yoo",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Dorothy Precious",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Jaim O'Neil",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Max Patrucco",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Charles B. Walker",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Jimi Ryan",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Anthony DeFrancesco",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Joe Sökmen",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Richard T. Hoover",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Jason Miller",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Kevin Luster",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Dan Wyssmann",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Jordan Whaley",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Landon Lott",
+        "department": "Art",
+        "job": "Production Illustrator"
+      },
+      {
+        "name": "Tom Moore",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Sonia L. Garcia",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Luke Cauthern",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Dana McCall",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Nathan Hughes",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jon Recher",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Frank D. Parrish",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Rachel Perlis",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Alexander Lasseigne III",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Robin Batherson",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Robert Mata",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Ryan McKeague",
+        "department": "Editing",
+        "job": "Digital Intermediate Editor"
+      },
+      {
+        "name": "Bradley Martin",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Michael A. Johnson",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Eric DePoorter",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Melisa Coby",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Samantha Bonilla",
+        "department": "Production",
+        "job": "Travel Coordinator"
+      },
+      {
+        "name": "Daniel Tkaczyk",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Robert Zas",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Sonda L. Rowland",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Lou Divincenti",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "M.R. Seelig",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "Jason Prowell",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Karina Teismann",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Kirk W. Johnson",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "name": "Lawrence Johnson",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Shelly Sanchez",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Troy G. Acosta",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Todd Pecoul",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Jason Portera",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Desiree Stevenson",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      }
+    ]
+  },
+  "keywords": [
+    "seduction",
+    "con man",
+    "illusion",
+    "deception",
+    "rivalry",
+    "femme fatale",
+    "con artist",
+    "illusionist"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In the midst of veteran con man Nicky's latest scheme, a woman from his past - now an accomplished femme fatale - shows up and throws his plans for a loop.",
+    "Nicky Spurgeon is an extremely accomplished con man who takes an amateur con artist, Jess, under his wing. Nicky and Jess become romantically involved, and with Nicky's profession of being a liar and a cheater for a living, he realizes that deception and love are things that don't go together. They split, only to see each other three years later... And things get messy.",
+    "Nicky is an accomplished con man. When a young grafter, Jess tries to take him, he sees right through her. He takes her under his wing and things between them get personal. When they pull a big score, Nicky decides to let her go because he thinks getting involved with her is not good. Three years later, Nicky's working for a guy to give a competitor some false info. But before he begins, he discovers Jess is with the guy and it ticks him off. He tries to apologize but she doesn't want to accept.—rcs0411@yahoo.com",
+    "Nicky is a con artist whose role is deceiving people for a living but when he meets a young aspiring con artist named Jesse and takes her under his wing he discovers he let her in on so many levels and decides to let her go. When they meet again 3 years later he does everything he can to win her back.—alisondifor",
+    "Nicky has studied the science of human nature his whole life, and understands precisely how to earn anyone's trust, or fool them into never noticing he's stealing their watch, or wallet, or anything they might have that Nicky can sell. In the movie's opening sequence, he's eating at a New York restaurant when the gorgeous Jess approaches his table and asks him to pretend to be her boyfriend so that she can avoid a particularly determined guy at the bar who won't stop hitting on her. The two of them hit it off, but he quickly figures out that she's running a scam on him and soon turns the tables on her and her partner. Undaunted, Jess begs Nicky to teach her what he knows about the criminal life, and he brings her in on a plan to steal from as many people as possible during Super Bowl week in New Orleans. She turns out to be a natural, and quickly learns the ropes of this unscrupulous world. Nicky and Jess seem to be falling for each other, but Nicky's actions at the end of their New Orleans trip force Jess to reassess their relationship. Three years later, Nicky enters into a deal with Garriga (Rodrigo Santoro), a wealthy playboy who has a software program that will help his Formula 1 team triumph. Nicky agrees to help Garriga sell a fake version of the program to his competitors, but as the plan goes into motion he discovers Jess and Garriga are a couple. As old feelings complicate the new arrangement, Nicky must also contend with the no-nonsense Owens (Gerald McRaney), Garriga's head-of-security who openly distrusts Nicky.."
+  ],
+  "synopsis": "Con man Nicky Spurgeon (Will Smith) goes to a bar in New York City. There, he sees a beautiful young blonde woman (Margot Robbie) with another man, who seems to be pestering her. She escapes from him - he later falls asleep, drunk - and goes to Nicky's table. Her name is Jess. They go upstairs to her hotel room and start to make out. A man then bursts into the room with a gun, threatening to shoot Nicky. Jess says he's her husband. Nicky then quips that he's got cancer, and the man says he doesn't want to shoot a guy with cancer. Jess figures that Nicky is on to them. Nicky says how they should have handled it if they really wanted to rob him before he leaves.Jess finds Nicky a few nights later and begs him to teach her his ways after she's done her research on him. Nicky mentions a story to her about two partners involved in a con gone wrong where one partner had to shoot the other to make it seem like they weren't working together. They happened to be Nicky's father and grandfather, and the former shot the latter in something called the \"Toledo Panic Button\". Nicky agrees to teach her and says the act of conning people is a game of focus. He shows her how her works his hands so that she can't tell when he's swiped something off her person.Nicky takes his business to New Orleans with his friend Horst (Brennan Brown), and their own team of con artists. It's Super Bowl week, so the city is packed full of people. Jess joins them down there for a practice round of conning. They take her through the crowded streets where they swipe watches, wallets, and other trinkets off unsuspecting people. They also take Jess through a hotel casino for another round. After she proves her worth, she is allowed on the team. On a sidenote, we see Nicky may have a gambling problem as he loses money at a horse track.Jess meets Nicky's friend and associate Farhad (Adrian Martinez). He is involved in more complicated schemes, as he is seen removing a fake ATM that is used to nab private information. Jess takes a liking to Farhad despite his often crass behavior.Over time, Nicky and Jess develop a mutual attraction. After sex, Jess asks Nicky why some people refer to him as \"Mellow\". He says his father used to call him that because he told him he was soft like a marshmallow. Nicky believes that there's no room for heart in this game because it can get you killed.The night before the big game, with all their conning complete, Nicky addresses the team and congratulates them on a record week, $1.2 million worth. He sends everybody home with his usual promise to send them their cut. Horst gives Nicky the bag of cash, and makes Nicky promise he won't gamble with it. Nicky promises as Jess looks on.Nicky and Jess go to the football game. They make small bets with each other such as if one fan will catch a hot dog, and if another is too drunk to get up for the wave. They see a woman in short shorts and bet how many men will look at her ass as she walks by. Jess bets 8 while Nicky bets 3. A curious man named Mr. Liuyan (B.D. Wong) joins the game and bets 5. Seven men check out the woman as she walks by, making Jess the closest. Liuyan makes more bets with Nicky over the game, practically begging him to play when Nicky tries to back out. Nicky plays and loses $1,000. The bets escalate as the two men double the bets, even as Jess tells Nicky they should just leave. After losing $100,000, it looks like Nicky has finally had enough and is about to walk away. Mr. Liuyan goads him back in, and Nicky bets all the remaining cash ($1.1 million) on a simple high card draw. Liuyan pulls the card with a higher number, winning all their money. Nicky and Jess are heartbroken. Nicky chooses not to walk away and decides to double the bet again. He tells Liuyan to pick any player on the field, and he will guess which one, seemingly impossible odds. Mr. Liuyan thinks he is crazy and doesn't bet on crazy, so he refuses. Nicky sweetens it when he says Jess will pick the player that Liuyan spotted, much to Jess's terror. Liuyan can't turn down free money, so he picks a player. As Jess nervously looks through the binoculars, Liuyan gives them a chance to back out. Jess looks to Nicky, seemingly begging him to take this chance to back out, but Nicky tells her to pick. Jess again nervously scans the players. All of a sudden, she spots Farhad wearing a jersey with 55 on it. She grins and picks him, and to everyone's surprise, that's the correct answer.On the taxi ride home, Nicky, now with a LOT of money on him, explains to Jess that this was set up from the beginning of the day. He knew that Liyuan is a notorious gambler, so he had it set up so that Liuyan would see the number 55 throughout the day, thereby subconsciously getting him to pick that number when the moment was right. Nicky then has the taxi pull over while another car pulls up behind them. He tells the cabbie to take Jess to the airport. He leaves her with her share of money and departs without another word, leaving Jess confused and heartbroken.Three years later.In Buenos Aires, Argentina, Nicky is working with a billionaire race car owner named Rafael Garriga (Rodrigo Santoro) and his associate, Owens (Gerald McRaney). They are in possession of a revolutionary new fuel burn algorithm, which will give them an edge in the upcoming season. But Garriga is nervous this won't be enough, so their plan is for Nicky to pose as a disgruntled former employee of Garriga, and sell a fake version to another team owner McEwen (Robert Taylor), who is Garriga's biggest competition. This will make the competition slower, while Garriga gets faster.Nicky goes to a party at Garriga's mansion where he sees Jess for the first time since he left her, descending the staircase in a stunning red dress. She kisses Garriga, to Nicky's disdain. He approaches Jess afterward, where she assures him that she's doing just fine on her own. Nicky plays his part of disgruntled employee, and is later approached by McEwen.Nicky spends a lot of his time trying to get closer to Jess, even though she's done with him. This eventually leads to them going back to Nicky's hotel room and having sex. The next morning, Owens goes to Nicky's room while Jess stays out of sight. Owens complains about his feelings toward the younger generation and his lack of progress in the job.Nicky eventually sells off Garriga's REAL algorithm not only to McEwen, but to every other race team as well for the same price, amounting to about 27 million Euros. He also convinces Jess to run away with him. Before they can escape, one of Garriga's men rams his car into theirs, and the two of them are abducted and taken to one of Garriga's warehouses with duct tape on their mouths. He takes the tape off Nicky's mouth but leaves it on Jess and plugs her nose until Nicky tells him how he managed to hack Garriga's system and get his hands on the real algorithm. First Nicky tells him Jess wasn't a part of it so he can let her go. Garriga plugs her nose again, so Nicky finally admits that he used Jess (again), and planted a bug on her so that when she returned to Garriga's hotel room, the bug picked up his computer password. He laughs, knowing it's a lie, and takes the tape off her mouth. She admits to Nicky that Garriga isn't her boyfriend - she just wanted his watch, which is worth two hundred grand. She's never slept with Garriga, or even been to his room, despite his numerous attempts. Nicky finally resigns to telling the truth, and right as he's about to start, he gets shot in the chest by Owens, which horrifies Garriga and causes him to leave. Nicky appears to bleed out as Jess cries and tells him she loves him. It looks like Nicky dies until Owens says he shot Nicky in the right spot to avoid any major arteries, although he did puncture his lung. Owens gets the blood out of Nicky's lung, reviving him. Owens then calls Nicky \"Mellow\", making Jess realize that Owens is Nicky's father, Bucky Spurgeon, that he was in on the con the whole time, and that they've just performed the \"Toledo Panic Button.\"Owens drives Nicky and Jess to the closest hospital. He reminds Nicky of what he said regarding putting your heart in the con game, and adds that he's taking all the money. Jess helps walk Nicky to the front of the hospital. Nicky smirks when he notices that Jess is wearing Garriga's watch on her wrist."
+}

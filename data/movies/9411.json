@@ -1,0 +1,728 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cYlvxDI16HtZ74L159LyKvxHyXU.jpg",
+  "id": 9411,
+  "title": "Fallen",
+  "poster_path": "https://image.tmdb.org/t/p/w500/nEDvTB9cP2oIKY0M1ZdDvuUEJ8d.jpg",
+  "release_date": "1998-01-16",
+  "vote_average": 6.8,
+  "vote_count": 1315,
+  "popularity": 23.49,
+  "overview": "Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution the killings start again, and they are very similar to Reese's style.",
+  "imdb_id": "tt0119099",
+  "budget": 46000000,
+  "homepage": "",
+  "revenue": 25232289,
+  "runtime": 124,
+  "tagline": "Detective John Hobbes is searching for a criminal he's already met... already caught... and already killed.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Turner Pictures",
+    "Atlas Entertainment",
+    "Turner Entertainment",
+    "Warner Bros."
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Denzel Washington",
+        "character": "John Hobbes"
+      },
+      {
+        "name": "John Goodman",
+        "character": "Jonesy"
+      },
+      {
+        "name": "Donald Sutherland",
+        "character": "Lt. Stanton"
+      },
+      {
+        "name": "Embeth Davidtz",
+        "character": "Gretta Milano"
+      },
+      {
+        "name": "James Gandolfini",
+        "character": "Lou"
+      },
+      {
+        "name": "Elias Koteas",
+        "character": "Edgar Reese"
+      },
+      {
+        "name": "Gabriel Casseus",
+        "character": "Art"
+      },
+      {
+        "name": "Robert Joy",
+        "character": "Charles"
+      },
+      {
+        "name": "Aida Turturro",
+        "character": "Tiffany"
+      },
+      {
+        "name": "Michael J. Pagan",
+        "character": "Sam"
+      },
+      {
+        "name": "Frank Medrano",
+        "character": "Charles' Killer"
+      },
+      {
+        "name": "Ronn Munro",
+        "character": "Mini Golf Owner"
+      },
+      {
+        "name": "Cynthia Hayden",
+        "character": "Society Woman"
+      },
+      {
+        "name": "Ray Xifo",
+        "character": "Society Man"
+      },
+      {
+        "name": "Tony Michael Donnelly",
+        "character": "Toby"
+      },
+      {
+        "name": "Tara Carnes",
+        "character": "Teenage Girl"
+      },
+      {
+        "name": "Reno Wilson",
+        "character": "Mike"
+      },
+      {
+        "name": "Wendy Cutler",
+        "character": "Denise"
+      },
+      {
+        "name": "Jeff Tanner",
+        "character": "Lawrence"
+      },
+      {
+        "name": "Jerry Walsh",
+        "character": "Fat Man"
+      },
+      {
+        "name": "Bob Rumnock",
+        "character": "Schoolteacher"
+      },
+      {
+        "name": "Ellen Sheppard",
+        "character": "Nun on Bus"
+      },
+      {
+        "name": "Christian Aubert",
+        "character": "Professor Louders"
+      },
+      {
+        "name": "Bill Clark",
+        "character": "Detective Bill Clark"
+      },
+      {
+        "name": "Allelon Ruggiero",
+        "character": "Executioner"
+      },
+      {
+        "name": "Jill Holden",
+        "character": "Gracie"
+      },
+      {
+        "name": "Drucie McDaniel",
+        "character": "Vender"
+      },
+      {
+        "name": "John R. Russell",
+        "character": "Distinguished Gentleman"
+      },
+      {
+        "name": "Lynn Wanlass",
+        "character": "Complaining Woman"
+      },
+      {
+        "name": "John Descano",
+        "character": "Cab Driver"
+      },
+      {
+        "name": "Cress Williams",
+        "character": "Detective Joe"
+      },
+      {
+        "name": "Rick Warner",
+        "character": "Governor"
+      },
+      {
+        "name": "Jim Grimshaw",
+        "character": "Warden"
+      },
+      {
+        "name": "Brandon Zitin",
+        "character": "Muscle Builder"
+      },
+      {
+        "name": "Rozwill Young",
+        "character": "Prison Guard"
+      },
+      {
+        "name": "Michael Shamus Wiles",
+        "character": "Prison Guard"
+      },
+      {
+        "name": "Frank Davis",
+        "character": "Prison Guard"
+      },
+      {
+        "name": "Barry Shabaka Henley",
+        "character": "Uniformed Cop"
+      },
+      {
+        "name": "Mike Cicchetti",
+        "character": "Mustache Man"
+      },
+      {
+        "name": "Chuck Jeffreys",
+        "character": "Transit Cop"
+      },
+      {
+        "name": "Ben Siegler",
+        "character": "Priest"
+      },
+      {
+        "name": "Jason George",
+        "character": "College Kid"
+      },
+      {
+        "name": "Anika Hawkins",
+        "character": "Girlfriend"
+      },
+      {
+        "name": "Stan Kang",
+        "character": "Japanese Businessman"
+      },
+      {
+        "name": "Thomas J. McCarthy",
+        "character": "Witness"
+      },
+      {
+        "name": "Sheila Bader",
+        "character": "Witness"
+      },
+      {
+        "name": "Elleanor Jean Hendley",
+        "character": "Reporter"
+      },
+      {
+        "name": "Michael Aron",
+        "character": "Reporter"
+      },
+      {
+        "name": "Byron Scott",
+        "character": "Reporter"
+      },
+      {
+        "name": "Pat Ciarrocchi",
+        "character": "Anchor"
+      },
+      {
+        "name": "Steve Highsmith",
+        "character": "Anchor"
+      },
+      {
+        "name": "Kent Manahan",
+        "character": "Anchor"
+      },
+      {
+        "name": "Ford Austin",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Graham Beckel",
+        "character": "John Reynolds (uncredited)"
+      },
+      {
+        "name": "Andrew DePalma",
+        "character": "Possessed Man (uncredited)"
+      },
+      {
+        "name": "Kurt Leitner",
+        "character": "Train Passenger (uncredited)"
+      },
+      {
+        "name": "Sal Mazzotta",
+        "character": "Jimmy Moore (uncredited)"
+      },
+      {
+        "name": "J. Emerson McGowan",
+        "character": "Demon Passer (uncredited)"
+      },
+      {
+        "name": "Selvyn Price",
+        "character": "Deathrow News Crew (uncredited)"
+      },
+      {
+        "name": "Gary Rodriguez",
+        "character": "Detective (uncredited)"
+      },
+      {
+        "name": "Scott Roman",
+        "character": "Witness (uncredited)"
+      },
+      {
+        "name": "Aaron Sadovsky",
+        "character": "Train Conductor (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Lance Brown",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Lance Brown",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Ronna Kress",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Charles Roven",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert Cavallo",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jay Meagher",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Colleen Atwood",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Dun Tan",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Terence Marsh",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "William Cruse",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "David Rubin",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Michael Seirton",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Kent Houston",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Newton Thomas Sigel",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Dawn Steel",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Larry M. Cherry",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Gregory Hoblit",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Peggy Schierholz",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Nicholas Kazan",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Nicholas Kazan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ted Kurdyla",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ted Kurdyla",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Lawrence Jordan",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Robert Brakey",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Kelley Smith-Wait",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Richard Suckle",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Patricia Graf",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Jay Nierenberg",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Kyle Rudolph",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Kyle Rudolph",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Dylan Goss",
+        "department": "Camera",
+        "job": "Helicopter Camera"
+      },
+      {
+        "name": "Ernie F. Orsatti",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Mary Andrews",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Frank Davis",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Frank Davis",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Russell Clark",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Nancy MacLeod",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Rebecca DeHerrera",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Lisa Lovaas",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Mitchell Ray Kenney",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "René Dashiell Kerby",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Will Blount",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Tom Kramer",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Marion Tumen",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Anthony Milch",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Robert Troy",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Robert Troy",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Christopher Neely",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Michael Herbick",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Phil Neilson",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Gary Mundheim",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Sebastian Milito",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Robert J. Litt",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Elliot Tyson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jeremy Braben",
+        "department": "Camera",
+        "job": "Helicopter Camera"
+      },
+      {
+        "name": "Joseph A. Mayer",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Ron Goodman",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Kenneth Walker",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Richard E. Yawn",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Edna Sheen",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Rebecca Alling",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Tim Weston",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Ron Yates",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Andrea Horta",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Bruce Fortune",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Marsha Sorce",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "James Fredburg",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Jerome Fauci",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Julie Stevens",
+        "department": "Crew",
+        "job": "Studio Teachers"
+      },
+      {
+        "name": "Howard Neiman",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Marilyn Bailey",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Nilo Otero",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Shawn Sykora",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Michael Dressel",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Elon Dershowitz",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Greg Hale",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Matthew T. Weiner",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Lance Laurienzo",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Keith Smith",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Scott Shadden",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Shawn Egan",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Willie E. Simmons, Jr.",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Harvey Epstein",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      }
+    ]
+  },
+  "keywords": [
+    "police",
+    "angel",
+    "psychopath",
+    "riddle",
+    "detective",
+    "supernatural",
+    "bible",
+    "murder",
+    "curse",
+    "religion",
+    "execution",
+    "series of murders",
+    "devil",
+    "family",
+    "evil",
+    "neo-noir"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution, the killings start again, and they are very similar to Reese's style.",
+    "Det. John Hobbes is convinced that when killer Edgar Reese is executed, all of his troubles are over. But when people he knows and people on the street start to sing the same tune that Reese sang in the gas chamber, and those same people taunt him, he is told that maybe the cursed fallen angel Azazel is behind it all. Azazel is cursed to roam the Earth without a form, and he can switch bodies by any contact, making him hard to track. When Hobbes is forced to kill a man possessed by Azazel, he must clear his name while protecting his family and others from the evil, vengeful Azazel.—Ben Borg <benborg@mediaone.net>",
+    "After the execution of crazy serial killer Edgar Reese, Detective John Hobbes thought his nightmare would finally be over. However, he catches wind of a murder that shares similarities to the killings committed by Reese, and eventually discovers that the serial killings are in fact the actions of a malevolent fallen angel named Azazel. As Hobbes tries to solve the mystery of Azazel, he must also find a way to do the impossible, stop a fallen angel who can possess any living creature it comes into contact with.—John Wiggins",
+    "Detective John Hobbes attends the execution of a serial killer he arrested, Edgar Reese. They have a private chat where Reese gives him a riddle of sorts and then speaks in a strange language. The riddle leads him to a once decorated policeman who one day went to his cottage in the woods and killed himself. It was never explained why but when Hobbes looks around the now decrepit cottage he finds that the man had scribbled the name Azazel on the wall. Hobbes soon learns that Azazel is an evil spirit who can transfer itself from one person to another through touch. As Hobbes comes to realize the extent Azazel is responsible for much of the evil around him he also realizes that Azazel is after him.—garykmcd",
+    "With his own eyes, the experienced Philadelphia Police Detective, John Hobbes, sees the death of the unrepentant serial killer, Edgar Reese, in the gas chamber. However, before long, the nightmare and the killings will start all over again, pointing to an elusive killer whose modus operandi is uncannily identical to that of the already dead Reese. Now, as the methodical and sceptical Hobbes tries to piece together the sparse clues, more and more, he comes to realise that this is the work of an immortal copycat rather than a mortal. Is it possible that Reese was possessed by a malevolent demon who imposed his will on him? If this is, indeed, true, could the same dark entity be after Hobbes, too?—Nick Riganas"
+  ],
+  "synopsis": "Homicide detective John Hobbes (Denzel Washington) and Edgar Reese (Elias Koteas), a serial killer, are talking just before the latter is going to be executed in prison. Reese is proud of all his crimes, and doesn't repent at all. Hobbes witnesses the execution of Reese. At the last second, Reese starts shouting that he is innocent, that it wasn't him, all his cocky demeanour lost.However, this doesn't finish the matter. Soon after the execution the killings start again, and they are very similar to Reese's style. Hobbes starts hearing people on the street singing the same tune that Reese sang in the gas chamber.He is told that maybe the fallen angel Azazel is behind it all. Azazel is cursed to roam the Earth without a form, and he can switch bodies by any contact, making him hard to track. The last clue is given by Gretta Milano (Embeth Davidtz), a semi-mad woman who lives in a flat crammed with bric-a-brac, pictures, and small statues representing all kind of of angels. When Hobbes is forced to kill a man possessed by Azazel, he must clear his name while protecting his family and others from the evil, vengeful Azazel. Milano tells him to kill Azazel in a place where no other person is around. If Hobbes kills the person who is at the moment possessed by Azazel, and he himself commits suicide, the fallen angel will die, because he can't survive for long without a body.Hobbes is determined. His workmates are suspicious of him. They think that he has tricked them all, being the serial killer from the very beginning, or that he has become so obsessed with the serial killer that now he's copy-cattting him. His co-worker and closest friend, Det Jonesy (John Goodman), is one of those who seem to have changed their minds concerning Hobbes. Lou and Stanton (James Gandolfini and Donald Sutherland) start having no doubts that Hobbes is the killer.Hobbes goes to a lonely cottage kilometers away from nowhere where he has dared Azazel to go. To his surprise, it's Jonesy who goes. He tells him that it was about Hobbes from the beginning. When Hobbes and Reese had the conversation, there was a second when they shook hands, but Azazel could not move inside Hobbes because he was an honest and good person. There is a final confrontation and Hobbes kills Jonesy, and then kills himself.It seems that evil has died. However, a voice tells the audience that there is only an animal which can hold a demon, a cat. We see a cat which is making its way to the nearest inhabited town. The audience now knows that Hobbes didn't succeed."
+}

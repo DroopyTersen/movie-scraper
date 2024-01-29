@@ -1,0 +1,1667 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/isnJGDrfR9dIrHMsPTvHtJaGEpc.jpg",
+  "id": 504608,
+  "title": "Rocketman",
+  "poster_path": "https://image.tmdb.org/t/p/w500/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+  "release_date": "2019-05-17",
+  "vote_average": 7.324,
+  "vote_count": 4390,
+  "popularity": 36.127,
+  "overview": "The story of Elton John's life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.",
+  "imdb_id": "tt2066051",
+  "budget": 40000000,
+  "homepage": "https://www.paramount.com/movies/Rocketman/",
+  "revenue": 167300000,
+  "runtime": 121,
+  "tagline": "Based on a true fantasy",
+  "genres": [
+    "Music",
+    "Drama"
+  ],
+  "production_companies": [
+    "Paramount",
+    "New Republic Pictures",
+    "Marv",
+    "Rocket Pictures",
+    "Lawrence Bender Productions"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Taron Egerton",
+        "character": "Elton John"
+      },
+      {
+        "name": "Jamie Bell",
+        "character": "Bernie Taupin"
+      },
+      {
+        "name": "Richard Madden",
+        "character": "John Reid"
+      },
+      {
+        "name": "Bryce Dallas Howard",
+        "character": "Sheila"
+      },
+      {
+        "name": "Gemma Jones",
+        "character": "Ivy"
+      },
+      {
+        "name": "Steven Mackintosh",
+        "character": "Stanley"
+      },
+      {
+        "name": "Tom Bennett",
+        "character": "Fred"
+      },
+      {
+        "name": "Matthew Illesley",
+        "character": "Young Reggie"
+      },
+      {
+        "name": "Kit Connor",
+        "character": "Older Reggie"
+      },
+      {
+        "name": "Charlie Rowe",
+        "character": "Ray Williams"
+      },
+      {
+        "name": "Peter O'Hanlon",
+        "character": "Bobby"
+      },
+      {
+        "name": "Ross Farrelly",
+        "character": "Cyril"
+      },
+      {
+        "name": "Evan Walsh",
+        "character": "Elton Dean"
+      },
+      {
+        "name": "Tate Donovan",
+        "character": "Doug Weston"
+      },
+      {
+        "name": "Sharmina Harrower",
+        "character": "Heather"
+      },
+      {
+        "name": "Ophelia Lovibond",
+        "character": "Arabella"
+      },
+      {
+        "name": "Celinde Schoenmaker",
+        "character": "Renate"
+      },
+      {
+        "name": "Harriet Walter",
+        "character": "Helen Piena"
+      },
+      {
+        "name": "Stephen Graham",
+        "character": "Dick James"
+      },
+      {
+        "name": "Sharon D. Clarke",
+        "character": "AA Counsellor"
+      },
+      {
+        "name": "Aston McAuley",
+        "character": "Dave Godin"
+      },
+      {
+        "name": "Jason Pennycooke",
+        "character": "Wilson"
+      },
+      {
+        "name": "Alexia Khadime",
+        "character": "Diana"
+      },
+      {
+        "name": "Carl Spencer",
+        "character": "Richard"
+      },
+      {
+        "name": "Jimmy Vee",
+        "character": "Arthur"
+      },
+      {
+        "name": "Leon Delroy Williams",
+        "character": "Clint"
+      },
+      {
+        "name": "David Doyle",
+        "character": "Pub Man 1"
+      },
+      {
+        "name": "Leigh Francis",
+        "character": "Pete"
+      },
+      {
+        "name": "Dickon Tolson",
+        "character": "Barman"
+      },
+      {
+        "name": "Diana Alexandra Pocol",
+        "character": "Mary the Receptionist"
+      },
+      {
+        "name": "Eddie Mann",
+        "character": "Band Member"
+      },
+      {
+        "name": "Josh McClorey",
+        "character": "New Bluesology Band Member"
+      },
+      {
+        "name": "Rachel Muldoon",
+        "character": "Kiki Dee"
+      },
+      {
+        "name": "Benjamin Mason",
+        "character": "Bryan"
+      },
+      {
+        "name": "Guillermo Bedward",
+        "character": "Geoff"
+      },
+      {
+        "name": "Max Mackintosh",
+        "character": "Stephen"
+      },
+      {
+        "name": "Micah Holmes",
+        "character": "LA Transgender Maid"
+      },
+      {
+        "name": "Charles Armstrong",
+        "character": "Mr. Anderson"
+      },
+      {
+        "name": "Barbara Drennan",
+        "character": "Mrs. Anderson"
+      },
+      {
+        "name": "Jake Shears",
+        "character": "MC Drag Queen"
+      },
+      {
+        "name": "Graham Fletcher-Cook",
+        "character": "Maître D'"
+      },
+      {
+        "name": "Sian Crisp",
+        "character": "Waitress"
+      },
+      {
+        "name": "Dale Monie",
+        "character": "1st Hanger-On"
+      },
+      {
+        "name": "Alex James-Phelps",
+        "character": "Young Guy"
+      },
+      {
+        "name": "Fabian Sgoluppi",
+        "character": "Kid"
+      },
+      {
+        "name": "Alison Ball",
+        "character": "LA Party Girl"
+      },
+      {
+        "name": "Danielle Scott",
+        "character": "LA Party Girl"
+      },
+      {
+        "name": "Leon Cooke",
+        "character": "Hugh / Dancer"
+      },
+      {
+        "name": "Juozas Statkevicius",
+        "character": "Parkland Patient"
+      },
+      {
+        "name": "Benjamin Lok",
+        "character": "Parkland Patient"
+      },
+      {
+        "name": "Dempsey Bovell",
+        "character": "Parkland Patient"
+      },
+      {
+        "name": "Max Croes",
+        "character": "Parkland Patient"
+      },
+      {
+        "name": "Natalie Adams",
+        "character": "Parkland Patient"
+      },
+      {
+        "name": "Pete McCabe",
+        "character": "Parkland Patient"
+      },
+      {
+        "name": "Rebecca Davis",
+        "character": "Parkland Patient"
+      },
+      {
+        "name": "Titilayo Abiola",
+        "character": "Parkland Patient"
+      },
+      {
+        "name": "Ross Dawes",
+        "character": "Parkland Patient"
+      },
+      {
+        "name": "Alexa Povah",
+        "character": "Parkland Patient"
+      },
+      {
+        "name": "Mark Atkin",
+        "character": "Pub Man 2"
+      },
+      {
+        "name": "Stevee Davies",
+        "character": "Minion"
+      },
+      {
+        "name": "Nia Towle",
+        "character": "Sushi Girl"
+      },
+      {
+        "name": "Lee Bridgman",
+        "character": "Steve"
+      },
+      {
+        "name": "Rob Callender",
+        "character": "Rory"
+      },
+      {
+        "name": "Demetri Goritsas",
+        "character": "Carter"
+      },
+      {
+        "name": "James Bennett",
+        "character": "Dancer"
+      },
+      {
+        "name": "Stephan Lee Benson",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ava Brennan",
+        "character": "Dancer"
+      },
+      {
+        "name": "Myles Brown",
+        "character": "Dancer"
+      },
+      {
+        "name": "Sophie Carmen-Jones",
+        "character": "Dancer"
+      },
+      {
+        "name": "Nikkita Chadha",
+        "character": "Dancer"
+      },
+      {
+        "name": "Navala Chaudhari",
+        "character": "Dancer"
+      },
+      {
+        "name": "Tom Clark",
+        "character": "Dancer"
+      },
+      {
+        "name": "Zoe Reeve",
+        "character": "Dancer"
+      },
+      {
+        "name": "Miles Coote",
+        "character": "Dancer"
+      },
+      {
+        "name": "Jack Dargen",
+        "character": "Dancer"
+      },
+      {
+        "name": "Michael Downing",
+        "character": "Dancer"
+      },
+      {
+        "name": "Jo Dyce",
+        "character": "Dancer"
+      },
+      {
+        "name": "Mark Ellison",
+        "character": "Dancer"
+      },
+      {
+        "name": "Michael J. Fellows",
+        "character": "Dancer"
+      },
+      {
+        "name": "Rebecca Fennelly",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ross Finnie",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ashley Franklin",
+        "character": "Dancer"
+      },
+      {
+        "name": "Fraser Fraser",
+        "character": "Dancer"
+      },
+      {
+        "name": "Lucia Marin Gonzalez",
+        "character": "Dancer"
+      },
+      {
+        "name": "Martina Gumbs",
+        "character": "Dancer"
+      },
+      {
+        "name": "Jared Martyn-Hageman",
+        "character": "Dancer"
+      },
+      {
+        "name": "Pip Hersee",
+        "character": "Dancer"
+      },
+      {
+        "name": "Connor Hill",
+        "character": "Dancer"
+      },
+      {
+        "name": "Thomas Inge",
+        "character": "Dancer"
+      },
+      {
+        "name": "Sarah Haruko Iwaskow",
+        "character": "Dancer"
+      },
+      {
+        "name": "Luke Jackson",
+        "character": "Dancer"
+      },
+      {
+        "name": "Christopher Jeffers",
+        "character": "Dancer"
+      },
+      {
+        "name": "Hayley Jones",
+        "character": "Dancer"
+      },
+      {
+        "name": "Jamie Karitzis",
+        "character": "Dancer"
+      },
+      {
+        "name": "Emily Kuhl",
+        "character": "Dancer"
+      },
+      {
+        "name": "Wade Lewin",
+        "character": "Dancer"
+      },
+      {
+        "name": "Neeve Martin",
+        "character": "Dancer"
+      },
+      {
+        "name": "Thomas Charles Torrance Mather",
+        "character": "Dancer"
+      },
+      {
+        "name": "Fiona McDonald",
+        "character": "Dancer"
+      },
+      {
+        "name": "Liam Marcinello",
+        "character": "Dancer"
+      },
+      {
+        "name": "Alicia Mencia",
+        "character": "Dancer"
+      },
+      {
+        "name": "Oliver Metzler",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ramzan Miah",
+        "character": "Dancer"
+      },
+      {
+        "name": "Jake Moyle",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ed Munro",
+        "character": "Dancer"
+      },
+      {
+        "name": "Sam Murphy",
+        "character": "Dancer"
+      },
+      {
+        "name": "Myles Newland",
+        "character": "Dancer"
+      },
+      {
+        "name": "Callum Powell",
+        "character": "Dancer"
+      },
+      {
+        "name": "Aishwarya Raut",
+        "character": "Dancer"
+      },
+      {
+        "name": "Lauren-Kate Seymour",
+        "character": "Dancer"
+      },
+      {
+        "name": "Phil Snowden",
+        "character": "Dancer"
+      },
+      {
+        "name": "Nadia Sohawon",
+        "character": "Dancer"
+      },
+      {
+        "name": "Sam Stanley",
+        "character": "Dancer"
+      },
+      {
+        "name": "Amira Stevens",
+        "character": "Dancer"
+      },
+      {
+        "name": "Tristan Temple",
+        "character": "Dancer"
+      },
+      {
+        "name": "Alex Thomas",
+        "character": "Dancer"
+      },
+      {
+        "name": "Grant Thresh",
+        "character": "Dancer"
+      },
+      {
+        "name": "Matt Turner",
+        "character": "Dancer"
+      },
+      {
+        "name": "Megan Westpfel",
+        "character": "Dancer"
+      },
+      {
+        "name": "Josh Weston",
+        "character": "Dancer"
+      },
+      {
+        "name": "Layton Williams",
+        "character": "Dancer"
+      },
+      {
+        "name": "Luke Woolaston",
+        "character": "Dancer"
+      },
+      {
+        "name": "Tom Woolaston",
+        "character": "Dancer"
+      },
+      {
+        "name": "Alexandra Worrall",
+        "character": "Dancer"
+      },
+      {
+        "name": "Luke Wright",
+        "character": "Dancer"
+      },
+      {
+        "name": "Zeng Yixin",
+        "character": "Dancer"
+      },
+      {
+        "name": "Emily Yuen",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ziad Abaza",
+        "character": "Hospital Nurse (uncredited)"
+      },
+      {
+        "name": "Christina Andrew",
+        "character": "Dodger Girl (uncredited)"
+      },
+      {
+        "name": "Lasco Atkins",
+        "character": "Extended Family (uncredited)"
+      },
+      {
+        "name": "Jamie Bacon",
+        "character": "Cool Dude (uncredited)"
+      },
+      {
+        "name": "Anna Benamati",
+        "character": "Elton John's House Manager (uncredited)"
+      },
+      {
+        "name": "Pierre Bergman",
+        "character": "Fine Restaurant Diner (uncredited)"
+      },
+      {
+        "name": "Carlos Borrás",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Dan Burns",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Peter Cerlienco",
+        "character": "Dee Murray (uncredited)"
+      },
+      {
+        "name": "Eric Coco",
+        "character": "Bodybuilder (uncredited)"
+      },
+      {
+        "name": "David Cradduck",
+        "character": "Newspaper Seller (uncredited)"
+      },
+      {
+        "name": "Nick Davison",
+        "character": "Funfair Stallholder (uncredited)"
+      },
+      {
+        "name": "Marco De Marlo",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Michele Donockley",
+        "character": "Gig Goer (uncredited)"
+      },
+      {
+        "name": "Dani Dupont",
+        "character": "Air Stewardess (uncredited)"
+      },
+      {
+        "name": "Healthy Emmie",
+        "character": "Fan (uncredited)"
+      },
+      {
+        "name": "Amor Evans",
+        "character": "Fashion Journalist (uncredited)"
+      },
+      {
+        "name": "Viktorija Faith",
+        "character": "Party Guest (uncredited)"
+      },
+      {
+        "name": "Karl Farrer",
+        "character": "Fine Restaurant Diner (uncredited)"
+      },
+      {
+        "name": "Delia Florea",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Jack French",
+        "character": "Drug Dealer (uncredited)"
+      },
+      {
+        "name": "Inna Georgia",
+        "character": "Bernie Taupin Girlfriend (uncredited)"
+      },
+      {
+        "name": "Michel Alexandre Gonzalez",
+        "character": "Busboy (uncredited)"
+      },
+      {
+        "name": "Mark Gooden",
+        "character": "Fairground Guest (uncredited)"
+      },
+      {
+        "name": "Nicholle Hembra",
+        "character": "Teddy Girl (uncredited)"
+      },
+      {
+        "name": "Theo Ip",
+        "character": "80's New Yorker / Londoner (uncredited)"
+      },
+      {
+        "name": "Nick Kellington",
+        "character": "Elton's Stagehand (uncredited)"
+      },
+      {
+        "name": "Adnan Kundi",
+        "character": "Gig Punter / Hollywood Bowl Crowd (uncredited)"
+      },
+      {
+        "name": "Kamil Lemieszewski",
+        "character": "Dr. Maverick / Paramedic (uncredited)"
+      },
+      {
+        "name": "Xiao Xue Xu Lin",
+        "character": "Party Goer (uncredited)"
+      },
+      {
+        "name": "Francesco Lucidi",
+        "character": "Nigel Olsson (uncredited)"
+      },
+      {
+        "name": "Ketan Majmudar",
+        "character": "Dodgers Stadium Attendee (uncredited)"
+      },
+      {
+        "name": "Giles Martin",
+        "character": "Music Producer (uncredited)"
+      },
+      {
+        "name": "Ida May",
+        "character": "Party Girl (uncredited)"
+      },
+      {
+        "name": "Elizabeth McCafferty",
+        "character": "Ray Williams' Girlfriend (uncredited)"
+      },
+      {
+        "name": "Solomon Mousley",
+        "character": "Sonny (uncredited)"
+      },
+      {
+        "name": "Adrian Mozzi",
+        "character": "Elton John's Guest (uncredited)"
+      },
+      {
+        "name": "Laura Obiols",
+        "character": "Elton John's Guest (uncredited)"
+      },
+      {
+        "name": "Tom Ogg",
+        "character": "George - John Reid's Boyfriend (uncredited)"
+      },
+      {
+        "name": "Rory Okey",
+        "character": "LA Drug Dealer (uncredited)"
+      },
+      {
+        "name": "Richard Price",
+        "character": "Pinner Resident / Concert Attendee (uncredited)"
+      },
+      {
+        "name": "Jess Radomska",
+        "character": "Teddy Girl 1 (uncredited)"
+      },
+      {
+        "name": "Eddie Register",
+        "character": "Burly Guy (uncredited)"
+      },
+      {
+        "name": "Kemal Shah",
+        "character": "Doorman (uncredited)"
+      },
+      {
+        "name": "Charlotte Sharland",
+        "character": "Ice Cream Girl (Pinner) (uncredited)"
+      },
+      {
+        "name": "Sarah Sharman",
+        "character": "Backing Singer (uncredited)"
+      },
+      {
+        "name": "Mariela Silva",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Amanda Smith",
+        "character": "Punter's Wife (uncredited)"
+      },
+      {
+        "name": "Robert Smith",
+        "character": "Fan At Concert (uncredited)"
+      },
+      {
+        "name": "Tanisha Spring",
+        "character": "Sylvi (uncredited)"
+      },
+      {
+        "name": "Alisha Tarran",
+        "character": "Elton Fangirl (uncredited)"
+      },
+      {
+        "name": "Emily Tebbutt",
+        "character": "Tiller Girl (uncredited)"
+      },
+      {
+        "name": "Dave Thompson",
+        "character": "Elton's Stage Manager (uncredited)"
+      },
+      {
+        "name": "Peter Trevor",
+        "character": "Singing Flash Restaurant Customer (uncredited)"
+      },
+      {
+        "name": "Lochlan White",
+        "character": "Dancer - Pinner Child (uncredited)"
+      },
+      {
+        "name": "Luke White",
+        "character": "Bouncer (uncredited)"
+      },
+      {
+        "name": "Riley White",
+        "character": "Dancer - Pinner Child (uncredited)"
+      },
+      {
+        "name": "Sara Wilkins",
+        "character": "Passerby (uncredited)"
+      },
+      {
+        "name": "Samuel Williams",
+        "character": "Drag Queen (uncredited)"
+      },
+      {
+        "name": "Charlie Bentley",
+        "character": "Parkland Patient (uncredited)"
+      },
+      {
+        "name": "Elton John",
+        "character": "Self (Archive)"
+      },
+      {
+        "name": "Bethany Harrison",
+        "character": "Dancer"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Lawrence Bender",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Lee Hall",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Matthew Vaughn",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dexter Fletcher",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Elizabeth Yianni-Georgiou",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Carmel Jackson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Chris Dickens",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "James O'Donnell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Mark Southworth",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Appleby",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Elton John",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Barrie Gower",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "name": "Claudia Schiffer",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Marcus Rowland",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Steve Carter",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Julian Day",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Brian Oliver",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Adam Bohling",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Adam Bohling",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Sian Evans",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "David Reid",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David Reid",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Andy Hague",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Giles Martin",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "name": "Alexander Bracq",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Matthew Margeson",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "George Richmond",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Reg Poerscout-Edgerton",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Nina Armstrong",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Henson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tim Blake",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Clive Curtis",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Furnish",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steve Hamilton Shaw",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steve Hamilton Shaw",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Yanika Waters",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "name": "Michael Gracey",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Stevee Davies",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Emma Zee",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Judy Farr",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Matthew Collinge",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Matthew Collinge",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Glen Gathard",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Cecile Tournesac",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "James Embree",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ray De-Haan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Pablo Verdejo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mike Prestwood Smith",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Alex Rouse",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Julia Jones",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Emma Britton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Hayes",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Danny Sheehan",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Brooke Lyndon-Stanford",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Kate Laver",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Tapio Salmi",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Ben Gladstone",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Lucy Ward",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Andrew Michael Buckley",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Mark Appleby",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Jan Archibald",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Lillie Jeffrey",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Gary Hoptrough",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kasper Pedersen",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Levan Doran",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Laura Conway-Gordon",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Zoe Freed",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Bella Ava Georgiou",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Shahida Day",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "David Cozens",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Andrew Rowe",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Hanna Canfor",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Lilly Blazewicz",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Jack Ravenscroft",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Tamsyn Manson",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Claire Frayn",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Belinda McGinley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Paul Oatway",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Simon Whyman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chus Lucas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rob Prynne",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Sian Crisp",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Chris Bain",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Leigh Thurbon",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Benedict Minghella",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Cristian Knight",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Justin Pearson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Stephen Mathie",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Joe Barlow",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Victoria Allwood",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Nicholas Daines",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Will Morris",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Victoria Money",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "name": "Joshua Callis-Smith",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Pai Pai",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Paul Threadgold",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Adam Murray",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Stephanie Hamilton-Jordan",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Florian Robin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Arran Topham",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sarah Lochlan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Cole Armitage",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Umberto Schramm",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Tom Storey",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Renars Latkovskis",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nadia Merabti",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Lizzie Campbell-Kelly",
+        "department": "Sound",
+        "job": "ADR Coordinator"
+      },
+      {
+        "name": "Alice Speak",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Sina Ali",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nisha Aulum",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Matt Sherren",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Josie Forman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nadia Hansell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Hasit Savani",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chloe Muton-Philips",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Mark Stanton-Kelly",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Louis Samms",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Edward Upcott",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ellie Keighley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Luke Gomes",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Emily Norris",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Nathan Whatton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Luke Gavin",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Tim Davies",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Dibden",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Pierre Farinole",
+        "department": "Art",
+        "job": "Standby Art Director"
+      },
+      {
+        "name": "Lewis Young",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christoph Cordell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lucy Allan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Fenix Searle",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chloe Holland",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Stuart Watson",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Deborah Kavanagh",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Rory Okey",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Emma Brackenbury",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Max Lipscombe",
+        "department": "Crew",
+        "job": "Cableman"
+      },
+      {
+        "name": "Jake Osborn",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Iain Mackenzie",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Lenny Woodcock",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marcus White",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard Leggett",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Carlos Castillo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Octavia Hopwood",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dan Sadler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jake Shallcross",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ella Chaitow",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Andy Patterson",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Alice Walker",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Josephine Farr",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Ali Youssef",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Aaran Lewis Leach",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Archie Reid",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "name": "William Finch",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Sandra Waddington-Wilson",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Hannah Lamb",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Catherine Woolston",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Nicola Barron",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Myra Hanet",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Maisie McCubbin",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Danielle Harding",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Sally Crawshaw",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Jo Flowers",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Nina Annan",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Paolo Magni",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Robin Hall",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Sean Scott Griffin",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Alyn Sclosa",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Dean Porter",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Emma Chapman",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      }
+    ]
+  },
+  "keywords": [
+    "london, england",
+    "drug abuse",
+    "pop star",
+    "1970s",
+    "musical",
+    "biography",
+    "based on true story",
+    "alcoholism",
+    "singer",
+    "rock music",
+    "los angeles, california",
+    "pianist",
+    "lgbt",
+    "rise to fame",
+    "1960s",
+    "gay theme"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A musical fantasy about the fantastical human story of Elton John's breakthrough years."
+  ],
+  "synopsis": "Dressed in a flamboyant devil's outfit, Elton John (Taron Egerton) enters an addiction rehabilitation session, and begins to recount his life in a flashback (The B**ch Is Back).\nYoung Elton (born Reginald Dwight) grows up in 1950s England, raised by his cold, non-affectionate mother Sheila (Bryce Dallas Howard) and more loving grandmother Ivy (Gemma Jones). His father Stanley (Steven Mackintosh) is mostly absent from the home due to service in the Royal Air Force. Reginald shows interest in playing the piano and displays the ability to \"play by ear\" - instantly playing music perfectly on the piano after listening to it once. He hopes to perform for his father on his return, but Stanley takes no interest in his son or his talent for music (I Want Love).Reginald then begins formal training with Ivy's support, eventually leading to study at the Royal Academy of Music.\nStanley eventually abandons his family after Sheila has an affair with another man. Later, Reginald develops an interest in rock music artists such as Elvis Presley and begins performing in local pubs (Saturday Night's Alright). An adult Reginald then joins the band Bluesology.\nOne night, Bluesology is hired to play backup for a touring American soul band. One of the singers suggests that if Reginald wants to become famous, he must write some songs, change his name, put his old life behind him and start anew. This inspires Reginald to change his name to Elton John.Elton begins writing music and tries to find success with Dick James' (Stephen Graham) record label DJM Records under the management of Ray Williams (Charlie Rowe). Williams introduces Elton to songwriter Bernie Taupin (Jamie Bell) and the two quickly form a friendship (Border Song). Elton's former partners in the soul band out him as homosexual, but Bernie is disinterested in his partner's sexuality, and they move into a flat together to work on their songs. This tenancy ends abruptly after Elton ends his romantic relationship with their landlady.Elton and Bernie return to Elton's family home to continue writing and create \"Your Song.\" James is impressed by the song and sets up a performance for them at the Troubadour in Los Angeles.\nElton is nervous before his debut at the Troubador, but the audience eagerly embrace his performance (Crocodile Rock). Elton is overjoyed by his success but feels lonely and abandoned at an after-party at Mama Cass's home in the Hollywood Hills when Bernie leaves him to spend time with a woman (Tiny Dancer). He is approached by John Reid (Richard Madden), a music manager attracted to Elton. The two sleep together and reunite later (Take Me to the Pilot).\nReid's influence over Elton results in a downward spiral into a life of debauchery even as his career rises to new heights. Elton becomes one of the most successful musicians of the 1970s, with a flamboyant, over-the-top stage persona (Honky Cat).After Elton appoints him as his new manager, Reid's manipulation and control increases into abuse. Reid insists he come out as gay to his parents so they can help hide their sexual relationship from the press. Elton reconnects with Stanley, who is now remarried with two other sons. Stanley still displays no interest in Elton but is demonstrative and affectionate with his new family. Unhappy and hurt by this encounter, Elton storms away from Reid, calls his mother on a payphone, and tells her he is gay. Sheila bluntly informs him that she already knew, does not care, and ends the call by telling him he will be forever alone. Still more upset by his mother's reply, Elton turns to Reid for comfort. Reid responds by striking him and orders him to focus on his sold-out concert tour.Struggling with parental issues as well as Reid's increasing physical and emotional abuse, Elton becomes addicted to alcohol, cocaine, cannabis, shopping, and sex.\nLonely and grieving, Elton consumes large amounts of drugs and alcohol, and his short temper alienates the friends who do care for him (Pinball Wizard). He catches Reid cheating on him with another man and breaks off their relationship, but Reid retorts that he does not care as long as Elton continues to make money for him. Later that day during a house party, Elton binges on drugs and alcohol, and attempts suicide by jumping into his pool. He is rushed to the hospital, then thrust onstage at Dodger Stadium to perform. (Rocket Man).Elton has a short-lived marriage with a close female friend, but this relationship is doomed by his homosexuality. (Don't Let the Sun Go Down on Me). He falls out with his mother (Sorry Seems to Be the Hardest Word) and Bernie.\nInfuriated, agitated, and depressed, Elton's dependence on prescription pills and alcohol result in a heart attack. He is again rushed to the hospital, but Reid shrugs it off as a mild chest infection and forces Elton back onstage for his next performance. Realizing that his life is spiraling out of control, Elton leaves Madison Square Garden before the concert and seeks help (Goodbye Yellow Brick Road). He enters rehabilitation and realizes he no longer needs anything from his parents or Reid. Elton rekindles his friendship with Bernie, who brings him new song lyrics to try and help him back in action. At first, Elton is worried that he cannot perform or compose without alcohol or drugs as a crutch, but Bernie has confidence in him. Elton writes \"I'm Still Standing\" and returns to a successful career.The film's ending subtitles inform viewers that Elton has been sober for over 28 years. He remains good friends with Bernie, and is now married to David Furnish, with whom he has two children."
+}

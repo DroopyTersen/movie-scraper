@@ -1,0 +1,880 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/96sS0woEzf0zFSWjHVblOhsBfGd.jpg",
+  "id": 522924,
+  "title": "The Art of Racing in the Rain",
+  "poster_path": "https://image.tmdb.org/t/p/w500/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+  "release_date": "2019-08-08",
+  "vote_average": 8.212,
+  "vote_count": 1375,
+  "popularity": 27.389,
+  "overview": "A family dog – with a near-human soul and a philosopher's mind – evaluates his life through the lessons learned by his human owner, a race-car driver.",
+  "imdb_id": "tt1478839",
+  "budget": 18000000,
+  "homepage": "https://foxmovies.com/movies/the-art-of-racing-in-the-rain",
+  "revenue": 33800000,
+  "runtime": 109,
+  "tagline": "Meet the dog who will show the world how to be human",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Original Film",
+    "Shifting Gears Productions",
+    "Fox 2000 Pictures",
+    "Starbucks Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Milo Ventimiglia",
+        "character": "Denny Swift"
+      },
+      {
+        "name": "Kevin Costner",
+        "character": "Enzo (voice)"
+      },
+      {
+        "name": "Amanda Seyfried",
+        "character": "Avery \"Eve\" Swift"
+      },
+      {
+        "name": "Martin Donovan",
+        "character": "Maxwell"
+      },
+      {
+        "name": "Ian Lake",
+        "character": "Mike"
+      },
+      {
+        "name": "Gary Cole",
+        "character": "Don Kitch"
+      },
+      {
+        "name": "Kathy Baker",
+        "character": "Trish"
+      },
+      {
+        "name": "McKinley Belcher III",
+        "character": "Mark Finn"
+      },
+      {
+        "name": "Ryan Kiera Armstrong",
+        "character": "Young Zoe Swift"
+      },
+      {
+        "name": "Lily Dodsworth-Evans",
+        "character": "Teenage Zoe Swift"
+      },
+      {
+        "name": "Al Sapienza",
+        "character": "Actor"
+      },
+      {
+        "name": "Andres Joseph",
+        "character": "Tony"
+      },
+      {
+        "name": "Karen Holness",
+        "character": "Doctor"
+      },
+      {
+        "name": "Aliza Vellani",
+        "character": "Assistant"
+      },
+      {
+        "name": "Elizabeth Bowen",
+        "character": ""
+      },
+      {
+        "name": "Aias Dalman",
+        "character": "Friend of Zoë (uncredited)"
+      },
+      {
+        "name": "Giacomo Finn",
+        "character": "Italian Boy"
+      },
+      {
+        "name": "Jackie Minns",
+        "character": "Mrs. Spangle"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Stephanie Gorin",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Hugo Adams",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Peter Clarke",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Monique Prudhomme",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Neal H. Moritz",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mark Bomback",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Patrick Dempsey",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tania Landau",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mitch Bax",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Ross Emery",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Clay Cullen",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Greg Crawford",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Simon Curtis",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Tarn Harper",
+        "department": "Production",
+        "job": "Post Production Accountant"
+      },
+      {
+        "name": "Donald J. Lee Jr.",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Donald J. Lee Jr.",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Kelly Zombor",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Dustin O'Halloran",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Brent Thomas",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Adam Recht",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Corinne Clark",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Volker Bertelmann",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Garth Stein",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Sue Harding",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Doug Chapman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jennifer Page",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Yesi Ramirez",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Ben Norrington",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Ben Norrington",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Tanner Foust",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Cassandra Ebner",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Shannon Grover",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Graham Coutts",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Jeanette Haley",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Gerard McCann",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Joel Whist",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Stuart Haggerty",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Blue Angus",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Jessica Clothier",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Doane Gregory",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Joannie Burstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Sandra-Ken Freeman",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Andrea King",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Niall Fraser",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Tim Cavagin",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Lorraine Jamison",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Jessica Rain",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Ian Wilson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Sean Oxenbury",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Shaun Richards",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Peter Wilke",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Phil Lee",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jamie Stevenson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Mark Appleby",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Zoe Jirik",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Season Kent",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Natalie Cosco",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Adam Mendez",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Cecil O'Connor",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Alison Fraser",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Rod Haney",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Susannah Brengel",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Marc Aubin",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Simon Diggins",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "John Dale",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Emma Clarke",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Gail Barrett",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Mike Splatt",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Chrissy Mozylisky",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Alex Martinez",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Maria Chamberlain",
+        "department": "Editing",
+        "job": "Digital Colorist"
+      },
+      {
+        "name": "Phoebe Scholfield",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Francesca Bradley",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Michael Leder",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Kim Olsen",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Bliss McDonald",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Tom Hannibal",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Armando Pizzuti",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jim Brebner",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Regan Kosior",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Max Walsh",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Ian R. C. Levine",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Paul Lavigne",
+        "department": "Costume & Make-Up",
+        "job": "Costume Set Supervisor"
+      },
+      {
+        "name": "Jack Cruikshank",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Mike Dodd",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Everton Nelson",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Chris Ihlenfeldt",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Annamaria Sambucco",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Paul Irvine",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "David McIntosh",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Teresa Ann Miller",
+        "department": "Crew",
+        "job": "Animal Coordinator"
+      },
+      {
+        "name": "Andy Welker",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Benoit Waller",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Dan Morrison",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Spencer Ennis",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Drew David",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Evan Godfrey",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Adriene Wyse",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Devin Doucette",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Chad Belair",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Jackson Ezard",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Lottie Wade",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Lise Hache",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Phil Gough",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Jason Collier",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Dan Kuzmenko",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "James C. France",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Joshua Marcoux",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Jesse Minty",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Lindsay Ledohowski",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Haida Harper",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Nu Quan",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Stephen Arnott",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Bonnie Lambie",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Maria Kelly",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Luke Hardisty",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Karin Korchinski",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Kurt Zelmer",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Mike Stroman",
+        "department": "Crew",
+        "job": "Generator Operator"
+      },
+      {
+        "name": "Amber Crombach",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Rebecca Rees",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Jason Misewich",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Daniel Pierce",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Monika Radwanska",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Dilek Osman",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Sherri Thomas",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Steve Lamare",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Andy Kopetsch",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Rodger Schultz",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Peter Drozdzik",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Alison Wall",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Glenda Mariani",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Mirko Pantalla",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Heather Osborne",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Sandrine Hanna",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Jeff Zwart",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Joe Goode",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Jake Stephenson",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Dubin Kim",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Kathryn Sheer",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Ali Kennedy",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Samantha Wyatt Smith",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Stephen D.R. Hopgood",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Devin Gunenc",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Emily Jang",
+        "department": "Crew",
+        "job": "Studio Teacher"
+      },
+      {
+        "name": "Wendy Martinez",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Andie Aichholz",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Richaed Biederman",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Anna Perzel",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Michal Whitty",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      }
+    ]
+  },
+  "keywords": [
+    "friendship",
+    "washington dc, usa",
+    "based on novel or book",
+    "car race",
+    "sports",
+    "reincarnation",
+    "racing",
+    "race car driver",
+    "dog",
+    "animal",
+    "pets",
+    "father daughter relationship",
+    "animal narrator"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Through his bond with his owner, aspiring Formula One race car driver Denny, golden retriever Enzo learns that the techniques needed on the racetrack can also be used to successfully navigate the journey of life.",
+    "Dog lovers believe their canine family members understand language, comprehend events, have opinions, exude loyalty. In \"The Art of Racing In The Rain\", wise old dog Enzo Swift shares thoughts about the life experiences which prepared him to protect his family in times of greatest need.",
+    "In death basket flashbacks, doting golden retriever Enzo tells his wonderful life with devoted owner Denny, a talented aspiring Formula One race car driver, who put his racing dream back to marry Eve and raise their daughter Zoe. Only after Eve dies in a tragic accident and a bitter custody case against Denny by her rich parents, he accepts a test driver job in Ferrari's Milan HQ. By then, inseparable Enzo is so sick he can only enjoy a first and last ride in Denny's stat of the art F1 car, confident he'll be reborn as a budding racer, as apparently happens eight years later.—KGF Vissers"
+  ],
+  "synopsis": "The film begins in Seattle, where an old golden retriever is lying in front of a door. He is alive and awake, but barely moving. We begin hearing his thoughts. Life as he knows it is close to the end, but he talks about how he once was watching television and learned about what Mongolians believe about dogs. They are reincarnated and return as dogs, and when they finally live a full life, they come back once more, as humans. We also learn that he believes being unable to communicate with humans is a curse. He is waiting for Denny, his master, and best friend.Denny comes home and finds Enzo, a golden retriever, unable to even move from the puddle of urine he is laying in. Denny knows the end is nearing. He picks up Enzo and takes him to the couch. Enzo then begins telling us about his life.Enzo is a puppy and is in a large box/pen outside with the rest of the litter. He tells that even then he knew he was different. Denny arrives and walks up to the pack of puppies. Enzo walks over right to Denny. He begins licking him, and the two quickly form a bond. After the couple who are selling the dogs do a little routine so they can get more money, Denny asks how much for the puppy.Denny arrives at a garage and takes Enzo out of the car. He introduces him to his friends. One of his friends points out that he's going to have to take care of the puppy and will have to make time for him. The other asks if he is coming to his band's concert that night. Denny quickly responds he has to stay home with Enzo.Denny leaves and goes to his job. He teaches auto racing and his boss, Don, thinks highly of him. He also helps get him jobs as a GT race driver. When he's not racing or teaching, Denny and Enzo are inseparable. Enzo tells us he loved Denny unconditionally and Denny takes him for runs and watches races on TV with him. Denny says that even though Enzo is a dog, he is a racer at heart and Enzo agrees.A year quickly goes by, and the two have settled into a routine. Then, while they are grocery shopping, Denny meets Eve. Enzo can sense Denny's interest in Eve, and is jealous. He tries to drag Denny away from her literally, but Denny reins in Enzo and asks Eve to his friend's concert. He jokes and says they are Seattle's third-best SoundGarden cover band.They begin dating and quickly fall in love. While Eve is incredibly supportive of Denny, Enzo does not feel that close to her, but he tries because he knows she is important to Denny.Soon the couple is married, and they make it work even though Denny has to leave most weekends to race. Eve's parents, who Enzo refers to as the \"twins,\" clearly do not approve of Denny's career. They don't like that he's gone often and doesn't make much money. The mother is more accepting than the father. He races well, but different circumstances cost him from ever making it big. Eve becomes pregnant, and Denny is happy. Enzo even senses a change in Eve and begins to accept her. One night she even has him rest his chin on her belly, and he feels the baby kick. Enzo even admits to being jealous that she can carry a baby in her while it is assembled. He's okay with it but wants the baby to look like him when it is born.Denny accepts an endurance race in Daytona but is unsure of following through since it is close to Eve's due date. Always supportive, she says she's not due until two weeks after and she has never been early for anything. He leaves.Enzo watches Denny's race on the television and Eve goes through childbirth. She gives birth to a daughter, which she names Zoe. When the midwives are done and Eve is holding Zoe comfortably in bed, she tells Enzo to come on over. Enzo quickly arrives and loves the baby, describing her as like nothing he has ever seen before. However, he does not love one her gifts, a stuffed animal zebra.Denny returns home and says he should have been there. Clearly, Eve's parents are not thrilled that he wasn't, but they don't let on. Eve assures Enzo that they are fine and it's okay he 'wasn't there. He tells her he raced well, but he was replaced at the end by an upcoming driver who crashed just before the end. He raced well, but since his team didn't even finish, it means nothing and will not be his big break.Time quickly passes, and we see the family over time. We see a conversation between Denny and Eve about racing when it rains. She asks him if it scares him. He said he doesn't. He talks about how you can give in to that fear, and if you do you, then you have given up control. He tells her how he begins the skid before the turn, so he controls it. He doesn't give up control of the car, ever.Time passes, and Zoe gets older. Eve continues her job as a teacher, and Enzo enjoys the family. Eve complains of a headache one day. Soon after, we learn Enzo can smell the cancer in her head. He describes a 'rotting wood' odor come from her. Unable to communicate this, though, life goes on for the family.Later, Eve is very sick while Denny is away. She is vomiting into the kitchen sink. She rushes out with Zoe and leaves Enzo all alone. Enzo soon runs out of food and must drink water from the toilet. He finds the occasional cheerio on the floor. One night, during a lightning storm, Enzo says he is hallucinating. He sees Zoe's evil zebra rip another stuffed animal apart and then the zebra rips out its own stuffing.After a few days, Denny comes home and feeds Enzo. He calls Eve and asks her to come home. She does, and Zoe is upset when she finds all of her stuffed animals and toys ripped to shreds. Denny scolds Enzo and even yells he is a stupid dog. Eve tells him to stop berating the dog. Later, Denny finds Enzo in the yard and apologizes to him.Sometime after Eve is walking with Enzo in the woods, Eve is struggling but keeps telling Enzo (who loves Eve) that she is alright. Suddenly Eve passes out and Enzo barks until help arrives.Eve stays in the hospital while she undergoes tests and is treated. Denny takes care of Zoe and doesn't have as much time for Enzo. Eve is discharged and lives with her parents. Denny and Zoe spend time with her, while he condition deteriorates. One night, Enzo goes over to Eve. She admits she is no longer scared. She knows while this the end to her life here, there is more for her after this life. Enzo tells us he watched as she took her last breath. He says he watched her soul depart her body and leave for its next stage.The family has a funeral, and soon after, Denny's in-laws confront him. They want custody of Zoe and threaten to sue him. Maxwell, Eve's father, finally tells Denny what he thinks and Denny tells Zoe they are leaving and to grab her stuff. Maxwell grabs Denny's arm. Denny pulls it away, and Maxwell falls breaking a rib. Eve's mother, Trish, had her back turned during this event. Denny and Zoe leave.Denny hires his lawyer friend, Mark, who says it is an open and shut case. He should have no fear of losing Zoe. Then, while at work, Denny is arrested for assault. Maxwell is lying about what happened and says Denny was the aggressor. Mark tells Denny if he is convicted, he may never see his daughter again and that she is with the grandparents for the next 90 days. He cannot call or see her. Enzo is upset by this too.During this time, Denny is offered a job in Italy testing and racing new prototypes for Ferrari. He tells them he cannot leave the state or accept such a job because of all that is going on in his life. The man gives him his business card and tells him he understands and if things should change to give him a call.Denny is upset. The 90 days pass and through his in-laws submit a deal. Denny doesn't know what to do but says he will fight. One night, Denny goes running with Enzo like they used to do, but Enzo, older, struggles to keep pace. Lagging behind, he attempts to follow Denny across the street. He is hit by a car. Denny rushes him to a 24-hour animal hospital.The vet tells Denny that Enzo is extremely lucky. He will survive, but that this could cause problems in the future. He doesn't have enough money to pay the vet fully.Enzo starts to come out of a drug-induced haze a few weeks later. He sees Denny about to agree to a lousy custody deal. Just in time, Enzo grabs the legal document and rips it to shreds. Denny understands Enzo's message and decides to fight it.Later, Denny's friend comes over to watch Enzo as Denny heads to court. Enzo is nervous and anxious to find out what happened. Denny calls his friend to tell him what happened.We find out through a brief flashback to the court proceedings that Eve's mother began to lie on the stand and say she saw Denny push Maxwell to the ground. She is dismissed as a witness, but she can't bring herself to leave things this way. She admits the truth and the charges are dropped. Denny will win and receive full custody of his daughter.Denny calls the Ferrari representative and agrees to take the job. His new boss is thrilled to hear this, and Enzo is excited to be moving to Italy.Denny throws Zoe a birthday party. His in-laws show up uninvited. Denny still graciously invites them in. While the party goes on, Enzo, weakened by age, sleeps under that table.Cut to the beginning of the movie. We see the exact opening scene, but this time it plays on longer. Denny has the ailing dog on the couch with him. He puts on racing and gets an idea.Denny takes Zoe and Enzo to the race track where he used to teach. His old boss lets him drive Enzo on the track. Enzo talks about all he has learned and that he is sure his next life will be that of a human. He tells us he will be more prepared than other babies starting out and what he laments, like not being able to see Italy. He tells us he knows Denny will make it. He will wow people during testing and get his big break. He will become a great Formula One racer. Denny continues to go faster and Enzo barks to let him know he wants one more lap. The screen fades to white.Eight years pass and Denny and Zoe are living in Italy. A man and a boy are introduced to Denny who is in full racing gear. The father speaks for the boy and says his son is a big fan. He was wondering if Denny would give the boy an autograph. Denny agrees to and asks the boys name. He is Enzo. Denny smiles and tells the father the boy reminds him of an old friend. The father and boy thank Denny and are ready to leave. Denny stops them and gives the father his number. He tells him that when his son is ready, he will train the boy. The father is touched and thanks Denny."
+}

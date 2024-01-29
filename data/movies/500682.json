@@ -1,0 +1,563 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7SleH2eUSnAohTcn6zkYkGXJDVP.jpg",
+  "id": 500682,
+  "title": "The Highwaymen",
+  "poster_path": "https://image.tmdb.org/t/p/w500/4bRYg4l12yDuJvAfqvUOPnBrxno.jpg",
+  "release_date": "2019-03-15",
+  "vote_average": 6.744,
+  "vote_count": 1885,
+  "popularity": 25.574,
+  "overview": "In 1934, Frank Hamer and Manny Gault, two former Texas Rangers, are commissioned to put an end to the wave of vicious crimes perpetrated by Bonnie Parker and Clyde Barrow, a notorious duo of infamous robbers and cold-blooded killers who nevertheless are worshiped by the public.",
+  "imdb_id": "tt1860242",
+  "budget": 49000000,
+  "homepage": "https://www.netflix.com/title/80200571",
+  "revenue": 0,
+  "runtime": 133,
+  "tagline": "The legends who took down Bonnie & Clyde",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Casey Silver Productions",
+    "MRC",
+    "Perpetual Motion Pictures",
+    "Universal Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Kevin Costner",
+        "character": "Frank Hamer"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Manny Gault"
+      },
+      {
+        "name": "Kathy Bates",
+        "character": "Ma Ferguson"
+      },
+      {
+        "name": "John Carroll Lynch",
+        "character": "Lee Simmons"
+      },
+      {
+        "name": "Thomas Mann",
+        "character": "Deputy Ted Hinton"
+      },
+      {
+        "name": "Dean Denton",
+        "character": "Deputy Bob Alcorn"
+      },
+      {
+        "name": "Kim Dickens",
+        "character": "Gladys Hamer"
+      },
+      {
+        "name": "William Sadler",
+        "character": "Henry Barrow"
+      },
+      {
+        "name": "W. Earl Brown",
+        "character": "Ivy Methvin"
+      },
+      {
+        "name": "David Furr",
+        "character": "Detective John Quinn"
+      },
+      {
+        "name": "Jason Davis",
+        "character": "Agent Kendale"
+      },
+      {
+        "name": "Josh Caras",
+        "character": "Wade McNabb"
+      },
+      {
+        "name": "David Born",
+        "character": "Sheriff Henderson Jordan"
+      },
+      {
+        "name": "Brian F. Durkin",
+        "character": "Deputy Prentiss Oakley"
+      },
+      {
+        "name": "Kaley Wheless",
+        "character": "Jean Gault"
+      },
+      {
+        "name": "Alex Elder",
+        "character": "Nate Gault"
+      },
+      {
+        "name": "Emily Brobst",
+        "character": "Bonnie Parker"
+      },
+      {
+        "name": "Edward Bossert",
+        "character": "Clyde Barrow"
+      },
+      {
+        "name": "Jake Dashnaw",
+        "character": "Henry Methvin"
+      },
+      {
+        "name": "Jane McNeill",
+        "character": "Emma Parker"
+      },
+      {
+        "name": "Karson Kern",
+        "character": "Joe Palmer"
+      },
+      {
+        "name": "Jesse C. Boyd",
+        "character": "Ray Hamilton"
+      },
+      {
+        "name": "Kevin Sangston",
+        "character": "Guard Crowson"
+      },
+      {
+        "name": "Robert Bryan Davis",
+        "character": "Guard Bozeman"
+      },
+      {
+        "name": "Luray Cooper",
+        "character": "Luther"
+      },
+      {
+        "name": "Johnny McPhail",
+        "character": "Old Farmer (Grapevine)"
+      },
+      {
+        "name": "Silas Cooper",
+        "character": "Chief Boyd"
+      },
+      {
+        "name": "Jeff Pope",
+        "character": "Constable Cal Campbell"
+      },
+      {
+        "name": "Arvin Combs",
+        "character": "State Official #1"
+      },
+      {
+        "name": "Joe Knezevich",
+        "character": "State Official #2"
+      },
+      {
+        "name": "Billy Slaughter",
+        "character": "Reporter #1"
+      },
+      {
+        "name": "Brandon O'Dell",
+        "character": "Reporter #2"
+      },
+      {
+        "name": "Dean J. West",
+        "character": "Reporter #3"
+      },
+      {
+        "name": "Don Stallings",
+        "character": "Orphan Annie Ford Driver"
+      },
+      {
+        "name": "David Dwyer",
+        "character": "Sheriff Smoot Schmid"
+      },
+      {
+        "name": "Steve Vernon",
+        "character": "Gun Store Owner"
+      },
+      {
+        "name": "Carter Maharrey",
+        "character": "Carter"
+      },
+      {
+        "name": "Justin Matthew Smith",
+        "character": "Pump Jockey"
+      },
+      {
+        "name": "Cullen Moss",
+        "character": "Oklahoma Cop"
+      },
+      {
+        "name": "Alan Wells",
+        "character": "1st G-Man (Oklahoma)"
+      },
+      {
+        "name": "Josh Ventura",
+        "character": "Okie G-Man"
+      },
+      {
+        "name": "Michael Draper",
+        "character": "Tough Migrant Worker (Oklahoma)"
+      },
+      {
+        "name": "Timothy McKinney",
+        "character": "Okie Migrant"
+      },
+      {
+        "name": "Luke Loveless",
+        "character": "Bottle Boy"
+      },
+      {
+        "name": "Ian Pitre",
+        "character": "Hammer Boy"
+      },
+      {
+        "name": "Billy 4 Johnston",
+        "character": "West Dallas Messenger Kid"
+      },
+      {
+        "name": "Izzy G.",
+        "character": "Little Mudlark Girl"
+      },
+      {
+        "name": "Savanna Renee",
+        "character": "Garbo Girl"
+      },
+      {
+        "name": "Mitch Eakins",
+        "character": "Fancy Dan #1"
+      },
+      {
+        "name": "Matthew Paul Martinez",
+        "character": "Fancy Dan #2"
+      },
+      {
+        "name": "Todd Barnett",
+        "character": "Local Reporter"
+      },
+      {
+        "name": "Troy Hogan",
+        "character": "Migrant Worker"
+      },
+      {
+        "name": "Taj Marqui Paul",
+        "character": "Migrant Worker's Son"
+      },
+      {
+        "name": "Russell L. Welch III",
+        "character": "Underworld Dance Hall Band Member #1"
+      },
+      {
+        "name": "Nicolas J. Lefebvre",
+        "character": "Underworld Dance Hall Band Member #2"
+      },
+      {
+        "name": "Stephen L. Kelly",
+        "character": "Underworld Dance Hall Band Member #3"
+      },
+      {
+        "name": "Robert E. Streeck",
+        "character": "Ferguson Agent #1"
+      },
+      {
+        "name": "Donald Robert Mohr",
+        "character": "West Dallas G-Man"
+      },
+      {
+        "name": "Brad Napp",
+        "character": "Ferguson Agent #2"
+      },
+      {
+        "name": "Sophia Silver",
+        "character": "Daisy"
+      },
+      {
+        "name": "Lynden Orr",
+        "character": "Violet / Bonnie (voice)"
+      },
+      {
+        "name": "Makani Ravello",
+        "character": "Bonnie Parker Lookalike #1"
+      },
+      {
+        "name": "Samantha Hunter Ogan",
+        "character": "Bonnie Parker Lookalike #2"
+      },
+      {
+        "name": "Mikey Kelley",
+        "character": "Clyde (voice)"
+      },
+      {
+        "name": "Leigh Anne Tuohy",
+        "character": "Ladies Auxiliary Attendee #1"
+      },
+      {
+        "name": "Collins Tuohy",
+        "character": "Ladies Auxiliary Attendee #2"
+      },
+      {
+        "name": "Teddy Orr",
+        "character": "Ladies Auxiliary Attendee #3"
+      },
+      {
+        "name": "Skip Stellrecht",
+        "character": "Texas Radio Newscaster (voice)"
+      },
+      {
+        "name": "Jon Briddell",
+        "character": "Oklahoma Radio Newscaster (voice)"
+      },
+      {
+        "name": "David Zyler",
+        "character": "National Radio Newscaster (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Thomas Newman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Denise Chamian",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "John Schwartzman",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Kevin Costner",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Woody Harrelson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Michael Corenblith",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Daniel Orlandi",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "name": "Ian Fox",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Jeffrey J. Dashnaw",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Jeffrey J. Dashnaw",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "John Fusco",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Casey Silver",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Lee Hancock",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "John Lee Hancock",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Robert Frazen",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Gary Huckabay",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Ve Neill",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Susan Benjamin",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Tracy Kilpatrick",
+        "department": "Production",
+        "job": "Local Casting"
+      },
+      {
+        "name": "Kelly Curley",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Taryn Terrell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Remi Tournois",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Jon Johnson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Jessica Stumpf",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Dave Kelsey",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "J.J. Dashnaw",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Brooke Satrazemis",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Alice Alward",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "John Pritchett",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Bryan Delorenzo",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Michael J. Malone",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Michael J. Malone",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Phil Hardage",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Philip Schneider",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Mallory Thompson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Todd Schlopy",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Joel Prihoda",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Thomas D. Lairson Jr.",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Rod Lake",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Matthew Reynolds",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "John E. Swallow",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Joey Dillon",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Stephen Freebairn",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Zander White",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Dena Sodano",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      }
+    ]
+  },
+  "keywords": [
+    "fbi",
+    "bank robber",
+    "texas ranger",
+    "based on true story",
+    "tracker",
+    "cops and robbers ",
+    "forensic science",
+    "criminal gang",
+    "1930s",
+    "bonnie and clyde",
+    "manhunt",
+    "legendary hero",
+    "retired lawman"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The untold true story of the legendary detectives who brought down Bonnie and Clyde.",
+    "The outlaws made headlines. The lawmen made history. From director John Lee Hancock (The Blind Side), THE HIGHWAYMEN follows the untold story of the legendary detectives who brought down Bonnie and Clyde. When the full force of the FBI and the latest forensic technology aren't enough to capture the nation's most notorious criminals, two former Texas Rangers (Kevin Costner and Woody Harrelson) must rely on their gut instincts and old school skills to get the job done.—Netflix"
+  ],
+  "synopsis": "In 1934, after two years on the run, criminals Bonnie Parker and Clyde Barrow break several associates out of Texas' Eastham Prison Farm. Texas Department of Corrections Chief Lee Simmons persuades Governor \"Ma\" Ferguson to hire former Texas Ranger Frank Hamer to track down the criminals. Reluctant to leave retirement and his wife Gladys, Hamer joins the manhunt after the fugitive gang is involved in a devastating shootout in Missouri, and he recruits his former partner, Benjamin Maney Gault.Information from FBI wiretapping of the fugitives' families leads Hamer and Gault to conclude that Bonnie and Clyde are returning \"home\" to Dallas. Watching Bonnie's mother's house, they see a man throw a bottle into her yard, which is soon thrown back, but a boy escapes with it. Dismissing the Rangers' theory, the FBI believe the fugitives are in Brownsville. Hamer and Gault meet with Dallas Sheriff \"Smoot\" Schmid, who introduces them to Deputy Sheriff Ted Hinton, a childhood friend of Bonnie and Clyde who can identify them on sight. The gang kills two policemen in nearby Grapevine; Hamer and Gault investigate the scene and determine that Bonnie has a rabbit, which Hinton suggests is a present for a family member.The Rangers drive to Oklahoma and question a gas station attendant, who declares his support for the criminals. Hamer assaults the man into admitting the gang passed through en route to a migrant camp, where a local girl confirms the gang stayed. A radio bulletin alerts the Rangers to two more murdered officers but, being outside their jurisdiction, they are barred from passing the police roadblock, which a frustrated Hamer drives around. They continue to Coffeyville, Kansas, correctly guessing that Bonnie and Clyde will stop there for supplies. As the Rangers move in on the fugitives, an adoring crowd surrounds the criminals' car. Hamer and Gault give chase, but Bonnie and Clyde escape through a dirt field.Learning that Clyde had breakfast in Amarillo, the Rangers return to Dallas to find the rabbit has been delivered to Bonnie's family. Hamer meets Henry Barrow, Clyde's father, who affirms that his son must be stopped. The Rangers have Simmons furlough Wade McNabb, an incarcerated associate of the gang, hoping to draw them out. While Hamer interrogates McNabb at a bar, Gault is threatened in the restroom by thugs sympathetic to the gang, but subdues them. Learning that Bonnie plans to meet a hairdresser the next day, the Rangers surveil her mother's house again. A man throws another bottle into the yard, which is retrieved by the same boy but intercepted by the Rangers; it contains a message that the gang are heading elsewhere. Realizing McNabb warned the gang, the Rangers visit his home and discover him beaten to death.Simmons recalls Hamer and Gault to Austin, but they return to their theory that \"outlaws always go home\", predicting that the fugitives are going to Bienville Parish, Louisiana, home of gang member Henry Methvin's father, Ivy. Searching Ivy's house, the Rangers find evidence of the outlaws' recent stay. They join forces with local Sheriff Henderson Jordan and Deputy Prentiss Oakley to confront Ivy; in exchange for his son's safety, he reveals that the gang will soon return. The lawmen are joined by Hinton and Dallas Sheriff's Deputy Bob Alcorn, and Gault tells them of his first deployment with Hamer: they killed a gang of bandits, including a fleeing 13-year-old boy. Ivy informs them the gang is arriving the next day, and the posse prepare an ambush on the road to his house, staging his truck as if it has broken down.Bonnie and Clyde arrive, stopping to assist Ivy, and Hamer orders them to raise their hands. Instead, the criminals prepare to draw their own weapons, and are gunned down. The bullet-riddled car with Bonnie and Clyde's bodies is towed to Arcadia, Louisiana and mobbed by onlookers. Refusing $1,000 for an interview with the Associated Press, Hamer and Gault drive home."
+}

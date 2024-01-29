@@ -1,0 +1,778 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+  "id": 1891,
+  "title": "The Empire Strikes Back",
+  "poster_path": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+  "release_date": "1980-05-20",
+  "vote_average": 8.392,
+  "vote_count": 16138,
+  "popularity": 41.069,
+  "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+  "imdb_id": "tt0080684",
+  "budget": 18000000,
+  "homepage": "http://www.starwars.com/films/star-wars-episode-v-the-empire-strikes-back",
+  "revenue": 538400000,
+  "runtime": 124,
+  "tagline": "The Star Wars saga continues.",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Lucasfilm Ltd."
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Mark Hamill",
+        "character": "Luke Skywalker"
+      },
+      {
+        "name": "Harrison Ford",
+        "character": "Han Solo"
+      },
+      {
+        "name": "Carrie Fisher",
+        "character": "Princess Leia"
+      },
+      {
+        "name": "Billy Dee Williams",
+        "character": "Lando Calrissian"
+      },
+      {
+        "name": "Anthony Daniels",
+        "character": "C-3PO"
+      },
+      {
+        "name": "David Prowse",
+        "character": "Darth Vader"
+      },
+      {
+        "name": "Peter Mayhew",
+        "character": "Chewbacca"
+      },
+      {
+        "name": "Kenny Baker",
+        "character": "R2-D2"
+      },
+      {
+        "name": "Frank Oz",
+        "character": "Yoda (Voice)"
+      },
+      {
+        "name": "Alec Guinness",
+        "character": "Obi-Wan Kenobi"
+      },
+      {
+        "name": "Jeremy Bulloch",
+        "character": "Boba Fett"
+      },
+      {
+        "name": "Jason Wingreen",
+        "character": "Boba Fett (voice - uncredited)"
+      },
+      {
+        "name": "John Hollis",
+        "character": "Lando's Aide"
+      },
+      {
+        "name": "Jack Purvis",
+        "character": "Chief Ugnaught"
+      },
+      {
+        "name": "Des Webb",
+        "character": "Snow Creature"
+      },
+      {
+        "name": "Kathryn Mullen",
+        "character": "Performing Assistant for Yoda"
+      },
+      {
+        "name": "Marjorie Eaton",
+        "character": "Emperor (uncredited)"
+      },
+      {
+        "name": "Clive Revill",
+        "character": "Emperor (voice)"
+      },
+      {
+        "name": "Kenneth Colley",
+        "character": "Admiral Piett"
+      },
+      {
+        "name": "Julian Glover",
+        "character": "General Veers"
+      },
+      {
+        "name": "Michael Sheard",
+        "character": "Admiral Ozzel"
+      },
+      {
+        "name": "Michael Culver",
+        "character": "Captain Needa"
+      },
+      {
+        "name": "John Dicks",
+        "character": "Captain Lennox"
+      },
+      {
+        "name": "Milton Johns",
+        "character": "Bewil"
+      },
+      {
+        "name": "Mark Jones",
+        "character": "Commander Nemet"
+      },
+      {
+        "name": "Oliver Maguire",
+        "character": "Cabbel"
+      },
+      {
+        "name": "Robin Scobey",
+        "character": "Lieutenant Venka"
+      },
+      {
+        "name": "Bruce Boa",
+        "character": "General Carlist Rieekan"
+      },
+      {
+        "name": "Christopher Malcolm",
+        "character": "Zev Senesca"
+      },
+      {
+        "name": "Denis Lawson",
+        "character": "Wedge Antilles"
+      },
+      {
+        "name": "Richard Oldfield",
+        "character": "Derek \"Hobbie\" Klivian"
+      },
+      {
+        "name": "John Morton",
+        "character": "Dak Ralter"
+      },
+      {
+        "name": "Ian Liston",
+        "character": "Wes Janson"
+      },
+      {
+        "name": "John Ratzenberger",
+        "character": "Major Derlin"
+      },
+      {
+        "name": "Jack McKenzie",
+        "character": "Cal Alder"
+      },
+      {
+        "name": "Jerry Harte",
+        "character": "Rebel Force Head Controller"
+      },
+      {
+        "name": "Norman Chancer",
+        "character": "Tamizander Rey"
+      },
+      {
+        "name": "Norwich Duff",
+        "character": "Jeroen Webb"
+      },
+      {
+        "name": "Ray Hassett",
+        "character": "Tigran Jamiro"
+      },
+      {
+        "name": "Brigitte Kahn",
+        "character": "Toryn Farr"
+      },
+      {
+        "name": "Burnell Tucker",
+        "character": "Wyron Serper"
+      },
+      {
+        "name": "Bob Anderson",
+        "character": "Imperial Officer (uncredited)"
+      },
+      {
+        "name": "Lightning Bear",
+        "character": "Stormtrooper (uncredited)"
+      },
+      {
+        "name": "Richard Bonehill",
+        "character": "Stormtrooper / Snowtrooper / Rebel Soldier / ... (uncredited)"
+      },
+      {
+        "name": "John Cannon",
+        "character": "Holographic Imperial Officer (uncredited)"
+      },
+      {
+        "name": "Mark Capri",
+        "character": "Officer M'kae (Captain Needa's Communications Officer) (uncredited)"
+      },
+      {
+        "name": "Martin Dew",
+        "character": "Cloud City Guard (uncredited)"
+      },
+      {
+        "name": "Peter Diamond",
+        "character": "Snowtrooper Gunner (uncredited)"
+      },
+      {
+        "name": "Stuart Fell",
+        "character": "Snowtrooper (uncredited)"
+      },
+      {
+        "name": "Doug Robinson",
+        "character": "Snowtrooper (uncredited)"
+      },
+      {
+        "name": "Tony Smart",
+        "character": "Snowtrooper (uncredited)"
+      },
+      {
+        "name": "Alan Harris",
+        "character": "Bossk / Bespin Security Guard (uncredited)"
+      },
+      {
+        "name": "James Earl Jones",
+        "character": "Darth Vader (voice) (uncredited)"
+      },
+      {
+        "name": "Mac McDonald",
+        "character": "Rebel Pilot (uncredited)"
+      },
+      {
+        "name": "Ralph McQuarrie",
+        "character": "General McQuarrie (uncredited)"
+      },
+      {
+        "name": "Ralph Morse",
+        "character": "Stormtrooper / Imperial Comms Officer / Rebel Soldier (uncredited)"
+      },
+      {
+        "name": "Terry Richards",
+        "character": "Wampa (uncredited)"
+      },
+      {
+        "name": "Treat Williams",
+        "character": "Echo Base Trooper (uncredited)"
+      },
+      {
+        "name": "Shaun Curry",
+        "character": "Hoth Rebel Commander (uncredited)"
+      },
+      {
+        "name": "Alan Austen",
+        "character": "Stormtrooper/Snowtrooper"
+      },
+      {
+        "name": "Jim Dowdall",
+        "character": "Stormtrooper/Snowtrooper"
+      },
+      {
+        "name": "Tom Egeland",
+        "character": "Hoth Trooper (uncredited)"
+      },
+      {
+        "name": "Alan Flyng",
+        "character": "Stormtrooper (uncredited)"
+      },
+      {
+        "name": "Trevor Butterfield",
+        "character": "Imperial Officer / Stormtrooper (uncredited)"
+      },
+      {
+        "name": "Mercedes Burleigh",
+        "character": "Female Hoth Control Room Tech (uncredited)"
+      },
+      {
+        "name": "Jane Busby",
+        "character": "Ugnaught (uncredited)"
+      },
+      {
+        "name": "Maurice Bush",
+        "character": "Dengar (uncredited)"
+      },
+      {
+        "name": "Tony Clarkin",
+        "character": "Stormtrooper (uncredited)"
+      },
+      {
+        "name": "Mike Edmonds",
+        "character": "Ugnaught (uncredited)"
+      },
+      {
+        "name": "Walter Henry",
+        "character": "Rebel Technician on Hoth (uncredited)"
+      },
+      {
+        "name": "Paul Jerricho",
+        "character": "AT-AT Driver (uncredited)"
+      },
+      {
+        "name": "Joe Johnston",
+        "character": "Hoth Rebel (uncredited)"
+      },
+      {
+        "name": "Steven Meek",
+        "character": "Stormtrooper / Chewbacca / Treva Horme / Solomahal (uncredited)"
+      },
+      {
+        "name": "Peter Roy",
+        "character": "Snowtrooper (uncredited)"
+      },
+      {
+        "name": "Stephanie English",
+        "character": "Hoth Rebel Technician (uncredited)"
+      },
+      {
+        "name": "Michael Leader",
+        "character": "Imperial Crewman (uncredited)"
+      },
+      {
+        "name": "Egbert Sen",
+        "character": "Willrow Hood (uncredited)"
+      },
+      {
+        "name": "Elaine Baker",
+        "character": "Emperor (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "George Lucas",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "George Lucas",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Gary Kurtz",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Rick McCallum",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Williams",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Terry Liebling",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Peter Suschitzky",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Irene Lamb",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Howard G. Kazanjian",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Norman Reynolds",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Ben Burtt",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Robert Watts",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Marcia Lucas",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Deep Roy",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Robert Elswit",
+        "department": "Visual Effects",
+        "job": "Visual Effects Lineup"
+      },
+      {
+        "name": "Leigh Brackett",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Leslie Dilley",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "John Mollo",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Lawrence Kasdan",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Phil Tippett",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Phil Tippett",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Patricia Carr",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Michael Ford",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Philip Kohler",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Brian Johnson",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Stuart Freeborn",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Alan Tomkins",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Rick Baker",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Paul Hirsch",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Peter MacDonald",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Marc Boyle",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Irvin Kershner",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Richard Edlund",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Harley Cokeliss",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Tiny Nicholls",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Peter Diamond",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Bruce Sharman",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Bonnie Koehler",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Roy Button",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Svend Johansen",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Nick Maley",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Liz Coke",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Bob Anderson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Barry",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Jim Bloom",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Barbara Ritchie",
+        "department": "Costume & Make-Up",
+        "job": "Hairdresser"
+      },
+      {
+        "name": "Alan Harris",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Pamela Mann",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "name": "Harry Lange",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Stuart Fell",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "David Tomblin",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Terry Richards",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Reg Harding",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Herbert W. Spencer",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Gregg Landaker",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jim Dowdall",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Paul Huston",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Gary Summers",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "George Whitear",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Richard Bonehill",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bob Edmiston",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jack Dearlove",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Ralph McQuarrie",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Terry Pritchard",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Steve Lanning",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Laurie Shane",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Colin Skeaping",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "David H. Watkins",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Kay Rawlings",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "name": "Eileen Sullivan",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Graham Freeborn",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Kay Freeborn",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Richard Burrow",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Frank Bruton",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Richard Hammatt",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Stephen Calcutt",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Tony Smart",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Reg Bream",
+        "department": "Art",
+        "job": "Draughtsman"
+      },
+      {
+        "name": "Doug Robinson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bill Hargreaves",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "London Symphony Orchestra",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Peter Sutton",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "keywords": [
+    "rebellion",
+    "android",
+    "spacecraft",
+    "asteroid",
+    "rebel",
+    "space battle",
+    "snowstorm",
+    "space colony",
+    "swamp",
+    "space opera",
+    "artic"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+    "The legendary saga continues as the Rebel Alliance faces increasing challenges from the powerful Galactic Empire. Luke Skywalker, Han Solo, and Princess Leia Organa find themselves confronting new trials that test their courage, friendships, and beliefs. The Rebel Alliance has established a hidden base on the icy planet of Hoth, where they hope to regroup and plan their next moves against the Empire. Luke Skywalker receives a message from a familiar source, prompting him to seek further guidance in understanding his connection to the Force. Han Solo and Princess Leia's journey takes them on a perilous path as they navigate through a galaxy under Imperial control. Their actions and decisions lead to unforeseen consequences that will impact the fate of the Rebellion. Meanwhile, the dark presence of Darth Vader looms, as he relentlessly pursues the Rebels while dealing with inner conflicts of his own.—Evan Almindo",
+    "Fleeing the evil Galactic Empire, the Rebels abandon their new base Zac Thru off saw in an assault with the Imperial AT-AT walkers on the ice world of Hoth. Ed Princess Leia, Han Solo, Chewbacca, and C-3PO escape in the Millennium Falcon, but are later captured by Darth Vader on Bespin. Meanwhile, Luke Skywalker and R2-D2 follow Obi-wan Kenobi's posthumous command, and receives Jedi trainingWe W from Master Yoda on the swamp world of Dagobah. Will Skywalker manage seeduee e to rescue his friends from the Dark Lord?—James Pearce <james.pearce@cs.man.ac.uk>",
+    "After receiving a vision from Obi-wan Kenobi and fleeing the ice world of Hoth with his friends after an Imperial attack, Luke Skywalker travels to the marsh planet of Dagobah, where he is instructed in the ways of the Force by the legendary Jedi Master Yoda. Meanwhile, Han Solo and Princess Leia make their way to planet Bespin, where they are greeted by Han's old friend, a shifty gambler named Lando Calrissian. Ambushed by the Empire shortly after their arrival, Han and his friends are imprisoned by Darth Vader. Luke leaves Dagobah to rescue his friends, and is met by Vader and a startling revelation.—Logic <logic@linux.slackware.org>",
+    "In this movie, the battle to save the galaxy from the evil Darth Vader rages on. Han Solo, Princess Leia, and Chewbacca are tested in a devastating attack by the Imperial army and its AT-AT walkers. Meanwhile, Luke Skywalker seeks out the ancient Yoda to learn the secrets of the Jedi, secrets Luke will need when the Dark Side of the Force beckons him in a destiny-defining duel with Darth Vader.—Robert Lynch <docrlynch@yahoo.com>"
+  ],
+  "synopsis": "In this sequel to the previous Star Wars movie, Episode IV: A New Hope, the opening crawl reveals that after the destruction of the Death Star, the Rebels were forced to evacuate their base on the Yavin moon and the dreaded Imperial Fleet of the Galactic Empire has pursued the Rebel Alliance across the galaxy, forcing them to establish a secret base on the remote ice planet Hoth. Dark Lord of the Sith Darth Vader (David Prowse/voice: James Earl Jones) sends robotic probes in search of the base and its commander and hero, Luke Skywalker (Mark Hamill).While Luke is patrolling near Echo Base, he sees what looks like a meteor hitting the ground near his location. He reports to Han Solo that he plans to investigate the fallen object but before he can ride his mount to the site, he's knocked unconscious by an indigenous, polar bear-like predator, the wampa. Back at the base, the smuggler-pilot Han Solo (Harrison Ford) announces his intention to leave the Rebels and pay the debt he owes to the gangster Jabba the Hutt, much to the displeasure of Princess Leia (Carrie Fisher). After Han discovers that Luke has not returned from patrol and with the temperature dropping rapidly, he delays his departure and leaves the base to search for him on an ostrich-like creature called a tauntaun.Meanwhile, Luke escapes the wampa's lair, using the Force to retrieve his nearby light saber and wounding the beast, but is overcome by the cold outside. He sees an apparition of his late mentor, Jedi Master Obi-Wan Kenobi (Alec Guinness), who instructs him to receive training from Jedi Master Yoda (voice: Frank Oz) on the planet Dagobah. Han finds Luke and gives him shelter, using his own tauntaun's carcass to keep Luke warm, until he can build a sturdier shelter. The two are rescued the following morning by a Rebel patrol. Luke is taken to the medical bay to heal from the wounds he received from the Wampa. In his recovery room he's met by Leia, Han and Chewbacca (Peter Mayhew). Han jovially reminds Luke that he's rescued him twice from certain danger.Sometime later, when ground scans detect an object outside the base perimeter at Zone 12, Han and Chewie, investigate, and find an Imperial probe droid that transmits the location of the Rebel base to the Imperial fleet before firing upon Chewie. Han hits the droid with a low-energy blast but the droid activates a self-destruct function and explodes. On the bridge of Darth Vader's massive flagship, the droid's transmission is picked up by Captain Piett, but his superior, fleet Admiral Ozzel, dismisses the message until Vader sees the transmission and realizes it is the Rebel base. He overrules Ozzel and orders the Imperial Fleet to the Hoth system.Later, as the Fleet emerges from hyperspace, Vader is informed by his infantry commander, General Veers, that the Rebels have set up infantry trenches and a powerful energy shield to protect them from the Empire's orbital bombardment. Ordering Veers to launch a surface attack, Vader is furious that Ozzel has clumsily given away the element of surprise by bringing his ship out of light speed too close to the planet, and he communicates this displeasure to Captain Piett as he promotes him to admiral while Ozzel is given Vader's own fatal brand of reprimand.On the surface, the Imperial forces land their ground assault troops, a unit of over a dozen four-legged AT-AT \"walkers\" (along with a few dozen two-legged AT-ST walkers) beyond the energy shield and Luke leads his squadron of flying speeders into battle. Realizing that their blasters cannot damage the heavily armored walkers, Luke devises an attack plan that has his squad using their towing cables to bind the legs of the walkers to trip them, making them more vulnerable. A few walkers are destroyed but the Imperial forces eventually overpower the Rebels and destroy the generator powering the energy shield, capturing the Rebel base. Han Solo, Princess Leia, Chewbacca, and their droid C-3PO (Anthony Daniels) flee on board the Millennium Falcon. Luke makes it back to the base after personally destroying one of the walkers and speeds off in his X-Wing fighter with astromech droid R2-D2 (Kenny Baker).In space, Han discovers that the Falcon's hyper-drive is damaged and it cannot escape the Imperial blockade in space. During the confusion, they enter the nearby Hoth asteroid field, pursued by four Imperial TIE-Fighters; Han Solo pilots the Millennium Falcon deeper into the field, and the four pursuing fighters are destroyed by the flying rocks. Han lands the Falcon inside a crater on one of the larger asteroids to hide and make repairs.Meanwhile, Luke and R2-D2 make a crash landing on the swamp planet of Dagobah. Frustrated at his X-Wing having landed in a bog, Luke makes camp and begins to eat his rations. Luke muses about how the surrounding area seems familiar when he's startled by a strange voice behind him, a wizened, green little creature who acts obnoxiously, demanding to keep a small power lamp of Luke's and criticizes the rations Luke eats. Telling Luke that he knows where to find Yoda, Luke goes to his small house to eat. While there, Luke quickly grows impatient, wanting to meet Yoda immediately. The small creature begins to talk to the spirit of Obi-Wan, saying that Luke is too old to begin Jedi training and that he hasn't learned the patience a Jedi requires. Luke realizes that the creature is Yoda himself. Yoda insists that Luke harbors much anger like his father, Anakin. Obi-Wan assures Yoda that Luke will learn patience and will complete his training. Luke tells Yoda that he is not afraid, to which Yoda gravely replies, \"You will be.\"The Star Destroyer 'Avenger' moves through the massive asteroid field, searching for the Millennium Falcon. A group of TIE Bombers moves across the massive asteroid where the Falcon is hiding, and they release high-yield concussion bombs on the surface, trying to scare out the Falcon. The noise awakens Leia, who has fallen asleep in the cockpit.Inside the asteroid cave, Han Solo and Princess Leia argue while repairing the ship, eventually leading to a tender kiss. At the same time, Vader orders the Star Destroyer 'Avenger' to continue searching the asteroid field for the Falcon, despite it's captain's assumptions that the ship was destroyed. Vader later confers with the powerful Galactic Emperor Palpatine, about a new threat to the Empire - Luke Skywalker. Darth Vader suggests that if Luke could be turned, he would become a great ally to the Imperial cause. The Emperor asks, 'Can it be done?'; Vader simply replies, 'He will join us, or die, my Master'.While resting in the Falcon's cockpit, Leia is scared by an ugly creature on the ship's windows. Han, Leia and Chewbacca all venture outside the ship in breathing masks to investigate. Leia notices that the ground has a strange consistency and Han suddenly shoots one of the beasts Leia saw off the ship. As he suspected, they are mynocks, parasitic creatures feeding on the Falcon's power cables. When Chewie tries to shoot one and misses, the whole cave rocks with a loud rumble. Suspicious, Han shoots the ground and the cave becomes more unstable. As they board the ship and race out they see that the mouth of the cave is actually the jaws of a titanic space slug. Han manages to escape as the creature takes another hungry snap at the ship.On the bridge of the Avenger, Darth Vader gathers a small group of intergalactic bounty hunters, the most feared of whom is Boba Fett (Jeremy Bulloch). Vader promises them a large payoff if they can find the Millennium Falcon.In space once again, the Falcon is again chased by a Star Destroyer, but Han evades pursuit cleverly and stealthily: after soaring into an attack position, he flies directly over the bridge of the star destroyer and hides the Falcon on the massive ship's surface, attaching to it with the Falcon's landing claws. They go undetected while Han figures out an escape plan. He surmises that the fleet will dump their refuse before jumping to hyperspace and they can float away unnoticed. Han checks his navigational log and realizes he's been in the area before and that a planet called Bespin is nearby and that they'll find one of his old smuggling buddies there who will offer them refuge. Unfortunately, their escape is not unanticipated; following just behind him is a smaller ship, Slave I, piloted by Fett who is working out where the Millennium Falcon is likely going. Han's escape plan works and he sets course for Cloud City, a gas mining colony on the nearby gas planet of Bespin, which is run by Han's friend, Lando Calrissian (Billy Dee Williams).On Dagobah, Luke undergoes Yoda's rigorous lessons about the metaphysical nature of the Force involving levitating objects, performing acrobatic feats and meditation to promote calm and see possible visions of the future. Yoda brings Luke to an old, gnarled tree that sits atop a cave. Yoda tells his apprentice that the cave is powerful with the dark side of the Force and that Luke must explore it. Somewhat distrusting of his master, Luke takes his light saber with him. Inside the cave, Luke encounters a vision of Darth Vader, whom he fights. Luke cuts off Vader's head with his light saber, but then the mask bursts open, revealing Luke's own face behind it. The cave is another test, one that carries a warning for Luke to control his impulses and anger or he'll end up like Vader himself.Luke has a vision of Han and Leia in danger and agony. Luke wants to rescue them, but Yoda and the ghost of Obi-Wan warn of the dangers of rashly leaving, because Luke is still susceptible to the powerful temptation of the Dark Side. Nevertheless, Luke departs from Dagobah and promises Yoda he will return to complete his training.Upon their arrival at Cloud City, Han's party is welcomed by Lando Calrissian. After agreeing to help Han repair his ship, Lando invites him and the others to a meal. C3PO is distracted from the group when he hears the familiar beeping of an R2 unit. Entering a small room, he is suddenly confronted by an unseen person why he's in the room. A laser blast cuts C3PO down as he babbles to his attackers. Only Chewbacca is suspicious, but he arrives on the scene too late to see what happened.When Han's party enter the dining room, they are captured by Darth Vader, along with Boba Fett who had tracked them to Cloud City. Lando insists he was forced to conspire with the Empire to prevent them from occupying (or likely destroying) the city.In captivity, Han is tortured to lure Luke to the city. Chewbacca is also tortured in his holding cell by an amplified screeching sound. As Vader prepares to wait for Luke to be lured to him by his friends' agony, he tells Lando that the rebels must never leave the city. Lando, disgusted by Vader's treatment of Han and his friends, protests that the deal they struck never included that as a condition any more than handing Han over to Boba Fett. However, when Vader threatens to leave a garrison in the city if Lando keeps complaining, Lando is forced to realize how helpless he is.Vader orders a carbon-freezing chamber prepared to freeze Luke, which will hold him in suspended animation for transport to the Emperor. The process is tested on Han Solo. As Han is lowered into the machine, Leia declares her love for him. He is frozen in carbonite and alive in hibernation and handed over to Fett, who intends to return his quarry to Jabba the Hutt for a large reward.Meanwhile, Luke lands at Cloud City and is lured into the carbon-freezing chamber. Luke meets Vader and a ferocious lightsaber fight ensues. While escorting their prisoners, Vader's Imperial troopers are intercepted by Lando's private security force, who set Lando and the others free. Lando, despite nearly being killed by a furious Chewbacca, insists that there is still a chance to save Han, and along the way they find R2-D2. The group pursues Boba Fett and Han's frozen form through Cloud City, but arrives just as the bounty hunter's ship flies away. After a desperate chase from Imperial troops, Leia, Chewbacca, Lando, and the two droids make their escape on the Millennium Falcon.As the Falcon leaves Cloud City, Luke is trapped on the bottom level of the carbon-freezing room. As he heads down a dark hallway Vader ambushes him, stepping out of a doorway and swinging his light saber down. Vader and Luke's fierce light saber duel brings them to a narrow platform above the city's central air shaft. The Dark Lord corners Luke on a catwalk, threatening him; 'You are beaten! It is useless to resist!' Luke resumes the fight; Vader suddenly cuts an instrument panel apart. As Luke unwittingly glances at it, Vader slashes off Luke's right hand at the wrist, disabling him and sending Luke's light saber tumbling into the huge shaft. With Luke cornered and defenseless, Vader informs Luke that he does not yet know the truth about his father. Luke claims that Vader killed him. Vader answers:\"No, I am your father.\"Luke screams in denial. Vader tries to persuade Luke to join him, embrace the Dark Side of the Force, and overthrow the Emperor with him. Luke refuses, lets go, and falls off the platform into the abyss, signifying that he would rather die than join him. In free fall, Luke is sucked into an air vent, shoots out of the underbelly of the floating city, and lands on an antenna hanging beneath. Luke tries to pull himself back into the exhaust pipe, but with only one hand and no strength left, he is unable to pull himself up and the hatches close over his head, trapping him on the weather vane. He pleads for help from Ben, but the old Jedi Knight will not appear. Luke then attempts to reach out to Leia, using the Force.On the Millennium Falcon Leia senses Luke's distress through the Force and orders Lando to pilot them back to Cloud City -- Lando protests immediately but Chewbacca's roar convinces him to do so. As they approach the underside of the city, Lando spots Luke hanging on to the weather vane and opens the Falcon's outer hatch. Luke falls off the weather vane and Lando pulls him in just as the three TIE fighters from the 'Executor' appear, and start a rapid pursuit. As they leave Cloud City, they are pursued by Darth Vader's flagship. R2-D2, who discovered that the hyper-drive was merely deactivated while searching the city's central computer, reactivates it and the Falcon escapes into hyperspace. Aboard the flagship, Admiral Piett fears Vader will kill him for this failure, but the Sith Lord simply walks away silently.In the final scene, the fugitive and defeated rebel fleet has assembled in a point beyond the galaxy to decide their next move. Aboard a Rebel medical frigate, Luke is fitted with an artificial hand as Lando and Chewbacca set out in the Falcon to locate Han Solo with Luke arranging to join them when he is released from medical care. Luke and Leia watch the ship speed off toward the galaxy."
+}

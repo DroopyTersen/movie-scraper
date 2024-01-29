@@ -1,0 +1,736 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/uwLI17reYWprmtp6yDCVD8QdNqw.jpg",
+  "id": 9595,
+  "title": "Hot Shots!",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hoPS7RSvdZhZhWf28OfP2IZ0cb3.jpg",
+  "release_date": "1991-07-31",
+  "vote_average": 6.6,
+  "vote_count": 2012,
+  "popularity": 26.825,
+  "overview": "The gang that created Airplane and The Naked Gun sets its sights on Top Gun in this often hilarious spoof starring Charlie Sheen, who previously only inspired laughs with his personal life. He plays Topper Harley, a fighter pilot with an ax to grind: clearing the family name. He gets involved in a relationship with Valerie Golino, a woman with an unusually talented stomach. But his mission is to avenge his father. Lloyd Bridges, late in his career, revealed an aptitude for this kind of silliness, here as a commander who is both incredibly dim and delightfully accident prone. Directed by Jim Abrahams, the film makes fun of a variety of other films as well, from Dances with Wolves to The Fabulous Baker Boys. It was so successful that they all returned in the sequel, Hot Shots! Part Deux.",
+  "imdb_id": "tt0102059",
+  "budget": 26000000,
+  "homepage": "",
+  "revenue": 181096164,
+  "runtime": 84,
+  "tagline": "The mother of all movies.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "War"
+  ],
+  "production_companies": [
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Charlie Sheen",
+        "character": "Topper Harley / Rhett Butler / Superman"
+      },
+      {
+        "name": "Cary Elwes",
+        "character": "Kent Gregory"
+      },
+      {
+        "name": "Valeria Golino",
+        "character": "Ramada Thompson / Scarlett O'Hara / Lois Lane"
+      },
+      {
+        "name": "Lloyd Bridges",
+        "character": "Admiral Benson"
+      },
+      {
+        "name": "Kevin Dunn",
+        "character": "Lt. Commander Block"
+      },
+      {
+        "name": "Jon Cryer",
+        "character": "Jim 'Wash Out' Pfaffenbach"
+      },
+      {
+        "name": "William O'Leary",
+        "character": "Pete 'Dead Meat' Thompson"
+      },
+      {
+        "name": "Kristy Swanson",
+        "character": "Kowalski"
+      },
+      {
+        "name": "Efrem Zimbalist Jr.",
+        "character": "Wilson"
+      },
+      {
+        "name": "Bill Irwin",
+        "character": "Buzz Harley"
+      },
+      {
+        "name": "Heidi Swedberg",
+        "character": "Mrs. 'Dead Meat' Thompson"
+      },
+      {
+        "name": "Bruce A. Young",
+        "character": "'Red' Herring"
+      },
+      {
+        "name": "Ryan Stiles",
+        "character": "'Mailman' Farnham"
+      },
+      {
+        "name": "Rino Thunder",
+        "character": "Owatonna 'The Old One'"
+      },
+      {
+        "name": "Mark Arnott",
+        "character": "Rosener"
+      },
+      {
+        "name": "Ryan Cutrona",
+        "character": "Captain Margolis"
+      },
+      {
+        "name": "Don Lake",
+        "character": "Doctor"
+      },
+      {
+        "name": "Kelly Connell",
+        "character": "Air Controller"
+      },
+      {
+        "name": "Tony Simotes",
+        "character": "Ambulance Driver"
+      },
+      {
+        "name": "Don Luce",
+        "character": "Paramedic"
+      },
+      {
+        "name": "Judith Kahan",
+        "character": "Nurse"
+      },
+      {
+        "name": "Jeff Bright",
+        "character": "Communications Officer"
+      },
+      {
+        "name": "Jimmy Lennon Jr.",
+        "character": "Ring Announcer"
+      },
+      {
+        "name": "Marie Thomas-Foster",
+        "character": "Francine"
+      },
+      {
+        "name": "Ryan Fitzgerald",
+        "character": "Scooter"
+      },
+      {
+        "name": "Al Clegg",
+        "character": "Jazz"
+      },
+      {
+        "name": "Pat Proft",
+        "character": "Lawrence Lipps"
+      },
+      {
+        "name": "Marc Shaiman",
+        "character": "Piano Player"
+      },
+      {
+        "name": "Cylk Cozart",
+        "character": "Drill Sergeant #1"
+      },
+      {
+        "name": "Christopher J. Keene",
+        "character": "Drill Sergeant #2"
+      },
+      {
+        "name": "Ed Herschlar",
+        "character": "Rabbi"
+      },
+      {
+        "name": "Jimmie Ray Weeks",
+        "character": "Amish Man"
+      },
+      {
+        "name": "Annie O'Donnell",
+        "character": "Amish Woman"
+      },
+      {
+        "name": "Mack Yamaguchi",
+        "character": "Eskimo"
+      },
+      {
+        "name": "Charles Barkley",
+        "character": "Charles Barkley"
+      },
+      {
+        "name": "Bill Laimbeer",
+        "character": "Bill Laimbeer"
+      },
+      {
+        "name": "Eugene Greytak",
+        "character": "Pope John Paul II"
+      },
+      {
+        "name": "Tony Lorea",
+        "character": "Humphrey 'Bogie' Bogart"
+      },
+      {
+        "name": "Jerry Haleva",
+        "character": "Saddam Hussein"
+      },
+      {
+        "name": "Bob Lenz",
+        "character": "Elvis 'The King' Presley"
+      },
+      {
+        "name": "Willie Collins",
+        "character": "Liberace"
+      },
+      {
+        "name": "Robert Puro",
+        "character": "Precocious Paper Boy"
+      },
+      {
+        "name": "Richard Lasting",
+        "character": "Handsome Milkman"
+      },
+      {
+        "name": "Elston Ridgle",
+        "character": "Boxer #1"
+      },
+      {
+        "name": "Max Jones",
+        "character": "Boxer #2"
+      },
+      {
+        "name": "Christopher Doyle",
+        "character": "Conspiratorial Crewman"
+      },
+      {
+        "name": "Pablo Prietto",
+        "character": "Parking Valet"
+      },
+      {
+        "name": "John Bankson",
+        "character": "Parking Valet"
+      },
+      {
+        "name": "Nancy Abrahams",
+        "character": "Family in Front of TV Store"
+      },
+      {
+        "name": "Joseph Abrahams",
+        "character": "Family in Front of TV Store"
+      },
+      {
+        "name": "Jamie Abrahams",
+        "character": "Family in Front of TV Store"
+      },
+      {
+        "name": "Cary Brayboy",
+        "character": "Sleepy Weasel Squadron"
+      },
+      {
+        "name": "Tony Moreno",
+        "character": "Sleepy Weasel Squadron"
+      },
+      {
+        "name": "Kevin Eads",
+        "character": "Sleepy Weasel Squadron"
+      },
+      {
+        "name": "Dave Oliver",
+        "character": "Sleepy Weasel Squadron"
+      },
+      {
+        "name": "Richard Emanuelle",
+        "character": "Sleepy Weasel Squadron"
+      },
+      {
+        "name": "Kip Pierce",
+        "character": "Sleepy Weasel Squadron"
+      },
+      {
+        "name": "Brent Freeman",
+        "character": "Sleepy Weasel Squadron"
+      },
+      {
+        "name": "Kenton Steger",
+        "character": "Sleepy Weasel Squadron"
+      },
+      {
+        "name": "Craig McIntosh",
+        "character": "Sleepy Weasel Squadron"
+      },
+      {
+        "name": "Sean Wright",
+        "character": "Sleepy Weasel Squadron"
+      },
+      {
+        "name": "Joe Allegro",
+        "character": "Sleepy Weasel Squadron"
+      },
+      {
+        "name": "Jack I. Bernstein",
+        "character": "Rabinowitz (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "William A. Elliott",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Mali Finn",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Bill Butler",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Jane Kurson",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Stephen McEveety",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Stephen McEveety",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Rodney Liber",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "name": "Mark Peterson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jim Abrahams",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Jim Abrahams",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Mat Beck",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Mary Malin",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Greg Papalia",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "David B. Cohn",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Eric A. Sears",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Jerie Kelter",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Bill Badalato",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Pat Proft",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Pat Proft",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Erik Henry",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Greg Norberg",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Sylvester Levay",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Janet Graham",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Jonathan Chibnall",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Matt Rebenkoff",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Phil Cory",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Richard Kite",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Allan A. Apone",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Ernie F. Orsatti",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Ernie F. Orsatti",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "BJ Davis",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robert Stadd",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Andy Gill",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Roger Bojarski Jr.",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Lester Wilson",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Steve Wright",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Randy Singer",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Ann Masterson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Dan O'Connell",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Tom Davies",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Laurel Frushour",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Jake Brake",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Greg Orloff",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Don Miloyevich",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Robert Lucas",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Jeff Burks",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Jody Rogers",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Marsha Blackburn",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Gary Shephard",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Noon Orsatti",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Randle Akerson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Jessica Drake",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Renée Tondelli",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Jeffrey M. Jones",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Ronald L. Carr",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Thomas Causey",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "William Ballard",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Phil Hetos",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Jack I. Bernstein",
+        "department": "Directing",
+        "job": "Other"
+      },
+      {
+        "name": "Scott Crabbe",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Nico Bally",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Ted Yonenaka",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Ted Whitfield",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "G. Roger Abell",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "Nat Bocking",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Meredith Gold",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Phill Norman",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Mary Nelson-Duerrstein",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Gary Dagg",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "L. James Langlois",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "John R. Fifer",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Scot Deer",
+        "department": "Crew",
+        "job": "Telecine Colorist"
+      },
+      {
+        "name": "Hans Metz",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Paul 'Doc' Byrd",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Deborah Humphries",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Brian Reeves",
+        "department": "Crew",
+        "job": "Mixing Engineer"
+      },
+      {
+        "name": "Joe Kelly",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Gary Friedman",
+        "department": "Visual Effects",
+        "job": "VFX Production Coordinator"
+      },
+      {
+        "name": "Mike McEveety",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Dennis Rogers",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Barbara Anne Klein",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robin Leigh Fleck",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Harriet Katz-Stevens",
+        "department": "Production",
+        "job": "Accountant"
+      },
+      {
+        "name": "Allen Gerbino",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Jeanie Daniels",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Charles Johnston",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Phil Bautista",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "secret mission",
+    "bad luck",
+    "parody",
+    "drill instructor",
+    "jet crash"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A parody of Top Gun (1986) in which a talented but unstable fighter pilot must overcome the ghosts of his father and save a mission sabotaged by greedy weapons manufacturers.",
+    "Topper Harley, a top gun fighter pilot, is recalled to serve on the SS Essess. Topper's mission is to destroy Saddam Hussein's nuclear plants. Unfortunately, Topper is psychologically imbalanced and is sure to crack under pressure.—Rob Hartill",
+    "Plagued by troubling thoughts and tired of living in the heavy shadow of his father, troubled U.S. Navy ace pilot Lieutenant Sean \"Topper\" Harley reluctantly returns to active duty. As the emotionally unstable commander returns to the memory-laden place of his youth while still coping with sorrow, a bitter rivalry with cocky fighter pilot Lieutenant Kent Gregory and an unexpected encounter with desire await him. But when America calls, there's no time for love. Now, Topper must give his all in a critical mission in Iraq, and as if that weren't enough, confront an unscrupulous aerospace designer bent on making a quick profit. Can Harley fight his inner demons, get the girl, and live to tell the tale?—Nick Riganas",
+    "Ace pilot Topper Harley is asked to come back to the Navy for a special assignment (he dropped out to go live with Native Americans after an incident made him doubt his abilities). He has personality conflicts with the other Top Gun, as they are both romantically interested in the same woman. An aerospace company's owner is trying to sabotage the mission so the current fighter jet will be scrapped in favor of his jets.—Ed Sutton <esutton@mindspring.com>"
+  ],
+  "synopsis": "In 1971, Navy fighter pilot Leland \"Buzz\" Harley soars through the skies with reckless abandon, agitating his co-pilot, Dominick \"Mail Man\" Farnham. In pursuit of an enemy plane, Buzz pushes the aircraft past its speed limit, and he and Mail Man are forced to eject. Entangled by his seat belt, Mail Man crash lands in a forest. He survives, but is shot by hunters who mistake him for a deer.Twenty years later.Navy Lieutenant Commander Block (Kevin Dunn) drives to a remote Indian reservation to convince Buzz Harley's son, Sean \"Topper\" Harley (Charlie Sheen), to return to the Navy for a special mission, but Topper, who lives in a tepee and goes by the name \"Fluffy Bunny Feet,\" is not interested. However, Owatonna, \"The Old One,\" (Rino Thunder) encourages the reluctant pilot to go. En route to Dudley Naval Air Station in California, Topper notices a beautiful woman (Valeria Golino) riding horseback in a meadow, and attempts to impress her by performing tricks on his motorcycle.When Topper arrives at the barracks, he introduces himself to new recruits. He is dismayed to learn that fellow pilot Jim \"Wash Out\" Pfaffenbach (John Cryer) suffers an acute vision disorder. As Topper unpacks, Pete \"Dead Meat\" Thompson (William O'Leary) asks about his family and loved ones, but Topper declares he has no time for love. Topper notices ace pilot Kent Gregory (Cary Elwes) on a nearby cot, and wonders if they have ever met. With great disdain, Kent reveals that he is Dominick \"Mail Man\" Farnham's son, before suggesting that Buzz Harley's antics caused his father's death. Topper refuses to believe the accusation. Dead Meat reminds the two men they are friends, not foes, and Topper and Kent reluctantly shake hands.Later, Topper reports for a psychological examination, where he discovers that his psychiatrist, Ramada Thompson, is the woman he saw in the horse meadow. She ignores his flirtatious advances, asking instead about his feelings regarding his father. Topper claims he does not think about the past. As he leaves the office, Ramada warns him to be careful. Heedless of her advice, he stumbles headlong into a mess of exposed electrical wires dangling from the ceiling.Later, the absent-minded Admiral Benson (Lloyd Bridges) briefs the pilots for a training run in anticipation of operation \"Sleepy Weasel.\" In the air, despite a disturbing reminiscence of his father, Topper proves that he has not lost his flying prowess.Afterward, Topper runs into Ramada and flirts shamelessly with her, but when she announces her intention to ground him from flying, he storms off.That night, Lt. Commander Block attends a professional boxing match, where he exchanges information with the unscrupulous Mr. Wilson (Efrem Zimbalist Jr.), a manufacturer of \"super-fighter\" jets. Block confirms that Topper Harley is mentally unstable and certain to cause some kind of incident. Wilson notes that they can blame the mishap on inferior plane construction, and force the U.S. to buy new planes from his company.At a nearby nightclub, the fighter pilots socialize as Ramada Thompson sings a sultry rendition of a jazz standard. Kent Gregory, Ramada's former lover, watches with suspicion as she directs her performance to Topper Harley. Kent confronts the pilot, but Ramada breaks up the fight. Appeased, Kent kisses her goodnight. Ramada allows Topper to walk her home, before inviting him inside. The two spend an intimate evening together.The next day, before heading out for training exercises, Dead Meat and Wash Out wonder where Topper is. Wash Out, suspended due to his vision problem, laments the loss of their best pilot. Dead Meat walks arm in arm with his wife, Mary (Heidi Swedberg), who enthuses about their perfect life. On a whim, Wash Out dons Topper's helmet and flies out with the squad. However, his poor eyesight causes him to collide with Dead Meat's aircraft. Although Wash Out parachutes to safety, Dead Meat crashes. He survives the accident, but dies in the hospital at the hands of incompetent doctors.At the funeral, Lt. Commander Block meets with Mr. Wilson and insists they move forward with their plan. Wilson disagrees, thinking it would make more of an impact if the malfunction were to occur in combat. Frustrated, Block leaves. The flaky Admiral Benson disrupts the funeral when he mistakes a 10-gun salute as enemy gunfire.Later that day, Topper visits Ramada and confides his desire to resign from the Navy. She convinces him that the Sleepy Weasel team needs him. Topper professes his love for her, but she needs time to think. The pilot joins his squad on the S.S. Essess, an aircraft carrier in the Mediterranean. There, Admiral Benson orders the men to destroy a nuclear weapons plant located in Falafel Heights. When Topper Harley is designated lead pilot, Kent Gregory protests. Lt. Commander Block dismisses the criticism of Topper's temperament. The pilots prepare for takeoff, unaware that a mechanic working for Mr. Wilson has sabotaged one of the jets.In the air, enemy fighters approach, and Topper, overcome with memories of his father, disengages from formation. Block tells the pilots to abort the mission, but it is too late. Enemy aircraft surround them. In desperation, Block recalls Buzz Harvey's bravery on the day of Mail Man's death, jolting Topper out of his reverie. With a renewed sense of purpose, Topper joins the fight. He discovers that his weapons system is jammed, but destroys four enemy fighters using gravity-defying evasive maneuvers. He proceeds to Falafel Heights, where he drops a missile on Saddam Hussein and the nuclear plant.The Sleepy Weasel squadron returns to the aircraft carrier, where everyone celebrates Topper's heroic deeds. After Lt. Commander Block apologizes for his liaison with Mr. Wilson, Admiral Benson apprehends the crook. The warship returns to California, and amidst the homecoming fanfare, Topper searches for Ramada. He sees her in an embrace with Kent Gregory, and mistakenly assumes they have reunited.Dejected, Topper returns to the Indian reservation. However, when he arrives, Ramada is already there. She welcomes him into her arms with a kiss."
+}

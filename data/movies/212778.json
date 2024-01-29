@@ -1,0 +1,858 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/12rDMkiQFeXrLhlIbJpArL8wOHf.jpg",
+  "id": 212778,
+  "title": "Chef",
+  "poster_path": "https://image.tmdb.org/t/p/w500/yMtKHR6VG1Yagvv5F7IFpsGBm66.jpg",
+  "release_date": "2014-05-08",
+  "vote_average": 7.119,
+  "vote_count": 3076,
+  "popularity": 29.002,
+  "overview": "When Chef Carl Casper suddenly quits his job at a prominent Los Angeles restaurant after refusing to compromise his creative integrity for its controlling owner, he is left to figure out what's next. Finding himself in Miami, he teams up with his ex-wife, his friend and his son to launch a food truck. Taking to the road, Chef Carl goes back to his roots to reignite his passion for the kitchen -- and zest for life and love.",
+  "imdb_id": "tt2883512",
+  "budget": 11000000,
+  "homepage": "http://chefthefilm.com/",
+  "revenue": 45967935,
+  "runtime": 114,
+  "tagline": "Starting from scratch never tasted so good.",
+  "genres": [
+    "Comedy"
+  ],
+  "production_companies": [
+    "Altus Media",
+    "Fairview Entertainment",
+    "Prescience"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jon Favreau",
+        "character": "Carl Casper"
+      },
+      {
+        "name": "John Leguizamo",
+        "character": "Martin"
+      },
+      {
+        "name": "Bobby Cannavale",
+        "character": "Tony"
+      },
+      {
+        "name": "Emjay Anthony",
+        "character": "Percy"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Molly"
+      },
+      {
+        "name": "Dustin Hoffman",
+        "character": "Riva"
+      },
+      {
+        "name": "Sofía Vergara",
+        "character": "Inez"
+      },
+      {
+        "name": "Oliver Platt",
+        "character": "Ramsey Michel"
+      },
+      {
+        "name": "Amy Sedaris",
+        "character": "Jen"
+      },
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Marvin"
+      },
+      {
+        "name": "Russell Peters",
+        "character": "Miami Cop"
+      },
+      {
+        "name": "Chase Grimm",
+        "character": "Vendor"
+      },
+      {
+        "name": "Will Schutze",
+        "character": "Mr. Bonetangles"
+      },
+      {
+        "name": "Gloria Sandoval",
+        "character": "Flora"
+      },
+      {
+        "name": "Jose C. Hernandez",
+        "character": "Abuelito"
+      },
+      {
+        "name": "Alberto Salas",
+        "character": "Bandmember"
+      },
+      {
+        "name": "Alfredo Ortiz",
+        "character": "Bandmember"
+      },
+      {
+        "name": "Daniel Palacio",
+        "character": "Bandmember"
+      },
+      {
+        "name": "Mauricio Del Monte",
+        "character": "Bandmember"
+      },
+      {
+        "name": "Leonardo Da Nilo",
+        "character": "Versailles Host"
+      },
+      {
+        "name": "Nili Fuller",
+        "character": "Marvin's Assistant"
+      },
+      {
+        "name": "Charles Lao",
+        "character": "Kitchen Supply Clerk"
+      },
+      {
+        "name": "Benjamin Jacob",
+        "character": "Benjamin Jacob"
+      },
+      {
+        "name": "Aaron Franklin",
+        "character": "Aaron Franklin"
+      },
+      {
+        "name": "Gary Clark Jr.",
+        "character": "Gary Clark Jr."
+      },
+      {
+        "name": "Roy Choi",
+        "character": "Roy Choi"
+      },
+      {
+        "name": "Santos Caraballo",
+        "character": "Club Salsa Dancer (uncredited)"
+      },
+      {
+        "name": "Michael Patrick Carmody",
+        "character": "Waiter (uncredited)"
+      },
+      {
+        "name": "Anthony Carretta",
+        "character": "Cuban Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "Christina Cha",
+        "character": "Shocked Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "Cody Daniel",
+        "character": "Allen Chipworth (uncredited)"
+      },
+      {
+        "name": "Safi El Masri",
+        "character": "South Beach Guy (uncredited)"
+      },
+      {
+        "name": "Rachel Faulkner",
+        "character": "Food Truck Customer (uncredited)"
+      },
+      {
+        "name": "Michael P Gardner",
+        "character": "Himself (uncredited)"
+      },
+      {
+        "name": "Julian Graham",
+        "character": "Shocked Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "Josh Gutiérrez",
+        "character": "El Cabbie (uncredited)"
+      },
+      {
+        "name": "Priyom Haider",
+        "character": "Food Truck Patron #1 (uncredited)"
+      },
+      {
+        "name": "Miguel Izaguirre",
+        "character": "Food Truck Customer (uncredited)"
+      },
+      {
+        "name": "Colombe Jacobsen-Derstine",
+        "character": "Lisa (uncredited)"
+      },
+      {
+        "name": "Noa Lindberg",
+        "character": "Hungry Jogger (uncredited)"
+      },
+      {
+        "name": "Teebone Mitchell",
+        "character": "Inez Chauffeur (uncredited)"
+      },
+      {
+        "name": "Chris Nunez",
+        "character": "Salsa Dancer (uncredited)"
+      },
+      {
+        "name": "Rigo Obezo",
+        "character": "Construction Worker (uncredited)"
+      },
+      {
+        "name": "Jay Pennington",
+        "character": "Cowboy Patron (uncredited)"
+      },
+      {
+        "name": "Tanner Priest",
+        "character": "Foodie (uncredited)"
+      },
+      {
+        "name": "Arley Ryder",
+        "character": "Food Truck Patron (uncredited)"
+      },
+      {
+        "name": "Mike Rylander",
+        "character": "Farmers Market Shopper (uncredited)"
+      },
+      {
+        "name": "Jenna Saab",
+        "character": "Concert Patron (uncredited)"
+      },
+      {
+        "name": "Sam Stinson",
+        "character": "Customer (uncredited)"
+      },
+      {
+        "name": "Ty Suite",
+        "character": "Austin Food Truck Patron (uncredited)"
+      },
+      {
+        "name": "Gary Teague",
+        "character": "Franklin Barbecue Patron (uncredited)"
+      },
+      {
+        "name": "Minn Vo",
+        "character": "Salsa Dancer (uncredited)"
+      },
+      {
+        "name": "William Shannon Williams",
+        "character": "Food Truck Customer (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Christopher Boyes",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Robert Leighton",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Sarah Halley Finn",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "James D. Brubaker",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Michael Silvers",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Michael Silvers",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Laura Jean Shannon",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Tom Myers",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Peggy Semtob",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Bryan Venegas",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Jon Favreau",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Jon Favreau",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jon Favreau",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Valli O'Reilly",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Denise Pizzini",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Kramer Morgenthau",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Scott Steindorff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Dylan Russell",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lyle Workman",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Lyle Workman",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Gregg London",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Paul Brett",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Tim Smith",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Kate Biscoe",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Bill Wohlken",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Philip Elway",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Peter Fruchtman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Sergey Bespalov",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Craig Chapman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ron Judkins",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Tamara Hunter",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Mark C. Manuel",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jerry Fruchtman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Merrick Morton",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Ted O'Neal",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Karen Gilchrist",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Boris Teterev",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "John Pollard ",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Roy Choi",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Bryan Godwin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Tanya Noel Hill",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Kathy McHugh",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Alicia Maccarone",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jason Rose",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Heba Thorisdottir",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Molly Allen",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Molly Allen",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Chris Scarabosio",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jeremy Alan Read",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Henry Tirl",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "David Van Dyke",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Michael Menapace",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Mark R. Byers",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Cassiopeia Smith",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Lois Yaroshefsky",
+        "department": "Crew",
+        "job": "Studio Teachers"
+      },
+      {
+        "name": "Kei Rowan-Young",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Gary Summers",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Darin Moran",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Jeri Baker",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Michele Perrone",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Benjamin A. Burtt",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Sheryl Benko",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Lisa Marie Harris",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Dolores Hernández",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Brett Laumann",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Marie Larkin",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Natasha Allegro",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Clare M. Corsick",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Jason B. Stamey",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Anne Sheehan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lisa Vijitchanton",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Shane Strickman",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Maria Gonzales",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Danny Miller",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Scott Jacobs",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Steve Slanec",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Steve Slanec",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Brian Chumney",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Mark Brooke",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Don Devine",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "John M. Pisani",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Will Greenfield",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Jere Hausfater",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Doug Spilatro",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Corinne Villa",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Claire Koonce",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Mathieu Schreyer",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Gleb Fetisov",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Oleg Teterin",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Marina Bespalov",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Greg Hale",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "David Kelley",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "John Bartnicki",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Peggy Robinson",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Alex Names",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Eugene M. Bernal",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Charles Crivier",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "James Lee Kroning",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Tabitha Johnson",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Sarah Lee-Taylor",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Eddie Gomez",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "George Black",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "George Black",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Davy Newkirk",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Terri Greening",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Leslie Borchert",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Nathan Hardcastle",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Jason Donnelly",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Olga Lesnova",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "John K. Patterson",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Bart Brown",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Lawrence Christman",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Andrew Gersh",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Sal Sanchez",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Dave Sliwa",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "David O. Whatley",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Steve Wolf",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      }
+    ]
+  },
+  "keywords": [
+    "parent child relationship",
+    "restaurant owner",
+    "road trip",
+    "food",
+    "chef",
+    "ex-husband ex-wife relationship",
+    "twitter",
+    "social media",
+    "duringcreditsstinger",
+    "food truck",
+    "gastronomia"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A head chef quits his restaurant job and buys a food truck in an effort to reclaim his creative promise, while piecing back together his estranged family.",
+    "Carl Casper is an acclaimed chef with a family life that seems as decaying as his artistic freedom. Those frustrations boil over into a raucous viral-videoed public confrontation against a restaurant critic who panned his cooking of food that his boss ordered him to make against his instincts. Now with his career ruined, Carl's ex-wife offers an unorthodox solution in Miami: refit an old food truck to offer quality cooking on his own terms. Now with his young son, Percy, and old colleague, Martin, helping, Carl takes a working trip across America with that truck to rediscover his gastronomic passion. With Percy's tech savvy and Martin's enthusiasm, Carl finds that he is creating a traveling sensation on the way home. In doing so, Carl discovers he is serving up more than simply food, but also a deeper connection with his life and his family that is truly delicious in its own way.—Kenneth Chisholm (kchishol@rogers.com)",
+    "Miami-born Carl Casper is the head chef of Gauloise in Brentwood, California. While popular with his kitchen staff and hostess Molly, the restaurant owner Riva wants Carl to stick to \"classics\" rather than innovative dishes. Carl has a strained relationship with his tech-savvy preteen son Percy and rich ex-wife Inez. When Carl has the chance to serve prestigious critic and blogger Ramsey Michel, Riva demands he stick with old favorites at the last minute; Carl concedes, leading to a scathing review. On Twitter, Carl insults Ramsey for the review, not realizing that his reply is public, and gains a large Twitter following. Carl comes up with a new menu that his staff loves and invites Ramsey to a \"rematch\"; however, he quits after confronting Riva, who wants the old menu again..",
+    "Los Angeles-based executive chef Carl Casper was once deemed the one to watch within the business. But years working for Riva at upscale Gauloise, Riva who promised him creative control but who has ended up dictating that he cater the menu and his cooking to the tastes of the masses, Carl has lost that promise, although his staff, including his sous chef Tony, the sommelier Molly, but especially one of the line cooks Martin, still admire his talent. Carl may not realize how much this stifling has affected his psyche, that negativity which led to the dissolution of his marriage to Inez, and he having a strained relationship with his and Inez's ten year old son Percy, who only wants to spend quality time with his physically present but mentally absent father in their mandated time together. In being a social media newbie, Carl ends up having a very public breakdown. In the aftermath, Carl, with nothing else he wants to do but be a chef, has to reinvent himself in some manner to get back on his feet. He decides to take Inez up a long standing offer concerning her first husband, Miami-based entrepreneur Marvin who has a hygiene fetish. Despite not fully trusting Marvin, Carl may rediscover his passion for cooking and in the process his passion for life in general, that passion which may bring those things of importance that he has lost in the ten years back.—Huggo",
+    "Carl Casper is a disillusioned chef fed up with his restaurant's management, poor reviews and lack of creativity. After an online battle with a well-known critic leads to further frustration, Carl decides to leave and go solo as a food truck operator in a bid to rediscover his flair for cooking."
+  ],
+  "synopsis": "Miami-born Carl Casper (Jon Favreau) is the head chef of Gauloise in Brentwood, Los Angeles. While popular with his kitchen staff and hostess Molly (Scarlett Johansson), Carl clashes with the restaurant's owner, Riva (Dustin Hoffman), who wants him to stick to \"classics\" rather than innovative dishes. Carl has a strained relationship with his tech-savvy preteen son, Percy (Emjay Anthony), and rich ex-wife, Inez (Sofía Vergara).When Carl has the chance to serve prestigious food critic and internet food blogger Ramsey Michel (Oliver Platt), Riva demands he prepare old favorites at the last minute (Riva asks Carl to stick to the tried and the tested, which he thinks is what people come to the restaurant for. Carl says the place has been in a creative rut for 5 years, but Riva would have none of it); Carl concedes, leading to a scathing review (2 stars and a personal insult insinuating that Carl gained weight because he ate all the food sent back to the kitchen).Carl works all night in his kitchen and cooks up a new menu, which his staff loves. They tell him not to worry about twitter. Carl is intrigued as he is not on twitter and his staff won't tell him what's going on. Percy signs Carl up on twitter. Percy shows Carl how Ramsey's review has gone viral and has been re-tweeted many times over.Carl insults Ramsey on Twitter (saying he wouldn't know a good meal if it sat on his face), not realizing that his reply is public (with Ramsey replying and re-tweeting to his 185K followers. He wrote he would rather have Carl sit on his face than go through the lava cake again :)) and gains a large online following. Carl invites Ramsey to a \"rematch\" but leaves after confronting Riva (who wants Carl to tweet and apology to Ramsey and serve the same menu), who wants the old menu again.\nAt home, Carl prepares the menu he wanted, while his sous-chef Tony (Bobby Cannavale) (who refuses to leave with Carl when he asked him to) serves Ramsey the same dishes from his prior visit. Ramsey tweets negatively about Carl calling him a no show, causing Carl to confront him at the restaurant and publicly berate him. Videos of Carl's meltdown go viral, leaving him humiliated and unemployable. Inez's PR rep Jen (Amy Sedaris) tells Carl that he might have a shot at Hell's kitchen after his \"stunt\". He has 20K followers on twitters now.\nMolly encourages Carl not to get a new job, working for someone else and wants him to do his own thing. She also proposes a trip so that Carl gets to spend time with his son Percy.Carl reluctantly accepts Inez's invitation to accompany her and Percy to Miami, where he rediscovers his love for Cuban cuisine. At Inez's encouragement, her ex-husband Marvin (Robert Downey Jr.) offers Carl a dilapidated food truck. Carl gets down to fixing it and its very hard work. Carl and Percy bond while restoring the truck and buying groceries, and Carl gives him a chef's knife. Martin (John Leguizamo), Carl's friend and former line cook, turns down his promotion at Gauloise to join Carl, who has reignited his passion as a chef. Martin gathers some Cubans from Marvin's work site (he owns an equipment rental company) who agree to work for Carl, cleaning the truck and loading all the new equipment if Carl cooks them a good meal. In no time, the truck is ready.\nCarl also teaches Percy to have pride in what he is doing and not take short cuts, when Percy tries to serve a burnt sandwich to the workers as it is free for them. Martin calls in a favor from his cousin to give the truck a fresh paint. He names the truck \"El Jeffe\".Carl, Martin, and Percy drive the truck across the country to Los Angeles, serving Cuban sandwiches and Yuca fries. Percy promotes them on social media (posting 6 second videos of their entire trip, taking 1 second daily snippets, as well as their live Geo-tagged location when they set up shop in a city) (Percy learns to use cornstarch on the balls to suck up extra moisture), and they find success in New Orleans and Austin, where their daily specials include Po' boys and barbecued brisket, made with local ingredients.Back in Los Angeles, having strengthened his relationship with Percy (Carl sits Percy down and says that eventually Percy will have to go back to school and things between them will go back to before, and not like what they were in the last 2 weeks), Carl accepts his son's offer to help with the food truck. Ramsey visits the truck to explain his bad review: though an early fan of Carl, he was disappointed by a meal he felt was beneath Carl's skills. Impressed with the chef's return to form, Ramsey offers to bankroll a new restaurant where Carl will have full creative control.\nSix months later, the successful new restaurant is closed for a private event: Carl and Inez's remarriage ceremony."
+}

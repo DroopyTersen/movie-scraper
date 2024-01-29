@@ -1,0 +1,364 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/lNmIAX1IuPIEPMHhLBEm4wmhYX0.jpg",
+  "id": 10948,
+  "title": "The Fox and the Hound",
+  "poster_path": "https://image.tmdb.org/t/p/w500/1382VHxqZDXu2t8i46zf4fP71JG.jpg",
+  "release_date": "1981-07-10",
+  "vote_average": 7.135,
+  "vote_count": 3041,
+  "popularity": 35.166,
+  "overview": "When a feisty little fox named Tod is adopted into a farm family, he quickly becomes friends with a fun and adorable hound puppy named Copper. Life is full of hilarious adventures until Copper is expected to take on his role as a hunting dog -- and the object of his search is his best friend!",
+  "imdb_id": "tt0082406",
+  "budget": 12000000,
+  "homepage": "http://movies.disney.com/the-fox-and-the-hound",
+  "revenue": 29800000,
+  "runtime": 82,
+  "tagline": "A story of two friends who didn't know they were supposed to be enemies.",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Drama",
+    "Family"
+  ],
+  "production_companies": [
+    "Walt Disney Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Mickey Rooney",
+        "character": "Tod (voice)"
+      },
+      {
+        "name": "Kurt Russell",
+        "character": "Copper (voice)"
+      },
+      {
+        "name": "Pearl Bailey",
+        "character": "Big Mama (voice)"
+      },
+      {
+        "name": "Jack Albertson",
+        "character": "Amos Slade (voice)"
+      },
+      {
+        "name": "Sandy Duncan",
+        "character": "Vixey (voice)"
+      },
+      {
+        "name": "Jeanette Nolan",
+        "character": "Widow Tweed (voice)"
+      },
+      {
+        "name": "Pat Buttram",
+        "character": "Chief (voice)"
+      },
+      {
+        "name": "Richard Bakalyan",
+        "character": "Dinky (voice)"
+      },
+      {
+        "name": "Paul Winchell",
+        "character": "Boomer (voice)"
+      },
+      {
+        "name": "John Fiedler",
+        "character": "Porcupine (voice)"
+      },
+      {
+        "name": "John McIntire",
+        "character": "Badger (voice)"
+      },
+      {
+        "name": "Keith Coogan",
+        "character": "Young Tod (voice)"
+      },
+      {
+        "name": "Corey Feldman",
+        "character": "Young Copper (voice)"
+      },
+      {
+        "name": "Clarence Nash",
+        "character": "Bear (Snarling) (voice)"
+      },
+      {
+        "name": "James MacDonald",
+        "character": "Bear (Growling) (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ron Miller",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ron Clements",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Mark A. Hester",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Don Hahn",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Shirley Walker",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Wolfgang Reitherman",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Larry Clemmons",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Vance Gerry",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Burny Mattinson",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "David Michener",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Steve Hulett",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Peter Young",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "James Melton",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Frank Thomas",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Evelyn Kennedy",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Ted Berman",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ted Berman",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Art Stevens",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Art Stevens",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Earl Kress",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Daniel P. Mannix",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Buddy Baker",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "James Koford",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Joe Hale",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "Richard Rich",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Richard Rich",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Jeffrey C. Patch",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "name": "Don Griffith",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Edward Hansen",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Glen Keane",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Herb Taylor",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "name": "Ollie Johnston",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Cliff Nordberg",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Skip Jones",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Vera Pacheco",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Jim Stafford",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Jim Stafford",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "name": "Guy Vasilovich",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "Dan Haskett",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "name": "Randy Cartwright",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Don A. Duckwall",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Michael Peraza Jr.",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "Sylvia Roemer",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "Dan Hansen",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "Glenn V. Vilppu",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "Terry L. Noss",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Jack Wadsworth",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Don Paul",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Richard O. Johnston",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Stan Fidel",
+        "department": "Writing",
+        "job": "Lyricist"
+      }
+    ]
+  },
+  "keywords": [
+    "friendship",
+    "based on novel or book",
+    "fox",
+    "dog",
+    "animal",
+    "hunting",
+    "unlikely friendship",
+    "pets"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "A fox named Tod and a hound named Copper vow to be best friends forever. But as Copper grows into a hunting dog, their unlikely friendship faces the ultimate test.",
+    "When a fox named Tod and a hound named Copper become inseparable friends as babies, their friendship grows stronger every day. But as they grow up, they grow farther and farther apart, to the day when their bond is put to the ultimate test.",
+    "A fox named Tod quickly becomes friends with a hound named Copper and they are instantly growing close with each other. Unfortunate for them, they are on opposite sides of the fence with Tod living with a kindly widowed farmer and Copper living with an unscrupulous hunter who wants to train him to become a hunting dog. As time passes, their relationship is put to the test when Copper's owner sets out to shoot Tod for almost killing his other dog, Chief. With that, there are consequences ahead.—Blazer346",
+    "A wise owl and two henchmen birds see that orphaned fox cub Tod is 'found', adopted and 'raised' by childless human widow Tweed as a happy semi-wild pet in a rural backwater. He even makes friends with canine pup Copper, the apprentice of tweed's grumpy farmer neighbor Amos Slade's hunting dog Chief, who is kept in the dark. As they grow up, Amos takes Copper a season on hunting training, from which he returns as a routine prey killer. After a biter row with Amos, Tweed feels obliged to release Tod in the wild. There he is the prime prize for vindictive Amos and Chief's next great hunt, but both juveniles remember their friendship, leaving Copper with mixed loyalties and Tod challenged to act fox-smart.—KGF Vissers",
+    "A young fox named Tod is taken in by an old woman after his mother is killed by a hunter. Full of mischief, Young Tod befriends Copper, a hound dog pup. As they grow up, however, their friendship becomes endangered by what they have become; Copper is a hunting dog, and Tod is his prey.—Amy L. Plack <trek@wpi.edu>"
+  ],
+  "synopsis": ""
+}

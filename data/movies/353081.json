@@ -1,0 +1,1455 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/aw4FOsWr2FY373nKSxbpNi3fz4F.jpg",
+  "id": 353081,
+  "title": "Mission: Impossible - Fallout",
+  "poster_path": "https://image.tmdb.org/t/p/w500/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+  "release_date": "2018-07-13",
+  "vote_average": 7.421,
+  "vote_count": 7738,
+  "popularity": 64.712,
+  "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
+  "imdb_id": "tt4912910",
+  "budget": 178000000,
+  "homepage": "",
+  "revenue": 791700000,
+  "runtime": 147,
+  "tagline": "Some missions are not a choice.",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Bad Robot",
+    "Skydance Media",
+    "TC Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Ethan Hunt"
+      },
+      {
+        "name": "Henry Cavill",
+        "character": "August Walker"
+      },
+      {
+        "name": "Ving Rhames",
+        "character": "Luther Stickell"
+      },
+      {
+        "name": "Simon Pegg",
+        "character": "Benjamin 'Benji' Dunn"
+      },
+      {
+        "name": "Rebecca Ferguson",
+        "character": "Ilsa Faust"
+      },
+      {
+        "name": "Sean Harris",
+        "character": "Solomon Lane"
+      },
+      {
+        "name": "Angela Bassett",
+        "character": "Erika Sloane"
+      },
+      {
+        "name": "Vanessa Kirby",
+        "character": "The White Widow"
+      },
+      {
+        "name": "Michelle Monaghan",
+        "character": "Julia"
+      },
+      {
+        "name": "Wes Bentley",
+        "character": "Erik"
+      },
+      {
+        "name": "Frederick Schmidt",
+        "character": "Zola"
+      },
+      {
+        "name": "Alec Baldwin",
+        "character": "Alan Hunley"
+      },
+      {
+        "name": "Yang Liang",
+        "character": "Lark Decoy"
+      },
+      {
+        "name": "Kristoffer Joner",
+        "character": "Nils Debruuk"
+      },
+      {
+        "name": "Wolf Blitzer",
+        "character": "Wolf Blitzer"
+      },
+      {
+        "name": "Dean Ashton",
+        "character": "French Policeman"
+      },
+      {
+        "name": "Alix Bénézech",
+        "character": "French Policewoman"
+      },
+      {
+        "name": "Joey Ansah",
+        "character": "Henchman"
+      },
+      {
+        "name": "Velibor Topic",
+        "character": "Henchman"
+      },
+      {
+        "name": "Alexandre Poole",
+        "character": "Rowdy Frenchman"
+      },
+      {
+        "name": "Andrew Cazanave Pin",
+        "character": "Rowdy Frenchman"
+      },
+      {
+        "name": "Christophe de Choisy",
+        "character": "Rowdy Frenchman"
+      },
+      {
+        "name": "Guy Remy",
+        "character": "Rowdy Frenchman"
+      },
+      {
+        "name": "Jean Baptiste Fillon",
+        "character": "Rowdy Frenchman"
+      },
+      {
+        "name": "Maximilian Geller",
+        "character": "Rowdy Frenchman"
+      },
+      {
+        "name": "Olivier Huband",
+        "character": "Rowdy Frenchman"
+      },
+      {
+        "name": "Raphael Desprez",
+        "character": "Rowdy Frenchman"
+      },
+      {
+        "name": "Raphael Joner",
+        "character": "Rowdy Frenchman"
+      },
+      {
+        "name": "Thierry Picaut",
+        "character": "Rowdy Frenchman"
+      },
+      {
+        "name": "Vincent Latorre",
+        "character": "Rowdy Frenchman"
+      },
+      {
+        "name": "Harvey Djent",
+        "character": "DJ Harvey"
+      },
+      {
+        "name": "Grahame Fox",
+        "character": "Grand Palais Bouncer"
+      },
+      {
+        "name": "David Mumeni",
+        "character": "Marine Sergeant"
+      },
+      {
+        "name": "Charlie Archer",
+        "character": "Delivery Man"
+      },
+      {
+        "name": "Caspar Phillipson",
+        "character": "The European"
+      },
+      {
+        "name": "Ffion Jolly",
+        "character": "Woman at Desk"
+      },
+      {
+        "name": "Lolly Adefope",
+        "character": "Woman at Desk"
+      },
+      {
+        "name": "Ross O'Hennessy",
+        "character": "British Agent"
+      },
+      {
+        "name": "Russ Bain",
+        "character": "British Agent"
+      },
+      {
+        "name": "Nigel Allen",
+        "character": "CIA Agent"
+      },
+      {
+        "name": "Tracey Saunders",
+        "character": "CIA Agent"
+      },
+      {
+        "name": "Alicia Mencía Castaño",
+        "character": "CIA Agent (uncredited)"
+      },
+      {
+        "name": "Lady Conny Sharples",
+        "character": "Julie Bar Woman (uncredited)"
+      },
+      {
+        "name": "Jessie Vinning",
+        "character": "Navy (uncredited)"
+      },
+      {
+        "name": "Stuart Davidson",
+        "character": "Nightclub VIP (uncredited)"
+      },
+      {
+        "name": "Julianne Binard",
+        "character": "Paris Guest (uncredited)"
+      },
+      {
+        "name": "Hiten Patel",
+        "character": "Train Commuter (uncredited)"
+      },
+      {
+        "name": "Jag Patel",
+        "character": "Mourner (uncredited)"
+      },
+      {
+        "name": "Godiva Marshall",
+        "character": "Passer-By (uncredited)"
+      },
+      {
+        "name": "Gina Aponte",
+        "character": "Lounge Violinist (uncredited)"
+      },
+      {
+        "name": "Robert Ryan",
+        "character": "Office Manager (uncredited)"
+      },
+      {
+        "name": "Pamela Cook",
+        "character": "Funeral Mourner (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tom Cruise",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Neil Corbould",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Mindy Marin",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Christopher McQuarrie",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Christopher McQuarrie",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Christopher McQuarrie",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Brian Donovan",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Lalo Schifrin",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "name": "Steven Lawrence",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "James Mather",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Bruce Geller",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "name": "J.J. Abrams",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Peter Wenham",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Dana Goldberg",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jake Myers",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jille Azis",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Eddie Hamilton",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Bryan Burk",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kara Lipson",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Don Granger",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David Ellison",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ken Turner",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Laurence Esnault",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "Matthew Gray",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Susan E. Novick",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Chris Munro",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Jenny Rushton",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Jody Johnson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Lorne Balfe",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Charles-Axel Vollard",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Toby Whale",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Tommy Harper",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Steve Harris",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Rob Hardy",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Claire Chanat",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Mark Harrison",
+        "department": "Lighting",
+        "job": "Lighting Supervisor"
+      },
+      {
+        "name": "Kim Turner",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Phil Sims",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Barry Gibbs",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Jed Loughran",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Gary Jopling",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Glen Gathard",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Ben Piltz",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Nicoletta Mani",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Thierry Zemmour",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Paulo Gonçalves",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Gregory Fromentin",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Ben Meechan",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Marcus Pohlus",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "John Gamble",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Julian Morson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "David James",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Mike Prestwood Smith",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Pete Romano",
+        "department": "Camera",
+        "job": "Underwater Director of Photography"
+      },
+      {
+        "name": "Amanda Brand",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Robin Saxen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Adam Dale",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Abi Cadogan",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Chris Brock",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Sarah Monzani",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Mark Jefferies",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Rick Woollard",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Stig Tvenge",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Kristyan Mallett",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "name": "Fraser Taggart",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "name": "Gilbert Lake",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Beverley Crockard",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Rose Crocker",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Candice White",
+        "department": "Art",
+        "job": "Draughtsman"
+      },
+      {
+        "name": "Tomas Vaverka",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Andrew Banwell",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Gilbert James",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Wade Eastwood",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Wade Eastwood",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Grant Adams",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Terry Glass",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Marc Wolff",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Marc Wolff",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Hannah Walter",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Lee Eldred",
+        "department": "Lighting",
+        "job": "Best Boy Electrician"
+      },
+      {
+        "name": "Hugues Espinasse",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Raphaël Benoliel",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Julyan Giraux",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Adam Coles",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Odile Fourquin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Gabrielle Mankiewicz",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Lee F. Sullivan",
+        "department": "Lighting",
+        "job": "Lighting Supervisor"
+      },
+      {
+        "name": "Sara O'Donnell",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Per Henry Borch",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "David Edouard",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Johan Leclaire-Bottarelli",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Matt Grimm",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Adrianna Nielle Davies",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "John Naclerio",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Antonin Depardieu",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Arnaud Putman",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Tommy Gormley",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Alice Moore",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Chiabella James",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Darrell Warner",
+        "department": "Costume & Make-Up",
+        "job": "Costume Illustrator"
+      },
+      {
+        "name": "Huw J. Evans",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Toby Plaskitt",
+        "department": "Camera",
+        "job": "Russian Arm Operator"
+      },
+      {
+        "name": "Riccardo Bacigalupo",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Holly Rosenthal",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Christopher Frith",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "William Pruss",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Nicolas Baldino",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Marc David",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Johannes Selvaag",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Pål André Sterud",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Javier Meroño",
+        "department": "Visual Effects",
+        "job": "Visual Effects Technical Director"
+      },
+      {
+        "name": "Martin Smith",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Jonathan Dennis",
+        "department": "Camera",
+        "job": "Russian Arm Operator"
+      },
+      {
+        "name": "Billy Dunn",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Abhisek Chatterjee",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Andrew Cadey",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Adam Sculthorp",
+        "department": "Camera",
+        "job": "Aerial Camera"
+      },
+      {
+        "name": "Dani Rose",
+        "department": "Crew",
+        "job": "Drone Operator"
+      },
+      {
+        "name": "Stewart Kojima",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Jack Powell",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Neil Ashton",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Charlyne Liquito",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Aimee Dadswell",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Fulvio Pozzobon",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Michael Hull",
+        "department": "Visual Effects",
+        "job": "Pre-Visualization Supervisor"
+      },
+      {
+        "name": "Michael Pontvert",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Charlotte Roberts",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Agnes Toomus",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Sam Phillips",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "François Vigon",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Alex Belgeonne",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Noyan Cosarer",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Agata Maliauka",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Tony Davis",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Lorenz Plassmann",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Adam Faux",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Tara Ilsley",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Nicolas Brechat",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Matt Hancock",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Basile Longchamp",
+        "department": "Camera",
+        "job": "Aerial Camera Technician"
+      },
+      {
+        "name": "Dusty Millar",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Simon Chanvillard",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Nicolas Labrousse",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Mike King",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Richard Berby",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Christen Kenneth Gran",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Tommy Holman",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "David Hammond",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Michel Strasser",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Paul Stewart",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Andy Achard",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Franck Chron",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Eric Nové",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Stéphane Afchain",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Fliss Wyatt",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Balbina Garcia",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Robert James Sutherland",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Tom Coope",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Jane McCurdy",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Stéphane Bourdon",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Stéphane Riou",
+        "department": "Crew",
+        "job": "Marine Coordinator"
+      },
+      {
+        "name": "Roy Stratford",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Ryan Borah",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Bryan Ryan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Carly Lamenta",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Faye Green",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Ty Curtis King",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Ashley Reynolds",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Christian Proctor",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Daniel Rogers",
+        "department": "Crew",
+        "job": "Health and Safety"
+      },
+      {
+        "name": "Federico Dominguez",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Roger Harlow",
+        "department": "Production",
+        "job": "Head of Production"
+      },
+      {
+        "name": "Ashish Kukian",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Vinay Gautam",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Clare Collingridge",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Andrea Hachuel",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Kirby Adams",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Tussy Facchin",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Prashant Sharan",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Cheyenne Corre",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Andy Madden",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Lucy Cork",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Laraib Atta",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Jessica Hooker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "François Brice",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Jordan Ballard",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Pip Gillings",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Sainath Shinde",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Ansh Rathore",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Sekani Doram",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Pierre Accolas",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "name": "Sarah Bonnet",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "name": "Katrina Mense-Chase",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Sophie Massey Broadbery",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Eileen Yip",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Mariam Abdallah",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Eva Bakouche",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Emeline Brest",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "name": "Sonia Duclos",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Lucas Le Maitre",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "name": "Alexandre Mazeas",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "name": "Delphine Robin",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Shaan Nelson",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Anouk Barrere",
+        "department": "Directing",
+        "job": "Crowd Assistant Director"
+      },
+      {
+        "name": "Cécile Bordes",
+        "department": "Directing",
+        "job": "Crowd Assistant Director"
+      },
+      {
+        "name": "Antoine Boulay",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Andrew Burfield",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Cynthia Cady",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Chloe Chesterton",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Frederic Dagmey",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Mathilde Dory",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Tom Edmondson",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Nada Elazhary",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jean Ghesquiere",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Bruce Isler",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Paul Jolliot",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Jess Link",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Mathilde Marillier",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Jean-Christophe Muller",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Elsa Payen",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Rachael Rowe",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Olivier Sagne",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Arianna Singhania",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Gianpiero Vannucci",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Charlie Vaughan",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Matthieu Röhrer",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Charlotte Brownlee",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Eva Hetharia",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Marie Lacey",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Jenny Wood",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Jacqueline Rathore",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Sylvia Atkins",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Louise Young",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Sarah Mooney",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Joe Watts",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Esme Coleman",
+        "department": "Crew",
+        "job": "Compositor"
+      }
+    ]
+  },
+  "keywords": [
+    "race against time",
+    "london, england",
+    "helicopter",
+    "paris, france",
+    "plutonium",
+    "gun",
+    "spy",
+    "countdown",
+    "norway",
+    "sequel",
+    "motorcycle",
+    "bomb remote detonator",
+    "handgun",
+    "hand to hand combat",
+    "kashmir"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.",
+    "Two years after Ethan Hunt had successfully captured Solomon Lane, the remnants of the Syndicate have reformed into another organization called the Apostles. Under the leadership of a mysterious fundamentalist known only as John Lark, the organization is planning on acquiring three plutonium cores. Ethan and his team are sent to Berlin to intercept them, but the mission fails when Ethan saves Luther and the Apostles escape with the plutonium. With CIA agent August Walker joining the team, Ethan and his allies must now find the plutonium cores before it's too late.—Anonymous",
+    "After a mission goes wrong and anarchist Solomon Lane (Sean Harris) escapes custody, Ethan Hunt (Tom Cruise) and his IMF team are blamed and their loyalty is questioned. They attempt to fulfill their initial mission and recapture Lane while also trying to outrun a ruthless CIA agent (Henry Cavill) tasked with taking them out. As Hunt fends off these old and new threats, he also realizes allies within IMF might have other motives. Produced, written and directed by Christopher McQuarrie. Alec Baldwin, Angela Bassett, Rebecca Ferguson, Simon Pegg, Ving Rhames and Michelle Monaghan co-star.",
+    "Two years after Solomon Lane's capture, the remains of his organization The Syndicate have reorganized as a rogue terrorist group called the Apostles. IMF agent Ethan Hunt is assigned to buy three stolen plutonium cores in Berlin from \"elements of the Eastern European underworld\". He is joined by Benji Dunn and Luther Stickell for the mission, but the team fails when Stickell is taken hostage and Hunt's attempt to save him allows the Apostles to make off with the plutonium. The team later captures nuclear weapons expert Nils Delbruuk, who designed nuclear devices for an extremist named John Lark, in order to find Lark..",
+    "After successfully defeating and dismantling the powerful terrorist cabal, The Syndicate, Ethan Hunt finds himself dealing with the repercussions of his actions; a dangerous new enemy, known only as \"John Lark\", emerges from the darkness, hatching a master plan that pits Ethan and his team back against his old nemesis, Solomon Lane."
+  ],
+  "synopsis": "The film opens with Ethan and Julia getting married by a pastor who turns out to be Solomon Lane. He tells Ethan that Ethan should have killed him when he had the chance. There is a fallout all of a sudden and Ethan wakes up from his dream.\nFollowing the capture of Solomon Lane, the remaining members of 'Syndicate' have become known as 'The Apostles' and Ethan receives a message about one of their members called John Lark set to buy 3 plutonium cores from black arms dealers in Berlin, Germany and how John also had a Russian nuclear weapons specialist captured (Ethan did). At the buy, Ethan poses as John Lark but things don't go well when Luther is taken hostage with Ethan choosing to save Luther and the 3 plutonium cores go missing.\nEthan then interrogates the weapons specialist in the hospital while he is watching a CNN news story of the plutonium cores having caused an attack on Jerusalem, The Vatican and Mecca. The specialist agrees to give Ethan the code to his laptop to track John Lark if John's testimony about there being no peace without first a great suffering being read on CNN. After this occurs, the specialist gives the code with it turning out that the whole CNN news story was faked and no attacks have occurred as of yet. It is revealed that Benji was posing as the news reporter and they were not in a hospital but a facility made to look like one.TITLE SCREEN.Ethan finds out about John set to buy the plutonium cores from a woman called the 'White Widow' at a gala in Paris, France. She runs a charitable organization which in secret deals weapons and nuclear arms. CIA agent August Walker accompanies Ethan to Paris in order to keep an eye on him due to having lost the plutonium cores in Berlin. Using a CIA Cargo plane, they plan to HALO jump into Paris, undetected. On board, they do not get along too well and Walker insists on jumping despite Ethan's warnings about the storm. During their jump out of the plane, Walker - ironically - is struck by lightning but Ethan manages to save his life after providing him with his own oxygen and the 2 successfully manage to land.\nAt the gala, they find John Lark with the intention of Ethan stealing his face and voice to pose as him for the white widow. Lark ends up fighting back at them in the toilets however where Ilsa unexpectedly shows up and kills Lark by shooting him in the face. With no face to make a mask, Ethan then goes to the white widow pretending to be Lark with Ilsa warning him that if he does, he will die as many operatives are in Paris to kill Lark. Ethan is successful in winning the widow's trust and they manage to escape from the assassins sent to kill Lark with help from Walker and Ilsa.\nIt turns out that the widow only has 1 plutonium core and that for the other 2 cores, Solomon Lane must be handed to her courier (who is working for The Apostles) in London, England. The only way to do this is extract Lane from a police transfer whom since being captured, has been interrogated and interviewed by many governments around the world. Ethan surmised that all police officers have to be killed in the process, which shocks him inside. However, Ethan agrees to the deal pretending that he has no line (since he is posing as Lark).\nDuring the event itself, Ethan takes the help of the widow's men, including her brother. However, Ethan changes his plan without informing such that no cop has to be killed. Lane's van is pushed into the water and Ethan and Walker drive away while being chased by the police. In the meantime, Benji and Luther extract Lane underwater. Walker and Ethan switch from their truck to motorbikes which they already set up and while Walker manages to get away, due to technical difficulties, Ethan's cover is blown. However, he manages to escape and the team now has Lane under their custody. When they come out into the open, a cop lady finds them in an awkward moment. The widow's men catch up with them and shoot the cop and then point their guns at Ethan for betraying them. Ethan quickly makes a decision and kills those men and saves the cop's life. They proceed to take Lane to the widow in their car when a mysterious person on a motorbike targets them. This turns out to be Ilsa who ends up revealing that she is being forced to kill Lane by British intelligence due to all the secrets he has on them. Ethan has no choice but to evade her so as to keep Lane alive. They manage to find a tracking device planted in Lane and take it out.\nEthan manages to have Lane abducted to await exchange of him to the widow's courier for the 2 cores. Walker provides documents to Salone with a theory on how Ethan might in fact be John Lark based on losing the cores in Berlin as well as pretending to be Lark in Paris as a means to frame him. The team then get ready to have Benji take on Lane's appearance and voice due to not intending to actually hand him over. However Agent Hunley is already waiting for them at their hideout who says the operation is a failure and is a trap. Ethan disagrees and wants to continue on. An argument breaks. It is revealed that there is no courier but that the widow is actually a CIA employee who needs Lane to buy her good will following several bad calls in the past. Walker is then shockingly revealed to be in allegiance to Lane and the real John Lark when he states to a captured Lane how the deal was for him to get all 3 cores in exchange for framing Hunt meaning he already has the 2 cores to begin with. It turns out Walker has confessed this to Benji and not Lane which has also been recorded. Salone, who has been hearing all of this through Hunley's phone says she does not trust anybody anymore and sends her men to get them. However, some of those men turn out to be Walker's men and a gunfight pursues. Ilsa manages to catch up at this point and is also dragged into the fight.\nWalker ends up killing IMF director Hanley and escapes along with Lane. However, Luther smartly implanted a tracker on Walker giving Ethan a chance to to pursue Walker. He catches up but Walker reveals that if Ethan does anything, Walker will kill his wife. Walker then escapes in a chopper with Lane.\nBased on their tracking device they implanted in Lane (which they did when they took the other one out), the team find out he is headed to Kashmir. Benji also discovers that if 1 core (bomb) was to be disarmed, the other would immediately begin countdown. After eventually arriving in Kashmir, Benji finds out that the only way to disarm the 2 bombs is by removing the key from the remote detonator but only after the countdown on both cores has been initiated. Disarming the 2 cores before the key has been removed will result in the cores going off. They also realize that based on the location of the 2 cores, Walker plans to wipe out the entire water supply of China, Pakistan and India and cause 1/3 of the world's population to starve. They head to a medical facility in Kashmir which is where they track Lane but Ethan instead finds his wife Julia and that she has also remarried.\nLuther and Julia manage to find the 1st core and after the 15 Minute countdown begins, they begin to disarm it with Benji and Ilsa going after the location of the 2nd. Two helicopters take off from Kashmir with the detonator being in the possession of Walker. Ethan manages to grab onto the payload of the 2nd helicopter and climb up to the inside where he takes out both the driver and his guard and takes control of the helicopter. A lengthy chase then occurs with Ethan pursuing Walker whom is in the other helicopter. Ilsa manages to find the 2nd core but is knocked out and tied up by Lane whom also takes Benji captive. She manages to break out and knock out Lane as well as save Benji and the 2 of them begin to disarm the 2nd core. Ethan manages to ram Walker's helicopter and also causes the hook on his helicopter to set off steam from his helicopter which disfigures him. The 2 then take part in a fistfight at the edge of a cliff. Walker being naturally beefier than Ethan gains the upper hand. Ethan uses momentum to counter which results in them hanging off the cliff by holding on to the helicopter rope. Ethan manages to have the hook hit Walker in the face where he falls along with the helicopter and dies. Ethan then removes the key from the detonator 1 second before Benji and Ilsa disarm the 2nd core.\nSalone arrives there with her men and save Ethan. Lane is once again captured and taken to MI6 and Julia thanks Ethan for giving her the life she currently has based on his willingness to do good."
+}

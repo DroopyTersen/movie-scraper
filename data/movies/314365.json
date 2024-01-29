@@ -1,0 +1,896 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/bF8GCJ3ZLlS5nLwDlL3CTljdXzN.jpg",
+  "id": 314365,
+  "title": "Spotlight",
+  "poster_path": "https://image.tmdb.org/t/p/w500/gWkgMnIsd8Od7iyhEEKL5G4Qq6J.jpg",
+  "release_date": "2015-11-06",
+  "vote_average": 7.817,
+  "vote_count": 7898,
+  "popularity": 20.889,
+  "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+  "imdb_id": "tt1895587",
+  "budget": 20000000,
+  "homepage": "http://www.spotlightthefilm.com",
+  "revenue": 98700000,
+  "runtime": 129,
+  "tagline": "Break the story. Break the silence.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Participant",
+    "Anonymous Content",
+    "Rocklin / Faust",
+    "First Look Media",
+    "Open Road Films",
+    "Entertainment One",
+    "Topic Studios",
+    "Seville International"
+  ],
+  "production_countries": [
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Mark Ruffalo",
+        "character": "Michael Rezendes"
+      },
+      {
+        "name": "Michael Keaton",
+        "character": "Walter 'Robby' Robinson"
+      },
+      {
+        "name": "Rachel McAdams",
+        "character": "Sacha Pfeiffer"
+      },
+      {
+        "name": "Liev Schreiber",
+        "character": "Marty Baron"
+      },
+      {
+        "name": "John Slattery",
+        "character": "Ben Bradlee Jr."
+      },
+      {
+        "name": "Brian d'Arcy James",
+        "character": "Matt Carroll"
+      },
+      {
+        "name": "Stanley Tucci",
+        "character": "Mitchell Garabedian"
+      },
+      {
+        "name": "Elena Wohl",
+        "character": "Barbara"
+      },
+      {
+        "name": "Gene Amoroso",
+        "character": "Steve Kurkjian"
+      },
+      {
+        "name": "Doug Murray",
+        "character": "Peter Canellos"
+      },
+      {
+        "name": "Sharon McFarlane",
+        "character": "Helen Donovan"
+      },
+      {
+        "name": "Jamey Sheridan",
+        "character": "Jim Sullivan"
+      },
+      {
+        "name": "Neal Huff",
+        "character": "Phil Saviano"
+      },
+      {
+        "name": "Billy Crudup",
+        "character": "Eric Macleish"
+      },
+      {
+        "name": "Robert B. Kennedy",
+        "character": "Court Clerk Mark"
+      },
+      {
+        "name": "Duane Murray",
+        "character": "Hansi Kalkofen"
+      },
+      {
+        "name": "Brian Chamberlain",
+        "character": "Paul Burke"
+      },
+      {
+        "name": "Michael Cyril Creighton",
+        "character": "Joe Crowley"
+      },
+      {
+        "name": "Paul Guilfoyle",
+        "character": "Peter Conley"
+      },
+      {
+        "name": "Michael Countryman",
+        "character": "Richard Gilman"
+      },
+      {
+        "name": "Tim Whalen",
+        "character": "Young Cop"
+      },
+      {
+        "name": "Martin Roach",
+        "character": "Cop in Coffee Shop"
+      },
+      {
+        "name": "Brad Borbridge",
+        "character": "Sports Editor"
+      },
+      {
+        "name": "Don Allison",
+        "character": "Bishop"
+      },
+      {
+        "name": "Patty Ross",
+        "character": "Linda"
+      },
+      {
+        "name": "Paloma Nuñez",
+        "character": "Garabedian's Receptionist"
+      },
+      {
+        "name": "Robert Clarke",
+        "character": "Judge Volterra"
+      },
+      {
+        "name": "Gary Galone",
+        "character": "Jack Dunn"
+      },
+      {
+        "name": "David Fraser",
+        "character": "Jon Albano"
+      },
+      {
+        "name": "Paulette Sinclair",
+        "character": "Receptionist at Judge's Chambers"
+      },
+      {
+        "name": "Laurie Heineman",
+        "character": "Judge Sweeney"
+      },
+      {
+        "name": "Elena Juatco",
+        "character": "Guest List Woman"
+      },
+      {
+        "name": "Nancy Villone",
+        "character": "Maryetta Dussourd"
+      },
+      {
+        "name": "Wendy Merry",
+        "character": "Female Editor"
+      },
+      {
+        "name": "Siobhan Murphy",
+        "character": "Intern"
+      },
+      {
+        "name": "Eileen Padua",
+        "character": "Sacha's Grandmother"
+      },
+      {
+        "name": "Darrin Baker",
+        "character": "Middle Age Priest at St. Peter's"
+      },
+      {
+        "name": "Brett Cramp",
+        "character": "Middle Aged Man"
+      },
+      {
+        "name": "Joe Stapleton",
+        "character": "Older Cop"
+      },
+      {
+        "name": "Maureen Keiller",
+        "character": "Eileen McNamara"
+      },
+      {
+        "name": "Jimmy LeBlanc",
+        "character": "Patrick McSorley"
+      },
+      {
+        "name": "Tim Progosh",
+        "character": "Principal Bill Kemeza"
+      },
+      {
+        "name": "Neion George",
+        "character": "Waiter at Gala"
+      },
+      {
+        "name": "Laurie Murdoch",
+        "character": "Wilson Rogers"
+      },
+      {
+        "name": "Zarrin Darnell-Martin",
+        "character": "Intern Wanda"
+      },
+      {
+        "name": "Krista Morin",
+        "character": "Young Reporter"
+      },
+      {
+        "name": "Paula Barrett",
+        "character": "Jim's Wife"
+      },
+      {
+        "name": "Mairtin O'Carrigan",
+        "character": "Stewart"
+      },
+      {
+        "name": "Rob deLeeuw",
+        "character": "Herald Reporter Quimby"
+      },
+      {
+        "name": "Nancy E. Carroll",
+        "character": "Jane Paquin"
+      },
+      {
+        "name": "Anthony Paolucci",
+        "character": "Kevin"
+      },
+      {
+        "name": "Michele Proude",
+        "character": "Lisa Tuite"
+      },
+      {
+        "name": "Richard O'Rourke",
+        "character": "Ronald Paquin"
+      },
+      {
+        "name": "Len Cariou",
+        "character": "Cardinal Law"
+      },
+      {
+        "name": "Dennis Lynch",
+        "character": "Clerk O'Brian"
+      },
+      {
+        "name": "Stefanie Drummond",
+        "character": "Sheila"
+      },
+      {
+        "name": "Mark McGrinder",
+        "character": "Weeping Man"
+      },
+      {
+        "name": "Richard Fitzpatrick",
+        "character": "Rectory Priest"
+      },
+      {
+        "name": "Tom Driscoll",
+        "character": "Disgruntled Man"
+      },
+      {
+        "name": "Jeffrey Samai",
+        "character": "Library Security"
+      },
+      {
+        "name": "Moira Driscoll",
+        "character": "Woman Interviewee"
+      },
+      {
+        "name": "Forrest Weber",
+        "character": "Angry Man"
+      },
+      {
+        "name": "Doreen Spencer",
+        "character": "Older Southie Woman"
+      },
+      {
+        "name": "Janet Pinnick",
+        "character": "Receptionist"
+      },
+      {
+        "name": "Shannon McDonough",
+        "character": "Receptionist"
+      },
+      {
+        "name": "Shannon Ruth",
+        "character": "Girl at Garabedian's"
+      },
+      {
+        "name": "Daniel Ruth",
+        "character": "Boy at Garabedian's"
+      },
+      {
+        "name": "Jennifer Ruth",
+        "character": "Mother at Garabedian's"
+      },
+      {
+        "name": "Timothy Mooney",
+        "character": "Bad Priest"
+      },
+      {
+        "name": "Bruce-Robert Serafin",
+        "character": "Boston Globe Security Guard"
+      },
+      {
+        "name": "Donna Sue Jahier",
+        "character": "Angry Man's Sister"
+      },
+      {
+        "name": "Edward Brickley",
+        "character": "Red Sox Announcer (voice)"
+      },
+      {
+        "name": "Richard Jenkins",
+        "character": "Richard Sipe (voice) (uncredited)"
+      },
+      {
+        "name": "Elena Khan",
+        "character": "Boston Reporter (uncredited)"
+      },
+      {
+        "name": "Teresa Wilson",
+        "character": "Maureen (uncredited)"
+      },
+      {
+        "name": "Amy Whalen",
+        "character": "Pedestrian (uncredited)"
+      },
+      {
+        "name": "John Franchi",
+        "character": "Pedestrian (uncredited)"
+      },
+      {
+        "name": "Peter Lewis Walsh",
+        "character": "Red Sox Fan (uncredited)"
+      },
+      {
+        "name": "Lance Norris",
+        "character": "Driver (uncredited)"
+      },
+      {
+        "name": "Harold Rudolph",
+        "character": "Lawyer (uncredited)"
+      },
+      {
+        "name": "Colleen Kelly",
+        "character": "Librarian (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steve Golin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Howard Shore",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Kerry Barden",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jonathan King",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Tom McArdle",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Tom McCarthy",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Tom McCarthy",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Brenda McNally",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Paul Schnee",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Wendy Chuck",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Jeff Skoll",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Paul Hsu",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Michael Sugar",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tom Ortenberg",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Shane Vieau",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Xavier Marchand",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Marko Costanzo",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Marissa Littlefield",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Morris Flam",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Masanobu Takayanagi",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Andrew Pang",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Jason Knight",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jordan Samuel",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Cathy Shibley",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "John Buchan",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Walter Gasparovic",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Bobby Beckles",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Stephen H. Carter",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Michael Bederman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Gilles Corbeil",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Kerry Hayes",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Josh Singer",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Josh Singer",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Colin Davies",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jeffrey Lee Gibson",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Frank Kern",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Virginia B. Johnson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Kathleen Meade",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Robyn Rosenberg",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Christopher Geggie",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Dug Rotstein",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Vanessa Knoll",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Neishaw Ali",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Branko Racki",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "William Cheng",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jennifer Dunnington",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Christa Tazzeo",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Henry Tirl",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Jessica Drake",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Tom Starnes",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Karola Dirnberger",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Dusty Reeves",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Kate Churchill",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Branka Mrkic",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Nichole Pleau",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Seacia Pavao",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Chad Birmingham",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Brandon Terry",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Kelly Shanks",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Jenna Dayton",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Philippe Majdalani",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Renee Fontana",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Heather Gross",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Mary Ramos",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Pierre Omidyar",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Bard Dorros",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Peter Lawson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Nicole Rocklin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Blye Pagon Faust",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mario Cacioppo",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ahmed Shehata",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Youtchi von Lintel",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "David Mizner",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Shawnna Thibodeau",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Patrick Stepien",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Joseph Micomonaco",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Matt Bouldry",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Joey Montenarello",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Adam Richards",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Maura Smith",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Taryn Walsh",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Greg Wimer",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Jason Dodds",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "James R. Mitchell",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Daryl Richardson",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Kayla Cabral",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Mike Barber",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Michaela Cheyne",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Patricia Keighran",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Edward Hanrahan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Jeff Poulis",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Elspeth Cassar",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "John MacNeil",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Karl Denniston Brown",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Nathan Alexander Kirk",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Don McQueen",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Toni Wong",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Mike Duffy",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Stephen Gabis",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      }
+    ]
+  },
+  "keywords": [
+    "pedophilia",
+    "florida",
+    "newspaper",
+    "child abuse",
+    "court",
+    "judge",
+    "boston, massachusetts",
+    "journalism",
+    "sex scandal",
+    "victim",
+    "based on true story",
+    "cover-up",
+    "priest",
+    "conspiracy",
+    "lawyer",
+    "historical fiction",
+    "catholic",
+    "catholic church",
+    "lgbt",
+    "catholicism",
+    "9/11",
+    "child molestation",
+    "archdiocese",
+    "investigative journalism",
+    "cardinal"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+    "When the Boston Globe's tenacious \"Spotlight\" team of reporters delves into allegations of abuse in the Catholic Church, their year-long investigation uncovers a decades-long cover-up at the highest levels of Boston's religious, legal, and government establishment, touching off a wave of revelations around the world.—Open Road",
+    "In existence since the 1970s, Spotlight is the investigative reporting unit of the Boston Globe. They can spend months or years on a single story, which they choose amongst themselves. As such, they are somewhat autonomous from the rest of the newspaper, only needing to report to their superior. As a rule, they are not to discuss their work with anyone else, whether it be other staff, friends and or family. In 2001, the four person team consisted of its editor Walter Robinson - Robby to his friends - and his team of three investigative journalists, Michael Rezendes, Sacha Pfeiffer and Matt Carroll. Robby reports to the assistant managing editor, Ben Bradlee Jr.. Upon his arrival from his most recent position in Florida, Marty Baron, the newly appointed editor-in-chief. Mr. Baron requests Spotlight to place their current project on hold and dig deeper into a recent story written by fellow Globe reporter and columnist Eileen McNamara, regarding allegations against a Catholic priest of sexual abuse of a minor and what appears to be the subsequent cover-up by the head of the Archdiocese of Boston, Cardinal Bernard Law. They are at first hesitant to work on the story, seeing Baron as an outsider to Boston, he who doesn't understand what is important to locals. Baron's outsider status includes not being born and raised there, and not being Catholic (he being the Globe's first Jewish editor-in-chief). Spotlights first task is to see if they can get some court documents on the case unsealed, which means they will need a court order. The Church and its parishioners could falsely interpret this as The Globe suing the Catholic church. This could have major, negative consequences for The Globe due to the fact that a majority of their subscribers are Catholic. Robby and his team begin by speaking to lawyers who have or are working on alleged sexual abuse cases perpetrated by Catholic priests in and immediately surrounding Boston (those lawyers said including Eric MacLeish and Mitchell Garabedian), known victims (such as Phil Saviano, the head of the Survivors Network of those Abused by Priests (SNAP)) and insiders in the Catholic church. Through this investigation, they get wind that the problem is not contained to a couple of priests and few victims, in essence changing the focus from the priest(s) to the systemic problem of the Archdiocese not only covering up the abuse but in reality doing nothing to stop it and thus condoning it. Their goal is not only the end product of an important story, but making sure that the other major local newspapers, such as the Boston Herald, do not beat them to the scant outline of the story in the public consciousness which the Catholic church could easily quash. Through it all, they may come to some unpleasant realizations that not only the Archdiocese and the Catholic church in general are to blame for what happened.—Huggo",
+    "In 2001, editor Marty Baron of The Boston Globe assigns a team of journalists to investigate allegations against John Geoghan, an unfrocked priest accused of molesting more than 80 boys. Led by editor Walter \"Robby\" Robinson, reporters Michael Rezendes, Matt Carroll and Sacha Pfeiffer interview victims and try to unseal sensitive documents. The reporters make it their mission to provide proof of a cover-up of sexual abuse within the Roman Catholic Church.—Jwelch5742",
+    "The true story of how, in 2001, reporters at the Boston Globe investigated accusations of Catholic priests in Boston molesting children. Following on from leads, interviews with victims, existing court cases and extensive research they reveal decades of abuse. They discover that the issue was far wider spread than they at first believed, that senior members of the diocese were aware of the issue and that the church systemically covered up the crimes.—grantss"
+  ],
+  "synopsis": "In 2001, The Boston Globe hires a new editor, Marty Baron (Liev Schreiber). Baron meets Walter \"Robby\" Robinson (Michael Keaton), the editor of the Spotlight team, a small group of journalists writing investigative articles that take months to research and publish. Robby says that his team reports into Ben Bradlee Jr. (John Slattery), who has so far supported the Spotlight team completely.After Baron reads a Globe column about a lawyer, Mitchell Garabedian, who says that Cardinal Law (the Archbishop of Boston) knew that the priest John Geoghan was sexually abusing children and did nothing to stop him, he urges the Spotlight team to investigate. Marty talks to the DA about lifting a seal on a set of documents in possession of the church that Garabedian claims can prove that Cardinal Law knew about the systemic abuses by priests for a number of years and yet did nothing about it.Robby and his colleague Sacha Pfeiffer (Rachel McAdams) speak to the company lawyer Eric Macleish, who advises Robby that the statute of limitations on sexual abuse cases is only 3 years and mostly victims don't come before the law till long after the act. even then damages are capped to $ 20,000 per abuse. So, the only way to proceed is to try the cases in press, which won't happen unless the victims agree to come forward voluntarily to tell their story on TV. Eric believes that Garabedian does not have anything on Cardinal Law & most of his 80 plaintiffs are not cooperating with him.Journalist Michael Rezendes (Mark Ruffalo) contacts Garabedian, who initially declines interview. Though he is told not to, Rezendes reveals that he is on the Spotlight team, persuading Garabedian to talk.\nThere are subtle hints in the movie that most people refuse to cooperate with the Spotlight team as they believe that the editor Marty (who is Jewish, unmarried & no family), is anti-Catholic and is hence pushing the Spotlight team to continue with the investigation.Initially believing that they are following the story of one priest who was moved around several times, the Spotlight team begin to uncover a pattern of sexual abuse of children by Catholic priests in Massachusetts, and an ongoing cover-up by the Boston Archdiocese. Through a man Paul Saviano, who heads a victim's rights organization, they widen their search to thirteen priests.Robby shares his findings with Ben, who asks Robby to ignore Saviano. Robby tells his team to start ignoring everyone with regard to this case & pursue it completely. As the investigation proceeds, Sacha and Marty speak to a number of victims, who say that Paul Saviano had introduced them to a lawyer (who turns out to be Eric Macleish), who had discouraged them from pursuing the latter legally. Robby & Sacha speak to Eric who says that all settlements were handled privately between the victim and the church, nothing was ever filed in court. Eric says that the church always promised to take the offending priest out of circulation, but there was never any way to confirm that. Eric was completely in on the cover up.They learn through an ex-priest who worked trying to rehabilitate pedophile priests that there should be approximately ninety abusive priests in Boston. Through their research, they develop a list of eighty-seven names, and begin to find their victims to back up their suspicions.\nRobby and Sacha again meet Macleish to get him to give them a list of priests for whom he ran settlements. Robby even threatens Eric for it. Eric says that he sent a list of 20 priests to the paper in 1987, but it was buried. The next morning Eric sends a list of 45 priests for whom he ran settlements.When the September 11 attacks occur, the team is forced to push the story to the back burner. They regain momentum when Rezendes learns from Garabedian that there are publicly available documents that confirm Cardinal Law was aware of the problem and ignored it.\nAfter The Boston Globe wins a case to have even more legal documents unsealed, the Spotlight Team finally begins to write the story, and plan to publish their findings in early 2002.As they are about to go to print, Robinson confesses to the team that he was sent a list of twenty pedophile priests in 1993 in a story he never followed up on. Baron, nevertheless, tells Robinson and the team that the work they are doing is important. The story goes to print with a link leading to the documents that expose Cardinal Law, and a phone number requesting victims of pedophile priests to come forward. The following morning, the Spotlight team is inundated with phone calls from victims coming forward to tell their stories. The film closes with a list of places in the United States and around the world where the Catholic Church has been involved in concealing abuse by priests. By December 2002, The Spotlight team published 600 stories of abuse by 249 priests in Boston alone.Cardinal Law resigned in December 2002. He was re-assigned to Rome, at one of the highest-ranking churches in the world."
+}

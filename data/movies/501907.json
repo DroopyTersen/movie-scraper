@@ -1,0 +1,973 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cSJMk9Jar8SibFXL8JAF9p2fhKu.jpg",
+  "id": 501907,
+  "title": "A Beautiful Day in the Neighborhood",
+  "poster_path": "https://image.tmdb.org/t/p/w500/p9vCAVhDK375XyobVcKqzqzsUHE.jpg",
+  "release_date": "2019-09-07",
+  "vote_average": 6.993,
+  "vote_count": 1491,
+  "popularity": 19.908,
+  "overview": "An award-winning cynical journalist, Lloyd Vogel, begrudgingly accepts an assignment to write an Esquire profile piece on the beloved television icon Fred Rogers. After his encounter with Rogers, Vogel's perspective on life is transformed.",
+  "imdb_id": "tt3224458",
+  "budget": 25000000,
+  "homepage": "https://www.abeautifulday.movie/",
+  "revenue": 67900000,
+  "runtime": 109,
+  "tagline": "Neighbor. Icon. Friend.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "TriStar Pictures",
+    "Tencent Pictures",
+    "Big Beach"
+  ],
+  "production_countries": [
+    "CN",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Matthew Rhys",
+        "character": "Lloyd Vogel"
+      },
+      {
+        "name": "Tom Hanks",
+        "character": "Fred Rogers"
+      },
+      {
+        "name": "Chris Cooper",
+        "character": "Jerry Vogel"
+      },
+      {
+        "name": "Susan Kelechi Watson",
+        "character": "Andrea Vogel"
+      },
+      {
+        "name": "Maryann Plunkett",
+        "character": "Joanne Rogers"
+      },
+      {
+        "name": "Enrico Colantoni",
+        "character": "Bill Isler"
+      },
+      {
+        "name": "Wendy Makkena",
+        "character": "Dorothy Vogel"
+      },
+      {
+        "name": "Tammy Blanchard",
+        "character": "Lorraine Vogel"
+      },
+      {
+        "name": "Noah Harpster",
+        "character": "Todd"
+      },
+      {
+        "name": "Carmen Cusack",
+        "character": "Margy Whitmer"
+      },
+      {
+        "name": "Kelley Davis",
+        "character": "First AD"
+      },
+      {
+        "name": "Christine Lahti",
+        "character": "Ellen"
+      },
+      {
+        "name": "Maddie Corman",
+        "character": "Betty Aberlin"
+      },
+      {
+        "name": "Daniel Krell",
+        "character": "Mr. McFeely"
+      },
+      {
+        "name": "Jon L Peacock",
+        "character": "Sound Technician"
+      },
+      {
+        "name": "Gretchen Koerner",
+        "character": "Doctor"
+      },
+      {
+        "name": "Gavin Borders",
+        "character": "Young Boy"
+      },
+      {
+        "name": "Mark August",
+        "character": "Young Boy's Dad"
+      },
+      {
+        "name": "Tressa Glover",
+        "character": "Young Boy's Mom"
+      },
+      {
+        "name": "Jessica Hecht",
+        "character": "Lila Vogel"
+      },
+      {
+        "name": "Di Zhu",
+        "character": "Waitress"
+      },
+      {
+        "name": "Diane Monroe",
+        "character": "Uptown String Quartet"
+      },
+      {
+        "name": "Maxine Roach",
+        "character": "Uptown String Quartet"
+      },
+      {
+        "name": "Lesa Terry",
+        "character": "Uptown String Quartet"
+      },
+      {
+        "name": "Tahirah Whittington",
+        "character": "Uptown String Quartet"
+      },
+      {
+        "name": "Nigel Swinson",
+        "character": "Subway Singer"
+      },
+      {
+        "name": "Kayla Fan",
+        "character": "Subway Singer"
+      },
+      {
+        "name": "Alexander Ment",
+        "character": "Subway Singer"
+      },
+      {
+        "name": "Madeline Ment",
+        "character": "Subway Singer"
+      },
+      {
+        "name": "Olivia Irene Ruiz",
+        "character": "Subway Singer"
+      },
+      {
+        "name": "Kiesse Yengo-Passy",
+        "character": "Subway Singer"
+      },
+      {
+        "name": "Marcel Kottmann",
+        "character": "Subway Singer"
+      },
+      {
+        "name": "John Castagliola",
+        "character": "Subway Singer"
+      },
+      {
+        "name": "Preston Lopez",
+        "character": "Subway Singer"
+      },
+      {
+        "name": "Reginald Bannerman",
+        "character": "Subway Singer"
+      },
+      {
+        "name": "Spencer Lott",
+        "character": "Puppeteer"
+      },
+      {
+        "name": "Haley Jenkins",
+        "character": "Puppeteer"
+      },
+      {
+        "name": "Marc Petrosino",
+        "character": "Puppeteer"
+      },
+      {
+        "name": "Kathleen Kim",
+        "character": "Puppeteer"
+      },
+      {
+        "name": "Kathleen Antonia",
+        "character": "Phone Operator (uncredited)"
+      },
+      {
+        "name": "Saira Awan",
+        "character": "Nurse Miscellaneous Crew (uncredited)"
+      },
+      {
+        "name": "Krizia Bajos",
+        "character": "Argentinian Girl (uncredited)"
+      },
+      {
+        "name": "Tom Bonello",
+        "character": "WQED Grip and Electric (uncredited)"
+      },
+      {
+        "name": "Gregory Bromfield",
+        "character": "Awards Banquet Waiter (uncredited)"
+      },
+      {
+        "name": "Francesca Calo",
+        "character": "Train Passenger (uncredited)"
+      },
+      {
+        "name": "Kitty Crystal",
+        "character": "Subway Punk (uncredited)"
+      },
+      {
+        "name": "Amy Lyn Elliott",
+        "character": "WQED Makeup Artist (uncredited)"
+      },
+      {
+        "name": "Joe Fishel",
+        "character": "Journalist (uncredited)"
+      },
+      {
+        "name": "Nate Heller",
+        "character": "Wedding Band Lead Guitarist (uncredited)"
+      },
+      {
+        "name": "Bill Isler",
+        "character": "Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "Kevin L. Johnson",
+        "character": "Darin Scharf (uncredited)"
+      },
+      {
+        "name": "Rosie Koster",
+        "character": "Esquire Employee (uncredited)"
+      },
+      {
+        "name": "Michael Masini",
+        "character": "Richie (uncredited)"
+      },
+      {
+        "name": "Kirsten McCain",
+        "character": "Gala Attendee (uncredited)"
+      },
+      {
+        "name": "Patrick McDade",
+        "character": "Rick (uncredited)"
+      },
+      {
+        "name": "David Newell",
+        "character": "Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "Trevor Stevie Ray Ontiveros",
+        "character": "New Yorker (uncredited)"
+      },
+      {
+        "name": "Keith Otto",
+        "character": "Gala Attendee (uncredited)"
+      },
+      {
+        "name": "Khary Payton",
+        "character": "Arthur Mendez - Telegraph Clerk (uncredited)"
+      },
+      {
+        "name": "Alex Pérez",
+        "character": "Parent (uncredited)"
+      },
+      {
+        "name": "Katrina E. Perkins",
+        "character": "Mr. Rogers Superfan (uncredited)"
+      },
+      {
+        "name": "Jivan Xander Ramesh",
+        "character": "Mr. Rogers' Fan (uncredited)"
+      },
+      {
+        "name": "Scott Rapp",
+        "character": "Bartender (uncredited)"
+      },
+      {
+        "name": "Fred Rogers",
+        "character": "Self (archive footage) (uncredited)"
+      },
+      {
+        "name": "Joanne Rogers",
+        "character": "Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "Edlyn Sabrina",
+        "character": "Gala Guest (uncredited)"
+      },
+      {
+        "name": "Erika Shrout",
+        "character": "Mother (uncredited)"
+      },
+      {
+        "name": "Laura Faye Smith",
+        "character": "Julia Henderson - Fred's Secretary (uncredited)"
+      },
+      {
+        "name": "Rebecca Watson",
+        "character": "Diana (uncredited)"
+      },
+      {
+        "name": "Stephen West-Rogers",
+        "character": "Peter (uncredited)"
+      },
+      {
+        "name": "Ted Williams",
+        "character": "WQED Electrician (uncredited)"
+      },
+      {
+        "name": "Jackson Nunn",
+        "character": "Grip (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Avy Kaufman",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Kelley Cribben",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Peter Saraf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Marc Turtletaub",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David Boulton",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Anne McCabe",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Arjun Bhasin",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Tony Martinez",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Tony Martinez",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Gary Kosko",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jim Emswiller",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "name": "Brian 'Buzz' Buzzelli",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Adele Plauche",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jay Peck",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Mark DeSimone",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Rene Mousseux",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Howard Paar",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Jody Lee Lipes",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Jade Healy",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Doug Coleman",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Marielle Heller",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Noah Harpster",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Noah Harpster",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Bergen Swanson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Bergen Swanson",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Tom Junod",
+        "department": "Writing",
+        "job": "Original Concept"
+      },
+      {
+        "name": "Youree Henley",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Christopher Patrick",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Merissa Lombardo",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Micah Fitzerman-Blue",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Micah Fitzerman-Blue",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ross Dunkerley",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Gregory A. Weimerskirch",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Sam Ellison",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Ma Kalaadevi Ananda",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Darcie Buterbaugh",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Damian Volpe",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Damian Volpe",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Damian Volpe",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Sean Garnhart",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Brian Machleit",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Donald A. Kraus",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Glenfield Payne",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Lacey Terrell",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "John M. Davis",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Donita Miller",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Janice F. Sperling",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Darylin Nagy",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Tony Ward",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Rebecca Breckel",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Leah Holzer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Nate Heller",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Aurelia Winborn",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Michael Miller",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Corey Sweazen",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Candace Orlandi",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Jason Renner",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Richard E. Chapla Jr.",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Buzzy Burwell",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Tim Davies",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Tim Davies",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Buster Pile",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Philip Schneider",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Michael G. Richer",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Raymond M. Tasillo",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Tomas Deckaj",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Bill Sweeney",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Bill Sweeney",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "Josh Child",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Tonya Smay",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Frank Conforti",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Harrison Nesbit",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Amy Christensen",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Shannen Walsh",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Kim Fouche-Tipton",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Teresa Donatelli",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Brian Powers",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Alta Marie Bialon",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Ilana McAllistor",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Jillian Rose Keenist",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Alyssa Batchelor",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Wyatt Bartlett",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Bobby Johanson",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Bart Flaherty",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Steven Weigle",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Howard Chen",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Edward Cheng",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Filipe Messeder",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "David Satin",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Brad Towell",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Havilah Brewster",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Jim Dunlap",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Grant Anderson",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "John Sundquist",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eve Negley",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Emmanuelle Martin",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "David Entin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Susan Ransom-Coyle",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Adam Dicterow",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "James Hammer",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Aaron Streiner",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Cyndilee Rice",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Tori Musial",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Chelsea Lynn Peterson",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Ginny Minuto",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Gina La Monica",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Allan Barch",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Michael Zinobile",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Jason Millet",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "David Billy Cole",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Wenxin She",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Liz Hedges",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Anthony Hechanova",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Gabe Marchetti",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Teeara Donner",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Emily McElroy",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Kent Jackson",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Phil Pierre",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Brandon Marlan",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Greg Felmley",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Alexandra Somand",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Jimmy Ray Sorrells",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Sarah Jane Grande",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Mamie Stein",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Alex Ghaffari",
+        "department": "Production",
+        "job": "Casting Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "journalist",
+    "friendship",
+    "male friendship",
+    "biography",
+    "based on true story",
+    "breaking the fourth wall",
+    "kindness",
+    "estranged father",
+    "1990s",
+    "hand puppet",
+    "based on magazine, newspaper or article",
+    "tv show",
+    "television host"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Based on the true story of a real-life friendship between Fred Rogers and journalist Lloyd Vogel.",
+    "Tom Hanks portrays Fred Rogers in a timely story of kindness triumphing over cynicism, based on the true story of a real-life friendship between him and journalist Lloyd Vogel. After a jaded magazine writer (Matthew Rhys) is assigned a profile of Fred Rogers, he overcomes his skepticism, learning about empathy, kindness, and decency from America's most beloved neighbor.",
+    "Lloyd Vogel is an investigative journalist who receives an assignment to profile Fred Rogers. He approaches the interview with skepticism, as he finds it hard to believe that anyone can have such a good nature. But Fred's empathy, kindness and decency soon chips away at Lloyd's jaded outlook on life, forcing the reporter to reconcile with his own painful past.—yusufpiskin",
+    "Cynical, jaded investigative journalist Lloyd Vogel gets an assignment he feels is beneath him: interview and write a short article on the much-loved children's TV personality Fred Rogers. Vogel is battling his own demons, not least of which is a long-running animosity towards his father, going back to when his mother died.—grantss",
+    "A look at the life, career, and legacy of children's entertainer, Fred Rogers, at the time that he developed a friendship with a magazine writer and his family. The friendship turned out to help both of them in multiple ways to help their lives.—RECB3"
+  ],
+  "synopsis": "The film opens as one large episode of the Mr. Rogers show - Fred Rogers (Tom Hanks) talks directly to the audience, welcoming us and sings \"A Beautiful Day in the Neighborhood\". He shows us pictures of some of his friends, and finally shows us a picture of Lloyd Vogel (Matthew Rhys) - it's a picture of him looking anguished with a bloody nose. He explains that Lloyd had a lot of anger and had to learn about forgiveness.In 1998, Lloyd is an accredited investigative journalist who has just had his first baby with his wife Andrea (Susan Kelechi Watson). As they get ready for Lloyd's sister Lorraine (Tammy Blanchard)'s wedding, Andrea tells Lloyd that his father will be there. He is angry but attends anyway and sees his father Jerry (Chris Cooper) who has not seen in years. Jerry corners him into talking and brings up Lloyd's mother, and Lloyd hits him - other wedding attendees get involved, and wine gets spilled all over Lorraine's wedding dress and someone punches Lloyd in the face, and he becomes the picture Mr. Rogers showed the audience at the start.His editor Ellen (Christine Lahti) assigns him a profile for their upcoming issue on heroes: Mr. Rogers. Lloyd has no interest, but she tells him that no other subject would agree to be interviewed by him: most of his pieces are take-downs of their subjects. When he gets home, Jerry is waiting outside his apartment to talk to him. He ignores Jerry, who waits outside his apartment for two days before giving up.Lloyd leaves for Pittsburgh leaving Andrea home with the baby. He meets Bill Eisler (Enrico Colantoni), the president of Mr. Rogers production company, who is suspicious of him, having read his pieces. Finally he meets Mr. Rogers, who is incredibly kind to him. Lloyd keeps looking for what the catch is, but can't find it. Mr. Rogers asks how he hurt his eye, and when Lloyd tells him about the fight with his father, Mr. Rogers is sincerely concerned for him. An associate cuts their interview short and Lloyd returns home.Shortly after, Mr. Rogers is in New York and invites Lloyd to spend the day with him. He meets Mrs. Joanne Rogers (Maryann Plunkett), who again tells him there's no catch with Mr. Rogers. Lloyd and Mr. Rogers take the subway where the people of New York begin singing \"A Beautiful Day in the Neighborhood\". At Mr. Rogers's apartment, Lloyd keeps asking him tough questions trying to peel back his layers. But Mr. Rogers deflects and takes out his puppets and ends up finding more about Lloyd's childhood - about how his mother died when he was young and how he also had a special toy named \"Old Rabbit\". Mr. Rogers asks about his father, and Lloyd becomes upset and defensive and leaves.When he gets home, Jerry and his long-term girlfriend Dorothy (Wendy Makenna) are there making dinner with Andrea. Lloyd wants them to leave, and he and Jerry get into a shooting match because Lloyd can't forgive Jerry for cheating on and abandoning his mother and their family while his mother was dying. Jerry pleadingly apologizes and then has a heart attack. At the hospital, the family finds out Jerry is dying and does not have much time left. Lloyd hates hospitals since his mother died and decides to leave to go back to Philadelphia - Andrea is angry at him for abandoning his family and tells him to stay, but he goes anyway.In Pittsburgh, Lloyd passes out from exhaustion and has a dream where he is the puppet Old Rabbit in King Friday's kingdom instead of Daniel Tiger, and Andrea is Lady Aberlin. He then sees his mother on her deathbed and she tells him he doesn't need to hold onto anger for her. He wakes up at the Rogers home to find Mr. and Mrs. Rogers playing piano. Mr. Rogers takes him to lunch. During the conversation, he tells Lloyd to take one minute of silence to think of all the people who loved him into being. Then looks out at us, the audience, so we can as well.He returns home and apologizes to Andrea and tells her how scared he is and how much he needs her. They move into Jerry's home to take care of him while he's dying. Jerry and Lloyd are able to make peace, and Lloyd writes a massive article about Mr. Rogers that becomes the cover of Esquire. During the holidays, the whole extended Vogel family is celebrating when Mr. Rogers comes by to visit. Lorraine and her husband are shocked. Mr. Rogers is thrilled to meet them all, and before leaving whispers to Jerry to pray for him. Lloyd asks why, and Mr. Rogers tells him that Jerry must be close to god right now. Jerry dies shortly after, and Lloyd tells Andrea he's going to take some time off so she can go back to work.Mr. Rogers ends the episode of his show, says goodbye to us, and leaves the set to watch the playback. As the lights shut off in the studio, he sits and plays the piano."
+}

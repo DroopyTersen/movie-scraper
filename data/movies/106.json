@@ -1,0 +1,798 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+  "id": 106,
+  "title": "Predator",
+  "poster_path": "https://image.tmdb.org/t/p/w500/vQhYhYsOBECkQzvSC3jInKv9CLf.jpg",
+  "release_date": "1987-06-12",
+  "vote_average": 7.515,
+  "vote_count": 7517,
+  "popularity": 85.368,
+  "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+  "imdb_id": "tt0093773",
+  "budget": 15000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/predator",
+  "revenue": 98267558,
+  "runtime": 107,
+  "tagline": "Soon the hunt will begin.",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Silver Pictures",
+    "20th Century Fox",
+    "Lawrence Gordon Productions",
+    "Davis Entertainment",
+    "Amercent Films",
+    "American Entertainment Partners L.P.",
+    "Estudios Churubusco Azteca S.A."
+  ],
+  "production_countries": [
+    "MX",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Arnold Schwarzenegger",
+        "character": "Major Alan \"Dutch\" Schaefer"
+      },
+      {
+        "name": "Carl Weathers",
+        "character": "Al Dillon"
+      },
+      {
+        "name": "Elpidia Carrillo",
+        "character": "Anna Gonsalves"
+      },
+      {
+        "name": "Jesse Ventura",
+        "character": "Blain Cooper"
+      },
+      {
+        "name": "Sonny Landham",
+        "character": "Billy Sole"
+      },
+      {
+        "name": "Bill Duke",
+        "character": "Mac Eliot"
+      },
+      {
+        "name": "Richard Chaves",
+        "character": "Jorge \"Poncho\" Ramirez"
+      },
+      {
+        "name": "R. G. Armstrong",
+        "character": "Major General Homer Phillips"
+      },
+      {
+        "name": "Shane Black",
+        "character": "Rick Hawkins"
+      },
+      {
+        "name": "Kevin Peter Hall",
+        "character": "Predator / Helicopter Pilot"
+      },
+      {
+        "name": "Steve Boyum",
+        "character": "Hostage Executed by the Russian (uncredited)"
+      },
+      {
+        "name": "William H. Burton Jr.",
+        "character": "Guerilla Soldier Shot Down from Tree (uncredited)"
+      },
+      {
+        "name": "Henry Kingi",
+        "character": "Guerilla Soldier Blown Up in Van (uncredited)"
+      },
+      {
+        "name": "Peter Cullen",
+        "character": "Predator (voice) (uncredited)"
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "character": "Russian Officer (uncredited)"
+      },
+      {
+        "name": "Jack Verbois",
+        "character": "Guerilla Soldier Helicopter Pilot (uncredited)"
+      },
+      {
+        "name": "Franco Columbu",
+        "character": "Medic (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Alan Silvestri",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Alan Silvestri",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Richard L. Anderson",
+        "department": "Sound",
+        "job": "Supervising Sound Effects Editor"
+      },
+      {
+        "name": "Michael Tronick",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "John McTiernan",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Joel Silver",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jim Thomas",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "name": "Jim Thomas",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lawrence Gordon",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Thomas",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "name": "Donald McAlpine",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "John Vallone",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "John Vallone",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Jackie Burch",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Mark Helfrich",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "John F. Link",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "John Davis",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jeff Dawn",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Beau Marks",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Beau Marks",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Beau Marks",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Marilyn Vance",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Anna Roth",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Jophery C. Brown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "George H. Anderson",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Jorge Sainz",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Joel Kramer",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tony Brubaker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Charles A. Tamburro",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Bobby Bass",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Kent",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jean-Claude Van Damme",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Billy DaMota",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Enrique Estévez",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Henry Kingi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James B. Campbell",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Joel Hynek",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Craig R. Baxley",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Craig R. Baxley",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Gary Wright",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Steve Boyum",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Norman Howell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Vanessa Theme Ament",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Cindy Marty",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "William Stout",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "name": "Steven Chambers",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Doug Coleman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Frank Mitchell",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "William H. Burton Sr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jack Verbois",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Efron",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Screaming Mad George",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "J.W. Kompare",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Gene Corso",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Guillermo Castillo",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Al Di Sarro",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Monty Jordan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James W. Tyson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Scott H. Eddo",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Theresa Wachter",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Nikita Knatz",
+        "department": "Art",
+        "job": "Production Illustrator"
+      },
+      {
+        "name": "Sergio Kato",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robert B. Harris",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Marion Tumen",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Kevin E. Carpenter",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Charles Enzen",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Robert Agganis",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Robert Agganis",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Zade Rosenthal",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Laurencio Cordero",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Richard Shorr",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Tommy Tomlinson",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Hank Salerno",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Dennis S. Sands",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Catherine Shorr",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Gregory J. Barnett",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Bill Voigtlander",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "David W. Gray",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "name": "David E. Stone",
+        "department": "Sound",
+        "job": "Supervising Sound Effects Editor"
+      },
+      {
+        "name": "Richard Humphreys",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dale E. Grahn",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "John Pospisil",
+        "department": "Crew",
+        "job": "Special Sound Effects"
+      },
+      {
+        "name": "Robert Hammond",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Leon Delaney",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary Baxley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eddie L. Watkins",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Francisco Ramirez",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Manuel Paredes Murillo",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Manuel Topete",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Steve Richardson",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Guillermo 'Memo' Carreño",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Bertha Chiu",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Peter McKernan",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Fernando Calvillo",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Antonio Mata",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Donald Meyers",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "name": "Tony Holtham",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Humberto Gurza",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "name": "Michael Tamburro",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Frank Richwood",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "J. Tom Archuleta",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Carlos Horcasitas",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Henry Alvarez",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Marc Fambro",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Salvador Pena",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Macedonio Ramos",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Corinne Sessarego",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Michael Bigelow",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Robert M. Greenberg",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Robert Mrozowski",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Juan Iniestra",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Grahame Litchfield",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Warren Mearns",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Patrick Nash",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Alfredo Ruvalcaba",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Alejandro Madrid Bonilla",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Gabriela Gurrola",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Jack Hooper",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "David Drazes",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Laurence Pereira",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Frank Bryson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Margarito Fuentes Gutiérrez",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Adolfo Lara",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Patti Calhoun",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Jorge Gómez",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Steve Slocomb",
+        "department": "Visual Effects",
+        "job": "Visual Effects Camera"
+      },
+      {
+        "name": "J.R. Westen",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Benito Cano",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Vic Zaslav",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Guillermo Moysen",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Antonio Ramírez 'Puma'",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Gary Goldman",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "John Oteri",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  },
+  "keywords": [
+    "guerrilla warfare",
+    "central and south america",
+    "predator",
+    "trap",
+    "alien",
+    "survival",
+    "stalking",
+    "creature",
+    "alien invasion",
+    "invisible",
+    "commando",
+    "violence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
+    "A team of special force ops, led by a tough but fair soldier, Major \"Dutch\" Schaefer, are ordered to assist CIA man, Colonel Al Dillon, on a rescue mission for potential survivors of a Helicopter downed over remote South American jungle. Not long after they land, Dutch and his team discover that they have been sent in under false pretenses. This deception turns out to be the least of their worries though, when they find themselves being methodically hunted by something not of this world.—Laygz",
+    "Assigned to locate a Central American cabinet minister and eliminate the region's scattered guerrillas, battle-hardened Major Alan \"Dutch\" Schaefer leads his hand-picked squad of elite commandos into the jungle. However, they are unaware that an unidentified interstellar spacecraft has landed near them. Now, an otherwise routine rescue mission turns into a bloodbath, as ritualistically mutilated bodies found at the scene give away only one thing: someone, or perhaps something, is hunting them for sport. When Dutch attempts to confront the extraterrestrial tracker with his combat experience, he discovers their primitive weapons are no match for the creature's state-of-the-art weaponry. Does the outgunned and outmatched squad stand a chance against the ultimate hunter, the Predator?—Nick Riganas",
+    "Dutch and his group of commandos are assigned to rescue downed airmen from guerillas in a Central American jungle. The mission goes well but as they return they find that something is hunting them. Nearly invisible, it blends in with the forest, taking trophies from the bodies of its victims as it goes along. Occasionally seeing through its eyes, the audience sees it is an intelligent alien hunter, hunting them for sport, killing them off one at a time.—John Vogel <jlvogel@comcast.net>",
+    "Dutch and a team of commandos have been sent into a Central American jungle to track down some missing airmen that were kidnapped by terrorists. By the time they get to the camp, the airmen have been butchered in a very violent fashion and the commandos retaliate on the terrorists' camp. After that's over, they wait for a helicopter to pick them up, but something strange begins to happen in the woods. It isn't long before the commandos start getting killed off and Dutch and a girl from the camp, Anna, are the only people left and fighting for their lives. But what they discover is too shocking for them to imagine. What's been killing them is the Predator, an alien that hunts rare species and make his trophies out of their skulls. And human beings are the new species he has discovered.—Will"
+  ],
+  "synopsis": "Dutch (Arnold Schwarzenegger) and his elite commando team arrive in a Latin American country, Valverde. They meet a general, Phillips and with a CIA agent, Dillon (Carl Weathers). Dillon tells Dutch that a high-ranking \"cabinet minister\" traveling by helicopter nearby has gone missing in the jungle, presumably shot down by a rebel guerrilla group operating in the area. Dutch's team has been charged with going over the border and into rebel territory to rescue the man.Dutch's team are dropped into the jungle by helicopter, and they hike toward the rebel camp. En route, they find the downed helicopter. Dutch's tracker, Billy (Sonny Landham), is able to determine that the rebels indeed took the cabinet minister away, but another group of men also passed through, likely more American soldiers. Later, Billy senses something wrong nearby and finds the bodies of three men who have been flayed and hung upside-down. In a pile of entrails, another of Dutch's men, Mac (Bill Duke), finds a set of dog tags. Dutch recognizes the name on them, Jim Hopper, a Green Beret. Dillon says he knows nothing about another team.The team arrives at the rebel camp without being detected. Dutch and his team destroy the camp in an all-out assault and kill all the rebels. There are no hostages, however, Dutch finds a lone, terrified girl, Anna (Elpidia Carrillo). Dutch realizes they have been set up and confronts Dillon. Dillon confirms that Dutch and his team were merely pawns to destroy the camp and its men. The team heads to the chopper pick-up point. However, they are being tracked by an unseen enemy that sees their body heat signatures.Anna tries to escape the group and Hawkins (Shane Black) follows. When he catches her a distorted, human-like figure rushes out of the jungle and kills Hawkins. The woman is left behind, terrified and covered in Hawkins' blood. Dutch's Spanish crew member, Pancho (Richard Chaves), asks Anna what happened; all she can say is \"the jungle came alive and took him.\" The team's largest man, Blaine (Jesse Ventura), is hit twice by laser-like blasts of energy that blow out his chest. He falls dead and his friend, Mac, rushes to him.Mac sees a humanoid-like distortion that flashes green eyes. Mac opens fire with Blaine's mini-gun, firing thousands of rounds into the jungle. The rest of the team rushes to the spot and also open fire. After checking the area in front of them, Pancho tells Dutch that they didn't hit anything living. A close inspection of Blaine's wounds shows no signs of shrapnel or gun powder burns. When asked what he saw, a terrified Mac is unable to identify the enemy. Only Anna finds green-glowing fluid on a large leaf.In another part of the jungle, the distorted humanoid sits down on a tree branch. The distortion turns out to be a high-tech camouflaging device that can bend light, creating the illusion of invisibility. The enemy has been wounded in the thigh, dripping the same sort of fluid Anna had found; it is the creature's blood.Dutch's team is edgy through the night, & panics at every little sound or hint of movement.\nDutch determines that their unseen enemy is not only killing them one by one but also methodically hunting them. The team constructs a trap from jungle vines which form a net and an elaborate system of tripwires. Anna talks of a legendary demon that had stalked her village in times of extremely hot weather. She says that men were found skinned and missing body parts.Dutch and Dillon think that the trap won't work without live bait so Dutch carefully walks out into the clearing among the tripwires. As he turns around, the trap goes off and something is tangled in the next. Laser blasts shoot from the net, hitting the trap's anchoring tree trunk, which detaches and swings into Pancho, hitting him square in the chest and severely injuring him. Dillon sees the distortion of the stalker's camouflage as it flees into the jungle. Mac instantly takes off after the creature seeking revenge over Dutch's orders for him to return. Dutch, Pancho, Billy and Anna all leave to meet the chopper, while Dillon runs after Mac.Dillon finds Mac a short distance away. Mac has found their enemy camped out in a tree stand. The two agree on a plan to approach it silently and kill it. While crawling through the underbrush, Mac notices a three-pointed laser pattern on his arm and is killed when he exposes his head to his enemy. Dillon finds him dead a few minutes later. Dillon is attacked by the stalker, who fires a laser blast that severs one of his arms. Dillon tries to defend himself but is impaled on a large double blade.Still moving toward the extraction site, the rest of the team cross a large tree trunk bridge. Billy, sensing the presence of the enemy, throws away his rifle and faces it alone, armed only with his machete. He is quickly killed. Dutch, Anna and Pancho stop, and Pancho is killed by a laser blast.Anna picks up a gun to shoot but Dutch kicks it away. Another laser blast hits Dutch's rifle, blowing it in half. Dutch yells for Anna to run to the helicopter and he crawls away. Dutch ends up sliding down a hill that drops him off a cliff into a river. Dutch swims to the other side and is resting on the muddy bank when his pursuer splashes down behind him. Dutch, weaponless and covered in mud, waits for his enemy to kill him. The enemy surfaces and turns out to be a large, humanoid alien possessing advanced weaponry. The adaptive camouflage device that concealed it from Dutch and his team appears to be malfunctioning due to exposure to water and the creature switches it off. It spots a target in the brush and tracks it with a three-beamed laser scope and shoots at it, a small rodent, with a shoulder-mounted cannon. The alien does not, however, see Dutch, whose body heat is insulated by the mud on his skin. The creature stalks off.Dutch mounts an offensive, choosing a strategic spot and sets a garroting trap with spikes. Dutch also builds a bow and several arrows with gunpowder from his spare grenades and fashions spears. He also covers himself in mud to further his advantage. Meanwhile, the creature rips the spinal column and skull from Billy's corpse, cleaning it to make a trophy. We see the skulls of several other humans among its collection.When he's ready, Dutch lights a large bonfire and sounds out a primitive yell, summoning the alien. The alien arrives and crawls over the unseen Dutch. Dutch fires one of his explosive arrows at the creature, permanently disabling its invisibility device. However, Dutch rapidly runs out of weapons. The alien captures him in a pond. After a brief examination of his human opponent, the creature removes its' helmet, revealing its face. It then engages Dutch hand-to-hand, a battle where the alien has the advantage of strength over Dutch. Dutch draws the creature into the spiked trap he'd set, yelling for it to come closer to kill him. The creature discovers the trap and walks around behind Dutch. As it moves in, Dutch notices it's standing directly under the trap's counterweight; Dutch kicks away the trigger and the counterweight plummets, crushing the alien.Dutch moves in to finish it off with a large rock but throws it away when he sees that the alien is already wounded fatally. Dutch asks, \"What the hell are you?\" and the creature repeats the phrase. It opens a panel on its' gauntlet and activates a timer, signaling Dutch to run. As he does, the creature laughs, imitating Billy. A small nuclear explosion goes off as Dutch leaps to cover.\nIn a helicopter flying nearby, General Phillips (R.G. Armstrong) and Anna see the explosion. They see Dutch in an incinerated patch of rain-forest. Dutch is recovered, looking physically exhausted."
+}

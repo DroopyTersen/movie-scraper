@@ -1,0 +1,909 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/jkyqFgqmZlH5vSURckq0GgsewOY.jpg",
+  "id": 1574,
+  "title": "Chicago",
+  "poster_path": "https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
+  "release_date": "2002-12-10",
+  "vote_average": 7.108,
+  "vote_count": 2443,
+  "popularity": 19.712,
+  "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.",
+  "imdb_id": "tt0299658",
+  "budget": 45000000,
+  "homepage": "",
+  "revenue": 306776732,
+  "runtime": 113,
+  "tagline": "If you can't be famous, be infamous.",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    "Miramax",
+    "Kalis Productions GmbH & Co. Zweite KG",
+    "The Producer Circle Co.",
+    "Zadan / Meron Productions"
+  ],
+  "production_countries": [
+    "DE",
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Renée Zellweger",
+        "character": "Roxie Hart"
+      },
+      {
+        "name": "Catherine Zeta-Jones",
+        "character": "Velma Kelly"
+      },
+      {
+        "name": "Richard Gere",
+        "character": "Billy Flynn"
+      },
+      {
+        "name": "Queen Latifah",
+        "character": "Matron Mama Morton"
+      },
+      {
+        "name": "John C. Reilly",
+        "character": "Amos Hart"
+      },
+      {
+        "name": "Lucy Liu",
+        "character": "Kitty Baxter"
+      },
+      {
+        "name": "Taye Diggs",
+        "character": "Bandleader"
+      },
+      {
+        "name": "Colm Feore",
+        "character": "Harrison"
+      },
+      {
+        "name": "Christine Baranski",
+        "character": "Mary Sunshine"
+      },
+      {
+        "name": "Dominic West",
+        "character": "Fred Casely"
+      },
+      {
+        "name": "Mya",
+        "character": "Mona"
+      },
+      {
+        "name": "Deidre Goodwin",
+        "character": "June"
+      },
+      {
+        "name": "Denise Faye",
+        "character": "Annie"
+      },
+      {
+        "name": "Ekaterina Chtchelkanova",
+        "character": "Hunyak"
+      },
+      {
+        "name": "Susan Misner",
+        "character": "Liz"
+      },
+      {
+        "name": "Cliff Saunders",
+        "character": "Stage Manager"
+      },
+      {
+        "name": "Jayne Eastwood",
+        "character": "Mrs. Borusewicz"
+      },
+      {
+        "name": "Bruce Beaton",
+        "character": "Police Photographer"
+      },
+      {
+        "name": "Roman Podhora",
+        "character": "Sergeant Fogarty"
+      },
+      {
+        "name": "Rob Smith",
+        "character": "Newspaper Photographer"
+      },
+      {
+        "name": "Sean Wayne Doyle",
+        "character": "Reporter"
+      },
+      {
+        "name": "Steve Behal",
+        "character": "Prison Clerk"
+      },
+      {
+        "name": "Robbie Rox",
+        "character": "Prison Guard"
+      },
+      {
+        "name": "Chita Rivera",
+        "character": "Nickie"
+      },
+      {
+        "name": "Joey Pizzi",
+        "character": "Bernie"
+      },
+      {
+        "name": "Scott Wise",
+        "character": "Ezekial Young"
+      },
+      {
+        "name": "Ken Ard",
+        "character": "Wilbur"
+      },
+      {
+        "name": "Marc Calamia",
+        "character": "Hunyak's Husband"
+      },
+      {
+        "name": "Niki Wray",
+        "character": "Veronica"
+      },
+      {
+        "name": "Gregory Mitchell",
+        "character": "Charlie"
+      },
+      {
+        "name": "Sebastian La Cause",
+        "character": "Al Lipschitz"
+      },
+      {
+        "name": "Brendan Wall",
+        "character": "Billy's Assistant"
+      },
+      {
+        "name": "Cleve Asbury",
+        "character": "\"Gun\" Reporter #1"
+      },
+      {
+        "name": "Rick Negron",
+        "character": "\"Gun\" Reporter #2"
+      },
+      {
+        "name": "Shaun Amyot",
+        "character": "\"Gun\" Reporter #3"
+      },
+      {
+        "name": "Eve Crawford",
+        "character": "Billy's Secretary"
+      },
+      {
+        "name": "Bill Corsair",
+        "character": "Newsreel Announcer"
+      },
+      {
+        "name": "Bill Britt",
+        "character": "Auctioneer"
+      },
+      {
+        "name": "Gerry Fiorini",
+        "character": "Sailor"
+      },
+      {
+        "name": "Elizabeth Law",
+        "character": "Perfume Lady"
+      },
+      {
+        "name": "Joseph Scoren",
+        "character": "Harry"
+      },
+      {
+        "name": "Monique Ganderton",
+        "character": "Bare Woman #1"
+      },
+      {
+        "name": "April Morgan",
+        "character": "Bare Woman #2"
+      },
+      {
+        "name": "Marty Moreau",
+        "character": "Groin Reporter"
+      },
+      {
+        "name": "Conrad Dunn",
+        "character": "Doctor"
+      },
+      {
+        "name": "Jonathan Whittaker",
+        "character": "Bailiff"
+      },
+      {
+        "name": "Rod Campbell",
+        "character": "Jury Foreman"
+      },
+      {
+        "name": "Brett Caruso",
+        "character": "Harrison's Assistant"
+      },
+      {
+        "name": "Sean McCann",
+        "character": "Judge"
+      },
+      {
+        "name": "Jeff Clarke",
+        "character": "Court Clerk"
+      },
+      {
+        "name": "Patrick Salvagna",
+        "character": "Newsboy"
+      },
+      {
+        "name": "Kathryn Zenna",
+        "character": "Woman Shooter"
+      },
+      {
+        "name": "Jeff Pustil",
+        "character": "Club Owner"
+      },
+      {
+        "name": "Roxane Barlow",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Jocelyn Dowling",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Melanie A. Gage",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Michelle Johnston",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Charley King",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Mary Ann Lamb",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Vicky Lambert",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Tara Nicole Hughes",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Cynthia Onrubia",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Karine Plantadit",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Jennifer Savelli",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Natalie Willes",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Karen Andrew",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Kelsey Chace",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Catherine Chiarelli",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Theresa Coombe",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Lisa Ferguson",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Melissa Flerangile",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Michelle Galati",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Sheri Godfrey",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Brittany Gray",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Karen Holness",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Amber-Kelly Mackereth",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Jodi McFadden",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Faye Rauw",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Rhonda Roberts",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Leigh Torlage",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Robyn Wong",
+        "character": "Female Dancer"
+      },
+      {
+        "name": "Ted Banfalvi",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Harrison Beal",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Paul Becker",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Jean-Luc Côté",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Scott Fowler",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Edgar Godineaux",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Bill Hartung",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Darren Lee",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Troy P. Liddell",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Blake McGrath",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Robert Montano",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Sean Palmer",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Desmond Richardson",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Martin Samuel",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Jason Sermonia",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Jeff Siebert",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Sergio Trujillo",
+        "character": "Male Dancer"
+      },
+      {
+        "name": "Stacy Clark Baisley",
+        "character": "Acrobat"
+      },
+      {
+        "name": "Megan Fehlberg",
+        "character": "Acrobat"
+      },
+      {
+        "name": "Rachel Jacobs",
+        "character": "Acrobat"
+      },
+      {
+        "name": "Rebecca Leonard",
+        "character": "Acrobat"
+      },
+      {
+        "name": "Erin Michie",
+        "character": "Acrobat"
+      },
+      {
+        "name": "Danielle Rueda-Watts",
+        "character": "Acrobat"
+      },
+      {
+        "name": "Dana Calitri",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Kate Coffman-Lloyd",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Curtis King Jr.",
+        "character": "Male Ensemble"
+      },
+      {
+        "name": "Laura Dean",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Margaret Dorn",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Capathia Jenkins",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Audrey Martells",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Sara Ramirez",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Nicki Richards",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Dennis Collins",
+        "character": "Male Ensemble"
+      },
+      {
+        "name": "Darius De Haas",
+        "character": "Male Ensemble"
+      },
+      {
+        "name": "Willie Falk",
+        "character": "Male Ensemble"
+      },
+      {
+        "name": "Timothy Shew",
+        "character": "Male Ensemble (uncredited)"
+      },
+      {
+        "name": "Alfonzo Thornton",
+        "character": "Male Ensemble (uncredited)"
+      },
+      {
+        "name": "Eric Troyer",
+        "character": "Male Ensemble (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Danny Elfman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Colleen Atwood",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Dion Beebe",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Bob Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Harvey Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Meryl Poster",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Don Carmody",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Steve Lucescu",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Martin Walsh",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Erwin H. Kupitz",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Gordon Sim",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Laura Rosenthal",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Randall Balsmeyer",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Bill Condon",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "John Myhre",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Rob Marshall",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Rob Marshall",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Martin Richards",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ali Farrell",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Andrew M. Stearn",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Craig Zadan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Julie Goldstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Judi Cooper-Sealy",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Andrew Weisblum",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Neil Meron",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "John M. Eckert",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Jennifer Berman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Bob Fosse",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "John Kander",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "John Kander",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Richard P. Cirincione",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Colleen Callaghan",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Maurine Dallas Watkins",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "name": "Jordan Samuel",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Fred Ebb",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "Fred Ebb",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "name": "Jeanette Roxborough",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joyce Kozy King",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Cindy J. Williams",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "LuAnn Claps",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Denis Bellingham",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Dominick Tavella",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Cynthia Onrubia",
+        "department": "Crew",
+        "job": "Associate Choreographer"
+      },
+      {
+        "name": "Thomas Carnegie",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Rachel Aberly",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Michael Minkler",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mark Dornfeld",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Peter Rosenfeld",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Eytan Mirsky",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Maurice Schell",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Lyndell Quiyou",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Karyn Huston",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Edelgard K. Pfluegl",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Myron Hoffert",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Grant Lucibello",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Susanna David",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Veronica Ciandre",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Kathy Kelehan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Wendy Lanning",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "David Lee",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Joey Pizzi",
+        "department": "Crew",
+        "job": "Associate Choreographer"
+      },
+      {
+        "name": "E. Gedney Webb",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Paula Fleet",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Patricia Keighran",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Beth Gilinsky",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Maureen Crowe",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Kathleen Graham",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Tyler Delben",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Tom Quinn",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Johanne Boisvert",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Lucy M. Orton",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Hairstylist"
+      },
+      {
+        "name": "Sam Crothers",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Catherine Rankin",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Dale Brownell",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Brian Hui",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  },
+  "keywords": [
+    "chicago, illinois",
+    "musical",
+    "based on play or musical",
+    "jail",
+    "lawyer",
+    "prison matron",
+    "jazz age",
+    "1920s"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Two death-row murderesses develop a fierce rivalry while competing for publicity, celebrity, and a sleazy lawyer's attention.",
+    "Murderesses Velma Kelly (Catherine Zeta-Jones) (a chanteuse and tease who killed her husband and sister after finding them in bed together) and Roxie Hart (Renée Zellweger) (who killed her lover when she discovered he wasn't going to make her a star) find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.—Debpp322",
+    "In 1920s Chicago. Housewife Roxie Hart (Renée Zellweger) dreams of fame, Her dreams lead her to death-row, where she and another murdess, a vaudevillan named Velma Kelly (Catherine Zeta-Jones), develop a rivalry while competing for for fame in the hope it will keep them from their fate.—Huggo",
+    "Nightclub sensation Velma Kelly (Catherine Zeta-Jones) murders her philandering husband, and Chicago's slickest lawyer, Billy Flynn (Richard Gere), is set to defend her. But when Roxie Hart (Renée Zellweger) also winds up in prison, Billy takes on her case as well - turning her into a media circus of headlines. Neither woman will be outdone in their fight against each other and the public for fame and celebrity.—Jwelch5742",
+    "Fame hungry Roxie Hart (Renée Zellweger) dreams of a life on the Vaudville stage, and spends her nights jazzing it up in the bright lights of Chicago, continually hoping that she'll find her lucky break, and be shot into 1920's stardom, so able to flee her boring husband Amos (John C. Reilly). In awe of seductive club singer Velma Kelly (Catherine Zeta-Jones) (who is subsequantly arrested for the murder of her husband and sister - after discovering their affair), Roxie meets Fred Casely (Dominic West), a man who convinces her he can \"make her showbiz career take off\". However, after Roxie has undergone the \"casting couch\" treatment, and Fred has had his wicked way with her, he reveals that he has no more connections in show business than she does. This is the final straw for Roxie, and her constant anger at rejection explodes. She shoots Fred Casely and kills him. Upon discovering her infidelity, Roxie's husband Amos refuses to take the blame for the murder and Roxie is sent to jail, pending hanging. In jail, she finally meets tabloid darling Velma Kelly, currently receiving huge media attention for the double murder she committed earlier in the tale. Sharing the clink with Velma, are a collection of other sly females, all awaiting trial for the murders of their own partners. Velma is aloof to Roxie, however, the prison Warden, Matron Mama Morton (Queen Latifah), offers Roxie the opportunity of representation by slick Chicago lawyer Billy Flynn (Richard Gere). Billy is more a showbiz public relations agent than a legal lawyer, and minipulates the tabloids into thinking Roxie is no more than an innocent \"good time girl\" who took the wrong path, than a scheming murderess. The tabloids go crazy for the new girl on the cell block, and Roxie finally becomes a star. However, due to Roxie's new found fame, Velma is forgotten about. She is forced to approach Roxie with an offer of a part in her Vaudville act (filling the gap left by her murdered sister), but Roxie turns down her offer flat, thinking she needs no support in topping the bill. However, just as Velma's star fell, so does Roxie's, when Go-to-hell Kitty Baxter (Lucy Liu) arrives at the jail on a multiple murder charge, the press forget Roxie and now she and Velma are in the same boat. With one more trick up her sleave, Roxie manages to bring the media attention back onto her, and her day in court arrives. Billy is now ready to play the ultimate showman."
+  ],
+  "synopsis": "In Chicago, circa 1924, naive Roxie Hart (Renée Zellweger) visits a nightclub, where star Velma Kelly (Catherine Zeta-Jones) performs (\"All That Jazz\"). Roxie is there with Fred Casely (Dominic West), a lover she hopes will get her a vaudeville gig. After the show, Velma is arrested for killing her husband and sister, Veronica, after finding them in bed together. Later, Fred reveals to Roxie that he lied about his connections in order to sleep with her, at which point Roxie, in a fit of rage, shoots Fred three times, killing him. Roxie convinces her husband, Amos (John C. Reilly), to take the blame, telling him it was a burglar and that he needn't worry, he'll get off. When the officer points out that the victim is Fred Casely, who sold the Harts furniture, Amos abandons his lie and says Casely was dead when he got home (\"Funny Honey\"). Roxie is sent to Cook County Jail.Upon her arrival, she is sent to Murderess' Row-under the care of the corrupt Matron \"Mama\" Morton (Queen Latifah), who takes bribes and supplies her prisoners with cigarettes and contraband (\"When You're Good to Mama\")-to await trial. Roxie meets Velma, and learns the backstories of the other women in Murderess' Row (\"Cell Block Tango\"). Roxie decides that she wants to engage Velma's lawyer, Billy Flynn (Richard Gere) (\"All I Care About\"), and convinces her husband to talk to him. Flynn and Roxie manipulate the press at a press conference, reinventing Roxie's identity to make Chicago fall in love with her (\"We Both Reached for the Gun\"). Roxie becomes the new infamous celebrity of the Cook County Jail (\"Roxie\"), much to Velma's disgust and Mama's delight. Velma, desperate to get back into the limelight, tries to talk Roxie into opening a vaudeville act with her once they get out of jail (\"I Can't Do It Alone\"). Seeking revenge for an earlier mocking, Roxie haughtily refuses, and Roxie and Velma become locked in a rivalry to outshine each other.After an heiress (Lucy Liu) is arrested for a triple homicide (she killed her husband and the two women in bed with him), Roxie finds herself ignored by the paparazzi and neglected by Flynn. After being told by Velma that her name isn't in the paper, Roxie manages to steal back the limelight by claiming to be pregnant, which is confirmed by a doctor, whom it is implied she seduced. As paparazzi chase Roxie, Amos remains ignored (\"Mister Cellophane\"). Roxie witnesses the execution by hanging of another inmate (who was falsely accused) after losing her last appeal, which fuels Roxie's desire to be free. Roxie and Billy design their scheme to prove her innocence, by using her star power and sympathy vote.Her trial becomes a media spectacle (\"Razzle Dazzle\"), fed on the sensationalist reports of newspaper reporter and radio personality, Mary Sunshine (Christine Baranski). The trial goes Roxie's way until Velma shows up with Roxie's diary. In exchange for amnesty, Velma reads incriminating entries from the diary that could convict Roxie; however, Billy manages to get her off the hook. Roxie's publicity is short-lived: as soon as the trial concludes, the public's attention turns to a new murderess. Roxie leaves the courthouse after Billy tells her that it is Chicago and she can't beat fresh blood off the walls. Roxie reveals to Amos she faked her pregnancy for the fame. It is implied, but never stated, that Amos leaves her at this point.With nothing left, Roxie once more sets off to find a stage career, with little success (\"Nowadays\"). However, she is soon approached by Velma, also down on her luck, who is willing to revive a two-person act with Roxie. Roxie refuses at first, still not over the hate they shared for each other while in prison, but relents when Velma points out that \"there's only one business in the world where that's not a problem at all: show business.\" The two murderesses, no longer facing jail time, finally become the enormous successes they have been longing to be (\"Nowadays/Hot Honey Rag\"). The film concludes with Roxie and Velma receiving a standing ovation from an enthusiastic audience that includes Mama and Billy."
+}

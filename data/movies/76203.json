@@ -1,0 +1,904 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg",
+  "id": 76203,
+  "title": "12 Years a Slave",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+  "release_date": "2013-10-18",
+  "vote_average": 7.945,
+  "vote_count": 10818,
+  "popularity": 34.638,
+  "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+  "imdb_id": "tt2024544",
+  "budget": 20000000,
+  "homepage": "http://www.foxsearchlight.com/12yearsaslave",
+  "revenue": 187000000,
+  "runtime": 134,
+  "tagline": "The extraordinary true story of Solomon Northup",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "New Regency Pictures",
+    "Plan B Entertainment",
+    "River Road Entertainment",
+    "Regency Enterprises",
+    "Film4 Productions"
+  ],
+  "production_countries": [
+    "US",
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Chiwetel Ejiofor",
+        "character": "Solomon Northup"
+      },
+      {
+        "name": "Michael Fassbender",
+        "character": "Edwin Epps"
+      },
+      {
+        "name": "Lupita Nyong'o",
+        "character": "Patsey"
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "William Ford"
+      },
+      {
+        "name": "Paul Dano",
+        "character": "John Tibeats"
+      },
+      {
+        "name": "Sarah Paulson",
+        "character": "Mary Epps"
+      },
+      {
+        "name": "Adepero Oduye",
+        "character": "Eliza"
+      },
+      {
+        "name": "Scoot McNairy",
+        "character": "Brown"
+      },
+      {
+        "name": "Paul Giamatti",
+        "character": "Theophilus Freeman"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Samuel Bass"
+      },
+      {
+        "name": "Michael Kenneth Williams",
+        "character": "Robert"
+      },
+      {
+        "name": "Alfre Woodard",
+        "character": "Mistress Shaw"
+      },
+      {
+        "name": "Chris Chalk",
+        "character": "Clemens"
+      },
+      {
+        "name": "Taran Killam",
+        "character": "Hamilton"
+      },
+      {
+        "name": "Bill Camp",
+        "character": "Radburn"
+      },
+      {
+        "name": "Kelsey Scott",
+        "character": "Anne Northup"
+      },
+      {
+        "name": "Bryan Batt",
+        "character": "Judge Turner"
+      },
+      {
+        "name": "Quvenzhané Wallis",
+        "character": "Margaret Northup"
+      },
+      {
+        "name": "Garret Dillahunt",
+        "character": "Armsby"
+      },
+      {
+        "name": "Dwight Henry",
+        "character": "Uncle Abram"
+      },
+      {
+        "name": "Dickie Gravois",
+        "character": "Overseer"
+      },
+      {
+        "name": "Ashley Dyke",
+        "character": "Anna"
+      },
+      {
+        "name": "Cameron Zeigler",
+        "character": "Alonzo Northup"
+      },
+      {
+        "name": "Tony Bentley",
+        "character": "Mr. Moon"
+      },
+      {
+        "name": "Christopher Berry",
+        "character": "Burch"
+      },
+      {
+        "name": "Mister Mackey Jr.",
+        "character": "Randall"
+      },
+      {
+        "name": "Craig Tate",
+        "character": "John"
+      },
+      {
+        "name": "Storm Reid",
+        "character": "Emily"
+      },
+      {
+        "name": "Tom Proctor",
+        "character": "Biddee"
+      },
+      {
+        "name": "Marc Macaulay",
+        "character": "Captain"
+      },
+      {
+        "name": "Vivian Fleming-Alvarez",
+        "character": "Mulatto Woman"
+      },
+      {
+        "name": "Douglas M. Griffin",
+        "character": "Sailor"
+      },
+      {
+        "name": "John McConnell",
+        "character": "Jonus Ray"
+      },
+      {
+        "name": "Marcus Lyle Brown",
+        "character": "Jasper"
+      },
+      {
+        "name": "Richard Holden",
+        "character": "Fitzgerald"
+      },
+      {
+        "name": "Rob Steinberg",
+        "character": "Parker"
+      },
+      {
+        "name": "Anwan Glover",
+        "character": "Cape"
+      },
+      {
+        "name": "James C. Victor",
+        "character": "Buyer"
+      },
+      {
+        "name": "Liza J. Bennett",
+        "character": "Mistress Ford"
+      },
+      {
+        "name": "Nicole Collins",
+        "character": "Rachel"
+      },
+      {
+        "name": "J.D. Evermore",
+        "character": "Chapin"
+      },
+      {
+        "name": "Andy Dylan",
+        "character": "Treach"
+      },
+      {
+        "name": "Deneen Tyler",
+        "character": "Phebe"
+      },
+      {
+        "name": "Mustafa Harris",
+        "character": "Sam"
+      },
+      {
+        "name": "Gregory Bright",
+        "character": "Edward"
+      },
+      {
+        "name": "Austin Purnell",
+        "character": "Bob"
+      },
+      {
+        "name": "Thomas Francis Murphy",
+        "character": "Patroller"
+      },
+      {
+        "name": "Andre De'Sean Shanks",
+        "character": "Victim 1"
+      },
+      {
+        "name": "Kelvin Harrison Jr.",
+        "character": "Victim 2"
+      },
+      {
+        "name": "Scott M. Jefferson",
+        "character": "Master Shaw"
+      },
+      {
+        "name": "Isaiah Jackson",
+        "character": "Zachary"
+      },
+      {
+        "name": "Topsy Chapman",
+        "character": "Slave Spiritual Singer 1"
+      },
+      {
+        "name": "Devin Maurice Evans",
+        "character": "Slave Spiritual Singer 2"
+      },
+      {
+        "name": "Jay Huguley",
+        "character": "Sheriff"
+      },
+      {
+        "name": "Devyn A. Tyler",
+        "character": "Margaret Northup (adult)"
+      },
+      {
+        "name": "Willo Jean-Baptiste",
+        "character": "Margaret's Husband"
+      },
+      {
+        "name": "Jason Ament",
+        "character": "Cooke (uncredited)"
+      },
+      {
+        "name": "Jon Arthur",
+        "character": "Steamboat Crew 1st Mate (uncredited)"
+      },
+      {
+        "name": "Sean Paul Braud",
+        "character": "Lynchman (uncredited)"
+      },
+      {
+        "name": "Blake Burt",
+        "character": "Upper Class Pedestrian (uncredited)"
+      },
+      {
+        "name": "Carroll Burt",
+        "character": "Lower Class Pedestrian (uncredited)"
+      },
+      {
+        "name": "Edward J. Clare",
+        "character": "Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "JJ Coker",
+        "character": "Mr. Bartholomew (uncredited)"
+      },
+      {
+        "name": "Haylie Creppel",
+        "character": "Child in the Park (uncredited)"
+      },
+      {
+        "name": "Justin Edward Davis",
+        "character": "Saratoga Park Pedestrian (uncredited)"
+      },
+      {
+        "name": "Jim Johnson",
+        "character": "Lower Class Pedestrian (uncredited)"
+      },
+      {
+        "name": "Mark Joyce",
+        "character": "Street Merchant (uncredited)"
+      },
+      {
+        "name": "John C. Klein",
+        "character": "Lumber Mill Customer (uncredited)"
+      },
+      {
+        "name": "Gerard 'Jerry' Lewis",
+        "character": "Slave Guard (uncredited)"
+      },
+      {
+        "name": "Kevonte Mcdonald",
+        "character": "Slave (uncredited)"
+      },
+      {
+        "name": "Ritchie Montgomery",
+        "character": "Roadman (uncredited)"
+      },
+      {
+        "name": "Jason Owen",
+        "character": "Safty (uncredited)"
+      },
+      {
+        "name": "Shawn Parsons",
+        "character": "Road Man (uncredited)"
+      },
+      {
+        "name": "Haley Powell",
+        "character": "Slave Girl (uncredited)"
+      },
+      {
+        "name": "Wayne Pére",
+        "character": "Winslow (uncredited)"
+      },
+      {
+        "name": "Terrell Ransom Jr.",
+        "character": "Slave Boy (uncredited)"
+      },
+      {
+        "name": "Erin Rementer",
+        "character": "Ballroom Dancer (uncredited)"
+      },
+      {
+        "name": "Andre Robinson",
+        "character": "Slave Boy (uncredited)"
+      },
+      {
+        "name": "Corrina Roshea Bobb",
+        "character": "Slave Buyer (uncredited)"
+      },
+      {
+        "name": "Jarett Shorts",
+        "character": "Hornboy (uncredited)"
+      },
+      {
+        "name": "Chaz Smith",
+        "character": "Cigar Smoker (uncredited)"
+      },
+      {
+        "name": "Tyler Soerries",
+        "character": "Boy Playing in Park (uncredited)"
+      },
+      {
+        "name": "Tre Tureaud",
+        "character": "Saratoga Park Pedestrians (uncredited)"
+      },
+      {
+        "name": "Justin Christopher Vaughn",
+        "character": "Ezra (uncredited)"
+      },
+      {
+        "name": "Bob Walker",
+        "character": "Abolitionist Landowner (uncredited)"
+      },
+      {
+        "name": "Caroline Grace Williamson",
+        "character": "Ford Daughter (uncredited)"
+      },
+      {
+        "name": "Timothy Wyant",
+        "character": "Ford Lumber Buyer (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Hans Zimmer",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Brad Pitt",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Arnon Milchan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tessa Ross",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Francine Maisler",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Patricia Norris",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Ellen Heuer",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Dede Gardner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Leslie Shatz",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Bill Pohlad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Ridley",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "John Ridley",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Sean Bobbitt",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Sean Bobbitt",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Anthony Katagas",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steve McQueen",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Steve McQueen",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Nana Fischer",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Robert Jackson",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "David Stein",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Nikki I Brown",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Amy Wood",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Jeremy Kleiner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Larry McConkey",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Joe Walker",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Carl Sprague",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Adam Stockhausen",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Alice Baker",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "François Duhamel",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Solomon Northup",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Monica Rene'e Anderson",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Eric Bergman",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Ma Kalaadevi Ananda",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Andree Fortier",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jean Ann Black",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Steven Ritzi",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Lauren Ritchie",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Dottie Starling",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "David Nash",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Meagan Lewis",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Matthew Gatlin",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Carl Counts",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Jude Erny",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Jim Wallis",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Taylor Weeks",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Walter Schneider",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "David Rotondo",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Michael S. Martin",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Michael A. Johnson",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Bryan Arenas",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "name": "Henry Auerbach",
+        "department": "Editing",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Robert Jackson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Ryan Collins",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Tim LeDoux",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jason Sanford",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Lex D. Geddings",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Jaap Buitendijk",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Andy Shuttleworth",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Mike McLaughlin",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Dena Matranga",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Dena Matranga",
+        "department": "Costume & Make-Up",
+        "job": "Key Set Costumer"
+      },
+      {
+        "name": "Katrina Schiller",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Catherine Wilson",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Poland Perkins",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Eva Z. Cabrera",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Michael Buster",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "M. Gerard Sellers",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Scott T. Coppock",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "Shonta T. McCray",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Yolanda Mercadel",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Spooky Stevens",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Adruitha Lee",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Chris Flowers",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Nick London",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Bob Bates",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Megan Richardson",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Elbert Irving IV",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Alissa M. Kantrow",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Doug Torres",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Dave Pultz",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Vic Keatley",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Joe Cassano",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Jade Brandt",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Denise Pugh-Ruiz",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Patrick Wiley",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Scott Morrison",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Nick Leon",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Franklin Jones II",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Mike 'Chewie' Pappas",
+        "department": "Crew",
+        "job": "Generator Operator"
+      },
+      {
+        "name": "Byron Marigny",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Brian Waltsak",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Lee McLemore",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Aaron P. Mastin",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Erskin Mitchell",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Eric DePoorter",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Betty Hamnac",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Julie Ebel",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Brandon P. Watson",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Bianca Stigter",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": [
+    "slavery",
+    "plantation",
+    "based on memoir or autobiography",
+    "violin player",
+    "physical abuse",
+    "black slave",
+    "usa history",
+    "slave owner",
+    "19th century",
+    "sold into slavery",
+    "abolitionist",
+    "landowner",
+    "abuse of power",
+    "african american history"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "Based on an incredible true story of one man's fight for survival and freedom. In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty personified by a malevolent slave owner, as well as unexpected kindnesses, Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon's chance meeting with a Canadian abolitionist will forever alter his life.—Fox Searchlight",
+    "Saratoga Springs, New York, 1841. Solomon Northup, the free-born African-American son of a freed slave, finds himself in the wrong place at the wrong time. Abducted and sold into slavery, Solomon ends up in the sugarcane and cotton plantations of antebellum Louisiana, doomed to work his fingers to the bone away from his wife and two kids. Sold to the highest bidder, Northup adopts a new identity and does everything he can to survive a succession of hardened deep-South enslavers bent on breaking his spirit. But as the weeks turn into years, a ray of hope shines in the shape of a benevolent abolitionist who crosses paths with the forsaken captive. And after twelve cruel years of soul-crushing slavery, Solomon finally sees his family again.—Nick Riganas"
+  ],
+  "synopsis": "In 1841, Solomon Northup (Chiwetel Ejiofor) is a free African American man working as a skilled carpenter and fiddle player and living with his wife and two children in Saratoga Springs, New York. Two men (Scoot McNairy and Taran Killam) offer him a two-week job as a musician, but they drug Northup and he wakes up in chains, about to be sold into slavery.Northup is shipped to New Orleans, and is renamed \"Platt,\" the identity of a runaway slave from Georgia. Beaten repeatedly, he is ultimately purchased by plantation owner William Ford (Benedict Cumberbatch). Northup manages to stay on good terms with Ford, a relatively benevolent master. Northup engineers a waterway for transporting logs swiftly and cost-effectively across a swamp, and Ford presents him with a violin in gratitude. Carpenter John Tibeats (Paul Dano) resents Northup and begins verbally harassing him.The tensions between Tibeats and Northup escalate; Tibeats attacks Northup, and Northup fights back. In retaliation, Tibeats and his friends attempt to lynch Northup, who suffers many hours in the noose. Ford explains that in order to save Northup's life he must be sold to Edwin Epps (Michael Fassbender). Northup attempts to reason with Ford, explaining that he is actually a free man. Ford states that he \"cannot hear this\" and responds \"he has a debt to pay\" on Northup's purchase price.Epps believes his right to abuse his slaves is sanctioned in the Bible. The slaves must pick at least 200 pounds of cotton every day, or be beaten. A young female slave named Patsey (Lupita Nyong'o) daily picks over 500 pounds and is praised lavishly by Epps, who also repeatedly sexually assaults her. Epps' wife (Sarah Paulson) is envious of her and frequently humiliates and attacks her.Patsey's abuse worsens as Epps continues to sexually assault her. Patsey wishes to die and asks Northup to kill her; he refuses. Sometime later, an outbreak of cotton worm befalls Epps' plantation; he decides that the new slaves are the cause, a plague sent by God. He leases them to a neighboring plantation for the season. While there, Northup gains the favor of the plantation's owner, who gives him a coin after he plays the fiddle at a wedding anniversary celebration.When Northup returns to Epps, he attempts to use the money to pay a white field hand and former overseer (Garret Dillahunt) to mail a letter to Northup's friends in New York. The field hand agrees to deliver the letter and takes the money but betrays Northup. Northup is narrowly able to convince Epps that the story is a lie. Northup tearfully burns the letter, his only hope of freedom.Northup begins working on the construction of a gazebo with a Canadian laborer named Bass (Brad Pitt). Bass earns Epps' displeasure by expressing his opposition to slavery, by trying to explain to Epps that he could have a little compassion towards those working for him. Epps on the other hand doesn't see them as people, but as property - his property.One day, Epps becomes enraged after discovering Patsey missing from his plantation. When she returns, she reveals she was gone to get a bar of soap from Mistress Shaw (Alfre Woodard), having become sick from her own stench as a result of being forbidden soap by Mary Epps. Epps doesn't believe her and orders her stripped and tied to a post. Encouraged by his wife, Epps forces Northup to whip Patsey. Northup reluctantly obeys, but Epps eventually takes the whip away from Northup, savagely lashing her.Northup breaks his violin, and while continuing to work on the gazebo, he asks Bass where Bass is from. Bass replies that he is from Canada. Northup confides his kidnapping to Bass. Once again, Northup asks for help in getting a letter to Saratoga Springs. Bass, risking his life, agrees to do that.One day, Northup is called over by the local sheriff, who arrives in a carriage with another man. The sheriff asks Northup a series of questions to confirm his answers that match the facts of his life in New York. Northup recognizes the sheriff's companion as a shopkeeper he knows from Saratoga. The man has come to free him, and the two embrace. Though Epps angrily resists and Patsey is distraught, Northup leaves immediately.After being enslaved for twelve years, Northup is restored to freedom and returned to his family. As he walks into his home, he sees his whole family, including his daughter, who presents him with his grandson and namesake. Concluding credits recount the inability of Northup and his legal counsel to prosecute the men responsible for his being sold into slavery as well as the mystery surrounding details of Northup's death and burial."
+}

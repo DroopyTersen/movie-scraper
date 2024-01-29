@@ -1,0 +1,929 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/bdhA6nWf5IIyfiGjdegYPu0iK9e.jpg",
+  "id": 854,
+  "title": "The Mask",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xbbXp9px4o8Oe7IbGd0yIbla8mZ.jpg",
+  "release_date": "1994-07-29",
+  "vote_average": 6.945,
+  "vote_count": 9648,
+  "popularity": 56.262,
+  "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+  "imdb_id": "tt0110475",
+  "budget": 23000000,
+  "homepage": "",
+  "revenue": 351583407,
+  "runtime": 101,
+  "tagline": "From zero to hero.",
+  "genres": [
+    "Romance",
+    "Comedy",
+    "Crime",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Dark Horse Entertainment",
+    "New Line Cinema"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jim Carrey",
+        "character": "Stanley Ipkiss / The Mask"
+      },
+      {
+        "name": "Peter Greene",
+        "character": "Dorian Tyrrell"
+      },
+      {
+        "name": "Cameron Diaz",
+        "character": "Tina Carlyle"
+      },
+      {
+        "name": "Amy Yasbeck",
+        "character": "Peggy Brandt"
+      },
+      {
+        "name": "Peter Riegert",
+        "character": "Lieutenant Mitch Kellaway"
+      },
+      {
+        "name": "Richard Jeni",
+        "character": "Charlie Schumaker"
+      },
+      {
+        "name": "Orestes Matacena",
+        "character": "Niko"
+      },
+      {
+        "name": "Tim Bagley",
+        "character": "Irv"
+      },
+      {
+        "name": "Nancy Fish",
+        "character": "Mrs. Peenman"
+      },
+      {
+        "name": "Johnny Williams",
+        "character": "Burt"
+      },
+      {
+        "name": "Reg E. Cathey",
+        "character": "Freeze"
+      },
+      {
+        "name": "Jim Doughan",
+        "character": "Doyle"
+      },
+      {
+        "name": "Denis Forest",
+        "character": "Sweet Eddy"
+      },
+      {
+        "name": "Joseph Alfieri",
+        "character": "Police Officer"
+      },
+      {
+        "name": "B.J. Barie",
+        "character": "Alley Punk #1"
+      },
+      {
+        "name": "Catherine Berge",
+        "character": "Cigarette Girl"
+      },
+      {
+        "name": "Philip Boardman",
+        "character": "Guard"
+      },
+      {
+        "name": "Krista Buonauro",
+        "character": "Lady Cop"
+      },
+      {
+        "name": "Debra Casey",
+        "character": "Alley Punk #3"
+      },
+      {
+        "name": "Blake Clark",
+        "character": "Murray"
+      },
+      {
+        "name": "Christopher Darga",
+        "character": "Paramedic #3"
+      },
+      {
+        "name": "Suzanne Dunn",
+        "character": "Reporter"
+      },
+      {
+        "name": "Joely Fisher",
+        "character": "Maggie"
+      },
+      {
+        "name": "Kevin Grevioux",
+        "character": "Henchman #7"
+      },
+      {
+        "name": "Peter Jazwinski",
+        "character": "Park Policeman"
+      },
+      {
+        "name": "Howard Kay",
+        "character": "Niko's Thug #2"
+      },
+      {
+        "name": "Robert Keith",
+        "character": "Police Officer"
+      },
+      {
+        "name": "Beau Lotterman",
+        "character": "Megaphone Cop"
+      },
+      {
+        "name": "Scott McElroy",
+        "character": "Niko's Thug #1"
+      },
+      {
+        "name": "Richard Montes",
+        "character": "Henchman #1"
+      },
+      {
+        "name": "Ivory Ocean",
+        "character": "Mayor Tilton"
+      },
+      {
+        "name": "Robert O'Reilly",
+        "character": "The Figure"
+      },
+      {
+        "name": "Louis Ortiz",
+        "character": "Coco Bongo Valet"
+      },
+      {
+        "name": "Daniel James Peterson",
+        "character": "Henchman #6"
+      },
+      {
+        "name": "Jeremy Roberts",
+        "character": "Bobby the Bouncer"
+      },
+      {
+        "name": "Eamonn Roche",
+        "character": "Mr. Dickey"
+      },
+      {
+        "name": "Randi Ruimy",
+        "character": "Screaming Lady"
+      },
+      {
+        "name": "Ben Stein",
+        "character": "Dr. Arthur Neuman"
+      },
+      {
+        "name": "Nils Allen Stewart",
+        "character": "Orlando"
+      },
+      {
+        "name": "Chris Taylor",
+        "character": "Coco Bongo Cop #1"
+      },
+      {
+        "name": "Bullet Valmont",
+        "character": "Alley Punk #2"
+      },
+      {
+        "name": "Wendy L. Walsh",
+        "character": "Herself"
+      },
+      {
+        "name": "Meadow Williams",
+        "character": "Pebbles"
+      },
+      {
+        "name": "Anne Fletcher",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Garret Sato",
+        "character": "(uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Harry Cohen",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Arthur Coburn",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "David Farmer",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Ray Lykins",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael De Luca",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mark Irwin",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "name": "Kyle Balda",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Dan Bradley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kenny Bates",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mike Werb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Craig Stearns",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Craig Stearns",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Clay Boss",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Denis L. Stewart",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Rick Barker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rick Barker",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Deborah Moore",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Deborah Moore",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Joe Fineman",
+        "department": "Production",
+        "job": "Executive In Charge Of Post Production"
+      },
+      {
+        "name": "Lisa Van Cott",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "M.K. Gleason",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Barbara Coston",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "David Crockett",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Chuck Russell",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Chuck Russell",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Randy Edelman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "John R. Leonetti",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Jon Farhat",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Ha Nguyen",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Tony Brubaker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alan Howarth",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Mike Richardson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Keith VanderLaan",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Mark Verheiden",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Randy Moore",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Carla Fry",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Bruce Mink",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Henry Kingi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jennifer Jean Cacavas",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Gary Littlejohn",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robert Engelman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert Engelman",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Ralph Ferraro",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Christopher J. Kristoff",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Fern Champion",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Mark Paladini",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Greg Cannom",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Melodee Spevack",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Melodee Spevack",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Bonnie Greenberg",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Tony Sereno",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jon H. Epstein",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ann Burgund",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Garret Sato",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary Rizzo",
+        "department": "Sound",
+        "job": "Sound Re-Recording Assistant"
+      },
+      {
+        "name": "Glory Fioramonti",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bob Brown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Donna Keegan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary Epper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Daniel W. Barringer",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Danny Epper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eddie Mulder",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Pete von Sholly",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Chris Durand",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peewee Piemonte",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Thomas L. Bellissimo",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Michael Fallon",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Larry Odien",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Griff Ruggles",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Vince Nicastro",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Tina Roesler Kerwin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Troy Robinson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "J. Mark Donaldson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gregg Barbanell",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Tricia Ronten",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Ann Scibelli",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Ann Scibelli",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jerry Evans",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Jim Brookshire",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Dan Engle",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Frank Torres",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ken Teaney",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Cathie Speakman",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Anthony Lattanzio",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "J. Marc Strachan",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Steven D. Williams",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Cheryl Wheeler Duncan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John LaSalandra",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Todd Tucker",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Craig Clark",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Craig Clark",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Erik Olson",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "John Cade",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nina Paskowitz",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Rob Coleman",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Tim Gedemer",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "William Freesh",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Lane Leavitt",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Roland Blancaflor",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Sorin Serene Pricopie",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Moio",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ellen Totleben",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Hugo Cortina",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Robert Guastini",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Mark Hopkins McNabb",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Jeff Vaughn",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Jeff Vaughn",
+        "department": "Sound",
+        "job": "ADR Engineer"
+      },
+      {
+        "name": "Stephen J. Ullman",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Joni Avery",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Glen Hanz",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Sharon Chazin Lieblein",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Steven Kaminsky",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Jake Crawford",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rob Burton",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Ricardo Broadus",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Ricardo Broadus",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Phill Norman",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Lisa Nunziella",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Rich King",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Steve Berens",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sheryl Ptak",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Gloria Cooper",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Scott Alan Cook",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Allan Schultz",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Allan Schultz",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Richie Gaona",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Pearlberg",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Rick Sawaya",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Andy Epper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Santoni",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Jim Stephan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lee Waddell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eddie Matthews",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Heather Taylor",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Madaras",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bruce Green",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      }
+    ]
+  },
+  "keywords": [
+    "dual identity",
+    "bank",
+    "superhero",
+    "mockery",
+    "transformation",
+    "villain",
+    "surrealism",
+    "based on comic",
+    "slapstick comedy",
+    "balloon",
+    "dog",
+    "urban setting",
+    "jail cell",
+    "wisecrack humor",
+    "super villain",
+    "norse mythology",
+    "supernatural power",
+    "the mask"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.",
+    "Timid bank clerk, Stanley Ipkiss (Jim Carrey). Unfortunately, he's too gentle, and is unable to handle confrontations. After one of the worst days, he finds a mask which depicts Loki, the Norse god of mischief. When he puts it on, he becomes his inner, self: a cartoon wild man. After Ipkiss's alter ego indirectly kills the friend of small time crime boss, Dorian Tyrel (Peter Greene),he wants the green-faced goon destroyed.—Ian Pugh <skypilot@ezaccess.net>",
+    "Bank clerk Stanley Ipkiss (Jim Carrey) comes in to possession of a mysterious mask which transforms him into his inner personality. Soon, the bumbling clerk becomes an unconventional super hero in search of justice - and a good time too.—Rob Hartill",
+    "Stanley Ipkiss (Jim Carrey) is a young shy man who works in a bank. One day, he discovers a mask by the sea, which (according to an archaeologist) pictures the Norse god of tricks and deception, Loki. When Stanley puts on the mask, he transforms into an uncontrolled reflection of himself, that does crazy things and amazes the people. This new super-hero, the \"Mask\", falls in love with a singer, Tina Carlyle (Cameron Diaz) while he decides to eliminate every gangster in the city.—Chris Makrozahopoulos <makzax@hotmail.com>"
+  ],
+  "synopsis": "Stanley Ipkiss (Jim Carrey), a clerk in an Edge City bank, is a shy, luckless romantic who is regularly bullied by nearly everyone around him, including his boss (Eamonn Roche), his landlady Mrs Peenman (Nancy Fish), and car mechanics. His only friends are his Fox Terrier Milo and his co-worker Charlie (Richard Jeni). Meanwhile, gangster Dorian Tyrell (Peter Greene) runs the exclusive Coco Bongo nightclub while plotting to overthrow his boss Niko (Orestes Matacena). Tyrell sends his singer girlfriend Tina Carlyle (Cameron Diaz) into Stanley's bank with a hidden camera, in preparation to rob the bank. Stanley is smitten with Tina, and she seems to reciprocate. Later that night after being denied entrance to the Coco Bongo, he is stranded with a broken-down loaner car at the city's filthy harbor, where he finds a mysterious wooden mask next to a pile of garbage which at first he mistakes to be a drowning man. He takes the object home and jokingly puts it on. The mask wraps around his head, transforming him into a wackily-suited, green-headed, figure, \"The Mask\", a trickster with reality-bending powers, physical imperviousness and without personal inhibitions who exacts comical revenge on some of Stanley's tormentors and scares a street gang that attempts to mug him.The next morning, Stanley encounters world-weary Edge City detective Lieutenant Kellaway (Peter Riegert) and newspaper reporter Peggy Brandt (Amy Yasbeck), both of whom are investigating the Mask's activities of the previous night. Despite these threats, the temptation to again use the mask is overwhelming and he puts it back on that evening. Needing money to attend Tina's performance at the Coco Bongo, the Mask noisily interrupts Tyrell's bank robbery and steals the targeted money while Tyrell's henchman Freeze (Reg E. Cathey) is shot by police responding to the disturbance.The Mask buys entry into the Coco Bongo, where he \"rocks the joint\" by dancing exuberantly with Tina in front of the cheering crowd after Tyrell is called away by Sweet Eddy (Denis Forest). After Freeze dies in Tyrell's arms, Tyrell violently asks who was responsible and Eddy points to the Mask dancing with Tina. At the end of the dance the Mask gives Tina a kiss that literally blows her shoes off, he is then confronted by Tyrell, who pulls out a gun and shoots off a part of the Mask's tie, which transforms back into Stanley's distinctive pajamas. The Mask escapes, while Tyrell is temporarily arrested for the bank robbery by Lt. Kellaway (who also finds the pajama scrap) who is also informed by a policeman that they found Freeze's dead body.Kellaway confronts Stanley at his apartment, just after a weary Stanley discovers all the bank money stuffed in his closet. Stanley later consults an expert on masks named Arthur Neumann (Ben Stein) who tells him that the object is likely a depiction of Loki, the Norse god of darkness and mischief. Despite this, and with both Tyrell and Lt. Kellaway hunting for him, a more confident Stanley stands up to his boss and arranges for Tina to meet the Mask at the local Landfill Park. The meeting goes badly when the Mask's advances scare Tina away and Lt. Kellaway arrives and attempts to arrest him. The Mask toys with the enraged officer before zooming out of the park and tricking a large group of Edge City police officers into joining him in a mass-performance production of the song Cuban Pete. Stanley manages to get the mask off and Peggy helps him escape, but then betrays him to Tyrell for a $50,000 mob bounty. Tyrell tries on the mask and becomes a demonic monster demanding to know from Stanley where the money he took is. Stanley is then shown in one of the mob cars as Tyrell's henchmen search Stanley's apartment and reclaim the money. Stanley is later literally dumped in Kellaway's lap with a green rubber mask and is thrown into jail.Tina sympathetically visits Stanley in his cell, where he urges her to flee the city. She attempts to do so, but is pursued by Orlando (Nils Allen Stewart) and cornered by Tyrell. Upon being told by Orlando of her attempt to leave the city, Tina is forcefully taken to his raid of a charity ball at the Coco Bongo which is hosted by Niko and attended by the city's elite including the city's mayor Mitchell Tilton (Ivory Ocean). Upon arrival, the Masked Tyrell kills Niko in a gunfight and prepares to destroy both the club and Tina. Meanwhile, Milo helps Stanley break out of his cell, and they go to the club to stop Tyrell, eventually dragging Lt. Kellaway along with him.Upon arrival, Stanley tells Lt. Kellaway to call for backup as he sneaks into the Coco Bongo with a gun of his own. After brief initial success with the assistance of Charlie, Stanley is spotted by Orlando and captured before Stanley can do anything. Tina tricks Tyrell into taking off the mask, which is recovered by Milo, turning the dog into a cartoonish pit-bull who defeats Tyrell's men, while Stanley fights Dorian himself. Stanley then recovers the mask and wears it one last time, using its abilities to save Tina by swallowing Tyrell's bomb, and then flushing Tyrell down the drain of the club's ornamental fountain. The police arrive and arrest Tyrell's remaining henchmen. Mayor Mitchell Tilton witnesses most of this (and deducing that Tyrell was the Mask from the start) and orders Lt. Kellaway to release Stanley. After Stanley, Tina, Charlie, and Milo leave, Mayor Mitchell Tilton tells Lt. Kellaway that he would like to have a word with him.As the sun rises, Stanley, Tina, Milo and Charlie take the mask back down to the harbor, where Tina and Stanley throw it back into the water and share their first kiss. Charlie attempts to retrieve the mask for himself, only to find Milo swimming away with it."
+}

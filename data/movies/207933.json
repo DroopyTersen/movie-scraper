@@ -1,0 +1,835 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7t4OgKvzqfvDcB2nA6oPyEHWd2G.jpg",
+  "id": 207933,
+  "title": "Stonehearst Asylum",
+  "poster_path": "https://image.tmdb.org/t/p/w500/fZxGCCQ0NAtraevqULJ84wSSjo0.jpg",
+  "release_date": "2014-10-23",
+  "vote_average": 6.8,
+  "vote_count": 1331,
+  "popularity": 35.674,
+  "overview": "A Harvard Medical School graduate takes a position at a mental institution and soon becomes obsessed with a female mental patient, but he has no idea of a recent and horrifying staffing change.",
+  "imdb_id": "tt1772264",
+  "budget": 0,
+  "homepage": "http://www.stonehearstasylum.com",
+  "revenue": 3200000,
+  "runtime": 112,
+  "tagline": "No one is what they seem.",
+  "genres": [
+    "Thriller",
+    "Mystery",
+    "Horror"
+  ],
+  "production_companies": [
+    "Icon Productions",
+    "Sobini Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Kate Beckinsale",
+        "character": "Eliza Graves"
+      },
+      {
+        "name": "Jim Sturgess",
+        "character": "Edward Newgate"
+      },
+      {
+        "name": "David Thewlis",
+        "character": "Mickey Finn"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "The Alienist"
+      },
+      {
+        "name": "Ben Kingsley",
+        "character": "Silas Lamb"
+      },
+      {
+        "name": "Michael Caine",
+        "character": "Dr. Benjamin Salt"
+      },
+      {
+        "name": "Sinéad Cusack",
+        "character": "Mrs. Pike"
+      },
+      {
+        "name": "Jason Flemyng",
+        "character": "Swanwick"
+      },
+      {
+        "name": "Sophie Kennedy Clark",
+        "character": "Millie"
+      },
+      {
+        "name": "Christopher Fulford",
+        "character": "Paxton"
+      },
+      {
+        "name": "Guillaume Delaunay",
+        "character": "Arthur Timbs"
+      },
+      {
+        "name": "Edmund Kingsley",
+        "character": "Charles Graves"
+      },
+      {
+        "name": "Robert Hands",
+        "character": "Elegant Lady"
+      },
+      {
+        "name": "Ciara Flynn",
+        "character": "Farmer's Daughter"
+      },
+      {
+        "name": "Andrew Dallmeyer",
+        "character": "Jeremiah"
+      },
+      {
+        "name": "Krasimir Nedev",
+        "character": "Napoleon"
+      },
+      {
+        "name": "Anton Trendafilov",
+        "character": "Balzoni"
+      },
+      {
+        "name": "Stefan Shterev",
+        "character": "Finn's Goon #1"
+      },
+      {
+        "name": "Malin Krastev",
+        "character": "Finn's Goon #2"
+      },
+      {
+        "name": "Yordan Zahariev",
+        "character": "Farmer"
+      },
+      {
+        "name": "Gabrielle Downey",
+        "character": "Blind Woman"
+      },
+      {
+        "name": "Dejan Angelov",
+        "character": "Filthy Man"
+      },
+      {
+        "name": "Petya Kamenova",
+        "character": "Maid"
+      },
+      {
+        "name": "Petya Dimanova",
+        "character": "Nun"
+      },
+      {
+        "name": "Marta Gutiérrez Abad",
+        "character": "Nurse"
+      },
+      {
+        "name": "Velizar Velichkov",
+        "character": "Student #1"
+      },
+      {
+        "name": "Asen Mutafchiev",
+        "character": "Student #2"
+      },
+      {
+        "name": "Moni Zarev",
+        "character": "Drummer Boy"
+      },
+      {
+        "name": "Velizar Binev",
+        "character": "Loud Man"
+      },
+      {
+        "name": "Krasimir Gospodinov",
+        "character": "Hunchback Chef"
+      },
+      {
+        "name": "Jivka Gancheva",
+        "character": "Baby Doll"
+      },
+      {
+        "name": "Yordan Bikov",
+        "character": "Lamp Man"
+      },
+      {
+        "name": "Ruslan Mainov",
+        "character": "Opera Man"
+      },
+      {
+        "name": "Joreta Nikolova",
+        "character": "Sad Woman"
+      },
+      {
+        "name": "Velimir Velev",
+        "character": "Schitzo"
+      },
+      {
+        "name": "Teodor Yordanov",
+        "character": "Boiler Room Attendant #1"
+      },
+      {
+        "name": "Andrey Slabakov",
+        "character": "Boiler Room Attendant #2"
+      },
+      {
+        "name": "Ekaterina Stoyanova",
+        "character": "Curious Follower"
+      },
+      {
+        "name": "Nikolay Stanoev",
+        "character": "Dinner Guest"
+      },
+      {
+        "name": "Stoyan Aleksiev",
+        "character": "Doctor"
+      },
+      {
+        "name": "Krasimir Kutsuparov",
+        "character": "Guest"
+      },
+      {
+        "name": "Alexandra Spasova",
+        "character": "Pregnant Woman"
+      },
+      {
+        "name": "Darin Angelov",
+        "character": "Red Coat #1"
+      },
+      {
+        "name": "Hristo Mitzkov",
+        "character": "Red Coat #2"
+      },
+      {
+        "name": "Kalin Vrachanski",
+        "character": "Red Coat #3"
+      },
+      {
+        "name": "Ivo Kehayov",
+        "character": "Gun 2"
+      },
+      {
+        "name": "Marin Yanev",
+        "character": "Smiler"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Debney",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Mel Gibson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Bruce Davey",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dino DiMuro",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Paul Pattison",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Paul Pattison",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Lon Bender",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Lon Bender",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Lon Bender",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "name": "Avi Lerner",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Vicki Christianson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Thomas Oláh",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "David Higgins",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Brad Anderson",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Edgar Allan Poe",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "name": "Kate Dowd",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Mark Amin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Malcolm Jamieson",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Irina Kotcheva",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Marianne Stanicheva",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Lati Grobman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Sonya Savova",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Cami Winikoff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mark Gill",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Christa Campbell",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Kaloian Vodenicharov",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Joe Gangemi",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Mark Sussman",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Mark Roper",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "René Besson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Adriano Giombini",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Ross W. Clarkson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Ivailo Dimitrov",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Carlos Bodelón",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "George Karlukovski",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Martin Czembor",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Alain Baineé",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Borislav Iliev",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Thomas Yatsko",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Velemira Petkova",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Mosko Masev",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Dobrinka Stamenkova",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Boris Atanasov",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Toni Lalov",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Milena Mihaylova",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Alessandro Troso",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Alexei Karagyaur",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Kris Fenske",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "John Carbonara",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Brian Gates",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Bill R. Dean",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Bill R. Dean",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "name": "Simon Varsano",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Margot Boccia",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Daniela Avramova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Sofi Hvarleva",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Ivon Ivanova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Patrick Cicero",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Valentin Valov",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kiril Valchanov",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Kiril Valchanov",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Milen Kaleichev",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Katerina Savova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Bobbi Banks",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Anna Andreeva",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Pavel Mitov",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Petya Simeonova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Antoaneta Andreeva",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Lorraine Hill",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Lorraine Hill",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Hristo Idakiev",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Sarah Love",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Lonnie Ramati",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Selena Arizanovic",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Patty Connolly",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Paolo Faenzi",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Greta Velikova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Yordanka Orlova",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Marieta Duncheva",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Russ Senzatimore",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Clare Harlow",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Ivanka Gorchinina",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Katherine McCormack",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Todd Gilbert",
+        "department": "Production",
+        "job": "Executive In Charge Of Post Production"
+      },
+      {
+        "name": "Svetozar Karatanchev",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Georgi Stanislavov",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Venelin Stepanov",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "David Raines",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Sufo Evtimov",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Sylvia Asenova",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Katie Roper",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Alberto Carreras Velasco",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Andrei Chertov",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Emil Evtimov",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Nora Kühnel Bates",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Katerina Atanasova",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Enka Nikolaidu",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Marina Proykova",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Boika Mladenova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Mariana Mihailova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Neli Teova",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Atanaska Popova",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Yanka Doichinova",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Albena Atanasova",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Sylvia Toshkova",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Vesela Toshkova",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Miroslav Borisov",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Stasi Petrova",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Shiri Lerner",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Lily Lacheva",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Katerina Goranova",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Jivko Chakarov",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Teodor Simeonov",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Heather Gika",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Allen Zeleski",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Venelin Mishev",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Radka Petkova",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tihomir Vinchev",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Kalin Kerin",
+        "department": "Crew",
+        "job": "Stunt Double"
+      }
+    ]
+  },
+  "keywords": [
+    "mental institution",
+    "psychological thriller",
+    "doctor",
+    "mental patient",
+    "based on short story",
+    "mental asylum",
+    "doctor patient relationship",
+    "19th century"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "An Oxford graduate takes up a job in a mental asylum, only to discover that the \"revolutionary\" new treatments are inhumane, and that there is more going on than meets the eye.",
+    "A couple of days before 1899 Christmas, the Oxford new graduate Dr. Edward Newgate arrives at the Stonehearst Asylum to complete training for his specialty of asylum medicine. He is met by armed men who take him to Dr. Silas Lamb, who welcomes his help and takes him under his wing. Edward is shocked to see the methods that Dr. Lamb uses to run this asylum. He becomes infatuated with Eliza Graves, one of the patients who is a lady of status and does not seem to belong. One night, Edward overhears a knocking from the bowels of the facility and is shocked to find that everything is not as it seems in this place and that his uneasy feelings may be justified. What will Edward Choose?—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "In hope of becoming a resident and in search of experience, Edward Newgate, a promising young doctor who has recently graduated from Oxford, arrives at the Stonehearst institution for the mentally ill, in 1899. However, right from the start, it is quite clear that the superintendent Dr. Silas Lamb's unorthodox methods of treatment seem to have no positive effect on the patients, furthermore, there is a strange feeling that there is more to the asylum than meets the eye. Little by little, as Edward becomes infatuated with the mysteriously alluring inmate, Eliza Graves, reconciling Lamb's practices with his fresh ideas about therapy, will soon lead to a startling and unexpected discovery. In the end, who can be trusted in a place where nothing is as it seems?—Nick Riganas"
+  ],
+  "synopsis": ""
+}

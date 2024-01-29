@@ -1,0 +1,734 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+  "id": 15,
+  "title": "Citizen Kane",
+  "poster_path": "https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+  "release_date": "1941-04-17",
+  "vote_average": 8.007,
+  "vote_count": 5178,
+  "popularity": 29.99,
+  "overview": "Newspaper magnate, Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+  "imdb_id": "tt0033467",
+  "budget": 839727,
+  "homepage": "",
+  "revenue": 23218000,
+  "runtime": 119,
+  "tagline": "It's terrific!",
+  "genres": [
+    "Mystery",
+    "Drama"
+  ],
+  "production_companies": [
+    "Mercury Productions",
+    "RKO Radio Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Orson Welles",
+        "character": "Charles Foster Kane"
+      },
+      {
+        "name": "Joseph Cotten",
+        "character": "Jedediah Leland"
+      },
+      {
+        "name": "Dorothy Comingore",
+        "character": "Susan Alexander Kane"
+      },
+      {
+        "name": "Ray Collins",
+        "character": "Jim W. Gettys"
+      },
+      {
+        "name": "George Coulouris",
+        "character": "Walter Parks Thatcher"
+      },
+      {
+        "name": "Agnes Moorehead",
+        "character": "Mary Kane"
+      },
+      {
+        "name": "Paul Stewart",
+        "character": "Raymond"
+      },
+      {
+        "name": "Ruth Warrick",
+        "character": "Emily Norton Kane"
+      },
+      {
+        "name": "Erskine Sanford",
+        "character": "Herbert Carter"
+      },
+      {
+        "name": "William Alland",
+        "character": "Jerry Thompson/Narrator"
+      },
+      {
+        "name": "Everett Sloane",
+        "character": "Mr. Bernstein"
+      },
+      {
+        "name": "Fortunio Bonanova",
+        "character": "Signor Matiste"
+      },
+      {
+        "name": "Gus Schilling",
+        "character": "John"
+      },
+      {
+        "name": "Philip Van Zandt",
+        "character": "Mr. Rawlston"
+      },
+      {
+        "name": "Georgia Backus",
+        "character": "Bertha Anderson"
+      },
+      {
+        "name": "Harry Shannon",
+        "character": "Jim Kane"
+      },
+      {
+        "name": "Sonny Bupp",
+        "character": "Charles Foster Kane III"
+      },
+      {
+        "name": "Buddy Swan",
+        "character": "Young Charles Foster Kane"
+      },
+      {
+        "name": "Gregg Toland",
+        "character": "Interviewer"
+      },
+      {
+        "name": "Don Ackerman",
+        "character": "Man at Party in Everglades (uncredited)"
+      },
+      {
+        "name": "Nat King Cole",
+        "character": "Pianist in 'El Rancho' (uncredited)"
+      },
+      {
+        "name": "Gino Corrado",
+        "character": "Gino (uncredited)"
+      },
+      {
+        "name": "Maurice Costello",
+        "character": "Extra (uncredited)"
+      },
+      {
+        "name": "Demetrius Alexis",
+        "character": "Newsreel Man (uncredited)"
+      },
+      {
+        "name": "Gene Coogan",
+        "character": "Newsreel Man (uncredited)"
+      },
+      {
+        "name": "Art Dupuis",
+        "character": "Newsreel Man (uncredited)"
+      },
+      {
+        "name": "Rudy Germane",
+        "character": "Newsreel Man (uncredited)"
+      },
+      {
+        "name": "Mike Lally",
+        "character": "Newsreel Man (uncredited)"
+      },
+      {
+        "name": "Walter Lawrence",
+        "character": "Newsreel Man (uncredited)"
+      },
+      {
+        "name": "John Northpole",
+        "character": "Newsreel Man (uncredited)"
+      },
+      {
+        "name": "Victor Romito",
+        "character": "Newsreel Man (uncredited)"
+      },
+      {
+        "name": "Bob Terry",
+        "character": "Newsreel Man (uncredited)"
+      },
+      {
+        "name": "William Alston",
+        "character": "Man at Xanadu Great Hall (uncredited)"
+      },
+      {
+        "name": "Jack Gargan",
+        "character": "Man at Xanadu Great Hall (uncredited)"
+      },
+      {
+        "name": "Bert Moorhouse",
+        "character": "Man at Xanadu Great Hall (uncredited)"
+      },
+      {
+        "name": "Carmen Laroux",
+        "character": "Maid in Xanadu Hall (uncredited)"
+      },
+      {
+        "name": "Sam Ash",
+        "character": "Man at Boat Dock (uncredited)"
+      },
+      {
+        "name": "Buddy Messinger",
+        "character": "Man at Boat Dock (uncredited)"
+      },
+      {
+        "name": "Terrance Ray",
+        "character": "Man at Boat Dock (uncredited)"
+      },
+      {
+        "name": "Sally Corner",
+        "character": "Woman at Boat Dock (uncredited)"
+      },
+      {
+        "name": "Walter Bacon",
+        "character": "City Room Employee (uncredited)"
+      },
+      {
+        "name": "Herbert Corthell",
+        "character": "City Editor (uncredited)"
+      },
+      {
+        "name": "Harry A. Bailey",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Danny Borzage",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "J.J. Clark",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Tom Coleman",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Carl Deloro",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Jack Egan",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Robert Haines",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Ludwig Lowry",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "John McCormack",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Hercules Mendez",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Paddy O'Flynn",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Sam Rice",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Don Roberts",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Larry Wheat",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Larry Williams",
+        "character": "Man Singing at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Joan Blair",
+        "character": "Georgia (uncredited)"
+      },
+      {
+        "name": "Morgan Brown",
+        "character": "Servant (uncredited)"
+      },
+      {
+        "name": "Harry Burkhardt",
+        "character": "Wedding Guest (uncredited)"
+      },
+      {
+        "name": "Edmund Cobb",
+        "character": "Inquirer Reporter (uncredited)"
+      },
+      {
+        "name": "Eddie Coke",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Louis Natheaux",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Arthur O'Connell",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Guy Repp",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Tom Steele",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Richard Wilson",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Louise Currie",
+        "character": "Reporter at Xanadu (uncredited)"
+      },
+      {
+        "name": "Walter Sande",
+        "character": "Reporter at Xanadu (uncredited)"
+      },
+      {
+        "name": "Jan Wiley",
+        "character": "Reporter at Xanadu (uncredited)"
+      },
+      {
+        "name": "Milton Kibbee",
+        "character": "Reporter at Wedding (uncredited)"
+      },
+      {
+        "name": "Buck Mack",
+        "character": "Reporter at Boat Deck (uncredited)"
+      },
+      {
+        "name": "Alan Ladd",
+        "character": "Reporter Smoking Pipe at End (uncredited)"
+      },
+      {
+        "name": "Thomas A. Curran",
+        "character": "Teddy Roosevelt (uncredited)"
+      },
+      {
+        "name": "Jack Curtis",
+        "character": "Boss Printer (uncredited)"
+      },
+      {
+        "name": "George Noisom",
+        "character": "Copy Boy (uncredited)"
+      },
+      {
+        "name": "Gerald Pierce",
+        "character": "Copy Boy Delivering Message in Chicago Hotel Room (uncredited)"
+      },
+      {
+        "name": "Dona Dax",
+        "character": "House Maid (uncredited)"
+      },
+      {
+        "name": "George DeNormand",
+        "character": "Newspaperman at Trenton Town Hall (uncredited)"
+      },
+      {
+        "name": "Bud Geary",
+        "character": "Newspaperman at Trenton Town Hall (uncredited)"
+      },
+      {
+        "name": "Bert LeBaron",
+        "character": "Newspaperman at Trenton Town Hall (uncredited)"
+      },
+      {
+        "name": "Clyde McAtee",
+        "character": "Newspaperman at Trenton Town Hall (uncredited)"
+      },
+      {
+        "name": "Cyril Ring",
+        "character": "Newspaperman at Trenton Town Hall (uncredited)"
+      },
+      {
+        "name": "Roland Winters",
+        "character": "Newspaperman at Trenton Town Hall (uncredited)"
+      },
+      {
+        "name": "Lew Harvey",
+        "character": "Newspaperman (uncredited)"
+      },
+      {
+        "name": "Herman J. Mankiewicz",
+        "character": "Newspaperman (uncredited)"
+      },
+      {
+        "name": "Eddie Dew",
+        "character": "Man in Projection Room (uncredited)"
+      },
+      {
+        "name": "Perc Launders",
+        "character": "Man in Projection Room (uncredited)"
+      },
+      {
+        "name": "John Dilson",
+        "character": "Ward Heeler (uncredited)"
+      },
+      {
+        "name": "Walter James",
+        "character": "Ward Heeler (uncredited)"
+      },
+      {
+        "name": "Robert Dudley",
+        "character": "Photographer (uncredited)"
+      },
+      {
+        "name": "Suzanne Dulier",
+        "character": "French Maid (uncredited)"
+      },
+      {
+        "name": "Al Eben",
+        "character": "Solly (uncredited)"
+      },
+      {
+        "name": "Johnny Eckert",
+        "character": "Car-Driver (uncredited)"
+      },
+      {
+        "name": "Carl Ekberg",
+        "character": "Adolf Hitler (uncredited)"
+      },
+      {
+        "name": "Edith Evanson",
+        "character": "Leland's Nurse (uncredited)"
+      },
+      {
+        "name": "Carl Faulkner",
+        "character": "Hermann Goring (uncredited)"
+      },
+      {
+        "name": "Juanita Fields",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Edna Mae Jones",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Leda Nicova",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Jolane Reynolds",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Suzanne Ridgway",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Olin Francis",
+        "character": "Expressman (uncredited)"
+      },
+      {
+        "name": "Louise Franklin",
+        "character": "Susan's Maid (uncredited)"
+      },
+      {
+        "name": "Renee Godfrey",
+        "character": "Nurse (uncredited)"
+      },
+      {
+        "name": "Peter Gowland",
+        "character": "Guest (uncredited)"
+      },
+      {
+        "name": "Jimmy Grant",
+        "character": "Man at Party in Everglades (uncredited)"
+      },
+      {
+        "name": "Jesse Graves",
+        "character": "Joseph (uncredited)"
+      },
+      {
+        "name": "Ernest Grooney",
+        "character": "Man on Hospital Roof (uncredited)"
+      },
+      {
+        "name": "Jack Gwynne",
+        "character": "Man on Hospital Roof (uncredited)"
+      },
+      {
+        "name": "Teddy Mangean",
+        "character": "Man on Roof (uncredited)"
+      },
+      {
+        "name": "Henry Hebert",
+        "character": "Best Man at Wedding (uncredited)"
+      },
+      {
+        "name": "Bryan 'Slim' Hightower",
+        "character": "Fish Driver (uncredited)"
+      },
+      {
+        "name": "Mitchell Ingraham",
+        "character": "Politician (uncredited)"
+      },
+      {
+        "name": "Philip Morris",
+        "character": "Politician (uncredited)"
+      },
+      {
+        "name": "Francis Sayles",
+        "character": "Politician (uncredited)"
+      },
+      {
+        "name": "George W. Jimenez",
+        "character": "Waiter at Inquirer Party (uncredited)"
+      },
+      {
+        "name": "Ellen Lowe",
+        "character": "Ms. Townsend (uncredited)"
+      },
+      {
+        "name": "James T. Mack",
+        "character": "Prompter (uncredited)"
+      },
+      {
+        "name": "Mickey Martin",
+        "character": "Newsboy (uncredited)"
+      },
+      {
+        "name": "Bruce Sidney",
+        "character": "Newsman (uncredited)"
+      },
+      {
+        "name": "Major McBride",
+        "character": "Shadowgraph Man (uncredited)"
+      },
+      {
+        "name": "Frank McLure",
+        "character": "(uncredited)"
+      },
+      {
+        "name": "Charles Meakin",
+        "character": "Civic Leader (uncredited)"
+      },
+      {
+        "name": "Edward Peil Jr.",
+        "character": "Civic Leader (uncredited)"
+      },
+      {
+        "name": "Irving Mitchell",
+        "character": "Dr. Corey (uncredited)"
+      },
+      {
+        "name": "Frances E. Neal",
+        "character": "Ethel (uncredited)"
+      },
+      {
+        "name": "Lillian Nicholson",
+        "character": "Woman at Opera (uncredited)"
+      },
+      {
+        "name": "Joseph North",
+        "character": "Secretary (uncredited)"
+      },
+      {
+        "name": "William H. O'Brien",
+        "character": "Secretary (uncredited)"
+      },
+      {
+        "name": "Field Norton",
+        "character": "Opera Spectator (uncredited)"
+      },
+      {
+        "name": "Dick Scott",
+        "character": "Opera Spectator (uncredited)"
+      },
+      {
+        "name": "Frank O'Connor",
+        "character": "Man at Madison Square Garden (uncredited)"
+      },
+      {
+        "name": "Russ Powell",
+        "character": "Man at Madison Square Garden (uncredited)"
+      },
+      {
+        "name": "Bert Stevens",
+        "character": "Man at Madison Square Garden (uncredited)"
+      },
+      {
+        "name": "Thomas Pogue",
+        "character": "Man (uncredited)"
+      },
+      {
+        "name": "Lillian O'Malley",
+        "character": "Woman in Front of Chronicle Building (uncredited)"
+      },
+      {
+        "name": "Jack Raymond",
+        "character": "Stagehand (uncredited)"
+      },
+      {
+        "name": "Gohr Van Vleck",
+        "character": "Stagehand (uncredited)"
+      },
+      {
+        "name": "Myrtle Rishell",
+        "character": "Big Governess (uncredited)"
+      },
+      {
+        "name": "Benny Rubin",
+        "character": "Smather (uncredited)"
+      },
+      {
+        "name": "Shimen Ruskin",
+        "character": "Hireling (uncredited)"
+      },
+      {
+        "name": "George Sherwood",
+        "character": "Hireling (uncredited)"
+      },
+      {
+        "name": "Edward Ryan",
+        "character": "Man in Inquirer City Room (uncredited)"
+      },
+      {
+        "name": "Landers Stevens",
+        "character": "Senate Investigator (uncredited)"
+      },
+      {
+        "name": "Harry J. Vejar",
+        "character": "Portuguese Laborer (uncredited)"
+      },
+      {
+        "name": "Tudor Williams",
+        "character": "Chorus Master (uncredited)"
+      },
+      {
+        "name": "Arthur Yeoman",
+        "character": "Speaker (uncredited)"
+      },
+      {
+        "name": "Tim Davis",
+        "character": "Copy Boy (uncredited)"
+      },
+      {
+        "name": "Charles Bennett",
+        "character": "Entertainer\t (uncredited)"
+      },
+      {
+        "name": "Arthur Kay",
+        "character": "Orchestra Leader (Uncredited)"
+      },
+      {
+        "name": "John Alban",
+        "character": "Reporter (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Orson Welles",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Orson Welles",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Orson Welles",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Bernard Herrmann",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Bernard Herrmann",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Gregg Toland",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Robert Wise",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Van Nest Polglase",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Edward Stevenson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Vernon L. Walker",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Bailey Fesler",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "James G. Stewart",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Herman J. Mankiewicz",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": [
+    "media tycoon",
+    "florida",
+    "art collector",
+    "newspaper",
+    "capitalist",
+    "journalist",
+    "sleigh",
+    "banker",
+    "american dream",
+    "failure",
+    "money",
+    "black and white",
+    "snowglobes",
+    "child",
+    "rosebud",
+    "last word"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+    "A group of reporters are trying to decipher the last word ever spoken by Charles Foster Kane, the millionaire newspaper tycoon: \"Rosebud.\" The film begins with a news reel detailing Kane's life for the masses, and then from there, viewers are shown flashbacks from Kane's life. As the reporters investigate further, the viewers see a display of a fascinating man's rise to fame, and how he eventually fell off the top of the world.—Zack H. / edited by Rob",
+    "The newspaper baron Charles Foster Kane, one of the richest and most powerful men in America if not the world, dies. A newspaperman digs into his past seeking the meaning of his enigmatic last word: \"Rosebud.\" He finds evidence of a child torn away from his family to serve Mammon. Grown into manhood, Charles Foster Kane becomes a newspaperman to indulge his idealism. He marries the niece of the man who will become President of the United States, and gradually assumes more and more power while losing more and more of his soul. Kane's money and power does not bring him happiness, as he has lost his youthful idealism, as has the America he is a symbol for.—Jon C. Hopwood",
+    "After his death, the life of Charles Foster Kane - newspaper magnate and all-round larger-than-life American - is told from the perspective of those who knew him. A newspaper reporter is interviewing those in Kane's life hoping to learn the meaning of Kane's last word, Rosebud. Kane was sent to a boarding school at a young age after his mother struck it rich thanks to a mining claim that was signed over to her in lieu of rent. He came into his vast fortune at the age of 25 and promptly bought a newspaper. His idea of news was to make it as much as report it and along with his good friend, Jedediah Leland, had a rollicking good time. Unsuccessful in his bid for political office, his relationships with those around him begin to deteriorate and he dies, old and alone, whispering the word Rosebud.—garykmcd",
+    "When a reporter is assigned to decipher newspaper magnate Charles Foster Kane's dying words, his investigation gradually reveals the fascinating portrait of a complex man who rose from obscurity to staggering heights. Though Kane's friend and colleague Jedediah Leland, and his mistress, Susan Alexander, shed fragments of light on Kane's life, the reporter fears he may never penetrate the mystery of the elusive man's final word, \"Rosebud.\"—Jwelch5742"
+  ],
+  "synopsis": "In a mansion in Xanadu, a vast palatial estate in Florida, the elderly Charles Foster Kane (Orson Welles) is on his deathbed. Holding a snow globe, he utters a word, \"Rosebud\", and dies; the globe slips from his hand and smashes on the floor. A newsreel obituary tells the life story of Kane, an enormously wealthy newspaper publisher. Kane had humble beginnings but led a stellar life. He was twice divorced, and his business empire once contained 13 newspapers and radio stations across US. His palatial mansion Xanadu was the most expensive private construction project after the pyramids. It had a private zoo. Kane was legendary in his hatred for Thatcher, who also claimed to be the trustee of Kane's wealth from his parents. Kane's political career was cut short due to a love scandal, & in his late years, he was alone, unloved and abandoned.\nKane's death becomes sensational news around the world, and the newsreel's producer tasks reporter Jerry Thompson (William Alland) with discovering the meaning of \"Rosebud\".Thompson sets out to interview Kane's friends and associates. He approaches Kane's second wife (Dorothy Comingore), Susan Alexander Kane, now an alcoholic who runs her own nightclub, but she refuses to talk to him. Thompson goes to the private archive of the late banker Walter Parks Thatcher (George Coulouris), also Kane's legal guardian when he was young. Through Thatcher's written memoirs, Thompson learns that Kane's childhood began in poverty in Colorado.In 1871, after a gold mine was discovered on her property, Kane's mother Mary Kane (Agnes Moorehead) sends Charles away to live with Thatcher so that he would be properly educated. While Thatcher and Charles' parents discuss arrangements inside, the young Kane (Buddy Swan) plays happily with a sled in the snow outside his parents' boarding-house and protests being sent to live with Thatcher. Kane's mother made this decision as she was afraid that Kane's father was a bum and he would squander away the money. So, she hands over control of the gold mine to Thatcher's bank in exchange for all profits going into a trust, which would be given to Kane when he turns 25.\nYears later, after gaining full control over his trust fund at the age of 25, Kane enters the newspaper business and embarks on a career of yellow journalism. He takes control of the New York Inquirer and starts publishing scandalous articles that attack Thatcher's business interests. Thatcher is livid, Kane continues to bleed to the extent of $ 1 MM per year to keep his newspaper going. After the stock market crash in 1929, Kane is forced to sell controlling interest of his newspaper empire to Thatcher.Back in the present, Thompson interviews Kane's personal business manager, Mr. Bernstein (Everett Sloane). Bernstein recalls how Kane hired the best journalists available to build the Inquirer's circulation. Kane rose to power by successfully manipulating public opinion regarding the Spanish American War and marrying Emily Norton (Ruth Warrick), the niece of a President of the United States. He grew the circulation of his paper from a modest 26,000 to an astounding 684,000, beating its top rival the chronicle.Thompson interviews Kane's estranged best friend, Jedediah Leland (Joseph Cotten), in a retirement home. Leland recalls how Kane's marriage to Emily disintegrates more and more over the years (Kane would not refrain from attacking the policies of the President and that would cause tension in the Kane household), and he begins an affair with amateur singer Susan Alexander while he is running for Governor of New York. Both his wife and his political opponent (James Gettys) discover the affair and the public scandal ends his political career. Kane marries Susan and forces her into a humiliating operatic career for which she has neither the talent nor the ambition (Apparently Susan told Kane when they were dating that she always wanted to be a singer).Back in the present, Susan now consents to an interview with Thompson, and recalls her failed opera career. Kane finally allows her to abandon her singing career after she attempts suicide. After years spent dominated by Kane and living in isolation at Xanadu, Susan leaves Kane. Kane's butler Raymond (Paul Stewart) recounts that, after Susan leaves him, Kane begins violently destroying the contents of her bedroom. He suddenly calms down when he sees a snow globe and says, \"Rosebud.\"\nBack at Xanadu, Kane's belongings are being cataloged or discarded. Thompson concludes that he is unable to solve the mystery and that the meaning of Kane's last word will forever remain an enigma. As the film ends, the camera reveals that \"Rosebud\" is the trade name of the sled on which the eight-year-old Kane was playing on the day that he was taken from his home in Colorado. Thought to be junk by Xanadu's staff, the sled is burned in a furnace."
+}

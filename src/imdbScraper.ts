@@ -32,9 +32,7 @@ export const getImdbMovie = async (imdbId: string): Promise<ImdbMovie> => {
   let filepath = `data/imdb/${imdbId}.html`;
   // let file = Bun.file(filepath);
   let html = await fetchImdbMovieHtml(imdbId);
-  console.log("🚀 | getImdbMovie | html:", html);
   let data = parseImdbHtml(html);
-  console.log("🚀 | getImdbMovie | data:", data);
   await Bun.write(filepath, html);
 
   return {

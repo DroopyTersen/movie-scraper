@@ -1,0 +1,905 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+  "id": 786,
+  "title": "Almost Famous",
+  "poster_path": "https://image.tmdb.org/t/p/w500/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+  "release_date": "2000-09-15",
+  "vote_average": 7.51,
+  "vote_count": 2539,
+  "popularity": 22.556,
+  "overview": "In 1973, 15-year-old William Miller's unabashed love of music and aspiration to become a rock journalist lands him an assignment from Rolling Stone magazine to interview and tour with the up-and-coming band, Stillwater.",
+  "imdb_id": "tt0181875",
+  "budget": 60000000,
+  "homepage": "",
+  "revenue": 47386287,
+  "runtime": 124,
+  "tagline": "Experience it. Enjoy it. Just don't fall for it.",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "production_companies": [
+    "DreamWorks Pictures",
+    "Columbia Pictures",
+    "Vinyl Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Patrick Fugit",
+        "character": "William Miller"
+      },
+      {
+        "name": "Kate Hudson",
+        "character": "Penny Lane"
+      },
+      {
+        "name": "Billy Crudup",
+        "character": "Russell Hammond"
+      },
+      {
+        "name": "Jason Lee",
+        "character": "Jeff Bebe"
+      },
+      {
+        "name": "Frances McDormand",
+        "character": "Elaine Miller"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Lester Bangs"
+      },
+      {
+        "name": "Zooey Deschanel",
+        "character": "Anita Miller"
+      },
+      {
+        "name": "Noah Taylor",
+        "character": "Dick Roswell"
+      },
+      {
+        "name": "Michael Angarano",
+        "character": "Young William"
+      },
+      {
+        "name": "Jimmy Fallon",
+        "character": "Dennis Hope"
+      },
+      {
+        "name": "Anna Paquin",
+        "character": "Polexia Aphrodisia"
+      },
+      {
+        "name": "Terry Chen",
+        "character": "Ben Fong-Torres"
+      },
+      {
+        "name": "Fairuza Balk",
+        "character": "Sapphire"
+      },
+      {
+        "name": "John Fedevich",
+        "character": "Ed Vallencourt"
+      },
+      {
+        "name": "Mark Kozelek",
+        "character": "Larry Fellows"
+      },
+      {
+        "name": "Liz Stauber",
+        "character": "Leslie"
+      },
+      {
+        "name": "Rainn Wilson",
+        "character": "David Felton"
+      },
+      {
+        "name": "Bijou Phillips",
+        "character": "Estrella Starr"
+      },
+      {
+        "name": "Olivia Rosewood",
+        "character": "Beth from Denver"
+      },
+      {
+        "name": "Alice Marie Crowe",
+        "character": "Mrs. Deegan"
+      },
+      {
+        "name": "J.J. Cohen",
+        "character": "Roadie Scully"
+      },
+      {
+        "name": "Gary Kohn",
+        "character": "Roadie Gregg"
+      },
+      {
+        "name": "Ray Porter",
+        "character": "Roadie Mick"
+      },
+      {
+        "name": "Mark Pellington",
+        "character": "Freddy"
+      },
+      {
+        "name": "Eion Bailey",
+        "character": "Jann Wenner"
+      },
+      {
+        "name": "Erin Foley",
+        "character": "Alison the Fact Checker"
+      },
+      {
+        "name": "Jesse Caron",
+        "character": "Darryl"
+      },
+      {
+        "name": "Charles Walker",
+        "character": "Principal"
+      },
+      {
+        "name": "Jay Baruchel",
+        "character": "Vic Munoz"
+      },
+      {
+        "name": "Pauley Perrette",
+        "character": "Alice Wisdom"
+      },
+      {
+        "name": "Peter Frampton",
+        "character": "Reg"
+      },
+      {
+        "name": "Zack Ward",
+        "character": "The Legendary Red Dog"
+      },
+      {
+        "name": "Mitch Hedberg",
+        "character": "Eagles Road Manager"
+      },
+      {
+        "name": "Devin Corey",
+        "character": "The Who Road Manager"
+      },
+      {
+        "name": "Pete Droge",
+        "character": "Hyatt Singer"
+      },
+      {
+        "name": "Elaine Summers",
+        "character": "Hyatt Singer"
+      },
+      {
+        "name": "Eric Stonestreet",
+        "character": "Sheldon the Desk Clerk"
+      },
+      {
+        "name": "Marc Maron",
+        "character": "Angry Promoter"
+      },
+      {
+        "name": "Shane Willard",
+        "character": "Ticket Scalper"
+      },
+      {
+        "name": "Chris McElprang",
+        "character": "Aaron Amedori"
+      },
+      {
+        "name": "John Patrick Amedori",
+        "character": "John Patrick Amedori"
+      },
+      {
+        "name": "Kate Peckham",
+        "character": "Quiet Girl"
+      },
+      {
+        "name": "Julia Decker",
+        "character": "Waving Girl"
+      },
+      {
+        "name": "Brian Vaughan",
+        "character": "Real Topeka Kid"
+      },
+      {
+        "name": "Anthony Martelli",
+        "character": "Poolside Provocateur"
+      },
+      {
+        "name": "Zach Clairville",
+        "character": "Acid Kid"
+      },
+      {
+        "name": "Ian Ridgeway",
+        "character": "Topeka Partier"
+      },
+      {
+        "name": "Isaac Curtiss",
+        "character": "Topeka Partier"
+      },
+      {
+        "name": "Chris Lennon Davis",
+        "character": "Topeka Partier"
+      },
+      {
+        "name": "Scott N. Stevens",
+        "character": "Co-Pilot"
+      },
+      {
+        "name": "Kevin Sussman",
+        "character": "Lenny"
+      },
+      {
+        "name": "Reathel Bean",
+        "character": "Warwick Hotel Clerk"
+      },
+      {
+        "name": "Tom Riis Farrell",
+        "character": "Plaza Doctor"
+      },
+      {
+        "name": "Laura Bastianelli",
+        "character": "Nurse"
+      },
+      {
+        "name": "Samuel Aaron Roberson",
+        "character": "High School Band"
+      },
+      {
+        "name": "Brian Andreasen",
+        "character": "High School Band"
+      },
+      {
+        "name": "Jared Hren",
+        "character": "High School Band"
+      },
+      {
+        "name": "Mary Dragicevich",
+        "character": "High School Band"
+      },
+      {
+        "name": "Aura Barr",
+        "character": "High School Band"
+      },
+      {
+        "name": "Daniel Wilson",
+        "character": "Journalism Teacher"
+      },
+      {
+        "name": "William Barillaro",
+        "character": "Bus Driver"
+      },
+      {
+        "name": "Holly Maples",
+        "character": "Flight Attendant"
+      },
+      {
+        "name": "Matt Griesser",
+        "character": "PSA Co-Pilot"
+      },
+      {
+        "name": "Susan Yeagley",
+        "character": "Have a Nice Day Stewardess"
+      },
+      {
+        "name": "Nicole Spector",
+        "character": "Hippie Girl at Airport"
+      },
+      {
+        "name": "Patrick Irmen",
+        "character": "Wanna Get High Guy"
+      },
+      {
+        "name": "Nick Swardson",
+        "character": "Insane Bowie Fan"
+      },
+      {
+        "name": "Cindy Weber",
+        "character": "Shocked Elevator Family"
+      },
+      {
+        "name": "Kris Weber",
+        "character": "Shocked Elevator Family"
+      },
+      {
+        "name": "Kimberly Weber",
+        "character": "Shocked Elevator Family"
+      },
+      {
+        "name": "Kristin Weber",
+        "character": "Shocked Elevator Family"
+      },
+      {
+        "name": "Samer Sourakli",
+        "character": "Mustache Boy"
+      },
+      {
+        "name": "Michelle Moretti",
+        "character": "Swingo's Desk Clerk"
+      },
+      {
+        "name": "Ana Maria Quintana",
+        "character": "Arizona Housekeeper"
+      },
+      {
+        "name": "Lisa Buchignani",
+        "character": "Arizona Housekeeper"
+      },
+      {
+        "name": "Lilly Scourtis Ayers",
+        "character": "Max's Kansas City Waitress (uncredited)"
+      },
+      {
+        "name": "Andrew Briedis",
+        "character": "Boy with Bike (uncredited)"
+      },
+      {
+        "name": "Greg Bronson",
+        "character": "Upscale Pedestrian (uncredited)"
+      },
+      {
+        "name": "Cindy Crowe",
+        "character": "Anita - Startled Family Member (uncredited)"
+      },
+      {
+        "name": "David C. Fisher",
+        "character": "Party Guest (uncredited)"
+      },
+      {
+        "name": "Elizabeth Friedman",
+        "character": "Groupie (uncredited)"
+      },
+      {
+        "name": "Deirdre O'Brien",
+        "character": "Groupie (uncredited)"
+      },
+      {
+        "name": "Marc Antonio Pritchett",
+        "character": "Superfly Pimp (uncredited)"
+      },
+      {
+        "name": "Eric Rosenberg",
+        "character": "David Bowie's Manager (uncredited)"
+      },
+      {
+        "name": "Brian Savage",
+        "character": "Concert Goer (uncredited)"
+      },
+      {
+        "name": "Casey Slade",
+        "character": "Hardened Roadie (uncredited)"
+      },
+      {
+        "name": "Jimmy Star",
+        "character": "Rocker (uncredited)"
+      },
+      {
+        "name": "Christine Vienna",
+        "character": "Groupie (uncredited)"
+      },
+      {
+        "name": "Larry Weisberg",
+        "character": "Frampton Concert Goer (uncredited)"
+      },
+      {
+        "name": "Jann Wenner",
+        "character": "Legend in Cab (uncredited)"
+      },
+      {
+        "name": "Patrick Williams",
+        "character": "Roadie (uncredited)"
+      },
+      {
+        "name": "Evis Xheneti",
+        "character": "Hippie Girl (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jerry Ziesmer",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Jerry Ziesmer",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Clay A. Griffith",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "John Toll",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Joe Hutshing",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "John Frazier",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Ian Bryce",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert Greenfield",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Charles Croughwell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Betsy Heimann",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Cameron Crowe",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Cameron Crowe",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Cameron Crowe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Lisa Stewart",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steven P. Saeta",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Steven P. Saeta",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Scott M. Martin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Marty P. Ewing",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Marty P. Ewing",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Nancy Wilson",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Saar Klein",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Gail Levin",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Virginia Randolph-Weaver",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Michael Dennison",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Paul Massey",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Laurie Webb",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Don Coufal",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Charisse Cardenas",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Neal Preston",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Lois Burwell",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Jonny Pray",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Michael Germain",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Doug Hemphill",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Rick Kline",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "David H. Allen",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Patia Prouty",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Eric Rosenberg",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Mindy R. Toback",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Chris Haarhoff",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Chris Napolitano",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Kathryn Blondell",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Carolyn Elias",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Audrey L. Anzures",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Mike Thomas",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Michael D. Wilhoit",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Jim Schwalm",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Nava R. Sadan",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Jeff Wexler",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Cece Destefano",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Tommy Klines",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Brian Callahan",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Erik Bernstein",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Kim Heath",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Randy Woodside",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Herb Ault",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Linda Henrikson",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Renee Treyball",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Dhamarata Dhiensuwana",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Kyle Carden",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jorge J. Gonzalez",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Melissa Binder",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "David Kelley",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Rich King",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Billy Craft",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Melissa Feinberg",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Chris Peterson",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Danny Jimenez",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "John S. Beyers",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Nisa Kellner",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Raymond Gonzales",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Robert James Ashe",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jeannine Stevens",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Jim Jolly",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "John Hammer Maxwell",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Jeffrey L. Wilson",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Lisa Buchignani",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Chris Toll",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Dustin Ault",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Conny Boettger-Marinos",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Maggie Myer",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kim Messina",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Joe Viau",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Sal Alvarez",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Andrew S. Brown",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Sean Smith",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Rod Gregory",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Ed Jones",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jill Southern",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Jeff Durling",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Rick Avotte",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Mark Kusy",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Francisco Mares",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Alice S. Awad",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Pete Gikas",
+        "department": "Art",
+        "job": "Set Dresser"
+      }
+    ]
+  },
+  "keywords": [
+    "hotel room",
+    "concert",
+    "rock 'n' roll",
+    "stewardess",
+    "drug addiction",
+    "san diego, california",
+    "overdose",
+    "groupie",
+    "music journalist",
+    "heavy metal",
+    "based on true story",
+    "swimming pool",
+    "coming of age",
+    "promiscuity",
+    "on the road",
+    "domineering mother",
+    "reconciliation",
+    "semi autobiographical",
+    "innocence lost",
+    "bus trip",
+    "aspiring writer",
+    "teenager"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A high-school boy in the early 1970s is given the chance to write a story for Rolling Stone magazine about an up-and-coming rock band as he accompanies them on their concert tour.",
+    "The early 1970s. William Miller is 15-years old and an aspiring rock journalist. He gets a job writing for Rolling Stone magazine. His first assignment: tour with the band Stillwater and write about the experience. Miller will get to see what goes on behind the scenes in a famous band, including the moments when things fall apart, and for him, it will be a period of new experiences and finding himself.—grantss",
+    "Set in 1973, it chronicles the funny and often poignant coming of age of 15-year-old William, an unabashed music fan who is inspired by the seminal bands of the time. When his love of music lands him an assignment from Rolling Stone magazine to interview the up-and-coming band Stillwater -- fronted by lead guitar Russell Hammond and lead singer Jeff Bebe William embarks on an eye-opening journey with the band's tour, despite the objections of his protective mother.—Jwelch5742",
+    "William Miller is a 15-year-old kid hired by Rolling Stone magazine to tour with and write about Stillwater, an up-and-coming rock band. This wonderfully witty coming-of-age film follows William as he falls face-first to confront life, love, and lingo.—Filmtwob <webmaster@filmfreak.co.za>"
+  ],
+  "synopsis": "The story opens with William Miller (Michael Angarano), living at home with his mother Elaine (Frances McDormand) and his sister Anita (Zooey Deschanel) in San Diego, California. While William gets along well with his mother and sister separately, both of the women in his life are at odds with each other. Elaine struggles to keep some form of control over Anita, who feels that her mother is too overbearing and controlling.During this time, it is revealed to William that his Mom skipped him ahead 2 grades, as all his classmates around him are 13, and he's 11. William's life also is thrown for a loop when his sister Anita decides to leave home to become a stewardess, in order to escape from her Mom. After she leaves, William finds that Anita has left him her record collection.Her collection ends up having a major impact on William. By the time he turns 15, William (Patrick Fugit) has become interested in rock music and journalism, writing for several underground newspapers, and Creem Magazine, edited by one of his idols, famed rock writer Lester Bangs (Philip Seymour Hoffman). One day, William encounters Lester in San Diego, and the two discuss rock music and journalism. Even though Lester claims the industry is destroying the genre and rock journalism is not a stable thing, he sees a determination in William to succeed, and requests he interview Black Sabbath, who are set to play at the San Diego Sports Arena.William attempts to get in, but is rebuked by the doorman at the arena. Unsure what to do, he meets a group of girls who call themselves Band-Aides. William is introduced to their leader, Penny Lane (Kate Hudson), who explains their philosophy, of how they are not groupies but are there to support the music.Shortly thereafter, William manages to get into the arena when he meets the opening act for the night: the band Stillwater. Complimenting them on their sound and musical talent, they invite William to join them backstage. During this time, William ends up interviewing them, with the bulk of the interview coming from member Jeff Bebe (Jason Lee). William ends up watching the concert from side-stage, as the band opens for Black Sabbath, performing the song \"Fever Dog.\"After the show, Lead guitarist Russell Hammond (Billy Crudup) invites William to meet them at the Continental Hyatt House in Los Angeles, and tells William that they'd like Penny Lane to come along. William informs Penny and as they exit the sports arena, she gives him her contact information, and tells him of her life's goal: she plans to live in Morocco for one year.A few days later (unknown to his mother), William sneaks off to Los Angeles with Penny, where they meet up with the band at the Hyatt House (nicknamed 'The Riot House'). It is here that William sees there may be some chemistry going on between Russell and Penny. He also is introduced to Polexia Aphrodesia (Anna Paquin), and Vic Munoz (Jay Baruchel).A few days later, William gets a call from Ben Fong-Torres (Terry Chen) of Rolling Stone magazine. William disguises the fact that he's 15 years old, and pitches his voice lower. Fong-Torres compliments him on his work, and asks William about any bands he'd like to cover. William suggests Stillwater, and soon joins the band on the road, traveling with the Band-Aides on the band's bus (named Doris), much to the horror of his mother, who fears that this will interfere with his school work & derail Williams' future.Along the way, a number of incidents happen to which William is privy:At an outdoor stage event, Russell is electrocuted, sending the band scrambling from the venue, much to the anger of the show's promoter. The band trashes the trailer provided by the promoter, who seems unconcerned about Russell's injury. When the promoter has the arena gates locked, the band has their driver crash the bus through them to escape.-Jeff Bebe gets into a heated row with Russell when the band's first t-shirts arrive, and Russell is the only recognizable person in the band while everyone else is out of focus. The argument is indicative of the problems that have been plaguing the band for an indeterminate time - Russell feels his talent has allowed him to grown beyond the band's limits and Jeff feels Russell is overshadowing his bandmates.-Following the argument, Russell and William end up at a house party in Topeka, KS, where he drops acid and climbs up on a rooftop, proclaiming to be a 'golden god.' (Moments later he jumps off the roof into the swimming pool.) William calls Dick, who comes to the house & convinces Russell to return to the band. Back on the tour bus, the tension between the band members and their entourage is palatable but they all seem to reconcile when they sing Elton John's \"Tiny Dancer\" together. William tells Penny he still has to go home and she sweetly tells him \"You *are* home.\"-The record company sends a renowned band manager named Dennis Hope (Jimmy Fallon) to replace their current manager, Dick Roswell (Noah Taylor). The band is apprehensive, but give in to Dennis' grand plan for the band to make more money, turning them away from their philosophy of playing 'for the fans.' Dennis is also instrumental in adding more tour dates, getting the band better treatment from concert promoters and stage managers, and the band ditches their beloved tour bus 'Doris' in favor of an airplane.As the tour winds down, William is able to interview almost everyone, but still is not able to get his key interview with Russell. What should have been a simple task becomes mind-numbing, as William is swept up with the tour, causing him to field questions from Ben Fong-Torres about the story, and rousing the ire and worry of his mother (who in one of her classes, proclaims: \"rock stars have kidnapped my son\"). One night while he talks to his mother, Russell seizes the phone from William and tries to reason with Elaine, who immediately cuts through Russell's charm and lectures him on being more responsible, however respectfully. Russell is somewhat shaken by the conversation.At one of the stops, William is privy to a poker game, in which Dick and Russell wager Penny Lane and the Band-Aides in a game without Penny or the girls knowing. The girls must leave the tour before they arrive in New York where Russell's wife will meet the band. The band Humble Pie ends up \"winning\" them, and pays Dick and Russell $50 and a case of Heineken beer. William tries to put this out of his mind, but upon hearing how Penny seems to have stepped over the line of supporting the band and fallen for Russell, tells her about the bargain Russell and Dick struck. The news has a devastating effect on Penny, however she takes it good-naturedly at first, asking \"What kind of beer?\" she & the girls were wagered for.The girls do not accompany the band to New York, but upon getting to the hotel where the band is staying, William runs into Vic, who tells him that Penny Lane is staying at the Plaza Hotel, under the name Emily Rugburn.William then gets a call from Jann Wenner, chief editor of Rolling Stone and Fong-Torres, telling him that the band will grace the cover of their next issue, and that he is permitted to share this news with the band.At a restaurant in New York, this news is met with enthusiasm by the band. However, Russell's girlfriend, Leslie (Liz Strauber) sees Penny in a nearby corner watching Russell. Dick goes over to talk with Penny, who rushes off. William takes off after her and finds her in the Plaza Hotel, where she has overdosed on Quaaludes. William manages to keep Penny conscious until the doctors get there, and after pumping her stomach to get the pills out, Penny and William go for a walk through Central Park, where she tells William the story behind her real name, 'Lady Goodman,' proclaiming that he now knows 'all her secrets.' After their stroll, William takes Penny to the airport, where she flies home to San Diego.William joins the band on the plane as they fly to a new venue. Everyone questions where William went in the middle of dinner the previous night -- he missed meeting Bob Dylan -- but he is hesitant to tell them what happened. Suddenly, the plane is caught on the edge of a storm, violently shaking everyone around. Feeling like the plane may crash or break up at any moment, everyone begins to reveal secrets. Dennis reveals that he once hit a man with a car and kept on driving, not taking responsibility for the accident. Dick reveals that he took more money than his regular fee, claiming 'he knew he earned it.' Jeff reveals that he slept with Dick's wife after they broke up, and also slept with Leslie. Two more in the band also reveal they slept with Dick's wife. Jeff, in a moment of rage at Russell, reveals his true anger at Russell, and tells Leslie that Russell had been sleeping with Penny. William, angered at how the band treated Penny, finally tells them what happened to her, and proclaims his love for her. Ed Vallencourt (John Fedevich), who has been silent for some time, comes out of the closet.After Ed speaks, the plane makes it through the weather, and everyone stays silent, not speaking for the remainder of the flight. When the plane lands, Russell tells William, that he can write whatever he wants in regards to the band.Exhausted, William reports to Rolling Stone's headquarters in San Francisco, armed with his notes, but still without his key interview with Russell. The editors are astonished to see that William is so young and their fact-checker rants about his notes, saying that they're so disorganized that she'll have a difficult time doing her job. William asks for a single night to finish the piece, and calls Lester Bangs, who tells him to be honest and truthful, suggesting that William shouldn't have allowed himself to befriend the band.The story that William types reveals everything, including Russell's 'golden god' speech and the airplane confessions. Once the band is contacted by Rolling Stone's fact-checker (Erin Foley), the band denies 90% of the story, and William is sent back to San Diego. At the airport, he runs into his sister Anita. Anita offers to take William on an adventure to anywhere... but the only place he wants to go is home. Anita joins William and they go to their home where Anita and Elaine reconcile and William crashes in his own bed.Sometime after, as Stillwater is going their separate ways, one Band-aide whom Penny knows named Sapphire (Fairuza Balk) meets up with Russell, chastising him for what happened to Penny as well as his ruining Williams' story. Nearby, some new groupies are mingling with the band. Sapphire comments how the new girls are not really fans, seeing as they don't love the music, are only into sex without birth control & selfishly eat the best food the caterers offer.After talking to Sapphire, Russell is compelled to call Penny and apologize, requesting to meet her. Penny gives him an address, but it is not until he arrives there that he realizes she has given him William's address. Russell first meets Elaine, whom allows him to talk with her son after telling him sternly that William is a fine young man and a trustworthy friend. Talking with William in his room, Russell explains that he retracted his statement to Rolling Stone, confirming that the story was true. William then takes the opportunity to get what he never could before: a one-on-one interview with Russell about what he loves about music. Russell eagerly agrees and tells William that he loves \"everything\" about music.The film then ends with a montage of different clips that play over Led Zeppelin's \"Tangerine\": Stillwater goes back on tour, with their old bus 'Doris' as their main mode of transportation (with their 1974 tour called the 'No More Planes Tour'). Russell and Bebe have reconciled. William sits down to breakfast with Anita and his mother, who have also reconciled. Finally, we see Penny at an airplane ticket counter, fulfilling her decision to go to Morocco."
+}

@@ -1,0 +1,813 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
+  "id": 629,
+  "title": "The Usual Suspects",
+  "poster_path": "https://image.tmdb.org/t/p/w500/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+  "release_date": "1995-07-19",
+  "vote_average": 8.189,
+  "vote_count": 9860,
+  "popularity": 46.394,
+  "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+  "imdb_id": "tt0114814",
+  "budget": 6000000,
+  "homepage": "http://www.mgm.com/#/our-titles/2083/The-Usual-Suspects",
+  "revenue": 23300000,
+  "runtime": 106,
+  "tagline": "Five criminals. One line up. No coincidence.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Bad Hat Harry Productions",
+    "Blue Parrot Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Gabriel Byrne",
+        "character": "Dean Keaton"
+      },
+      {
+        "name": "Kevin Spacey",
+        "character": "Roger ‘Verbal’ Kint"
+      },
+      {
+        "name": "Stephen Baldwin",
+        "character": "Michael McManus"
+      },
+      {
+        "name": "Kevin Pollak",
+        "character": "Todd Hockney"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Fred Fenster"
+      },
+      {
+        "name": "Chazz Palminteri",
+        "character": "US Customs Agent Dave Kujan"
+      },
+      {
+        "name": "Pete Postlethwaite",
+        "character": "Kobayashi"
+      },
+      {
+        "name": "Giancarlo Esposito",
+        "character": "FBI Agent Jack Baer"
+      },
+      {
+        "name": "Suzy Amis",
+        "character": "Edie Finneran"
+      },
+      {
+        "name": "Peter Greene",
+        "character": "Redfoot the Fence"
+      },
+      {
+        "name": "Dan Hedaya",
+        "character": "Sgt. Jeffrey \"Jeff\" Rabin"
+      },
+      {
+        "name": "Paul Bartel",
+        "character": "Smuggler"
+      },
+      {
+        "name": "Morgan Hunter",
+        "character": "Arkosh Kovash"
+      },
+      {
+        "name": "Castulo Guerra",
+        "character": "Arturro Marquez"
+      },
+      {
+        "name": "Carl Bressler",
+        "character": "Saul Berg"
+      },
+      {
+        "name": "Christine Estabrook",
+        "character": "Dr. Plummer"
+      },
+      {
+        "name": "Clark Gregg",
+        "character": "Dr. Walters"
+      },
+      {
+        "name": "Louis Lombardi",
+        "character": "Agent Strausz"
+      },
+      {
+        "name": "Frank Medrano",
+        "character": "Agent Rizzi"
+      },
+      {
+        "name": "Ron Gilbert",
+        "character": "Daniel \"Dan\" Metzheiser"
+      },
+      {
+        "name": "Vito D'Ambrosio",
+        "character": "Arresting Officer"
+      },
+      {
+        "name": "Smadar Hanson",
+        "character": "Keyser's Wife"
+      },
+      {
+        "name": "Gene Lythgow",
+        "character": "Cop on Pier"
+      },
+      {
+        "name": "Bert Williams",
+        "character": "Old Cop"
+      },
+      {
+        "name": "Jack Shearer",
+        "character": "Renault"
+      },
+      {
+        "name": "Phillipe Simon",
+        "character": "Fortier"
+      },
+      {
+        "name": "Christopher McQuarrie",
+        "character": "Interrogation Cop (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sara Andrews",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "David Lazan",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Francine Maisler",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "William Hoy",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Robert Jones",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Kathy Driscoll",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Bryan Singer",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Bryan Singer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Christopher McQuarrie",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Michael McDonnell",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kenneth Kokin",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Kenneth Kokin",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Art Horan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "François Duplat",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Hans Brockmann",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "John Ottman",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Newton Thomas Sigel",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Howard Cummings",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Louise Mingenbach",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Vicky Herman",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Tami Treadwell",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Don Givens",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Roy L. Downey",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Diamond Farnsworth",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Greg P. Russell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Larry Groupé",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Bruce Douglas Johnson",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "name": "Chuck Michael",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Charleen Richards",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Peter S. Elliot",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Eric J. Goldstein",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Gary Jensen",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Rick Canelli",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "David P. Barton",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "John Coven",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "name": "John Coven",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Michelle Bühler",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "James D. Deck",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Leigh French",
+        "department": "Sound",
+        "job": "ADR Coordinator"
+      },
+      {
+        "name": "Max Daniels",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bruce Hamme",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Harry Wowchuk",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Squires",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Roger Fenton",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "John Casino",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alex Gaona",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Antonio Franchi",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Tony Bonaventura",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "P. Scott Sakamoto",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "P. Scott Sakamoto",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "John T. Cucci",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Pat Millicano",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Geno Hart",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Robert J. Litt",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Elliot Tyson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Haley McLane",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Angel Acosta",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Greg Steele",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Richard Burton",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Reinhart Peschke",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "John Johnson",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Donald Sylvester",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Joe Dunne",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Wendy Dallas",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Barbara Olvera",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Karen G. Wilson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jim Frohna",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Geoffrey Patterson",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Lisa Miller Katz",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "David Pollack",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Michael Tinger",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Linda R. Chen",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "George Berndt",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Baird Steptoe",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Sukey Fontelieu",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Mark Pappas",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "William Smallwood",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Jack Keller",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Joseph Aroesti",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Joe Cosentino",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Craig A. Brink",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "David Behle",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Fernando Celis",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Angel DeSanti",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Robert C. Carlson",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Jerry L. Mandley",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "David Gamerman",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Eugene Farrington",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Craig Woods",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Mark Meloccaro",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Lori Eskowitz",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Tara Spurlock",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Chanel Salzer",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Ashley Friedman",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Ken Plumlee",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Ellen Francisco",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Caroline Burton",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "David Spence",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Nash Michael",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Lia Vollack",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Gloria Kaiser",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Jonathan Klein",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Mary Beth Smith",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Tricia Linklater",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Joseph Dianda",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Scott Patten",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Alan Steinman",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Richard Maxey",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Michael A. FauntLeRoy Sr.",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Thomas J. O'Connell",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Shawn Ensign",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Bertram McCann",
+        "department": "Crew",
+        "job": "Marine Coordinator"
+      },
+      {
+        "name": "Kevin Dean",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Ross Guidici",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Judie Fixler",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Billy Bates",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard Sobin",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Billy Judkins",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sheri Cosentino",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Paul Parsons",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Michael Stewart Maahs",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Athena Alexander",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Jody Bingenheimer",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "John Gillespie",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William J. McDevitt",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Michael Carr",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Claudette Cucci",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Bob Havice",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ashley Casino",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "relatives",
+    "heist",
+    "gay interest",
+    "flashback",
+    "police corruption",
+    "whodunit",
+    "theft",
+    "criminal",
+    "criminal mastermind",
+    "cargo ship",
+    "mind game",
+    "neo-noir",
+    "mystery villain"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.",
+    "Following a truck hijack in New York, five criminals are arrested and brought together for questioning. As none of them are guilty, they plan a revenge operation against the police. The operation goes well, but then the influence of a legendary mastermind criminal called Keyser Söze is felt. It becomes clear that each one of them has wronged Söze at some point and must pay back now. The payback job leaves 27 men dead in a boat explosion, but the real question arises now: Who actually is Keyser Söze?—Soumitra",
+    "After a number of people are killed and a cargo ship set on fire, Roger 'Verbal' Kint is questioned by U.S. Customs Agent Dave Kujan. Reluctant at first, Verbal begins to tell them what happened starting with when he met four men, all criminals, sharing a holding cell for a few hours. Together, they join forces to successfully hijack a jewel shipment and head to Los Angeles to lay low. There they are contacted by a lawyer, Kobayashi, representing the much-feared international criminal Keyser Söze who wants them to do a job for him. The result is the attack on the cargo ship. Verbal refuses to give evidence in the case and is set free. Only then does Kujan realize what's really happened.—garykmcd",
+    "Police investigating an exploded boat on a San Pedro pier discover 27 bodies and $91 million worth of drug money. The only survivors are a severely burned and very scared Hungarian terrorist and Verbal Kint, a crippled con-man. Reluctantly, Kint is pressured into explaining exactly what happened on the boat. His story begins six weeks earlier with five criminals being dragged in by New York police desperate for suspects on a hijacked truck and ends with the possible identification of a criminal mastermind.—John Weeks <J.T.Weeks1@Student.derby.ac.uk>",
+    "After a waterfront explosion, Verbal, an eye-witness and participant tells the story of events leading up to the conflagration. The story begins when five men are rounded up for a line-up, and grilled about a truck hijacking (the usual suspects). Least pleased is Keaton: a crooked cop - exposed, indicted, but now desperately trying to go straight. The cops won't leave him alone, however, and as they wait for their lawyers to post bail, he is talked into doing one more job with the other four. All goes tolerably well until the influence of the legendary, seemingly omnipotent \"Keyser Söze\" is felt. Although set in the modern day, it has much of the texture of the forties, plus suspense, intrigue (a fairly high body count), and lots of twists in the plot.—<Phil.Kilby@dit.csiro.au>"
+  ],
+  "synopsis": "On the deck of a ship in San Pedro, California, a figure identified as Keyser speaks with an injured man called Keaton. The two talk briefly, then Keyser appears to shoot Keaton before setting the ship ablaze.The next day, FBI Agent Jack Baer (Giancarlo Esposito) and U.S. Customs special agent Dave Kujan (Chazz Palminteri) arrive in San Pedro separately to investigate what happened on the boat. 27 people have been killed in the fire. There appear to be only two survivors: a crippled man named Roger 'Verbal' Kint (Kevin Spacey) and a hospitalized Hungarian criminal and crewman. Baer interrogates the Hungarian, who claims that Keyser Söze, a Turkish criminal mastermind with a nearly mythical reputation, was in the harbor \"killing many men.\" The Hungarian begins to describe Söze while a translator interprets and a police sketch artist draws a rendering of Söze's face.Meanwhile, Verbal Kint tells the authorities everything he knows in exchange for immunity. After making his statement to the district attorney, Kint is placed in a police station office of Sgt. Jeff Rabin (Dan Hedaya), where both he and Kujan requests to hear the story again, from the beginning....Verbal's tale starts six weeks earlier in New York City, when an armored truck containing spare gun parts is hijacked in Queens. The driver of the stolen truck was grabbed from behind and never saw the person or persons who accosted him, but the unknown hijacker spoke to him. Subsequently, the NYPD round up five different criminals: Dean Keaton (Gabriel Byrne) is a corrupt former police officer who has apparently given up his life of crime, and is arrested while eating dinner at a fancy restaurant; Michael McManus (Stephen Baldwin) is a crack shot with a temper and a wild streak, arrested in the middle of the night in his bed; Fred Fenster (Benicio Del Toro) is McManus's Hispanic partner who speaks in mangled English, and is nabbed on a street corner; Todd Hockney (Kevin Pollak) is a car mechanic and part-time hijacker who forms an instant rivalry with McManus, and is picked up while working on a car in his garage; and Verbal himself, who is a con artist that suffers from cerebral palsy. The five men are brought together for a lineup, and are told to say the phrase, \"Give me the keys, you fucking cocksucker.\" They all manage to butcher the phrase. Later, while sitting in a holding cell, McManus convinces the others to join forces to commit a robbery targeting New York's Finest Taxi service, a group of corrupt NYPD police officers who escort smugglers to their destinations around the city. Their attack on one smuggler (Paul Bartel) goes off without a hitch, with farther reaching consequences as numerous other officers are indicted on corruption charges.With their loot, the quintet travels to California to sell it to McManus's fence, Redfoot (Peter Greene). Redfoot talks them into another job: robbing a purported jewel smuggler named Saul Bass. Instead of jewels or money, as they were told he was carrying, the smuggler had heroin. An angry confrontation between the thieves and Redfoot reveals that the job came from a lawyer named Kobayashi (Pete Postlethwaite). The five criminals later meet with Kobayashi, who claims to work for Keyser Söze and blackmails them into destroying the cargo of a ship coming to San Pedro harbor.In the present, Verbal Kint tells Kujan the story of Keyser Söze as he apparently heard it. Verbal's flashback reveals Söze's family being harassed by a rival Hungarian gang in Turkey. Söze goes on a murderous vendetta against all those who were involved. Afterwards, he apparently disappears; thereafter, he rarely conducts business without an alias and maintains anonymity between himself and anyone working for him. With time, Söze's story takes on mythic stature, with most people either doubting his existence or disbelieving it entirely.Back in the present, Kint continues to tell his version of what happened then. His flashback resumes to reveal Fenster's attempt to run away, but he is tracked and killed (off-camera) by Kobayashi. The remaining four thieves kidnap Kobayashi, believing Söze to be a cover for his activities and intending to kill him if he does not leave them alone. Before McManus can execute him, Kobayashi reveals that lawyer Edie Finneran (Suzy Amis), Keaton's girlfriend, is in his office. Kobayashi also says that he has the will, the information, and the means to injure or kill the remaining four criminals' relatives if they do not go through with the arrangement.On the night of the cocaine deal, the sellers--a group of Argentine mobsters--are on the dock, as are the buyers--a group of Hungarian mobsters. Keaton tells Verbal to stay back, and to take the money to Edie if the plan goes awry so she can pursue Kobayashi \"her way;\" Verbal reluctantly agrees to do so. He watches the boat from a distance, in hiding, as Keaton, McManus and Hockney attack the men at the pier in a huge gunfight.During the battle, Hockney is killed as Keaton and McManus discover separately that there is no cocaine on the boat. Meanwhile, the Hungarians, yet untouched by the thieves, are being picked off by an unseen killer, and a closely-guarded Hispanic passenger is killed by an unseen assailant. McManus is killed with a knife to the back of his neck, and Keaton, turning away to leave, is shot in the back. A figure in a dark coat appears, presumably Keyser Söze, and lights a cigarette with a gold lighter. He appears to speak briefly with Keaton before apparently shooting him (the scene which began the film in medias res).In the present, with Verbal's story finished, Kujan reveals what he has deduced, with the aide of Agent Baer: The boat hijacking was not about cocaine, but rather to ensure that one man aboard the ship--the Hispanic passenger held captive, named Arturo (Castulo Guerra), one of the few individuals alive who could positively identify Söze--is killed. After Söze presumably killed the man, he eliminated everyone else on the ship and set it ablaze; Kujan reveals that Edie has also been killed. Kujan has concluded that Keaton was Keyser Söze. Verbal admits that the whole affair, from the beginning, was Keaton's idea. His bail having been posted, Verbal departs with his immunity.Verbal retrieves his personal effects from the property officer as Kujan, relaxing in Rabin's office that he used for the interrogation, notices that details and names from Verbal's story are words appearing on various objects around the room. 'Redfoot' is the name on a wanted poster, for example, and 'Kobayashi' is written on the bottom of a coffee cup that Verbal handled earlier. Quickly putting the pieces together, Kujan realizes that Verbal made up practically the entire story as he talked. He runs outside just as a fax arrives with the police artist's impression of Keyser Söze's face.... which resembles Verbal Kint.As he leaves the police station, Verbal's distinctive limp gradually disappears and he shakes out his palsied hand. He steps into a waiting car driven by \"Mr. Kobayashi,\" departing just as Kujan comes outside to see too late that Kint is gone. Verbal Kint is Keyser Söze, so how much of his narration was truthful is open to interpretation."
+}

@@ -1,0 +1,1892 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/nrDDTgU0tAHVlwCQ02cUWlPGtiQ.jpg",
+  "id": 1538,
+  "title": "Collateral",
+  "poster_path": "https://image.tmdb.org/t/p/w500/iOpi3ut5DhQIbrVVjlnmfy2U7dI.jpg",
+  "release_date": "2004-08-04",
+  "vote_average": 7.215,
+  "vote_count": 5249,
+  "popularity": 53.925,
+  "overview": "Cab driver Max picks up a man who offers him $600 to drive him around. But the promise of easy money sours when Max realizes his fare is an assassin.",
+  "imdb_id": "tt0369339",
+  "budget": 65000000,
+  "homepage": "",
+  "revenue": 220239925,
+  "runtime": 120,
+  "tagline": "It started like any other night.",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Parkes/MacDonald Productions",
+    "Edge City",
+    "DreamWorks Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Vincent"
+      },
+      {
+        "name": "Jamie Foxx",
+        "character": "Max Durocher"
+      },
+      {
+        "name": "Jada Pinkett Smith",
+        "character": "Annie Farrell"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Det. Ray Fanning"
+      },
+      {
+        "name": "Peter Berg",
+        "character": "Richard Weidner"
+      },
+      {
+        "name": "Javier Bardem",
+        "character": "Felix Reyes-Torrena"
+      },
+      {
+        "name": "Bruce McGill",
+        "character": "Frank Pedrosa"
+      },
+      {
+        "name": "Klea Scott",
+        "character": "Zee"
+      },
+      {
+        "name": "Barry Shabaka Henley",
+        "character": "Daniel Baker"
+      },
+      {
+        "name": "Irma P. Hall",
+        "character": "Ida Durocher"
+      },
+      {
+        "name": "Richard T. Jones",
+        "character": "Traffic Cop #1"
+      },
+      {
+        "name": "Jamie McBride",
+        "character": "Traffic Cop #2"
+      },
+      {
+        "name": "Troy Blendell",
+        "character": "Morgue Attendant"
+      },
+      {
+        "name": "Emilio Rivera",
+        "character": "Paco"
+      },
+      {
+        "name": "Bodhi Elfman",
+        "character": "Young Professional Man"
+      },
+      {
+        "name": "Debi Mazar",
+        "character": "Young Professional Woman"
+      },
+      {
+        "name": "Ken Waters",
+        "character": "FBI Agent"
+      },
+      {
+        "name": "Charlie E. Schmidt",
+        "character": "FBI Agent"
+      },
+      {
+        "name": "Michael Bentt",
+        "character": "Fever Bouncer"
+      },
+      {
+        "name": "Ian Hannin",
+        "character": "Cell Phone Partier"
+      },
+      {
+        "name": "Robert Deamer",
+        "character": "Sergeant"
+      },
+      {
+        "name": "David Mersault",
+        "character": "Crime Scene Cop"
+      },
+      {
+        "name": "Anthony Ochoa",
+        "character": "Crime Scene Cop"
+      },
+      {
+        "name": "Omar Orozco",
+        "character": "El Rodeo Doorman"
+      },
+      {
+        "name": "Cosme Urquiola",
+        "character": "El Rodeo Doorman"
+      },
+      {
+        "name": "Edgar Sánchez",
+        "character": "El Rodeo Doorman"
+      },
+      {
+        "name": "Angelo Tiffe",
+        "character": "Sylvester Clarke"
+      },
+      {
+        "name": "Thomas Rosales Jr.",
+        "character": "Ramon Ayala"
+      },
+      {
+        "name": "Inmo Yuon",
+        "character": "Peter Lim"
+      },
+      {
+        "name": "Wade Williams",
+        "character": "Fed #2"
+      },
+      {
+        "name": "Paul Adelstein",
+        "character": "Fed #3"
+      },
+      {
+        "name": "Jessica Ferrarone",
+        "character": "Female Criminalist"
+      },
+      {
+        "name": "Howard Bachrach",
+        "character": "Pissed Off Driver"
+      },
+      {
+        "name": "Chic Daniel",
+        "character": "Plainclothes Cop"
+      },
+      {
+        "name": "Corinne Chooey",
+        "character": "Waitress"
+      },
+      {
+        "name": "JoNell Kennedy",
+        "character": "Waitress"
+      },
+      {
+        "name": "Steven Kozlowski",
+        "character": "White Guy"
+      },
+      {
+        "name": "Roger Stoneburner",
+        "character": "White Guy"
+      },
+      {
+        "name": "Rodney Sandberg",
+        "character": "White Guy"
+      },
+      {
+        "name": "George Petrina",
+        "character": "White Guy"
+      },
+      {
+        "name": "Donald Dean",
+        "character": "Jazz Musician"
+      },
+      {
+        "name": "Elliott Newman",
+        "character": "Jazz Musician"
+      },
+      {
+        "name": "Trevor Ware",
+        "character": "Jazz Musician"
+      },
+      {
+        "name": "Bobby English",
+        "character": "Jazz Musician"
+      },
+      {
+        "name": "Auggie Cavanagh",
+        "character": "Jazz Musician"
+      },
+      {
+        "name": "Ronald Muldrow",
+        "character": "Jazz Musician"
+      },
+      {
+        "name": "Peter McKernan",
+        "character": "Police Helicopter Pilot"
+      },
+      {
+        "name": "Ivor Shier",
+        "character": "News Helicopter Pilot"
+      },
+      {
+        "name": "Daniel Luján",
+        "character": "Rubio #1"
+      },
+      {
+        "name": "Eddie Diaz",
+        "character": "Rubio #2"
+      },
+      {
+        "name": "Joey Burns",
+        "character": "El Rodeo Band Member"
+      },
+      {
+        "name": "John Convertino",
+        "character": "El Rodeo Band Member"
+      },
+      {
+        "name": "Josh Cruze",
+        "character": "El Rodeo Band Member"
+      },
+      {
+        "name": "Martin Flores",
+        "character": "El Rodeo Band Member"
+      },
+      {
+        "name": "Rick Garcia",
+        "character": "El Rodeo Band Member"
+      },
+      {
+        "name": "Larry G. Goldman",
+        "character": "El Rodeo Band Member"
+      },
+      {
+        "name": "Maurilio Pineda",
+        "character": "El Rodeo Band Member"
+      },
+      {
+        "name": "Dan Sistos",
+        "character": "El Rodeo Band Member"
+      },
+      {
+        "name": "Jacob Valenzuela",
+        "character": "El Rodeo Band Member"
+      },
+      {
+        "name": "Luis Villegas",
+        "character": "El Rodeo Band Member"
+      },
+      {
+        "name": "Yussi Wenger",
+        "character": "El Rodeo Band Member"
+      },
+      {
+        "name": "Jason Statham",
+        "character": "Man in Airport"
+      },
+      {
+        "name": "Ismeal Vidrio",
+        "character": "Gas Station Attendant"
+      },
+      {
+        "name": "Ron Eckert",
+        "character": "Hotel Security Desk Guard"
+      },
+      {
+        "name": "Manuel Urrego",
+        "character": "Direction Asking Businessman"
+      },
+      {
+        "name": "Jessie Bernard",
+        "character": "Nurse"
+      },
+      {
+        "name": "Luis Moncada",
+        "character": "Cold Eyed Killer"
+      },
+      {
+        "name": "Dyna Teal",
+        "character": "Sylvester Clarke Girl"
+      },
+      {
+        "name": "Sandi Schroeder",
+        "character": "Sylvester Clarke Girl"
+      },
+      {
+        "name": "Michael-John Wolfe",
+        "character": "Hotel Clerk"
+      },
+      {
+        "name": "Addie Yungmee",
+        "character": "Fever Dancer"
+      },
+      {
+        "name": "J.D. McElroy",
+        "character": "Fever Dancer"
+      },
+      {
+        "name": "Megan Hiratzka",
+        "character": "Fever Dancer"
+      },
+      {
+        "name": "Kate Gopacco",
+        "character": "Young Girl"
+      },
+      {
+        "name": "Christy Yi",
+        "character": "Young Girl"
+      },
+      {
+        "name": "Lisa Marie Basada",
+        "character": "Young Girl"
+      },
+      {
+        "name": "Wilson Wong",
+        "character": "Tactical Sergeant"
+      },
+      {
+        "name": "Mark Stainbrook",
+        "character": "Tactical"
+      },
+      {
+        "name": "Brandon Molale",
+        "character": "Limo Driver"
+      },
+      {
+        "name": "Marianne M. Arreaga",
+        "character": "Police Helicopter Co-Pilot"
+      },
+      {
+        "name": "Spike Silver",
+        "character": "Police Helicopter Co-Pilot"
+      },
+      {
+        "name": "Ben Mihm",
+        "character": "News Helicopter Co-Pilot"
+      },
+      {
+        "name": "Niles Roth",
+        "character": "Helicopter Pilot"
+      },
+      {
+        "name": "Michael Waxman",
+        "character": "Lenny the Dispatcher (voice) (uncredited)"
+      },
+      {
+        "name": "Linda Asuma",
+        "character": "Richard Weidner's Wife (uncredited)"
+      },
+      {
+        "name": "Conor Dean Smith",
+        "character": "Tom (uncredited)"
+      },
+      {
+        "name": "Gino Montesinos",
+        "character": "Rubio (uncredited)"
+      },
+      {
+        "name": "Paul Aulicino",
+        "character": "Police Dispatcher (uncredited)"
+      },
+      {
+        "name": "Andy Cheng",
+        "character": "Blonde Peter Lim Bodyguard (uncredited)"
+      },
+      {
+        "name": "D-Teflon",
+        "character": "Peter Lim's Bodyguard (uncredited)"
+      },
+      {
+        "name": "Danny Del Toro",
+        "character": "Cold Eye Killer #3 (uncredited)"
+      },
+      {
+        "name": "Michael Dotson",
+        "character": "Bar Patron (uncredited)"
+      },
+      {
+        "name": "Melissa Gomez",
+        "character": "Salsa Dancer (uncredited)"
+      },
+      {
+        "name": "Jerald Garner",
+        "character": "Dancer at Club Fever (uncredited)"
+      },
+      {
+        "name": "Cameron Lee",
+        "character": "Club Dancer (uncredited)"
+      },
+      {
+        "name": "Annabella Gutman",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Masami Okada",
+        "character": "Club Goer at Korean Club (uncredited)"
+      },
+      {
+        "name": "Tony Sagastizado I",
+        "character": "Nightclub Staff (uncredited)"
+      },
+      {
+        "name": "Mark Kubr",
+        "character": "Drug Man (uncredited)"
+      },
+      {
+        "name": "Gary Rodriguez",
+        "character": "Precision Driver (uncredited)"
+      },
+      {
+        "name": "Henry T. Yamada",
+        "character": "Korean Gangster (uncredited)"
+      },
+      {
+        "name": "Tara Erickson",
+        "character": "Supporting (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Stuart Beattie",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Michael Mann",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Michael Mann",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dion Beebe",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Paul Rubell",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Francine Maisler",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "James Newton Howard",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Michael Payne",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "David Wasco",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Frank Darabont",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Tim Gilbert",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Michael Doven",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Jeffrey Kurland",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "name": "Kathy Driscoll",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Doc Kane",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Antonio Pinto",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Jim Miller",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Sandy Reynolds-Wasco",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Peter Giuliano",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Chuck Russell",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Joel Kramer",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Thomas L. Fisher",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Charles A. Tamburro",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Simone Boisseree",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jim Weidman",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Aran Mann",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Paul Cameron",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Daniel T. Dorrance",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Keith VanderLaan",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Julie Herrin",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Julie Herrin",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Todd Kasow",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Patrick M. Sullivan",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jeffrey J. Dashnaw",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Matthew W. Mungle",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Robert N. Fried",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lindsey Hayes Kroeger",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "David Lucarelli",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Charleen Richards",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Andy Cheng",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marie Cantin",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Thomas Rosales Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michiko Nishiwaki",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gerald Sullivan",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Stefan Sonnenfeld",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Kim Secrist",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Jonah Loop",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jalil Jay Lynch",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Christopher Tandon",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "David Hollander",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "name": "Tom Rothrock",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Michael Kehoe",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Bart Mixon",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Sophia M. Crawford",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sion Michel",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "name": "Gary McLarty",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Troy Brown",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Charles Stewart",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Jeff Imada",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Diana R. Lupo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael Waxman",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Michael Waxman",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Keith Collea",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Knox White",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Jennifer Hammon",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Aaron Skalka",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Robert Stadd",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Kenny Myers",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kristina Trirogoff",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Ken Blackwell",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Gusmano Cesaretti",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Gusmano Cesaretti",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Julie Richardson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Curt Beech",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "name": "Shoshana Rubin",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Chris W. Freeman",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Simon Jayes",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "name": "John Roesch",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Bryan H. Carroll",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Bryan H. Carroll",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Kevin Kerrigan",
+        "department": "Sound",
+        "job": "Music Programmer"
+      },
+      {
+        "name": "Lisa Hoover",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Jake Garber",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Caryn Mower",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lois Burwell",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jo Kissack Folsom",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Debbie Evans",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Betsy Glick",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Keith Hall",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Mike Chock",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Sydney Gilner",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Nancy Nugent",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Aakomon Jones",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Julie Hannum",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Clint Wallace",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Corey Bronson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "James Flamberg",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Jason Bedig",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Toby Bronson",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "John C. Stuver",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Gretchen Engel",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Christine Carr",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Alyson Dee Moore",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Michael Minkler",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "David B. Moulder",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Chris Haarhoff",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Chris Haarhoff",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Karen Jarnecke",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "David B. Nowell",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Robert A. Blackburn",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Erik Rogers",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Myron Nettinga",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "David Sosalla",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Steve Koster",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Greg Steele",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Becky Sullivan",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Craig Mann",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Meghan L. Noble",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "William Cawley",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Gannon Murphy",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Kevin Hickman",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Philip Tallman",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Mike Chiado",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Gary Jay",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Charles Kern",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Missy Papageorge",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "LaLette Littlejohn",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Roddy Stayton",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Judith A. Cory",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Deidra Dixon",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Araxi Lindsey",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Elliott Koretz",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Elliott Koretz",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "John J. Downey",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Matt Downey",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "John E. Sullivan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "John E. Sullivan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Robert Rossello",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Edward A. Gutentag",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Dale Myrand",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Frank Connor",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Phil Walker",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Aaron Iggy Scarpitti",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Carlane Passman",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Thatcher Peterson",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Cyril O'Neil",
+        "department": "Crew",
+        "job": "Picture Car Coordinator"
+      },
+      {
+        "name": "Fatima Robinson",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Janice Polley",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "David Fulton",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "name": "Maï Boiron",
+        "department": "Crew",
+        "job": "Translator"
+      },
+      {
+        "name": "Mike Koz",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Nina Lucia",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Steve Nelson",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Jamie Kelman",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Derek Casari",
+        "department": "Sound",
+        "job": "ADR Engineer"
+      },
+      {
+        "name": "Vicki Hiatt",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Terrie Velazquez Owen",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Darin Moran",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Chuck Picerni Jr.",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Eddie Bydalek",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Mick Gould",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "John Grillo",
+        "department": "Crew",
+        "job": "Steadycam"
+      },
+      {
+        "name": "John Grillo",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Mary Jo Lang",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Mark Bialuski",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Lisa Dempsey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Keith D. Fisher",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Liisa Cohen",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Paul Aulicino",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Steven R. Molen",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "name": "Chris McCaleb",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Manny Perry",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Pamela Thomas",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Andrew Dumas",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Larry Zanoff",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Terry Anderson",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Kendall Errair",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Bob Kretschmer",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Chris Cuevas",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Brian Scott Olds",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Christopher Gray",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "E.J. Misisco",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Al Goto",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Harvey Lowry",
+        "department": "Production",
+        "job": "Director of Operations"
+      },
+      {
+        "name": "Lee Orloff",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Steve Karnes",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Andrew Waruszewski",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Pete Anthony",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Pete Anthony",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Glenn Brown",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Scott M. Robinson",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Angie Lee Cobbs",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Bruce Barris",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "Jon Ailetcher",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Tyler Foell",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Tyler Foell",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Christopher Woodworth",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Claire O'Brien",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Jessie Mann",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Peter McKernan",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Troy N. Wade",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Troy Gilbert",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Patrick Phillips",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Ivor Shier",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Vinson Jae",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "Henry Cantor",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Dennis McCarthy",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Robyn-Alain Feldman",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Adam Kimmerlin",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Erin Hopkins",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Teri Anne Kopp",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Wesley Wofford",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Paul Bode",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Tom Briggs",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Ran Francke",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Matti Kluttz",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Bryant Powell",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Howard Bachrach",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Dara Norman",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Jan Dennehy",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Joseph Bailey",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "James Schramm",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Clint Schultz",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "John Characky",
+        "department": "Production",
+        "job": "Production Driver"
+      },
+      {
+        "name": "Mo Henry",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Jay Johnson",
+        "department": "Art",
+        "job": "Main Title Designer"
+      },
+      {
+        "name": "Bart Barbuscia",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Jack Taggart",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "Donald Reynolds Jr.",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Ann Rosencrans",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Wayne Witherspoon",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Jordan Steinberg",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Scott Morgan",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Luigi Mugavero",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Marc Deschaine",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Mike Anderson",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "John Tamburro",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Annie Ellis",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tsuyoshi Abe",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Julie Beattie Iiams",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Joe Angel Martinez",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Eric Zucker",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Gerald Ragland",
+        "department": "Editing",
+        "job": "Digital Intermediate Assistant"
+      },
+      {
+        "name": "Jane Fitts",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Carin Richardson",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Shawn Gillespie",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Martin L. Hudson",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Kurt Greufe",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Joe Hathaway",
+        "department": "Editing",
+        "job": "Digital Color Timer"
+      },
+      {
+        "name": "Michael Barrere",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "David Romano",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Jesse Sternbaum",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Carla Bowen",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Brooke Sartorius",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "David A. Canning",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Katrina Leigh",
+        "department": "Production",
+        "job": "Accountant"
+      },
+      {
+        "name": "Chad Bronson",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Sue Frey",
+        "department": "Production",
+        "job": "Executive Assistant"
+      },
+      {
+        "name": "Sheri St Lawrence",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "name": "Scott M. Anderson",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Liz Chiz",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Meaghan F. McLaughlin",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Jesse Wine",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Jamal J. Farley",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "John R. Boucher",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Ellen Porter",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Marlon 'Goose' Wall",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Sean P. Galvin",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Cleve Gunderman",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Renee Kayon",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Gary Lowrance",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "George Cacamise",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Kenny Carceller",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Daniel Duggan",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Sean Patrick Hill",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Scott Parrish",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jack Davison",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Jason Griffiths",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Sean Shinneman",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Brennan Ieyoub",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Rob Doolittle",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "name": "António Pinto",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": [
+    "taxi",
+    "police",
+    "hitman",
+    "hostage",
+    "self-fulfilling prophecy",
+    "taxi driver",
+    "fbi",
+    "nightclub",
+    "briefcase",
+    "sociopath",
+    "professional hit",
+    "one night",
+    "gun violence",
+    "lapd",
+    "contract killer",
+    "neo-noir",
+    "cabbie",
+    "federal prosecutor",
+    "taxi ride",
+    "suspense thriller",
+    "los angeles airport (lax)"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A cab driver finds himself the hostage of an engaging contract killer as he makes his rounds from hit to hit during one night in Los Angeles.",
+    "This action thriller follows LA cabbie Max Durocher, the type of person who can wax poetic about other people's lives, which impresses U.S. Justice Department prosecutor Annie Farrell, one of his fares, so much that she gives him her telephone number at the end of her ride. Although a dedicated man as seen through the efficiency in which he does his work, he can't or won't translate that eloquence into a better life for himself. He deludes himself into believing that his now twelve year cabbie job is temporary and that someday he will own his own limousine service. He even lies to his hospitalized mother that he already owns one, with a further lie that he tells her as such primarily to make her happy, rather than the truth which is that he won't do anything to achieve that dream. One night, Max picks up a well dressed man named Vincent, who asks Max to be his only fare for the evening. For a flat fee of $600, plus an extra $100 if he gets to the airport on time - Vincent wants Max to drive him to five stops that evening. Max somewhat reluctantly agrees. Max learns the hard way at their first stop when a body falls from a third story apartment window and lands dead on top of his cab that Vincent is a contract hit man. Vincent's main goal, as per his current contract, is to kill five people, one at each of the stops, but he will not let others get in the way of that goal, even if it means killing them, including Max. As Vincent forces Max to continue driving him for the evening, Max tries slyly at every turn to take back control of his life from Vincent, especially when Max learns of one of the names on Vincent's hit list. Meanwhile, LAPD narcotics detective, Ray Fanning, and ultimately the FBI get involved when Vincent's first victim is associated with a case in which Ray is working undercover. Ray is able to piece together information which makes him hot on Max and Vincent's tail.—Huggo",
+    "Los Angeles cab driver Max Durocher lives an incredibly mundane life. He drives a cab day in and day out - and has for the last twelve years. His only escape from reality is a photo of a tropical island and the fact that he wants to start his own limo company. All that changes when a government investigative attorney named Annie Ferrell gets in his cab from the airport. Max is seemingly unaware of the case that Annie is involved in is about to have dire consequences for his very life. Immediately after dropping Annie off downtown, he picks up a fare who's known only by his first name - Vincent. Vincent offers Max a deal he can't refuse - $700 for making five stops, then getting him to the airport without making a run for it. But at the first stop, a body drops from the sky and Max soon realizes that Vincent is someone he's probably better off not knowing. Vincent is a calculating assassin hired by the very people being prosecuted by Annie - who's out to wipe out all the witnesses in the federal prosecution trial. Will Max make it out alive and live to tell the tale? Or will Vincent require more trunk space in the cab?—halo1k",
+    "Navigating through bustling Los Angeles' crammed streets for twelve hard years, the observant cab driver, Max, receives the first customer for the night: the formidable U.S. prosecutor, Annie Farrell. As one thing leads to another, and the total strangers start sharing things, Max picks up his second passenger after dropping Annie off at the city centre: the steely man of determination, Vincent, who offers Max a hefty $600 payment to hire him for the rest of his shift. Now, unbeknownst to them, Max and Annie's lives become inextricably intertwined with Vincent's, as his sinister schemes and his detailed list of appointments take them to various places in L.A. Now, five names, five locations, and a dead body in the trunk determine Max's fate. Who shall live and who shall die in this long and deadly passage into hell?—Nick Riganas",
+    "After a long day, LA taxi driver Max is about to knock off when sharp-suited Vincent offers him $600 to make five stops. Sounds good until Vincent turns out to be a merciless hit-man and each one of those stops involves a hit. As the night goes on, Max starts to wonder if he'll live to see the sunrise, as the pair are hunted by the police and the FBI.—Nick Maston"
+  ],
+  "synopsis": "Max is a cab driver in Los Angeles. One night he picks up Annie, a beautiful district attorney. The two have very friendly chat where Annie talks about her nervousness over her upcoming trial appearance and Max discusses his dream business, a limo company. When she suggests Max take a specific route to her office building downtown, Max suggests an alternate route. Annie insists on her first route and Max agrees but later is proven right. At the end of the ride Annie gives Max her card. Max tells Annie that he takes a vacation once a day: he has a picture of a tropical beach attached to his sun visor and stares at it every few hours to relax. Annie thanks him for the pep talk and leaves the cab and goes inside her building to work on her important case.A man approaches the cab, and Max almost doesn't notice him, but he gets the man in anyway. The man introduces himself as Vincent. He's very friendly and offers Max $600 to drive him around for the entire night. Max reluctantly agrees, knowing his supervisor disapproves of his drivers taking on single fares for an entire night. As the two chat, Vincent says that he hates Los Angeles because it is impersonal. He recalls a news story about a man who died on the subway but remained on the train for hours without anyone noticing. Max tells Vincent about his dream of opening a limo company, describing his job as a cab driver as temporary. Vincent asks how long he has been doing it, and Max confesses that his \"temporary\" job has lasted 12 years.Vincent has Max drive him to an apartment building and park in a side alley, mostly out of sight. Vincent goes upstairs as Max eats a sandwich. Suddenly, a dead body falls on the roof and windshield of Max's cab, breaking the glass, the light dome on top and putting a large dent in the roof. Vincent comes downstairs and reveals that he shot the man. He forces Max at gunpoint to help him hide the body in the cab's trunk. They wash the blood off the car and repair the light dome with duct tape. Max begs Vincent to let him go, but Vincent insists that he go with him. They are later pulled over by the LAPD, who notice the damage to Max's cab. Max is able to stall them for a few minutes by saying he hit a deer; the police are called away to handle another incident. Not long after, Max receives a call from his boss, who had received a call from the police informing him of the damage. Vincent instructs Max to tell his boss off and poses as an attorney, telling Max's boss that insurance will pay for the damage. He also tells Max to insult his boss, which Max reluctantly does.As the evening continues, Vincent has Max deliver him to more places where Vincent kills people. He has to kill five people by the end of the night. Meanwhile, a detective named Fanning is chasing the two, slowly figuring out what is going on. He pieces together several clues involving the people Vincent has killed, determining that the killer has used the same method to shoot them all; two shots in the chest and one in the skull. All the victims are know associates of a drug-dealing criminal set to go to trial in a few days. Fanning takes on the case.Despite the circumstances, Vincent seems to take a liking to Max, who doesn't return the favor. They later visit Max's mother in the hospital; Vincent wants Max's evening's work to appear as normal as possible to avoid suspicion. Max manages to slip away from Vincent with Vincent's bag, containing his laptop and the identity records of his targets. Max runs over a pedestrian bridge over an expressway and tosses the laptop over the fence where it's run over by a truck. Vincent responds by forcing Max to go to the man, who ordered these hits, a drug dealing gangster, Felix, and retrieve duplicates of the information. Max pretends to be Vincent to the mob boss, and successfully gets the remaining info for the hits. By this time, Fanning has joined an FBI stakeout of Felix's club and identifies Max, whom he thinks is the killer, as a cabbie. Fanning joins the FBI in following the cab. Meanwhile, Felix, questioning his confidence in Vincent, also has him followed by his own men to insure that Vincent will complete the final two hits.Vincent and Max go to a busy night club to kill a heavily guarded target. The FBI, LAPD, and Fanning also show up; Fanning is looking specifically for Max to escort him to safety. A massive gunfight ensues where Vincent kills his target and saves Max's life. Detective Fanning finds Max and is leading him out when Vincent appears behind him and shoots the police officer.Max and Vincent escape the carnage and head for the third mark. By this time Max has reached his breaking point and deliberately wrecks his cab. Vincent crawls out and leaves him behind. A police officer approaches Max to help him but sees the bodies Vincent hid in the trunk. While on the ground, Max sees Vincent's new computer screen and realizes that Annie is the final target, which explains why Vincent was outside that particular building earlier; he was studying the building's security systems.Max overpowers the cop and takes his gun. He races to Annie's building and reaches her at the same time Vincent does. Max shoots Vincent and runs away with Annie. However, Vincent survives his injury and chases the two of them onto a subway train. Vincent and Max fire their guns at one another, with Vincent sustaining mortal wounds. Vincent asks Max if he thinks anyone will notice his body. He dies in a sitting position as Max and Annie leave the train."
+}

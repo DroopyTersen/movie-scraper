@@ -1,0 +1,1558 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/nHf61UzkfFno5X1ofIhugCPus2R.jpg",
+  "id": 346698,
+  "title": "Barbie",
+  "poster_path": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+  "release_date": "2023-07-19",
+  "vote_average": 7.137,
+  "vote_count": 7131,
+  "popularity": 398.032,
+  "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+  "imdb_id": "tt1517268",
+  "budget": 145000000,
+  "homepage": "https://www.barbie-themovie.com",
+  "revenue": 1445638421,
+  "runtime": 114,
+  "tagline": "She's everything. He's just Ken.",
+  "genres": [
+    "Comedy",
+    "Adventure",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "LuckyChap Entertainment",
+    "Heyday Films",
+    "NB/GG Pictures",
+    "Mattel",
+    "Warner Bros. Pictures"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Margot Robbie",
+        "character": "Barbie"
+      },
+      {
+        "name": "Ryan Gosling",
+        "character": "Ken"
+      },
+      {
+        "name": "America Ferrera",
+        "character": "Gloria"
+      },
+      {
+        "name": "Kate McKinnon",
+        "character": "Barbie"
+      },
+      {
+        "name": "Ariana Greenblatt",
+        "character": "Sasha"
+      },
+      {
+        "name": "Simu Liu",
+        "character": "Ken"
+      },
+      {
+        "name": "Will Ferrell",
+        "character": "Mattel CEO"
+      },
+      {
+        "name": "Michael Cera",
+        "character": "Allan"
+      },
+      {
+        "name": "Helen Mirren",
+        "character": "Narrator (voice)"
+      },
+      {
+        "name": "Issa Rae",
+        "character": "Barbie"
+      },
+      {
+        "name": "Alexandra Shipp",
+        "character": "Barbie"
+      },
+      {
+        "name": "Emma Mackey",
+        "character": "Barbie"
+      },
+      {
+        "name": "Emerald Fennell",
+        "character": "Midge"
+      },
+      {
+        "name": "Rhea Perlman",
+        "character": "Ruth Handler"
+      },
+      {
+        "name": "Hari Nef",
+        "character": "Barbie"
+      },
+      {
+        "name": "Kingsley Ben-Adir",
+        "character": "Ken"
+      },
+      {
+        "name": "Ncuti Gatwa",
+        "character": "Ken"
+      },
+      {
+        "name": "Connor Swindells",
+        "character": "Aaron Dinkins"
+      },
+      {
+        "name": "Sharon Rooney",
+        "character": "Barbie"
+      },
+      {
+        "name": "Ritu Arya",
+        "character": "Barbie"
+      },
+      {
+        "name": "Ana Kayne",
+        "character": "Barbie"
+      },
+      {
+        "name": "Nicola Coughlan",
+        "character": "Barbie"
+      },
+      {
+        "name": "Dua Lipa",
+        "character": "Barbie"
+      },
+      {
+        "name": "John Cena",
+        "character": "Ken"
+      },
+      {
+        "name": "Scott Evans",
+        "character": "Ken"
+      },
+      {
+        "name": "Jamie Demetriou",
+        "character": "Mattel Executive #1"
+      },
+      {
+        "name": "Andrew Leung",
+        "character": "Mattel Executive #2"
+      },
+      {
+        "name": "Will Merrick",
+        "character": "Young Mattel Employee"
+      },
+      {
+        "name": "Zheng Xi Yong",
+        "character": "An Even Younger Mattel Employee"
+      },
+      {
+        "name": "Asim Chaudhry",
+        "character": "Warehouse Employee"
+      },
+      {
+        "name": "Ray Fearon",
+        "character": "Dan at the FBI"
+      },
+      {
+        "name": "Erica Ford",
+        "character": "Skipper"
+      },
+      {
+        "name": "Hannah Khalique-Brown",
+        "character": "Growing Up Skipper"
+      },
+      {
+        "name": "Mette Towley",
+        "character": "Barbie Video Girl"
+      },
+      {
+        "name": "Marisa Abela",
+        "character": "Teen Talk Barbie"
+      },
+      {
+        "name": "Lucy Boynton",
+        "character": "Proust Barbie"
+      },
+      {
+        "name": "Rob Brydon",
+        "character": "Sugar Daddy Ken"
+      },
+      {
+        "name": "Tom Stourton",
+        "character": "Earring Magic Ken"
+      },
+      {
+        "name": "Chris Taylor",
+        "character": "Ken Emcee"
+      },
+      {
+        "name": "David Mumeni",
+        "character": "Footrub Ken"
+      },
+      {
+        "name": "Olivia Brody",
+        "character": "2001 Girl"
+      },
+      {
+        "name": "Isla Ashworth",
+        "character": "2001 Girl"
+      },
+      {
+        "name": "Eire Farrell",
+        "character": "2001 Girl"
+      },
+      {
+        "name": "Daisy Duczmal",
+        "character": "2001 Girl"
+      },
+      {
+        "name": "Isabella Nightingale Mercado",
+        "character": "Girl Making Weird Barbie"
+      },
+      {
+        "name": "Genvieve Toussaint",
+        "character": "Young Sasha"
+      },
+      {
+        "name": "Manuela Mora",
+        "character": "Girl with Barbie"
+      },
+      {
+        "name": "Aida Sexton",
+        "character": "Girl with Barbie"
+      },
+      {
+        "name": "Ann Roth",
+        "character": "The Woman on the Bench"
+      },
+      {
+        "name": "Millie-Rose Crossley",
+        "character": "Advertisement Girl"
+      },
+      {
+        "name": "Anvita Nehru",
+        "character": "Advertisement Girl"
+      },
+      {
+        "name": "Kayla-Mai Alvares",
+        "character": "Advertisement Girl"
+      },
+      {
+        "name": "Luke Mullen",
+        "character": "Guy at the Beach"
+      },
+      {
+        "name": "Patrick Luwis",
+        "character": "Guy at the Beach"
+      },
+      {
+        "name": "Mac Brandt",
+        "character": "Construction Worker"
+      },
+      {
+        "name": "Paul Jurewicz",
+        "character": "Construction Worker"
+      },
+      {
+        "name": "Oraldo Austin",
+        "character": "Construction Worker"
+      },
+      {
+        "name": "Benjamin Arthur",
+        "character": "Construction Worker"
+      },
+      {
+        "name": "Carlos Jacott",
+        "character": "Policeman"
+      },
+      {
+        "name": "Adam Ray",
+        "character": "Policeman"
+      },
+      {
+        "name": "George Basil",
+        "character": "Boutique Owner"
+      },
+      {
+        "name": "Ptolemy Slocum",
+        "character": "Corporate Man"
+      },
+      {
+        "name": "Deb Hiett",
+        "character": "Doctor"
+      },
+      {
+        "name": "James Leon",
+        "character": "Life-Guard"
+      },
+      {
+        "name": "Oliver Vaquer",
+        "character": "Businessman"
+      },
+      {
+        "name": "Tony Noto",
+        "character": "Businessman"
+      },
+      {
+        "name": "Christopher T. Wood",
+        "character": "Businessman"
+      },
+      {
+        "name": "Annie Mumolo",
+        "character": "Anxiety Mom"
+      },
+      {
+        "name": "Elise Gallup",
+        "character": "Warning Girl"
+      },
+      {
+        "name": "McKenna Roberts",
+        "character": "Junior High Friend"
+      },
+      {
+        "name": "Brylee Hsu",
+        "character": "Junior High Friend"
+      },
+      {
+        "name": "Sasha Milstein",
+        "character": "Junior High Friend"
+      },
+      {
+        "name": "Lauren Holt",
+        "character": "Time Mom"
+      },
+      {
+        "name": "Sterling Jones",
+        "character": "Mattel Agent"
+      },
+      {
+        "name": "Ryan Piers Williams",
+        "character": "El Esposo de Gloria"
+      },
+      {
+        "name": "Jamaal Lewis",
+        "character": "Muscle Beach Guy"
+      },
+      {
+        "name": "Kathryn Akin",
+        "character": "Doctor Receptionist"
+      },
+      {
+        "name": "Grace Jabbari",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ira Mandela Siobhan",
+        "character": "Dancer"
+      },
+      {
+        "name": "Lisa Spencer",
+        "character": "Dancer"
+      },
+      {
+        "name": "Naomi Weijand",
+        "character": "Dancer"
+      },
+      {
+        "name": "Tom Clark",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ireanne Abenoja",
+        "character": "Dancer"
+      },
+      {
+        "name": "Davide Albonetti",
+        "character": "Dancer"
+      },
+      {
+        "name": "Charlotte Anderson",
+        "character": "Dancer"
+      },
+      {
+        "name": "Michael Anderson",
+        "character": "Dancer"
+      },
+      {
+        "name": "Rico Bakker",
+        "character": "Dancer"
+      },
+      {
+        "name": "James Bamford",
+        "character": "Dancer"
+      },
+      {
+        "name": "William John Banks",
+        "character": "Dancer"
+      },
+      {
+        "name": "Callum Bell",
+        "character": "Dancer"
+      },
+      {
+        "name": "Adam Blaug",
+        "character": "Dancer"
+      },
+      {
+        "name": "Mason Boyce",
+        "character": "Dancer"
+      },
+      {
+        "name": "Taylor Bradshaw",
+        "character": "Dancer"
+      },
+      {
+        "name": "Alex Brown",
+        "character": "Dancer"
+      },
+      {
+        "name": "Miekaile Browne",
+        "character": "Dancer"
+      },
+      {
+        "name": "Lewis Calcutt",
+        "character": "Dancer"
+      },
+      {
+        "name": "Nikkita Chadha",
+        "character": "Dancer"
+      },
+      {
+        "name": "Oliver Chapman",
+        "character": "Dancer"
+      },
+      {
+        "name": "Megan Charles",
+        "character": "Dancer"
+      },
+      {
+        "name": "Callum Clack",
+        "character": "Dancer"
+      },
+      {
+        "name": "Danny Coburn",
+        "character": "Dancer"
+      },
+      {
+        "name": "Kat Collings",
+        "character": "Dancer"
+      },
+      {
+        "name": "Adam Crossley",
+        "character": "Dancer"
+      },
+      {
+        "name": "Sia Dauda",
+        "character": "Dancer"
+      },
+      {
+        "name": "Gustave Die",
+        "character": "Dancer"
+      },
+      {
+        "name": "Grace Durkin",
+        "character": "Dancer"
+      },
+      {
+        "name": "Joelle Dyson",
+        "character": "Dancer"
+      },
+      {
+        "name": "Lewis Easter",
+        "character": "Dancer"
+      },
+      {
+        "name": "Onyemachi Ejimofor",
+        "character": "Dancer"
+      },
+      {
+        "name": "Cameron Everitt",
+        "character": "Dancer"
+      },
+      {
+        "name": "Luke Field-Wright",
+        "character": "Dancer"
+      },
+      {
+        "name": "Sasha Flesch",
+        "character": "Dancer"
+      },
+      {
+        "name": "Adam Fogarty",
+        "character": "Dancer"
+      },
+      {
+        "name": "Mikey French",
+        "character": "Dancer"
+      },
+      {
+        "name": "Anna-Kay Gayle",
+        "character": "Dancer"
+      },
+      {
+        "name": "Charlie Goddard",
+        "character": "Dancer"
+      },
+      {
+        "name": "Marlie Goddard",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ellis Harman",
+        "character": "Dancer"
+      },
+      {
+        "name": "Yasmin Harrison",
+        "character": "Dancer"
+      },
+      {
+        "name": "Josh Hawkins",
+        "character": "Dancer"
+      },
+      {
+        "name": "James Healy",
+        "character": "Dancer"
+      },
+      {
+        "name": "Tim Hodges",
+        "character": "Dancer"
+      },
+      {
+        "name": "Mira Jebari",
+        "character": "Dancer"
+      },
+      {
+        "name": "Beccy Jones",
+        "character": "Dancer"
+      },
+      {
+        "name": "Thomas Kalek",
+        "character": "Dancer"
+      },
+      {
+        "name": "Lily Laight",
+        "character": "Dancer"
+      },
+      {
+        "name": "Maiya Leeke",
+        "character": "Dancer"
+      },
+      {
+        "name": "Cristian Liberti",
+        "character": "Dancer"
+      },
+      {
+        "name": "Prodromos Marneros",
+        "character": "Dancer"
+      },
+      {
+        "name": "Nahum McLean",
+        "character": "Dancer"
+      },
+      {
+        "name": "Jordan Melchor",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ramzan Miah",
+        "character": "Dancer"
+      },
+      {
+        "name": "Andy Monaghan",
+        "character": "Dancer"
+      },
+      {
+        "name": "Florivaldo Mossi",
+        "character": "Dancer"
+      },
+      {
+        "name": "Hannah Nazareth",
+        "character": "Dancer"
+      },
+      {
+        "name": "Grant Neal",
+        "character": "Dancer"
+      },
+      {
+        "name": "Freja Nicole",
+        "character": "Dancer"
+      },
+      {
+        "name": "Shaun Niles",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ella Nonini",
+        "character": "Dancer"
+      },
+      {
+        "name": "Jack William Parry",
+        "character": "Dancer"
+      },
+      {
+        "name": "Josie Pocock",
+        "character": "Dancer"
+      },
+      {
+        "name": "Barnaby Quarendon",
+        "character": "Dancer"
+      },
+      {
+        "name": "Redmand Rance",
+        "character": "Dancer"
+      },
+      {
+        "name": "Zara Richards",
+        "character": "Dancer"
+      },
+      {
+        "name": "Liam Riddick",
+        "character": "Dancer"
+      },
+      {
+        "name": "Alana Rixon",
+        "character": "Dancer"
+      },
+      {
+        "name": "Adam Paul Robertson",
+        "character": "Dancer"
+      },
+      {
+        "name": "Kingdom Sibanda",
+        "character": "Dancer"
+      },
+      {
+        "name": "Sebastian Skov",
+        "character": "Dancer"
+      },
+      {
+        "name": "Aaron J. Smith",
+        "character": "Dancer"
+      },
+      {
+        "name": "Joshua Smith",
+        "character": "Dancer"
+      },
+      {
+        "name": "Lucia-Rose Sokolowski",
+        "character": "Dancer"
+      },
+      {
+        "name": "Janine Somcio",
+        "character": "Dancer"
+      },
+      {
+        "name": "Callum Sterling",
+        "character": "Dancer"
+      },
+      {
+        "name": "Todd Talbot",
+        "character": "Dancer"
+      },
+      {
+        "name": "Charles Tatman",
+        "character": "Dancer"
+      },
+      {
+        "name": "Grant Thresh",
+        "character": "Dancer"
+      },
+      {
+        "name": "Connor Tidman",
+        "character": "Dancer"
+      },
+      {
+        "name": "Wahchi Vong",
+        "character": "Dancer"
+      },
+      {
+        "name": "Jerry Wan",
+        "character": "Dancer"
+      },
+      {
+        "name": "Sasha Wareham",
+        "character": "Dancer"
+      },
+      {
+        "name": "Stan West",
+        "character": "Dancer"
+      },
+      {
+        "name": "Oliver Wheeler",
+        "character": "Dancer"
+      },
+      {
+        "name": "Josh Wild",
+        "character": "Dancer"
+      },
+      {
+        "name": "Joe Wolstenholme",
+        "character": "Dancer"
+      },
+      {
+        "name": "Richard Womersley",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ashley Young",
+        "character": "Dancer"
+      },
+      {
+        "name": "Alex Sturman",
+        "character": "Dancer"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rodrigo Prieto",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Noah Baumbach",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Noah Baumbach",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Carmel Jackson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "David Heyman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Andy Malcolm",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Toby Emmerich",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lucy Bevan",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Roy Taylor",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Jacqueline Durran",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Sarah Greenwood",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Katie Spencer",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Allison Jones",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Greta Gerwig",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Greta Gerwig",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Greta Gerwig",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Mark Ronson",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Mark Ronson",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Robbie Brenner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Julia Pistor",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Danny Downey",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Olivia Grant",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Sarah Townsend",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Dale Robinette",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Margot Robbie",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jo Beckett",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Dean Clegg",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Mark Holt",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Andrew Wyatt",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "George Cottle",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Josh Robertson",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "George Drakoulias",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Atsushi Nishijima",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Alice Ford",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Charlotte Finlay",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Beth Timbrell",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Joe Howard",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Ivana Primorac",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Ivana Primorac",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Dan O'Connell",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Brian Bowles",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Tom Ackerley",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ai-Ling Lee",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Ai-Ling Lee",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Ai-Ling Lee",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "François Dumoulin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jordana Finkel",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Kevin O’Connell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jaap Buitendijk",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "David Doran",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Finneas O'Connell",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Glen Pratt",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Lee Walters",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Adam Hart",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Hope Slepak",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Robb Crafer",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      },
+      {
+        "name": "Robb Crafer",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "name": "Hannah Betts",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Whitney Coleman",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Tamara Catlin-Birch",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Charli XCX",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Marie Larkin",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Laura Bailey",
+        "department": "Costume & Make-Up",
+        "job": "Principal Costumer"
+      },
+      {
+        "name": "Robert Sharman",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Lauren Shaw",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Hugh McClelland",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Samantha Kininmonth",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Dan Kenyon",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Dan Kenyon",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Devyn LaBella",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sarah Downes",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Lizzo",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Kerri Smeltzer",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Angelica O'Brien",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Holland Diaz",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Courtenay Valenti",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Cate Adams",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Chris Reid",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brionna Maria Lynch",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Kevin Schultz",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Michelle Chong",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Lorna Houlihan",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Bálint Csáki",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Kye Mckee",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Laura Miller",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Donny Bailey",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Danni Lizaitis",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Clara Gomez del Moral",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Marie Fink",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Nick Houy",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Nick Irving Allen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Josey McNamara",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Nick King",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Chris Bain",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Jason Blaise Cunningham",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Steve Hancock",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Emily Buntyn",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Dua Lipa",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Miluette Nalin",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Michael B. Johnson",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Lucy Thompson",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Melanie Young",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Matthew R. Milan",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Steven Morris",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Jimmy Kenney",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "John Sorapure",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Melanie Ghisays",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "David Tulett",
+        "department": "Camera",
+        "job": "Libra Head Technician"
+      },
+      {
+        "name": "Sam Perez",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Gordon Stotz",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Owen Jackson",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Richard Dickson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Craig Jamieson",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Manny Tapia",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Chelsea Body",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Ashley Swanson",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Aldonio Danny Frietas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Naomi Tolan",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ynon Kreiz",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Michael Sharp",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Michael Sharp",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "David Keadell",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Billie Eilish",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Kat Ali",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jordan Stossel",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Ingrid Kleinig",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Erin Hewitt",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Anthony Genova",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nina Rice",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Aisling Hughes",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Derek Johnson",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Travis Fienhage",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Zoe Tough",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Kristina Baskett",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Cara Koh",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Naylor",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jasmine Lean",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Anna Kelman",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Kirsty Martin",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Peter Treece",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Vanessa Rael",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jennifer White",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Alex Robinson",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Trixie Gardner",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Sam Durrani",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Troy Castaneda",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Lauren Fox",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Cody Mackie",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Andre Rivera",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Nikita Mitchell",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jac Hopkins",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Sara Osborn",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Alicia Grace Martin",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Preston Mohr",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Lucy Scarfe",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Andrew Rafner",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Sonia Kasparian",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Kurt Nelson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Natalie Rivera",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tegan Hammond",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Janet E Jensen",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "David Woods",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Rob Harris",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "name": "Thitaphon Piraban",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Elena Real-Davies",
+        "department": "Art",
+        "job": "Draughtsman"
+      }
+    ]
+  },
+  "keywords": [
+    "feminism",
+    "satire",
+    "patriarchy",
+    "based on toy",
+    "female protagonist",
+    "doll",
+    "fantasy world",
+    "motherhood",
+    "existentialism",
+    "woman director",
+    "mother daughter relationship",
+    "gender discrimination",
+    "barbie",
+    "secret world"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "Barbie the Doll lives in bliss in the matriarchal society of Barbieland feeling good about her role in the world in the various iterations of Barbies over the years showing girls that play with her that they can be whatever and whoever they want. On the flip side, Ken, who also lives in Barbieland, is unnoticed except in relation to Barbie, which is however one step above any other doll in Barbieland, such as Allan. One day, Stereotypical Barbie begins to have feelings which she's never experienced which leads to her world seemingly falling apart. Weird Barbie determines that there is something happening in the real world with someone playing with her being unhappy leading to Stereotypical Barbie reluctantly heading to the real world to rectify what is happening with that person, she first needing to find this person. Much to Barbie's chagrin, the original Ken, Beach Ken, tags along with her to the real world in he needing to survive in her presence. Beyond their mission to find this person, Barbie and Ken will find the real world unlike anything they know in Barbieland, especially in it being a male dominated society. While Barbie still has to find out what's going on that made her come to the real world, Ken is finding a newfound control which he wants to bring back to Barbieland. If he is able to do so, the role of Barbie in the real world may be forever changed. On top of everything, executives at Mattel, primarily white men, discover that a \"real life\" Barbie and Ken doll have infiltrated the real world, their mission to capture the pair, but especially Barbie, to put them/her back in their/her place, namely in a manufacturer's sealed box.—Huggo"
+  ],
+  "synopsis": "The film begins with The Narrator (Helen Mirren) explaining the societal impact of the Barbie doll on history, accompanied by a clip of the original 1959 Barbie towering over a desert landscape, while little girls playing with baby dolls begin to destroy them.Hidden from the real world is Barbieland, where the Barbies and Kens, alongside other dolls like Allan (Michael Cera) and Midge (Emerald Fennell), live. The Barbies preside over Barbieland in a matriarchal system and work high-position jobs while the Kens spend time as futile subordinates living in the Barbies' shadow. Beach Ken (Ryan Gosling) has feelings for Stereotypical Barbie (Margot Robbie) and constantly vies for her attention, but she doesn't recognize.During a dance party at her house, (Stereotypical) Barbie suddenly starts questioning her mortality. The next day, Barbie suffers an existential crisis, experiencing a series of mishaps including her perfect skin with blemishes and her arched feet going flat. The other Barbies suggest she visit Weird Barbie (Kate McKinnon), who informs her the human girl who is playing with her is unhappy. To fix her crisis, Barbie must travel to the real world, find the girl and help her.On her way to the real world, Barbie finds (Beach) Ken stowed away in her car. He convinces her to let him join and the two travel to Los Angeles, where they accidentally get arrested several times. Barbie learns to cry upon taking in how flawed the real world is, before complimenting an old woman on her beauty. Ken wonders off and discovers the patriarchy, feeling accepted for the first time. He excitedly travels back to Barbieland.At a local school, Barbie finds her human girl, Sasha (Ariana Greenblatt), and tries to help her. However, Sasha and her friends condemn Barbie for glorifying bimbo culture and unhealthy life goals, causing Barbie to run off in tears. Meanwhile, the Mattel CEO (Will Ferrell) discovers Barbie's existence and orders her deportation to Barbieland, sending his men after her.Barbie arrives at Mattel Headquarters and meets the CEO and his male subordinates. They try to send her back via a life-sized doll box, but Barbie deduces their intention and escapes in a pursuit. She is helped by Sasha and her mother Gloria (America Ferrera), who is revealed to be the incitement for Barbie's worries. Gloria started playing with Barbie during a midlife crisis, relinquishing her concerns over to Barbie. The trio, unaware they are being followed by the CEO and his colleagues, travel back to Barbieland.Arriving in Barbieland, the three find that Ken has led his fellow Kens in overthrowing the system, enslaving the Barbies as compliant girlfriends. They also plan to enshrine their new patriarchy in the Barbieland constitution the next day. Barbie tries to persuade Ken to change it back, but he refuses as he finally feels worthy for the first time. Barbie sinks into a depression before Gloria gives a speech on being a woman, inspiring Barbie to save Barbieland.Barbie, Gloria, Sasha, Weird Barbie, Allan (who is against the Kens' new rule) and other discontinued Barbies and Kens hatch a plan. Using Gloria's speech, they free the Barbies of their subjugation before turning the Kens against each other to distract them from changing the constitution. As the Kens fight on the beach, the Barbies restore Barbieland's matriarchy back into the constitution.A distraught Ken expresses disappointment in being nothing other than an accessory to Barbie, to which she encourages him to be his own person. The two apologize to each other for their mistakes. President Barbie (Issa Rae) makes a friendly deal with the Mattel CEO before agreeing to equality for the Kens and other discontinued toys. Barbie, still unsure of who she is, meets with the spirit of Ruth Handler (Rhea Perlman), Mattel's co-founder and her creator. Ruth states that Barbie doesn't have a specific purpose, as her evolution will always exceed her roots. She shows Barbie visions of motherhood, encouraging her to choose her own path.Barbie decides to live in the real world as a human, going by the name Barbara Handler. Gloria and Sasha drive her to an appointment, where Barbie proudly declares she is there to see her gynecologist."
+}

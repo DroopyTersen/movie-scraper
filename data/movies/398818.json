@@ -1,0 +1,795 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+  "id": 398818,
+  "title": "Call Me by Your Name",
+  "poster_path": "https://image.tmdb.org/t/p/w500/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+  "release_date": "2017-09-01",
+  "vote_average": 8.158,
+  "vote_count": 11565,
+  "popularity": 55.881,
+  "overview": "In 1980s Italy, a relationship begins between seventeen-year-old teenage Elio and the older adult man hired as his father's research assistant.",
+  "imdb_id": "tt5726616",
+  "budget": 4000000,
+  "homepage": "http://sonyclassics.com/callmebyyourname/",
+  "revenue": 43143046,
+  "runtime": 132,
+  "tagline": "Is it better to speak or die?",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "production_companies": [
+    "La Cinéfacture",
+    "RT Features",
+    "Frenesy Film",
+    "Water's End Productions",
+    "M.Y.R.A. Entertainment",
+    "CineFinance Italia"
+  ],
+  "production_countries": [
+    "BR",
+    "FR",
+    "IT",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Timothée Chalamet",
+        "character": "Elio Perlman"
+      },
+      {
+        "name": "Armie Hammer",
+        "character": "Oliver"
+      },
+      {
+        "name": "Michael Stuhlbarg",
+        "character": "Samuel Perlman"
+      },
+      {
+        "name": "Amira Casar",
+        "character": "Annella Perlman"
+      },
+      {
+        "name": "Esther Garrel",
+        "character": "Marzia"
+      },
+      {
+        "name": "Victoire Du Bois",
+        "character": "Chiara"
+      },
+      {
+        "name": "Vanda Capriolo",
+        "character": "Mafalda"
+      },
+      {
+        "name": "Antonio Rimoldi",
+        "character": "Anchise"
+      },
+      {
+        "name": "Elena Bucci",
+        "character": "Bambi"
+      },
+      {
+        "name": "Marco Sgrosso",
+        "character": "Nico"
+      },
+      {
+        "name": "André Aciman",
+        "character": "Mounir"
+      },
+      {
+        "name": "Peter Spears",
+        "character": "Isaac"
+      },
+      {
+        "name": "Andrew Duncan Hinojosa",
+        "character": "Alessio"
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Ivory",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "James Ivory",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jellybean Benítez",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Howard Rosenman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Abdi Nazemian",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Luca Guadagnino",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Luca Guadagnino",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Walter Fasano",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Walter Fasano",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Dakota Johnson",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Dominique Delany",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "John Adams",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Peter Spears",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Allan Neuwirth",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Sayombhu Mukdeeprom",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Gerry Gershman",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "name": "Briseide Siciliano",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Mitch Dorf",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Marco Morabito",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Derek Simonds",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Emilie Georges",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Sufjan Stevens",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Sufjan Stevens",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Sufjan Stevens",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Rodrigo Teixeira",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ferdinando Cito Filomarino",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Stella Savino",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Stella Savino",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Italo Cameracanna",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Daniele Quadroli",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "David Quadroli",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Paolo Amici",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Fabrizio Quadroli",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Roberta Federico",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jean-Pierre Laforce",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Lourenço Sant'Anna",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Andrea Alunni",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Samuel Deshors",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Stefano Nagni",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Stefano Nagni",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Rachel Griffiths",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Manolo García",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Robin Urdang",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Paola Gattabrusi",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Virginia Cefaly",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Luca Saviotti",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Gaia Ferme",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "name": "Tom Dolby",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Andrea Gargano",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Davide Favargiotti",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Giulia Piersanti",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Fernanda Lucía Pérez",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Chaitawat Thrisansri",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Luciano Cammerieri",
+        "department": "Art",
+        "job": "Assistant Decorator"
+      },
+      {
+        "name": "Luciano Cammerieri",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Dafne Sartori",
+        "department": "Visual Effects",
+        "job": "Compositing Lead"
+      },
+      {
+        "name": "Francesco Galli",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Sophie Mas",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Paola Sforzini",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Christian Giuliani",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Federico Amodio",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "André Aciman",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Naima Abed",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Margarethe Baillou",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Susanne Filkins",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Kim Surowicz",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Sandro Piccarozzi",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Lucia Guidano",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Sacha Guttenstein",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Manuela D'Ovidio",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Paolo Sponzilli",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Riccardo Zurla",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Adonay Marin Conde",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Massimo Eleonori",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Massimo Eleonori",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Thomas Gastinel",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Yves-Marie Omnes",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Emanuel Bartolozzi",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Charlotte Brancucci",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Davide Camposano",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Fabio Cattaneo",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Andrea Ceccarelli",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Stefano Di Segni",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Mattia Fede",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Claudia Gagliardi",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Mario Liuzzi",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Edoardo Ottone",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Lorenzo Pirri",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Oriana Pioli Quero",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Sara Tomarchio",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Francesca Addonizio",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Clément Laforce",
+        "department": "Sound",
+        "job": "Sound Re-Recording Assistant"
+      },
+      {
+        "name": "Simone Lucchetti",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Francesco Melzi d'Eril",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Niccolò Brindasso",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Adam Howell",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Alessandro Boscolo",
+        "department": "Sound",
+        "job": "Additional Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Federica De Vita",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Massimo Spina",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Dany Hericourt",
+        "department": "Crew",
+        "job": "Dialogue Coach"
+      },
+      {
+        "name": "Daniele Dessena",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Gaia Chaillet Giusti",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Viviana Lo Russo",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Rosa Trapani",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Violante Visconti di Modrone",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Violante Visconti di Modrone",
+        "department": "Art",
+        "job": "Art Direction Intern"
+      },
+      {
+        "name": "Riccardo Cameracanna",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "François Lambert",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Chen Li",
+        "department": "Crew",
+        "job": "Title Graphics"
+      },
+      {
+        "name": "Chen Li",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Simone Balestrini",
+        "department": "Crew",
+        "job": "Generator Operator"
+      },
+      {
+        "name": "Luce Bertani",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Alessio Bolzoni",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Massimo Cecchini",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Luca Del Torre",
+        "department": "Editing",
+        "job": "Dailies Technician"
+      },
+      {
+        "name": "Romano Molter",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Luca Pardini",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Luca Prandoni",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Fabio Proserpio",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Diego Tessarin",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Alessia Boccardo",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Le Yen Mai",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Angelo Malvuccio",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Maria Giulia Zannoni",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Neil Jesuele",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "name": "Alessandro Pelliccia",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Paolo Rocchi",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Massimo Aversano",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Fatim Camara",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Lindsey Taylor",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Roberto Solci",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "name": "Giangi Giordano",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "name": "Manuela Cavallo",
+        "department": "Production",
+        "job": "Production Consultant"
+      },
+      {
+        "name": "Nicholas Kaiser",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Carlo Antonelli",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "upper class",
+    "italy",
+    "swimming pool",
+    "coming of age",
+    "love",
+    "breaking the fourth wall",
+    "summer",
+    "teenage boy",
+    "masturbation",
+    "first love",
+    "lgbt",
+    "jewish family",
+    "1980s",
+    "peach",
+    "gay theme"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In 1980s Italy, romance blossoms between a seventeen-year-old student and the older man hired as his father's research assistant.",
+    "CALL ME BY YOUR NAME, the new film by Luca Guadagnino, is a sensual and transcendent tale of first love, based on the acclaimed novel by André Aciman. It's the summer of 1983 in the north of Italy, and Elio Perlman (Timothée Chalamet), a precocious 17-year-old young man, spends his days in his family's 17th-century villa transcribing and playing classical music, reading, and flirting with his friend Marzia (Esther Garrel). Elio enjoys a close relationship with his father (Michael Stuhlbarg), an eminent professor specializing in Greco-Roman culture, and his mother Annella (Amira Casar), a translator, who favor him with the fruits of high culture in a setting that overflows with natural delights. While Elio's sophistication and intellectual gifts suggest he is already a fully-fledged adult, there is much that yet remains innocent and unformed about him, particularly about matters of the heart. One day, Oliver (Armie Hammer), a 24-year-old American college graduate student working on his doctorate, arrives as the annual summer intern tasked with helping Elio's father. Amid the sun-drenched splendor of the setting, Elio and Oliver discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.—Sony Pictures Classics",
+    "In early-1980s northern Italy, amid the lush Mediterranean landscapes of a serene and golden summer, seventeen-year-old Elio visits the family's summer villa to spend his vacation. But, apart from his father and Greco-Roman culture professor, Mr Perlman, and his translator mother, Annella, the twenty-four-year-old American doctoral student, Oliver, is working there as an intern. Now, against the backdrop of incurable summer ennui, little by little, over the course of six ephemeral weeks, a timid friendship between Elio and Oliver will prepare the ground for an unexpected bond, as the unexplored emotions of first love start boiling over. Could this sun-kissed romance in Lombardy be the prelude to maturity?—Nick Riganas",
+    "The Perlmans own a villa outside of Moscazzano in Northern Italy, where they spend their summers and Hannukah. They invite a graduate student to spend six weeks with them over the summer to help Professor Perlman with his work. This summer - 1983 - the student in question is an American named Oliver. While there, Oliver largely associates with the Perlmans' seventeen year old son Elio and Elio's friends, the females among the group whose hearts are aflutter by Oliver's preppy good looks. Oliver, in fact, takes up casually with one of them, Chiara. Elio is an intellectual, but has no experience with girls as he is only now experimenting with his initial stage of manhood and masculinity. If not for Oliver, Elio probably would have chosen Chiara himself, and as such takes up with Marzia instead. Despite their social association and sleeping in adjoining rooms in the villa, Elio doesn't much like Oliver in thinking him too cocky and arrogant partly in that brash American sensibility. In turn, Oliver believes Elio is patronizing in his outward dislike of him. These outward behaviors mask the fact that there is a deep attraction between Elio and Oliver based largely on their admiration of the other's intellect. When they eventually admit that attraction late into Oliver's stay, Oliver is more reticent to act on those feelings in not wanting to ruin his own or Elio's life in still being in the closet, while Elio wants to experience all that sex and love are as he is in the flush of first real love. With Oliver and Elio's clandestine relationship, Elio has to figure out what to do about Marzia, he who may be aware or unaware of her own very deep feelings for him in also experiencing that flush of first love. The other question then becomes if Elio will be able to recover as there will definitely be an end at least to this phase of Oliver and Elio's romance when Oliver leaves to go home at the end of the summer.—Huggo",
+    "It's the summer of 1983, and precocious 17-year-old Elio Perlman is spending the days with his family at their 17th-century villa in Lombardy, Italy. He soon meets Oliver, a handsome doctoral student who's working as an intern for Elio's father. Amid the sun-drenched splendor of their surroundings, Elio and Oliver discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever."
+  ],
+  "synopsis": "In the summer of 1983, somewhere in northern Italy, seventeen-year-old Elio Perlman (Timothee Chalamet) is living with his parents (Michael Stuhlbarg and Amira Casar). His father, a professor of archaeology, has a graduate student come every summer to help with his research, and this year's student, Oliver (Armie Hammer) arrives to stay with the Perlmans. Elio gives up his room so Oliver can stay in there.With not much else to do, the two begin spending time together, with Elio showing Oliver around. The cerebral Elio finds gregarious Oliver to be arrogant - he doesn't like him very much. When everyone is out sunbathing and playing volleyball, Oliver lightly massages Elio's shoulder, and he recoils at the touch. But as Oliver continues prodding the moody Elio to hang out, they develop a back and forth banter. Elio writes to himself that he was too harsh to Oliver at first, he thought Oliver didn't like him.One night in town, Elio and his friend Marzia (Esther Garrel) see Oliver dancing and kissing a local girl, Chiara. The DJ plays \"Love My Way,\" and Elio joins the dancing - afterward, he and Marzia go swimming in the night. The next day, he tells Oliver he almost had sex with her. Elio becomes increasingly interested in Oliver, tagging along on an excavation to spend time with him.Elio's mother reads a story about a knight who is unable to tell a princess he loves her. \"Is it better to speak or to die?\" asks the prince. On a trip into town, Elio, without saying it explicitly, lets Oliver know he has feelings for him. Oliver tells him to pretend he never said that. On the way home, Elio takes Oliver to a creek that he calls his place. After playing in the water, they lay out in the sun and share a kiss. Elio wants to keep going, but Oliver tells him they haven't done anything wrong yet and should leave it there.Elio begins wearing a Jewish star necklace just like Oliver's, but Oliver is seemingly nowhere to be found over the next few days, seemingly avoiding Elio. Elio begins spending more time with Marzia. She tells Elio she's worried he's going to hurt her. He assuages her, and the two finally have sex.Elio writes and throws out note after note to Oliver - he finally settles on \"can't stand the silence, need to speak to you,\" and leaves it under Oliver's door. He gets a note back that says, \"grow up. I'll see you at midnight\". Elio has sex with Marzia again, and then that evening goes to see Oliver. The two finally sleep together. Oliver tells Elio, \"Call me by your name, and I'll call you by mine.\" Elio calls Oliver Elio. Oliver calls Elio Oliver. The next day, Oliver goes into town, and Elio follows him. Oliver is happy they slept together, but doesn't want Elio to regret anything. He worries he might mess him up. Elio just wants to be with Oliver, he says.Later, Elio is eating a peach and uses it to masturbate with. He finishes in the peach and leaves it on the dresser. When Oliver finds him later, he realizes what happened and goes to playfully eat the peach when Elio bursts into tears. He doesn't want Oliver to go. They continue spending time together, getting closer and more and more intimate. Marzia comes by to look for Elio, wondering why he's disappeared on her. He can't provide any explanation, leaving her devastated.Oliver's last stop before leaving the country is three days working in Bergamo. Elio's parents think it might be nice for Elio to go with him, so Oliver says goodbye to the Perlmans and the two of them take a bus to Bergamo. Alone together, the two see the sights, go out in the evening, and get drunk. Oliver hears \"Love My Way\" playing from a car and runs towards it, dancing to the song. Finally, Oliver has to leave, and the two have a long hug goodbye. Elio watches Oliver get on the train and leave, and calls his mother to come pick him up from the station. He cries during the car ride home.Back in town, he encounters Marzia. She tells him she isn't mad at him, and the two agree to always be friends. Mr. Perlman notices how sad Elio is, and tells him that what he had with Oliver was a truly special friendship - more than a friendship. He tells Elio not to cut himself off from his feelings to not feel grief because then you lose the ability to feel the kind of joy he felt with Oliver. He tells him he came close, but never had the kind of connection that they had.The following winter, snow is everywhere. Chanukah candles are lit and latkes (traditional potato pancakes) are being prepared for the holiday dinner. Elio answers the ringing phone: it's Oliver calling. They tell each other they miss each other, then Oliver shares his news: he's engaged. The Perlmans jump on the line to say hello but then leave Elio and Oliver to speak. Elio tells Oliver they know about them, Oliver guessed as much. He says they always treated him like one of the family, as a son in law. They call each other by their names one more time, and Oliver tells Elio he remembers everything. Elio goes and sits in front of the fireplace, eyes welling up with tears as dinner is about to be served."
+}

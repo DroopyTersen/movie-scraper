@@ -1,0 +1,1955 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/2P0toWq3feNvFAzf28j7vNc1IuZ.jpg",
+  "id": 106646,
+  "title": "The Wolf of Wall Street",
+  "poster_path": "https://image.tmdb.org/t/p/w500/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+  "release_date": "2013-12-25",
+  "vote_average": 8,
+  "vote_count": 22801,
+  "popularity": 115.266,
+  "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+  "imdb_id": "tt0993846",
+  "budget": 100000000,
+  "homepage": "http://www.thewolfofwallstreet.com/",
+  "revenue": 392000000,
+  "runtime": 180,
+  "tagline": "Earn. Spend. Party.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Red Granite Pictures",
+    "Appian Way",
+    "Sikelia Productions",
+    "EMJAG Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Jordan Belfort"
+      },
+      {
+        "name": "Jonah Hill",
+        "character": "Donnie Azoff"
+      },
+      {
+        "name": "Margot Robbie",
+        "character": "Naomi Lapaglia"
+      },
+      {
+        "name": "Kyle Chandler",
+        "character": "Agent Patrick Denham"
+      },
+      {
+        "name": "Matthew McConaughey",
+        "character": "Mark Hanna"
+      },
+      {
+        "name": "Rob Reiner",
+        "character": "Max Belfort"
+      },
+      {
+        "name": "Jon Bernthal",
+        "character": "Brad Bodnick"
+      },
+      {
+        "name": "Jon Favreau",
+        "character": "Manny Riskin"
+      },
+      {
+        "name": "Jean Dujardin",
+        "character": "Jean-Jacques Handali"
+      },
+      {
+        "name": "Joanna Lumley",
+        "character": "Aunt Emma"
+      },
+      {
+        "name": "Cristin Milioti",
+        "character": "Teresa Petrillo"
+      },
+      {
+        "name": "Christine Ebersole",
+        "character": "Leah Belfort"
+      },
+      {
+        "name": "Shea Whigham",
+        "character": "Captain Ted Beecham"
+      },
+      {
+        "name": "Katarina Čas",
+        "character": "Chantalle"
+      },
+      {
+        "name": "P.J. Byrne",
+        "character": "Nicky \"Rugrat\" Koskoff"
+      },
+      {
+        "name": "Kenneth Choi",
+        "character": "Chester Ming"
+      },
+      {
+        "name": "Brian Sacca",
+        "character": "Robbie \"Pinhead\" Feinberg"
+      },
+      {
+        "name": "Henry Zebrowski",
+        "character": "Alden \"Sea Otter\" Kupferberg"
+      },
+      {
+        "name": "Ethan Suplee",
+        "character": "Toby Welch"
+      },
+      {
+        "name": "Barry Rothbart",
+        "character": "Peter DeBlasio"
+      },
+      {
+        "name": "Jake Hoffman",
+        "character": "Steve Madden"
+      },
+      {
+        "name": "Mackenzie Meehan",
+        "character": "Hildy Azoff"
+      },
+      {
+        "name": "Bo Dietl",
+        "character": "Bo Dietl"
+      },
+      {
+        "name": "Jon Spinogatti",
+        "character": "Nicholas the Butler"
+      },
+      {
+        "name": "Aya Cash",
+        "character": "Janet (Jordan's Assistant)"
+      },
+      {
+        "name": "Rizwan Manji",
+        "character": "Kalil"
+      },
+      {
+        "name": "Stephanie Kurtzuba",
+        "character": "Kimmie Belzer"
+      },
+      {
+        "name": "J.C. MacKenzie",
+        "character": "Lucas Solomon"
+      },
+      {
+        "name": "Ashlie Atkinson",
+        "character": "Rochelle Applebaum"
+      },
+      {
+        "name": "Thomas Middleditch",
+        "character": "Stratton Broker in a Bowtie"
+      },
+      {
+        "name": "Stephen Kunken",
+        "character": "Jerry Fogel"
+      },
+      {
+        "name": "Edward Herrmann",
+        "character": "Stratton Oakmont Commercial (voice)"
+      },
+      {
+        "name": "Jordan Belfort",
+        "character": "Auckland Straight Line Host"
+      },
+      {
+        "name": "Ted Griffin",
+        "character": "Agent Hughes"
+      },
+      {
+        "name": "Fran Lebowitz",
+        "character": "Honorary Samantha Stogel"
+      },
+      {
+        "name": "Robert Clohessy",
+        "character": "Nolan Drager (Jordan's Lawyer)"
+      },
+      {
+        "name": "Natasha Newman-Thomas",
+        "character": "Danielle Harrison"
+      },
+      {
+        "name": "Sandra Nelson",
+        "character": "Aliyah Farran (Forbes Reporter)"
+      },
+      {
+        "name": "Johnnie Mae",
+        "character": "Violet (Housekeeper)"
+      },
+      {
+        "name": "Christina Jeffs",
+        "character": "Venice (Dominatrix)"
+      },
+      {
+        "name": "Sabina Maschi",
+        "character": "Swiss Flight Attendant #1"
+      },
+      {
+        "name": "Zana Markelson",
+        "character": "Swiss Flight Attendant #2"
+      },
+      {
+        "name": "Welker White",
+        "character": "Waitress"
+      },
+      {
+        "name": "Danny Flaherty",
+        "character": "Zip (Lude Buying Teenager #1)"
+      },
+      {
+        "name": "Carla Corvo",
+        "character": "Pam"
+      },
+      {
+        "name": "Dustin Kerns",
+        "character": "Ben Jenner"
+      },
+      {
+        "name": "Ashley Blankenship",
+        "character": "Sales Assistant #1 (in Men's Room)"
+      },
+      {
+        "name": "Madison McKinley",
+        "character": "Heidi"
+      },
+      {
+        "name": "Dierdre Reimold",
+        "character": "Nicole"
+      },
+      {
+        "name": "Kerry Malloy",
+        "character": "Helicopter Pilot"
+      },
+      {
+        "name": "Frank van Putten",
+        "character": "Swiss Banker"
+      },
+      {
+        "name": "Aaron Lazar",
+        "character": "Blair Hollingsworth"
+      },
+      {
+        "name": "Steve Routman",
+        "character": "SEC Attorney #1"
+      },
+      {
+        "name": "Steve Witting",
+        "character": "SEC Attorney #2"
+      },
+      {
+        "name": "Charley Morgan",
+        "character": "SEC Attorney #3"
+      },
+      {
+        "name": "Michael Nathanson",
+        "character": "Barry Kleinman"
+      },
+      {
+        "name": "Natalie Bensel",
+        "character": "Bottoms Up Hooker"
+      },
+      {
+        "name": "Tess Olivia",
+        "character": "Blue Chip Hooker / Sales Assistant #2"
+      },
+      {
+        "name": "Jaclyn Keys",
+        "character": "Nasdaq Hooker"
+      },
+      {
+        "name": "Krista Ashworth",
+        "character": "Pink Sheet Hooker"
+      },
+      {
+        "name": "Kathleen Fellegara",
+        "character": "Straight Line Testimonial #1"
+      },
+      {
+        "name": "John Bernard Martin",
+        "character": "Straight Line Testimonial #2"
+      },
+      {
+        "name": "Jamel Daniels",
+        "character": "Straight Line Testimonial #3"
+      },
+      {
+        "name": "Dan Bittner",
+        "character": "Rothschild Broker #1"
+      },
+      {
+        "name": "John Behlmann",
+        "character": "Rothschild Broker #2"
+      },
+      {
+        "name": "Ward Horton",
+        "character": "Rothschild Broker #3"
+      },
+      {
+        "name": "Bret Shuford",
+        "character": "Rothschild Broker #4"
+      },
+      {
+        "name": "Paul Monte Jr.",
+        "character": "Rothschild Broker #5"
+      },
+      {
+        "name": "Ellen Sexton",
+        "character": "Rothschild Broker #6"
+      },
+      {
+        "name": "Brian Tweedy",
+        "character": "Rothschild Broker #7"
+      },
+      {
+        "name": "J.T. O'Connor",
+        "character": "Rothschild Broker #8"
+      },
+      {
+        "name": "Steven Boyer",
+        "character": "Investor's Center Broker #1"
+      },
+      {
+        "name": "Danny A. Abeckaser",
+        "character": "Investor's Center Broker #2"
+      },
+      {
+        "name": "Tracy Friedman",
+        "character": "Investor's Center Broker #3"
+      },
+      {
+        "name": "Matthew Rauch",
+        "character": "Stratton Broker #1"
+      },
+      {
+        "name": "Michael Izquierdo",
+        "character": "Stratton Broker #2"
+      },
+      {
+        "name": "Donnie Keshawarz",
+        "character": "Stratton Broker #3"
+      },
+      {
+        "name": "Johnathan Tchaikovsky",
+        "character": "Stratton Broker #4"
+      },
+      {
+        "name": "Aaron Glaser",
+        "character": "Stratton Broker #5"
+      },
+      {
+        "name": "Ben Rameaka",
+        "character": "Stratton Broker #6"
+      },
+      {
+        "name": "Ben Loving",
+        "character": "Stratton Broker #7"
+      },
+      {
+        "name": "Brian Charles Johnson",
+        "character": "Young Broker"
+      },
+      {
+        "name": "Sebastian Tillinger",
+        "character": "Another Broker"
+      },
+      {
+        "name": "Chris Riggi",
+        "character": "Party Broker #1"
+      },
+      {
+        "name": "Dan Hunter",
+        "character": "Party Broker #2"
+      },
+      {
+        "name": "Meghan Rafferty",
+        "character": "Donnie's Assistant"
+      },
+      {
+        "name": "José Ramón Rosario",
+        "character": "Maitre d' Hector"
+      },
+      {
+        "name": "Davram Stiefler",
+        "character": "Broker in Men's Room"
+      },
+      {
+        "name": "Dan Daily",
+        "character": "Honorary Raymond Samitz"
+      },
+      {
+        "name": "Ben Van Bergen",
+        "character": "Swiss Customs Officer #1"
+      },
+      {
+        "name": "Matte Osian",
+        "character": "Swiss Customs Officer #2"
+      },
+      {
+        "name": "Michael Devine",
+        "character": "Cop #1"
+      },
+      {
+        "name": "Jason Furlani",
+        "character": "Cop #2"
+      },
+      {
+        "name": "Scott Nicholson",
+        "character": "Police Officer #1"
+      },
+      {
+        "name": "Jeremy Bobb",
+        "character": "Police Officer #2"
+      },
+      {
+        "name": "Dean Auer",
+        "character": "Brookville Police Officer #1"
+      },
+      {
+        "name": "Tom Greer",
+        "character": "Brookville Police Officer #2"
+      },
+      {
+        "name": "Sharon Jones",
+        "character": "Wedding Singer #1"
+      },
+      {
+        "name": "Starr Duncan-Lowe",
+        "character": "Wedding Singer #2"
+      },
+      {
+        "name": "Saundra Williams",
+        "character": "Wedding Singer #3"
+      },
+      {
+        "name": "Emily Tremaine",
+        "character": "Cristy"
+      },
+      {
+        "name": "Zineb Oukach",
+        "character": "Hostess on The Naomi"
+      },
+      {
+        "name": "Loretta O. Booz",
+        "character": "Wendy"
+      },
+      {
+        "name": "Shea Coleman",
+        "character": "Skylar Belfort (14 Months Old)"
+      },
+      {
+        "name": "Giselle Eisenberg",
+        "character": "Skylar Belfort (4 Years Old)"
+      },
+      {
+        "name": "Deema Aitken",
+        "character": "Lude Buying Teenager #2"
+      },
+      {
+        "name": "Ashley Springer",
+        "character": "Job Applicant #1"
+      },
+      {
+        "name": "Justin Anthony Long",
+        "character": "Job Applicant #2"
+      },
+      {
+        "name": "Gregory Perri",
+        "character": "Job Applicant #3"
+      },
+      {
+        "name": "Viki Boyle",
+        "character": "Wedding Minister"
+      },
+      {
+        "name": "Chris Caldovino",
+        "character": "Rocco #1"
+      },
+      {
+        "name": "Marcos A. Gonzalez",
+        "character": "Rocco #2"
+      },
+      {
+        "name": "Chris Matesevac",
+        "character": "Break Dancing Broker #1"
+      },
+      {
+        "name": "Justin Yllanes",
+        "character": "Break Dancing Broker #2"
+      },
+      {
+        "name": "Rémy Bennett",
+        "character": "Abby"
+      },
+      {
+        "name": "Catherine Curtin",
+        "character": "FBI Agent #1"
+      },
+      {
+        "name": "Paul Urcioli",
+        "character": "FBI Agent #2"
+      },
+      {
+        "name": "Jamie O'Connell",
+        "character": "FBI Agent #3"
+      },
+      {
+        "name": "Michael O'Hara",
+        "character": "Prison Guard"
+      },
+      {
+        "name": "Lawrence Lau",
+        "character": "Inmate Playing Tennis #1"
+      },
+      {
+        "name": "Michael Bryan French",
+        "character": "Inmate Playing Tennis #2"
+      },
+      {
+        "name": "Adria Baratta",
+        "character": "Sales Assistant #3"
+      },
+      {
+        "name": "Armen Garo",
+        "character": "Rao's Patron #1"
+      },
+      {
+        "name": "Garry Pastore",
+        "character": "Rao's Patron #2"
+      },
+      {
+        "name": "Louis Vanaria",
+        "character": "Rao's Patron #3"
+      },
+      {
+        "name": "Lawrence Smith",
+        "character": "Extra Broker #1"
+      },
+      {
+        "name": "Hardy Winburn",
+        "character": "Extra Broker #2"
+      },
+      {
+        "name": "Allyson Carr",
+        "character": "Stripper on Yacht"
+      },
+      {
+        "name": "Peter Youngblood Hills",
+        "character": "Audience Member #1"
+      },
+      {
+        "name": "Daniel Hepner",
+        "character": "Audience Member #2"
+      },
+      {
+        "name": "Brendan Griffin",
+        "character": "Audience Member #3"
+      },
+      {
+        "name": "Derek Milman",
+        "character": "Audience Member #4"
+      },
+      {
+        "name": "Victor Verhaeghe",
+        "character": "Audience Member #5"
+      },
+      {
+        "name": "Jared Houseman",
+        "character": "Audience Member #6"
+      },
+      {
+        "name": "Spike Jonze",
+        "character": "Dwayne (uncredited)"
+      },
+      {
+        "name": "Martin Scorsese",
+        "character": "John (voice) (uncredited)"
+      },
+      {
+        "name": "Fileena Bahris",
+        "character": "Wedding Guest (uncredited)"
+      },
+      {
+        "name": "Silvia Kal",
+        "character": "Wedding Guest (uncredited)"
+      },
+      {
+        "name": "Kamron Leal",
+        "character": "Wedding Guest (uncredited)"
+      },
+      {
+        "name": "Tommy Bayiokos",
+        "character": "Kacandes Diner Man (uncredited)"
+      },
+      {
+        "name": "Gianni Biasetti Jr.",
+        "character": "Italian Coastguard (uncredited)"
+      },
+      {
+        "name": "Rick Bolander",
+        "character": "Broker (uncredited)"
+      },
+      {
+        "name": "Spenser Granese",
+        "character": "Broker (uncredited)"
+      },
+      {
+        "name": "Julian Brand",
+        "character": "Stratton Broker (uncredited)"
+      },
+      {
+        "name": "Kenneth Carrella",
+        "character": "Stratton Broker (uncredited)"
+      },
+      {
+        "name": "Austin Farwell",
+        "character": "Stratton Broker (uncredited)"
+      },
+      {
+        "name": "Zach Miko",
+        "character": "Stratton Broker (uncredited)"
+      },
+      {
+        "name": "Tyler Evan Rowe",
+        "character": "Stratton Broker (uncredited)"
+      },
+      {
+        "name": "Stefano Villabona",
+        "character": "Stratton Broker (uncredited)"
+      },
+      {
+        "name": "Gregory Brown",
+        "character": "Upper Eastside Pedestrian (uncredited)"
+      },
+      {
+        "name": "Tucker Bryan",
+        "character": "Wolfpack #4 (uncredited)"
+      },
+      {
+        "name": "Michael Jefferson",
+        "character": "Wolfpack #1 (uncredited)"
+      },
+      {
+        "name": "Bryan Burton",
+        "character": "Young Stratton Inc. Broker (uncredited)"
+      },
+      {
+        "name": "Mike Catapano",
+        "character": "Broker Applicant (uncredited)"
+      },
+      {
+        "name": "Steven Conroy",
+        "character": "Audience Member (uncredited)"
+      },
+      {
+        "name": "Kelsey Deanne",
+        "character": "Pool Party Guest (uncredited)"
+      },
+      {
+        "name": "Maria Di Angelis",
+        "character": "Nicky Koskoff's Escort (uncredited)"
+      },
+      {
+        "name": "London Hall",
+        "character": "Swiss Airline Passenger (uncredited)"
+      },
+      {
+        "name": "Rosemary Howard",
+        "character": "Rao's Pedestrian (uncredited)"
+      },
+      {
+        "name": "Chris Kerson",
+        "character": "Kimmie Belzer's Desk Mate (uncredited)"
+      },
+      {
+        "name": "Natasha Kojic",
+        "character": "Singer (uncredited)"
+      },
+      {
+        "name": "Ben Leasure",
+        "character": "Brantley (uncredited)"
+      },
+      {
+        "name": "Paul Jude Letersky",
+        "character": "Marina Sightseer (uncredited)"
+      },
+      {
+        "name": "Will MacAdam",
+        "character": "Irritated Plane Passinger (uncredited)"
+      },
+      {
+        "name": "Jeff Moffitt",
+        "character": "Party Goer (uncredited)"
+      },
+      {
+        "name": "Chris Nunez",
+        "character": "Miami Busboy (uncredited)"
+      },
+      {
+        "name": "Seregon O'Dassey",
+        "character": "Masseuse to Donnie Azoff (uncredited)"
+      },
+      {
+        "name": "Joseph Oliveira",
+        "character": "Court Room Attendant (uncredited)"
+      },
+      {
+        "name": "Michael Power",
+        "character": "Seminar Guest (uncredited)"
+      },
+      {
+        "name": "Nicole Rutigliano",
+        "character": "Stripper (uncredited)"
+      },
+      {
+        "name": "Sibyl Santiago",
+        "character": "Convention Attendee (uncredited)"
+      },
+      {
+        "name": "Vitaliy Shtabnoy",
+        "character": "Kent - Broker (uncredited)"
+      },
+      {
+        "name": "Madeleine Wade",
+        "character": "Call Girl (uncredited)"
+      },
+      {
+        "name": "Blago Simon",
+        "character": "Stock Broker (uncredited)"
+      },
+      {
+        "name": "Paul Thornton",
+        "character": "1st Class Swiss Airline Passenger (uncredited)"
+      },
+      {
+        "name": "David Wenzel",
+        "character": "Banker (uncredited)"
+      },
+      {
+        "name": "Joe Zaso",
+        "character": "Rudy (uncredited)"
+      },
+      {
+        "name": "Claudette Lalí",
+        "character": "Strip Girl (uncredited)"
+      },
+      {
+        "name": "Francis Brooke",
+        "character": "Conference Attendee (uncredited)"
+      },
+      {
+        "name": "Martin Klebba",
+        "character": "Azoff's Bullseye (uncredited)"
+      },
+      {
+        "name": "Michael Dubuc",
+        "character": "Stock Broker (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rodrigo Prieto",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Martin Scorsese",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Martin Scorsese",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Eugene Gearty",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Ted Griffin",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Ellen Lewis",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Georgia Kacandes",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Thelma Schoonmaker",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Martin Klebba",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard Stutsman",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Kelley Cribben",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "David Boulton",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Sandy Powell",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Irwin Winkler",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "W. Steven Graham",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Tim Monich",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Mark Owen Forker",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "R. Bruce Steinheimer",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Chris Shriver",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "James Sabat",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Rick Yorn",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Randall Poster",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Richard Baratta",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Richard Baratta",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Danny Dimbort",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Emma Tillinger Koskoff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Petrea Burchard",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Brian Sales",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Ellen Christiansen",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Declan Mulvey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Terence Winter",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Gary Archer",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "Kam Chan",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Marko Costanzo",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Chris Fielder",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "Ruth Hernandez",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "name": "Marissa Littlefield",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Robbie Robertson",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "name": "Alexandra Milchan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Matt Garner",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Gary Tacon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael Bloomberg",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Gina Telaroli",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Blaise Corrigan",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Peter Epstein",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brian Jones",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Stephen A. Pope",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christopher Place",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christopher Peterson",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Monty L. Simons",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Roy T. Anderson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jordan Belfort",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "Mary Cybulski",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Bobby Beckles",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Riza Aziz",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Joey McFarland",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "George A. Lara",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Drew Jiritano",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Aaron Vexler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "G. A. Aguilar",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Chuck Khoury",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Adam Somner",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Adam Somner",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Asa Liebmann",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "George B. Colucci Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Hugghins",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jon Trosky",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeffrey Lee Gibson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Pappas",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Marianne Bower",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Stephen W. Schriver",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael Storm Raven",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Frank Kern",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Mindy Hall",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Bridget O'Neill",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "John Pollard ",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "David Davenport",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Samantha MacIvor",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jared Burke",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Philip Stockton",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Philip Stockton",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Chris Kelly",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Supervisor"
+      },
+      {
+        "name": "Colin Brantley",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Justin Ferk",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Trampas Thompson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Drew Leary",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Corey Pierno",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Paul Graff",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Max Leonard",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Trevor Habberstad",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nina Cinelli",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Edson Williams",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Glenn Allen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Richard Friedlander",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Michael Hyde",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "David Meyer",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Craig Barron",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Joe Farrell",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Edward Cohen",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Charlene Eberle Douglas",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Tom Fleischman",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Sha-Sha Shiau",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Kathryn Blondell",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Robert Legato",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Robert Legato",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Robert Legato",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Jennifer Dunnington",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Larry Kaplan",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Greg Steele",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "name": "Raymond M. Samitz",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Philip Canfield",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Maceo Bishop",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Alyssa Motschwiller",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Chris Bertholf",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Claire Bretschneider",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Robert Griffon Jr.",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Deborah Wallach",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Jonathan Arkin",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Amanda Miller",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Jason Kolowski",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Sian Grigg",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Élodie Ichter",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Bob Shaw",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Joseph Whitmeyer",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Allison Pokladowski",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Ian Clarke",
+        "department": "Crew",
+        "job": "Picture Car Coordinator"
+      },
+      {
+        "name": "Charles Heidet",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Valerie Velez",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Branka Mrkic",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Eran Dinur",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Amy Safhay",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Monica Russell",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Ian Mclaughlin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dean Neistat",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeremy Sample",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Francesca Buccellato",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Frank Graziadei",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Jill Astmann",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Shaun Lowry",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Lukas Lepicovsky",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Nick Carr",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Richie Ford",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Mark Russell",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Victor Paguia",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Wade Sullivan",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Jovan Vitagliano",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Allison Hall",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Matthew Maisto",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Christian Madera",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Michael J. Prate",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Tom Prate",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Joe Sarao",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Joey Evora",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "R. Cory McCutcheon",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Joe Montenegro",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Susan Schectar",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Philippe Majdalani",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Meghan Currier",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Mary Anne Spano",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Michael Kriston",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Heather Gross",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Holly Unterberger",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Philip Lobban",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Yvan Lucas",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Aja Frary",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Fichera",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Meghan Rafferty",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Zoran Veselic",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Cookie Lopez",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Rich Fellegara",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Chris Cenatiempo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William D. Moran",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Kathleen Fellegara",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "John DeSimone",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Francesco Marras",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Sam Rosedietcher",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Jamie Baker",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Carmine Picarello",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Bret Scheinfeld",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Dan Wesson",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Bernd Angerer",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Brian Battles",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Dave Levine",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Carl Stern",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Jeremiah Sweeney",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Luca Gabriele Rossetti",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Scott Burik",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mike Burke",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nicole Callender",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ned Corrigan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William Cote",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Neimah Djourabchi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Geoffrey Dowell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Shane Geraghty",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dina L. Margolin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Balint Pinczehelyi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kevin Rogers",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Shawnna Thibodeau",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Caroline Vexler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Barnes",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Owen Holland",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Josh Lakatos",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kevin Flynn",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Bobby Mancuso",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Adam Barbay",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Stephen Ciffone",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Brett Heicher",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Kevin Karpinski",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jason Montague",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "John Nasta",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Chad Lear Plunkett",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Zachary Poots",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Harry Pray IV",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Steve Sterling",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Matt Breitenbach",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Katherine Oliver",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Arusha Baker",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Nils Widboom",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Mark Behar",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Tanya Blumstein",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Jeffrey A. Brown",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Jay Ferraro",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Nick Mann",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Andrew Mortelliti",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Francisco Ortiz",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Don Hewitt Sr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gianni Biasetti Sr.",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jho Low",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Patrice Canfield Longo",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Rachel Berry",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Damon Hahn",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Gwyneth E. Larsen",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "corruption",
+    "drug addiction",
+    "anti hero",
+    "con man",
+    "fraud",
+    "wall street",
+    "based on true story",
+    "rise and fall",
+    "con artist",
+    "money",
+    "stockbroker",
+    "wealthy",
+    "drugs",
+    "stripping",
+    "hedonism",
+    "decadence",
+    "corrupt",
+    "1980s",
+    "sharemarket fraud",
+    "financial market",
+    "black monday"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "Jordan Belfort (DiCaprio) is Long Island penny stockbroker who serves almost two years in prison for refusing to co-operate in a huge 1990s securities fraud case that involved widespread corruption on Wall Street and in the corporate banking world, including mob infiltration."
+  ],
+  "synopsis": "Jordan Belfort (Leonardo DiCaprio) narrates the film showing his monstrous success with his firm complete with ribaldry at work, a sumptuous home on the Gold Coast of Long Island and a trophy wife who is a former model. He then flashes back to 1987, where he began a low-level job at an established Wall Street firm. His boss Mark Hanna (Matthew McConaughey) advises him to adopt a lifestyle of casual sex and cocaine to succeed. However, shortly after he passes his exam to become a certified stockbroker, he loses his job on account of the firm's bankruptcy as a result of Black Monday.Now unemployed in an economy that is unaccommodating to stockbrokers and sufficiently discouraged to consider a new line of work, Jordan's wife Teresa (Cristin Milioti) encourages him to take a job with a Long Island boiler room dealing in penny stocks, which are also largely ignored by regulators. Belfort impresses his new boss with his aggressive pitching style, and earns a small fortune for the boiler room and himself as penny stocks have a much higher commission than blue chips. Jordan also befriends Donnie Azoff (Jonah Hill), a salesman living in the same apartment complex and they decide to go into business together. To facilitate this, his accountant parents are recruited as well as several of Jordan's friends, some of them experienced marijuana dealers. The basic method of the firm is a pump and dump scam. To cloak this, Belfort gives the firm the respectable WASP like sounding name of Stratton Oakmont. An article in Forbes dubs Jordan the \"Wolf of Wall Street\", and soon hundreds of ambitious young financiers flock to his company.A decadent lifestyle of lavish parties, sex and drugs follows. Jordan regularly uses prostitutes and becomes addicted to cocaine and Quaaludes. FBI Agent Patrick Denham (Kyle Chandler) begins investigating Stratton Oakmont. When Jordan meets Naomi Lapaglia (Margot Robbie) at one of his parties, he begins an affair with her, resulting in his divorce from Teresa. Jordan makes Naomi his second wife in an extravagant wedding and gives her a yacht aptly named Naomi, and soon they have a daughter, Skylar.Meanwhile, the Securities and Exchange Commission works jointly with the FBI to intensify the Stratton Oakmont investigation.\nJordan instantly makes US$22 million on his securing the IPO of Steve Madden Ltd. To hide his money, Jordan opens a Swiss bank account with the corrupt banker Jean-Jacques Saurel (Jean Dujardin) in the name of Naomi's aunt Emma (Joanna Lumley), who is a British citizen and outside the reach of American authorities. He uses friends with European passports to smuggle cash to Switzerland. When Donnie gets into a public fight with Brad Bodnick (Jon Bernthal), who is one of their money couriers, and Brad is arrested, their scheme is nearly exposed.Donnie offers Jordan a powerful brand of Quaaludes, hoping to ease the sting of the bad news. The pills are old and seem to have lost their potency, so they take huge doses to compensate. Jordan then receives a call from Bo Dietl, his private investigator, who insists Jordan call him back from a payphone. Jordan drives to a country club to phone Bo, who warns Jordan of Brad's arrest and that his house phone has been wiretapped. At this point, the Quaaludes finally kick in with overwhelming effect. Severely debilitated, Jordan drives back home to prevent Donnie from using his phone. When Jordan arrives home Donnie (who is also high) is on the phone with Saurel. Jordan fights Donnie to make him get off the phone and tells him he found out what happened between him and Brad. Donnie starts choking on ham and nearly suffocates. Jordan snorts cocaine to counteract the effect of the Quaaludes in order to help save Donnie's life.With the shadow of law enforcement hanging over them, Jordan's father Max (Rob Reiner) attempts to convince his son to step down from Stratton Oakmont and escape the large amount of legal penalties. However, during his leaving party at the office, Jordan changes his mind and to the great acclaim of his employees vows to stay on.Jordan, Donnie and their wives on a yacht trip to Italy learn that Emma has died of a heart attack. Over his grieving wife's objections, Jordan decides to sail to Monaco so they can drive to Switzerland without getting their passports stamped at the border and settle the bank account, but a violent storm capsizes their yacht. After their rescue, the plane sent to take them to Geneva is destroyed by a seagull flying into the engine, exploding and killing three people. Witnessing this, Jordan considers this a sign from God and decides to sober up.Two years later, Denham arrests Jordan during the filming of an infomercial. Saurel, arrested in Florida over an unrelated charge, has told the FBI everything. Since the evidence against him is overwhelming, Jordan agrees to gather evidence on his colleagues in exchange for leniency.Jordan is optimistic about his sentencing but after one last bout of sex, Naomi tells Jordan she will divorce him and wants full custody of their children. Jordan throws a violent tantrum, gets high, and ends up crashing his car in his driveway during an attempt to abscond with their daughter.The next morning, Jordan wears a wire to work. Jordan silently slips Donnie a note warning him about the wire. The note finds its way to Agent Denham, who arrests Jordan for breaching his cooperation deal. The FBI raids and shuts down Stratton Oakmont.\nDespite this one breach, Jordan receives a much reduced sentence for his testimony and is sentenced to 36 months in a minimum security prison in Nevada. After his release, Jordan makes a living hosting seminars on sales technique."
+}

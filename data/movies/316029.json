@@ -1,0 +1,1833 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg",
+  "id": 316029,
+  "title": "The Greatest Showman",
+  "poster_path": "https://image.tmdb.org/t/p/w500/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+  "release_date": "2017-12-20",
+  "vote_average": 7.902,
+  "vote_count": 9014,
+  "popularity": 44.062,
+  "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+  "imdb_id": "tt1485796",
+  "budget": 84000000,
+  "homepage": "http://thegreatestshowman.com/",
+  "revenue": 432800000,
+  "runtime": 105,
+  "tagline": "The impossible comes true.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Chernin Entertainment",
+    "20th Century Fox",
+    "TSG Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Hugh Jackman",
+        "character": "P. T. Barnum"
+      },
+      {
+        "name": "Zac Efron",
+        "character": "Phillip Carlyle"
+      },
+      {
+        "name": "Michelle Williams",
+        "character": "Charity Barnum"
+      },
+      {
+        "name": "Rebecca Ferguson",
+        "character": "Jenny Lind"
+      },
+      {
+        "name": "Zendaya",
+        "character": "Anne Wheeler"
+      },
+      {
+        "name": "Keala Settle",
+        "character": "Lettie Lutz"
+      },
+      {
+        "name": "Yahya Abdul-Mateen II",
+        "character": "W. D. Wheeler"
+      },
+      {
+        "name": "Natasha Liu Bordizzo",
+        "character": "Deng Yan"
+      },
+      {
+        "name": "Paul Sparks",
+        "character": "James Gordon Bennett"
+      },
+      {
+        "name": "Sam Humphrey",
+        "character": "Charles Stratton"
+      },
+      {
+        "name": "Austyn Johnson",
+        "character": "Caroline Barnum"
+      },
+      {
+        "name": "Cameron Seely",
+        "character": "Helen Barnum"
+      },
+      {
+        "name": "Eric Anderson",
+        "character": "Mr. O'Malley"
+      },
+      {
+        "name": "Ellis Rubin",
+        "character": "Young P. T. Barnum"
+      },
+      {
+        "name": "Skylar Dunn",
+        "character": "Young Charity Hallett"
+      },
+      {
+        "name": "Daniel Everidge",
+        "character": "Lord of Leeds"
+      },
+      {
+        "name": "Radu Spinghel",
+        "character": "O'Clancy"
+      },
+      {
+        "name": "Yusaku Komori",
+        "character": "Chang Bunker"
+      },
+      {
+        "name": "Danial Son",
+        "character": "Eng Bunker"
+      },
+      {
+        "name": "Will Swenson",
+        "character": "Philo Barnum"
+      },
+      {
+        "name": "Linda Marie Larson",
+        "character": "Mrs. Stratton"
+      },
+      {
+        "name": "Byron Jennings",
+        "character": "Mr. Carlyle"
+      },
+      {
+        "name": "Betsy Aidem",
+        "character": "Mrs. Carlyle"
+      },
+      {
+        "name": "Damian Young",
+        "character": "Mr. Winthrop"
+      },
+      {
+        "name": "Tina Benko",
+        "character": "Mrs. Winthrop"
+      },
+      {
+        "name": "Fredric Lehne",
+        "character": "Benjamin Hallett"
+      },
+      {
+        "name": "Kathryn Meisle",
+        "character": "Hannah Hallett"
+      },
+      {
+        "name": "Timothy Hughes",
+        "character": "Strong Man"
+      },
+      {
+        "name": "Gayle Rankin",
+        "character": "Queen Victoria"
+      },
+      {
+        "name": "Arnie Burton",
+        "character": "Court Herald"
+      },
+      {
+        "name": "Carly Adams",
+        "character": "Ballerina #1"
+      },
+      {
+        "name": "Sawyer Niehaus",
+        "character": "Ballerina #2"
+      },
+      {
+        "name": "Shuler Hensley",
+        "character": "Lead Protestor"
+      },
+      {
+        "name": "Will Erat",
+        "character": "Policeman"
+      },
+      {
+        "name": "James Andrew O'Connor",
+        "character": "Fireman"
+      },
+      {
+        "name": "Jamie Jackson",
+        "character": "Boss"
+      },
+      {
+        "name": "Morgan Weed",
+        "character": "Nurse"
+      },
+      {
+        "name": "Henry Stram",
+        "character": "Ticket Taker"
+      },
+      {
+        "name": "Michael Barra",
+        "character": "Stage Manager"
+      },
+      {
+        "name": "Luciano Acuna Jr.",
+        "character": "Dog Boy"
+      },
+      {
+        "name": "Shannon Freyer",
+        "character": "Jenny Lind Admirer #1"
+      },
+      {
+        "name": "Kevin Dwane",
+        "character": "Jenny Lind Admirer #2"
+      },
+      {
+        "name": "Sandi DeGeorge",
+        "character": "Jenny Lind Admirer #3"
+      },
+      {
+        "name": "Tony Neil Butler",
+        "character": "Royal Escort"
+      },
+      {
+        "name": "Frances Emily Schramm",
+        "character": "Laundry Woman"
+      },
+      {
+        "name": "Kenneth Wong Chan",
+        "character": "Human Cannonball"
+      },
+      {
+        "name": "Stacey Alyse Cohen",
+        "character": "Theatre Goer #1"
+      },
+      {
+        "name": "Tim Wilson",
+        "character": "Theatre Goer #2"
+      },
+      {
+        "name": "Jonathon Culver",
+        "character": "Theatre Goer #3"
+      },
+      {
+        "name": "Jillian Braithwaite",
+        "character": "Panhandler"
+      },
+      {
+        "name": "Adam Haas Hunter",
+        "character": "Protester"
+      },
+      {
+        "name": "Bob Rumnock",
+        "character": "Bank Manager"
+      },
+      {
+        "name": "Ben Reed",
+        "character": "Mill Worker"
+      },
+      {
+        "name": "Martha Nichols",
+        "character": "Woman in Gold"
+      },
+      {
+        "name": "Jonathan Redavid",
+        "character": "Dancer Oddity #1"
+      },
+      {
+        "name": "Shannon Holtzapffel",
+        "character": "Dancer Oddity #2"
+      },
+      {
+        "name": "Jeremy Hudson",
+        "character": "Dancer Oddity #3"
+      },
+      {
+        "name": "Taylor James",
+        "character": "Dancer Oddity #4"
+      },
+      {
+        "name": "Chelsea Caso",
+        "character": "Dancer Oddity #5"
+      },
+      {
+        "name": "Caoife Coleman",
+        "character": "Dancer Oddity #6"
+      },
+      {
+        "name": "Mishay Petronelli",
+        "character": "Dancer Oddity #7"
+      },
+      {
+        "name": "Khasan Brailsford",
+        "character": "Ensemble Dancer #1"
+      },
+      {
+        "name": "Alex Wong",
+        "character": "Ensemble Dancer #2"
+      },
+      {
+        "name": "Julius Anthony Rubio",
+        "character": "Ensemble Dancer #3"
+      },
+      {
+        "name": "Vincent-Olivier Noiseux",
+        "character": "Ensemble Dancer #4"
+      },
+      {
+        "name": "DeAnna Walters",
+        "character": "Ensemble Dancer #5"
+      },
+      {
+        "name": "Ilia Jessica Castro",
+        "character": "Ensemble Dancer #6"
+      },
+      {
+        "name": "Najla Gilliam",
+        "character": "Ensemble Dancer #7"
+      },
+      {
+        "name": "Christina Glur",
+        "character": "Ensemble Dancer #8"
+      },
+      {
+        "name": "Emerson Tate Alexander",
+        "character": "Pointe Ballerina #1"
+      },
+      {
+        "name": "Victoria Llodra",
+        "character": "Pointe Ballerina #2"
+      },
+      {
+        "name": "Louise Hindsbo",
+        "character": "Pointe Ballerina #3"
+      },
+      {
+        "name": "Laci Justice",
+        "character": "Pointe Ballerina #4"
+      },
+      {
+        "name": "GiaNina Paolantonio",
+        "character": "Pointe Ballerina #5"
+      },
+      {
+        "name": "Rachel Quiner",
+        "character": "Pointe Ballerina #6"
+      },
+      {
+        "name": "Madison Smith",
+        "character": "Pointe Ballerina #7"
+      },
+      {
+        "name": "Brando",
+        "character": "Pointe Ballerina #8"
+      },
+      {
+        "name": "Daniel 'Cloud' Campos",
+        "character": "Dancing Bartender #1"
+      },
+      {
+        "name": "Rod Roberts",
+        "character": "Dancing Bartender #2"
+      },
+      {
+        "name": "James Babson",
+        "character": "Additional Voices (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Peter Kohn",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Peter Kohn",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "James Mangold",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Michael McCusker",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "John Debney",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Seamus McGarvey",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Ellen Mirojnick",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Joe Hutshing",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Laura Ballinger",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Lisa Scoppa",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Jon Poll",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Laurence Mark",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jeff Carson",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Mark Owen Forker",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Nathan Crowley",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Bill Condon",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Debra Schutt",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Tod A. Maitland",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Tod A. Maitland",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Goro Koyama",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Andy Malcolm",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Angela Levin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jenno Topping",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Bernard Telsey",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "E. J. Foerster",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "David Betancourt",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Tim Gomillion",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "David Lucarelli",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Paul Massey",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Erin Michael Rettig",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Charleen Richards",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Robert Duffy",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Emily Beck",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jenny Bicks",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Jenny Bicks",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Lewis Goldstein",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Lewis Goldstein",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Robert Jackson",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Greg Crawford",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Don White",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Spencer Susser",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Peter Epstein",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Donald J. Lee Jr.",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Donald J. Lee Jr.",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Peter Chernin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Anna Venizelos",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "name": "Dror Mohar",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Regina Graves",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Tiffany Little Canfield",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Mariusz Glabinski",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Bobby Beckles",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Shaun Brennan",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Aaron Vexler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tim Stipan",
+        "department": "Editing",
+        "job": "Digital Intermediate Colorist"
+      },
+      {
+        "name": "Nicki Ledermann",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Mariusz Kubicki",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joseph Trapanese",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Niko Tavernise",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Tom Cross",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "George B. Colucci Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael Gracey",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ashley Wallen",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Cory Geryak",
+        "department": "Crew",
+        "job": "Second Unit Cinematographer"
+      },
+      {
+        "name": "Jared Burke",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jerry Popolis",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Joel Weaver",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Tommy Allen",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Sam Restivo",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "name": "Nnamdi  Nwosa",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lauren Ritchie",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Brian Bowles",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Brian Bowles",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Sandy Hamilton",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Nick Miller",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Sandra Fox",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Luis Moco",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Trampas Thompson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bryce Biederman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ted Caplan",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Kevin Ritter",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Judith M. Brown",
+        "department": "Crew",
+        "job": "Studio Teacher"
+      },
+      {
+        "name": "David Isyomin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jeff Brink",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Howard Samuelsohn",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Nithya Shrinivasan",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "John Bair",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Mary Bailey",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Sheri Ozeki",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Dave Reardon",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Jess Platt",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Scott T. Coppock",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Duane Manwiller",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Richard A. Zimmer",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Sunday Englis",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Suzy Mazzarese-Allison",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Frances Fiore",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Maceo Bishop",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Maceo Bishop",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Katya Blumenberg",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Christopher Raymond",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Tom Ryan",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jen Monnar",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "name": "Derek Casari",
+        "department": "Sound",
+        "job": "ADR Engineer"
+      },
+      {
+        "name": "Alex Lacamoire",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "name": "Eran Dinur",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Dann Fink",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Andy Day",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Sabrina Calley",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Bryce Burke",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Justin Paul",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Christine Sirois",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Patrick Capone",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Pamela S. Westmore",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Victor Paguia",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Megan Asbee",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Wade Sullivan",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jovan Vitagliano",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Julie Carr",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Jack Donnelly",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Christopher Fulton",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Jill Losquadro",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Cliff Welsh",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jonny Winograd",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Deanna Leslie",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Mark Wike",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Bill Orrico",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "James Andrykowski",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Jim Harrison",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Rich Fellegara",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Billy Kerwick",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Kathleen Fellegara",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Susan Antonelli",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Scott Burik",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William Cote",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Shane Geraghty",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kevin Rogers",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bobby Mancuso",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Christen Edwards",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Mike Watts",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Ashley Lambert",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Sandra Grubb",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Jordan Lindblad",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Christina Shea-Wright",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "name": "Josiah Nolan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robbie P Smith",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Edward Allen",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Alexis Wiscomb",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Rob Davidsson",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Jerry Yuen",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "James Barrett",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Deb Dyer",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Deb Dyer",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Timothy Metzger",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Blaise Miller",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Richard Guinness Jr.",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Kevin Schultz",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Anthony Mecca",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sarah Dennis",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Tonia Davis",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Vern Malone",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Benj Pasek",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Julie Solomon",
+        "department": "Production",
+        "job": "Location Coordinator"
+      },
+      {
+        "name": "Patty Carey",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Bill Sweeney",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Nicholas Rymond",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Gary Martori",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Dan Decelle",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Roman Greller",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Candis Heiland",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "John M. Souto",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Joe Taglairino",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Patrick Wiley",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Wesley Petersen",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Lauren Rockman",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Danielle Smith",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Stayc St. Onge",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Alfred DeGrand",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Jerrell Suelto",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Wen Hsuan Tseng",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Rori Bergman",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "name": "Mallory Thompson",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jason Mello",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Suo Liu",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ruth Carsch",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Thomas Place",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jimmy McBride",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Luke Little",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Ginny Walsh",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Alex Soto",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Toni Roman-Grimm",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Ralph G. Crowley",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Abby Walton",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Adam Wood",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joel Chang",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Tania Ribalow",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Mark Agnes",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Dann Tarmy",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Dexter Kennedy",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Michael Scott",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "William Self",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Califf Guzman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dee Morris",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brandon McClary",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dan Kuchar",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Rachel Wardell",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "Jon Graham",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Jenna Dalla Riva",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Stacy St. Onge",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Daniel James McCabe",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Gary English",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Jack Heeren",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Danny Walker",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Troy Sola",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Peter Wallack",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chad Hessler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Phillis Lehmer",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Davi Aquino",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Keone Kim",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Glen A. Gregory",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Brett Robinson",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Malcolm Alston",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "John Edmundson",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "John Helms",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Julian J. Delacruz",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Mallory Trice",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "JoAnn Atwood",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Ryan Ferguson",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Chris Silano",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Luke Lesko",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alex R. Wagner",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Matthew Hale",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Zack Roberts",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Johnny Batista",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Brian Waltsak",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Mia Bauman",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Gina Leone",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Luke Vexler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ann Bartek",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Anthony Coan",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Janine Pesce",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Joseph E. Petruccio",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Elizabeth Yoon",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ross Citrin",
+        "department": "Camera",
+        "job": "Second Assistant \"C\" Camera"
+      },
+      {
+        "name": "Abby Levine",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Hector Rodriguez",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Alex Scricco",
+        "department": "Directing",
+        "job": "Additional Second Assistant Director"
+      },
+      {
+        "name": "Shanae Rivers",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Tanner Carlson",
+        "department": "Camera",
+        "job": "Epk Camera Operator"
+      },
+      {
+        "name": "Tom Brown",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "name": "Stephanie Glover McGee",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Drew Reade",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brian Burik",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jordan Carroll",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Erin Kennedy Lunsford",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Anette Lian-Williams",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Genyii Scott",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Kim Taylor",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Stephanie Abbaspour",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Chris Sanicki",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Liam Flaherty",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joe Belschner",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Paul Dickover",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Olivia Montaño",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Rob Tedeschi Jr.",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Scott Galina",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Patrick Goodwin",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Alice Bee",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Sara Gagliardi",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "James Ghazarian",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Jonathan Knipscher",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Cathy Parrott",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Marina Reti",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Molly Schaefer",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Maria Zamansky",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Phillip Trujillo",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Matthew Wells",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Eddie DeCurtis",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Lee J. Santillan",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Terrence Quinn",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Nolan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eddie Meehan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Pat Barr",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Andre Cerquira",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Mills",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Keith Stiegelbauer",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Natalie Turturro Mettouchi",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Michael Santulli",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Amy Thompson",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Samson Jacobson",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Virginia Reilly",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "A.R. Björklund",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "name": "Tony LePage",
+        "department": "Sound",
+        "job": "Vocals"
+      }
+    ]
+  },
+  "keywords": [
+    "adultery",
+    "circus",
+    "musical",
+    "biography",
+    "rags to riches",
+    "based on true story",
+    "outcast",
+    "singing",
+    "dreamer",
+    "freak show"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.",
+    "Orphaned, penniless, but ambitious and with a mind crammed with imagination and fresh ideas, the American entertainer, Phineas Taylor Barnum, will always be remembered as the man with the gift to blur the line between reality and fiction. Thirsty for innovation and hungry for success, the son of a tailor manages to open a wax museum; however, he soon shifts focus to the unique and the peculiar, introducing extraordinary, never-seen-before live acts on the circus stage. Now, some people call Barnum's rich collection of oddities, an outright freak show; but, when Phineas, obsessed for cheers and respectability, gambles everything on the opera singer, Jenny Lind, to appeal to a high-brow audience, he will lose sight of the most crucial aspect of his life: his family. Will Barnum, the greatest showman, risk it all to be accepted?—Nick Riganas",
+    "In the late 19th century, P. T. Barnum and his troupe perform a show at the circus (\"The Greatest Show\"). In a flashback to Barnum's childhood where he and his father Philo, a tailor, work for the Hallett family, he becomes infatuated with their daughter, Charity. Charity explains that her father is sending her to finishing school, and she does not know what her future will be, but Barnum explains that he expects great things from his future, and reassures her that they will not be separated. The two keep in touch through letters until they meet again in adulthood (\"A Million Dreams\"), eventually marrying and raising two daughters, Caroline and Helen, in New York City (\"A Million Dreams\" reprise). They live a humble life; though Charity is happy, Barnum craves more."
+  ],
+  "synopsis": "The film opens with Phineas Taylor \"P.T.\" Barnum (Hugh Jackman) joining his circus troupe in a song (\"The Greatest Show\"), playing to an enthusiastic crowd as he and his performers put on a dazzling show.We cut to Barnum as a young boy (Ellis Rubin) in the 1800's, working with his tailor father Philo (Will Swenson). They arrive at the home of Mr. Hallett (Fred Lehne) and his daughter Charity (Skylar Dunn). P.T. makes Charity laugh and spit out her tea, prompting her father to smack him across the face and forbid him from going near her. Regardless, P.T. and Charity spend time together and develop a close friendship in song (\"A Million Dreams\"), even as Charity is forced to go to a finishing school. They write letters to each other and eventually reunite as adults, where Barnum proposes to Charity (now played by Michelle Williams).Barnum works for a trading company until his boss tells everyone that they are shutting the company down due to bankruptcy after their trading vessels have sunk to the bottom of the ocean. Barnum goes home to Charity and their daughters Caroline (Austyn Johnson) and Helen (Cameron Seely). He brings home a spinning lamp, or \"wishing machine\", for Caroline's birthday. Charity and the girls all make wishes, and Barnum hatches an idea.Barnum goes to the bank for a $10,000 loan and uses the deed to the (sunken) trading vessels as collateral. With the money, he opens up a museum devoted to oddities, because he thinks people are fascinated with things like that. The museum fails to attract business, and most people reject the idea.Barnum then goes around town searching for unique individuals. Among them are a dwarf named Charles Stratton (Sam Humphrey), a bearded woman named Lettie Lutz (Keala Settle), an obese man called Lord of Leeds (Daniel Everidge), a hair-covered man referred to as Dog Boy (Luciano Acuna, Jr.), and an 8-foot tall man. Although initially viewed as freaks, Barnum manages to get them all to put on a musical number of shows that win over crowds every night (\"Come Alive\"). One who remains unimpressed is critic James Gordon Bennett (Paul Sparks). Despite his lack of interest in Barnum's show, Bennett inspires him to rename his show as \"P.T. Barnum's Circus\".The circus starts to bring in healthy profits, leading Barnum to move his family into a luxurious mansion, as well as being able to put Caroline in a ballet school. However, she becomes discouraged when the other girls mock her for being part of a circus family.Barnum later meets a playwright named Phillip Carlyle (Zac Efron). He approaches Philip with the opportunity to join his circus (\"The Other Side\"), and Phillip agrees on the condition that he get 10% of the profits.The troupe is invited to England to meet Queen Victoria (Gayle Rankin). She notes that Charles (now going as General Tom Thumb) is exceptionally short, and he makes a crack that she's not so tall either. After an awkward silence, Victoria lets out a hearty laugh. Later, Barnum and Phillip meet noted opera singer Jenny Lind (Rebecca Ferguson), and they invite her to perform for the show so that she may become known worldwide.Jenny joins the show back in the States. She performs before a large crowd (\"Never Enough\") that includes Phillip's parents, as well as Charity's. The crowd loves her, and Barnum even spots Bennett in the audience appearing to enjoy her. He finds himself falling for the show's trapeze artist Anne Wheeler (Zendaya). After Jenny's performance, Barnum and the others gather with a party, but when the rest of the troupe wants to join the party, Barnum turns them away. Although sad at first, the troupe decides not to let this get them down, as they decide to embrace who they are, regardless of how they are viewed (\"This is Me\").Phillip tries to introduce Anne to his parents, but they disapprove of her because of her race. She leaves upset, and Phillip tells his parents off for how they spoke to Anne. He goes to find her, and they express their mutual feelings for one another (\"Rewrite The Stars\").Barnum goes on tour with Jenny, leaving Phillip as the ringmaster with the show. Protesters continuously gather outside to harass the troupe for their physical differences. The distance proves to be hard for Charity and the girls (\"Tightrope\"). While celebrating their success so far, Jenny appears to develop an attraction to Barnum, but he remains faithful to Charity. Jenny gets upset and threatens to quit, but Barnum has her finish the tour. After one performance, the press snaps a photo of Jenny kissing Barnum before she ultimately quits.Phillip confronts the protesters, but they refuse to leave. When they threaten him and the others, Anne's brother W.D. (Yahya Abdul-Mateen III) throws the first punch, leading to an all-out brawl between the troupe and the protesters. One of the protesters grabs a lantern and throws it at a wall, setting the theater ablaze. Barnum returns home from his tour and greets his family when he overhears about the fire. He runs toward it just as the flames consume the whole building. Phillip runs inside to find Anne, but she is already coming out with W.D. Barnum runs in for Phillip, just as the building collapses. His daughters cry, thinking him dead, until he emerges with an unconscious Phillip. He is taken to the hospital.Barnum just sits outside the remains of the theater. Bennett goes to join him, saying that the police arrested the thugs that started the fire, and while Bennett didn't enjoy Barnum's show, he feels that another critic may have called it a \"celebration of humanity\". He then shows Barnum the newspaper, which shows Jenny kissing him and her announcement of quitting. Barnum rushes home to Charity, only to find that she's packed her bags because the bank is evicting them, but she is also unhappy over seeing the paper, despite Barnum trying to explain himself.Barnum goes to drink at a bar. The entire troupe finds him and confronts him. Lettie tells Barnum that while he may not have always done the right thing, he saw them all as more than freaks and gave them a real family and home. Barnum is encouraged to pick himself up and help get the troupe back to performing (\"From Now On\"). He then runs to Charity's childhood home where the girls tell him that she's at the beach. Barnum goes to apologize to her for being obsessed with chasing fame, and she says all she wanted was the man she fell in love with.Phillip, who has recovered, offers to provide his shares from profits to restart the circus. Although Barnum hesitates, Phillip is adamant in being his partner with 50% of shares. Barnum restarts the show in a tent with circus animals and the rest of the troupe. Audiences turn out in droves. Barnum then decides to hand over the job of ringmaster to Phillip so that he can go and watch his girls grow up. Phillip finishes the show and kisses Anne, while Barnum rides an elephant to meet Charity and the girls.The film ends with Barnum and Charity watching Caroline perform in the ballet (with Helen playing a tree), and Barnum acknowledging that everything he ever wanted and needed is right in front of him."
+}

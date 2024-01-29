@@ -1,0 +1,822 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/vpRMzPqHC03I7hPPET4Av2OT8dI.jpg",
+  "id": 400617,
+  "title": "Phantom Thread",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+  "release_date": "2017-12-25",
+  "vote_average": 7.309,
+  "vote_count": 3290,
+  "popularity": 18.105,
+  "overview": "In 1950s London, renowned British dressmaker Reynolds Woodcock comes across Alma, a young, strong-willed woman, who soon becomes ever present in his life as his muse and lover.",
+  "imdb_id": "tt5776858",
+  "budget": 35000000,
+  "homepage": "http://focusfeatures.com/phantom-thread",
+  "revenue": 47756590,
+  "runtime": 130,
+  "tagline": "Whatever you do, do it carefully.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Focus Features",
+    "Annapurna Pictures",
+    "Perfect World Pictures",
+    "JoAnne Sellar Productions",
+    "Ghoulardi Film Company"
+  ],
+  "production_countries": [
+    "CN",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Daniel Day-Lewis",
+        "character": "Reynolds Woodcock"
+      },
+      {
+        "name": "Vicky Krieps",
+        "character": "Alma Elson"
+      },
+      {
+        "name": "Lesley Manville",
+        "character": "Cyril Woodcock"
+      },
+      {
+        "name": "Camilla Rutherford",
+        "character": "Johanna"
+      },
+      {
+        "name": "Gina McKee",
+        "character": "Countess Henrietta Harding"
+      },
+      {
+        "name": "Brian Gleeson",
+        "character": "Dr. Robert Hardy"
+      },
+      {
+        "name": "Harriet Sansom Harris",
+        "character": "Barbara Rose"
+      },
+      {
+        "name": "Lujza Richter",
+        "character": "Princess Mona Braganza"
+      },
+      {
+        "name": "Julia Davis",
+        "character": "Lady Baltimore"
+      },
+      {
+        "name": "Julie Vollono",
+        "character": "London Housekeeper"
+      },
+      {
+        "name": "Sue Clark",
+        "character": "Biddy"
+      },
+      {
+        "name": "Joan Brown",
+        "character": "Nana"
+      },
+      {
+        "name": "Harriet Leitch",
+        "character": "Pippa"
+      },
+      {
+        "name": "Dinah Nicholson",
+        "character": "Elsa"
+      },
+      {
+        "name": "Julie Duck",
+        "character": "Irma"
+      },
+      {
+        "name": "Maryanne Frost",
+        "character": "Winn"
+      },
+      {
+        "name": "Elli Banks",
+        "character": "Elli"
+      },
+      {
+        "name": "Amy Cunningham",
+        "character": "Mabel"
+      },
+      {
+        "name": "Amber Brabant",
+        "character": "Amber"
+      },
+      {
+        "name": "Geneva Corlett",
+        "character": "Geneva"
+      },
+      {
+        "name": "Juliet Glaves",
+        "character": "Florist"
+      },
+      {
+        "name": "Philip Franks",
+        "character": "Peter Martin"
+      },
+      {
+        "name": "Tony Hansford",
+        "character": "Petrol Station Owner"
+      },
+      {
+        "name": "Steven F. Thompson",
+        "character": "Maitre'D"
+      },
+      {
+        "name": "George Glasgow",
+        "character": "Nigel Cheddar-Goode"
+      },
+      {
+        "name": "Niki Angus-Campbell",
+        "character": "Young Fan"
+      },
+      {
+        "name": "Georgia Kemball",
+        "character": "Young Fan's Friend"
+      },
+      {
+        "name": "Nick Ashley",
+        "character": "Charles Gayford"
+      },
+      {
+        "name": "Ingrid Sophie Schram",
+        "character": "House Model"
+      },
+      {
+        "name": "Ellie Blackwell",
+        "character": "House Model"
+      },
+      {
+        "name": "Zarene Dallas",
+        "character": "House Model"
+      },
+      {
+        "name": "Pauline Moriarty",
+        "character": "Minetta"
+      },
+      {
+        "name": "Eric Sigmundsson",
+        "character": "Cal Rose"
+      },
+      {
+        "name": "Phyllis MacMahon",
+        "character": "Tippy"
+      },
+      {
+        "name": "Richard Graham",
+        "character": "George Riley, News of the World"
+      },
+      {
+        "name": "Silas Carson",
+        "character": "Rubio Gurrerro"
+      },
+      {
+        "name": "Martin Dew",
+        "character": "John Evans, Daily Mail"
+      },
+      {
+        "name": "James Thomson",
+        "character": "Reporter"
+      },
+      {
+        "name": "Tim Ahern",
+        "character": "Barbara's Lawyer"
+      },
+      {
+        "name": "Leopoldine Hugo",
+        "character": "Princess Mona's Mother"
+      },
+      {
+        "name": "Delia Remy",
+        "character": "Bridesmaid"
+      },
+      {
+        "name": "Alice Grenier",
+        "character": "Bridesmaid"
+      },
+      {
+        "name": "Emma Clandon",
+        "character": "Reynolds' Mother"
+      },
+      {
+        "name": "Ian Harrod",
+        "character": "Registrar"
+      },
+      {
+        "name": "Sarah Lamesch",
+        "character": "Steff"
+      },
+      {
+        "name": "Nicholas Mander",
+        "character": "Lord Baltimore"
+      },
+      {
+        "name": "Jordon Stevens",
+        "character": "Lady Baltimore's Daughter"
+      },
+      {
+        "name": "Michael Stevenson",
+        "character": "MC, New Year's Eve Party"
+      },
+      {
+        "name": "Jane Perry",
+        "character": "Mrs. Vaughan"
+      },
+      {
+        "name": "Charlotte Melen",
+        "character": "Young Fashionable Woman"
+      },
+      {
+        "name": "Dave Simon",
+        "character": "Chelsea Arts Club New Years Eve Party Guest (uncredited)"
+      },
+      {
+        "name": "David Charles-Cully",
+        "character": "Chelsea Arts Club New Years Eve Party Guest (uncredited)"
+      },
+      {
+        "name": "Louis Hannan",
+        "character": "Chelsea Arts Club New Years Eve Party Guest (uncredited)"
+      },
+      {
+        "name": "Evie Wray",
+        "character": "Wedding Guest / Dancer (uncredited)"
+      },
+      {
+        "name": "Jonathan Wayre",
+        "character": "Pathe News Cameraman (uncredited)"
+      },
+      {
+        "name": "Cécile van Dijk",
+        "character": "Cécile (uncredited)"
+      },
+      {
+        "name": "Jack Tyson",
+        "character": "New Year's Eve Party Guest (uncredited)"
+      },
+      {
+        "name": "Joshua Tomkins",
+        "character": "New Year's carnival Float Team Cowboy (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Dylan Tichenor",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Mark Tildesley",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Paul Thomas Anderson",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Daniel Lupi",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "JoAnne Sellar",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Cassandra Kulukundis",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Paul Engelen",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Daniel Day-Lewis",
+        "department": "Writing",
+        "job": "Script Consultant"
+      },
+      {
+        "name": "Linda Cohen",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Véronique Melery",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Denis Schnegg",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Sarah Trevis",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Mark Bridges",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Mark Bridges",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Sarita Allison",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Matthew Wood",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Jonny Greenwood",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Rohan Harris",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Karen Ramirez",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "William Fletcher",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Chelsea Barnard",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Megan Ellison",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Adam Somner",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Adam Somner",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Jonny Franklin",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "David Acord",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Marco Scotti",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Erica Frauman",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "John Barrett",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Richard Oxford",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Andrew Sissons",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Peter Heslop",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Richard Quinn",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Annie Penn",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "John Midgley",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Gary Powell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Colin Anderson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Chris Scarabosio",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Chris Scarabosio",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Laurie Sparham",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Jillian Longnecker",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Michael Bauman",
+        "department": "Crew",
+        "job": "Lighting Camera"
+      },
+      {
+        "name": "Michael Bauman",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "James Summers",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Felicity Hickson",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Jeff Kunkle",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Andy Jurgensen",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "name": "Paula Suhy",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Samantha Waite",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Dora Krolikowska",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Frank Rinella",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "Ronni Brown",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Erik L. Brown",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Chris Reynolds",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Adam Ridge",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Adrian Bell",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Adam Squires",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Daniel Lawson Johnston",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Peter N. Brown",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Kimberly Patrick",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Chris Peters",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Lara Genovese",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Mitchell Holder",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Paul Stewart",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Matthew Wood",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Jon Henry Gordon",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Sophie Bugeaud",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Katharina Hofmann",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Katharina Hofmann",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Erin Duffy",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Coya Elliott",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "James Spencer",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "name": "Darren Lyttle",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "John Heayn",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Joe Downs",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Claudia Cimmino",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Jack Bentley",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Johanna Garrad",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Emma Horton",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Drew Payne",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Augustin Dukes",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Daniel Lillie",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Emma Bailey",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Ernst Aschi Michel",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Louise Young",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Guillaume Chiavassa",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Heloise Walker",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Paul Paintin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Lloyd Baldwin",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Natalie Hierons",
+        "department": "Crew",
+        "job": "Prop Maker"
+      },
+      {
+        "name": "Rowan Laidlaw",
+        "department": "Crew",
+        "job": "Clearances Coordinator"
+      },
+      {
+        "name": "Brian Martin",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Jack Farrow",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Kate Jeanne",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Mary Judge",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Alice Kornicki",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Kristen Zimmerman",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Emma Collinson",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Lottie Mason",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Andrew Ryland",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Dawn Greenhalgh",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Harry Hewitt",
+        "department": "Production",
+        "job": "Production Secretary"
+      }
+    ]
+  },
+  "keywords": [
+    "london, england",
+    "husband wife relationship",
+    "obsession",
+    "dressmaker",
+    "fashion designer",
+    "muse",
+    "doctor",
+    "wedding",
+    "fashion",
+    "fashion show",
+    "haute couture",
+    "fictional biography",
+    "1950s",
+    "fashion industry",
+    "brother sister relationship"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover.",
+    "In glamorous 1950s post-war London, renowned dressmaker Reynolds Woodcock (Daniel Day-Lewis) and his sister Cyril (Lesley Manville) are at the center of British fashion, dressing royalty, movie stars, heiresses, socialites, debutantes, and dames in the distinct style of The House of Woodcock. Women come and go through Woodcock's life, providing the confirmed bachelor with inspiration and companionship, until he comes across a strong-willed young woman, Alma (Vicky Krieps), who soon becomes a fixture in his life as his muse and lover. Once controlled and planned, he finds his carefully tailored life disrupted by love.—Focus Features",
+    "In the dazzling world of glamour in 1950s London, Europe's most refined, most exquisite, most brilliant couturier, Reynolds Woodcock of The House of Woodcock, rests in his laurels, knowing that his artistic creations in lustrous silk and delicate chiffon are nothing less than objects of pure desire. However, everything is about to change in the favourite dressmaker's well-organised life, when a chance encounter with Alma, the charming and almost perfectly-proportioned young waitress, will strike a chord with Woodcock, embracing the bright-eyed woman as his new muse. But is Alma just another mannequin waiting next in line?—Nick Riganas",
+    "In 1950s London, confirmed bachelor Reynolds Woodcock is a famed couturier, clothing the rich and famous. His business is a one-man-show on the design side. His genius can only be achieved within an environment which he controls to his complete sensibility. On the business side is his spinster sister, Cyril Woodcock, who maintains order within the household to allow Reynolds to work within his controlled environment. She will, however, not allow anything or anyone to upset the applecart, including Reynolds losing sight that it is a business, and not just a means to design and create fashions solely for his own satisfaction without regard for the clients. That balance in their work/live relationship has the potential to take a turn when Reynolds meets waitress Alma Elson. She not only becomes his muse but also his assistant and lover. Her entrance into his life and business changes the balance between Reynolds and Cyril, especially as Alma has her own sensibility of herself in Reynolds' life and in his business, which is often at odds with that control that Reynolds and Cyril have worked so hard to create and maintain.—Huggo",
+    "In 1954 London, renowned fashion designer Reynolds Woodcock creates dresses for members of high society. His charisma and genius are matched by his obsessive, controlling personality. His sister Cyril manages the day-to-day operations of his fashion house and has significant influence over his life. Reynolds is haunted by their mother's death and stitches hidden messages into the linings of the dresses he makes. After designing a new gown for a revered client, the Countess, Reynolds visits a restaurant in the countryside and becomes interested in a waitress, Alma. He asks her to have dinner with him, and she accepts. Their relationship develops, and she moves in with him, becoming his model, muse, and lover. Cyril initially distrusts Alma but comes to respect her willfulness and determination."
+  ],
+  "synopsis": "In 1950s London, renowned fashion designer Reynolds Woodcock creates dresses for members of high society. His charisma and genius are matched by his obsessive and controlling personality. Cyril, his sister, manages the day-to-day operations of his fashion house and has significant influence over his life. The superstitious Reynolds is haunted by the death of their mother, and often stitches hidden messages into the linings of the dresses he makes.After designing a new gown for a revered client, Countess Henrietta Harding, Reynolds visits a restaurant in the countryside and becomes interested in a foreign waitress, Alma. He asks her to have dinner with him, and she accepts. Their relationship develops, and she moves in with him, becoming his model, muse and lover. Cyril initially distrusts Alma but comes to respect her willfulness and determination.At first, Alma enjoys being a part of Reynolds' work, but he proves aloof, hard to please and overly finicky. They begin to bicker. When Alma tries to show her love for Reynolds by preparing a romantic dinner for two, he lashes out, saying he will not tolerate deviations from the routines he has worked hard to perfect.Alma \"retaliates\" by poisoning Reynolds' tea with wild mushrooms gathered outside his country house. As he readies a wedding gown for a Belgian princess, Reynolds collapses, damaging the dress and forcing his staff to work all night to repair it. He becomes gravely ill and has hallucinations of his mother. Alma nurses him back to health. He asks her to marry him; she accepts.After a brief honeymoon, Reynolds and Alma soon start bickering again. Cyril reveals to Reynolds that the Countess is now a client at a rival fashion house, and hints that his classical designs have begun appearing out-of-date. As Reynolds feels his work is suffering, he concludes it may be time to send her away; Alma overhears this.Back at the country house, Alma responds by making Reynolds a poisoned omelette. As he chews his first bite, she informs him that she wants him weak and vulnerable with only her to take care of him. Reynolds swallows the omelette and tells her to kiss him before he is sick. As Reynolds lies ill, Alma imagines their future with children, a rich social life, and her running the dressmaking business as a partner. She acknowledges that while there may be challenges ahead, their love and their new arrangement can overcome them."
+}

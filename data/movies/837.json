@@ -1,0 +1,774 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/kIQszOniJOd1ULFUfdk4yDR0W5c.jpg",
+  "id": 837,
+  "title": "Videodrome",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
+  "release_date": "1983-02-04",
+  "vote_average": 7.293,
+  "vote_count": 2022,
+  "popularity": 18.766,
+  "overview": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
+  "imdb_id": "tt0086541",
+  "budget": 5952000,
+  "homepage": "",
+  "revenue": 2120439,
+  "runtime": 88,
+  "tagline": "First it controls your mind. Then it destroys your body.",
+  "genres": [
+    "Horror",
+    "Science Fiction",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Guardian Trust Company",
+    "Filmplan International",
+    "Famous Players",
+    "Canadian Film Development Corporation"
+  ],
+  "production_countries": [
+    "CA"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "James Woods",
+        "character": "Max Renn"
+      },
+      {
+        "name": "Sonja Smits",
+        "character": "Bianca O'Blivion"
+      },
+      {
+        "name": "Debbie Harry",
+        "character": "Nicki Brand"
+      },
+      {
+        "name": "Peter Dvorsky",
+        "character": "Harlan"
+      },
+      {
+        "name": "Leslie Carlson",
+        "character": "Barry Convex"
+      },
+      {
+        "name": "Jack Creley",
+        "character": "Brian O'Blivion"
+      },
+      {
+        "name": "Lynne Gorman",
+        "character": "Masha"
+      },
+      {
+        "name": "Julie Khaner",
+        "character": "Bridey"
+      },
+      {
+        "name": "Reiner Schwarz",
+        "character": "Moses"
+      },
+      {
+        "name": "David Bolt",
+        "character": "Raphael"
+      },
+      {
+        "name": "Lally Cadeau",
+        "character": "Rena King"
+      },
+      {
+        "name": "Henry Gomez",
+        "character": "Brolley"
+      },
+      {
+        "name": "Harvey Chao",
+        "character": "Japanese Salesman"
+      },
+      {
+        "name": "David Tsubouchi",
+        "character": "Japanese Salesman"
+      },
+      {
+        "name": "Kay Hawtrey",
+        "character": "Matron"
+      },
+      {
+        "name": "Sam Malkin",
+        "character": "Sidewalk Derelict"
+      },
+      {
+        "name": "Bob Church",
+        "character": "Newscaster"
+      },
+      {
+        "name": "Jayne Eastwood",
+        "character": "Woman Caller"
+      },
+      {
+        "name": "Franciszka Hedland",
+        "character": "Bellydancer"
+      },
+      {
+        "name": "David Cronenberg",
+        "character": "Max Renn (Helmet Scenes) (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "David Cronenberg",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "David Cronenberg",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Ronald Sanders",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Howard Shore",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Denise Di Novi",
+        "department": "Crew",
+        "job": "Creative Consultant"
+      },
+      {
+        "name": "Mark Irwin",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Carol Spier",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "David Coatsworth",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Claude Héroux",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Pierre David",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Pierre David",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "name": "Victor Solnicki",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Victor Solnicki",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "name": "Angelo Stea",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Delphine White",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Rick Baker",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "name": "Barbara Dunphy",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Peter Burgess",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Lacia Kornylo",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Bob Sher",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Mark Shostrom",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Terry Burke",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Steve Johnson",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Jock Brandis",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Alan Zweig",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Shonagh Jabour",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Peter Lavender",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Ed Hanna",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Eileen Kennedy",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "John Board",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Bonnie Gold",
+        "department": "Crew",
+        "job": "Receptionist"
+      },
+      {
+        "name": "Paul Freedman",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Constant Natale",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Gwen Iveson",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Thomas Booth",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Frank C. Carere",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Alex Russell",
+        "department": "Art",
+        "job": "Head Carpenter"
+      },
+      {
+        "name": "Maris H. Jansons",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Gary Daprato",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Larry Nesis",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Janet Cormack",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Shawn McEnroe",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Tom Coulter",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Nick Kosonic",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Scotty Allan",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Robin Miller",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Michael Rea",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Gillian Richardson",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Howard Rothschild",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Kirk Cheney",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Michael Lennick",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Enrico Campana",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Mary Partridge-Raynor",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Arthur Rowsell",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "name": "Bill Harman",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Gareth Wilson",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Tom Hester",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Bryan Day",
+        "department": "Sound",
+        "job": "Location Sound Recordist"
+      },
+      {
+        "name": "Richard Spiegelman",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Michael Jay",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jerome McCann",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Rocco Gismondi",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Inge Klaudi",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Kathy Vieira",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Gary Phipps",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Elius Caruso",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Paul Coombe",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mike Hoogenboom",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Michael LaCroix",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Christopher Dean",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Greg Pelchat",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Maureen Gurney",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Reet Puhm",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Lydia Wazana",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Allen Kosonic",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Bill Sturgeon",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Roger Héroux",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "David Chudnovsky",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Cheryl Hardwick",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Harry Pavelson",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Libby Bowden",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Peter Lauterman",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Rick Porter",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Michael Werner",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Janet E. Cuddy",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "name": "Donna Mobbs",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "name": "Maureen Mestan",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Hairstylist"
+      },
+      {
+        "name": "Charles Bowers",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Kevin Brennan",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Alan Sharpe",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Donato Baldassarra",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Michele Cook",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Jon Bankson",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "A. Randy Jones",
+        "department": "Crew",
+        "job": "Captain Driver"
+      },
+      {
+        "name": "Gary Jack",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Bill Wiggins",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Kevin Sturgeon",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "John Bentley",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Elaine Cohen",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Bill Gibson",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Simon Harwood",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Thomas Pearce",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Robert Pearson",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Beverley Neale",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "James Stuart Allan",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Robert Rouveroy",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "James Crowe",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Brian Danniels",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Kat Moyer",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Elaine Foreman",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Carol McBride",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Christopher Severn",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "John Vander Pas",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Jeff Steinberg",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Rachelle Charron",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Kirsteen Etherington",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Angela Gruenthal",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Monique Légaré",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "name": "Monik Nantel",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "name": "Ellen Rozen",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "name": "Jill Spitz",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Tom Coppola",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Peter Hedeman",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Rosemary D. Merriam",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Maury Rosenfeld",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Marty Zofcin",
+        "department": "Crew",
+        "job": "Thanks"
+      }
+    ]
+  },
+  "keywords": [
+    "suicide",
+    "virtual reality",
+    "radio presenter",
+    "black market",
+    "insanity",
+    "paranoia",
+    "dystopia",
+    "toronto, canada",
+    "hallucination",
+    "surrealism",
+    "sadomasochism",
+    "cyberpunk",
+    "brainwashing",
+    "pittsburgh, pennsylvania",
+    "snuff film",
+    "pirate broadcast"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A programmer at a Toronto TV station that specializes in adult entertainment searches for the producers of a dangerous and bizarre broadcast.",
+    "Max Renn is the President of Channel 83 Civic-TV, a small television station on the UHF dial. He defends his programming of largely X-rated shows - which depict graphic sex and extreme violence - as a pure matter of economic survival as a small station. Behind closed doors in specific company, he would admit that he enjoys such programming, but as President will stay away from associated activities that may be dangerous for him in its purchase. His current girlfriend, radio personality Nicki Brand, who he met on a television talk show, is sexually aroused by light mutilation on her person, that despite or because her radio show is like an open air crisis hotline. On that same talk show, the other guest via video feed was Professor Brian O'Blivion - solely his stage name - who believes that television and video broadcasts will one day overtake the world as reality, which may make Max's programming in combination more dangerous. In Max's search for the next big thing in like programming already on Channel 83, Harlan, his pirater who scans satellite signals, illegally obtains a satellite feed of something called Videodrome, which depicts continual sexualized torture and murder with no storyline of which to speak. The background behind Videodrome is unknown, but believing it is that big thing for which he is looking, Max is determined to find the producers so that he can purchase it for his station. He is concerned for Nicki if she goes ahead against his warnings in wanting to appear on Videodrome, however it does not lessen his desire to purchase it. If Max in turn does not heed the warning of Masha, one of his long time show suppliers, based on what little she discovers about it, Max may discover that Videodrome is just the next but destructive step in O'Blivion's prognostication.—Huggo",
+    "When Max Renn goes looking for edgy new shows for his sleazy cable TV station, he stumbles across the pirate broadcast of a hyper-violent torture show called Videodrome. As he struggles to unearth the origins of the program, he embarks on a hallucinatory journey into a shadow world of right-wing conspiracies, sadomasochistic sex games, and bodily transformation. Starring James Woods and Deborah Harry in one of her first film roles, Videodrome is one of writer/director David Cronenberg's most original and provocative works, fusing social commentary with shocking elements of sex and violence. With groundbreaking special effects makeup by Academy Award®-winner Rick Baker, Videodrome has come to be regarded as one of the most influential and mind-bending science fiction films of the 1980s.",
+    "Max Renn runs a TV channel, and when looking for new material to show--he discovers \"Videodrome.\" His girlfriend, Nicki Brand, goes to audition for the show, and Max gets drawn into the underlying plot that uses the show as its front for a global conspiracy.—Paul Reynolds <pauljr@innotts.co.uk>",
+    "The president of Civic TV Channel 83, Max Renn, is always looking for new cheap and erotic movies for his station. When his employee, Harlan, decodes a pirate video broadcast showing torture, murder, and mutilation called \"Videodrome,\" Max becomes obsessed to get this series for his channel. He contacts his supplier, Masha, and asks her to find the party responsible for the transmission. A couple of days later, Masha tells that \"Videodrome\" is real snuff movies. Max's sado-masochistic girlfriend Nicki Brand decides to travel to Pittsburgh, where the show is based, to audition. Max investigates further, and through a video by the media prophet Brian O'Blivion, he learns that that TV screens are the retina of the mind's eye, being part of the brain, and \"Videodrome\" transmissions create a brain tumor in the viewer, changing the reality through video hallucination.—Claudio Carvalho, Rio de Janeiro, Brazil"
+  ],
+  "synopsis": "Max Renn (James Woods) is the president of CIVIC-TV (Channel 83, Cable 12), a sleazy Toronto UHF television station specializing in sensationalistic programming. Displeased with his station's current lineup (which mostly consists of softcore pornography), Renn is on a seemingly endless quest for something that isn't so \"soft\" and will \"break through\" to a new audience.One morning Renn is summoned to the clandestine office of Harlan (Peter Dvorsky), who operates CIVIC-TV's pirate satellite dish, a technologically advanced satellite run on an amalgamation of high-tech components that allows it to pirate broadcasts from as far away as Asia. Harlan shows Renn \"Videodrome,\" a plotless television show apparently being broadcast out of Malaysia, which depicts the brutal torture and eventual murder of anonymous victims in a bizarre, reddish-orange chamber. Believing this to be the future of television-- snuff TV-- Renn orders Harlan to begin pirating the show.Appearing on a Rena King's TV talk show, Renn defends his station's programming choices to Nikki Brand (Deborah Harry), a sadomasochistic psychiatrist, and Professor Brian O'Blivion (Jack Creley), a pop-culture analyst and philosopher who will only appear on television if his image is broadcast into the studio, onto a television, from a remote location. O'Blivion hijacks the interview and delivers a speech prophesying a future in which television supplants real life.Renn dates Nikki, who is sexually aroused when Renn shows her an episode of Videodrome and coaxes him into having sex with her while they watch it. Renn goes once again to Harlan's office, where Harlan informs him that the signal delay which caused it to appear to be coming from Malaysia was a ploy by the broadcaster. In fact, Videodrome is being broadcast out of Pittsburgh, Pennsylvania. Renn tells Nikki of his discovery and she excitedly goes to Pittsburgh to try and audition for the show.When Nikki fails to return to Toronto, Renn contacts Masha Borowski (Lynne Gorman), a softcore feminist pornographer with long-standing ties to the porn community, and asks her to help him find out the truth about Videodrome. Through Masha, Renn learns that Videodrome is the public \"face\" of a political ideology movement with unspecified but apparently violent goals. Masha further informs Renn that Brian O'Blivion knows about Videodrome.Max Renn tracks down O'Blivion's office to The Cathode Ray Mission, a mission where homeless individuals are provided food, shelter, and clothing, and encouraged to engage in marathon sessions of television viewing. Renn discovers that the mission is run by O'Blivion's daughter, Bianca (Sonja Smits), with the goal of helping to bring about her father's vision of a world in which television replaces every aspect of everyday life.Later, Renn views a videotape in which O'Blivion informs him that \"the Videodrome\" is a socio-political battleground in which a war is being fought for control of the minds of the people of North America. Shortly thereafter, Renn begins experiencing disturbing hallucinations in which his torso transforms into a bloody, vaginal VCR. In one hallucination, Renn finds himself strapped to a chair while a hooded figure is strangling him. The hood comes off to reveal Nikki. Her lips fill the screen of a TV set where she says: \"Come to me.\" Renn leans in close. Pulling and undulating, the screen envelopes his face.At the mission, Bianca tells Renn that these are side-effects from having viewed Videodrome, which is in fact the carrier of a malicious broadcast signal that causes the viewer to develop a malignant brain tumor. Brian O'Blivion helped to create it as part of his vision for the future, but when he found out that it was to be used for malicious purposes, he attempted to stop his partners; they used his own invention to kill him. In the year before his death, O'Blivion recorded tens of thousands of videos, which now form the basis of his television appearances. Bianca sends Renn away with an armful of videotapes to watch. As he watches one tape, holding a pistol, he scratches his stomach in which the vagina-like slit opens, into which his gun disappears. On the tape, O'Blivion says: \"There is nothing real outside our perception of reality, is there?\"Renn is contacted by Videodrome's producer, the Spectacular Optical Corporation, an eyeglasses company that acts as a front for a NATO weapons manufacturer. The head of Spectacular Optical, Barry Convex, (Leslie Carlson) has been working with Harlan to get Renn to broadcast Videodrome as part of a crypto-government conspiracy to morally and ideologically \"purge\" North America, giving fatal brain tumors to \"lowlifes\" fixated on extreme sex and violence. Convex produces a high-tech helmet to record Renn's hallucinations, to find out why he seems to be functioning when none of the other \"test subjects\" has returned to \"normality.\" Convex places the helmet on Renn's head and leaves the room.Renn hallucinates himself in Videodrome with Nicki. As he whips an organic TV set, Nicki's image transforms into Masha. Renn wakes up in his own bed with Masha dead at his side. Renn calls Harlan to come over with his camera, but when he arrives, he sees nothing in the bed to photograph. Totally wired, Renn says they must watch last nights Videodrome broadcast as he is in it. At the lab, Harlan reveals that there never was a broadcast, only pre-recorded tapes which he never watched. Just then Convex enters. He says that they chose Channel 83 for the first transmission of the Videodrome signal because of it's sleazy content and audience. \"Why would anybody watch a show like Videodrome?\" says Convex.Under Convex's influence he produces a pulsating VHS tape and Renn's stomach-slit opens to receive his program. Convex orders Renn to: \"kill your partners and give me Channel 83.\" Renn pulls his gun back from the slit and black metal tendrils extend into his hand.Renn goes back to the CIVIC-TV station and shoots both Moses and Raphael in the Channel 83 boardroom, his gun/hand now a single organic fusion. His next program is to kill Bianca O'Blivion. He breaks into the Mission, but hesitates when Bianca plays him Nikki's death scene on Videodrome. She was killed on the show along with all those other people by Spectacular Optical Corporation. A flesh-gun emerges from the TV set and shoots him - a violent deprogramming. Bianca inserts her own tape into Renn's slit. With that she re-programs him to go after the ones responsible for creating Videodrome. She tells him he is: \"the video word made flesh. Death to Videodrome. Long live the new flesh.\"Back at the Channel 83 studios, Harlan congratulates Renn on his good work, and changes his program. When Harlan withdraws his hand from Renn's slit to retrieve the videotape program, he is horrified to see his hand become a ticking bloody organic grenade. The explosion kills Harlan and blows a hole in the wall of the studio which Renn calmly steps out.At the Spectacular Optical trade show at the Toronto Convention Centre, Convex introduces the new spring collection, the Medici range. Renn approaches the stage and shoots Convex with his gun/hand, who falls dead and his entire body erupts in a gory and sickening mass of tumors as people scream and panic. Renn waves his hand/gun to the assembly declaring: \"Death to Videodrome! Long live the new flesh!\"Afterwards, Renn takes refuge on a derelict boat in an abandoned harbor, where Nicki appears to him on another television that appears. As Renn sits on a filthy mattress, Nicki tells him he has weakened Videodrome, but that in order to completely defeat it, he has to \"leave the old flesh.\" The television then shows an image of Renn shooting himself in the head with his gun/hand, which causes the TV set to explode, splattering the deck of the ship with bloody, human intestines and multicolored goo. Imitating what he has just seen on TV, Renn says his final words, \"Long live the New Flesh\", and then he pulls the trigger."
+}

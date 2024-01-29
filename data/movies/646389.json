@@ -1,0 +1,918 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9Rq14Eyrf7Tu1xk0Pl7VcNbNh1n.jpg",
+  "id": 646389,
+  "title": "Plane",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
+  "release_date": "2023-01-12",
+  "vote_average": 7,
+  "vote_count": 1969,
+  "popularity": 82.848,
+  "overview": "After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.",
+  "imdb_id": "tt5884796",
+  "budget": 25000000,
+  "homepage": "https://www.plane.movie",
+  "revenue": 51000000,
+  "runtime": 107,
+  "tagline": "Survive together or die alone.",
+  "genres": [
+    "Action"
+  ],
+  "production_companies": [
+    "MadRiver Pictures",
+    "di Bonaventura Pictures",
+    "G-BASE",
+    "Olive Hill Media",
+    "Riverstone Pictures"
+  ],
+  "production_countries": [
+    "US",
+    "PR",
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Gerard Butler",
+        "character": "Brodie Torrance"
+      },
+      {
+        "name": "Mike Colter",
+        "character": "Louis Gaspare"
+      },
+      {
+        "name": "Tony Goldwyn",
+        "character": "Scarsdale"
+      },
+      {
+        "name": "Yoson An",
+        "character": "Samuel Dele"
+      },
+      {
+        "name": "Evan Dane Taylor",
+        "character": "Datu Junmar"
+      },
+      {
+        "name": "Paul Ben-Victor",
+        "character": "Terry Hampton"
+      },
+      {
+        "name": "Daniella Pineda",
+        "character": "Bonnie Lane"
+      },
+      {
+        "name": "Lilly Krug",
+        "character": "Brie Taylor"
+      },
+      {
+        "name": "Kelly Gale",
+        "character": "Katie Dhar"
+      },
+      {
+        "name": "Otis Winston",
+        "character": "RCMP Officer Knight"
+      },
+      {
+        "name": "Ángel Fabián Rivera",
+        "character": "Karim Rahim"
+      },
+      {
+        "name": "Fernando Chang",
+        "character": "Chan Yuen"
+      },
+      {
+        "name": "Modesto Lacen",
+        "character": "Antonio Ortega"
+      },
+      {
+        "name": "Joey Slotnick",
+        "character": "Matt Sinclair"
+      },
+      {
+        "name": "Rose Eshay",
+        "character": "Ana Fernández"
+      },
+      {
+        "name": "Ricky Robles Cruz",
+        "character": "Javier Molina"
+      },
+      {
+        "name": "Jessica Nam",
+        "character": "Rosalie Jeong"
+      },
+      {
+        "name": "Quinn McPherson",
+        "character": "Riley Donahue"
+      },
+      {
+        "name": "Oliver Trevena",
+        "character": "Maxwell Carver"
+      },
+      {
+        "name": "Tara Westwood",
+        "character": "Sydney"
+      },
+      {
+        "name": "Michelle Lee",
+        "character": "Isabella Yu"
+      },
+      {
+        "name": "Amber Rivera",
+        "character": "Maria Falco"
+      },
+      {
+        "name": "John J. Shim",
+        "character": "Joshua Jeong"
+      },
+      {
+        "name": "Claro de los Reyes",
+        "character": "Hajan"
+      },
+      {
+        "name": "Remi Adeleke",
+        "character": "Shellback"
+      },
+      {
+        "name": "Matt Cook",
+        "character": "Moses"
+      },
+      {
+        "name": "Pete Scobell",
+        "character": "Jim Lake"
+      },
+      {
+        "name": "James Sang Lee",
+        "character": "Willis"
+      },
+      {
+        "name": "Heather Seiffert",
+        "character": "Carrie Torrance"
+      },
+      {
+        "name": "Haleigh Hekking",
+        "character": "Daniela Torrance"
+      },
+      {
+        "name": "Jeremy Denzlinger",
+        "character": "Marc Richards"
+      },
+      {
+        "name": "Edwin Lee",
+        "character": "Changi Security Agent"
+      },
+      {
+        "name": "Yao Tsai",
+        "character": "Changi Security Guard"
+      },
+      {
+        "name": "Jeff Francisco",
+        "character": "Lolo - Old Fisherman"
+      },
+      {
+        "name": "Ariel Felix",
+        "character": "Alan"
+      },
+      {
+        "name": "Nick Brandon",
+        "character": "Drunk Passenger"
+      },
+      {
+        "name": "Michelle Cortés",
+        "character": "Flight Attendant"
+      },
+      {
+        "name": "Jeffrey Holsman",
+        "character": "Trailblazer Captain"
+      },
+      {
+        "name": "Enele Ma'afu Tauteoli",
+        "character": "Hulking Man"
+      },
+      {
+        "name": "Jimmy Fung",
+        "character": "Vhong"
+      },
+      {
+        "name": "Manuel Álvarez Kim",
+        "character": "Filipino Man"
+      },
+      {
+        "name": "Kate Bisset",
+        "character": "British Woman - Maria Burnham"
+      },
+      {
+        "name": "Kate Rachesky",
+        "character": "Second Flight Attendant"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Marco Beltrami",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Deepak Nayar",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lorenzo di Bonaventura",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Anne McCarthy",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Gerard Butler",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Roland N. Thai",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "David Rosenbloom",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Mark Vahradian",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Marc Butan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dylan Gray",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Odin Benitez",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Joe Bucaro III",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Brendan Galvin",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Christian Gudegast",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jean-François Richet",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Marcus Trumpp",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Charlie Bonilla",
+        "department": "Visual Effects",
+        "job": "Pyrotechnic Supervisor"
+      },
+      {
+        "name": "Tom Brewster",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "J.P. Davis",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "J.P. Davis",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mark DeSimone",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Daniel Curet",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Phi-Long Nguyen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alan Siegel",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Luillo Ruiz",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Bradley Parker",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Allen Liu",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Alan Freedman",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Kellie Roy",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "John Blake",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Josiuan Rojas",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Bryan Cartago",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jim Schultz",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "James M. Churchman",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Sam Situmorang",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Andrew Wert",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Christopher S. Aud",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Ray McIntyre Jr.",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Francisco Cueto",
+        "department": "Editing",
+        "job": "Dailies Operator"
+      },
+      {
+        "name": "Carlos Zayas",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Kenneth Rexach",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Ali Lammari",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Gabriel Padilla",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Jose R. Hilera",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Nik Bower",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Eric Catelan",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Eric Catelan",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Stewart Bradley",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Andrea Marotti",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Mailara Santana",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Mark Avery",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Eric Dvorsky",
+        "department": "Camera",
+        "job": "Aerial Camera Technician"
+      },
+      {
+        "name": "Vicki Dee Rock",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Scott Elias",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Byron Wilson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Beau Parsons",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Johnna Thomas",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "José Gilberto Molinari Rosaly",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Carlos García",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Adrienne Franciscus",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Luis Antonio Landrau",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Mark Graham",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Jimmy Santos",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Jimmy Santos",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Marsi Caraballo",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Eric VanArsdale",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Alastair Burlingham",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Kevin de la Cruz",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Edward Fee",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Glenda Rosa",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Kimberley Sutton",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Trevor Hill",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Tyson Lozensky",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Divyansh Mittal",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Michelle Cortés",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ayumi Funatsu",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Jason Kozsurek",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Erinn Knight",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Gladys Bustos",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Orlando Suárez",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Ricardo Naveira",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Malay Kim",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Miguel Baerga",
+        "department": "Crew",
+        "job": "Techno Crane Operator"
+      },
+      {
+        "name": "Mike Sowa",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Joe Rosenbloom",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Lloyd Barachina",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Duncan McRae",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mathew Dunne",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Denya McLean-Adhya",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Mariarosa Calderon",
+        "department": "Production",
+        "job": "Controller"
+      },
+      {
+        "name": "Julian Wall",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "name": "Marta Ezal Colón",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Mariella Navarro",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Carlos Cali Rivera",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Eric Damazio",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Charles Cumming",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Charles Cumming",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Gary Raskin",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Antonio Betancourt",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Martin O'Brien",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Carlos J. Vázquez",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Jessica Nam",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alvin Chon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Arjun Demeyere",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "name": "Tim Prawitz",
+        "department": "Crew",
+        "job": "Pyrotechnician"
+      },
+      {
+        "name": "Michelle Pak",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Anna Rottke",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Nicole Leaño Colón",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Diego Chamorro",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Torri Knight",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Tim Lee",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Michael Cho",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Phillip Dang",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Vern Nobles Jr.",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Marek Stout",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Giulio Campiglia",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Eric Ng",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Jennie Shea",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Thomas Early",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Geisha M. Barreto",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Merly Jan Jiménez",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Carolina Wolf",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "name": "Jose Juan Garcia Camacho",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Sergio Morales Colon",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Juan j. Garcia Perez",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Michael Scott Rivera",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Barbara Yuya Rivera",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Erik Bloomer",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Ryan Harms",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Amanda Hollingworth",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Cailin Munroe",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Wen Qian",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Nerina Sanchez",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Mike Suta",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Hyunsu Yang",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Enele Ma'afu Tauteoli",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Carlos Giovanni De Leon",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Natasha I. Nieves",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Steve Collins",
+        "department": "Crew",
+        "job": "Special Effects"
+      }
+    ]
+  },
+  "keywords": [
+    "airplane",
+    "pilot",
+    "philippines",
+    "held hostage",
+    "plane crash"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+    "Brodie Torrance saves his passengers from a lightning strike by making a risky landing on a war-torn island - only to find that surviving the landing was just the beginning. When most of the passengers are taken hostage by dangerous rebels, the only person Torrance can count on for help is Louis Gaspare, an accused murderer who was being transported by the FBI. In order to rescue the passengers, Torrance will need Gaspare's help, and will learn there's more to Gaspare than meets the eye.—Lionsgate"
+  ],
+  "synopsis": "The film opens with Captain Brodie Torrance (Gerard Butler) in Singapore, calling his daughter Daniela (Haleigh Hekking) as he intends to arrive home in Honolulu to spend time with her for the holiday. Brodie, a former RAF pilot, is flying Trailblazer Airlines Flight 119, and he arrives to meet his co-pilot, Samuel Dele (Yoson An), who informs Brodie that they are going to fly through a storm. Bonnie (Daniella Pineda), the chief flight attendant, informs Brodie that he is needed to meet an RCMP officer (Otis Winston). The officer informs Brodie that they are transporting an accused killer/former French Foreign Legion soldier named Louis Gasparre (Mike Colter).As the flight gets ready for takeoff, we see other guests, such as young social media influencers and a snooty businessman. While in the air, Brodie and Dele talk, with Brodie mentioning how his wife had passed years earlier. As they pass over the South China Sea, the plane encounters heavy turbulence when it passes through the storm. The storm gets worse, leading to the plane suffering damage, and Brodie injures his head in the commotion. The RCMP officer leaves his seat, is thrown about, and dies. A stewardess leaves her seat to assist him and is also killed in the turbulence. Brodie and Dele have to manage control without comms and radar, bringing it to a safer balance. Realizing the damages are too heavy, they have to make an emergency landing. The pilots find an island and make a rough landing.Once everything settles, Brodie has the passengers get out of the plane. He and Dele learn they are on Jolo island, in the Philippines.In New York City, at Trailblazers HQ, the board of directors is met by their crisis manager, Scarsdale (Tony Goldwyn), to try and locate the plane and passengers.Brodie tries to keep Louis away and secured from the other passengers due to his violent history. Brodie works with Dele and Bonnie to keep the passengers calm and to find a way to call for help. Dele tells Brodie that Jolo is operated by violent separatists, meaning they risk putting everyone in danger the longer they are there.The rebels, led by Datu Junmar (Evan Dane Taylor), catch wind of the plane's crash landing and hope to gain from the passengers. Meanwhile, Brodie goes with Louis into the forest to find a way to contact for help.Back in NYC, Scarsdale and the board review Brodie's history file, featuring a video of an incident where Brodie held an aggressive passenger in a chuckhole until he passed out after the man punched Brodie when he tried to calm down an altercation. They learn of Brodie's calls to Trailblazer and his daughter, and are able to identify the plane's location. Scarsdale sends a private mercenary team to rescue the crew and passengers, since he knows of the threat on the island, and the Philippine government is unwilling to help.In Honolulu, Daniela's aunt informs her of the news that her father's plane went down.Brodie and Louis reach a tower where Brodie manages to contact an agent from Trailblazers who doesn't believe him because she claims they have been getting lots of crank calls over the missing flight. Brodie then calls Daniela and attempts to tell her their location before he is attacked by a rebel. Brodie fights the man until he is able to kill him. Upon further inspection of the building, Brodie and Louis see that the rebels used the area to torture and videotape their victims for ransom money.The two rush back to the plane but find that Junmar and his goons have already made it there. A Korean woman attempts to flee, only for one of the rebels to shoot her. Her husband is then brutally decapitated. The rebels proceed to take everyone else hostage while Brodie and Louis hide. Once the rebels leave, the two subdue a remaining rebel and learn that Junmar is taking everyone to a nearby village. Brodie and Louis resolve to follow and rescue everyone.As the two head out to the village, Junmar starts forcing the hostages to state their names and home countries for their ransom video.The mercenary team, led by a man named Shellback (Remi Adeleke ) arrives on the island, but they find nobody near the plane, only the bodies of the RCMP officer and the stewardess, along with a message from Brodie.Brodie and Louis make it to the village and kill some more rebels before locating and freeing the hostages. Everyone gets boarded onto a bus while Brodie offers himself to the rebels, hoping to give the passengers a chance to escape. Junmar and his men beat him and prepare to execute him, but the mercenary team arrives and opens fire on the rebels. With Louis' and the mercenaries' help, Brodie and the passengers escape. After the fight, Junmar finds his brother among the dead, driving his cause against the others to become more personal.The passengers and crew make it back to the plane, while Louis and the mercenaries fight off the rebels, who have followed them. Back at Trailblazers HQ, Trailblazers executive Terry Hampton (Paul Ben-Victor) demands that the plane stay where it is, fearing the consequences for Trailblazer if the damaged plane explodes in midair, but Scarsdale ignores him and tells Brodie to get the plane airborne before they're all killed by the rebels. Louis, who has found the ransom money brought by the mercenary team, chooses to remain on the island since he has no future going back.With most of the first wave of rebels dead, Brodie and Dele make an effort to get the plane moving. Junmar attempts to fire an RPG at the plane, but Brodie lifts it high enough in the air that he kills Junmar by smashing into him with the plane's wheels. The plane is badly damaged, but they head towards a nearby island, Siasi, with an airstrip. With only one engine left, and limited control, Brodie, with Dele's assistance, is able to land safely. Everyone at HQ cheers.After everyone is safely deboarded, Brodie sits down on the steps of the plane and calls Daniela to let her know he is safe and coming home."
+}

@@ -1,0 +1,1607 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/fPg31FANBYhrV2z0vZB4nIonKbI.jpg",
+  "id": 1271,
+  "title": "300",
+  "poster_path": "https://image.tmdb.org/t/p/w500/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+  "release_date": "2007-03-07",
+  "vote_average": 7.179,
+  "vote_count": 13091,
+  "popularity": 47.831,
+  "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
+  "imdb_id": "tt0416449",
+  "budget": 65000000,
+  "homepage": "http://300themovie.warnerbros.com",
+  "revenue": 456082343,
+  "runtime": 117,
+  "tagline": "Prepare for glory!",
+  "genres": [
+    "Action",
+    "Adventure",
+    "War"
+  ],
+  "production_companies": [
+    "Virtual Studios",
+    "Legendary Pictures",
+    "Hollywood Gang Productions",
+    "Atmosphere Entertainment MM",
+    "Nimar Studios",
+    "Warner Bros. Pictures",
+    "Cruel & Unusual Films"
+  ],
+  "production_countries": [
+    "BG",
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Gerard Butler",
+        "character": "King Leonidas"
+      },
+      {
+        "name": "Lena Headey",
+        "character": "Gorgo"
+      },
+      {
+        "name": "Dominic West",
+        "character": "Theron"
+      },
+      {
+        "name": "David Wenham",
+        "character": "Dilios"
+      },
+      {
+        "name": "Vincent Regan",
+        "character": "Captain"
+      },
+      {
+        "name": "Michael Fassbender",
+        "character": "Stelios"
+      },
+      {
+        "name": "Tom Wisdom",
+        "character": "Astinos"
+      },
+      {
+        "name": "Andrew Pleavin",
+        "character": "Daxos"
+      },
+      {
+        "name": "Andrew Tiernan",
+        "character": "Ephialtes"
+      },
+      {
+        "name": "Rodrigo Santoro",
+        "character": "Xerxes"
+      },
+      {
+        "name": "Giovani Cimmino",
+        "character": "Pleistarchos"
+      },
+      {
+        "name": "Stephen McHattie",
+        "character": "Loyalist"
+      },
+      {
+        "name": "Greg Kramer",
+        "character": "Ephor #1"
+      },
+      {
+        "name": "Alex Ivanovici",
+        "character": "Ephor #2"
+      },
+      {
+        "name": "Kelly Craig",
+        "character": "Oracle Girl"
+      },
+      {
+        "name": "Eli Snyder",
+        "character": "Leonidas @ 7/8 yrs"
+      },
+      {
+        "name": "Tyler Neitzel",
+        "character": "Leonidas @ 15 yrs"
+      },
+      {
+        "name": "Tim Connolly",
+        "character": "Leonidas' Father"
+      },
+      {
+        "name": "Marie-Julie Rivest",
+        "character": "Leonidas' Mother"
+      },
+      {
+        "name": "Sebastian St. Germain",
+        "character": "Fighting Boy (12 years old)"
+      },
+      {
+        "name": "Peter Mensah",
+        "character": "Messenger"
+      },
+      {
+        "name": "Arthur Holden",
+        "character": "Partisan"
+      },
+      {
+        "name": "Michael Sinelnikoff",
+        "character": "Elder Councilman"
+      },
+      {
+        "name": "John Dunn-Hill",
+        "character": "Councilman"
+      },
+      {
+        "name": "Dennis St John",
+        "character": "Spartan Baby Inspector"
+      },
+      {
+        "name": "Neil Napier",
+        "character": "Spartan with Stick"
+      },
+      {
+        "name": "Dylan Smith",
+        "character": "Sentry #1"
+      },
+      {
+        "name": "Maurizio Terrazzano",
+        "character": "Sentry #2"
+      },
+      {
+        "name": "Robert Paradis",
+        "character": "Spartan General"
+      },
+      {
+        "name": "Kwasi Songui",
+        "character": "Persian"
+      },
+      {
+        "name": "Alexandra Beaton",
+        "character": "Burned Village Child"
+      },
+      {
+        "name": "Frédéric Smith",
+        "character": "Statesman"
+      },
+      {
+        "name": "Loucas Minchillo",
+        "character": "Spartan Baby A"
+      },
+      {
+        "name": "Nicholas Minchillo",
+        "character": "Spartan Baby B"
+      },
+      {
+        "name": "Tom Rack",
+        "character": "Ephor #3"
+      },
+      {
+        "name": "David Francis",
+        "character": "Ephor #4"
+      },
+      {
+        "name": "James Bradford",
+        "character": "Ephor #5"
+      },
+      {
+        "name": "Andrew Shaver",
+        "character": "Free Greek-Potter"
+      },
+      {
+        "name": "Robin Wilcock",
+        "character": "Free Greek-Sculptor"
+      },
+      {
+        "name": "Kent McQuaid",
+        "character": "Free Greek-Blacksmith"
+      },
+      {
+        "name": "Marcel Jeannin",
+        "character": "Free Greek-Baker"
+      },
+      {
+        "name": "Jere Gillis",
+        "character": "Spartan General #2"
+      },
+      {
+        "name": "Jeremy Thibodeau",
+        "character": "Spartan Boy"
+      },
+      {
+        "name": "Tyrone Benskin",
+        "character": "Persian Emissary"
+      },
+      {
+        "name": "Robert Maillet",
+        "character": "Uber Immortal (Giant)"
+      },
+      {
+        "name": "Patrick Sabongui",
+        "character": "Persian General"
+      },
+      {
+        "name": "Leon Laderach",
+        "character": "Executioner"
+      },
+      {
+        "name": "Dave Lapommeray",
+        "character": "Persian General Slaughtered"
+      },
+      {
+        "name": "Vervi Mauricio",
+        "character": "Armless Concubine"
+      },
+      {
+        "name": "Charles Papasoff",
+        "character": "Blacksmith"
+      },
+      {
+        "name": "Isabelle Champeau",
+        "character": "Mother at Market"
+      },
+      {
+        "name": "Veronique-Natale Szalankiewicz",
+        "character": "Daughter at Market (3/5 years old)"
+      },
+      {
+        "name": "Maéva Nadon",
+        "character": "Girl at Market"
+      },
+      {
+        "name": "David Thibodeau",
+        "character": "Boy #1 at Market"
+      },
+      {
+        "name": "David Schaap",
+        "character": "Potter"
+      },
+      {
+        "name": "Jean Michel Paré",
+        "character": "Other Council Guard"
+      },
+      {
+        "name": "Stewart Myiow",
+        "character": "Persian General"
+      },
+      {
+        "name": "Andreanne Ross",
+        "character": "Concubine"
+      },
+      {
+        "name": "Sara Giacalone",
+        "character": "Concubine"
+      },
+      {
+        "name": "Ariadne Bourbonnière",
+        "character": "Kissing Concubine"
+      },
+      {
+        "name": "Isabelle Fournel",
+        "character": "Kissing Concubine"
+      },
+      {
+        "name": "Sandrine Merette-Attiow",
+        "character": "Contortionist"
+      },
+      {
+        "name": "Elisabeth Etienne",
+        "character": "Dancer"
+      },
+      {
+        "name": "Danielle Hubbard",
+        "character": "Dancer"
+      },
+      {
+        "name": "Ruan Vibegaard",
+        "character": "Dancer"
+      },
+      {
+        "name": "Geneviève Guilbault",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Bonnie Mak",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Amélie Sorel",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Caroline Aspirot",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Gina Gagnon",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Tania Trudel",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Stéphanie Aubry",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Mercedes Leggett",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Stephania Gambaroff",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Chanelle Lamothe",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Sabrina-Jasmine Guilbault",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Manny Cortez Tuazon",
+        "character": "Transsexual (Asian) #1"
+      },
+      {
+        "name": "Cindy",
+        "character": "Transsexual (Asian) #2"
+      },
+      {
+        "name": "Atif Y. Siddiqi",
+        "character": "Transsexual (Arabian) #3"
+      },
+      {
+        "name": "Camille Rizkallah",
+        "character": "Giant with Arrow"
+      },
+      {
+        "name": "Trudi Hanley",
+        "character": "Long Neck Woman"
+      },
+      {
+        "name": "Neon Cobran",
+        "character": "Litter Bearer/Slave"
+      },
+      {
+        "name": "Gary A. Hecker",
+        "character": "Ubermortal Vocals (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "William Hoy",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Frank Miller",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Frank Miller",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Michael Wilkinson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Paul Hotte",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Colin Strause",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Greg Strause",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Carrie Hilton",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Ben Waisbren",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Isabelle Guay",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "James D. Bissell",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Chad Stahelski",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "David Leitch",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gianni Nunnari",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David Rapaport",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "name": "Zack Snyder",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Zack Snyder",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Tyler Bates",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Darrell Hall",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Scott A. Hecker",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Nina Fallon",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Larry Fong",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Kurt Johnstad",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Kristy Carlson",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Andrea Kenyon",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Tamara Notcutt",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Nicolas Lepage",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Christophe Giraud",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jeffrey Silver",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Gilles Fortier",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Ismat Zaidi",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Thomas Tull",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "William Fay",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lindsey Hayes Kroeger",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "name": "Derek Vanderhorst",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Derek Vanderhorst",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Thierry Delattre",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Anouk Deveault-Moreau",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Jeremy Hunt",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Daniel Leduc",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Richard Martin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Caitlin McKenna",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Scott Mednick",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Stefan Sonnenfeld",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Bernie Goldmann",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Wesley Coller",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Deborah Snyder",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Clint Carleton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Stéphane Lefebvre",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "François Daignault",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Mirosław Baszak",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Eric A. Norris",
+        "department": "Sound",
+        "job": "Supervising Sound Effects Editor"
+      },
+      {
+        "name": "Martin Walters",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Chris Watts",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Alejandro Valdés-Rochin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Assistant Editor"
+      },
+      {
+        "name": "Doug Chapman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Craig J. Flores",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "David Uloth",
+        "department": "Crew",
+        "job": "Techno Crane Operator"
+      },
+      {
+        "name": "Nathalie Trépanier",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Jean-Francois Morissette",
+        "department": "Visual Effects",
+        "job": "3D Tracking Layout"
+      },
+      {
+        "name": "Randi Wells",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Simonetta Mariano",
+        "department": "Costume & Make-Up",
+        "job": "Costume Illustrator"
+      },
+      {
+        "name": "Brent Lambert",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Tim Rigby",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tim Rigby",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Michael B. Gordon",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Christine Bieselin Clark",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Azalia Snail",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Michelle Côté",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Philippe Lord",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Jean-Pierre Paquet",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Scott Wheeler",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Lyse Pomerleau",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Frederick H. Stahly",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Chris Jenkins",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Danielle Plantec",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Collin Butrum",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Michael J. Broomberg",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Vincent Gingras-Liberali",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Maxime Ferland",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Julie Amyot",
+        "department": "Costume & Make-Up",
+        "job": "Dresser"
+      },
+      {
+        "name": "Daniel Matthews",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "John Bober",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Chad Malbon",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Frédéric Amblard",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Alex Touikan",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Denis Hamel",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Lucie Fournier",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Michael Meagher",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Takashi Seida",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Gayle Busby",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "David Werntz",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Ray McIntyre Jr.",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Frank A. Montaño",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Charlotte Raybourn",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Helene Lamarre",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Simon Chamberland",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Hiroshi Yada",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Keith Christensen",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Marc Chow",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Martin Laneuville",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Miguel Rivera",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Stephen Gilbert",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Andy Fowler",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Thomas Nittmann",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Persis Reynolds",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Mandy Tankenson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "George McCarthy",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Kirsty Millar",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Edson Williams",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Daniel Sauvé",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Daniel Sauvé",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "John Lewin",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Pierre Blondin",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Kimi Webber",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Nadine Thouin",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Jerie McBride",
+        "department": "Crew",
+        "job": "Studio Teachers"
+      },
+      {
+        "name": "Jennifer Anderson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "John 'D.J.' Des Jardin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Erik Liles",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Réjean Forget",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Zack Davis",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Audrey L. Anzures",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Marco Venditto",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Des Carey",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Missy Papageorge",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Ryan Zuttermeister",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Melissa Remenarich",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Chris Holmes",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Jeff Rosen",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Jon Mete",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Kyle Rochlin",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Brad North",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Cristin Pescosolido",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Derek Wentworth",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Jean-Jacques Dion",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Jocelyne Bellemare",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Hugo Dominguez",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Stephen Coren",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Michael Cozens",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Andrea Wertheim",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Jake Morrison",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Clay Staub",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Chris Wells",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Martine Gagnon",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Serge Lavigueur",
+        "department": "Crew",
+        "job": "Armory Coordinator"
+      },
+      {
+        "name": "Mark Pappas",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "Ryan Kuba",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Tyler Foell",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Julie Garceau",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Yoshiya Yamada",
+        "department": "Visual Effects",
+        "job": "Modelling Supervisor"
+      },
+      {
+        "name": "Robert B. Baylis",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Shawn Sykora",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Rosalie Clermont-Bilodeau",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Martin Zwanzger",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Eric Aubin",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Alain Bisson Doyal",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Meinert Hansen",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Dane Farwell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Julie Breton",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "William R. Dalgleish",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Noel Donnellon",
+        "department": "Camera",
+        "job": "Epk Camera Operator"
+      },
+      {
+        "name": "Christian Chabot",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Guy Pigeon",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Miguel Ortega",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Yves Drapeau",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Mo Henry",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Garson Yu",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Catherine Lavoie",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Yanick Wilisky",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Alain Masse",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Richard Boucher",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Jean Courteau",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Gillian Chandler",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Shawn Roberts",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Dan Milligan",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Dean Gula",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Nathan Gunn",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Tad Griffith",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tad Griffith",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Tad Griffith",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Chadi Abo",
+        "department": "Visual Effects",
+        "job": "Pre-Visualization Supervisor"
+      },
+      {
+        "name": "Patrice Lapointe",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Marco Nero",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Catherine Gélinas",
+        "department": "Costume & Make-Up",
+        "job": "Dresser"
+      },
+      {
+        "name": "Caroline Béliveau",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Bret St. Clair",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Jayne Herrmann",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Todd Baillere",
+        "department": "Crew",
+        "job": "Post Production Consulting"
+      },
+      {
+        "name": "Louis Frederic Denomme",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "P. Whitney Gearin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Richard Cote",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Bill Holley",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Richard Bennett",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Larysa Chernienko",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Nerys Lincoln",
+        "department": "Visual Effects",
+        "job": "3D Artist"
+      },
+      {
+        "name": "Danielle Rubin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Julia Reinhard",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Marco Lavallée",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Sergio Ayrosa",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Andreas Nehls",
+        "department": "Visual Effects",
+        "job": "3D Modeller"
+      },
+      {
+        "name": "Dylan Carter",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "name": "Mathieu Price",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Sylvain Dupuis",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Stephane Boisvert",
+        "department": "Crew",
+        "job": "Generator Operator"
+      },
+      {
+        "name": "David Dinel",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Stephen Wells",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Jeff Scott",
+        "department": "Lighting",
+        "job": "Best Boy Electrician"
+      },
+      {
+        "name": "Joshua Cordes",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Grant Freckelton",
+        "department": "Crew",
+        "job": "Visual Effects Art Director"
+      },
+      {
+        "name": "Karl Rogovin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Pierre Beaulieu",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Jacques Langlois",
+        "department": "Crew",
+        "job": "Pyrotechnician"
+      },
+      {
+        "name": "Henri Aubertin",
+        "department": "Costume & Make-Up",
+        "job": "Key Dresser"
+      },
+      {
+        "name": "Neal Sopata",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Melina Di Cristo",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Annick Legout",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "David Scott",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Adam Forman",
+        "department": "Crew",
+        "job": "Tattooist"
+      },
+      {
+        "name": "Christian Lemay",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Richard Alger",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Robert Lapierre Jr.",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Martine Vincent",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Sandrin Olivier",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Tereska Gesing",
+        "department": "Costume & Make-Up",
+        "job": "Dresser"
+      },
+      {
+        "name": "Pascal Gauthier",
+        "department": "Costume & Make-Up",
+        "job": "Key Dresser"
+      },
+      {
+        "name": "Yolanda Santosa",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Caroline Lachance",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "name": "Mark Alan Yates",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Stephan Schweizer",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Cesar Dacol Jr.",
+        "department": "Visual Effects",
+        "job": "Modelling Supervisor"
+      },
+      {
+        "name": "Chris Capell",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Marie-Claude Aubry",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Marie-Chantale Savard-Côté",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Ana Marie Cruz",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Elizabeth Ross",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Éric Gaudry",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Arild Anfinnsen",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Marie-Maude Grenier",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Lisa Marra",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      }
+    ]
+  },
+  "keywords": [
+    "epic",
+    "army",
+    "narration",
+    "blood splatter",
+    "gore",
+    "based on comic",
+    "sword fight",
+    "massacre",
+    "ancient world",
+    "based on graphic novel",
+    "ancient greece",
+    "warrior",
+    "ancient warfare",
+    "sparta greece",
+    "5th century bc",
+    "war",
+    "male protagonist",
+    "bloody death",
+    "sparta",
+    "spartans",
+    "battle of thermopylae",
+    "god king",
+    "battle axe"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
+    "In the Battle of Thermopylae of 480 BC an alliance of Greek city-states fought the invading Persian army in the mountain pass of Thermopylae. Vastly outnumbered, the Greeks held back the enemy in one of the most famous last stands of history. Persian King Xerxes led a Army of well over 100,000 (Persian king Xerxes before war has about 170,000 army) men to Greece and was confronted by 300 Spartans, 700 Thespians, and 400 Thebans. Xerxes waited for 10 days for King Leonidas to surrender or withdraw but left with no options he pushed forward. After 3 days of battle all the Greeks were killed. The Spartan defeat was not the one expected, as a local shepherd, named Ephialtes, defected to the Persians and informed Xerxes that the separate path through Thermopylae, which the Persians could use to outflank the Greeks, was not as heavily guarded as they thought.—cyberian2005",
+    "480 B.C. When a Persian envoy arrives at the gates of Sparta, Greece, demanding submission to King Xerxes, brave King Leonidas sends word to the Persian ruler that Spartans will never give up their rights over their land. As enraged King Xerxes dispatches armed-to-the-teeth multitudes of Persian soldiers to Thermopylae, a narrow coastal passage of strategic significance, King Leonidas and just 300 of his finest royal bodyguards march against the invading army, refusing to bow to the all-powerful enemy. And although the Spartans were vastly outnumbered, King Leonidas' men crushed wave after wave of superior Persian forces--a fierce, winner-take-all confrontation that would go down in the annals of history as the legendary Battle of Thermopylae.—Nick Riganas",
+    "In 480 BC, the Persian king Xerxes sends his massive army to conquer Greece. The Greek city of Sparta houses its finest warriors, and 300 of these soldiers are chosen to meet the Persians at Thermopylae, engaging the soldiers in a narrow canyon where they cannot take full advantage of their numbers. The battle is a suicide mission, meant to buy time for the rest of the Greek forces to prepare for the invasion. However, that doesn't stop the Spartans from throwing their hearts into the fray, determined to take as many Persians as possible with them.—rmlohner"
+  ],
+  "synopsis": "Spartan customs are harsh. The Spartans inspect each infant born to ensure it is whole - if it is deformed, the baby is abandoned to die. They raise their boys in the school of hard knocks, the agoge - in combat training, a small boy's loss of his weapon earns a bloody lip from the hand of his own father. At age 7, each young boy is torn from his mother and makes his own way in the wilderness, to return a man. Even the King endures this rite of passage. At age 15, young King-to-be Leonidas (Tyler Neitzel) lures a wolf into a narrow passage so that he can kill it. He returns home to be crowned King.Years later, messengers visit King Leonidas (Gerard Butler) requesting Sparta's submission to King Xerxes (Rodrigo Santoro). Insulted by their attitude, King Leonidas kicks the messengers into a well. Acknowledging the threat of Xerxes's invasion force, he visits the Ephors (priests) to obtain their favour before sending the Spartan army in battle. He proposes to repel the numerically superior enemy by using the terrain of the Hot Gates of Thermopylae, funneling the Persians into a narrow pass between the rocks and the sea, where their immense numbers will \"count for nothing.\" The Ephors, wary of the plan, consult the Oracle (Kelly Craig). In her drugged trance she decrees that Sparta must not go to war, lest they interrupt the sacred Carneian festival. Leonidas departs in anger, and the priests receive their bribe of Xerxes' gold from the Spartan traitor, Theron (Dominic West), for their negative response.Leonidas is reluctant to defy the corrupt clergy outright, but his wife (Lena Headey) encourages him to think outside the box. Leonidas elects to take 300 of his best soldiers as his \"bodyguard\" on a leisurely walk to the strategic Hot Gates location. His wife says goodbye, telling him to come back \"with his shield or on it\", and gives him a necklace.On the road they meet some allies, who are shocked that the Spartans are sending such a small force. Leonidas asks the professions of the allied army, who are craftsmen and artisans. He points out that he has brought more soldiers than they. Joined by Arcadians and other Greeks, they arrive at Thermopylae. In sight of the approaching Persian army, they construct a wall to contain the Persians' advance. Strong storms destroy some of Xerxes fleet, but it is only a small percentage of the massive army they will face.A horribly disfigured man, Ephialtes (Andrew Tiernan), comes to see Leonidas to warn him of a disused goat path at the rear of his position. Ephialtes claims that his parents fled Sparta at his birth to save his life. He hopes to redeem them by fighting for Leonidas. Leonidas explains that each Spartan warrior is a key part of the phalanx, and asks Ephialtes to show that he can lift his shield high enough to properly defend his fellow warriors. When it becomes evident that he cannot, Leonidas gently tells him to care for the fallen instead. Ephialtes' fondest hopes are crushed.A Persian emissary arrives, and finds that the corpses of the previous scouting party now make up part of the large rock wall. The Persian states that their arrows will blot out the sun, and the Spartans agree they will simply fight in the shade. The emissary's party is killed.Prior to the battle the Persians demand that the Spartans drop their arms and surrender. Leonidas refuses and challenges the Persians to come and take their weapons from them. With their tightly-knit phalanx formation, the Spartans funnel the Persians into the narrow terrain, repeatedly rebuffing them and inflicting heavy casualties.Xerxes, impressed with Spartan fighting skill, personally approaches Leonidas to persuade him to surrender. He promises Leonidas wealth and power in exchange for his loyalty. Leonidas declines, promising instead to make the \"God King\" bleed, and turns to rejoin his army.Dismayed at the refusal, Xerxes sends his masked personal guard, \"The Immortals\", which name the Spartans also prove false. The battles continue, with the Spartans prevailing over soldiers and animals drawn from the vast reaches of the Persian empire: from Mongolian barbarians and Eastern chemists to African rhinoceroses and Indian war elephants. However, some of the brave Spartan warriors are killed, and it becomes clear that more will follow.Ephialtes goes to Xerxes, and agrees to show the goat path to the Persians in exchange for a uniform, along with promises of women and wealth. Xerxes will grant Ephialtes his wish if he will kneel before the god king. Back in Sparta, Queen Gorgo has been trying to convince the council to send help to Leonidas. A friendly councilman arranges for her to speak, but explains that she will need Theron on her side. Theron agrees to help her if she will sleep with him - so she does.At the Hot Gates, the Spartans learn they have been betrayed, and know their fight is doomed. The Arcadians retreat in the face of certain death. The Spartans refuse to follow. Leonidas orders a reluctant Dilios to return to Sparta and tell of their inevitable deaths.In Sparta, Queen Gorgo makes her appeal to the council. Instead of supporting her as promised, Theron betrays her, accusing her of adultery. Enraged, Gorgo snatches a sword and stabs Theron, rupturing a bag of gold hidden in his robe. As the coins stamped with Persian markings spill onto the ground, the Council realizes Theron's treachery and agree to unite against Persia.At the Hot Gates, as the Persians surround the Spartans, who have created a dome out of their shields. Leonidas stands along in front of the dome. Xerxes's general demands their surrender, declaring that Leonidas may keep his title as King of Sparta and become Warlord of all Greece, answerable only to Xerxes. Ephialtes urges this as well, to which Leonidas remarks, \"May you live forever,\" an insult from a culture valuing death and valor in battle. Leonidas drops his shield and removes his helmet, seemingly bowing in submission. Stelios then bursts out of the dome and leaps over his king and kills the general. A furious Xerxes orders his troops to attack. As Persian archers shoot the remaining Spartans, Leonidas rises and hurls his spear at Xerxes, ripping open his cheek, thus making \"the God-King bleed.\" Xerxes, visibly shaken by this reminder of his own mortality, watches as the remaining Spartans perish beneath the combined might of his army. Leonidas himself marks his final moments by telling his wife aloud that he loves her. A rain of arrows falls upon him and the screen goes black. Back in Sparta, Dilios gives the necklace to Queen Gorgo and tells her of her husband's fate.Concluding his tale before an audience of attentive Spartans, Dilios declares that the 120,000-strong Persian army that narrowly defeated 300 Spartans now faces 10,000 Spartans commanding 30,000 Greeks. Praising Leonidas's sacrifice, Dilios leads the assembled Greek army into a fierce charge against the Persian army, igniting the Battle of Plataea."
+}

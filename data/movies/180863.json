@@ -1,0 +1,709 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/vb3KG2ALfiUrwgEsL3pLZGNFW8b.jpg",
+  "id": 180863,
+  "title": "T2 Trainspotting",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xlbpCwa9OXXIiNgXcwuompHFIk9.jpg",
+  "release_date": "2017-01-27",
+  "vote_average": 6.948,
+  "vote_count": 2967,
+  "popularity": 20.017,
+  "overview": "After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud and Begbie.",
+  "imdb_id": "tt2763304",
+  "budget": 18000000,
+  "homepage": "http://www.t2trainspottingmovie.com/",
+  "revenue": 42100000,
+  "runtime": 117,
+  "tagline": "Face your past. Choose your future.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Creative Scotland",
+    "DNA Films",
+    "Decibel Films",
+    "Film4 Productions",
+    "Cloud Eight Films",
+    "TriStar Pictures",
+    "LStar Capital"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ewan McGregor",
+        "character": "Mark \"Rent Boy\" Renton"
+      },
+      {
+        "name": "Jonny Lee Miller",
+        "character": "Simon \"Sick Boy\" Williamson"
+      },
+      {
+        "name": "Ewen Bremner",
+        "character": "Daniel \"Spud\" Murphy"
+      },
+      {
+        "name": "Robert Carlyle",
+        "character": "Francis \"Franco\" Begbie /  Begbie's Father"
+      },
+      {
+        "name": "Anjela Nedyalkova",
+        "character": "Veronika Kovach"
+      },
+      {
+        "name": "Kelly Macdonald",
+        "character": "Diane Coulston"
+      },
+      {
+        "name": "Shirley Henderson",
+        "character": "Gail Houston"
+      },
+      {
+        "name": "Irvine Welsh",
+        "character": "Mikey Forrester"
+      },
+      {
+        "name": "James Cosmo",
+        "character": "Renton's Father"
+      },
+      {
+        "name": "Eileen Nicholas",
+        "character": "Renton's Mother"
+      },
+      {
+        "name": "Karl Argue",
+        "character": "Mad Pipper"
+      },
+      {
+        "name": "Simon Weir",
+        "character": "Jailhouse"
+      },
+      {
+        "name": "Pauline Turner",
+        "character": "June Begbie"
+      },
+      {
+        "name": "Scot Greenan",
+        "character": "Frank Junior"
+      },
+      {
+        "name": "Gordon Kennedy",
+        "character": "Tulloch"
+      },
+      {
+        "name": "Steven Robertson",
+        "character": "Stoddart"
+      },
+      {
+        "name": "John Kazek",
+        "character": "Tom (Rehab Group)"
+      },
+      {
+        "name": "Bradley Welsh",
+        "character": "Doyle"
+      },
+      {
+        "name": "Katie Leung",
+        "character": "Nurse"
+      },
+      {
+        "name": "Tom Urie",
+        "character": "Big Bear"
+      },
+      {
+        "name": "Amy Manson",
+        "character": "Woman in Club"
+      },
+      {
+        "name": "Christopher Douglas",
+        "character": "Chris the Oracle"
+      },
+      {
+        "name": "James McElvar",
+        "character": "Simon (aged 20)"
+      },
+      {
+        "name": "Connor McIndoe",
+        "character": "Renton (aged 20)"
+      },
+      {
+        "name": "John Bell",
+        "character": "Spud (aged 20)"
+      },
+      {
+        "name": "Michael Shaw",
+        "character": "Tommy (aged 20)"
+      },
+      {
+        "name": "Christopher Mullen",
+        "character": "Begbie (aged 20)"
+      },
+      {
+        "name": "Elijah Wolf",
+        "character": "Tommy (aged 9)"
+      },
+      {
+        "name": "Ben Skelton",
+        "character": "Renton (aged 9)"
+      },
+      {
+        "name": "Kyle Fitzpatrick",
+        "character": "Fergus"
+      },
+      {
+        "name": "Tereza Duskova",
+        "character": "Tourism Girl"
+      },
+      {
+        "name": "Pauline Lynch",
+        "character": "Lizzy"
+      },
+      {
+        "name": "Svetla Yancheva",
+        "character": "Veronika's Mother"
+      },
+      {
+        "name": "Kevin McKidd",
+        "character": "Tommy MacKenzie (archive footage)"
+      },
+      {
+        "name": "Logan Gillies",
+        "character": "Simon (aged 9)"
+      },
+      {
+        "name": "Aiden Haggarty",
+        "character": "Spud (aged 9)"
+      },
+      {
+        "name": "Daniel Smith",
+        "character": "Begbie (aged 9)"
+      },
+      {
+        "name": "Charlie Hardie",
+        "character": "Fergus (aged 9)"
+      },
+      {
+        "name": "Scott Aitken",
+        "character": "Farmer"
+      },
+      {
+        "name": "Elek Kish",
+        "character": "Dozo"
+      },
+      {
+        "name": "Lewis Gribben",
+        "character": "Dealer"
+      },
+      {
+        "name": "Dominic Maccoll",
+        "character": "Dealer"
+      },
+      {
+        "name": "Calum Verrecchia",
+        "character": "Dealer"
+      },
+      {
+        "name": "Thierry Mabonga",
+        "character": "Security Officer Wilson"
+      },
+      {
+        "name": "Atta Yaqub",
+        "character": "Medical Student"
+      },
+      {
+        "name": "Bryan Quinn",
+        "character": "Man in Music Video"
+      },
+      {
+        "name": "Ged Hanley",
+        "character": "Social Club Band"
+      },
+      {
+        "name": "Neil Thomson",
+        "character": "Social Club Band"
+      },
+      {
+        "name": "Margaret Davies",
+        "character": "Social Club Singer"
+      },
+      {
+        "name": "Alex Jackson",
+        "character": "Social Club Singer"
+      },
+      {
+        "name": "Phil Coppola",
+        "character": "Boxing Instructor"
+      },
+      {
+        "name": "Lauren Lamb",
+        "character": "Baby Dawn"
+      },
+      {
+        "name": "Devon Lamb",
+        "character": "Baby Dawn"
+      },
+      {
+        "name": "Russell Dunsmore",
+        "character": "Hard Guy Driver"
+      },
+      {
+        "name": "Nebli Basani",
+        "character": "Hardman"
+      },
+      {
+        "name": "Edyta Szewczyk",
+        "character": "Girl in Sauna"
+      },
+      {
+        "name": "Fiori Miari",
+        "character": "Girl in Sauna"
+      },
+      {
+        "name": "Hamish Haggerty",
+        "character": "Young Renton"
+      },
+      {
+        "name": "Daniel Jackson",
+        "character": "Young Begbie"
+      },
+      {
+        "name": "Emil Bonev",
+        "character": "Veronika's Son"
+      },
+      {
+        "name": "Blair Flucker",
+        "character": "Club Patron (uncredited)"
+      },
+      {
+        "name": "Adam James Johnston",
+        "character": "Club Patron (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jon Harris",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Anthony Dod Mantle",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Danny Boyle",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Danny Boyle",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Andrew Macdonald",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mark Tildesley",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Gail Stevens",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Irvine Welsh",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Irvine Welsh",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "John Hodge",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "John Hodge",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "name": "Rachael Fleming",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Glenn Freemantle",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Glenn Freemantle",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Glenn Freemantle",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "name": "Ben Barker",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Allon Reich",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Bernard Bellew",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Véronique Melery",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Katie Johnston",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Christian Colson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mark DeSimone",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Rick Smith",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Lee Gren",
+        "department": "Costume & Make-Up",
+        "job": "Tattoo Designer"
+      },
+      {
+        "name": "Julian Spencer",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Linda Brenon",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Thomas Neivelt",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Stephen Noble",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Christopher Wyatt",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Patrick Rolfe",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Ivana Primorac",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Jim Elliott",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Russell D. Equi",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Elo Soode",
+        "department": "Art",
+        "job": "Conceptual Design"
+      },
+      {
+        "name": "Elo Soode",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Niv Adiri",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Niv Adiri",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Danny Freemantle",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Glen Gathard",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Orlin Grozdanov",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Rob Pavey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jaap Buitendijk",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Emilie O'Connor",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Sylvia Parker",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Sarah Weatherburn",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Graeme Hunter",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Alastair Rae",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Brendan Houghton",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "name": "Mark Appleby",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Claire Campbell",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Chris Navarro",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Rebecca Farhall",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "James Wichall",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Chris Lyons",
+        "department": "Costume & Make-Up",
+        "job": "Facial Setup Artist"
+      },
+      {
+        "name": "Chris Lyons",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Colin Nicolson",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Adam Squires",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Colin Gregory",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "Martin Auld",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Andy Finnie",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Stuart W. Fraser",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Neil Cairns",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Amy MacIlraith",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Zoe Freed",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Kamen Glover",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kamen Glover",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Heather Manson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Heather Manson",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Nathaniel De'Lineadeus",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Jemma Riley-Tolch",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Erol Mehmet",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chey Anich",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Robert Hladik",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Lee Moulton-Davies",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Arwel Evans",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "John Gorman",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Scott Hunter",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      }
+    ]
+  },
+  "keywords": [
+    "prison",
+    "friendship",
+    "based on novel or book",
+    "fight",
+    "scotland",
+    "blackmail",
+    "heroin",
+    "drug addiction",
+    "junkie",
+    "cocaine",
+    "nightclub",
+    "edinburgh, scotland",
+    "addiction",
+    "sequel",
+    "prison escape",
+    "revenge",
+    "extortion",
+    "theft",
+    "bar fight",
+    "social realism",
+    "council estate",
+    "bulgarian"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "After 20 years abroad, Mark Renton returns to Scotland and reunites with his old friends Sick Boy, Spud, and Begbie.",
+    "First there was an opportunity......then there was a betrayal. Twenty years have gone by. Much has changed but just as much remains the same. Mark Renton (Ewan McGregor) returns to the only place he can ever call home. They are waiting for him: Spud (Ewen Bremner), Sick Boy (Jonny Lee Miller), and Begbie (Robert Carlyle). Other old friends are waiting too: sorrow, loss, joy, vengeance, hatred, friendship, love, longing, fear, regret, diamorphine, self-destruction and mortal danger, they are all lined up to welcome him, ready to join the dance.—Sony Pictures Entertainment",
+    "20 years after betraying his friends and running off with (almost) all the money from a scam, Mark Renton is back in Edinburgh. It is his first time back since the events that split him, Spud and Simon apart. He looks up Spud and Simon but their lives are hardly much better than when he last saw them. Spud, after getting his life together, has seen it all unravel, to the point that he is suicidal. Simon is running his father's loss-making pub, in between bouts of blackmail. Meanwhile, the fourth person in their caper of 20 years' ago, the psychotically intense Begbie, is in jail. He has no intention of staying incarcerated and revenge is foremost on his mind.—grantss"
+  ],
+  "synopsis": "The film opens with Mark Renton (Ewan McGregor) running on a treadmill at the gym. He sees flashes of himself in his younger days, and as he's distracted, he slips off the treadmill and goes unconscious.We see a clip of Mark as a child with his best friends Simon \"Sick Boy\" Williamson (Jonny Lee Miller), Daniel \"Spud\" Murphy (Ewen Bremner), and Francis \"Franco\" Begbie (Robert Carlyle) as they play football on the streets with other kids from their neighborhood.In the present day, Franco meets with his lawyer, Stoddart (Steven Robertson), who tells him that his parole has been denied due to his violent nature. Franco insults Stoddart for bringing him bad news. The lawyer is ready to push the yellow buzzer button under the table for the guards outside the room to come in to restrain him, which Franco can see. He then lunges at Stoddart.Meanwhile, Spud is in a group meeting for drug addicts, as he is still unable to kick his heroin addiction. He tells everyone how because he didn't realize it was daylight savings time, he was an hour late for work and was fired, then an hour late to everything else in the day, including a custody hearing between him and his former partner Gail (Shirley Henderson). Spud cares deeply about their son, \"Wee\" Fergus, but Gail won't let Spud stay in their lives due to his habits.Elsewhere, Simon approaches a businessman named Tulloch (Gordon Kennedy) in his car. He shows Tulloch a flash drive containing a video of Tulloch getting penetrated by a prostitute, who is really Simon's Bulgarian girlfriend Veronika (Anjela Nedyalkova). Simon blackmails Tulloch for money or else he will show the video to Tulloch's wife. Simon has also developed a serious cocaine habit.Mark returns home to Edinburgh, Scotland for the first time in 20 years since he stole money from Franco and left £4,000 to Spud. Mark visits his father (James Cosmo), who tells Mark that his mother had passed away in his absence. She had always hoped Mark would return.Spud writes a letter to Gail and Fergus to apologize for his screw-ups and say he only wants to see them smile again. Mark goes by his apartment and breaks part of the door off to see Spud attempting to suffocate himself with a plastic bag over his head. Mark kicks the door down and helps Spud as he pukes inside the bag. Mark rips the bag open and saves Spud. However, Spud isn't happy to see Mark after the last time they saw each other. Even after Mark left Spud with the money, Spud wasted a lot of it on smack. He's angry with Mark for ruining his life, and now his death.Franco is in the hospital after getting an inmate to stab him in the abdomen. When he is left alone in his room, Franco leaves and knocks out a doctor to escape the hospital undetected.Mark goes to the Port Sunshine pub that Simon runs. There is only one other patron there. Mark wants to make amends with Simon, but he is also not very pleased to see Mark again. The two start fighting violently around the pub until they're both hurt and tired. Simon later talks to Veronika about running into Mark again. He plans to bring him into their venture to create a \"sauna\" (brothel), but Simon is only using Mark under the pretense of friendship.Franco returns to his old home to find his wife June (Pauline Turner) startled to see him again. He then sees his son, Frank Jr (Scot Greenan), older than the last time Franco saw him. He embraces his son and learns he has applied to go to university. Franco later tries to have sex with June but he cannot maintain his endurance.Mark takes Spud running up Arthur's Seat in an effort to help his friend kick his addiction. He later goes to Simon's house as he's watching a bizarre music video. Mark admits he previously lied about having two kids, although he is going through a divorce and is losing his job. Mark also mentions having a metal plate in his chest after suffering an episode, and after doctors told him it would last him 30 years, he had a crisis about what he would do with another 30 years of life.Franco takes Frank Jr. with him to burgle houses and then bring some of the stolen goods to Franco's old mate Mikey Forrester (Irvine Welsh), who has moved up in the world since he last saw Franco and the other guys.Mark, Simon, and Veronika drive out to Glasgow to the 1690, a unionist pub. Veronika stays in the car while Mark and Simon go around picking peoples' cards out of their coats. They try to leave, but the pub owner tells them they can't leave without singing a song. The two awkwardly go up as Simon sits to play the piano. Mark makes up lyrics about the Battle of the Boyne, which gets the crowd cheering and uproarious as Mark sings about \"there were no more Catholics left\". He and Simon then leave feeling victorious. They and Veronika then continue to bond over their business venture and shared interests. Veronika jokes that Mark and Simon should just fuck each other, but also notes that they are stuck living in the past.Franco learns that Frank Jr. wants nothing to do with his criminal activities and would prefer to go to uni. Franco insults his son and tries to egg him on to hit him, but Frank Jr. never makes a move, leading Franco to continue insulting him.Simon gets arrested when one of his blackmailing victims comes forward to the police. He calls Mark for help getting a lawyer. Mark and Veronika visit Mark's old girlfriend Diane Coulston (Kelly MacDonald) to get Simon out. Diane asks Mark if he and Simon are still doing heroin. When they finish the meeting, Diane privately tells Mark that Veronika is too young for him.After Simon gets out, he is visited at the pub by Franco. They discuss Mark and getting back at him while doing lines of cocaine.Mark spends time with Veronika on his own as he is attracted to her, and she prefers his company over Simon's, even though she says she may like Simon more than he likes himself. Veronika asks Mark over dinner about his \"Choose Life\" shirt. He then goes into an updated \"Choose Life\" monologue that becomes very passionate. Veronika says she likes Mark, and they later go home and have sex.Meanwhile, Spud is making active efforts to better himself. He takes up boxing lessons, cleans out his belongings, and has even written down stories based on his experiences with his friends.Mark, Simon, and Spud go by a location their late friend Tommy MacKenzie took them to in their younger days. Simon blames Mark for Tommy's death as it was he that introduced Tommy to heroin. Mark fires back by reminding Simon of how his addiction led to the death of his baby Dawn, and how she would have been a woman now. Simon is left silent.Mark and Simon go to the Scottish Parliament to pitch their Port Sunshine venture for a loan of 100,000 pounds. They succeed in getting the money. They later do heroin for the first time in years.The guys go to a nightclub. Mark goes to use the toilet, and doesn't know Franco is in the stall next to him. Franco drops his Viagra pills into Mark's stall, and they exchange banter as they slowly realize they are speaking to each other. Mark runs like hell out of the club as Franco gives chase. He follows Mark to a parking garage. Mark hops on top of a van as it is driving away. Franco slashes Mark's arm as the van passes, but Mark still manages to escape him.Mark and Simon are approached on the streets by a rival sauna owner in the area. He takes the two to the woods and forces them to strip naked and abandon their sauna venture so as to not have competition. Mark and Simon must go home nude until they pass a barn and take wrapping to cover themselves.Franco visits Spud to learn of Mark's whereabouts. He discovers Spud's memoirs, including the incident in the first film where Franco chucked a glass at a woman's face and pretended it wasn't him. Franco also learns about the money that Mark left Spud. Veronika then visits Spud as she has been helping him out as well. Franco threatens them both but lets Veronika leave once she gives him her phone. Franco texts Mark and Simon to make it look like Veronika is asking to meet them both at the pub. Franco later visits June and Frank Jr. one last time, knowing they probably won't see him for a long time after this.Mark and Simon go ahead to the pub, not knowing they were both called there. Spud runs in to try and warn them of Franco, but it's too late. Franco fights his old friends and knocks Simon out before he chases Mark upstairs. Mark tries to appeal to Franco by reminding him of when they met as children. Mark tries to escape over the open ceiling, only for Franco to push him through and cause him to get his neck wrapped in wires, leaving him hanging. Franco goes to finish Mark off, only for Simon to spray something in Franco's face, and finally having Spud knock Franco out with a toilet. They help Mark down and put Franco's body in the trunk of their car so they can return him to prison.Veronika tries to convince Spud to go away with her and to take the money from Mark and Simon. Spud says he'd only use his money on drugs, but he wants to leave his money to Gail and Fergus. Using his forgery skills, he has their money transferred to another account, so Veronika can return to Bulgaria to reunite with her son and mother.In the final scenes, Spud decides to write his memoirs into a book, which he has Gail read first. Mark and Simon, meanwhile, have repaired their friendship. Mark goes back home to be with his father. He goes into his old bedroom and plays \"Lust For Life\" on his record player."
+}

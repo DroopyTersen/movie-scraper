@@ -1,0 +1,857 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cpDoykGqISrjXb4SG1L18OkmWAf.jpg",
+  "id": 615643,
+  "title": "Minari",
+  "poster_path": "https://image.tmdb.org/t/p/w500/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+  "release_date": "2021-02-12",
+  "vote_average": 7.4,
+  "vote_count": 1478,
+  "popularity": 25.222,
+  "overview": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
+  "imdb_id": "tt10633456",
+  "budget": 2000000,
+  "homepage": "https://a24films.com/films/minari",
+  "revenue": 12900000,
+  "runtime": 115,
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Plan B Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Steven Yeun",
+        "character": "Jacob"
+      },
+      {
+        "name": "Han Yeri",
+        "character": "Monica"
+      },
+      {
+        "name": "Youn Yuh-jung",
+        "character": "Soonja"
+      },
+      {
+        "name": "Will Patton",
+        "character": "Paul"
+      },
+      {
+        "name": "Alan Kim",
+        "character": "David"
+      },
+      {
+        "name": "Noel Kate Cho",
+        "character": "Anne"
+      },
+      {
+        "name": "Scott Haze",
+        "character": "Billy"
+      },
+      {
+        "name": "Darryl Cox",
+        "character": "Mr. Harlan"
+      },
+      {
+        "name": "Esther Moon",
+        "character": "Mrs. Oh"
+      },
+      {
+        "name": "Ben Hall",
+        "character": "Dowsing Dan"
+      },
+      {
+        "name": "Eric Starkey",
+        "character": "Randy Boomer"
+      },
+      {
+        "name": "Jacob Wade",
+        "character": "Johnnie"
+      },
+      {
+        "name": "James Carroll",
+        "character": "Brother Roy"
+      },
+      {
+        "name": "Jenny Phagan",
+        "character": "Bonnie"
+      },
+      {
+        "name": "Tina Parker",
+        "character": "Debbie"
+      },
+      {
+        "name": "Chloe Lee",
+        "character": "June"
+      },
+      {
+        "name": "Joel Telford",
+        "character": "Older Kid"
+      },
+      {
+        "name": "Kaye Brownlee-France",
+        "character": "Lab Tech"
+      },
+      {
+        "name": "Skip Schwink",
+        "character": "Doctor"
+      },
+      {
+        "name": "Tea Oh",
+        "character": "Grocery Store Owner"
+      },
+      {
+        "name": "Debbi Tucker",
+        "character": "Hospital visitor (uncredited)"
+      },
+      {
+        "name": "Ed Spinelli",
+        "character": "Church Member (uncredited)"
+      },
+      {
+        "name": "Ernie Robinson",
+        "character": "Church Member (uncredited)"
+      },
+      {
+        "name": "Danny Frost",
+        "character": "Church Member (uncredited)"
+      },
+      {
+        "name": "Laurie Frost",
+        "character": "Church Member (uncredited)"
+      },
+      {
+        "name": "Warren Lane",
+        "character": "Church Goer (uncredited)"
+      },
+      {
+        "name": "Jonnie Parnell",
+        "character": "Bank Teller (uncredited)"
+      },
+      {
+        "name": "Amanda Pearce",
+        "character": "Church Goer (uncredited)"
+      },
+      {
+        "name": "April Warren",
+        "character": "Church Goer (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Brad Pitt",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "In-Ah Lee",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Dede Gardner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mike Uguccioni",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Steven Yeun",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lee Isaac Chung",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Lee Isaac Chung",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Jeremy Kleiner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Han Yeri",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "name": "John Stout",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Lachlan Milne",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Steven R. Mathis",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Julia Kim",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Kent Sparling",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Kent Sparling",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Kent Sparling",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Hannah Gates",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Harry Yoon",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Andrea Gard",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Andrea Gard",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Matt Fleischmann",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Dylan Brodie",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Julia Shirar",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Lee Yong-ok",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Frank Wolf",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Dmitri Makarov",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Dmitri Makarov",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Dmitri Makarov",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Jamie Baxter",
+        "department": "Visual Effects",
+        "job": "Visual Effects Compositor"
+      },
+      {
+        "name": "Joshua Sampson",
+        "department": "Art",
+        "job": "Standby Art Director"
+      },
+      {
+        "name": "Jon Shryock",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Erik Duemig",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Joseph Duemig",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Gina Luciani",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Andrew Lim",
+        "department": "Art",
+        "job": "Main Title Designer"
+      },
+      {
+        "name": "Bob Fredrickson",
+        "department": "Editing",
+        "job": "Digital Intermediate Editor"
+      },
+      {
+        "name": "Kent Shelton",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Joshua Bachove",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Sunrise Tippeconnie",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Scott Forrester",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Rudy Chung",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Chris Freihofer",
+        "department": "Production",
+        "job": "Local Casting"
+      },
+      {
+        "name": "Chris Freihofer",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Jeff Dubray",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "James Russell",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Brett Reynolds",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Joe Fragassi",
+        "department": "Production",
+        "job": "Post Production Accountant"
+      },
+      {
+        "name": "Emile Mosseri",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Stefanie Y. Hong",
+        "department": "Crew",
+        "job": "Translator"
+      },
+      {
+        "name": "Stefanie Y. Hong",
+        "department": "Writing",
+        "job": "Script Consultant"
+      },
+      {
+        "name": "Rhett Chanley",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Christina Oh",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Keith Brown",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Catherine Joy",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Daniel McGilvray",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "W. Haley Ho",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Zackary Steven Graham",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Charlotte Golden",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Kaitlyn Shelby",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Dan Dolan",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Susanna Song",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Jenn Rader",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Krista Perry",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Hairstylist"
+      },
+      {
+        "name": "Tory Ayers",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Charles Elmore",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Hanrui Wang",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Drea Carreno",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Park Moung-hui",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Ismael Salas",
+        "department": "Editing",
+        "job": "Digital Intermediate Colorist"
+      },
+      {
+        "name": "Danny Hulsey",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Jason Butler",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "David Milliken",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "name": "Ann Laudick",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Stephen J Hanan",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Dante Ha",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Shannon Beshears",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Amanda K. Roberts",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Cari Pak",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Marissa Shoemaker",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Brian Keepers",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "David Moore",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Stacy Suvino",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Stacy Suvino",
+        "department": "Art",
+        "job": "Set Buyer"
+      },
+      {
+        "name": "Ben Meeks",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Amairani Perez Chamu",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "name": "Ty Tush",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "name": "Jon Roman",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Jaime Roman",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Clay Flores",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Greg Bollinger",
+        "department": "Crew",
+        "job": "Drone Operator"
+      },
+      {
+        "name": "Todd Ruffin",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Melissa Lukenbaugh",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Michael Schwarz",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Liz Drew",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Austin Gill",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Sam Calvin",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jeremy Smart",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jimmy Hollingshed",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Matt Bauske",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jacob Keen",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Timothy R. Barnett",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Colin Warde",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Moses Jenkins",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Amy Higdon",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Amanda Gonzalez",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Ashley Tabb",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Hairstylist"
+      },
+      {
+        "name": "Kerry Anne Pritchard",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Hairstylist"
+      },
+      {
+        "name": "Daniel Cochran",
+        "department": "Production",
+        "job": "Key Set Production Assistant"
+      },
+      {
+        "name": "Alyssa Ide",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Cole Emhoff",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "name": "Mina Lee",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      },
+      {
+        "name": "Andrea Drake",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Justin Clenard",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Lew Homme",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Jimmie L. Hardcastle",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Tom Comstock",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Arnold Rowlan",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Devin Cunningham",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Joel Decker",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Doug Tabb",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Terry Raulston",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Sheri Dent",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Conley Wilson",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Joshua Miller",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Kenny Binkley",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Reride Smith",
+        "department": "Crew",
+        "job": "Animal Coordinator"
+      },
+      {
+        "name": "Pamela Banks",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "name": "Michelle Cho",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Irene Chun",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Joseph Carrillo",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Nikhil Koparkar",
+        "department": "Sound",
+        "job": "Music Programmer"
+      },
+      {
+        "name": "Robinton Hobbs",
+        "department": "Sound",
+        "job": "Music Programmer"
+      },
+      {
+        "name": "Ro Rowan",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Virginia Figueiredo",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Tori Hartley",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Seth Stuart",
+        "department": "Production",
+        "job": "Casting Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "american dream",
+    "arkansas",
+    "church",
+    "east asian lead",
+    "farmland",
+    "farmer",
+    "heart condition",
+    "family tension",
+    "hatchery",
+    "1980s",
+    "vegetable farm",
+    "korean american",
+    "mobile home",
+    "rural setting",
+    "grandmother grandson relationship",
+    "korean",
+    "asian american",
+    "korean food",
+    "korean immigrant"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
+    "Yearning to own a small patch of land and be more than a chicken sexer, the ambitious paterfamilias, Jacob Yi, relocates his Korean-American family: sceptical wife, Monica, and their children, David and Anne, from California to 1980s rural Arkansas, to start afresh and capture the elusive American Dream. However, new beginnings are always challenging, and to find out what is best for the family, let alone start a 50-acre farm to grow and sell Korean fruits and vegetables, is easier said than done. But, amid sincere promises, cultural unease, fleeting hopes, and the ever-present threat of financial disaster, Jacob is convinced that he has found their own slice of Eden in the rich, dark soil of Arkansas. Can grandma Soonja's humble but resilient minari help the Yi family figure out their place in the world?—Nick Riganas",
+    "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
+    "It's the early 1980s. Married Korean-Americans Jacob and Monica Yi have moved their young family, which includes their two children Anne and David Yi, from urban California to rural Arkansas in pursuit of Jacob's dream to make a success of himself for the family. Like they did in California, Jacob and Monica will work in a factory separating baby chicks by sex for processing, in California making just enough money in such work for Jacob, as the oldest son, to send money home to his family in Korea, but also to make this move. That dream is the fifty acres of land he purchased to start a farm growing Korean vegetables for what he sees as the untapped and burgeoning market of the growing Korean-American population. But this move is not Monica's dream, especially living in the three-bedroom trailer propped on cinder blocks that is on the property as their home, the property itself which is undeveloped and largely unserviced in its isolation. One of Monica's major concerns is exactly that isolation in David having a heart defect and she wanting to be in a city to be closer to doctors and a hospital, especially important if something negative happens unexpectedly and quickly with David. That isolation also means that beyond anything she develops with people at the factory, Monica will have no social network. After some heated arguments, Jacob and Monica come to the compromise that they will stay for Jacob to try and make a go of a farm, and that they will bring Monica's long widowed mother from Korea to act as a caregiver for the children while they're at work. Grandmother's arrival into the already cramped trailer adds its own complications in the family dynamic as David has never met his maternal grandmother, who is not what he envisions an American grandmother should be.—Huggo"
+  ],
+  "synopsis": "In 1983, the Korean immigrant Yi family moves from California to their new plot of land in rural Arkansas, where father Jacob hopes to grow Korean produce to sell to vendors in Dallas. One of his first decisions is to decline the services of a water diviner and he digs a well in a spot he finds on his own. He enlists the help of Paul, an eccentric local man, and Korean War veteran. While Jacob is optimistic about the life ahead, his wife Monica is disappointed and worries about their son David's heart condition; due to this he is frequently told not to run. Jacob and Monica work sexing chicks at the nearby hatchery and argue constantly while David and his sister Anne eavesdrop.To help watch the children during the day, they arrange for Monica's mother Soon-ja to travel from South Korea. David, who is forced to share a room with her, avoids her because she does not conform to his idea of how a grandmother should be. Still, Soon-ja attempts to adjust to life in the States and bond with the children.The well that Jacob dug runs dry. Jacob is reluctant to pay for county water, but eventually is forced to do so. He runs into additional difficulties, such as the vendor in Dallas canceling their order at the last minute. Even so, he perseveres despite Monica's vocal desire to return to California. This strains their marriage closer to breaking point.Meanwhile, Soon-ja takes the children to plant minari seeds by the creek. She tells them how resilient and useful the plant is, and predicts plentiful growth. David finally begins to warm to his grandmother after she teaches him card games, bandages his wounds, and soothes him to sleep. Soon-ja also encourages him to do more physical activity, something his parents discourage, saying that he is stronger than they think.Soon-ja suddenly suffers a stroke overnight. She survives with medical treatment, but is left with impaired movement and speech.Jacob, Monica, Anne and David head to Oklahoma City for David's heart appointment and to meet a vendor to sell Jacob's produce. Although they learn that David's heart condition has dramatically improved and Jacob makes a deal to sell vegetables to a Korean grocer, Jacob also indirectly admits to Monica that the success of his crops is more important to him than the stability of their family. Following an emotional argument, the two tacitly agree to separate.However, Soon-ja accidentally sets the barn containing the produce on fire in their absence. Upon arriving home, Jacob rushes in to save the crops, and Monica soon follows. Eventually, the fire grows out of control, and they decide to save each other while leaving the barn to burn. A distraught and confused Soon-ja begins to wander off into the distance, as Anne and David call for her to come back. Seeing that she is not responding to them, David breaks into a sprint to meet her, blocking her path. Soon-ja seems to recognize David for a moment, and reaches for his hand and the grandchildren lead her back home. The family is asleep on the floor, collapsed from the fatigue of the night before. Above them, Soon-ja is awake, in a chair, watching them sleep with a subdued expression on her face.Some time later, Jacob and Monica are with the water diviner who finds a spot for a well. They mark it with a stone signifying their intention to stay on the farm. Jacob and David then head to the creek to harvest the minari, which had grown successfully, with Jacob noting how good of a spot Soon-ja picked to plant them."
+}

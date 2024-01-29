@@ -1,0 +1,1075 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/lqxxwTRk0l7CubY6JkJdhnwJEkn.jpg",
+  "id": 331482,
+  "title": "Little Women",
+  "poster_path": "https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+  "release_date": "2019-12-25",
+  "vote_average": 7.894,
+  "vote_count": 5883,
+  "popularity": 46.834,
+  "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+  "imdb_id": "tt3281548",
+  "budget": 40000000,
+  "homepage": "https://www.littlewomen.movie/",
+  "revenue": 216600000,
+  "runtime": 135,
+  "tagline": "Own your story",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Regency Enterprises",
+    "Pascal Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Saoirse Ronan",
+        "character": "Josephine 'Jo' March"
+      },
+      {
+        "name": "Florence Pugh",
+        "character": "Amy March"
+      },
+      {
+        "name": "Emma Watson",
+        "character": "Margaret 'Meg' March"
+      },
+      {
+        "name": "Eliza Scanlen",
+        "character": "Elizabeth 'Beth' March"
+      },
+      {
+        "name": "Laura Dern",
+        "character": "Margaret 'Marmee' March"
+      },
+      {
+        "name": "Timothée Chalamet",
+        "character": "Theodore 'Laurie' Laurence"
+      },
+      {
+        "name": "Meryl Streep",
+        "character": "Aunt Josephine March"
+      },
+      {
+        "name": "Tracy Letts",
+        "character": "Mr. Dashwood"
+      },
+      {
+        "name": "Bob Odenkirk",
+        "character": "Mr. March"
+      },
+      {
+        "name": "James Norton",
+        "character": "John Brooke"
+      },
+      {
+        "name": "Louis Garrel",
+        "character": "Friedrich Bhaer"
+      },
+      {
+        "name": "Jayne Houdyshell",
+        "character": "Hannah"
+      },
+      {
+        "name": "Chris Cooper",
+        "character": "Mr. Laurence"
+      },
+      {
+        "name": "Rafael Silva",
+        "character": "Friedrich's Friend"
+      },
+      {
+        "name": "Mason Alban",
+        "character": "Friedrich's Friend"
+      },
+      {
+        "name": "Emily Edström",
+        "character": "Friedrich's Friend"
+      },
+      {
+        "name": "Maryann Plunkett",
+        "character": "Mrs. Kirke"
+      },
+      {
+        "name": "Hadley Robinson",
+        "character": "Sallie Gardiner Moffatt"
+      },
+      {
+        "name": "Lonnie Farmer",
+        "character": "Concord Sales Clerk"
+      },
+      {
+        "name": "Charlotte Kinder",
+        "character": "Viola"
+      },
+      {
+        "name": "Ana Kayne",
+        "character": "Olivia"
+      },
+      {
+        "name": "Edgar Damatian",
+        "character": "Jo's Beer Hall Dance Partner"
+      },
+      {
+        "name": "Erin Rose",
+        "character": "Girl at Ballroom #1"
+      },
+      {
+        "name": "Lizzie Short",
+        "character": "Girl at Ballroom #2"
+      },
+      {
+        "name": "Dash Barber",
+        "character": "Fred Vaughn"
+      },
+      {
+        "name": "Edward Fletcher",
+        "character": "Laurence's Servant"
+      },
+      {
+        "name": "Sasha Frolova",
+        "character": "Mrs. Hummel"
+      },
+      {
+        "name": "David J. Curtis",
+        "character": "Train Porter"
+      },
+      {
+        "name": "Abby Quinn",
+        "character": "Annie Moffat"
+      },
+      {
+        "name": "Harper Pilat",
+        "character": "School Girl #1"
+      },
+      {
+        "name": "Eowyn Young",
+        "character": "School Girl #2"
+      },
+      {
+        "name": "Lucy Austin",
+        "character": "School Girl #3"
+      },
+      {
+        "name": "Bill Mootos",
+        "character": "Mr. Davis"
+      },
+      {
+        "name": "Lewis D. Wheeler",
+        "character": "Josiah Workman"
+      },
+      {
+        "name": "Jen Nikolaisen",
+        "character": "Evelyn Meriwether"
+      },
+      {
+        "name": "Jonathon Acorn",
+        "character": "Concord Play Pianist"
+      },
+      {
+        "name": "Lilly Englert",
+        "character": "Kate Vaughn"
+      },
+      {
+        "name": "J.M. Davis",
+        "character": "Susan Robbins"
+      },
+      {
+        "name": "Tom Kemp",
+        "character": "Asa Melvin"
+      },
+      {
+        "name": "Anthony Estrella",
+        "character": "Doctor"
+      },
+      {
+        "name": "Adrianne Krstansky",
+        "character": "Mrs. Dashwood"
+      },
+      {
+        "name": "Sophia Gialloreto",
+        "character": "Dashwood Girl"
+      },
+      {
+        "name": "Lily Gavin",
+        "character": "Dashwood Girl"
+      },
+      {
+        "name": "Finola Weller Baldet",
+        "character": "Dashwood Girl"
+      },
+      {
+        "name": "Flannery Gregg",
+        "character": "Beer Hall Dancer"
+      },
+      {
+        "name": "Tony Tucker",
+        "character": "Beer Hall Dancer"
+      },
+      {
+        "name": "Joanne Caidor",
+        "character": "Beer Hall Dancer"
+      },
+      {
+        "name": "Rosario Guillen",
+        "character": "Beer Hall Dancer"
+      },
+      {
+        "name": "Lily Peterson",
+        "character": "Parisian Girl (uncredited)"
+      },
+      {
+        "name": "Jared Reinfeldt",
+        "character": "Ned Moffat (uncredited)"
+      },
+      {
+        "name": "Amber Rothberg",
+        "character": "Young Meg (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Arnon Milchan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Francine Maisler",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Denise Di Novi",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Alexandre Desplat",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Alexandre Desplat",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Yorick Le Saux",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Jess Gonchor",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Jess Gonchor",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Kathy Driscoll",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Skip Lievsay",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Skip Lievsay",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Robin Swicord",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Adam Merims",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Adam Merims",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Jacqueline Durran",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Jean-Pascal Beintus",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Greta Gerwig",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Greta Gerwig",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Igor Meglic",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Louisa May Alcott",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Claire Kaufman",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Chris Farmer",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Wyatt Sprague",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Mark DeSimone",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Paul Sonski",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Suzana Peric",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Michael Feuser",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Jonas Spaccarotelli",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Alexis Forte",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Monica Bill Barnes",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Damiana Kamishin",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Aimee McCue",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Kimberly Guenther Durkin",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Joseph Kearney",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Lorrie Campbell",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Brian Bowles",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Anna Rane",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Judy Chin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Kevin O’Connell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Alexa Zimmerman",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Douglas Dresser",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Colin Hudson",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Colin Hudson",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "David Gulick",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Sean Falkner",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Frans Wetterings III",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Amy Andrews",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jennifer Bell",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Fríða Aradóttir",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Laurel Kelly",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Butch McCarthy",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Brian Drewes",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Amy Pascal",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Brooke Coleman",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Nichole Pleau",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Melissa Cooperman",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Lindsey Alvarez",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Wilson Webb",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Bryan Felty",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Bill Higley",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Paul Urmson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Paul Urmson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Joseph Battista",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Igor Nikolic",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Rick Chefalas",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Marvin Williams",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "name": "Tiffany Noel Kinder",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Pud Cusack",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Sinéad Kidao",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Jennifer Schossow",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Taryn Walsh",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Greg Wimer",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Dan Cayer",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Blake Goedde",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Danelle Davenport",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Sean Yopchick",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Evelyn O'Neill",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lee Salevan",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Anthony Raymond",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Caroline Errington",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Anastasia Tsikhanava",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Lori Rozman",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Joshua Dreyfus",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Kelly Doran",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Lindsey Pires",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sandi Figueroa",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Morgan Kling",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Beth Anderson",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Katy Shirey",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Rachel O'Connor",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lidia Tamplenizza",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Elizabeth Kirby",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Thomas Bianco",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Nick Houy",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "William D. Wynn",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Nicholas Ramirez",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Tracey Henton",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Marleen Alter",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Bobby Johanson",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Ashley Pynn",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Molly Rose",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Tricia Turczynski",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Robert Knowles",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Jamie Fitzpatrick",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Peter Wallack",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Katie Valovcin",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Jesse Morrow",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Adam McClain",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Tom Keenan",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Darrell Temple",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Hannah Roblé",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "John Pungitore",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "P.J. Hand",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Frank A. Montesanto",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Quinn Grove",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Devin McDonough",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Angela S. Lee",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Rachan Chirarattanakornkul",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "David Pietricola",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Autumn Moran",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Layla Calo-Baird",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Sam Lilja",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Miho Suzuki",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "David Becker",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Sam Gillis",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Talia Krohmal",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Kendall Cooper",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Bradley Groleau",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Joshua Weilbrenner",
+        "department": "Crew",
+        "job": "Loader"
+      },
+      {
+        "name": "Christine Koesler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Grace Gulick",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "John Aufiero",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Geoffrey Rockwell",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Alyssa Koncelik-Diemer",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Simon McKelleget",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Colleen Coviello",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Alana Shea",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Natalia Rozengard",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Jennifer DiLullo",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Zack Gonchor",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "John Allegretti",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Dia Donnelly",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Lauren Jagg",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Michael Paul Fennelly",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brogan Dinger",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Howard Steeves",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Briana Cash",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Nicole Aiguier",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "James P. Gill",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Catherine Farrell",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Sarah Lillian Pachter",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Carolyn Schnitzer",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Cynthia Bystrak",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Timothy J. Gorman",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Kyle Oliver",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "William O'Brien",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Amy K. Green",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Budesh Bridgepaul",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Timothy Coggins",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Camille Adams",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Ken Salter",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Ellen Aronson",
+        "department": "Crew",
+        "job": "Studio Teacher"
+      },
+      {
+        "name": "Colin Fowler",
+        "department": "Sound",
+        "job": "Orchestrator"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "sibling relationship",
+    "based on novel or book",
+    "massachusetts",
+    "coming of age",
+    "remake",
+    "period drama",
+    "american civil war",
+    "christmas",
+    "19th century",
+    "sister sister relationship",
+    "female writer",
+    "sisters"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms.",
+    "In nineteenth-century Massachusetts, with their father away serving in the Civil War, the women of the March family--the loving matriarch, Marmee, and her four daughters, Jo, Meg, Amy, and Beth--are left all alone to fend for themselves. Faced with genteel poverty, the fledgeling author, Jo March, is struggling to make a name for herself in male-dominated New York City; considerate Meg is now married, and the artistically inclined, Amy, is in Paris with their affluent Aunt March. However, the news of talented Beth's illness will reunite the sisters under the same roof. But, more than anything in the world--much to the disappointment of the handsome next-door neighbour, Theodore \"Laurie\" Laurence--the fiercely independent Jo yearns for freedom. Must all stories end with a wedding?—Nick Riganas"
+  ],
+  "synopsis": "In 1868, Jo March is a teacher in New York City. She goes to an editor, Mr. Dashwood, who agrees to publish a story she has written. Her sister Amy, in Paris with their Aunt March, sees their childhood friend Laurie and invites him to a party. There, she becomes angry at his drunken behavior, and he mocks her for spending time with wealthy businessman Fred Vaughn. In New York, Jo is hurt when Friedrich Bhaer, a professor infatuated with her, constructively criticizes her writing, and she ends their friendship. After receiving a letter that her younger sister Beth's illness has worsened, Jo returns home.Seven years earlier, Jo and her three sisters live in Concord, Massachusetts. At a party with her older sister Meg, Jo befriends Laurie, the grandson of their neighbor, Mr. Laurence. On Christmas morning, the girls' mother, \"Marmee\", persuades her daughters to give their breakfast to their poor neighbor, Mrs. Hummel, and her starving children. Returning home, the girls find their table full of food from Mr. Laurence, and a letter from their father fighting in the American Civil War. Jo visits their Aunt March, who invites her to Europe. Laurie notices Amy standing outside, having been hit by her teacher for misbehaving in class, and invites her in before her family comes to take her home.When Meg, Jo, Laurie, and John - Laurie's tutor and Meg's eventual husband - go to the theatre, a jealous Amy burns Jo's writings, deeply upsetting Jo. The next morning Amy, wanting to make up with Jo, chases her onto a lake where Jo and Laurie are skating. They save Amy when she falls through the ice. Mr. Laurence invites Beth to play the piano in his house, as she reminds him of his late daughter. In the present, Laurie visits Amy to apologize for his behavior. He urges her not to marry Fred, but to marry him instead. Though in love with Laurie, Amy refuses, upset at always being \"second to Jo\". She later turns down Fred's proposal, only to learn Laurie has left for London.In the past, Marmee learns the girls' father is ill from the war, and leaves to visit him. Mr. Laurence gives the piano to Beth, who contracts scarlet fever from the Hummels. Amy, who has not had the disease before, is sent to stay with Aunt March. Marmee comes home early when Beth gets worse, but she recovers in time for Christmas, and their father returns home. In the present, Beth's condition worsens, and she dies. In the past, on Meg's wedding day, Jo tries to convince her to run away, but Meg says she is happy marrying John. Aunt March announces her trip to Europe, but takes Amy instead of Jo. After the wedding, Laurie admits his feelings for Jo, but she insists she does not feel the same.In the present, Marmee reveals that a devastated Amy is returning from Europe with a sick Aunt March. Jo wonders if she was too quick to turn Laurie down and writes a letter for him. Preparing to leave, Amy tells Laurie she turned down Fred's proposal; they kiss and later marry on the journey home. Laurie and Jo agree just to be friends, and Jo throws away the letter she wrote him. She begins writing a novel based on the lives of her and her sisters, and sends the first chapters to Mr. Dashwood, who is unimpressed. Bhaer turns up at the March house on his way to California.In New York, Mr. Dashwood's daughters demand to know how Jo's book ends. He agrees to publish the book, but finds it unacceptable that the main character is unmarried. Jo amends her ending so that the main character, herself, chases after Bhaer and stops him from going to California. She negotiates copyright and royalties with Mr. Dashwood. Later, Jo has inherited Aunt March's house and opened it as a school, where Meg, Amy, and Bhaer all teach. Jo observes the printing of her book, titled Little Women."
+}

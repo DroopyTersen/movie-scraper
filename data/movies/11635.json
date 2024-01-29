@@ -1,0 +1,649 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/mgOxWQtPq8F0ljSzQ8CFvgyJ7ac.jpg",
+  "id": 11635,
+  "title": "Old School",
+  "poster_path": "https://image.tmdb.org/t/p/w500/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg",
+  "release_date": "2003-02-21",
+  "vote_average": 6.593,
+  "vote_count": 1694,
+  "popularity": 29.392,
+  "overview": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.",
+  "imdb_id": "tt0302886",
+  "budget": 24000000,
+  "homepage": "",
+  "revenue": 87100000,
+  "runtime": 88,
+  "tagline": "All the fun of college. None of the education.",
+  "genres": [
+    "Comedy"
+  ],
+  "production_companies": [
+    "The Montecito Picture Company",
+    "DreamWorks Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Luke Wilson",
+        "character": "Mitch"
+      },
+      {
+        "name": "Will Ferrell",
+        "character": "Frank"
+      },
+      {
+        "name": "Vince Vaughn",
+        "character": "Beanie"
+      },
+      {
+        "name": "Jeremy Piven",
+        "character": "Pritchard"
+      },
+      {
+        "name": "Ellen Pompeo",
+        "character": "Nicole"
+      },
+      {
+        "name": "Juliette Lewis",
+        "character": "Heidi"
+      },
+      {
+        "name": "Leah Remini",
+        "character": "Lara"
+      },
+      {
+        "name": "Perrey Reeves",
+        "character": "Marissa"
+      },
+      {
+        "name": "Craig Kilborn",
+        "character": "Mark"
+      },
+      {
+        "name": "Elisha Cuthbert",
+        "character": "Darcie"
+      },
+      {
+        "name": "Patrick Cranshaw",
+        "character": "Blue"
+      },
+      {
+        "name": "Harve Presnell",
+        "character": "Mr. Springbrook"
+      },
+      {
+        "name": "Artie Lange",
+        "character": "Booker"
+      },
+      {
+        "name": "Matt Walsh",
+        "character": "Walsh"
+      },
+      {
+        "name": "Patrick Fischler",
+        "character": "Michael"
+      },
+      {
+        "name": "Rick Gonzalez",
+        "character": "Spanish"
+      },
+      {
+        "name": "Seann William Scott",
+        "character": "Peppers"
+      },
+      {
+        "name": "Sara Tanaka",
+        "character": "Megan"
+      },
+      {
+        "name": "Katherine Ellis",
+        "character": "Amy"
+      },
+      {
+        "name": "Phe Caplan",
+        "character": "Julie"
+      },
+      {
+        "name": "Sarah Shahi",
+        "character": "Erica"
+      },
+      {
+        "name": "Kristen Kerr",
+        "character": "Lisa"
+      },
+      {
+        "name": "Dan Finnerty",
+        "character": "Wedding Singer"
+      },
+      {
+        "name": "Gregory Alan Williams",
+        "character": "Therapist"
+      },
+      {
+        "name": "Ashley Jones",
+        "character": "Caterer"
+      },
+      {
+        "name": "Bryan Callen",
+        "character": "Waiter"
+      },
+      {
+        "name": "James Carville",
+        "character": "Himself"
+      },
+      {
+        "name": "Todd Phillips",
+        "character": "Gang Bang Guy"
+      },
+      {
+        "name": "Stuart Cornfeld",
+        "character": "Taxi Driver"
+      },
+      {
+        "name": "Corinne Kingsbury",
+        "character": "Jenny"
+      },
+      {
+        "name": "Lisa Donatz",
+        "character": "Jeanie"
+      },
+      {
+        "name": "David Moreland",
+        "character": "Convention Speaker"
+      },
+      {
+        "name": "Chris Hendrie",
+        "character": "Priest"
+      },
+      {
+        "name": "Rachel Winfree",
+        "character": "Archer's Wife"
+      },
+      {
+        "name": "Nathalie Fay",
+        "character": "Mindy"
+      },
+      {
+        "name": "Kristina Hughes",
+        "character": "Naked Woman"
+      },
+      {
+        "name": "Nicholas Hosking",
+        "character": "Naked Man"
+      },
+      {
+        "name": "Sara Bryan",
+        "character": "Amanda"
+      },
+      {
+        "name": "Sydney Bryan",
+        "character": "Amanda"
+      },
+      {
+        "name": "Noel Gugliemi",
+        "character": "Student #1"
+      },
+      {
+        "name": "Robert Baker",
+        "character": "Student #2"
+      },
+      {
+        "name": "Bob Lazar",
+        "character": "Marissa's Dad"
+      },
+      {
+        "name": "Arthur Taxier",
+        "character": "Professor"
+      },
+      {
+        "name": "Darryl Armbruster",
+        "character": "The Dan Band"
+      },
+      {
+        "name": "Gene Reed",
+        "character": "The Dan Band"
+      },
+      {
+        "name": "David Arana",
+        "character": "The Dan Band"
+      },
+      {
+        "name": "David Hughes",
+        "character": "The Dan Band"
+      },
+      {
+        "name": "Marc Thaldorf",
+        "character": "The Dan Band"
+      },
+      {
+        "name": "Jimi Englund",
+        "character": "The Dan Band"
+      },
+      {
+        "name": "Snoop Dogg",
+        "character": "Self"
+      },
+      {
+        "name": "Warren G",
+        "character": "Self"
+      },
+      {
+        "name": "Bishop Don Magic Juan",
+        "character": "Self"
+      },
+      {
+        "name": "Kokane",
+        "character": "Self"
+      },
+      {
+        "name": "Jerod Mixon",
+        "character": "Weensie"
+      },
+      {
+        "name": "Matthew Carey",
+        "character": "Hatch"
+      },
+      {
+        "name": "Simon Helberg",
+        "character": "Jerry"
+      },
+      {
+        "name": "Abdul Goznobi",
+        "character": "Abdul"
+      },
+      {
+        "name": "Eddie Pepitone",
+        "character": "Archer"
+      },
+      {
+        "name": "Rob Corddry",
+        "character": "Warren"
+      },
+      {
+        "name": "Charles Noland",
+        "character": "Beav"
+      },
+      {
+        "name": "Raymond Ma",
+        "character": "Mr. Ma"
+      },
+      {
+        "name": "Jesse Heiman",
+        "character": "Budnick"
+      },
+      {
+        "name": "Joe Gonzales",
+        "character": "Gonzo"
+      },
+      {
+        "name": "Patrick J. Adams",
+        "character": "Patch"
+      },
+      {
+        "name": "Jake Jarvi",
+        "character": "Jarvi"
+      },
+      {
+        "name": "Ellen Cleghorne",
+        "character": "Trustee (uncredited)"
+      },
+      {
+        "name": "Andy Dick",
+        "character": "Barry (uncredited)"
+      },
+      {
+        "name": "Terry O'Quinn",
+        "character": "Goldberg (uncredited)"
+      },
+      {
+        "name": "David Michael White",
+        "character": "Bullpen Pledge (uncredited)"
+      },
+      {
+        "name": "Ray Buffer",
+        "character": "Teacher (uncredited)"
+      },
+      {
+        "name": "Candice T. Cain",
+        "character": "College Student (uncredited)"
+      },
+      {
+        "name": "Allen Bloomfield",
+        "character": "Airplane Ticket Buyer (uncredited)"
+      },
+      {
+        "name": "Katie Carlin",
+        "character": "Wedding Guest (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Joseph Middleton",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Theodore Shapiro",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Mark Irwin",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Ivan Reitman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Freddie Hice",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mic Rodgers",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Benson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Clark Hunter",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Michael Jablow",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Randall Poster",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Joe Bucaro III",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Tom Pollock",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Paul Massey",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "name": "Todd Phillips",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Todd Phillips",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Todd Phillips",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Todd Phillips",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Daniel Goldberg",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Joe Medjuck",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Scot Armstrong",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Scot Armstrong",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Traci Kirshbaum",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Court Crandall",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Amy Schmidt",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Kevin Foster",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Troy Brown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bob Brown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Max Daniels",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Kubr",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tim Trella",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Billy D. Lucas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Max Biscoe",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Tom Elliott",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard Bucher",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Paul Deason",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Paul Deason",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Tim Rigby",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Reid Harper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Larry Rippenkroeger",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Debbie Evans",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Thomas Robinson Harper",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "André Gordon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Hankins",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Mike Justus",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Holladay",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James Bolt",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "name": "Michael Babcock",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Sandy Berumen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Erik Rondell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kevin L. Jackson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Petur Hliddal",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Michael Neumann",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Lisa Hoyle",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alex Madison",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Wally Crowder",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Annie Ellis",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Shawn Robinson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Riley Harper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christie Hayes",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chrisie Paola",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nancy Fisher",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  },
+  "keywords": [
+    "infidelity",
+    "group sex",
+    "college",
+    "male friendship",
+    "beer",
+    "fraternity",
+    "dean",
+    "sex doll",
+    "streaking",
+    "mouth to mouth resuscitation",
+    "wild party"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.",
+    "Mitch, Frank and Beanie are disillusioned with their personal lives beginning when Mitch's nymphomaniac girlfriend, Heidi, cheats on him, then former party animal Frank gets married, but unwilling to let go of his wild life, and Beanie is a family man seeking to reclaim his wild and crazy youth. Beanie suggests that they form their own fraternity in Mitch's new house on a college campus to re-live their glory days by bringing together a variety of misfit college students, losers, middle-aged and elderly retirees as their new friends and later try to avoid being evicted by the new Dean of Students, Pritchard, whom still holds a personal grudge against all three of them.—matt-282"
+  ],
+  "synopsis": "Attorney Mitch Martin (Luke Wilson) comes back from a business trip early and is shocked to find out that Heidi (Juliette Lewis), his girlfriend, takes part in orgies with a variety of people. She claims it is purely sexual; nevertheless, Mitch does not want to continue the relationship. Mitch encounters his high school crush, Nicole (Ellen Pompeo), at his friend Franks (Will Ferrell) wedding party. He is drunk and does not make a good impression, accidentally spilling hot coffee on her and then trying to drink it off of her dress. After breaking up with his girlfriend, Mitch goes house-hunting. He finds a house located near the campus of his fictional Alma mater, Harrison University.Mitch's other best friend Bernard (Vince Vaughn), who owns a chain of electronic stores named \"Speaker City\", throws a party at Mitch's house and hires Snoop Dogg to play so Mitch can get his mind off his ex-girlfriend. The party, dubbed \"Mitch-A-Palooza,\" is a huge success and puts Mitch and his friends at the top of the college social scene, causing these former college buds to revert back to their frat-boy days. During the party, Frank, who had a reputation as the heavy drinking, hard partying \"Frank the Tank\" back in college, has his wife under the impression that he's matured and left the part of his life behind. However, he gets drunk and goes streaking through the neighborhood and is found by his new wife and her friends. This strains their marriage.The next morning, Mitch wakes up with Darcie (Elisha Cuthbert) and at first he's a bit concerned but she assures him it was simply casual sex. In the aftermath of the party, the trio meet Dean Pritchard (Jeremy Piven). The Dean is a childhood acquaintance of the three men, but since he was the butt of most of their pranks, his actions throughout the film are rooted in vindictiveness. Pritchard happily informs them that the house is specifically designated for social services and community housing. Therefore, Mitch, Frank, and Bernard must either move out or meet the Dean's criteria in order to keep Mitch's house. For this reason, it is Bernard's idea to start a fraternity that is open to anyone. Although Mitch is initially reluctant to accept the notion of turning his house into a fraternity, he is essentially obliged to agree with the idea. Mitch gets dubbed \"the Godfather\". He still tries to keep his work life and fraternity life apart. Regardless, he is approached by countless people even at work who want to become members of his fraternity. The fraternity is an outlet for the stress and boredom that is associated with the monotonous nine-to-five lifestyle for many members. Mitch, while in a meeting with his boss, Mr. Goldberg, is visited by Darcie and awkwardly discovers she is his boss' daughter, who happens to be graduating from high school. This stuns Mitch, who awkwardly shakes her hand. To make matters more humiliating, word has already leaked out around the office about Mitch hooking up with Darcie at the party, which he denies ever happened in order to protect his reputation.All does not go well, one of the fraternity members, an elderly man known only as \"Blue\" dies during his birthday celebration. Frank's wife asks for a divorce at Blue's funeral, forcing heartbroken Frank to live with Mitch in the fraternity. Mitch invites Nicole and her daughter to a birthday party for Bernard's son. However, she shows up with a date, Mark (Craig Kilborn). Mitch later accidentally catches Mark making out with one of the birthday hostesses in the bathroom but doesn't tell Nicole. To cover himself, Mark tells Nicole that he caught Mitch doing the dirty deed. This along with Mitch's secretiveness regarding the fraternity strains his relationship with Nicole, especially after asking her out for coffee and having the chef refuse his money and puts his meal on the house in order to show his support for the fraternity. Nicole becomes even more suspicious when the cook calls him \"The Godfather\" and to make things even more awkward for Mitch, Darcie and her friend walk by and say hello to Mitch, making Nicole think he is a cradle robber after they reveal they have to go to a prom committee meeting for their high school, leaving Nicole to walk away disgusted. The main obstacle is still Dean Pritchard, and when he claims the group violated an assortment of university policies, the fraternity house is boarded up. He also claims that the students who participated in the non-sanctioned fraternity are subject to expulsion. Nonetheless, Mitch finds out that the group has the right to bypass this legality by completing a series of activities that range from academics and athletics to community service, debate and school spirit. The men are able to complete all of the activities successfully but since the deceased member of the fraternity (Blue) was still on their roster, the groups averages were brought down to 58%. Consequently, Dean Pritchard tells them the university's decision stands.The Student Council President Megan Huang was bribed by the Dean to revoke the fraternity's charter. Frank is able to obtain a tape that reveals the Dean bribing Megan with admission to Columbia Law School (a promise the Dean happily broke when she confronted him after the school rejects her) since she is head of the student board that approved of the fraternity's campus status. Accordingly, the Deans credibility is destroyed. The front of the newspaper the next day claims that the Dean was fired after a bribery scandal. The fraternity's charter is reinstated and the fraternity's old house is replaced with Dean Pritchard's house. Nicole visits Mitch at the old fraternity house to mend their relationship, and it is implied that they get together. Despite Bernard and Mitch withdrawing from the fraternity, Frank maintains his ties and persists with his leadership in the organization.Over the closing credits, Mark drives his car off of a bridge and coincidentally onto ex-Dean Pritchard who was fishing below, prompting the car to explode. As the smoke from the wreckage rises into the air, an image appears of Blue in heaven playing a piano and singing \"Dust in the Wind\". Next Frank is shown at the college radio station 88.6 playing a song and dedicating it to the \"Godfather\" (Mitch) thanking him for saving his life. Later at the supermarket Frank is approached by Heidi, inviting him to join her and some other friends the next night. Frank becomes euphoric and punches several boxes of supermarket cereal before kicking a random stranger's cart."
+}

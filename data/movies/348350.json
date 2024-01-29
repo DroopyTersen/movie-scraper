@@ -1,0 +1,1731 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hDvk6O2vehwsZBdNsMSGmAVdiUn.jpg",
+  "id": 348350,
+  "title": "Solo: A Star Wars Story",
+  "poster_path": "https://image.tmdb.org/t/p/w500/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+  "release_date": "2018-05-15",
+  "vote_average": 6.562,
+  "vote_count": 8078,
+  "popularity": 43.222,
+  "overview": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+  "imdb_id": "tt3778644",
+  "budget": 250000000,
+  "homepage": "https://www.starwars.com/films/solo",
+  "revenue": 392952373,
+  "runtime": 135,
+  "tagline": "Never tell him the odds.",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "production_companies": [
+    "Lucasfilm Ltd.",
+    "Allison Shearmur Productions",
+    "Imagine Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Alden Ehrenreich",
+        "character": "Han Solo"
+      },
+      {
+        "name": "Joonas Suotamo",
+        "character": "Chewbacca"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Tobias Beckett"
+      },
+      {
+        "name": "Emilia Clarke",
+        "character": "Qi'ra"
+      },
+      {
+        "name": "Donald Glover",
+        "character": "Lando Calrissian"
+      },
+      {
+        "name": "Thandiwe Newton",
+        "character": "Val"
+      },
+      {
+        "name": "Phoebe Waller-Bridge",
+        "character": "L3-37"
+      },
+      {
+        "name": "Paul Bettany",
+        "character": "Dryden Vos"
+      },
+      {
+        "name": "Jon Favreau",
+        "character": "Rio Durant (voice)"
+      },
+      {
+        "name": "Erin Kellyman",
+        "character": "Enfys Nest"
+      },
+      {
+        "name": "Linda Hunt",
+        "character": "Lady Proxima (voice)"
+      },
+      {
+        "name": "Ian Kenny",
+        "character": "Rebolt"
+      },
+      {
+        "name": "John Tui",
+        "character": "Korso"
+      },
+      {
+        "name": "Anna Francolini",
+        "character": "Imperial Emigration Officer"
+      },
+      {
+        "name": "Andrew Woodall",
+        "character": "Imperial Recruitment Officer"
+      },
+      {
+        "name": "Warwick Davis",
+        "character": "Weazel"
+      },
+      {
+        "name": "Shaquille Ali-Yebuah",
+        "character": "Imperial Mudtrooper"
+      },
+      {
+        "name": "Eben Figueiredo",
+        "character": "Imperial Mudtrooper"
+      },
+      {
+        "name": "Aaron Heffernan",
+        "character": "Imperial Mudtrooper"
+      },
+      {
+        "name": "Hal Fowler",
+        "character": "Mimban Lieutenant"
+      },
+      {
+        "name": "Damian Farrell",
+        "character": "Mimban Guard"
+      },
+      {
+        "name": "Charlotte Louise",
+        "character": "Margo"
+      },
+      {
+        "name": "Sema-Tawi Smart",
+        "character": "Chanteuse"
+      },
+      {
+        "name": "Clint Howard",
+        "character": "Ralakili"
+      },
+      {
+        "name": "Dee Tails",
+        "character": "Quay Tolsite"
+      },
+      {
+        "name": "Attila Vajda",
+        "character": "Sagwa"
+      },
+      {
+        "name": "Anthony Daniels",
+        "character": "Tak"
+      },
+      {
+        "name": "Kiran Shah",
+        "character": "Karjj"
+      },
+      {
+        "name": "Fraser Kelly",
+        "character": "Eager Scrumrat"
+      },
+      {
+        "name": "Lily Newmark",
+        "character": "Lexi"
+      },
+      {
+        "name": "Jason Wong",
+        "character": "Weapons Check Enforcer"
+      },
+      {
+        "name": "Alice Hewkin",
+        "character": "Female Guest"
+      },
+      {
+        "name": "Samantha Colley",
+        "character": "Ottilie"
+      },
+      {
+        "name": "Robert Morgan",
+        "character": "Imperial Guest"
+      },
+      {
+        "name": "Miles Richardson",
+        "character": "Regional Governor"
+      },
+      {
+        "name": "Sammy Hayman",
+        "character": "Spaceport Father"
+      },
+      {
+        "name": "Rona Morison",
+        "character": "Spaceport Mother"
+      },
+      {
+        "name": "Dempsey Bovell",
+        "character": "Imperial Clerk"
+      },
+      {
+        "name": "Joseph Charles",
+        "character": "Savareen Air Traffic Controller"
+      },
+      {
+        "name": "Dave Chapman",
+        "character": "Rio Durant / Lady Proxima"
+      },
+      {
+        "name": "Katy Kartwheel",
+        "character": "Rio Durant"
+      },
+      {
+        "name": "Harley Durst",
+        "character": "Moloch"
+      },
+      {
+        "name": "Andrew Jack",
+        "character": "Moloch (voice)"
+      },
+      {
+        "name": "Sam Witwer",
+        "character": "Maul (voice)"
+      },
+      {
+        "name": "Ray Park",
+        "character": "Maul"
+      },
+      {
+        "name": "Toby Hefferman",
+        "character": "Bink Otauna (uncredited)"
+      },
+      {
+        "name": "Jonathan Kasdan",
+        "character": "Tag Greenley (uncredited)"
+      },
+      {
+        "name": "Richard Dixon",
+        "character": "Elite Citizen (uncredited)"
+      },
+      {
+        "name": "Deepak Anand",
+        "character": "Sheesha Smoking Guest (uncredited)"
+      },
+      {
+        "name": "Samantha Alleyne",
+        "character": "Mimban Trooper / Stormtrooper (uncredited)"
+      },
+      {
+        "name": "Juan Alonso",
+        "character": "Space Mine Control Room Droid (uncredited)"
+      },
+      {
+        "name": "Derek Arnold",
+        "character": "Argus Panox (uncredited)"
+      },
+      {
+        "name": "Belinda Chapple",
+        "character": "Drydens Guest (uncredited)"
+      },
+      {
+        "name": "Kristianne-Kaith Domingo",
+        "character": "Civilian Woman (uncredited)"
+      },
+      {
+        "name": "John Duggan",
+        "character": "Fisherman (uncredited)"
+      },
+      {
+        "name": "Jordan Dumaurier",
+        "character": "Mud Trooper (uncredited)"
+      },
+      {
+        "name": "Vikki Edwards",
+        "character": "Fisherwoman (uncredited)"
+      },
+      {
+        "name": "Marc Esse",
+        "character": "Imperial Officer (uncredited)"
+      },
+      {
+        "name": "Kristine Fernandez",
+        "character": "Slave (uncredited)"
+      },
+      {
+        "name": "James Filanowski",
+        "character": "Imperial Officer (uncredited)"
+      },
+      {
+        "name": "James Galvin",
+        "character": "Mud Trooper (uncredited)"
+      },
+      {
+        "name": "David Guerrero",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Juke Hardy",
+        "character": "Market Trader (uncredited)"
+      },
+      {
+        "name": "Sarah Sayuri Hare",
+        "character": "Space Bar Girl (uncredited)"
+      },
+      {
+        "name": "Ian Harrod",
+        "character": "Imperial Officer (uncredited)"
+      },
+      {
+        "name": "Philip Harvey",
+        "character": "Imperial Officer (uncredited)"
+      },
+      {
+        "name": "Robin Harvey",
+        "character": "Imperial Mudtrooper (uncredited)"
+      },
+      {
+        "name": "Marina Hayter",
+        "character": "Droid Arena Spectator (uncredited)"
+      },
+      {
+        "name": "Brian Herring",
+        "character": "Hirang Birren (uncredited)"
+      },
+      {
+        "name": "Robert Hladik",
+        "character": "Imperial Speeder Driver (uncredited)"
+      },
+      {
+        "name": "Van-Tien Hoang",
+        "character": "Moloch Henchman (uncredited)"
+      },
+      {
+        "name": "Kevin Hudson",
+        "character": "Mimban trooper (uncredited)"
+      },
+      {
+        "name": "Ty Hurley",
+        "character": "Imperial Fleet Trooper (uncredited)"
+      },
+      {
+        "name": "Sean James",
+        "character": "Henchman (uncredited)"
+      },
+      {
+        "name": "Tobias James-Samuels",
+        "character": "Stormtrooper (uncredited)"
+      },
+      {
+        "name": "Jackson Kai",
+        "character": "Elite Citizen (uncredited)"
+      },
+      {
+        "name": "John Kamau",
+        "character": "Savareen Miner (uncredited)"
+      },
+      {
+        "name": "Tyrone Kearns",
+        "character": "Gambler at Lodge (uncredited)"
+      },
+      {
+        "name": "Kamil Lemieszewski",
+        "character": "Dryden Skipper (uncredited)"
+      },
+      {
+        "name": "Jorge Leon Martinez",
+        "character": "Mud Trooper (uncredited)"
+      },
+      {
+        "name": "Chelsea Li",
+        "character": "Dryden's Yacht guest (uncredited)"
+      },
+      {
+        "name": "Chelsea Mather",
+        "character": "Rebel (uncredited)"
+      },
+      {
+        "name": "Obie Matthew",
+        "character": "Dryden Guest (uncredited)"
+      },
+      {
+        "name": "Kenny-Lee Mbanefo",
+        "character": "Squad Leader Mudtrooper (uncredited)"
+      },
+      {
+        "name": "Ashley McGuire",
+        "character": "Lodge Human Trainer (uncredited)"
+      },
+      {
+        "name": "Jacqueline Ramnarine",
+        "character": "Bar Patron (uncredited)"
+      },
+      {
+        "name": "Christina Richards",
+        "character": "Girl in Deadwood Den Watching (uncredited)"
+      },
+      {
+        "name": "Belal Sabir",
+        "character": "Fisherman (uncredited)"
+      },
+      {
+        "name": "Sarah-Stephanie",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Atul Sharma",
+        "character": "Dryden Guest (uncredited)"
+      },
+      {
+        "name": "Stephanie Silva",
+        "character": "Cloud-Rider Silvasu Fi (uncredited)"
+      },
+      {
+        "name": "Neil Alexander Smith",
+        "character": "Starcave Nebula Guard (uncredited)"
+      },
+      {
+        "name": "Clem So",
+        "character": "Dryden Guest (uncredited)"
+      },
+      {
+        "name": "Richard Stanley",
+        "character": "Cutthroat Hunter at Fort Ypso (uncredited)"
+      },
+      {
+        "name": "Karol Steele",
+        "character": "Slave (uncredited)"
+      },
+      {
+        "name": "A.k. Steppa",
+        "character": "Fort Ypso Vagrant (uncredited)"
+      },
+      {
+        "name": "Fran Targ",
+        "character": "Slave (uncredited)"
+      },
+      {
+        "name": "Steven F. Thompson",
+        "character": "Imperial Fleet Trooper (uncredited)"
+      },
+      {
+        "name": "Klemens Niklaus Trenkle",
+        "character": "Fort Ypso Bar Guest (uncredited)"
+      },
+      {
+        "name": "Jo Wheatley",
+        "character": "Fisherwoman (uncredited)"
+      },
+      {
+        "name": "Ray Whelan",
+        "character": "Marauder (uncredited)"
+      },
+      {
+        "name": "John Whitby",
+        "character": "Flight trooper (uncredited)"
+      },
+      {
+        "name": "Angela Yeoh",
+        "character": "Miner (uncredited)"
+      },
+      {
+        "name": "Mark Ryder",
+        "character": "Dryden's Guest (uncredited)"
+      },
+      {
+        "name": "Paul Davis",
+        "character": "Drill Wookiee Slave (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "George Lucas",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Kathleen Kennedy",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jeanne McCarthy",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Pietro Scalia",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Lawrence Kasdan",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Lawrence Kasdan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ron Howard",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Dee Selby",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Gary Tomkins",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Amanda Knight",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Damian Anderson",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "John Powell",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Chris Clarke",
+        "department": "Crew",
+        "job": "Animatronics Designer"
+      },
+      {
+        "name": "Richard Cetrone",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Nina Gold",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Fabio Massimo Dell'Orco",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Fabio Massimo Dell'Orco",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Jonathan Kasdan",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Jonathan Kasdan",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Joanie Croteau",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Matthew Wood",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Lisa Tomblin",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Phil Lord",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Rick Giovinazzo",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Miro Gábor",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Marco Valerio Pugini",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Bradley James Allan",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Bradley James Allan",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Christopher Miller",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Terri Douglas",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Nicole Abellara Hallman",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Allison Shearmur",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Bradford Young",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Mickey Facchinello",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jason McGatlin",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Simon Emanuel",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Simon Emanuel",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Tim Wooster",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Justin Doyle",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Sophie Roberts",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Mark Harris",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "David Acord",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Chris Grundy",
+        "department": "Crew",
+        "job": "Second Unit"
+      },
+      {
+        "name": "Emily Thomas",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "David Crossman",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Neil Lamont",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Tom Whitehead",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jamie Wilkinson",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Richard Bain",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Orin Beaton",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Robert Edwards",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Ashley Beck",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alex Baily",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Stephen Swain",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Peter Dorme",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Tom Weaving",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Perry Evans",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Susie Jones",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Robin Gerrard",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Tim Nielsen",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Tim Nielsen",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Hans Bjerno",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Heather Noble",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Federico Santangelo",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Sheila Waldron",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Chris Scarabosio",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Nigel Sumner",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Adam Dale",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Peter Wignall",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Stacy Mann",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "David Parker",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Laura Miles",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Nick Fulton",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Julian Foddy",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Ryan Rubin",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Roxanne Cuenca",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Peter Hawkins",
+        "department": "Crew",
+        "job": "Animatronics Designer"
+      },
+      {
+        "name": "Sharon Mansfield",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Oliver Loncraine",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Stefan Stankowski",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Stella Atkinson",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Francesca Crowder",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Laurence Johnson",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Celia Jepson",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Chris Lentz",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Neal Scanlan",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Jonathan Olley",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Andrea Carter",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Daire Glynn",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Christina Low",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Nikos Kalimerakis",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Randy Kerber",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Dominic Tuohy",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Ashley Lamont",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Andrew Palmer",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Vivienne Jones",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Liam Georgensen",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Jack Dolman",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Annabelle Le Gresley",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Tom Kemplen",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Steve Slanec",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Simon White",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Dominic Fysh",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Matt Shumway",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Randall Bahnsen",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "David E. Hall",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Oliver Carroll",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Marc Wolff",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Marc Wolff",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Andrew Richards",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Jake Marcuson",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Jamie Mills",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Emma Baker",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Andrew Kinney",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Louise Bertrand",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Joseph Kasparian",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "James Clyne",
+        "department": "Crew",
+        "job": "Visual Effects Art Director"
+      },
+      {
+        "name": "Martine Losier",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Karina Mariano",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Kiri Hart",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Susan Towner",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Susan Towner",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Glyn Dillon",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Stamos Triantafyllos",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "TJ Falls",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Alexandra Fahey",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "John Swartz",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "John Swartz",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Phil Eldridge",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Simon Bennett-Leyh",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Will Allegra",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Toby Hefferman",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Toby Hefferman",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Toby Hefferman",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Rob Bredow",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Rob Bredow",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Catherine Lecavalier",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Yanick Wilisky",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Lucia Foster Found",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Valter Sagrillo",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Waikit Wan",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Toby Plaskitt",
+        "department": "Camera",
+        "job": "Russian Arm Operator"
+      },
+      {
+        "name": "Ben Dixon",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Gary Hymns",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Jacob Wood",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Joey Coughlin",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Jonathan Marin Socas",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Sarah Lawrence",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Alicia Davies",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Pete Ford",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Adam Teeuw",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Oliver Roberts",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Harlon Haveland",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Teodora Ilie",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "name": "Tanner Scott",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Billy Dunn",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Adam Sculthorp",
+        "department": "Camera",
+        "job": "Aerial Camera"
+      },
+      {
+        "name": "Angus Benson-Blair",
+        "department": "Crew",
+        "job": "Drone Operator"
+      },
+      {
+        "name": "Patrick Harris",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Greg Kegel",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Joanna Campbell Lynch",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Janet Lewin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Ian Creed",
+        "department": "Crew",
+        "job": "Marine Coordinator"
+      },
+      {
+        "name": "Katharina Hofmann",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Kingsley Hoskins",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Maria Hippolyte",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Ashton Thomas",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Tommy Laurence",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Aaron Dunning",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Alex Bowens",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Zachary Gold",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Cat Corderoy",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Amy Elliot",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Gary Merrington",
+        "department": "Crew",
+        "job": "Animatronics Designer"
+      },
+      {
+        "name": "Gavin Dean",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Andrew Proctor",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Darren Tubby",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Dean Clements",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Simon Northcott",
+        "department": "Crew",
+        "job": "Animatronics Designer"
+      },
+      {
+        "name": "Paul Vincett",
+        "department": "Crew",
+        "job": "Animatronics Designer"
+      },
+      {
+        "name": "Giles Hannagan",
+        "department": "Crew",
+        "job": "Animatronics Designer"
+      },
+      {
+        "name": "Fiona Barnes",
+        "department": "Crew",
+        "job": "Animatronics Designer"
+      },
+      {
+        "name": "Sherri Hazzard",
+        "department": "Crew",
+        "job": "Animatronics Designer"
+      },
+      {
+        "name": "Alan Murphy",
+        "department": "Crew",
+        "job": "Animatronics Designer"
+      },
+      {
+        "name": "Joshua Lee",
+        "department": "Crew",
+        "job": "Animatronics Designer"
+      },
+      {
+        "name": "Lee Perkins",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Darren Miller",
+        "department": "Camera",
+        "job": "Aerial Camera"
+      },
+      {
+        "name": "Eve Walker",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Phoebe Allies",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Neil Murphy",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Patrick J. Barry",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Geoff Lawson",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Michael Corcoran",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Dan Camp",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Patrick Tubach",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Cecy Falls",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Daniel Tan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Chan Phui Yung",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Alexandra Henley",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Kelsey Davidson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "James Yeoman",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "François Lambert",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Michael Lee Taylor",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Marlon Beyer Rieger",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Matthew Kerly",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Pietro Gallo",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Robert Madden",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Sarah Lochlan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Clare Glass",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Scott Bunce",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Oscar Wright",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Andy Madden",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Jessica Hooker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Cockren",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "David Keadell",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Drew Payne",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Glen Carroll",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Zarene Dallas",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Gary Bunn",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Ben Quirk",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Tom Edmondson",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Thomas Bentley",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Karl Caffrey",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Stephanie Jolly",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Vanluke Watson",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Buddie Wilkinson",
+        "department": "Art",
+        "job": "Standby Property Master"
+      },
+      {
+        "name": "Allie C. Greene",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Donald E G Bentley",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "James J. Reid",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Andreas Wentz",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Nevio De Conti",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "name": "Beatriz Fluxa",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Jacopo Marras",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "name": "Juan Cano Nono",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Stephanie Peters",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Lori Emily Brown",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Manuel Díaz Herrero",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Aimee Hall",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "María Herrera Badía",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Catherine Laine",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Maria Moss",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Fintan O'Brien",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Benjamin Parry",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Óscar Santamaría",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Zoe Tough",
+        "department": "Crew",
+        "job": "Second Unit"
+      },
+      {
+        "name": "Danny Triphook",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Ashley Wild",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Tom Brown",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "name": "Steve Wright",
+        "department": "Crew",
+        "job": "Animatronics Designer"
+      },
+      {
+        "name": "Yung Lee",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Gabor Agoston",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Joe Watts",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "spacecraft",
+    "smuggling (contraband)",
+    "prequel",
+    "spin off",
+    "space opera"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Board the Millennium Falcon and journey to a galaxy far, far away in an epic action-adventure that will set the course of one of the Star Wars saga's most unlikely heroes.",
+    "With the emerging demand of hyperfuel and other resources, Han Solo finds himself in the middle of a heist alongside other criminals, where they meet the likes of Chewbacca and Lando Calrissian in an adventurous situation exposing the criminal underworld.",
+    "Before he crossed paths with The Rebellion, Han Solo was a former Imperial Militant who became a space pirate cruising around the Outer Rim alongside his fellow outlaw: the mighty Wookiee, Chewbacca. This is the story of how he came to be known as the galaxy's most notorious smuggler, and how the man became a legend.—Johnny",
+    "In the vast and tumultuous galaxy of \"Star Wars,\" a young and ambitious Han Solo finds himself on a path to becoming the iconic smuggler fans have come to know and love. The film takes us on a journey through Han's early years, where ambition, charm, and a touch of recklessness define his character. The story begins on the industrial planet of Corellia, where Han dreams of becoming a pilot and escaping his life of hardship. Alongside his love interest, Qi'ra, he makes a daring escape attempt, setting in motion a series of events that will shape his destiny. Through twists of fate, Han meets Chewbacca, the Wookiee who becomes his loyal co-pilot, and Lando Calrissian, the suave gambler with a flair for the dramatic. Together, they become involved in a high-stakes heist for a criminal syndicate, led by the enigmatic Tobias Beckett. The mission takes them across various landscapes, from the perilous spice mines of Kessel to the sophisticated world of Dryden Vos, the crime lord. Along the way, alliances are tested, friendships are forged, and Han's character is molded. The film delves into themes of identity, freedom, and the moral ambiguity of a galaxy ruled by power and greed. It's a coming-of-age tale that explores Han's transformation from a hopeful dreamer to the cynical but charismatic rogue.—Evan Almindo"
+  ],
+  "synopsis": "In this second 'Star Wars' stand-alone, spin-off film, it opens with the traditional \"A long time ago, in a galaxy far, far away.....\"Across the known galaxy during the early years of the First Galactic Empire, organized crime syndicates are running rampant due to rampant lawlessness on the mid and outer rim worlds since the fall of the Galactic Republic, forcing others to fight for survival. On the industrial ship-building planet Corellia, Lady Proxima (voice of Linda Hunt), leader of the White Worms gang, is after a hyperfuel known as coaxium. Meanwhile, one young man seeks a way out of Corellia for good.That man is Han (Alden Ehrenreich). After getting his hands on some coaxium, he meets with his girlfriend Qi'ra (Emilia Clarke) as they plan to escape. They are found by some of Proxima's minions and are taken to her, where she demands the coaxium. Han takes out a rock that he pretends is a thermal detonator and throws it at the walls to bring in sunlight, which Proxima and her species are allergic to. Han and Qi'ra run and evade the worms as they chase after them, managing to lose them after Han gets them through a tight spot in the wall with a stolen speeder, but they end up stuck and have to continue running on foot.At the nearby spaceport, Han and Qi'ra evade Imperial storm trooper guards and bring the coaxium to a female Imperial officer as a bribe to help them escape. They nearly make it to freedom until they are spotted by the worms again. Han is able to make it out, but Qi'ra is captured. Separated by a security gate, Han promises to find a way to get her out. Now on his own, Han decides to enlist as a pilot for the Empire. He speaks to a recruitment officer, and he asks Han his full name. When he can't give him a surname, and when the officer sees he is alone and has no family, he dubs him Han \"Solo\".The story jumps ahead three years...Han is fighting on the muddy, foggy planet Mimban as an Imperial infantryman -- he has since been kicked out of the Imperial Flight Academy for insubordination. Most of the fighters on his side are killed, but Han manages to find three thieves posing as fighters - Tobias Beckett (Woody Harrelson), his girlfriend Val (Thandie Newton), and the alien Rio Durant (voice of Jon Favreau). Fed up with constant conflicts, Han wants to join them after telling them he's a good pilot, but Beckett refuses to let him join, even after Han threatens to blackmail them. Beckett sets Han up to be arrested, lying to some Imperial officers. Han is taken by guards and thrown into a pit to be fed to a beast. The beast turns out to be the Wookie Chewbacca (Joonas Suotamo). He attacks Han, but when Han reveals he can speak the Wookie language, they decide to work together to break out. Han uses Chewie to break the beam that's keeping them bound together, collapsing the ceiling and spilling the two guards that threw Han into the pit down to the floor. The two escape and see Beckett, Val, and Rio leaving on a ship, hoping to have caught a ride. Rio manages to convince Beckett to bring the two on-board since the immensely strong Chewie could work well as extra muscle.The crew rests for the night on the snow-covered planet Vandor before their upcoming job. As they sit around a campfire, Val figures that Han has joined them for a girl. Beckett tells Han that they are trying to steal a large amount of coaxium from a train for the people they work for. Beckett disassembles a DL-44 blaster rifle he's brought with him, stripping it down into a pistol that he gives to Han.The next day, the crew spots the train and they go in for the heist. They find the coaxium, but they are attacked by a gang of Cloud Riders. The crew fights them off, but Rio is shot as he flies the ship overhead, forcing Han to pilot the ship. Rio then succumbs to his wounds. Val is at the end of the tracks just over a cliff where the Cloud Riders ambush her. To ensure they don't get the others or the coaxium, she blows herself up with the tracks, causing the train to plummet to the ground. Han also ends up dropping the coaxium, realizing that the craft isn't powerful enough to yank it away from the Cloud Riders. The coaxium explodes, collapsing a big portion of the mountain.Beckett leaves memorials for Rio and Val, and he punches Han in the face for ruining the mission. They were supposed to deliver the coaxium to a criminal named Dryden Vos (Paul Bettany), leader of the Crimson Dawn syndicate. Without the coaxium, Beckett fears Dryden will kill him. Han offers himself and Chewie to help Beckett find another stash of coaxium and reach a new deal with Dryden. Beckett reluctantly agrees to let Han and Chewie come along.The three travel to Dryden's huge, luxurious ship docked nearby. While attending a lavish party, Han spots Qi'ra, who has been working for Dryden for the last couple of years. After the ruthless Dryden kills the regional governor in his private room, he steps outside to speak to Beckett and meet Han and Chewie. After discussing what happened with the coaxium, Han suggests that they steal unprocessed coaxium from the mines on the planet Kessel. Dryden has Qi'ra join them. The danger is that unprocessed coaxium is highly unstable and must be taken to a refining facility quickly before it explodes.In order to get a ship to travel to Kessel, Qi'ra brings the three to meet the charming smuggler Lando Calrissian (Donald Glover) as he is playing a card game of Sabaac against other alien pilots. Han challenges Lando to a game, where the winner gets the other's ship. Han appears to poised to win, until Lando cheats, using a card hidden in his sleeve to outmatch him. Still, Lando joins Han and the others on their mission for the potential profits that would follow. They stop to get Lando's droid friend, L3-37 (voice of Phoebe Waller-Bridge), who is watching a fight between other droids and is upset to see that they are used like gladiatorial slaves. Lando brings them to his ship, the Millennium Falcon, and they take off for the mining planet of Kessel.The team arrives on Kessel and heads toward the mines, having to navigate the large, stormy cloud that surrounds the planet. L3 initiates a riot by freeing captive droids, which allows the others to find the coaxium and take it. At the same time, Chewie spots imprisoned Wookiees, and Han allows him to go and free them. An all-out battle begins as the team tries to escape, only to be shot at by the creatures. L3 is blasted, and Lando runs in to save her, losing her lower half, and he is wounded trying to take her back to the Falcon. The team gets the coaxium on-board and they fly away, where L3 dies in Lando's arms. As the team flies out, they are found by an Imperial star destroyer blockade that sends out TIE fighters to attack. With Lando injured, Han must pilot the Falcon to evade the TIE fighters and make it through the Maw, a cluster of black holes. They are attacked by an enormous space monster that tries to devour them. Han must then do a \"Kessel Run\", but Lando points out nobody can do it in less than 20 parsecs. Using a piece of L3's machinery to navigate the ship, they find themselves being sucked toward a black hole, which the space monster falls victim to as it is ripped apart. Han then has Beckett use a small dose of coaxium to boost the Falcon out of danger. It works and they fly out, and Han is able to brag that he made the Kessel Run in 12 parsecs.The team is set to meet with Dryden on the planet Savareen, where they plan to process the coaxium at a disused refinery. The group are soon found by the Cloud Riders. Han tries to bluff them, saying he has a small unit of soldiers waiting aboard the Falcon. The ruse fails when Lando flies off in the Falcon. Beckett believes the Riders are a bunch of marauders, until their leader, a teenage girl named Enfys Nest (Erin Kellyman), reveals herself and says they only want to keep the coaxium out of Crimson Dawn's hands. A resistance is building in opposition to the Galactic Empire and Nest wants the coaxium to use in the fight.Han, Qi'ra, and Chewie bring the coaxium to Dryden who's ship lands nearby. When he sees a sample, he says that it is fake. It turns out Beckett was his inside man, and he told Dryden that Han had been planning to sell the coaxium to the Cloud Riders. However, Han reveals he took a page out of Beckett's book and anticipated that Beckett would betray them. The coaxium in the room is real, and the Cloud Riders have nothing. Beckett takes Chewie hostage, along with the coaxium. Dryden fights Han and Qi'ra, ending with Qi'ra overpowering Dryden and stabbing him through the heart with his own blade. Qi'ra tells Han to go after the coaxium and to save Chewie, and she will join them soon.Han catches up to Beckett. Beckett attempts to talk his way out of the situation and draws his gun, but Han shoots first and kills Beckett. Meanwhile, Qi'ra contacts her true boss... a shadowy figure who reveals himself to be Darth Maul (Ray Park). She tells him of the mission's failure, and he assigns her to Dryden's former position. She leaves on Dryden's ship, passing over Han and Chewie. She looks over to him, and he looks back.Han gives the coaxium to Enfys and her team. She offers him a chance to join them, but he declines. Enfys leaves Han and Chewie with a vial of coaxium for themselves.Han finds Lando and challenges him to another game of Sabaac, only this time, he manages to swipe Lando's cheat card from him before the match. Han wins fairly, and he gets the Falcon. Along with Chewie, they decide to head to Tatooine after Beckett had mentioned a gangster (Jabba The Hutt) putting together a crew for another mission. Han then puts the Falcon into hyperspace as they take off."
+}

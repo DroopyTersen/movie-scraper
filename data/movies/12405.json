@@ -1,0 +1,746 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg",
+  "id": 12405,
+  "title": "Slumdog Millionaire",
+  "poster_path": "https://image.tmdb.org/t/p/w500/c6w9WarTTjbOhFFeAuiQ4Q3TRXK.jpg",
+  "release_date": "2008-11-12",
+  "vote_average": 7.732,
+  "vote_count": 10115,
+  "popularity": 35.357,
+  "overview": "A teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\".",
+  "imdb_id": "tt1010048",
+  "budget": 15000000,
+  "homepage": "http://www.foxsearchlight.com/slumdogmillionaire",
+  "revenue": 378400000,
+  "runtime": 120,
+  "tagline": "What does it take to find a lost love?",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Celador Films",
+    "Film4 Productions"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Dev Patel",
+        "character": "Older Jamal"
+      },
+      {
+        "name": "Freida Pinto",
+        "character": "Older Latika"
+      },
+      {
+        "name": "Madhur Mittal",
+        "character": "Older Salim"
+      },
+      {
+        "name": "Anil Kapoor",
+        "character": "Prem"
+      },
+      {
+        "name": "Mahesh Manjrekar",
+        "character": "Javed"
+      },
+      {
+        "name": "Saurabh Shukla",
+        "character": "Sergeant Srinivas"
+      },
+      {
+        "name": "Irrfan Khan",
+        "character": "Police Inspector"
+      },
+      {
+        "name": "Ankur Vikal",
+        "character": "Maman"
+      },
+      {
+        "name": "Tanay Chheda",
+        "character": "Middle Jamal"
+      },
+      {
+        "name": "Ayush Mahesh Khedekar",
+        "character": "Youngest Jamal"
+      },
+      {
+        "name": "Ashutosh Lobo Gajiwala",
+        "character": "Middle Salim"
+      },
+      {
+        "name": "Azharuddin Mohammed Ismail",
+        "character": "Youngest Salim"
+      },
+      {
+        "name": "Tanvi Ganesh Lonkar",
+        "character": "Middle Latika"
+      },
+      {
+        "name": "Rubina Ali",
+        "character": "Youngest Latika"
+      },
+      {
+        "name": "Raj Zutshi",
+        "character": "Director"
+      },
+      {
+        "name": "Jeneva Talwar",
+        "character": "Vision Mixer"
+      },
+      {
+        "name": "Sharib Hashmi",
+        "character": "Prakash"
+      },
+      {
+        "name": "Mia Drake",
+        "character": "Adele"
+      },
+      {
+        "name": "Shruti Seth",
+        "character": "Call Centre Instructor"
+      },
+      {
+        "name": "Anjum Sharma",
+        "character": "Operator"
+      },
+      {
+        "name": "Jira Banjara",
+        "character": "Airport Security Guard"
+      },
+      {
+        "name": "Sheikh Wali",
+        "character": "Airport Security Guard"
+      },
+      {
+        "name": "Sanchita Choudhary",
+        "character": "Jamal's Mother"
+      },
+      {
+        "name": "Himanshu Tyagi",
+        "character": "Mr Nanda"
+      },
+      {
+        "name": "Virendra Chatterjee",
+        "character": "Slum Man"
+      },
+      {
+        "name": "Feroze Khan",
+        "character": "Amitabh Bachchan"
+      },
+      {
+        "name": "Sunil Kumar Agrawal",
+        "character": "Mr Chi"
+      },
+      {
+        "name": "Virender Kumar",
+        "character": "Man on Fire"
+      },
+      {
+        "name": "Devesh Rawal",
+        "character": "Blue Boy"
+      },
+      {
+        "name": "Tiger",
+        "character": "Punnoose"
+      },
+      {
+        "name": "Chirag Parmar",
+        "character": "Young Arvind"
+      },
+      {
+        "name": "Nazneen Shaikh",
+        "character": "Baby"
+      },
+      {
+        "name": "Farzana Ansari",
+        "character": "Latika's Friend"
+      },
+      {
+        "name": "Anupam Shyam",
+        "character": "Old Villager"
+      },
+      {
+        "name": "Salim Chaus",
+        "character": "Ticket Collector"
+      },
+      {
+        "name": "Harvinder Kaur",
+        "character": "Family in Train"
+      },
+      {
+        "name": "Narendra Singh Bhati",
+        "character": "Family in Train"
+      },
+      {
+        "name": "Satya Mudgal",
+        "character": "Taj Mahal Guide"
+      },
+      {
+        "name": "Janet de Vigne",
+        "character": "Ada / Mrs MacKintosh"
+      },
+      {
+        "name": "William Relton",
+        "character": "Peter"
+      },
+      {
+        "name": "David Gilliam",
+        "character": "Clark"
+      },
+      {
+        "name": "Kinder Singh",
+        "character": "Driver"
+      },
+      {
+        "name": "Christine Matovich Singh",
+        "character": "Opera Singer"
+      },
+      {
+        "name": "Thomas Lehmkuhl",
+        "character": "Opera Singer"
+      },
+      {
+        "name": "Siddesh Patil",
+        "character": "Older Arvind"
+      },
+      {
+        "name": "Najma Shaikh",
+        "character": "Woman at Brothel"
+      },
+      {
+        "name": "Saeeda Shaikh",
+        "character": "Woman at Brothel"
+      },
+      {
+        "name": "Alka Satpute",
+        "character": "Woman at Brothel"
+      },
+      {
+        "name": "Tabassum Khan",
+        "character": "Woman at Brothel"
+      },
+      {
+        "name": "Sitaram Panchal",
+        "character": "Dance Teacher"
+      },
+      {
+        "name": "Nigel Caesar",
+        "character": "Hotel Security Guard"
+      },
+      {
+        "name": "Ajit Pandey",
+        "character": "Javed's Goon"
+      },
+      {
+        "name": "Kedar Thapar",
+        "character": "Javed's Goon"
+      },
+      {
+        "name": "Amit Leonard",
+        "character": "Javed's Goon"
+      },
+      {
+        "name": "Rajesh Kumar",
+        "character": "Javed's Goon"
+      },
+      {
+        "name": "Sagar Ghopalkar",
+        "character": "Javed's Goon"
+      },
+      {
+        "name": "Pradeep Solanki",
+        "character": "Javed's Goon"
+      },
+      {
+        "name": "Abdul Hamid Shaikh",
+        "character": "Javed's Goon"
+      },
+      {
+        "name": "Dheeraj Waghela",
+        "character": "Javed's Goon"
+      },
+      {
+        "name": "Arfi Lamba",
+        "character": "Bardi"
+      },
+      {
+        "name": "Taira Colah",
+        "character": "Nasreen"
+      },
+      {
+        "name": "Varun Bagri",
+        "character": "Call Centre Trainee"
+      },
+      {
+        "name": "Ankur Tewari",
+        "character": "Dave"
+      },
+      {
+        "name": "Sarfaraz Khan",
+        "character": "Autorickshaw Driver"
+      },
+      {
+        "name": "Syed Fazal Hussain",
+        "character": "Autorickshaw Driver"
+      },
+      {
+        "name": "Umar Khan",
+        "character": "Autorickshaw Driver"
+      },
+      {
+        "name": "Imran Hasnee",
+        "character": "Javed's House Doorkeeper"
+      },
+      {
+        "name": "Homai Billimoria",
+        "character": "KBC Contestant"
+      },
+      {
+        "name": "Udayan Baijal",
+        "character": "Cricket Commentator"
+      },
+      {
+        "name": "Sandeep Kaul",
+        "character": "Floor Manager"
+      },
+      {
+        "name": "Rufee Ahmed",
+        "character": "Double for Irrfan Khan"
+      },
+      {
+        "name": "Rhea Lawyer",
+        "character": "TV Reporter"
+      },
+      {
+        "name": "Deepali Dalvi",
+        "character": "Dancer at Javed's Safehouse"
+      },
+      {
+        "name": "Anisha Nagar",
+        "character": "Dancer at Javed's Safehouse"
+      },
+      {
+        "name": "Farrah Shaikh",
+        "character": "Dancer at Javed's Safehouse"
+      },
+      {
+        "name": "Mamta Sharma",
+        "character": "Dancer at Javed's Safehouse"
+      },
+      {
+        "name": "Neha M. Khatarawalla",
+        "character": "Dancer at Javed's Safehouse"
+      },
+      {
+        "name": "Tanya Singh",
+        "character": "Newsreader"
+      },
+      {
+        "name": "Anand Tiwari",
+        "character": "Newsreader"
+      },
+      {
+        "name": "Faezeh Jalali",
+        "character": "Newsreader"
+      },
+      {
+        "name": "Meghana Jhalani",
+        "character": "Newsreader"
+      },
+      {
+        "name": "Rupali Mehra",
+        "character": "Newsreader"
+      },
+      {
+        "name": "Anju Singh",
+        "character": "Newsreader"
+      },
+      {
+        "name": "Saurabh Agarwal",
+        "character": "Call Centre Manager"
+      },
+      {
+        "name": "Mark Boucher",
+        "character": "Self - South African Cricketer (archive footage)"
+      },
+      {
+        "name": "Andre Nel",
+        "character": "Self - South African Cricketer (archive footage)"
+      },
+      {
+        "name": "Yuvraj Singh",
+        "character": "Self - Indian Cricketer (archive footage)"
+      },
+      {
+        "name": "Sachin Tendulkar",
+        "character": "Self - Indian Cricketer (archive footage)"
+      },
+      {
+        "name": "Amitabh Bachchan",
+        "character": "Self (archive footage) (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Anthony Dod Mantle",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Danny Boyle",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Gail Stevens",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "A. R. Rahman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Loveleen Tandan",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Loveleen Tandan",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "name": "Chris Dickens",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Glenn Freemantle",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Glenn Freemantle",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Tom Sayers",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Gillian Dodders",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Lee Herrick",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Ben Barker",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Richard Pryke",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Mark Digby",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Michelle Day",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Stefan Ciupek",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Christian Colson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Simon Beaufoy",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Gulzar",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "name": "Suttirat Anne Larlarb",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Catriona Richardson",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "M.I.A.",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Kelly Valentine Hendry",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Ivana MacKinnon",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Thomas Neivelt",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Resul Pookutty",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Niv Adiri",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Niv Adiri",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Roberto Cappannelli",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jack Stew",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Ricky Butt",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Ian Tapp",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Collette Nunes",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Becky Roberts",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Adam Gascoyne",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Mulchand Dedhia",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Matthew Bristowe",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Begoña Lopez",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Telfer Barnes",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Prashant Vichare",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Natasha Nischol",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Virginia Holmes",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Vikas Swarup",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Abhishek Redkar",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Ravi Srivastava",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Manoj N. Bhoyar",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Wahid Shaikh",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Shivananda R. Mohili",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Roma O'Connor",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Tom Kemplen",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Mrinal Desai",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Sunil Khandpur",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Ishika Mohan Motwane",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Kevin Nunes",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Vishal Jain",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "G. Monic Kumar",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Riyaz Ali Merchant",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Nuvendra Singh",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Vishal Tyagi",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Vijay Kumar",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "name": "Thomas Dodgson",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "name": "Kamlesh U. Shinde",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ejaz Shalkh",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Matt Curtis",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Paul Smith",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "slum",
+    "cheating",
+    "suspicion",
+    "mumbai (bombay), india",
+    "game show",
+    "quiz",
+    "orphan",
+    "duringcreditsstinger",
+    "taj mahal, india"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\"",
+    "The story of Jamal Malik, an 18 year-old orphan from the slums of Mumbai, who is about to experience the biggest day of his life. With the whole nation watching, he is just one question away from winning a staggering 20 million rupees on India's Kaun Banega Crorepati? (2000) (Who Wants To Be A Millionaire?) But when the show breaks for the night, police arrest him on suspicion of cheating; how could a street kid know so much? Desperate to prove his innocence, Jamal tells the story of his life in the slum where he and his brother grew up, of their adventures together on the road, of vicious encounters with local gangs, and of Latika, the girl he loved and lost. Each chapter of his story reveals the key to the answer to one of the game show's questions. Each chapter of Jamal's increasingly layered story reveals where he learned the answers to the show's seemingly impossible quizzes. But one question remains a mystery: what is this young man with no apparent desire for riches really doing on the game show? When the new day dawns and Jamal returns to answer the final question, the Inspector and sixty million viewers are about to find out. At the heart of its storytelling lies the question of how anyone comes to know the things they know about life and love.—Fox Searchlight Pictures",
+    "Jamal and his brother Salim were raised in the slums of Mumbai. Orphaned at a young age, they managed to survive as did their young friend Latika. Jamal becomes a contestant on India's version of Who Wants To Be A Millionnaire. He manages to get to 10 million rupees in his first appearance but is arrested by the police who want to know how an illiterate 'slumdog' - as children raised in the slum are called - could possibly know all of those answers without cheating. He explains how specific events in his life taught him the answers and all he can say that being asked questions to which he knows the answers is simply fate. He hopes that fate will give at least one more good turn as he had a very specific reason for going on the show in the first place.—garykmcd",
+    "A young male is accused of cheating on a game show. It turns out that he reflects on his life to find all the correct answers that he needs to win. As he looks back on his life, he discovers that he is truly in love with a young female friends who has always been by his side.—RECB3",
+    "Eighteen year old Jamal Malik is having an amazing answering streak on Kaun Banega Crorepati? (2000), the Indian version of the television game show Who Wants to Be a Millionaire (1998). He's only one correct question away from the big prize. However, some, including those associated with the game show, question how someone like Jamal, a self confessed non-genius who grew up in the slums of Mumbai, can be doing so well on the show when others who are brighter, more educated and wealthier than him have failed. Is Jamal cheating? Is it purely luck that they have asked him the questions to which he knows the answers? Seeing Jamal's life journey to this point ultimately answers these questions. His life journey includes being orphaned at an early age; growing up with an older brother, Salim, who was both his guardian/protector and antagonist; and having a relationship since childhood with another orphaned child, a girl named Latika. His motivation for being on the show also may provide some answers to his success. Perhaps it was all just meant to be.—Huggo"
+  ],
+  "synopsis": "In 2006, eighteen-year-old Jamal Malik (Dev Patel), an Indian Muslim from the Juhu slum of Mumbai, is a contestant on Kaun Banega Crorepati. Before answering the final Rs 20 million question, he is detained and tortured by the police constable Srinivas (Saurabh Shukla), who suspect him of cheating. Inspector suspects Jamal of having used a microchip under the skin, and even gives him electric shocks to get him to confess.\nThe inspector says that educated professionals cannot get beyond Rs 16,000 on the show, and yet a tea supplier to a call center is sitting at Rs 10 million.\nThrough a series of flashbacks, Jamal recounts the incidents in his life that provided him with each answer.Jamal lives in the slum of Dharavi with his brother Salim and his mother.\nAt five years old, Jamal obtains the autograph of Bollywood star Amitabh Bachchan after jumping into a cesspit. Jamal's elder brother Salim (Madhur Mittal) later sells the autograph. Thats how he knew that Amitabh was the star in the 1973 film Zanzeer.\nHe used audience poll to find the answer to what written under the national emblem of the 3 lions.\nTheir mother (Sanchita Choudhary) is killed during the Bombay riots. While fleeing the riot, the brothers briefly encounter a child dressed up as Rama, with a bow and arrow in their right hand.Having escaped their riots and taking shelter from the rain, the brothers meet Latika (Freida Pinto), a girl from their slum. Salim is reluctant to take her in, but Jamal suggests that she could be their \"third musketeer\", a reference to the Alexandre Dumas novel The Three Musketeers which the brothers had learned about in school. The brothers refer to themselves as Athos and Porthos but do not know the third musketeer's name, as that was never taught in their class.The next question is which poet wrote the poem \"Darshan Do Ghanshyam\".The three children are found by Maman (Ankur Vikal)-a gangster who trains street children to become beggars. After learning that Maman is blinding the children to make them more effective beggars, Salim escapes with Jamal and Latika. The blind kids are taught the song \"Darshan Do Ghansyam\" to evoke sympathy.\nThe brothers successfully board a moving train, but Latika is unable to keep up. Salim grabs her hand but purposefully let's go, leaving her to be recaptured by Maman.For the next few years, Salim and Jamal travel on top of trains, making a living by selling goods, pick-pocketing, washing dishes, and pretending to be tour guides at the Taj Mahal. They scam unsuspecting tourists, sometime stealing entire cars while Jamal pretends to take them to tour the largest Dhobi Ghat in the entire world. The tourists would invariably pay him in US dollars.\nThey sneak into open air theaters to see Dante's plays being enacted by the local theatre groups.The next question is: who the states person on the US 100 Dollar bill is.At Jamal's insistence, they return to Mumbai to find Latika and discover that Maman is raising her to be a prostitute. Jamal met a fellow beggar named Arvind at Juhu beach and given him a 100-dollar bill as gift. Arvind told him that the bill had Benajmin Franklin's picture on the back. Arvind also tells Jamal where to find Latika.\nThe brothers rescue her, Salim shooting Maman dead with a revolver. Salim gets a job with Javed (Mahesh Manjrekar)-a rival crime lord. In their room, Salim orders Jamal to leave him alone with Latika, presumably to sexually assault her. When Jamal refuses, Salim draws a gun on him, and Latika persuades Jamal to leave.The next question is: who invented the revolver.Years later, Jamal, now working as a Chaiwallah in a call center, learns that Salim is a high-ranking lieutenant in Javed's crime organization. At the call center Jamal learns everything about British pop culture. Jamal uses the call center software to find Salim's number.The next question is: Cambridge Circus is in which UK city.\nJamal confronts Salim, who pleads for forgiveness. Jamal follows Salim to find Javed's residence. He then sneaks into Javed's residence and reunites with Latika. Latika was now Javed's mistress. Latika is a fan of Kaun Banega Crorepati, while Javed loves cricket.\nAlthough he professes his love for her, she tells him to forget her. Despite the refusal, Jamal promises that he will wait for her every day at five o'clock at Victoria Terminus.\nAttempting to meet him there, Latika is captured by Javed's men, led by Salim. They scar her face while driving away. Jamal loses contact with Latika and in a final attempt to reach her, he becomes a contestant on Kaun Banega Crorepati, knowing she watches the show.Jamal plays extremely well and becomes popular across India, much to the dismay of the show's host, Prem Kumar (Anil Kapoor). Kumar attempts to trick Jamal by feeding him the wrong answer to the penultimate question, who scored the most first-class centuries in history.\nJamal uses a 50:50 lifeline in which the option fed by Prem is not eliminated. Jamal guesses and answers correctly, raising suspicion of him cheating.When the episode ends with the last question remaining, Jamal is arrested. After an initial beating, the police inspector (Irrfan Khan) listens to his explanation of how he knew each answer. The officer believes Jamal and allows him to return to the show. Latika sees that Jamal was arrested on the news. Feeling guilty about his past behavior, Salim gives Latika his phone and car keys, asking her to forgive him. After Latika leaves, Salim fills a bathtub with money and sits in it, waiting for Javed to realize what happened.For the final question, Jamal is asked the name of the third musketeer. Jamal admits to not knowing the answer and uses his \"Phone-A-Friend\" lifeline to call Salim because it is the only phone number he knows. Latika answers and tells Jamal that she is safe but does not know the answer. Javed hears Latika on the show and realizes that Salim betrayed him. He and his men break down the bathroom door. Salim kills Javed before being shot and killed by the gang. Relieved about Latika, Jamal guesses and picks the first answer, Aramis. He is correct and wins the grand prize. Jamal and Latika meet on the platform at the train station and kiss."
+}

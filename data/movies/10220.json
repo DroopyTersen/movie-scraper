@@ -1,0 +1,634 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/xadKyApLtw09dkl1GlzZ2XTSQrc.jpg",
+  "id": 10220,
+  "title": "Rounders",
+  "poster_path": "https://image.tmdb.org/t/p/w500/7JfFYnOLWi2X4TZXJ7qQ7xO1D2x.jpg",
+  "release_date": "1998-09-11",
+  "vote_average": 7.012,
+  "vote_count": 1610,
+  "popularity": 26.502,
+  "overview": "A young reformed gambler must return to playing big stakes poker to help a friend pay off loan sharks.",
+  "imdb_id": "tt0128442",
+  "budget": 12000000,
+  "homepage": "",
+  "revenue": 22900000,
+  "runtime": 121,
+  "tagline": "Trust everyone... But always cut the cards.",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "production_companies": [
+    "Miramax",
+    "Spanky Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Matt Damon",
+        "character": "Mike McDermott"
+      },
+      {
+        "name": "Edward Norton",
+        "character": "Lester 'Worm' Murphy"
+      },
+      {
+        "name": "John Turturro",
+        "character": "Joey Knish"
+      },
+      {
+        "name": "Gretchen Mol",
+        "character": "Jo"
+      },
+      {
+        "name": "John Malkovich",
+        "character": "Teddy KGB"
+      },
+      {
+        "name": "Famke Janssen",
+        "character": "Petra"
+      },
+      {
+        "name": "Martin Landau",
+        "character": "Abe Petrovsky"
+      },
+      {
+        "name": "Michael Rispoli",
+        "character": "Grama"
+      },
+      {
+        "name": "Goran Visnjic",
+        "character": "Maurice"
+      },
+      {
+        "name": "Mal Z. Lawrence",
+        "character": "Irving"
+      },
+      {
+        "name": "Paul Cicero",
+        "character": "Russian Thug"
+      },
+      {
+        "name": "Ray Iannicelli",
+        "character": "Kenny"
+      },
+      {
+        "name": "Merwin Goldsmith",
+        "character": "Sy"
+      },
+      {
+        "name": "Sonny Zito",
+        "character": "Tony"
+      },
+      {
+        "name": "Josh Mostel",
+        "character": "Zagosh"
+      },
+      {
+        "name": "Lenny Clarke",
+        "character": "Savino"
+      },
+      {
+        "name": "Peter Yoshida",
+        "character": "Henry Lin"
+      },
+      {
+        "name": "Jay Boryea",
+        "character": "Russian Thug #2"
+      },
+      {
+        "name": "Lenny Venito",
+        "character": "Moogie"
+      },
+      {
+        "name": "Richard Mawe",
+        "character": "Professor Eisen"
+      },
+      {
+        "name": "Michael Lombardi",
+        "character": "D.A. Shields"
+      },
+      {
+        "name": "Tom Aldredge",
+        "character": "Judge Marinacci"
+      },
+      {
+        "name": "Beeson Carroll",
+        "character": "Judge Kaplan"
+      },
+      {
+        "name": "E. Matthew Yavne",
+        "character": "Professor Green"
+      },
+      {
+        "name": "Erik LaRay Harvey",
+        "character": "Roy"
+      },
+      {
+        "name": "Dominic Marcus",
+        "character": "Dowling"
+      },
+      {
+        "name": "Brian Anthony Wilson",
+        "character": "Derald"
+      },
+      {
+        "name": "George Kmeck",
+        "character": "Prison Guard"
+      },
+      {
+        "name": "Joseph Parisi",
+        "character": "Property Guard"
+      },
+      {
+        "name": "Melina Kanakaredes",
+        "character": "Barbara"
+      },
+      {
+        "name": "Kohl Sudduth",
+        "character": "Wagner"
+      },
+      {
+        "name": "Charlie Matthes",
+        "character": "Birch"
+      },
+      {
+        "name": "Hank Jacobs",
+        "character": "Steiny"
+      },
+      {
+        "name": "Chris Messina",
+        "character": "Higgins"
+      },
+      {
+        "name": "Michael Ryan Segal",
+        "character": "Griggs"
+      },
+      {
+        "name": "Kerry O'Malley",
+        "character": "Kelly"
+      },
+      {
+        "name": "Slava Schoot",
+        "character": "Roman"
+      },
+      {
+        "name": "Michele Zanes",
+        "character": "Taj Dealer"
+      },
+      {
+        "name": "Allan Havey",
+        "character": "Guberman"
+      },
+      {
+        "name": "Joey Vega",
+        "character": "Freddy Face"
+      },
+      {
+        "name": "Neal Hemphill",
+        "character": "Claude"
+      },
+      {
+        "name": "Vernon E. Jordan Jr.",
+        "character": "Judge McKinnon"
+      },
+      {
+        "name": "Johnny Chan",
+        "character": "Johnny Chan"
+      },
+      {
+        "name": "Lisa Gorlitsky",
+        "character": "Sherry"
+      },
+      {
+        "name": "John Di Benedetto",
+        "character": "LaRossa"
+      },
+      {
+        "name": "Nicole Brier",
+        "character": "Sunshine"
+      },
+      {
+        "name": "Tony Hoty",
+        "character": "Taki"
+      },
+      {
+        "name": "Mario Mendoza",
+        "character": "Zizzo"
+      },
+      {
+        "name": "Joe Zaloom",
+        "character": "Cronos"
+      },
+      {
+        "name": "Sal Richards",
+        "character": "Johnny Gold"
+      },
+      {
+        "name": "Josh Pais",
+        "character": "Weitz"
+      },
+      {
+        "name": "Adam LeFevre",
+        "character": "Sean Frye"
+      },
+      {
+        "name": "P.J. Brown",
+        "character": "Vitter"
+      },
+      {
+        "name": "David Zayas",
+        "character": "Osborne"
+      },
+      {
+        "name": "Michael Arkin",
+        "character": "Bear"
+      },
+      {
+        "name": "Murphy Guyer",
+        "character": "Detweiler"
+      },
+      {
+        "name": "Alan Davidson",
+        "character": "Cabbie"
+      },
+      {
+        "name": "Bill Camp",
+        "character": "Eisenberg"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Avy Kaufman",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Bobby Cohen",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Bob Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Harvey Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Brian Koppelman",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "David Levien",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Jean-Yves Escoffier",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Christopher Young",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Zane D. Bruce",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Terry Dresbach",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "John Dahl",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Robert Pearson",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Randall Poster",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Ted Demme",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tracy Falco",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Joel Stillerman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kerry Orent",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Scott Chestnut",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Beth Kushnick",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Andrew Schmetterling",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Bruce Stubblefield",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Chris David",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jeffrey Perkins",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Rick Butler",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Trip Brock",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Leo Holder",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Ben Wilkins",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Margo Myers",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Rita Ogden",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Christopher Goode",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Christopher Goode",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Val Kuklowsky",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Scott H. Ramsey",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Peter Leto",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Christopher Swartout",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Jery Hewitt",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Tanya Noel Hill",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Robert Hackl",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Nick Miller",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Robert Troy",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Miguel Rivera",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Joseph T. Sabella",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "John Clifford",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Jon Johnson",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "name": "Ryan Murphy",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Carla White",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Cara Leibovitz",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Lynn Lewis Lovett",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Victor DeNicola",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Amanda Scheer-Demme",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Emily Loreto",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Nina Jack",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Lara Kelly",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Michael Chandler",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Mark Weingarten",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Mike Stanwick",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Mark Goodermote",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Robert Dawson",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Anthony Veader",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Gary Martone",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Ron Stone",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Gary Burritt",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Cindy Jo Hinkleman",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Chris Winter",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Harry Darrow",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Gordon Krause",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Richard J. Rossi",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Andrew Zolot",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Pedro Hernández",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "friendship",
+    "casino",
+    "poker",
+    "gambling",
+    "call girl",
+    "bratva (russian mafia)",
+    "gambling debt",
+    "roulette",
+    "gain",
+    "atlantic city",
+    "law student",
+    "loan shark",
+    "credit card fraud",
+    "neo-noir"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A young, reformed gambler must return to playing high stakes poker to help a friend pay off loan sharks, while balancing his relationship with his girlfriend and his commitments to law school.",
+    "John Dahl directed this exploration of New York private clubs devoted to high-stakes poker, with first-person narration from the film's central figure, law student Mike McDermott (Matt Damon), who loses his entire savings to Russian club owner Teddy KGB (John Malkovich). Mike then turns away from cards, devoting his attentions to his law studies and his live-in girlfriend Jo (Gretchen Mol), who's concerned when Mike's former gambling buddy Worm (Edward Norton) is released from prison. She has good reason to worry, since it takes Worm only a matter of minutes to draw Mike back into poker action. When she learns Mike has returned to the poker clubs, she moves out, and Mike begins to lose interest in his studies. Worm has a prison debt, and the threatening Grama (Michael Rispoli) wants the money. Mike not only indulges the irresponsible Worm, he gets involved in Worm's debts. When Grama demands $15,000 on a five-day deadline, the two buddies go into high gear with a non-stop, no-sleep gambling binge that spirals downward toward an ultimate confrontation with Teddy KGB."
+  ],
+  "synopsis": "Gifted poker player Mike McDermott (Matt Damon) loses his entire $30,000 bankroll in a hand of Texas hold'em against Teddy \"KGB\" (John Malkovich), a Russian mobster who runs an illegal underground poker room. Shaken, Mike decides to concentrate on law school, while promising his girlfriend and fellow law student Jo (Gretchen Mol) not to play the game anymore. Mentor and fellow rounder Knish (John Turturro) offers him a part-time job driving a delivery truck to make ends meet.Time passes, and Mike is true to his promise. He focuses on school and work until his childhood friend Lester \"Worm\" Murphy (Edward Norton) is released from prison. Worm is also a card player, who owes an outstanding debt accumulated before his incarceration. At Worm's influence, Mike is soon rounding again, which interferes with his studies and hurts his relationship with Jo.When Worm is given a five-day deadline to pay off his debt, Mike joins him in a furious race to earn the money. Worm wants to cheat to win, but Mike insists on playing straight. Played out through several card games in and around New York City, the two nearly make the $15,000 needed, but the pair are caught cheating and lose their entire bankroll. After this, Worm decides to leave the city, and he advises Mike to do the same. This is when he reveals to Mike that his debt is owed to KGB, the same Russian mobster who cleaned Mike out of his $30,000 bankroll several months before. Infuriated, Mike cuts ties with Worm once and for all.Mike refuses to flee. In a race against time to pay off Worm's debt, Mike gets his shot at redemption by placing his life on the line against the man who forced him out of the game. With the help of a $10,000 loan from his law school professor Petrovsky (Martin Landau), Mike sits down to play KGB in a no limit, heads-up game of Texas Hold'em.In two heated heads-up matches, Mike beats KGB, winning enough to pay off Worm's debt, repay his loan to the professor, and regain his original bankroll of about $30,000. The movie ends with Mike officially dropping out of law school, saying goodbye to Jo, and going to Las Vegas to play in the World Series of Poker Main Event."
+}

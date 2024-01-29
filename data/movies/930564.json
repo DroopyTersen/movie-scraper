@@ -1,0 +1,689 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/rrfBenawPGhkt5yvb124NSZwnAC.jpg",
+  "id": 930564,
+  "title": "Saltburn",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qjhahNLSZ705B5JP92YMEYPocPz.jpg",
+  "release_date": "2023-11-16",
+  "vote_average": 7.101,
+  "vote_count": 1448,
+  "popularity": 215.355,
+  "overview": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+  "imdb_id": "tt17351924",
+  "budget": 13000000,
+  "homepage": "https://www.saltburnfilm.com",
+  "revenue": 19313341,
+  "runtime": 131,
+  "tagline": "We're all about to lose our minds.",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Thriller"
+  ],
+  "production_companies": [
+    "LuckyChap Entertainment",
+    "MRC",
+    "Lie Still"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Barry Keoghan",
+        "character": "Oliver Quick"
+      },
+      {
+        "name": "Jacob Elordi",
+        "character": "Felix Catton"
+      },
+      {
+        "name": "Rosamund Pike",
+        "character": "Lady Elspeth Catton"
+      },
+      {
+        "name": "Richard E. Grant",
+        "character": "Sir James Catton"
+      },
+      {
+        "name": "Alison Oliver",
+        "character": "Venetia Catton"
+      },
+      {
+        "name": "Archie Madekwe",
+        "character": "Farleigh Start"
+      },
+      {
+        "name": "Carey Mulligan",
+        "character": "Poor Dear Pamela"
+      },
+      {
+        "name": "Paul Rhys",
+        "character": "Duncan"
+      },
+      {
+        "name": "Ewan Mitchell",
+        "character": "Michael Gavey"
+      },
+      {
+        "name": "Sadie Soverall",
+        "character": "Annabel"
+      },
+      {
+        "name": "Richard Cotterell",
+        "character": "Harry"
+      },
+      {
+        "name": "Millie Kent",
+        "character": "India"
+      },
+      {
+        "name": "Will Gibson",
+        "character": "Jake"
+      },
+      {
+        "name": "Tasha Lim",
+        "character": "Camilla"
+      },
+      {
+        "name": "Aleah Aberdeen",
+        "character": "Alicia"
+      },
+      {
+        "name": "Matthew Carver",
+        "character": "Benjy"
+      },
+      {
+        "name": "Reece Shearsmith",
+        "character": "Professor Ware"
+      },
+      {
+        "name": "Gabriel Bisset-Smith",
+        "character": "Reg Starter"
+      },
+      {
+        "name": "Saga Spjuth-Säll",
+        "character": "Sam"
+      },
+      {
+        "name": "Glyn Grimstead",
+        "character": "Taxi Driver"
+      },
+      {
+        "name": "Joshua Samuels",
+        "character": "Liam"
+      },
+      {
+        "name": "Julian Lloyd Patten",
+        "character": "Joshua"
+      },
+      {
+        "name": "Olivia Hanrahan-Barnes",
+        "character": "Maid"
+      },
+      {
+        "name": "Lolly Adefope",
+        "character": "Lady Daphne"
+      },
+      {
+        "name": "Joshua McGuire",
+        "character": "Henry"
+      },
+      {
+        "name": "Dorothy Atkinson",
+        "character": "Paula Quick"
+      },
+      {
+        "name": "Shaun Dooley",
+        "character": "Jeff Quick"
+      },
+      {
+        "name": "Tomás Barry",
+        "character": "Charlie"
+      },
+      {
+        "name": "Andy Brady",
+        "character": "Vicar Wainwright"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Roy Taylor",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Victoria Boydell",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Margot Robbie",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Linus Sandgren",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Charlotte Dirickx",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Sue Harding",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Emerald Fennell",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Emerald Fennell",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Emerald Fennell",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Ossie McLean",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Ossie McLean",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Claudia Sarbu",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Suzie Davies",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Eilam Hoffman",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Tom Ackerley",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Nina Hartstone",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Marisa Clayton",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "name": "Waldo Mason",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "name": "Tim Wellspring",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Tim Wellspring",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Tim Wellspring",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Siân Miller",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Siân Miller",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Siân Miller",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "name": "Adam Scrivener",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Katrina Day",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Polly Duval",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Adam Mendez",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "David Appleby",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Louise Burton",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Ria Biggerstaff",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Dean Wares",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Kharmel Cochrane",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Caroline Barclay",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Natasha Vincent",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Chiabella James",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Mike Tehrani",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Laura Pollock",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Jorge Sánchez",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Annlin Chao",
+        "department": "Directing",
+        "job": "Assistant Director Trainee"
+      },
+      {
+        "name": "David Powell",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Charlotte-Rose Armstrong",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Josey McNamara",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Alice Doughty",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Stuart Hurley",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jack Flemming",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Anthony B. Willis",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Sophie Canale",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "name": "Andrew Purdy",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Adam Armitage",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Robert Madden",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Dillan Nicholls",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Chloe Harwood",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Caroline Harper",
+        "department": "Art",
+        "job": "Standby Art Director"
+      },
+      {
+        "name": "Aldonio Danny Frietas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kirsten Lane",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Andy Madden",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Polina Kalentsits",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Leigh Myers",
+        "department": "Production",
+        "job": "Finishing Producer"
+      },
+      {
+        "name": "Jannika Öberg",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Jannika Öberg",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Oliver Ferris",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Jennifer Kinnear",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Ian Sinfield",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Liam Cotter",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Jack Mealing",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Natalie Fox",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Natalie Fox",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Eileen Yip",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Bradley Wilson",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Ed Burrell",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Neneh Lucia",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jacob Crow",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Brian Perkins",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Federico Costantini",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Emma Liu",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Rob Davidson",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Laura Trythall",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Nikita Mitchell",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Sandra Pennington",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Jasper Thorn",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Ben Gerry",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Bronte Payne",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Ariel Murray-Simmons",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Emma Trachtenberg",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "David Sowerby",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Rose Powell",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Philippa Brocklehurst",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Nina Rice",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Rhianna Shah",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Philippa Sutcliffe",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Jake Kilmister",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Joanna Ellis",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Bez Javadi",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Rory McVicker",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Ludo Gordon",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Natasha Vincent",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Jake Garrett",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Elena Real-Davies",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Oliver Haden",
+        "department": "Art",
+        "job": "Set Dresser"
+      }
+    ]
+  },
+  "keywords": [
+    "suicide",
+    "obsession",
+    "country house",
+    "college",
+    "dark comedy",
+    "gay interest",
+    "bathtub",
+    "lust",
+    "mental illness",
+    "lgbt",
+    "mental health",
+    "bisexual man",
+    "eating disorder",
+    "woman director",
+    "male in bathtub",
+    "oxford university",
+    "family estate",
+    "alcohol problems",
+    "self-harm",
+    "deadpan comedy",
+    "suicide investigation",
+    "2000s",
+    "gay theme",
+    "boys' love (bl)",
+    "comedy thriller",
+    "shot on film"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A student at Oxford University finds himself drawn into the world of a charming and aristocratic classmate, who invites him to his eccentric family's sprawling estate for a summer never to be forgotten.",
+    "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+    "Oliver Quick, an awkward, insular young man from the north of England arrives at Oxford University and struggles to fit in. However, his situation changes when he befriends Felix Catton, born into wealth and very popular. One summer holiday Felix invites Oliver to the family estate, Saltburn. Now Oliver will get to see how the upper class live.—grantss",
+    "Feeling like a fish out of water, working-class scholarship student Oliver Quick arrives at the prestigious, bustling Oxford University to study English. It took years of determination and sacrifice, but he finally proved everyone wrong. After all, life dealt Oliver a bad hand--the kid had to work twice as hard to get half as far. Yet the vulnerable freshman wants what he cannot have. Then again, fortune favours the bold. And just like that, the invisible have-not crossed paths with Felix Catton, a privileged young charmer endowed with inexhaustible riches and all the time in the world. However, as wide-eyed Oliver lands a rare invitation to an unforgettable summer of decadence at the fresh-faced heartbreaker's palatial family estate, bitter, eye-opening reality kicks in. Because, cold as it may sound, watching them get all the breaks is painful enough. But knowing you will never belong just rubs salt into the wound.—Nick Riganas"
+  ],
+  "synopsis": ""
+}

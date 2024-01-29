@@ -1,0 +1,2782 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/qtVS7HCnlfsCzV4GXxzkiwI0rMO.jpg",
+  "id": 157336,
+  "title": "Interstellar",
+  "poster_path": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+  "release_date": "2014-11-05",
+  "vote_average": 8.4,
+  "vote_count": 33497,
+  "popularity": 170.645,
+  "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+  "imdb_id": "tt0816692",
+  "budget": 165000000,
+  "homepage": "http://www.interstellarmovie.net/",
+  "revenue": 701729206,
+  "runtime": 169,
+  "tagline": "Mankind was born on Earth. It was never meant to die here.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Legendary Pictures",
+    "Syncopy",
+    "Lynda Obst Productions"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Matthew McConaughey",
+        "character": "Joseph \"Coop\" Cooper"
+      },
+      {
+        "name": "Anne Hathaway",
+        "character": "Dr. Amelia Brand"
+      },
+      {
+        "name": "Jessica Chastain",
+        "character": "Murphy \"Murph\" Cooper"
+      },
+      {
+        "name": "Michael Caine",
+        "character": "Professor John Brand"
+      },
+      {
+        "name": "Bill Irwin",
+        "character": "TARS (voice)"
+      },
+      {
+        "name": "Ellen Burstyn",
+        "character": "Old Murph"
+      },
+      {
+        "name": "Mackenzie Foy",
+        "character": "Young Murph"
+      },
+      {
+        "name": "Casey Affleck",
+        "character": "Tom Cooper"
+      },
+      {
+        "name": "John Lithgow",
+        "character": "Donald"
+      },
+      {
+        "name": "Wes Bentley",
+        "character": "Doyle"
+      },
+      {
+        "name": "David Gyasi",
+        "character": "Romilly"
+      },
+      {
+        "name": "Matt Damon",
+        "character": "Mann"
+      },
+      {
+        "name": "Topher Grace",
+        "character": "Getty"
+      },
+      {
+        "name": "Timothée Chalamet",
+        "character": "Young Tom"
+      },
+      {
+        "name": "David Oyelowo",
+        "character": "School Principal"
+      },
+      {
+        "name": "William Devane",
+        "character": "Williams"
+      },
+      {
+        "name": "Josh Stewart",
+        "character": "CASE (voice)"
+      },
+      {
+        "name": "Collette Wolfe",
+        "character": "Ms. Hanley"
+      },
+      {
+        "name": "Leah Cairns",
+        "character": "Lois"
+      },
+      {
+        "name": "Russ Fega",
+        "character": "Crew Chief"
+      },
+      {
+        "name": "Lena Georgas",
+        "character": "Nurse Practitioner"
+      },
+      {
+        "name": "Jeff Hephner",
+        "character": "Doctor"
+      },
+      {
+        "name": "Elyes Gabel",
+        "character": "Administrator"
+      },
+      {
+        "name": "Brooke Smith",
+        "character": "Nurse"
+      },
+      {
+        "name": "Liam Dickinson",
+        "character": "Coop"
+      },
+      {
+        "name": "Francis X. McCarthy",
+        "character": "Boots"
+      },
+      {
+        "name": "Andrew Borba",
+        "character": "Smith"
+      },
+      {
+        "name": "Flora Nolan",
+        "character": "Girl on Truck"
+      },
+      {
+        "name": "Griffen Fraser",
+        "character": "Boy on Truck"
+      },
+      {
+        "name": "William Patrick Brown",
+        "character": "NASA Employee (uncredited)"
+      },
+      {
+        "name": "Kristian Van der Heyden",
+        "character": "Scientist (uncredited)"
+      },
+      {
+        "name": "Joseph Oliveira",
+        "character": "Astronaut (uncredited)"
+      },
+      {
+        "name": "Ryan Irving",
+        "character": "Popcorn Seller (uncredited)"
+      },
+      {
+        "name": "Alexander Michael Helisek",
+        "character": "Construction Boss (uncredited)"
+      },
+      {
+        "name": "Benjamin Hardy",
+        "character": "NASA Scientist (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Hans Zimmer",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Christopher Nolan",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Christopher Nolan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Christopher Nolan",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Jonathan Nolan",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Emma Thomas",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Papsidera",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Lynda Obst",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Lee Smith",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Ryan Arndt",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Mary Zophres",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Richard Harvey",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Robert Woodruff",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "David F. Klassen",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Nathan Crowley",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Gregory Jein",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Casey Grant",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Gary Paller",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Gary Kosko",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Sally Thornton",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jake Myers",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Craig Abele",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "R.J. Kizer",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Thomas Tull",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Matt Almas",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Steve DeCastro",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mary Hyde-Kerr",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Gary Fettis",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Kevin Kaska",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Steve Burg",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Hoyte van Hoytema",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Jordan Goldberg",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Paul Sonski",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Daniel M. Stillman",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Laura Rindner",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Todd Rex",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Jeremy Gladen",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Tyler Ott",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Gary Rizzo",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Ken Burns",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Mitchell Kelly",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Alex Kuchera",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Bruce Fowler",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "William Fletcher",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Dean Wolcott",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Charlie Campbell",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Eric Sundahl",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Eric Sundahl",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Deanna Brigidi",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Eggert Ketilsson",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Terry Jackson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dayton Duncan",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Hugo Weng",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Michael Primmer",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "George Cottle",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Gary Hawes",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "John Roesch",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Tyler Miller",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Kip Thorne",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Alicia Vela-Bailey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Erik F. Hill",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Michael Li",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Norby",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Luisa Abel",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Melinda Sue Gordon",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Kendelle Elliott",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Lynda Foote",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Josh Lusby",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Ed Duran",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard King",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Gregg Landaker",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mandi Dillin",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Cuitlahuac Morales Velazquez",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Scott R. Fisher",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "P. Scott Sakamoto",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Denny Caira",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Noelle King",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Luís Tinoco",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Michael W. Mitchell",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Ken J. Johnson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "James Paradis",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Craig Hosking",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Kimberly Nelson LoCascio",
+        "department": "Crew",
+        "job": "Executive Visual Effects Producer"
+      },
+      {
+        "name": "Ian Hunter",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jeffrey Butterworth",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Martha Johnston",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "David Sanger",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jenne Lee",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Alyson Dee Moore",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Hans Bjerno",
+        "department": "Camera",
+        "job": "Helicopter Camera"
+      },
+      {
+        "name": "Ernie Avila",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Andrew Birdzell",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Michelle Brattson",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Dan Engle",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Frank Ricotti",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Frank Torres",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Duncan Crawford",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Sahar Halabi",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Kevin Elam",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Alex Gibson",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Dustin Gardner",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Jay Wejebe",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ann Podlozny",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "John R. Manocchia",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Jackson Yu",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Gene Strange",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Christopher Morente",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Patricia DeHaney",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Michael Babcock",
+        "department": "Sound",
+        "job": "Additional Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jeff Sawyer",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Steve Miller",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Paul J. Franklin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Andrew Lockley",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Dane Bjerno",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "name": "Andrew McEvoy",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Eric A. Lewy",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Ryan Rubin",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Jose Zamora",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Heather Moore",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Craig Henderson",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Lauren Abiouness",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Brian Walker",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Paul Healy",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Tom Cummins",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Mato",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Pete Polyakov",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Sean Oxenbury",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Donald Likovich",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Pearl Louie",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Rick Lipton",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Joel Tobman",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Travis Witkowski",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Nathan Davey",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Steven Hanks",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Darryl Stogre",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Mark Weissenfluh",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Ritchie Kremer",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Andrew Bock",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "Linda Yeaney",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "Dan Neal",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Eugénie von Tunzelmann",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Fabio Zangla",
+        "department": "Crew",
+        "job": "Sequence Supervisor"
+      },
+      {
+        "name": "Seth Dubieniec",
+        "department": "Crew",
+        "job": "Sequence Supervisor"
+      },
+      {
+        "name": "Evan Clover",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Trystan James",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Tom Barrett",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Lai Lok Chau",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Dorian Knapp",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Gábor Kiss",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Crystal Hadcroft",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Graeme Puttock",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Graeme Puttock",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jenny Basen",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Jenny Basen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Harrison Goldstein",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Harrison Goldstein",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Harold Skinner",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Martin Keough",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Mark Avery",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Leigh Bell",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Kelly Porter (costumer)",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Bruce L. Brownstein",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Kalle Peterson",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Dixie Webster",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Gregory J. Pawlik Jr.",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Chris Duffy",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Gregory Irwin",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Linda Barsotti",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Philip Shanahan",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Dan Brown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bernie Hagadorn",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Mark Fichera",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sze Jia Eng",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Paul Postal",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Paula Suhy",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Jose F. Barrios",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Neil Garland",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Mark Weingarten",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Doug Lavender",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "John Isaacs",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Jill Christensen",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "name": "Mark Scoon",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Aaron Toney",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nilo Otero",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Kevin Abercrombie",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David E. Hall",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Laura Lee Connery",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "George Santo Pietro",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "John Lee",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "name": "Frank Reina",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Don Domino",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Helen Kozora",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Gavin Greenaway",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Matt Cameron",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Oscar Gomez",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Herb Ault",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Alan Meyerson",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Tien Nguyen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "Alex M. Cacciarelli",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Leland Cox",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Andrew Kinney",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Ken Wills",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Geoff Foster",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "David Arch",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Laura Wong",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Birna Paulina Einarsdóttir",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Kevin Caira",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Laide Agunbiade",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Mike Larrabee",
+        "department": "Art",
+        "job": "Lead Painter"
+      },
+      {
+        "name": "David Paris",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Jeffrey A. Johnson",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Helen Medrano",
+        "department": "Crew",
+        "job": "Production Controller"
+      },
+      {
+        "name": "Linda Griffis",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Kevin A. Canamar",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Ingvar Stefánsson",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Carl Rydlund",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Mark Berrow",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Mo Henry",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Anthea Strangis",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Robert Ikeda",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Bruce Toy",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Peter Clemence",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Kimberly Lennox",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Steve Mair",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Debbie Schwab",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "name": "Adam Cole",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Sean Ricigliano",
+        "department": "Camera",
+        "job": "Epk Camera Operator"
+      },
+      {
+        "name": "Robin Borman",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Hugh McCallum",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Sammy Wu",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "John Kuchera",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Tim Milligan",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Michelle Faye Fraser",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Dan Schroer",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Katrina Carrasco",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Scott Wesley Ross",
+        "department": "Visual Effects",
+        "job": "Visual Effects Assistant Editor"
+      },
+      {
+        "name": "Ryan Monro",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Sean Morrissey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marie Fink",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Amanda Paller",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Egill Antonsson",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Don Dolan",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Jeff Therieau",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Jaume Creus",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Kentaro Yano",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kentaro Yano",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "Tim Angulo",
+        "department": "Visual Effects",
+        "job": "VFX Director of Photography"
+      },
+      {
+        "name": "Brandon Lambdin",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Megan Shank",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Scott Corban Sikma",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Mark Blaydes",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Kate Hennessy",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Maximillian McNair MacEwan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Simon Pynn",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "Nick Liampetchakul",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jerardo Gomez",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Kzar Torres",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jim Hall",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Katie Stetson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Faraz Hameed",
+        "department": "Visual Effects",
+        "job": "Pre-Visualization Supervisor"
+      },
+      {
+        "name": "Mariluz Noto",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Monica Østbø Østgård",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Junaid Syed",
+        "department": "Visual Effects",
+        "job": "Visual Effects Technical Director"
+      },
+      {
+        "name": "Sam Horgan",
+        "department": "Editing",
+        "job": "Color Assistant"
+      },
+      {
+        "name": "Camille Paleni",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Rachel Bolt",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Thomas J. O'Connell",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Nicholas Bucknall",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Anna Noakes",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Boguslav Kostecki",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Tom Pigott-Smith",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Mary Scully",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Maureen O'Heron",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Todd Baillere",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Czarina Russell",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "name": "Gretel Ng",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Nic Hodgkinson",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Allison Gardner",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Stephanie McNally",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Blake Winder",
+        "department": "Visual Effects",
+        "job": "Compositing Lead"
+      },
+      {
+        "name": "Leticia Sandoval",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Curtis Corbitt",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Adam Mull",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Jess King",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Agata Maliauka",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Amelia Doescher",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Carl Fairweather",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Bret Lu",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Brian Mussetter",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Don Telles",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Tulio Duenas",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Timothy Trimmings",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Diz Sharpe",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marsha Ivins",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "Jonathan Clark",
+        "department": "Crew",
+        "job": "Loader"
+      },
+      {
+        "name": "Abhishek Chaturvedi",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Chris Cotterman",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Sullivan Richard",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Simon J. Williams",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Mike Pickel",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Tom Callinicos",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Donald Jones",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jeffrey Jasper",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Mary Mullan",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Shannon Deats",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Grant McPhee",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Chuck Choi",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Brandon Flohr",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Brent Heyning",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Kim Goddard-Rains",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "name": "Inga Bjork Solnes",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "name": "Greg Harris",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael Benton Adler",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Albert Nolasco",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Allissoon Lockhart",
+        "department": "Production",
+        "job": "Additional Production Assistant"
+      },
+      {
+        "name": "Dillon Neaman",
+        "department": "Directing",
+        "job": "Additional Second Assistant Director"
+      },
+      {
+        "name": "Emily Kwong",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Jill Hahn",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Edward V. Pannozzo",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Lisa Kisner",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Pamela DesVigne",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Brenda McClellan",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Stefani Rockwell",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Vicki Platero",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Justin Harrold",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Lori Russell",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Michael Glaser",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Jorge Luis Alvarezzo",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Silja Hauksdуttir",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Marjorie Rudick",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Kelly Wills",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Olafur Jуnasson",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Evan Godfrey",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "name": "Kelly Mitchell",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "John Thellend",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Keith Church",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "name": "Erlingur Orn Karlsson",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "name": "Gudmundur Kokkur",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "name": "Nathaniel West",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Darrel D. Bricker",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Dawna Hammond",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Jim Bruder",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Jody Schoffner",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Lauren Pratto",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Sophia Coronado",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Maria K.M. Sundeen",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Laura Bagano",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Avar Johannsson",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Cammie Caira",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Richard Maginnis",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "C.J. Hannis",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Andrew Thom",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Steven D. Castaneda",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Thorir G. Agustsson",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Adriene Wyse",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Jan Gillan",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Nolan B. Medrano",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Jennifer Omoth",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Lena Schmigalla",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Phillis Lehmer",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Erica Thurlow",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Hallgrimur Oddsson",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "James Viera",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Justin Moran-Duquette",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Sean Frohardt",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Wilson Weaver",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Helgi G. Thoroddsen",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Deborah Kliewer",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Linda Benavente-Notaro",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Stacia Lang",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Atli Thor",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Raff Sarabia",
+        "department": "Art",
+        "job": "Lead Painter"
+      },
+      {
+        "name": "Francis Padilla",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Joshua Whitford",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Landin Walsh",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Stefan Wilking",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Vincent Varga",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Árni Björn Helgason",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Keomanee Vilaythong",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Fridrik Ásmundsson",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Tammy Fox",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Adam Gelbart",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Andrea Ficele",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Steven Kajorinne",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Jeremy Turley",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Chauntel Swann",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Bobbie Shay",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Christian Feldhaus",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Alex Solano",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Brandon Stewart",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Chris Raby",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Emily Hoang",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Ron Landry",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Ashley MacMillan",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Mark Laws",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Sarah Jane Trohimchuck",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Stephen Kievit",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Zach Clossin",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Finnur Karlsson",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Metusalem Bjornsson",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Heidrun T. Haralsdottir",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Sigridur Sigga Marrow",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Karla Torres",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Sonny Nguyen",
+        "department": "Crew",
+        "job": "Prop Maker"
+      },
+      {
+        "name": "Richard S. Wilson",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "name": "Valgeir Gunnlaugsson",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Edwin Amell",
+        "department": "Crew",
+        "job": "Security Coordinator"
+      },
+      {
+        "name": "Jack Crowells",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "George Williams III",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Gianna Isabella",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Hrefna Hagalin",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Jana Maria Gudmundsdottir",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Lindsey Fredieu",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Olivia McCallum",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Spencer Taylor",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Thorunn Gudlaugsdottir",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Dom Smart",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Rodney Dolan",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Todd Bilawchuk",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Stewart DePass",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Matthew J. Downey",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Arthur Clever",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Darren McCormick",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Francis J. Ayre Jr.",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Jуn Andri Guрmundsson",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Mark Stanton",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Michael Rifkin",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Robin Reilly",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Ronald Epstein",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Scott Roark",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Terry Hambleton",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "David Jonasson",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Robert L. Slater",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "David B. Clark",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "Jason Z. Kemp",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Steinarr Logi Nesheim",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Robert J. Morton",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Clyde R. Maliauka",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Matt Hillyer",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "James Carlson",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Christian Wenger",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Benedict Cruft",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Andrew Pask",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Yasmeen Al-Mazeedi",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Wood Andy",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Roger Sayer",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Chas Smith",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Ann Marie Simpson",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Chris Craker",
+        "department": "Sound",
+        "job": "Music Score Producer"
+      },
+      {
+        "name": "Jacqueline Friedberg",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Murray Forward",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "David Lowry",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Benjamin Charles",
+        "department": "Editing",
+        "job": "Color Assistant"
+      },
+      {
+        "name": "Scott R. Anderson",
+        "department": "Editing",
+        "job": "Color Assistant"
+      },
+      {
+        "name": "Colin P. Brown",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Julia Reinhard",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Jon Chesson",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Thomas Banner",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Joe Wehmeyer",
+        "department": "Camera",
+        "job": "Data Wrangler"
+      },
+      {
+        "name": "Garry Maddison",
+        "department": "Editing",
+        "job": "Digital Color Timer"
+      },
+      {
+        "name": "Alessandro Zanforlin",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Claudio Bassi",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Frank Petit",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Jim O'Hagan",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Jonathan Bot",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Olivier Ryard",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Sebastian Schütt",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Sinisa Radosavljevic",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Thomas R. Steiner",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Thomas Salama",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Tom Whittington",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Travis Porter",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Samual Dawes",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Chris Cooper",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "Katie Linahon",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Leah Sargent",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Aaron Noordally",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Andrea Chua",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Jerrod Tan",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Kew Lin",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Kross Wong",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Michael Jeff Baldemoro",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Muhammad Hidayat Bin Isnin",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Nicolas Millot",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Riccardo Mascia",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Ruiting Wang",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Sim Chuan Xiong",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Wayne Chan",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Brandon Seifert",
+        "department": "Visual Effects",
+        "job": "Senior Modeller"
+      },
+      {
+        "name": "Chris Hawthorne",
+        "department": "Visual Effects",
+        "job": "Senior Modeller"
+      },
+      {
+        "name": "Adam Broderick",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "David Schott",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Eliot Speed",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Jon Capleton",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Kenzo Tee",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Leigh Russell",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Robin Aristorenas",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Joe DeWalt Brown",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Joseph A. Zaki",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Will Lucas",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Jim Thibo",
+        "department": "Visual Effects",
+        "job": "Visual Effects Camera"
+      },
+      {
+        "name": "Kirsty Davies",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Monifa Andrew",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Mark H. Weingartner",
+        "department": "Visual Effects",
+        "job": "VFX Director of Photography"
+      },
+      {
+        "name": "Anne Putnam Kolbe",
+        "department": "Crew",
+        "job": "Executive Visual Effects Producer"
+      },
+      {
+        "name": "Daniel Maund",
+        "department": "Visual Effects",
+        "job": "Visual Effects Technical Director"
+      },
+      {
+        "name": "David Moraton",
+        "department": "Visual Effects",
+        "job": "Visual Effects Technical Director"
+      },
+      {
+        "name": "Lee Tibbetts",
+        "department": "Visual Effects",
+        "job": "Visual Effects Technical Director"
+      },
+      {
+        "name": "Thomas J. Burton",
+        "department": "Visual Effects",
+        "job": "Visual Effects Technical Director"
+      },
+      {
+        "name": "Tosin Akinwoye",
+        "department": "Visual Effects",
+        "job": "Visual Effects Technical Director"
+      },
+      {
+        "name": "Jonathan Gomez",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Tighe Gill",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Municoy",
+        "department": "Production",
+        "job": "Grip Production Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "rescue",
+    "future",
+    "spacecraft",
+    "race against time",
+    "artificial intelligence (a.i.)",
+    "nasa",
+    "time warp",
+    "dystopia",
+    "expedition",
+    "space travel",
+    "wormhole",
+    "famine",
+    "black hole",
+    "quantum mechanics",
+    "family relationships",
+    "space",
+    "robot",
+    "astronaut",
+    "scientist",
+    "single father",
+    "farmer",
+    "space station",
+    "space adventure",
+    "time paradox",
+    "time-manipulation",
+    "father daughter relationship",
+    "2060s",
+    "cornfield",
+    "time manipulation"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+    "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.—ahmetkozan",
+    "In the near future around the American Midwest, Cooper, an ex-science engineer and pilot, is tied to his farming land with his daughter Murph and son Tom. As devastating sandstorms ravage Earth's crops, the people of Earth realize their life here is coming to an end as food begins to run out. Eventually stumbling upon a N.A.S.A. base 6 hours from Cooper's home, he is asked to go on a daring mission with a few other scientists into a wormhole because of Cooper's scientific intellect and ability to pilot aircraft unlike the other crew members. In order to find a new home while Earth decays, Cooper must decide to either stay, or risk never seeing his children again in order to save the human race by finding another habitable planet.—jmvd8",
+    "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand, a brilliant N.A.S.A. physicist, is working on plans to save mankind by transporting Earth's population to a new home via a womhole. But first, Brand must send former N.A.S.A. pilot Cooper and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.—Jwelch5742",
+    "A single father that flew for NASA in the past is raising a son and daughter along with his father-in-law. After NASA was cut from governmental funding due to environmental problems, he becomes a farmer. The last sustainable crop is corn and it's only a matter of time until that too becomes extinct. Mysterious clues begin emerging that he and his daughter believe are coming from a supernatural being, or aliens. What they decipher leads them to a mission where he leaves the planet and his family to save mankind.—liamguts"
+  ],
+  "synopsis": "In the future, crop blight has caused civilization to regress into a failing agrarian society. Former NASA pilot Cooper (Matthew McConaughey) runs a farm with his family. Humanity needs more farmers to feed the world & the current scientific thinking believes that NASA Apollo missions were faked to bankrupt the Soviets (a belief that pisses Cooper off like nothing else). Murphy (Mackenzie Foy), Cooper's 10-year-old daughter, believes her room is haunted by a ghost trying to communicate with her. They discover the \"ghost\" is an unknown intelligence sending coded messages using gravitational waves, leaving binary coordinates in the dust that direct them to a secret NASA installation led by Professor John Brand (Michael Caine). Dr Brand tells Cooper that every year one crop dies & gets eliminated from the planet forever due to change in climatic conditions & severity of the dust storms. Soon, no crop will ever grow on Earth & the species will starve to death.Brand reveals that a wormhole, apparently created by an alien intelligence (& first discovered 48 yrs ago), leads to new planets that may offer hope for survival. NASA's \"Lazarus missions\" have identified three potentially habitable worlds orbiting the black hole Gargantua: Miller, Edmunds, and Mann, named after the astronauts who surveyed them. Originally 12 astronauts were sent to 12 different worlds. Their craft had hibernation capabilities through which the astronauts could live on for decades & wait to be rescued after transmitting habitat data back to Earth. But if the planet was assessed to be uninhabitable, there was no plan for rescue as Earth did not have the resources to again visit all 12 planets. Brand recruits Cooper to pilot the spacecraft Endurance to recover the astronauts' data from the 3 planets; if one of the planets is habitable, humanity will follow on space stations. But Brand has still not solved the problem of lifting enough of Humanity into space & to the identified planet. So plan B is to population bomb the identified planet with human embryos. The Endurance will carry 5000 human embryos, of which 10 will be incubated & once they grow up, they will be artificially inseminated so as to create a colony of 100s of humans in a few decades.\nCooper's departure devastates Murphy, and they part on bad terms.On Endurance, Cooper joins Brand's daughter, bio-technologist Amelia (Anne Hathaway) (& Brand's daughter); scientists Romilly (David Gyasi) and Doyle (Wes Bentley); and robots TARS and CASE. Amelia tells Cooper that Mann was the leader of the expedition that took 12 brave people to uncharted territory. Amelia has great respect for Mann.They enter the wormhole and head to Miller (as the meager data provided by the respective explorers puts Miller's planet as the best option), but discover the planet is so close to Gargantua that it experiences severe gravitational time dilation: each hour on the surface is seven years on Earth. A team descends to the planet, which proves inhospitable as it is covered by a shallow ocean roiled by enormous tidal waves. As Amelia attempts to recover Miller's data, a wave hits, killing Doyle and delaying the shuttle's departure. When the others return to Endurance, 23 years have passed. Murphy is now grown up & is working with Dr Brand (who is now very old) in solving the gravity equation that is the key to lifting the humanity off Earth in an attempt to recolonize another planet, as per Plan A.On Earth, the adult Murphy (Jessica Chastain) is now a NASA scientist assisting Brand with an equation that will enable NASA to launch the space stations via gravity. On his deathbed, Brand admits he already solved the gravity problem and determined that project is impossible as he needed more data from a black hole singularity to completely solve the equation. He concealed his findings to keep hope alive and put his faith in \"Plan B\": using frozen embryos aboard the Endurance to start humanity anew. He also knew that there was no way back to Earth via the wormhole. However, Murphy concludes that Brand's equation could work with additional data from a black hole's singularity.Low on fuel, Endurance can only visit one more planet before returning to Earth. After a tense vote, the team selects Mann's planet, as Mann is still transmitting. Amelia wanted to take Endurance to Edmund's planet as the data showed organic life, but Mann's data was more recent (but showed no organic life). Amelia's theory was that the 3 planets were orbiting a giant black hole & hence all accidents that happened in the universe to create life, simply did not happen in this system, so no asteroids, comets nothing. Her point was that planet showing organic life hence had more promise.However, they discover Mann's planet is icy and inhospitable; Mann (Matt Damon) always knew Plan B was the mission's true goal (he even tells Cooper that Brand knew that he needed a black hole's singularity data before Mann left Earth. And Singularity data is impossible as it hides behind a black hole, through which light itself cannot escape). Romily suggests that the robot TARS can enter the black hole horizon of Gargantuan fast enough & just might survive long enough to transmit data on the singularity. Mann faked data about his planet's viability so Endurance would rescue him. Mann breaks Cooper's spacesuit visor and leaves him to die, and flees to Endurance on a shuttle; Romilly is killed by a bomb Mann set to protect his secret. Amelia rescues Cooper on the other shuttle, and they arrive at Endurance in time to witness Mann docking improperly. The airlock explodes, killing Mann and causing serious damage, but Cooper uses the shuttle to get Endurance under control.Nearly out of fuel, Cooper and Amelia plan to slingshot Endurance around Gargantua on a course toward Edmunds. Due to being directly in the heavy gravity of Gargantua, several more decades actually pass back on Earth while TARS and Cooper detach into the black hole, sacrificing themselves to collect data on the singularity and to propel Amelia by dropping the ship's mass. They emerge in an extra-dimensional \"tesseract\", where time appears as a spatial dimension and portals show glimpses of Murphy's childhood bedroom at various times. Cooper realizes the alien beings are future humans who have constructed this space so he can communicate with Murphy and save humanity. Using gravitational waves, Cooper encodes TARS's data on the singularity into the adult Murphy's watch, allowing her to solve Brand's equation and evacuate Earth. Cooper somehow is ejected from the singularity & awakens aboard a NASA space station near Saturn and reunites with the now elderly Murphy (Ellen Burstyn), who has led humanity's exodus. Murphy convinces Cooper to search for Amelia and CASE, who have completed their one-way trip to Edmunds' planet, and are setting Plan B into motion."
+}

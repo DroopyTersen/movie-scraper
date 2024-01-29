@@ -1,0 +1,2433 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+  "id": 12,
+  "title": "Finding Nemo",
+  "poster_path": "https://image.tmdb.org/t/p/w500/f1Aqx2LEtWd46osPEFHaYKu1LCC.jpg",
+  "release_date": "2003-05-30",
+  "vote_average": 7.824,
+  "vote_count": 18409,
+  "popularity": 118.802,
+  "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+  "imdb_id": "tt0266543",
+  "budget": 94000000,
+  "homepage": "http://movies.disney.com/finding-nemo",
+  "revenue": 940335536,
+  "runtime": 100,
+  "tagline": "There are 3.7 trillion fish in the ocean. They're looking for one.",
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "production_companies": [
+    "Pixar"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Albert Brooks",
+        "character": "Marlin (voice)"
+      },
+      {
+        "name": "Ellen DeGeneres",
+        "character": "Dory (voice)"
+      },
+      {
+        "name": "Alexander Gould",
+        "character": "Nemo (voice)"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Gill (voice)"
+      },
+      {
+        "name": "Geoffrey Rush",
+        "character": "Nigel (voice)"
+      },
+      {
+        "name": "Brad Garrett",
+        "character": "Bloat (voice)"
+      },
+      {
+        "name": "Allison Janney",
+        "character": "Peach (voice)"
+      },
+      {
+        "name": "Austin Pendleton",
+        "character": "Gurgle (voice)"
+      },
+      {
+        "name": "Stephen Root",
+        "character": "Bubbles (voice)"
+      },
+      {
+        "name": "Vicki Lewis",
+        "character": "Deb / Flo (voice)"
+      },
+      {
+        "name": "Joe Ranft",
+        "character": "Jacques (voice)"
+      },
+      {
+        "name": "Andrew Stanton",
+        "character": "Crush (voice)"
+      },
+      {
+        "name": "Elizabeth Perkins",
+        "character": "Coral (voice)"
+      },
+      {
+        "name": "Nicholas Bird",
+        "character": "Squirt (voice)"
+      },
+      {
+        "name": "Bob Peterson",
+        "character": "Mr. Ray / Additional Voices (voice)"
+      },
+      {
+        "name": "Barry Humphries",
+        "character": "Bruce (voice)"
+      },
+      {
+        "name": "Eric Bana",
+        "character": "Anchor (voice)"
+      },
+      {
+        "name": "Bruce Spence",
+        "character": "Chum (voice)"
+      },
+      {
+        "name": "Bill Hunter",
+        "character": "Dentist (voice)"
+      },
+      {
+        "name": "LuLu Ebeling",
+        "character": "Darla (voice)"
+      },
+      {
+        "name": "Jordan Ranft",
+        "character": "Tad (voice)"
+      },
+      {
+        "name": "Erica Beck",
+        "character": "Pearl (voice)"
+      },
+      {
+        "name": "Erik Per Sullivan",
+        "character": "Sheldon (voice)"
+      },
+      {
+        "name": "John Ratzenberger",
+        "character": "Fish School (voice)"
+      },
+      {
+        "name": "Carlos Alazraqui",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Alec Medlock",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Bob Bergen",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Nicole Miller",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Geoff Brooks",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Lisa Peers",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Paul Eiding",
+        "character": "Additional Voice  (voice)"
+      },
+      {
+        "name": "Phil Proctor",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Leland Grossman",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Daryl Sabara",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Lili Ishida",
+        "character": "Additional Voices"
+      },
+      {
+        "name": "Emmett Shoemaker",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Oliver Kindred",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Ben Stanton",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Danny Mann",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Kali Whitehurst",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Rove McManus",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "James S. Baker",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Vanessa Marano",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Susan Blu",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Annelise Nolting",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Jeff Pidgeon",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Jennifer Darling",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Aaron Fors",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Katherine Ringgold",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Jess Harnell",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "David Ian Salter",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Caroline Kindred",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Sherry Lynn",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Jim Ward",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Mickie McGowan",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Jack Angel",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Laura Marano",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Bobby Block",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Laraine Newman",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Jane Carr",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Michaela Jill Murphy",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Jan Rabson",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Bradley Trevor Greive",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Evan Sabara",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Marc John Jefferies",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Eliza Schneider",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Lee Unkrich",
+        "character": "Additional Voices  (voice)"
+      },
+      {
+        "name": "Noah Luke",
+        "character": "Additional Voices  (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Andrew Stanton",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Andrew Stanton",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Andrew Stanton",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Lee Unkrich",
+        "department": "Editing",
+        "job": "Supervising Film Editor"
+      },
+      {
+        "name": "Lee Unkrich",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "name": "Graham Walters",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Bob Peterson",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "David Reynolds",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "John Lasseter",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "David Ian Salter",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Thomas Newman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Gary Rydstrom",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Gary Rydstrom",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Gary Rydstrom",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Bill Bernstein",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Ralph Eggleston",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Dominique Louis",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Glenn McQueen",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "name": "Rich Quade",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Mary Hidalgo",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Marcia Gwendolyn Jones",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Geefwee Boedoe",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Ricky Nierva",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Angus MacLane",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Glenn Kim",
+        "department": "Visual Effects",
+        "job": "CG Painter"
+      },
+      {
+        "name": "Laura Phillips",
+        "department": "Visual Effects",
+        "job": "CG Painter"
+      },
+      {
+        "name": "Jamie Frye",
+        "department": "Visual Effects",
+        "job": "CG Painter"
+      },
+      {
+        "name": "Yvonne Herbst",
+        "department": "Visual Effects",
+        "job": "CG Painter"
+      },
+      {
+        "name": "Robin Cooper",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Randy Berrett",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Albert Lozano",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "Nathaniel McLaughlin",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "Bud Thon",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "Jerome Ranft",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Carter Goodrich",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Peter DeSève",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Andrea Warren",
+        "department": "Visual Effects",
+        "job": "CG Painter"
+      },
+      {
+        "name": "Louis Gonzales",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Jeremy Lasky",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Billy Merritt",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Brett Pulliam",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bret Parker",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Gini Cruz Santos",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ellen Moon Lee",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "David Eisenmann",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Doug Sweetland",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Scott Clark",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Alan Barillaro",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Andrew Gordon",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Shawn Krause",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "David DeVan",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Stephen Gregory",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bobby Podesta",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Michael Berenstein",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Brett Coderre",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Doug Dooley",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Jimmy Hayward",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Nancy Kato",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bobby Beck",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Tim Crawfurd",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ike Feldman",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Karen Kiser",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Wendell Lee",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Daniel Mason",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Amy McNamara",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "James Ford Murphy",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Victor Navone",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Andrew L. Schmidt",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Patty Kihm Stevenson",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "David Tart",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Jon Mead",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Dave Mullins",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Peter Nash",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ross Stevenson",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "J. Warren Trezevant",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Michael Venturini",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Adam Wood",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Adam Wood",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Tasha Wedeen",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Kureha Yokoo",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ron Zorman",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Paul Mendoza",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Jenni Tsoi",
+        "department": "Visual Effects",
+        "job": "Animation Manager"
+      },
+      {
+        "name": "Gabrielle Siegel",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "name": "Katherine Ringgold",
+        "department": "Crew",
+        "job": "Second Film Editor"
+      },
+      {
+        "name": "Axel Geddes",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Chris Vallance",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "E.J. Holowicki",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Brian Green",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Ethan Owen",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Anthony A. Apodaca",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Steve May",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Louis Rivera",
+        "department": "Camera",
+        "job": "Camera Supervisor"
+      },
+      {
+        "name": "David DiFrancesco",
+        "department": "Crew",
+        "job": "Photoscience Manager"
+      },
+      {
+        "name": "Susan T. Tatsuno",
+        "department": "Crew",
+        "job": "Supervisor of Production Resources"
+      },
+      {
+        "name": "Erik Forman",
+        "department": "Crew",
+        "job": "Information Systems Manager"
+      },
+      {
+        "name": "Paul Cichocki",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "John Hazelton",
+        "department": "Crew",
+        "job": "Projection"
+      },
+      {
+        "name": "Michael Silvers",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Shannon Mills",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Dennie Thorpe",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Jana Vance",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Dee Selby",
+        "department": "Crew",
+        "job": "Sound Design Assistant"
+      },
+      {
+        "name": "Juan Peralta",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Sharon Calahan",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Teresa Eckton",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jessica Giampietro McMackin",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jim Capobianco",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "name": "David Lucarelli",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Stan Webb",
+        "department": "Crew",
+        "job": "Second Film Editor"
+      },
+      {
+        "name": "Kevin Reher",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Matthew Jon Beck",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Lindsey Collins",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Jinko Gotoh",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Roger Gould",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Rodrigo Blaas",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Dylan Brown",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Jason Topolski",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Steve Bloom",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jason Katz",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Bruce White",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Mark A. Walsh",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Kiel Murray",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Osnat Shurer",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "David Slusser",
+        "department": "Crew",
+        "job": "Temp Music Editor"
+      },
+      {
+        "name": "Michael Parks",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Greg Dykstra",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Ronnie del Carmen",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Ronnie del Carmen",
+        "department": "Writing",
+        "job": "Story Supervisor"
+      },
+      {
+        "name": "Tony Fucile",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Tom MacDougall",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Anthony Christov",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "George Hull",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Kimberly Adair Clark",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Margaret Lily Andres",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Simon Rhodes",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Graham Moloy",
+        "department": "Visual Effects",
+        "job": "Animation Department Coordinator"
+      },
+      {
+        "name": "Steven Clay Hunter",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Al Nelson",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Gary Summers",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Derek Casari",
+        "department": "Sound",
+        "job": "ADR Engineer"
+      },
+      {
+        "name": "A.J. Riebli III",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "M.T. Silvia",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Bruce Zick",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Doug Nichols",
+        "department": "Art",
+        "job": "Art Department Manager"
+      },
+      {
+        "name": "Nelson 'Rey' Bohol",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "Elizabeth Greenberg",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Kevin Nolting",
+        "department": "Crew",
+        "job": "Second Film Editor"
+      },
+      {
+        "name": "Bert Berry",
+        "department": "Visual Effects",
+        "job": "CG Painter"
+      },
+      {
+        "name": "Jonathan Flack",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Frank Marocco",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Thomas Pasatieri",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Terry Claborn",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Phred Lender",
+        "department": "Editing",
+        "job": "Editorial Services"
+      },
+      {
+        "name": "Cosmic Don",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "name": "Luis Alarcon-Cisneros",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Luis Alarcon-Cisneros",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jon Darrell Handy",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Chris Balog",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Chris Balog",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Domenic Allen",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Gregory Amundson",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "name": "Nephi Sanchez",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Steve Slanec",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Kent Brown",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "James Burgess",
+        "department": "Crew",
+        "job": "Photoscience Manager"
+      },
+      {
+        "name": "Noelle P. Case",
+        "department": "Editing",
+        "job": "Editorial Coordinator"
+      },
+      {
+        "name": "Jurgen Scharpf",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Travis Crenshaw",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Colin Bohrer",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Dan Lee",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "name": "Nils Erdmann",
+        "department": "Production",
+        "job": "Finance"
+      },
+      {
+        "name": "Nils Erdmann",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Frank 'Pepe' Merel",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Jesse Hollander",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Chris DiGiovanni",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Joshua Hollander",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Mark Berrow",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Mary Beth Smith",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Jeff Wan",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "name": "Doug Sheppeck",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Oren Jacob",
+        "department": "Crew",
+        "job": "Supervising Technical Director"
+      },
+      {
+        "name": "Desirée Mourad",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Desirée Mourad",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Mark Whiting",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Alex Orrelle",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Lisa Forssel",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Danielle Feinberg",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Michael Fong",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Michael Lorenzen",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "D.J. Cleland-Hura",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Simon Varela",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Jacob Parsons",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "name": "Peter T. Schreiber",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Miguel Ángel Poveda",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "James S. Baker",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "name": "Rachel Bolt",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Carlos Baena",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Travis Hathaway",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Rob Jensen",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Matt Majers",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Cameron Miyasaki",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Chuck Waite",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Adam Woodbury",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Heather Feng",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Heather Feng",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Timothy Glass",
+        "department": "Production",
+        "job": "Finance"
+      },
+      {
+        "name": "Timothy Glass",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Heather D.C. Jackson",
+        "department": "Production",
+        "job": "Finance"
+      },
+      {
+        "name": "Heather D.C. Jackson",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Cory Knox",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Matthew Lindahl",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Terry Lee Moseley",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Kristina Ruud",
+        "department": "Production",
+        "job": "Finance"
+      },
+      {
+        "name": "Kristina Ruud",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Wendy Dale Tanzillo",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Wendy Dale Tanzillo",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Deana Walker",
+        "department": "Production",
+        "job": "Finance"
+      },
+      {
+        "name": "Deana Walker",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Annette Wang",
+        "department": "Production",
+        "job": "Finance"
+      },
+      {
+        "name": "Annette Wang",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Ian Westcott",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Lars R. Damerow",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jennifer Becker",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Gabriel Benveniste",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Will Csaklos",
+        "department": "Writing",
+        "job": "Story Consultant"
+      },
+      {
+        "name": "Edward Escueta",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Lisa Forssell",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Grant Gatzke",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Bethany Jane Hanson",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Ling Hsu",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jason 'Jayfish' Hull",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Nelson Siu",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Elle Yoko Suzuki",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Andy Thomas",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Christopher C. Walker",
+        "department": "Crew",
+        "job": "Information Systems Manager"
+      },
+      {
+        "name": "Jay Weiland",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Andrew Findon",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Anna Noakes",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Lisa Ellis",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "David R. Haumann",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Cherise Miller",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Karen Perry",
+        "department": "Production",
+        "job": "Finance"
+      },
+      {
+        "name": "Karen Perry",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Sue Williams",
+        "department": "Production",
+        "job": "Finance"
+      },
+      {
+        "name": "Sue Williams",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Marlon Castro",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Marlon Castro",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Joni Superticioso",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Joni Superticioso",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Alisa Gilden",
+        "department": "Crew",
+        "job": "Information Systems Manager"
+      },
+      {
+        "name": "May Pon",
+        "department": "Crew",
+        "job": "Information Systems Manager"
+      },
+      {
+        "name": "BoB 'Naked BoB' Morgan",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jose Ignacio",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "James G. Dashe",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Edgar Quinones",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Bryan Bird",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Mark Pananganan",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Peter Kaldis",
+        "department": "Crew",
+        "job": "Information Systems Manager"
+      },
+      {
+        "name": "Elyse Klaidman",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Michael O'Brien",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Andra Smith",
+        "department": "Editing",
+        "job": "Editorial Services"
+      },
+      {
+        "name": "Jeff Whittle",
+        "department": "Editing",
+        "job": "Editorial Services"
+      },
+      {
+        "name": "Meagan Miller",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Meagan Miller",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Mary Conlin",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Mary Conlin",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Ross Dickinson",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Will Phan",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Auburn C. 'Aubie' Schmidt",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jonathan Williams",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Paul Kegg",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Dennis 'D.J.' Jennings",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Bill Polson",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Steven Argula",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Steven Argula",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jason B. Hendrix",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Alex Stahl",
+        "department": "Crew",
+        "job": "Information Systems Manager"
+      },
+      {
+        "name": "Warren Hays",
+        "department": "Crew",
+        "job": "Information Systems Manager"
+      },
+      {
+        "name": "Tom Carlisle",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Kenny Condit",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Craig Payne",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Clay Welch",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Clay Welch",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Dale McBeath",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Adam Bronstein",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "name": "Adam Bronstein",
+        "department": "Writing",
+        "job": "Story Coordinator"
+      },
+      {
+        "name": "Roger Rose",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Kim Collins",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Randy Nelson",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Keith Johnson",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Leeann Alameda",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Leeann Alameda",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Omid Amjadi",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Anne Barson",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Anne Barson",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Hal Beral",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Shannon Brown",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Shannon Brown",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Aaron Burt",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Benjamin Butcher",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Benjamin Butcher",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jeanmarie M. Carrasco",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Jeanmarie M. Carrasco",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Erin Cass",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Shelby Madeleine Cass",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Maria Elena Magana Cervantes",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Kathleen Chanover",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Kathleen Chanover",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Mary Coleman",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Fernando Contreras",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Fernando Contreras",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Ena Chan Cratsenburg",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Ena Chan Cratsenburg",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Ray Davis",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "William de Ridder",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Roni Douglas",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Marty Eshoff",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Marty Eshoff",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Loretta Framsted",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Loretta Framsted",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Mark Frazitto",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Mark Frazitto",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Christine W. Freeman",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Joe Garcia",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jody Giacomini",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Lola Gill",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Craig Gillespie",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Paul Gillis",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Daniel A. Goodman",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Gale Gortney",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Dawn Haagstad",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Karen Hartquist",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Karen Hartquist",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Stacey Hendrickson",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Anne Ho",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Anne Ho",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Michael Jones",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Michael Jones",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Paul Kim",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Paul Kim",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Keith Kolder",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Keith Kolder",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Keith Kops",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Keith Kops",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Renee Lamri",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Brandon T. Loose",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Emery Low",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Emery Low",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Candelaria Lozano",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Candelaria Lozano",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Andrew Lyndon",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Linda McCampbell",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Linda McCampbell",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Lisa McCampbell",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Lisa McCampbell",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Patricia Moran",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Patricia Moran",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Cheryl Murata",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Cheryl Murata",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Maricela Navarro",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Maricela Navarro",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Molly Nealan",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Molly Nealan",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Andrea Nordemann",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Andrea Nordemann",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Edgar A. Ochoa",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Karen Paik",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Marcia Peck",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Sangeeta Prashar",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jose Ramirez",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Jose Ramirez",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jonathan G. Rodriguez",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Jonathan G. Rodriguez",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Alice Rosen",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Guillermo Segovia",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Guillermo Segovia",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Dylan Sisson",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Joan Smalley",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "name": "Joan Smalley",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Michele Spane",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Michele Spane",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Beatrice Springborn",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Adam P. Summers",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Krista Swager",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Krista Swager",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Osvaldo Tomatis",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Osvaldo Tomatis",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Monica VanDis",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Olga Velaszquez",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Olga Velaszquez",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Valerie Villas",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Valerie Villas",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Wendy Wirthlin",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Humera Yasmin Khan",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Neftalí Álvarez 'El Magnífico'",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Kelly T. Peters",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Michael Warch",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Siouxsie Stewart",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "David Fulp",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "James Pearson",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "Heidi Cruz",
+        "department": "Crew",
+        "job": "Schedule Coordinator"
+      },
+      {
+        "name": "James Bartel",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Miles Egan",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Sandy Falby",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Joshua Grant",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Kenneth 'Yo' Huey",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Elise Knowles",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jeanie T. Oh",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Kathleen H. Parmelee",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Rachel Raffael-Gates",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "name": "Dan Jeup",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Ben Catmull",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Kearsley Higgins",
+        "department": "Visual Effects",
+        "job": "Animation Department Coordinator"
+      },
+      {
+        "name": "Paul Topolos",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Vince Caro",
+        "department": "Crew",
+        "job": "Additional Dialogue"
+      },
+      {
+        "name": "Courtney Booker",
+        "department": "Art",
+        "job": "Digital Storyboarding"
+      },
+      {
+        "name": "Jessica Donohoe",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Blake Tucker",
+        "department": "Writing",
+        "job": "Story Manager"
+      },
+      {
+        "name": "Paul Springer",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      }
+    ]
+  },
+  "keywords": [
+    "sydney, australia",
+    "parent child relationship",
+    "anthropomorphism",
+    "harbor",
+    "underwater",
+    "shark",
+    "pelican",
+    "fish tank",
+    "great barrier reef",
+    "sea turtle",
+    "missing child",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "short term memory loss",
+    "clownfish",
+    "father son reunion",
+    "protective father"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "A clown fish named Marlin lives in the Great Barrier Reef and loses his son, Nemo, after he ventures into the open sea, despite his father's constant warnings about many of the ocean's dangers. Nemo is abducted by a boat and netted up and sent to a dentist's office in Sydney. While Marlin ventures off to try to retrieve Nemo, Marlin meets a fish named Dory, a blue tang suffering from short-term memory loss. The companions travel a great distance, encountering various dangerous sea creatures such as sharks, anglerfish and jellyfish, in order to rescue Nemo from the dentist's office, which is situated by Sydney Harbour. While the two are searching the ocean far and wide, Nemo and the other sea animals in the dentist's fish tank plot a way to return to the sea to live their lives free again.—David Morris",
+    "Marlin, a clown fish, is overly cautious with his son, Nemo, who has a foreshortened fin. When Nemo swims too close to the surface to prove himself, he is caught by a diver, and horrified Marlin must set out to find him. A blue reef fish named Dory -- who has a really short memory -- joins Marlin and complicates the encounters with sharks, jellyfish, and a host of ocean dangers. Meanwhile, Nemo plots his escape from a dentist's fish tank.—Jwelch5742",
+    "A young clownfish named Nemo is captured by underwater sea divers and taken to a dentist office located in a wonderful city called Sydney Harbour! Marlon, Nemos father is out on a journey to retrieve Nemo and bring him back home. Marlon meets a dim-witted and memory losing fish named Dory who tries to help Marlon along the way. Nemo and the other fish in the fish tank plan an escape attempting to finally get back into the fresh open water.—Steve Shedloski",
+    "After a clownfish is taken by a dentist, his father and a friend travel across the ocean to locate him. Along the way, they meet new friends who try to help them as much as they can. They also learn a few new things about along the way as well.—RECB3"
+  ],
+  "synopsis": "Two clownfish, Marlin (Albert Brooks) and his wife Coral (Elizabeth Perkins), admire the view from their new home within a sea anemone overlooking the drop off of a coral reef. Below them, their clutch of eggs lies hidden in a small hole. Excited to be first-time parents, they discuss names, Coral expressing her fondness for \"Nemo.\" They flirt playfully with each other until Coral's attention is distracted by the appearance of a barracuda. Ignoring Marlin's order to hide, Coral moves to protect her eggs and the barracuda lunges. Marlin rushes in but the barracuda knocks him out with a flick of its tail, sending him back into the anemone. When he comes to that night, he discovers that Coral and the eggs are gone but manages to find a single surviving egg with a scratch on its right side. Vowing to protect it, he names the codling Nemo.Marlin raises Nemo (Alexander Gould) in a secure anemone further into the reef. On the morning of his first day of school, an excited Nemo wakes his father, flapping his tiny right fin wildly. Marlin helps him prepare for the day, showing to be overprotective and doubtful of Nemo's ability to take care of himself. Marlin escorts Nemo to school -- along the way, Nemo asks Marlin how old sea turtles live to be; Marlin doesn't have an answer. Mr. Ray (Bob Peterson), the local teacher, takes the children on a field trip. When Marlin learns that they are going to the drop off, he swims after them in a panic. Upon arrival Nemo follows three of his peers (Jordan Ranft, Erica Beck, and Erik Per Sullivan), bored with Mr. Ray's lesson, to the very edge of the reef where they see a boat (misnaming it a \"butt\") anchored in the distance. They dare each other to swim out into open water to touch the \"butt\" as Marlin arrives and yells at Nemo for endangering himself. While talking to Mr. Ray, Marlin fails to notice Nemo swimming fiercely out to sea, stopping beneath the boat. In an act of defiance, Nemo touches the boat with his fin and starts to swim back before a diver suddenly appears behind him and traps him in a small bag. Marlin is prevented from swimming out after his son by another diver who takes a picture, disorienting him. Regaining his sight, Marlin swims after the divers as the boat departs the reef. The diver places Nemo in a cooler full of water and accidentally drops his mask into the water.Marlin swims after the boat but eventually loses the trail. He swims to the sea floor, begging passing schools of fish for help until he bumps into a regal tang named Dory (Ellen DeGeneres). She claims to have seen the boat and leads a thankful Marlin in the direction it went but, as they swim along, she becomes lax and even tries to evade Marlin when she notices him behind her. When she confronts him, he questions her and she apologizes, telling Marlin she has short-term memory loss. Dumbfounded, Marlin turns to leave but is stopped by a great white shark who introduces himself as Bruce (Barry Humphries). He invites Marlin and Dory to a get-together he's having and, despite Marlin's objections, escorts them to his lair in a sunken submarine surrounded by live sea mines. They meet Bruce's fellow sharks, hammerhead Anchor (Eric Bana) and mako Chum (Bruce Spence), before beginning an assembly where they pledge to abstain from eating fish.The two are fairly terrified by the sharks until Marlin spots the diver's mask stuck on a shard of metal. Inspecting it, he discovers markings on the strap that might provide a clue to Nemo's whereabouts. Dory picks up the mask to see if the sharks can read but Marlin tries to take it back, engaging in a tug-of-war before the mask snaps into Dory's face, causing a nosebleed. The smell of the blood excites Bruce's inner carnivore and, though Anchor and Chum try to stage an intervention by holding him back, he mindlessly chases Marlin and Dory through the submarine, taking hold of the mask in his mouth in the process. During this time, Dory reveals that she can read human words before she and Marlin take refuge in a torpedo well. Dory releases the torpedo which wedges in Bruce's mouth, giving Marlin enough time to grab the mask and flee back into the well. Bruce throws the torpedo away and Anchor and Chum are able to regain his attention in time before the torpedo sets off one of the mines, causing a violent chain reaction of explosions of the entire minefield.Meanwhile, Nemo is placed into a new container revealed to be a fish tank in a dentist's office. There he meets a few of the original inhabitants including Bloat the puffer fish (Brad Garrett), Bubbles the yellow tang (Stephen Root), Peach the ochre sea star (Allison Janney), Gurgle the royal gramma (Austin Pendleton), Jacques the French-accented Pacific cleaner shrimp (Joe Ranft), and Deb (Vicki Lewis), a black-tailed humbug who believes her reflection to be her twin sister, Flo. A pelican named Nigel (Geoffrey Rush) perches himself on the window near the tank and greets Nemo after briefly discussing dental procedures with the other fish. He's shooed away by the dentist (Bill Hunter) who shows Nemo a picture of his niece, Darla, whom Nemo has been promised to. The other fish cringe and call her a fish killer ('she wouldn't stop shaking the bag'). Afraid and wanting to go home, Nemo backs away and gets stuck in the suction tube of the filter. The other fish go to help him but Gill (Willem Dafoe), a wise moorish idol with large scars on his right side, tells Nemo that he must escape himself, giving Nemo instructions and encouragement. Nemo manages to free himself and Peach relates his strength to his ocean origins, like Gill.Marlin and Dory awake in the aftermath of the explosions to find the submarine hanging precariously over the edge of a deep ravine. Their movements cause the submarine to suddenly tip forward and collide with the rock wall of the far side. During the chaos and blinded temporarily by the dust, Dory accidentally drops the mask into the darkness below. Marlin gives it up for lost but Dory cheerfully takes him into the depths, telling him to just keep swimming. After a moment, they come upon a mysterious and alluring light which, unfortunately, belongs to a hungry anglerfish. During the chase, Marlin finds the mask and distracts the anglerfish long enough so that Dory can read the address written on it. Marlin then leads the anglerfish towards the mask and traps it using the masks strap as a tether. Dory recites the address 'P. Sherman 42 Wallaby Way, Sydney' and is ecstatic to find that she can remember it.Back in the fish tank, Nemo is woken by Jacques who takes him to the tank's toy volcano (Mt. Wannahockaloogie) where the other fish perform an initiation to include Nemo in their club, giving him the nickname \"Shark Bait.\" Gill then proposes a plan to escape the fish tank by jamming the gear in the filter which would cause the tank to become so dirty that the dentist will have to manually clean it and place the fish in baggies on the counter, allowing them to roll out the window to the street, cross it, and land in the harbor. Though the other fish are skeptical, Gill asserts that Nemo is small enough to fit into the filter and make it back through the tubing. Nemo agrees to do it.Marlin and Dory continue their journey and request directions to Sydney from a school of moonfish (John Ratzenberger). They tell Marlin and Dory to take the East Australian Current (EAC), after an impressive display of their synchronized impressions. When they come to a rocky trench. Marlin resolves to swim over it to avoid the ominous enclosure. With the EAC in view, Dory becomes distracted and is stung by a tiny jellyfish. As Marlin tends to her, they are suddenly surrounded by a school of larger jellyfish. Finding that the tops don't sting, Marlin and Dory bounce on them as they race out of the school. Marlin makes it out first and, when Dory doesn't appear, goes back in to retrieve her. He finds her unconscious and scarred from the stinging and struggles to carry her out as he is repeatedly stung. He makes it but, stung and exhausted, blacks out as a large shadow descends on him.Nemo waits in the fish tank with Gill who is keeping an eye on the dentist for an opportune moment to jam the filter. Noticing Nemo looking at his scars, Gill explains that during his first escape attempt he landed on dental tools, though he was aiming for the toilet. He says that all drains lead to the ocean and that fish weren't meant to live in a tank. Peach cries out that the dentist is going for a bathroom break which cues Nemo to leap into the filter. Gill tosses him a pebble and gives instructions as Nemo wedges the fan, stopping the flow of water. However, as he is moving through the pipe back into the tank, the pebble unhinges and the fan turns on again, sucking Nemo backwards. The other fish hurry and send Nemo a toy kelp strand to grab onto and pull him out. Shaken, Peach asks Gill not to send Nemo in the filter again. Sullen and realizing his plan put Nemo in grave danger, Gill says they're done.Meanwhile, Marlin wakes up to find himself resting on the shell of a laid-back sea turtle with a surfer's attitude who introduces himself as Crush (Andrew Stanton). Incredulous, he discovers that he's also riding along the EAC with dozens of other sea turtles and large fish. Marlin is reunited with Dory who sports a scar on her side from the jellyfish stings and meets Crush's son, Squirt (Nicholas Bird). Marlin also meets Crush's spirited son, Squirt. While playing with the other sea turtles, Squirt is accidentally propelled outside the current. Marlin is panicky at first however Crush convinces him that Squirt can handle himself. Squirt is able to swim his way back into the current & gleefully joins his father. Marlin sees that even the youngest among the turtles can learn to survive in the ocean. Having been told some details of their journey and the encounter with the jellyfish, Squirt and the other hatchlings ask Marlin to tell them the rest of the story. Hesitant at first, Marlin relents and begins with when Nemo was abducted. His story is not ignored; it's passed on from turtle to fish to dolphin to bird and onward until it reaches Nigel the pelican. Hearing Nemo's name, he flies off to the dentist's office. There, Nemo tries to apologize to Gill for the botched escape attempt but Gill says that his eagerness to escape almost cost Nemo his life and that nothing should be worth that. Nigel arrives, crashing into the closed window, but recovers and is able to tell Nemo the story of Marlin's journey as it was told to him. When Nigel suggests that Nemo's father took on three sharks and a school of jellyfish, Nemo is newly impressed with his father. Invigorated, Nemo takes it upon himself to try the filter attempt again and, this time, succeeds.Marlin and Dory continue along the EAC until they come to their exit point where Crush and Squirt show them where to depart the main line. After a confusing instructional speech on \"proper exiting technique\" Squirt pushes them into the exit flume and back into open water. Thanking Crush, Marlin asks the turtle how old he is; Crush answers that's he's \"150 years old & still young!\" They are instructed to continue through a large purplish plume of plankton to Sydney. However, they soon become lost and Dory resolves to ask a distant fish for directions. Though Marlin is afraid at first, he decides to trust Dory and she calls out to the distant figure. When she sees its a minke whale, she starts speaking 'whale', asking for help. Marlin grows frustrated with her again just as a whale approaches from behind and pulls them into its mouth.Back in the fish tank, a couple of days' worth without a filter has rendered every surface covered in green algae. When the dentist sees this, he opts to clean the tank the following morning before Darla's arrival. Nemo looks out the window to the harbor outside, wondering if his father is there already, waiting for him.In the whale's mouth, Marlin and Dory remain safe with enough water to swim in. Though Dory is complacent, Marlin futilely attempts to break out by ramming into the whale's baleen. He yells at Dory for claiming to have spoken whale, calling her insane and lamenting over the fact that he'll never see his son again. Dory tries to console him as the whale emits a call and the water in the mouth begins to drain. The whale then lifts his tongue to push Marlin and Dory to the back of its throat but Marlin refuses to let go until Dory assures him that, though she doesn't know what will happen, everything will be all right. Marlin closes his eyes and releases his grip on the whale's tongue. They fall to the back of the throat where they are then shot out of the whale's blowhole, landing in Sydney Harbor. Overjoyed to have finally arrived, Marlin sends his thanks to the whale and encourages Dory to help him find the boat that took Nemo.The following morning, Peach wakes up with the horrified realization that the tank is suddenly clean. The fish find that the dentist had installed a new high-tech filter the night before and, though they are impressed with the fluid functionality of the device, they worry about what they will do when Darla arrives. The dentist suddenly pulls Nemo up in a fish net but Gill and the other fish swim into it and instruct Nemo to swim down, pulling the net into the tank and away from the dentist's grip. Despite their efforts, Nemo is quickly scooped up in a plastic bag and set on the counter. The other fish tell Nemo to roll out the window but, before he can get far, the dentist places the baggie in a tin to keep him from moving. Gill tries to assure Nemo that he'll be OK but, at that moment, Darla (LuLu Ebeling) crashes into the office.Marlin and Dory continue to search the harbor, both tired from looking at boats all night, when they are scooped up in the beak of a pelican. The pelican lands on a nearby dock and swallows them but Marlin refuses to have come this far just to be breakfast. He lodges himself and Dory in the pelican's neck, causing it to start choking. Nearby, Nigel wakes from a nap to notice the pelican, Jerry, choking and flies down to assist. He hits Jerry in the back, expelling Marlin and Dory from his mouth onto the dock where Marlin shouts out that he needs to find Nemo. Recognizing the name, Nigel turns to Jerry excitedly and tells him this is the fish that they've been hearing about. When he turns back to Marlin, he sees that he and Dory have flopped their way towards the end of the dock. Nigel chases after them but they are all forced to freeze when they notice that they are surrounded by hungry seagulls. When Nigel tells Marlin that he knows his son, Nemo, Marlin flips in excitement, causing the seagulls to rush forward, but Nigel manages to take Dory and Marlin in his mouth and fly off.Darla torments the fish in the tank before going in to see her uncle. As he picks up the baggie with Nemo inside, he notices Nemo floating upside down. The other fish quickly realize that Nemo is feigning death so that he can be flushed down the toilet but the dentist moves towards the trash can just as Nigel arrives in the window. Marlin forces Nigel into the office and the dentist drops the baggie. Marlin sees Nemo floating and believes him to be dead as the dentist grabs Nigel and forces him out the window again, Marlin calling out to Nemo. Hearing his name, Nemo pops upright but Darla takes the bag and starts shaking it, trying to 'wake up the fishy'. Gill lodges himself into the top of Mt. Wannahockaloogie and the force of the bubbles propels him out of the tank. He lands on Darla's head and she drops Nemo's bag on a table full of tools, breaking the plastic. Gill falls off Darla's head next to Nemo and flips him into the sink and down the drain using a magnifying scope as a catapult. The dentist quickly puts Gill back into the tank where he can breathe. Gill tells the others not to worry about Nemo; that all drains lead to the ocean. Darla is upset and receives a squirt of water in her face from the sink.Nemo travels down the piping until he reaches a water treatment filtration, a series of piping that travels on the sea floor out of the harbor. Nigel flies out of the harbor with Marlin and Dory and releases them into the water, offering his condolences. Distraught, Marlin thanks Dory for helping him and begins to swim away. She asks him to stay with her and that her memory is better when he's around, that she doesn't want to forget. Marlin refuses and swims away, leaving her alone.Nemo emerges from the piping and calls out for his father. He finds Dory swimming confusedly under a buoy, saying that she's lost someone but can't remember. Nemo offers to search with her and Dory happily complies, though she doesn't recognize him. As they swim together, Dory comes upon a piece of piping and reads 'Sydney' on it. Suddenly, all of her memories come flooding back to her and she rushes at Nemo, hugging him fiercely, before leading him in the direction Marlin went. They find out that Marlin headed towards fishing grounds and reunite with him amongst a large school of fish. The school of fish then cries out in panic as a large net from a fishing boat above envelopes them. Dory is caught up in the netting and Nemo says that he must swim in and instruct the fish to swim down. Though Marlin fears for Nemo's safety, he lets go and allows Nemo to do what he can. Marlin instructs the panicked fish from outside the net and they all soon start swimming in synch downwards, pulling the net with them until it finally snaps away from the boat, freeing all the fish. Marlin and Dory find Nemo under the heavy netting -- Marlin is stricken with grief, believing Nemo is dead. Nemo regains consciousness & Marlin gently tells him that he found out that sea turtles live to be 150 years old.Marlin and Nemo come to an understanding and all three go back to their home in the reef. Marlin's demeanor has changed for the better and he is more upbeat and confident in his son's abilities. He takes him to school where Dory is dropped off by Bruce, Anchor, and Chum who have included Dory in their vegetarian program. Nemo hugs his father before heading off on another field trip with Mr. Ray. Marlin watches them leave, knowing that his son will be all right.Back at the dental office in Sydney, the dentist curses the high-tech filter which has suddenly stopped working. He complains about having to put all the fish in baggies but notices that they have mysteriously disappeared from the counter. Horns honk out the open window as Peach is the last to cross the street and land herself in the harbor with the other fish. As they float in their baggies, unable to escape confinement, Bloat wonders 'Now what?'In a post-credits stinger, the tiny fish that was Chum's \"friend\" at the support group is stalked by the anglerfish. As the anglerfish moves in to swallow him, the tiny fish suddenly opens his mouth to a surprisingly enormous size and swallows the angler."
+}

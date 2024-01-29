@@ -1,0 +1,2441 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cj0VkGBTywa7WTIPPW9xgqmUVWl.jpg",
+  "id": 13448,
+  "title": "Angels & Demons",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hrvNVd0GDeytbDhduWa3SFKmg4A.jpg",
+  "release_date": "2009-05-13",
+  "vote_average": 6.708,
+  "vote_count": 6485,
+  "popularity": 38.284,
+  "overview": "Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati - a secret, underground organization - after four cardinals are kidnapped on the night of the papal conclave.",
+  "imdb_id": "tt0808151",
+  "budget": 150000000,
+  "homepage": "http://www.angelsanddemons.com/",
+  "revenue": 485900000,
+  "runtime": 138,
+  "tagline": "The holiest event of our time. Perfect for their return.",
+  "genres": [
+    "Thriller",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Imagine Entertainment",
+    "Skylark Productions",
+    "Panorama Films"
+  ],
+  "production_countries": [
+    "IT",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Robert Langdon"
+      },
+      {
+        "name": "Ewan McGregor",
+        "character": "Camerlengo Patrick McKenna"
+      },
+      {
+        "name": "Ayelet Zurer",
+        "character": "Vittoria Vetra"
+      },
+      {
+        "name": "Stellan Skarsgård",
+        "character": "Commander Richter"
+      },
+      {
+        "name": "Pierfrancesco Favino",
+        "character": "Inspector Olivetti"
+      },
+      {
+        "name": "Nikolaj Lie Kaas",
+        "character": "Assassin"
+      },
+      {
+        "name": "Armin Mueller-Stahl",
+        "character": "Cardinal Strauss"
+      },
+      {
+        "name": "Thure Lindhardt",
+        "character": "Chartrand"
+      },
+      {
+        "name": "David Pasquesi",
+        "character": "Claudio Vincenzi"
+      },
+      {
+        "name": "Cosimo Fusco",
+        "character": "Father Simeon"
+      },
+      {
+        "name": "Victor Alfieri",
+        "character": "Lieutenant Valenti"
+      },
+      {
+        "name": "Franklin Amobi",
+        "character": "Cardinal Lamasse"
+      },
+      {
+        "name": "Curt Lowens",
+        "character": "Cardinal Ebner"
+      },
+      {
+        "name": "Bob Yerkes",
+        "character": "Cardinal Guidera"
+      },
+      {
+        "name": "Marc Fiorini",
+        "character": "Cardinal Baggia"
+      },
+      {
+        "name": "Carmen Argenziano",
+        "character": "Father Silvano Bentivoglio"
+      },
+      {
+        "name": "Howard Mungo",
+        "character": "Cardinal Yoruba"
+      },
+      {
+        "name": "Rance Howard",
+        "character": "Cardinal Beck"
+      },
+      {
+        "name": "Steve Franken",
+        "character": "Cardinal Colbert"
+      },
+      {
+        "name": "Gino Conforti",
+        "character": "Cardinal Pugini"
+      },
+      {
+        "name": "Elya Baskin",
+        "character": "Cardinal Petrov"
+      },
+      {
+        "name": "Richard Rosetti",
+        "character": "Conclave Cardinal"
+      },
+      {
+        "name": "Silvano Marchetto",
+        "character": "Conclave Cardinal"
+      },
+      {
+        "name": "Thomas Morris",
+        "character": "Urs Weber"
+      },
+      {
+        "name": "Jonas Fisch",
+        "character": "Adrian Bachman"
+      },
+      {
+        "name": "August Wittgenstein",
+        "character": "Swiss Guardsman"
+      },
+      {
+        "name": "Ben Bela Böhm",
+        "character": "Swiss Guardsman"
+      },
+      {
+        "name": "Paul Schmitz",
+        "character": "Swiss Guardsman"
+      },
+      {
+        "name": "Jeffrey Boehm",
+        "character": "Swiss Guard Blue"
+      },
+      {
+        "name": "Xavier J. Nathan",
+        "character": "Philippe"
+      },
+      {
+        "name": "Steve Kehela",
+        "character": "American Reporter"
+      },
+      {
+        "name": "Ursula Brooks",
+        "character": "BBC Reporter"
+      },
+      {
+        "name": "Rashmi",
+        "character": "British Reporter"
+      },
+      {
+        "name": "Yan Cui",
+        "character": "Chinese Reporter"
+      },
+      {
+        "name": "Fritz Michel",
+        "character": "French Reporter"
+      },
+      {
+        "name": "Maria Cristina Heller",
+        "character": "Italian Reporter"
+      },
+      {
+        "name": "Rafael Petardi",
+        "character": "Italian Reporter"
+      },
+      {
+        "name": "Yesenia Adame",
+        "character": "Mexican Reporter"
+      },
+      {
+        "name": "Kristof Konrad",
+        "character": "Polish Reporter"
+      },
+      {
+        "name": "Masasa Moyo",
+        "character": "South African Reporter"
+      },
+      {
+        "name": "Ed Francis Martin",
+        "character": "South American Reporter"
+      },
+      {
+        "name": "Cheryl Howard",
+        "character": "CERN Scientist"
+      },
+      {
+        "name": "Endre Hules",
+        "character": "CERN Scientist"
+      },
+      {
+        "name": "Norbert Weisser",
+        "character": "CERN Scientist"
+      },
+      {
+        "name": "Shelby Zemanek",
+        "character": "Little Girl in Square"
+      },
+      {
+        "name": "Vanna Salviati",
+        "character": "Protester"
+      },
+      {
+        "name": "Raffi Di Blasio",
+        "character": "Protester"
+      },
+      {
+        "name": "Todd Schneider",
+        "character": "Carabinieri"
+      },
+      {
+        "name": "Roberto Donati",
+        "character": "Carabinieri"
+      },
+      {
+        "name": "Rocco Passafaro",
+        "character": "Carabinieri"
+      },
+      {
+        "name": "Emanuele Secci",
+        "character": "Carabinieri"
+      },
+      {
+        "name": "Anna Katarina",
+        "character": "Docent"
+      },
+      {
+        "name": "James Ritz",
+        "character": "Tourist"
+      },
+      {
+        "name": "Felipe Torres Urso",
+        "character": "Tourist"
+      },
+      {
+        "name": "Jose David Acevedo",
+        "character": "Italian Police (uncredited)"
+      },
+      {
+        "name": "Roy Allen III",
+        "character": "Cardinal (uncredited)"
+      },
+      {
+        "name": "Tibor Ambra",
+        "character": "Carabinieri Captain (uncredited)"
+      },
+      {
+        "name": "Victor of Aquitaine",
+        "character": "Vatican Choir Member (uncredited)"
+      },
+      {
+        "name": "Michael Ark",
+        "character": "CNN Reporter (uncredited)"
+      },
+      {
+        "name": "John Jason Bailey",
+        "character": "Swiss Guard Blue (uncredited)"
+      },
+      {
+        "name": "Jerred Berg",
+        "character": "Stem Cell Protestor #2 (uncredited)"
+      },
+      {
+        "name": "Sally Berman",
+        "character": "Vatican Square Singer (uncredited)"
+      },
+      {
+        "name": "Yuki Bird",
+        "character": "Scientist (uncredited)"
+      },
+      {
+        "name": "Anthony Bonaventura",
+        "character": "Vatican Police (uncredited)"
+      },
+      {
+        "name": "Robert Bradvica",
+        "character": "Italian Boy (uncredited)"
+      },
+      {
+        "name": "Ciara Bravo",
+        "character": "Italian Girl (uncredited)"
+      },
+      {
+        "name": "Michael Patrick Breen",
+        "character": "Ukrainian General (uncredited)"
+      },
+      {
+        "name": "Aidan Bristow",
+        "character": "Conclave Priest #1 (uncredited)"
+      },
+      {
+        "name": "Cheryl BryantBruce",
+        "character": "Diplomat's Wife Vatican Mourner (uncredited)"
+      },
+      {
+        "name": "Raúl Cardona",
+        "character": "Piazza Navona Tourist (uncredited)"
+      },
+      {
+        "name": "Christopher Casa",
+        "character": "Tourist (uncredited)"
+      },
+      {
+        "name": "Patrick Casa",
+        "character": "Choirboy / Tourist (uncredited)"
+      },
+      {
+        "name": "Pasquale Cassalia",
+        "character": "Rai Reporter (uncredited)"
+      },
+      {
+        "name": "Farouk Chakwa",
+        "character": "Carabinieri (uncredited)"
+      },
+      {
+        "name": "Bacha Chilaia",
+        "character": "Carabinieri Sergeant (uncredited)"
+      },
+      {
+        "name": "Jimmy Clabots",
+        "character": "Vatican Choir Member (uncredited)"
+      },
+      {
+        "name": "Mark E. Clason",
+        "character": "Vatican Choir Member (uncredited)"
+      },
+      {
+        "name": "Tammy Colbert",
+        "character": "Vatican Square Gypsy (uncredited)"
+      },
+      {
+        "name": "Austin Michael Coleman",
+        "character": "Young Funeral Mourner (uncredited)"
+      },
+      {
+        "name": "Robert Corvin",
+        "character": "U.S. Army General (uncredited)"
+      },
+      {
+        "name": "Luca Costa",
+        "character": "Fireman (uncredited)"
+      },
+      {
+        "name": "Gina D'Acciaro",
+        "character": "Vatican Square Singer (uncredited)"
+      },
+      {
+        "name": "John Dardenne",
+        "character": "Swiss Guard Multicolor (uncredited)"
+      },
+      {
+        "name": "William \"Will\" Daubert",
+        "character": "Priest (uncredited)"
+      },
+      {
+        "name": "Shervin Davatgar",
+        "character": "Arab Reporter (uncredited)"
+      },
+      {
+        "name": "Blake Dawson",
+        "character": "Italian Girl (uncredited)"
+      },
+      {
+        "name": "Vincent De Paul",
+        "character": "Vatican Pall Bearer (uncredited)"
+      },
+      {
+        "name": "Calvin Dean",
+        "character": "Choir Member #1 (uncredited)"
+      },
+      {
+        "name": "David Dedinsky",
+        "character": "Vatican Cardinal (uncredited)"
+      },
+      {
+        "name": "Lea Deesing",
+        "character": "Italian Mourner (uncredited)"
+      },
+      {
+        "name": "Norman Deesing",
+        "character": "Italian Mourner (uncredited)"
+      },
+      {
+        "name": "Angelique Deuitch",
+        "character": "Tourist (uncredited)"
+      },
+      {
+        "name": "Paul DiVito",
+        "character": "Priest (uncredited)"
+      },
+      {
+        "name": "Brant Dorman",
+        "character": "Swiss Guard Blue (uncredited)"
+      },
+      {
+        "name": "Allen Dula",
+        "character": "Vatican Police Officer (uncredited)"
+      },
+      {
+        "name": "Liz Duran",
+        "character": "Vatican Mouner (uncredited)"
+      },
+      {
+        "name": "Matthew Earnest",
+        "character": "Italian Mourner (uncredited)"
+      },
+      {
+        "name": "Peter Ettinger",
+        "character": "Tourist With Backpack (uncredited)"
+      },
+      {
+        "name": "Jonn Faircrest",
+        "character": "Papal Photographer (uncredited)"
+      },
+      {
+        "name": "Les Feltmate",
+        "character": "Priest (uncredited)"
+      },
+      {
+        "name": "William Ferguson",
+        "character": "Cardinal (uncredited)"
+      },
+      {
+        "name": "Amanda Jane Fleming",
+        "character": "Tourist (uncredited)"
+      },
+      {
+        "name": "David Fletcher",
+        "character": "Protestor #3 (uncredited)"
+      },
+      {
+        "name": "Gregory George Frank",
+        "character": "Protester (uncredited)"
+      },
+      {
+        "name": "Harrison Freed",
+        "character": "Tourist (uncredited)"
+      },
+      {
+        "name": "Aaron Denius Garcia",
+        "character": "Carabinieri (uncredited)"
+      },
+      {
+        "name": "Nancy Gassner-Clayton",
+        "character": "Vatican Square Singer (uncredited)"
+      },
+      {
+        "name": "Justin Giddings",
+        "character": "Vatican Choir Member (uncredited)"
+      },
+      {
+        "name": "Phil Gold",
+        "character": "Vatican Square Singer (uncredited)"
+      },
+      {
+        "name": "Alan Gray",
+        "character": "Greek Patriarch Priest (uncredited)"
+      },
+      {
+        "name": "Marco Greco",
+        "character": "Fireman (uncredited)"
+      },
+      {
+        "name": "Roger Groh",
+        "character": "Good Bishop (uncredited)"
+      },
+      {
+        "name": "Nancy Guerriero",
+        "character": "Vatican Nun (uncredited)"
+      },
+      {
+        "name": "Andrew Hamilton",
+        "character": "Swiss Gaurd Multicolored (uncredited)"
+      },
+      {
+        "name": "Martin Harris",
+        "character": "Polish Reporter (uncredited)"
+      },
+      {
+        "name": "Miriam Harris",
+        "character": "Mourner (uncredited)"
+      },
+      {
+        "name": "Charlie Heydt",
+        "character": "Swiss Guard (uncredited)"
+      },
+      {
+        "name": "David Hill",
+        "character": "Pantheon Tourist (uncredited)"
+      },
+      {
+        "name": "Kei Hirayama",
+        "character": "Scientist (uncredited)"
+      },
+      {
+        "name": "Brett Hunt",
+        "character": "Vatican Priest (uncredited)"
+      },
+      {
+        "name": "Marco Infante",
+        "character": "Italian Mourner (uncredited)"
+      },
+      {
+        "name": "Clark James",
+        "character": "Vatican Policeman (uncredited)"
+      },
+      {
+        "name": "Christopher Karl Johnson",
+        "character": "Cardinal (uncredited)"
+      },
+      {
+        "name": "Dave Johnson",
+        "character": "Press Photographer (uncredited)"
+      },
+      {
+        "name": "Gina Juliet",
+        "character": "Vatican Square Singer (uncredited)"
+      },
+      {
+        "name": "Andrea Kelley",
+        "character": "Italian Teen (uncredited)"
+      },
+      {
+        "name": "Slim Khezri",
+        "character": "Vatican Square Gypsy (uncredited)"
+      },
+      {
+        "name": "Sophiah Koikas",
+        "character": "Tourist (uncredited)"
+      },
+      {
+        "name": "Michael Laren",
+        "character": "Vatican Choir Singer (uncredited)"
+      },
+      {
+        "name": "Robert W. Laur",
+        "character": "Vatican Choir Singer (uncredited)"
+      },
+      {
+        "name": "Adrian Lee",
+        "character": "Vatican Square Soloist (uncredited)"
+      },
+      {
+        "name": "David Michael Lewin",
+        "character": "Mourner (uncredited)"
+      },
+      {
+        "name": "Maynor Lopez",
+        "character": "Carabinieri (uncredited)"
+      },
+      {
+        "name": "Jon Lucero",
+        "character": "Vatican Police Officer (uncredited)"
+      },
+      {
+        "name": "Eder López",
+        "character": "Italian Citizen (uncredited)"
+      },
+      {
+        "name": "Julie Mabry",
+        "character": "Protester in Vatican (uncredited)"
+      },
+      {
+        "name": "Les Mahoney",
+        "character": "Hip Priest (uncredited)"
+      },
+      {
+        "name": "Gary Mandarino",
+        "character": "Mourner (uncredited)"
+      },
+      {
+        "name": "Albert Marrero Jr.",
+        "character": "News Camerman (uncredited)"
+      },
+      {
+        "name": "Stephen Marrero",
+        "character": "Priest (uncredited)"
+      },
+      {
+        "name": "Carina Aviles Marshall",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Debbie McAlister",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Sandra McCurdy",
+        "character": "Italian Tourist (uncredited)"
+      },
+      {
+        "name": "Anthony Molinari",
+        "character": "Vatican Guard (uncredited)"
+      },
+      {
+        "name": "Elsa Morales Myers",
+        "character": "Tourist (uncredited)"
+      },
+      {
+        "name": "Mary E. Morales",
+        "character": "Vatican Square Soloist (uncredited)"
+      },
+      {
+        "name": "Sauvion Morkunas",
+        "character": "Flag-bearer (uncredited)"
+      },
+      {
+        "name": "William Myers",
+        "character": "Photographer (uncredited)"
+      },
+      {
+        "name": "Manuel Nardi",
+        "character": "Priest (Mr. Grey's Men) (uncredited)"
+      },
+      {
+        "name": "Justin Orton",
+        "character": "Tourist (uncredited)"
+      },
+      {
+        "name": "Sarita Ospina",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Dale Pavinski",
+        "character": "Carabinieri Captain (uncredited)"
+      },
+      {
+        "name": "Amelia Pawlak",
+        "character": "Italian Mourner / Nun (uncredited)"
+      },
+      {
+        "name": "David Pearl",
+        "character": "Priest (uncredited)"
+      },
+      {
+        "name": "David Pryor",
+        "character": "Mourner (uncredited)"
+      },
+      {
+        "name": "Lawrence Ravettina",
+        "character": "Vatican Cardinal (uncredited)"
+      },
+      {
+        "name": "Paul Richard",
+        "character": "Swissguard #4 (uncredited)"
+      },
+      {
+        "name": "Louis Riviere",
+        "character": "Carabinieri (uncredited)"
+      },
+      {
+        "name": "Jarrod Robbins",
+        "character": "Swiss Guardsman (uncredited)"
+      },
+      {
+        "name": "Bertrand Roberson Jr.",
+        "character": "Tourist (uncredited)"
+      },
+      {
+        "name": "John Robert",
+        "character": "Tourist with Hat (uncredited)"
+      },
+      {
+        "name": "Adriana Roze",
+        "character": "Vatican Square Singer (uncredited)"
+      },
+      {
+        "name": "Franklin Ruehl",
+        "character": "Mourner (uncredited)"
+      },
+      {
+        "name": "Kelly Ryan",
+        "character": "Protestor #4 (uncredited)"
+      },
+      {
+        "name": "Dylan Saccoccio",
+        "character": "Carabinieri (uncredited)"
+      },
+      {
+        "name": "Frank Scozzari",
+        "character": "Vatican Police Officer (uncredited)"
+      },
+      {
+        "name": "James Seaman",
+        "character": "Costudi (uncredited)"
+      },
+      {
+        "name": "Keith Shawn",
+        "character": "Vatican Tourist (uncredited)"
+      },
+      {
+        "name": "Jutta Speidel",
+        "character": "Woman (uncredited)"
+      },
+      {
+        "name": "Arne Starr",
+        "character": "Vatican Priest (uncredited)"
+      },
+      {
+        "name": "Matthew Thane",
+        "character": "Italian Visitor (uncredited)"
+      },
+      {
+        "name": "GJ Tiari",
+        "character": "The Cryer (uncredited)"
+      },
+      {
+        "name": "Nico Toffoli",
+        "character": "Carabieniere Riot (uncredited)"
+      },
+      {
+        "name": "Devin Toft",
+        "character": "Carabinieri (uncredited)"
+      },
+      {
+        "name": "James Tumminia",
+        "character": "Vatican Priest (uncredited)"
+      },
+      {
+        "name": "Julian Vada",
+        "character": "Carabinieri (uncredited)"
+      },
+      {
+        "name": "Ryan Van de Kamp Buchanan",
+        "character": "The Swiss Guard (uncredited)"
+      },
+      {
+        "name": "Ernie Ventry",
+        "character": "Gypsy in Square (uncredited)"
+      },
+      {
+        "name": "Damon Viola",
+        "character": "Mourner (uncredited)"
+      },
+      {
+        "name": "Shannon Watson",
+        "character": "Swiss Guard (uncredited)"
+      },
+      {
+        "name": "Denise Winsor",
+        "character": "Vatican Nun (uncredited)"
+      },
+      {
+        "name": "Jon Morgan Woodward",
+        "character": "The American with the Sign (uncredited)"
+      },
+      {
+        "name": "Allan Yates",
+        "character": "Swiss Guard (uncredited)"
+      },
+      {
+        "name": "Alfred Molina",
+        "character": "Narrator (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Hans Zimmer",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Brian Grazer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David Koepp",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Janet Hirshenson",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jane Jenkins",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Anthony J. Ciccolini III",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Akiva Goldsman",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Ron Howard",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ron Howard",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Todd Hallowell",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Todd Hallowell",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Kathleen McGill",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kathleen McGill",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Louisa Velis",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Daniel P. Hanley",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Mike Hill",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Michelle Lewitt",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Robert Gould",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Allan Cameron",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Giles Masters",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Dan Brown",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Dan Brown",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "John Calley",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Salvatore Totino",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Daniel Orlandi",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "William M. Connor",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "William M. Connor",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Debbie McWilliams",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "David Leitch",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Conrad E. Palmisano",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Angus Bickerton",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Ben Estrada",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Keith Campbell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Franco Maria Salamon",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Greg P. Russell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Marjorie McCown",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Keith P. Cunningham",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Fabio Massimo Dell'Orco",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Tony Gardner",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Dawn Swiderski",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Richard Redlefsen",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Richard Baker",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Julie Michaels",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Adcock",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Kevin Kaska",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Ottaviano Dell'Acqua",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joel Harlow",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Luke Freeborn",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Spice Williams-Crosby",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Rafael E. Sánchez",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Nikoletta Skarlatos",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Laura Albert",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sophia M. Crawford",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Gregory Alpert",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Marco Valerio Pugini",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Béatrice Kruger",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Carla Meyer",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Doug Coleman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brad Martin",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Zack Duhame",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Baugh",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Giorgio Gregorini",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Reg Poerscout-Edgerton",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Gary A. Hecker",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Robert Komatsu",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "name": "Anna Culp",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ute Leonhardt",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Samantha C. Kirkeby",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Daniel May",
+        "department": "Visual Effects",
+        "job": "Pre-Visualization Supervisor"
+      },
+      {
+        "name": "Vincenzo Carpineta",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Aaron Haye",
+        "department": "Crew",
+        "job": "Visual Effects Art Director"
+      },
+      {
+        "name": "Ryan McBride",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jamie Castro",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Michael J. Walsh",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Tim Rigby",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Paul Schmitz",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "James Matheny",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Massimo Rinella",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Kristen Ploucha",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Douglas Noe",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Alessandro Bertolazzi",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Augusto Grassi",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Alex Cameron",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Marc Homes",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Sue Whitaker",
+        "department": "Crew",
+        "job": "Visual Effects Art Director"
+      },
+      {
+        "name": "Larry Bellantoni",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "John Blake",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Helen Monaghan",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Phil Sims",
+        "department": "Crew",
+        "job": "Visual Effects Art Director"
+      },
+      {
+        "name": "Darren Fitzsimons",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Francis Poirier",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Jonathan Moore",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Debbie Travis",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "John M. Chalfant",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "John M. Chalfant",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Melanie Byrne",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Jason Ellson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Candice Muriedas",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Darrin Prescott",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ashley Beck",
+        "department": "Crew",
+        "job": "Motion Capture Artist"
+      },
+      {
+        "name": "Troy Robinson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael J. Broomberg",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Daniel Cotroneo",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Richard Stammers",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Piergiuseppe Serra",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Jeff Markwith",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Daniel Grant North",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Karen Ansel",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Sherry Gallarneau",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Joshua Davis",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Barrie Hemsley",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "J. Bryan Holloway",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Marco Sticchi",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Kenneth Garrett",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "David Balfour",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Rachel Aberly",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "name": "Paul Corricelli",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Joel Marrow",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Simon Allmark",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Luca Fortunato Asquini",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Michelle Brattson",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Heather Noble",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Federico Ciommo",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Trish Gallaher Glenn",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Patricia Johnson",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Gunnar Ahmer",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Cheryl Gould Strang",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Roberto Magagnini",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Dan Engle",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Patte Strong-Lord",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Rich Romig",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Angelo Bonanni",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Daniel Pagan",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Erin Oakley",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Tom Fleischman",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Kevin Ahern",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Mark Breakspear",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Ryan Cook",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Richard Higham",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Paula Pope",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Fay McConkey",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Patrick B. O'Brien",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Simon Priestman",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Andrew Rowlands",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Zade Rosenthal",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Rory Hinds",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Steve Constancio",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Ashley Ellsworth",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Sean Haley",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Daniel Pinder",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Sam Breckman",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Sam Breckman",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Joyce Heftel",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Federico Santangelo",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Jeremy Braben",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Rickley W. Dumm",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Josh Bleibtreu",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Scott Sprague",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Daniel Canfora",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Kim Ayers",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Martin Schaer",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Noon Orsatti",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Matthew A. Rubin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Linda D. Flowers",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Karl Morgan",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Gloria Pasqua Casny",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Juan Morse",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Michael Moore",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Kazu Hiro",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Deborah Wallach",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Teri E. Dorman",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Tim Pounds-Cornish",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Theraesa Rivers",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Roger Meilink",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Chiara Ugolini",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Dan Mayer",
+        "department": "Crew",
+        "job": "Sequence Supervisor"
+      },
+      {
+        "name": "Enrico Latella",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Gregory W. Smith",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Howard London",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "David Abbott",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Paula Truman",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Martyn Culpitt",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Ryan Pacheco",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Chris Weigand",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Rob Shears",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Gary J. Perticone",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Tim Wegman",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Nicole Sortillon Amos",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ross Johnson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Terry Atchison",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Leslie Weir",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Rhys Salcombe",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Erik Bernstein",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Marco Alzari",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Robert Wilson",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Jason M. Moore",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Jose F. Barrios",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Mitchell Stone",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Brian Avery",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Edward Randolph",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Brad Peterman",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Simona De Angelis",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Toby White",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Anna Lombardi",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Abdelfattah Qzaibar",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "David LeRoy Anderson",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Marek Bojsza",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Timo-Pekko Nieminen",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Brian Tilden",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Leslie Devlin",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Simonetta Valentini",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Inti Carboni",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Margaux L. Lancaster",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kevin T. Hahn",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Matthew Berning",
+        "department": "Crew",
+        "job": "Techno Crane Operator"
+      },
+      {
+        "name": "Jamie Leigh DeVilla",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Peter Geraghty",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Davide Sacchetti",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Francesco Civita",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Nick Satriano",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Viola Rock",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Giovanni Gabriele",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Darryl Humber",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Christian Giuliani",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Francesco Zaccaria",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Jerry C. Deats",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Pete Corral",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Brad Rea",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Carolyn Calvert",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Robin Brown",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Chris Thompson",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Alessandro Manni",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Tommaso Mele",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Mark Cueto",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Karin Silvestri",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nicola Marzano",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Benn Martenson",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Nino Neuboeck",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Alessandra Fortuna",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Shawn White",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Hans Georg Struhar",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Greg Etheredge",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Elizabeth Gray",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Monette Dubin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "J. Michael Popovich",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Tony Hibbard",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Fernando Barrios",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "David Barnaby",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Dennis Burrell",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Dominic Aluisi",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Alejandro J. Castillo",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Jason Selsor",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Carlo Postiglione",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Fabio Lucheroni",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jacquelyn Karambelas",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Mike Marino",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Simone Lucchetti",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Riley Harper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William Self",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "James Purdy",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Christopher Anciaume",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Anthony Mollicone",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Wyatt Bartlett",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Danny Gonzalez",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Michael E. Pacheco",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Nolan Pratt",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Douglas Plasse",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Gabriel J. Lewis",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "R. Michael Yope",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Peter Seymour Howell",
+        "department": "Visual Effects",
+        "job": "Senior Modeller"
+      },
+      {
+        "name": "Andrew Sykes",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Michael White",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jon Capleton",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Matteo Parenti",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Matteo Stirati",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Wynne Tsing",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Luca Bonatti",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Jigesh Gajjar",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "Tim Dean",
+        "department": "Camera",
+        "job": "Libra Head Technician"
+      },
+      {
+        "name": "Victor Wade",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Emily Dominguez",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Chris Bennett",
+        "department": "Lighting",
+        "job": "Lighting Programmer"
+      },
+      {
+        "name": "Bill Dance",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Thomas DeRose",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Eugene Rivera",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Rick Rader",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Cristiana Agostinelli",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Alessandro Cardelli",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Doriano Forti",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Cristina Marta",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Amelia McKinney",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Vincent G. Scotti",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Diego Cavallo",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Elena Taborra",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "name": "Luciano Tito",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Tiziano Tomei",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "name": "Raffaello Vignoli",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "name": "Tiziana Forletta",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Scott R. Meyers",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Lindsay Moorhead",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Christopher McDonald",
+        "department": "Editing",
+        "job": "Dailies Operator"
+      },
+      {
+        "name": "Steve Scott",
+        "department": "Visual Effects",
+        "job": "Senior Modeller"
+      },
+      {
+        "name": "Nathan Dean Fetzer",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Massimiliano Alagia",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Alessandro Bertucci",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Roberto Cuccoli",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Danilo Di Palma",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Luca Martis",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Luca Sardini",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Giovanni Tancredi",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Daniele Zonetti",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Fiorenzo Checchi",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Giancarlo Checchi",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Steve Morgan",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "David Allen Carter",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Daniel Tkaczyk",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Mauro Toscano",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Gabe Gerber",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Robert Sparkman",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Marco Idini",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Lior Ozan",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Graham Jack",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Peter Hart",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "Steven Moore",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Ileana Stravoskiadi",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Jason Chalmers",
+        "department": "Visual Effects",
+        "job": "Senior Modeller"
+      },
+      {
+        "name": "Andrea Papaleo",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Ryan Torres",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Veronika Mancino",
+        "department": "Production",
+        "job": "Casting Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "rome, italy",
+    "vatican",
+    "symbolism",
+    "illuminati",
+    "quantum mechanics",
+    "prequel",
+    "anti matter",
+    "conspiracy",
+    "investigator",
+    "catholicism",
+    "cern"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Harvard symbologist Robert Langdon works with a nuclear physicist to solve a murder and prevent a terrorist act against the Vatican during one of the significant events within the church.",
+    "Following the murder of a physicist, Father Silvano Bentivoglio, a symbolist, Robert Langdon, and a scientist, Vittoria Vetra, are on an adventure involving a secret brotherhood, the Illuminati. Clues lead them all around the Vatican, including the four altars of science, Earth, Air, Fire and Water. An assassin, working for the Illuminati, has captured four cardinals, and murders each, painfully. Robert and Vittoria also are searching for a new very destructive weapon that could kill millions.—XXDustfingerXX",
+    "After the untimely death of Pope Pius XVI, a momentous crisis hits the Vatican as a long-forgotten enemy of the Catholic Church emerges, threatening the lives of four abducted cardinals. Having caught the Church's attention after the events of The Da Vinci Code (2006), Harvard symbologist Professor Robert Langdon embarks on a time-sensitive mission to unravel the mystery of a murdered Italian physicist and prevent a terrorist act against Vatican City. Under those grave circumstances, Langdon teams up with CERN scientist Dr Vittoria Vetra to follow a faint trail of clues scattered all over Rome, triggering a high-stakes cat-and-mouse game. But in this frenzied quest for answers and the world's most potent and volatile energy source, the elusive adversary is always one step ahead of them. Can Langdon piece the evidence together and outsmart the Illuminati, the most dangerous secret brotherhood in history?—Nick Riganas",
+    "Despite his notorious relationship with the Roman Catholic church, Harvard symbologist Robert Langdon is once again called upon to decipher the clues to a catastrophic conspiracy. The Pope has died, and before a conclave can begin to determine his successor, the four preferitti (primary hopefuls for the papacy) are kidnapped. An ominous threat of their hourly demise, along with the complete annihilation of Vatican City, is issued as an elaborate revenge scheme by a persecuted group known as the Illuminati. With their meager time limit steadily counting down, Langdon, accompanied by beautiful physicist Vittoria Vetra, must travel throughout Rome to unravel the carefully hidden signs that will lead them to a terrifying adversary, a harrowing discovery, and the shocking truth.—The Massie Twins",
+    "The Pope has died and the conclave has been called. Four candidates have been chosen. However, before the voting, the four candidates are killed one by one. The killer leaves clues that seem to say that he or she is a member of the Illuminati. Strangely though, the Illuminati was long thought to be eradicated. Who is the mastermind? Who revived the Illuminati? What do they want?—Ryanking"
+  ],
+  "synopsis": "Under the watchful eyes of Father Silvano Bentivoglio (Carmen Argenziano) and Dr. Vittoria Vetra (Ayelet Zurer), the European Organization for Nuclear Research (CERN) initiates the Large Hadron Collider and captures three vials of antimatter. Immediately afterward, someone (Nikolaj Lie Kaas) kills Father Silvano, using his retina to infiltrate the containment chamber, and steals one vial.The Roman Catholic Church mourns the death of Pope Pius XVI in Rome. Vatican City prepares for the College of Cardinals' papal conclave, which will select the next Pope. Until that time, Camerlengo Patrick McKenna (Ewan McGregor), a papal court official and former helicopter pilot, assumes temporary control of the Vatican. Reporters, nuns, priests, and other faithful members of the Church crowd into Saint Peter's Square, waiting for the white smoke from the conclave, signaling a successful vote. But the Illuminati, a 400-year-old, underground secret society, kidnap the four most likely candidates before the conclave enters seclusion. The Illuminati threaten to kill one every hour, beginning at 8:00 pm, and then destroy the Vatican in a burst of light at midnight. A stolen security camera shows the missing antimatter vial, which will catastrophically explode when the vial's battery dies and the magnetic containment field fails.The Vatican summons symbologist Robert Langdon (Tom Hanks) from Harvard University and Vittoria Vetra from CERN to help them solve the Illuminati's threat, save the four preferiti, and replace the vial's batteries. Langdon listens to the Illuminati message and deduces that the four cardinals will die at the four altars of the \"Path of Illumination.\" However, no one knows where these altars are located. Vetra demands that Commander Richter (Stellan Skarsgård), the commandant of the Swiss Guard, to bring Father Silvano's diaries from Switzerland, hoping that they contain the name of the person with whom Silvano discussed the antimatter experiment. Langdon also demands access to the Vatican Secret Archives (something he has requested for 10 years) to see the original copy of Galileo Galilei's banned book, which may contain the locations of the four \"altars of science.\" Using the clues from this book, Langdon, Vetra, Inspector General Ernesto Olivetti (Pierfrancesco Favino), and Lieutenant Valenti (Victor Alfieri) of the Vatican Gendarmerie Corps race to the first church, only to find the first cardinal, Cardinal Ebner (Curt Lowens), dead, suffocated with dirt, eaten by rats and branded with the word \"Earth.\" They verify the second altar's location and arrive, only to witness the death of the second cardinal, Cardinal Lamassa (Franklin Amobi), his lungs lacerated and his body branded with the word \"Air.\" While Vetra studies Silvano's diaries, Langdon and the Vatican officers locate the third church and try to save the third cardinal, Cardinal Gudiera (Bob Yerkes), from burning to death, but the assassin appears and kills everyone but Langdon. The cardinal succumbs to the flames, his body branded with the word \"Fire.\"After escaping, Langdon convinces two Carabinieri officers to race with him to the last church of the \"Water\" altar, but the assassin murders the officers and drops the fourth cardinal, Cardinal Baggia (Marc Fiorini), into the Fountain of the Four Rivers. However, Langdon saves the cardinal, who tells him the location of the Illuminati's lair: Castel Sant'Angelo. When Langdon and Vetra arrive, they are confronted by the assassin, who spares their lives since they are not armed and he has not been paid to kill them. He reveals that his contractors were from the Catholic Church. The assassin escapes and finds a vehicle containing his payment, but is killed by a car bomb upon starting the engine. Langdon and Vetra discover that the final victim of the plot will be Camerlengo McKenna. After arriving at the Vatican via a secret passage, they and some Swiss Guards enter the Camerlengo's office and find him in the floor branded with the Vatican's symbol on his chest and Commander Richter near him with a gun. The Guards promptly kill Richter to save the camerlengo. During the confusion, the dying commander gives Langdon a key to his office. Then the camerlengo, Langdon, Vetra, and the Swiss Guards discover the location of the stolen antimatter vial. By the time they find it, the battery is about to expire, the deadly explosion is just minutes away. The camerlengo seizes the vial and uses a helicopter meant for escape from the Vatican to fly above the church. He then activates the autopilot and escapes with a parachute. After several seconds, the bomb explodes and the camerlengo lands, now considered a hero by the crowd and even as the best candidate to be the new Pope by the College of Cardinals. Meanwhile, Langdon and Vetra use Richter's key to watch a security video showing that the mastermind behind the murders of the original Pope and the preferiti and the antimatter robbery, in fact, is the camerlengo and not the Illuminati. While Richter tries to arrest McKenna, the priest brands himself with a seal that resembles Saint Peter's upside-down crucifixion and accuses the commander of being a member of the Illuminati. Langdon shows the video to the College. After the camerlengo realizes his plot has been uncovered, he immolates himself with oil from one of the 99 holy lamps inside St. Peter's Basilica.The Vatican announces that the camerlengo died due to internal wounds suffered during his landing, while the public demands he be canonized. The College designates Cardinal Baggia as the new Pope (who chooses to take on the name Luke), and Cardinal Strauss (Armin Mueller-Stahl) as the new camerlengo. The new camerlengo thanks Robert Langdon for saving the Vatican and the new Pope, and as a mark of his gratitude loans Galileo's \"Diagramma Veritas\" to Langdon for his reference. The film ends with the new Pope walking out on the balcony to the cheering crowd in St. Peter's Square."
+}

@@ -1,0 +1,755 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/nBBu3nP7uvBAGmock4gOMXdrdrA.jpg",
+  "id": 8741,
+  "title": "The Thin Red Line",
+  "poster_path": "https://image.tmdb.org/t/p/w500/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+  "release_date": "1998-12-23",
+  "vote_average": 7.4,
+  "vote_count": 2780,
+  "popularity": 24.427,
+  "overview": "The story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived.",
+  "imdb_id": "tt0120863",
+  "budget": 52000000,
+  "homepage": "",
+  "revenue": 98126565,
+  "runtime": 171,
+  "tagline": "Every man fights his own war.",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "production_companies": [
+    "Fox 2000 Pictures",
+    "Phoenix Pictures",
+    "Pioneer Films",
+    "George Stevens Jr. Productions",
+    "Geisler-Roberdeau Productions"
+  ],
+  "production_countries": [
+    "JP",
+    "US",
+    "BE",
+    "CA"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jim Caviezel",
+        "character": "Pvt. Robert Witt"
+      },
+      {
+        "name": "Ben Chaplin",
+        "character": "Pvt. Jack Bell"
+      },
+      {
+        "name": "Dash Mihok",
+        "character": "Pfc. Don Doll"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Sgt. William Keck"
+      },
+      {
+        "name": "Nick Nolte",
+        "character": "Lt. Col. Gordon Tall"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "1st Sgt. Edward Welsh"
+      },
+      {
+        "name": "John Cusack",
+        "character": "Capt. John Gaff"
+      },
+      {
+        "name": "Adrien Brody",
+        "character": "Cpl. Geoffrey Fife"
+      },
+      {
+        "name": "John Travolta",
+        "character": "Brig. Gen. David Quintard"
+      },
+      {
+        "name": "Jared Leto",
+        "character": "2nd Lt. William Whyte"
+      },
+      {
+        "name": "George Clooney",
+        "character": "Capt. Charles Bosche"
+      },
+      {
+        "name": "Elias Koteas",
+        "character": "Capt. James Staros"
+      },
+      {
+        "name": "John C. Reilly",
+        "character": "Sgt. Maynard Storm"
+      },
+      {
+        "name": "John Dee Smith",
+        "character": "Pvt. Train"
+      },
+      {
+        "name": "Kirk Acevedo",
+        "character": "Pvt. Alfredo Tella"
+      },
+      {
+        "name": "Mark Boone Junior",
+        "character": "Pvt. Christopher Peale"
+      },
+      {
+        "name": "Matt Doran",
+        "character": "Pvt. Howard Coombs"
+      },
+      {
+        "name": "Paul Gleeson",
+        "character": "1st Lt. George \"Brass\" Band"
+      },
+      {
+        "name": "Don Harvey",
+        "character": "Sgt. Paul Becker"
+      },
+      {
+        "name": "Arie Verveen",
+        "character": "Pfc. Charlie Dale"
+      },
+      {
+        "name": "Thomas Jane",
+        "character": "Pvt. Ash"
+      },
+      {
+        "name": "Donal Logue",
+        "character": "Marl (uncredited)"
+      },
+      {
+        "name": "John Savage",
+        "character": "Sgt. Jack McCron"
+      },
+      {
+        "name": "Nick Stahl",
+        "character": "Pfc. Edward Bead"
+      },
+      {
+        "name": "Miranda Otto",
+        "character": "Marty Bell"
+      },
+      {
+        "name": "Tim Blake Nelson",
+        "character": "Pvt. Brian Tills"
+      },
+      {
+        "name": "Larry Romano",
+        "character": "Pvt. Frank Mazzi"
+      },
+      {
+        "name": "Penelope Allen",
+        "character": "Witt's Mother"
+      },
+      {
+        "name": "Danny Hoch",
+        "character": "Pvt. Leonardo Carni"
+      },
+      {
+        "name": "Benjamin Green",
+        "character": "Melanesian Villager"
+      },
+      {
+        "name": "Simon Billig",
+        "character": "Lt. Col. Billig"
+      },
+      {
+        "name": "Jarrod Dean",
+        "character": "Cpl. Thorne"
+      },
+      {
+        "name": "Travis Fine",
+        "character": "Pvt. Weld"
+      },
+      {
+        "name": "David Harrod",
+        "character": "Cpl. Queen"
+      },
+      {
+        "name": "Don Harvey",
+        "character": "Sgt. Becker"
+      },
+      {
+        "name": "Michael McGrady",
+        "character": "Pvt. Floyd"
+      },
+      {
+        "name": "Stephen Spacek",
+        "character": "Cpl. Jenks"
+      },
+      {
+        "name": "Steven Vidler",
+        "character": "2nd Lt. Gore"
+      },
+      {
+        "name": "Will Wallace",
+        "character": "Pvt. Hoke"
+      },
+      {
+        "name": "Todd Wallace",
+        "character": "Pilot"
+      },
+      {
+        "name": "Simon Westaway",
+        "character": "First Scout"
+      },
+      {
+        "name": "Dan Wyllie",
+        "character": "Medic #1"
+      },
+      {
+        "name": "Randall Craig",
+        "character": "Navy Gunner (uncredited)"
+      },
+      {
+        "name": "Kick Gurry",
+        "character": "(uncredited)"
+      },
+      {
+        "name": "Randall Duk Kim",
+        "character": "Nisei Interpreter (uncredited)"
+      },
+      {
+        "name": "Darrin Klimek",
+        "character": "(uncredited)"
+      },
+      {
+        "name": "Dane Moreton",
+        "character": "Pvt. Alexander (uncredited)"
+      },
+      {
+        "name": "Ray Samuelson",
+        "character": "Navy Soldier (uncredited)"
+      },
+      {
+        "name": "Justin Ward",
+        "character": "Navy Soldier (uncredited)"
+      },
+      {
+        "name": "Felix Williamson",
+        "character": "Private Drake (uncredited)"
+      },
+      {
+        "name": "Norman Patrick Brown",
+        "character": "Pvt. Henry"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Hans Zimmer",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Billy Weber",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Dianne Crittenden",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "John Toll",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Virginia Cook-McGowan",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Jack Fisk",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Grant Hill",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Powell",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Saar Klein",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Ian Gracie",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Arvo Pärt",
+        "department": "Sound",
+        "job": "Additional Soundtrack"
+      },
+      {
+        "name": "Reuben Aaronson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "George Stevens Jr.",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Terrence Malick",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Terrence Malick",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Richie Dehne",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Leslie Jones",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "James Jones",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Robert Michael Geisler",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Roberdeau",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Sheila Davis Lawrence",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Gary Capo",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Richard Hobbs",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Suza Maybury",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "James F. Boyle",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Mark L. Mangino",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Mark Ellis",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Margot Wilson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Simon Whiteley",
+        "department": "Visual Effects",
+        "job": "Visual Effects Designer"
+      },
+      {
+        "name": "John Roesch",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Gary Fry",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jenny O'Connell",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Kerry Thompson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Andy Nelson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "William A. Petrotta",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Hilda Hodges",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Pamela Willis",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Stephen S. Campanelli",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Merie Weismiller Wallace",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Robert Renga",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "J. Paul Huntsman",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Patrick J. Foley",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "John F. Reynolds",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Andrew Somers",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Christopher S. Aud",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "John Voss Bonds Jr.",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jayme S. Parker",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Karyn Foster",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Fiona Chilton",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Hugh Waddell",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Anna Behlmer",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Chris Godfrey",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Miles Jones",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Leigh Mackenzie",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Mike Thomas",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Craig Heath",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Chris O'Connell",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Chiara Tripodi",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Mike Smith",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Angela Conte",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Lee Lemont",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Vivien Mepham",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Vivien Mepham",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "John Bowring",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Peter Cogar",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Randy Woodside",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Scott Warwick",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Jenny Hicks",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "David Nichols",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Herb Ault",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Lance Julian",
+        "department": "Crew",
+        "job": "Marine Coordinator"
+      },
+      {
+        "name": "Greg Hajdu",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Alicia Gleeson",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Toby Copping",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Toni Ffrench",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Mick Morris",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Amanda Kirby",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "David L. Horton Jr.",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Michael Vivian",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Laura Behary",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Joan Petch",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Ian Brown",
+        "department": "Visual Effects",
+        "job": "3D Animator"
+      },
+      {
+        "name": "Brett Jarman",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Paul E. Borchardt",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Barbara Collins",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Bruce Simpson",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Emily Saunders",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "name": "Greg Burgmann",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Francesco Lupica",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Charles Bunn",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Paul Cumming",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Stephen Gray",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Marcus Watson",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Harold Crawford",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "James P. Cullen",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      }
+    ]
+  },
+  "keywords": [
+    "epic",
+    "based on novel or book",
+    "steel helmet",
+    "world war ii",
+    "battle assignment",
+    "invasion",
+    "infantry",
+    "marine corps",
+    "us army",
+    "commander",
+    "rifle",
+    "pacific",
+    "pacific war",
+    "survival",
+    "jungle",
+    "sergeant",
+    "pacific island",
+    "soldier",
+    "battle",
+    "fighting",
+    "guadalcanal",
+    "pacific theater",
+    "anti war",
+    "awol",
+    "1940s",
+    "philosophic conflict"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.",
+    "In World War II, the outcome of the battle of Guadalcanal will strongly influence the Japanese advance into the Pacific theater. A group of young soldiers are brought in as a relief for the battle-weary Marines. The exhausting fight for a strategically-positioned airfield that allows control over a 1000-mile radius puts the men of the Army rifle company C-for-Charlie through hell. The horrors of war form the soldiers into a tight-knit group; their emotions develop into bonds of love and even family. The reasons for this war get further away as the world for the men gets smaller and smaller until their fighting is for mere survival and the life of the other men with them.—Julian Reischl <julianreischl@mac.com>",
+    "In 1943, the first major U.S. offensive of World War II is drawing to a close on the South Pacific island of Guadalcanal. To put an end to this campaign, the United States Army arrives with a full division of troops and equipment, deployed to break the last resistence of the Japanese. The exploits of this Division are seen from a number of perspectives amongst the soldiers; to include a war weary Sergeant, a power hungry Colonel, a Private who has known only desertion and AWOL, and a Company Commander is struggling with his abilities as a leader.—Anthony Hughes <husnock31@hotmail.com>"
+  ],
+  "synopsis": "In August 1942, U.S. Marine Private Robert Witt (Jim Caviezel), is AWOL from his unit and living with the easy-going and seemingly carefree Melanesian natives in the South Pacific. He is found and imprisoned on a troop carrier by his company NCO, First Sergeant Edward Welsh (Sean Penn). In Welsh's conversation with Witt, it is clear that the private is unenthusiastic about serving in the marines. The men of C Company, 25th Infantry Division have been brought to Guadalcanal as reinforcements in the campaign to secure Henderson Field and seize the island from the Japanese. As they wait in the holds of a Navy transport ship, they contemplate their lives and the impending invasion. Among Pvt. Witt and Sgt. Welsh, the soldiers of C Company that are introduced are Private Jack Bell (Ben Chaplin), a married soldier, Private 1st Class Don Doll (Dash Mihok), a cocky and arrogant soldier seeking fame and glory, and Captain James Staros (Elias Koteas) the sensitive company commander.On deck, battalion commander Lieutenant Colonel Gordon Tall (Nick Nolte) talks with his commanding officer, Brigadier General Howard Quintard (John Travolta), about the invasion and its importance with Tall personally going ashore with C Company while Quintard will remain on the ship. Tall's voice-over reveals that he has been passed over for promotion and this battle may be his last chance to command a victorious operation.C Company lands on Guadalcanal unopposed and marches to the interior of the island, encountering natives and evidence of the Japanese presence and tactics: the mutilated corpses of intercepted Marines and Rangers scouts. They arrive near Hill 210, a key Japanese position near Henderson airfield. The Japanese have placed a bunker housing several machine guns at the top of the hill, giving them full view of the valley below. Any force attempting to climb the hill can be easily cut down by machine-gun fire and mortar rounds.A brief shelling of the hill begins the next day at dawn. Shortly after, C Company attempts to take the hill and is repelled by gunfire from the bunker. Among the first killed in the battle is the leader of the attacking platoon, Second Lieutenant William Whyte (Jared Leto). Many of the men are scattered in the carnage. One group, a squad led by Sergeant William Keck (Woody Harrelson), hides behind a knoll the provides them some safety from enemy fire to await reinforcements. When they are rushed by Japanese soldiers, Keck reaches for a grenade on his belt and accidentally pulls the pin, then throws himself back so that he will be the only one killed by the concussion.At another point, Sgt. Welsh attempts to rescue Pvt. Tella (Kirk Acevedo), a dying soldier shot in the gut, only to provide him enough morphine to put him out of his misery. When Captain Staros tells Welsh that he will report on his heroism, Welsh harshly tells him not to and walks away muttering that the war is about nothing more than \"property.\"During the battle, Lt. Col. Tall orders Staros over a field telephone to take the bunker by frontal assault... at whatever cost. Staros refuses, unwilling to treat his men as cannon fodder. When the two reach a stalemate, a furious Tall decides to join Staros on the front line to see the situation for himself. By the time he arrives, the Japanese resistance seems to have lessened, and Tall's negative opinion of Staros seems to have been sealed. Meanwhile, during the battle, Pvt. Witt, having been assigned punitively as a stretcher bearer, asks to rejoin the company, and is permitted to do so.Meanwhile, Pvt. Bell (one of the men who in Keck's squad) covertly scouts the summit of the hill by himself and assesses the Japanese stronghold. Bell reports back that there are five machine guns in the bunker. He joins another small detachment of men, led by Captain John Gaff (John Cusack), on a flanking mission to take the bunker. The operation is a success and C Company stands poised to overrun one of the last Japanese strongholds on the island. They are successful in this regard; the Japanese they find in the bunker and the field camp beyond it are largely malnourished and dying, and put up little resistance.For their efforts the men are given a week's leave, although not all of them are able to enjoy it fully. The airfield where they are based comes under Japanese artillery bombardment a few nights later.Private Bell, who longs to return to his wife, receives a letter from her, informing him that she has fallen in love with someone else and wishes to divorce.Captain Staros (much to his surprise) is relieved of his command by Lt. Col. Tall, who deems him too soft for the pressures of combat and suggests that he apply for reassignment and become a lawyer in the JAG in Washington DC. However, Tall offers to arrange Silver Star award for Staros plus a Purple Heart for a few minor scratches he received, to avoid the unit's name being tarnished for having an officer removed from command.Meanwhile, Witt comes across the Melanesians and notices that they have suddenly grown more distrustful of him and quarrel regularly with one another.Some weeks later, the company is sent on patrol up a jungle river but with the indecisive and inexperienced 1st Lieutenant George Band (Paul Gleeson) at its head. As Japanese artillery falls close to their positions, Band orders Private Fife (Adrien Brody) and Private Coombs (Matt Doran) to scout upriver, with Witt volunteering to go along. They encounter an advancing Japanese column and are attacked. Coombs is shot through the chest and killed. To buy time for Fife to go back and inform the rest of the unit and to escape downriver, Witt draws the Japanese away but is eventually encircled by one of their squads, who demand that he surrender. In a moment of bliss and internal calm, he raises his rifle and is immediately gunned down. The company is able to retreat safely. Witt's dead body is later found and buried by Welsh and his squad mates.Sometime later on Christmas Day 1942, C Company receives a new commanding officer, Captain Charles Bosche (George Clooney), who gives an impassive speech to the Marines about them being a family with him as the father figure.A little later in the final scene, having been relieved from active duty, Sgt. Welsh, Pvt. Fife, Lt. Band, Pvt. Bell and the rest of the surviving members of C Company board a waiting LCT which evacuates them from Guadalcanal."
+}

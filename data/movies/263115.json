@@ -1,0 +1,1739 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+  "id": 263115,
+  "title": "Logan",
+  "poster_path": "https://image.tmdb.org/t/p/w500/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+  "release_date": "2017-02-28",
+  "vote_average": 7.818,
+  "vote_count": 18385,
+  "popularity": 62.99,
+  "overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+  "imdb_id": "tt3315342",
+  "budget": 97000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/logan",
+  "revenue": 619021436,
+  "runtime": 137,
+  "tagline": "His time has come.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Hutch Parker Entertainment",
+    "The Donners' Company",
+    "Genre Films",
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Hugh Jackman",
+        "character": "Logan / Wolverine / X-24"
+      },
+      {
+        "name": "Dafne Keen",
+        "character": "Laura / X-23"
+      },
+      {
+        "name": "Patrick Stewart",
+        "character": "Charles Xavier / Professor X"
+      },
+      {
+        "name": "Elizabeth Rodriguez",
+        "character": "Gabriela"
+      },
+      {
+        "name": "Boyd Holbrook",
+        "character": "Pierce"
+      },
+      {
+        "name": "Stephen Merchant",
+        "character": "Caliban"
+      },
+      {
+        "name": "Richard E. Grant",
+        "character": "Dr. Rice"
+      },
+      {
+        "name": "Stephen Dunlevy",
+        "character": "Macon"
+      },
+      {
+        "name": "Eriq La Salle",
+        "character": "Will Munson"
+      },
+      {
+        "name": "Elise Neal",
+        "character": "Kathryn Munson"
+      },
+      {
+        "name": "Quincy Fouse",
+        "character": "Nate Munson"
+      },
+      {
+        "name": "Al Coronel",
+        "character": "Federale Commander"
+      },
+      {
+        "name": "Frank Gallegos",
+        "character": "Federale Lieutenant"
+      },
+      {
+        "name": "Anthony Escobar",
+        "character": "Federale"
+      },
+      {
+        "name": "Reynaldo Gallegos",
+        "character": "Rey"
+      },
+      {
+        "name": "Krzysztof Soszynski",
+        "character": "Mohawk"
+      },
+      {
+        "name": "Daniel Bernhardt",
+        "character": "Bone Breaker"
+      },
+      {
+        "name": "Ryan Sturz",
+        "character": "Pretty Boy"
+      },
+      {
+        "name": "Jef Groff",
+        "character": "Reaver"
+      },
+      {
+        "name": "Brandon Melendy",
+        "character": "Reaver"
+      },
+      {
+        "name": "Oren Hawxhurst",
+        "character": "Reaver"
+      },
+      {
+        "name": "Jeremy Fitzgerald",
+        "character": "Reaver"
+      },
+      {
+        "name": "Chris Palermo",
+        "character": "Reaver"
+      },
+      {
+        "name": "Paul Andrew O'Connor",
+        "character": "Reaver"
+      },
+      {
+        "name": "Clinton Roberts",
+        "character": "Reaver"
+      },
+      {
+        "name": "Rocky Abou-Sakher",
+        "character": "Reaver"
+      },
+      {
+        "name": "Keith Jardine",
+        "character": "Reaver"
+      },
+      {
+        "name": "Jean Claude Leuyer",
+        "character": "Reaver"
+      },
+      {
+        "name": "Andrew Arrabito",
+        "character": "Reaver"
+      },
+      {
+        "name": "Sebastian James",
+        "character": "Reaver"
+      },
+      {
+        "name": "Aaron Matthews",
+        "character": "Reaver"
+      },
+      {
+        "name": "Garrett Hammond",
+        "character": "Reaver"
+      },
+      {
+        "name": "Matt McClain",
+        "character": "Reaver"
+      },
+      {
+        "name": "Maureen Brennan",
+        "character": "Motel Manager"
+      },
+      {
+        "name": "Jason Genao",
+        "character": "Rictor"
+      },
+      {
+        "name": "Hannah Westerfield",
+        "character": "Rebecca"
+      },
+      {
+        "name": "Bryant Tardy",
+        "character": "Bobby"
+      },
+      {
+        "name": "Ashlyn Casalegno",
+        "character": "Charlotte"
+      },
+      {
+        "name": "Alison Fernandez",
+        "character": "Delilah"
+      },
+      {
+        "name": "Parker Lovein",
+        "character": "Lizard Boy"
+      },
+      {
+        "name": "Jimmy Gonzales",
+        "character": "Mexican Staff Member"
+      },
+      {
+        "name": "Dave Davis",
+        "character": "Convenience Store Clerk"
+      },
+      {
+        "name": "Lennie Loftin",
+        "character": "Jackson"
+      },
+      {
+        "name": "Mark Ashworth",
+        "character": "Bartender"
+      },
+      {
+        "name": "James Handy",
+        "character": "Old Doctor"
+      },
+      {
+        "name": "Bryce Romero",
+        "character": "Prom Teen #1"
+      },
+      {
+        "name": "Phi Vu",
+        "character": "Prom Teen #2"
+      },
+      {
+        "name": "Chester Rushing",
+        "character": "Prom Teen #3"
+      },
+      {
+        "name": "David Simpson",
+        "character": "Prom Teen #4"
+      },
+      {
+        "name": "Lauren Gros",
+        "character": "Bridesmaid"
+      },
+      {
+        "name": "John Raymond",
+        "character": "Pastor"
+      },
+      {
+        "name": "Vanessa Cloke",
+        "character": "Mourning Widow"
+      },
+      {
+        "name": "Doris Morgado",
+        "character": "Maria"
+      },
+      {
+        "name": "Katie Anne Mitchell",
+        "character": "Infirmary Nurse"
+      },
+      {
+        "name": "Lara Grice",
+        "character": "Car Dealer"
+      },
+      {
+        "name": "James Moses Black",
+        "character": "Major"
+      },
+      {
+        "name": "Ned Yousef",
+        "character": "Banger"
+      },
+      {
+        "name": "Michael Lehr",
+        "character": "Banger"
+      },
+      {
+        "name": "Baxter Humby",
+        "character": "Banger"
+      },
+      {
+        "name": "Bryan Sloyer",
+        "character": "Banger"
+      },
+      {
+        "name": "Daniel Hernández",
+        "character": "Banger"
+      },
+      {
+        "name": "John Bernecker",
+        "character": "Federale"
+      },
+      {
+        "name": "Evan Dane Taylor",
+        "character": "Federale"
+      },
+      {
+        "name": "Joe Nin Williams",
+        "character": "Federale"
+      },
+      {
+        "name": "Toby Holguin",
+        "character": "Federale"
+      },
+      {
+        "name": "Robert Wu",
+        "character": "Federale"
+      },
+      {
+        "name": "Anthony N.",
+        "character": "Federale"
+      },
+      {
+        "name": "Victor Winters-Junco",
+        "character": "Federale"
+      },
+      {
+        "name": "Eyad Elbitar",
+        "character": "Federale"
+      },
+      {
+        "name": "Craig Henningsen",
+        "character": "Federale"
+      },
+      {
+        "name": "Han Soto",
+        "character": "Valet"
+      },
+      {
+        "name": "Rissa Rose Kilar",
+        "character": "Pine Cone Girl"
+      },
+      {
+        "name": "Salef Celiz",
+        "character": "Jonah"
+      },
+      {
+        "name": "Aidan Kennedy",
+        "character": "Mutant Child"
+      },
+      {
+        "name": "Nayah Murphy",
+        "character": "Mutant Child"
+      },
+      {
+        "name": "Chase Cubia",
+        "character": "Mutant Child"
+      },
+      {
+        "name": "Emma Teo",
+        "character": "Mutant Child"
+      },
+      {
+        "name": "Vincenzo Lucatorto",
+        "character": "Mutant Child"
+      },
+      {
+        "name": "Noell Jellison",
+        "character": "Mutant Child"
+      },
+      {
+        "name": "Haley Glass",
+        "character": "Mutant Child"
+      },
+      {
+        "name": "Ella Rowbotham",
+        "character": "Mutant Child"
+      },
+      {
+        "name": "Hudson Wright",
+        "character": "Mutant Child"
+      },
+      {
+        "name": "Sebeon Jackson",
+        "character": "Mutant Child"
+      },
+      {
+        "name": "Kelton DuMont",
+        "character": "Glowing Eyes Boy"
+      },
+      {
+        "name": "Damon Carney",
+        "character": "Jackson's Henchman"
+      },
+      {
+        "name": "Cynthia Woods",
+        "character": "Screaming Casino Woman"
+      },
+      {
+        "name": "Mali O'Connor",
+        "character": "Bumpy Skinned Kid"
+      },
+      {
+        "name": "David Kallaway",
+        "character": "Rhodes"
+      },
+      {
+        "name": "Robert Vargas",
+        "character": "Border Guard"
+      },
+      {
+        "name": "David Paris",
+        "character": "Helicopter Pilot"
+      },
+      {
+        "name": "Gonzalo Robles",
+        "character": "Special Forces (uncredited)"
+      },
+      {
+        "name": "Tim Connolly",
+        "character": "Reaver (uncredited)"
+      },
+      {
+        "name": "Mary Peyton Stewart",
+        "character": "Bridesmaid (uncredited)"
+      },
+      {
+        "name": "Julia Holt",
+        "character": "Casino Patron (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Mangold",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "James Mangold",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "James Mangold",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "James Mangold",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Phedon Papamichael",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "name": "Michael McCusker",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Lisa Beach",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Sarah Katzman",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "John Mathieson",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Scott Frank",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Priscilla John",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Marco Beltrami",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Joseph M. Caracciolo Jr.",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lauren Shuler Donner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Stan Lee",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Josh McLaglen",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Josh McLaglen",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Daniel Orlandi",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Simon Kinberg",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Alexander Mackendrick",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Bradford Johnson",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "François Audouy",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Dana Robin",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Dana Robin",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "David Betancourt",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "David Giammarco",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Paul Massey",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Marc Silvestri",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Marcus Trumpp",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Chris Farmer",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Clay Cullen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Lando",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Gary Hymes",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Dirk Westervelt",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Joel Harlow",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Luke Freeborn",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Craig Kyle",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "John Coven",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Roy Thomas",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Len Wein",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Kurt Bryant",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael Green",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Dana Niu",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Hutch Parker",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Chris Claremont",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Cindy M. Ichikawa",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Garrett Warren",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Garrett Warren",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Scott Plauche",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Chas Jarrett",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Adam Stephenson",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Berj Bannayan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Sally Stiner",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Julianne Gabert",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Dustin DellaVecchia",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "John Byrne",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "John Romita, Sr.",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Basil Smith",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Efka Kvaraciejus",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marjorie Liu",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Anthony N.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kurt D. Lott",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Christian Cordella",
+        "department": "Art",
+        "job": "Conceptual Design"
+      },
+      {
+        "name": "Elaine Ramires",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Elizabeth Coulon",
+        "department": "Production",
+        "job": "Local Casting"
+      },
+      {
+        "name": "Dan O'Connell",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Brian Adler",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Matthew Gatlin",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Craig Henighan",
+        "department": "Sound",
+        "job": "Additional Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Hamilton Sterling",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "John Kurlander",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "John T. Cucci",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Andy Ryan",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Ted Caplan",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Brandon Roberts",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Rocky Abou-Sakher",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Luckenbach",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "David Luckenbach",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Ben Rothstein",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Walter Schneider",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Andy Abele",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Allan Magled",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jon Vogl",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Keith Christensen",
+        "department": "Art",
+        "job": "Conceptual Design"
+      },
+      {
+        "name": "Jim Brookshire",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "John Berri",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "name": "Sheila Waldron",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Jess Platt",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Sara Roybal",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Karri Farris",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Joseph V. Cicio",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Marisa Clayton",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Brian A. Waits",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Annette Farnsworth",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Laura Graham",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Gloria Pasqua Casny",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Jessica Stumpf",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Lukasz Jogalla",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "J.P. Jones",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Teri E. Dorman",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Bailey Domke",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ferdinand Duplantier Jr.",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Rob Hinderstein",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jessica Derhammer",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Courtney Lether",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Remi Savva",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kurt Williams",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Derek Casari",
+        "department": "Sound",
+        "job": "ADR Engineer"
+      },
+      {
+        "name": "Sean J. Donnelly",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Jennifer Brown",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Michael Applebaum",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Jeffrey Kalmus",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Garry Elmendorf",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Rebecca Puck Stair",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Christopher Heskey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ashley Nicole Hudson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brian Penikas",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Christine Sirois",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Vanessa Motta",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Ted Gregg",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Nora Phillips Pedersen",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Giselle Spence",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Khanh Trance",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Jonathan Terpstra",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Benj Gibicsar",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "Barbie Block",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Beth Lipari",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Matthew Harrison",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Rob Skuse",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Mary Iannelli",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Steven DeSantis",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Gabriel Hardman",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Christopher Norris",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Adam Walls",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Skip Kimball",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Pete Anthony",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Rossano Galante",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Charley Gilleran",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Benton Jew",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Lori Berlanga",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Paul Ledford",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Andrés Moret Urdampilleta",
+        "department": "Crew",
+        "job": "Translator"
+      },
+      {
+        "name": "James Ashwill",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Stuart Gordon Tribble",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Teresa Berus",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Mark Graham",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Sherry Kecskes",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Chase Heard",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Larry Nielsen",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Nicole Reed LeFevre",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jessica Williams",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kerri Smeltzer",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Doug Spilatro",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Johnny Gidcomb",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Matt J. Thompson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Andrew McCartney",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Rowan Stanland",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Anthony Smith",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Steven John Brown",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Jaim O'Neil",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Max Patrucco",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Chelsea Mirus",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Cris Rankin",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "name": "Gary L. Horton",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Anthony Dixon",
+        "department": "Crew",
+        "job": "Post Production Consulting"
+      },
+      {
+        "name": "Jordan Ferrer",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Preethi Venkateswaran",
+        "department": "Visual Effects",
+        "job": "3D Modeller"
+      },
+      {
+        "name": "Laura Dochtermann",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Keith Sellers",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Francesca Bradley",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Amelia Chen Miley",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Brittany A. Jones",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Mark D. Spain",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "Melissa Binder",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "Aaron Wiener",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "name": "Cory Fleming",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Joe Cassano",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Michael Fitzgerald",
+        "department": "Camera",
+        "job": "Epk Camera Operator"
+      },
+      {
+        "name": "Jimi Ryan",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Walter 'Bud' Scott",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Jean-Paul Bernard",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Tyler Heath",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Aidan Dykes",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Brian Maratea",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Roberto Dominguez Alegria",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Natalie Rose",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Karen Romero",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Daniel M. Nussbaum",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Matt Chamberlain",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Ryan Schaetzle",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Sid Yost",
+        "department": "Crew",
+        "job": "Animal Coordinator"
+      },
+      {
+        "name": "Joe Sökmen",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Matthew McLellan",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Zach Marshall",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Michael Musteric",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Marian Gay",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Aimee Huber",
+        "department": "Art",
+        "job": "Set Decorating Coordinator"
+      },
+      {
+        "name": "Jonathan Lheureux",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Robert J. Moore Jr.",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Jesse Michael Owen",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Alejandra Tovar",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Steven Willer",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Erdwin J. Clausen Jr.",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Brittany Dewees",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Scott Dwyer",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Molly Federline",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Skylar Gorrell",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Matthew James Kutcher",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Stephen Meagher",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Ryan Chamberlain",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Nathan Fung",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Michael Feduccia",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "McKay Johnson",
+        "department": "Crew",
+        "job": "Digital Effects Producer"
+      },
+      {
+        "name": "Michael Koepke",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jeffrey Lamm",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Kevin Luster",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Brady McElroy",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Gael Whettnall",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Dan Wyssmann",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Duck Lee",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Jessica Zanetti",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Nicolas Torres",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Andrew Synowiec",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Karlee Fomalont",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Rebecca Llorella",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Andreya Lynham",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Matt Landsman",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Carrie Oliver",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Tessa Rubin",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Cristal Jones",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Clark Deal",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Marie-Jeanne Orona",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Deborah Wakshull",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Ron Uribe",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Aurora Ann Quiñones",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Wade Culbreath",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Tyson Lozensky",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Trang Dang",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Bryan Schnitzer",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Rosemary Finney",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Nicole Flowers",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "John Lavis",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Jeff Gartenbaum",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Jordan Whaley",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Daniel Hargrave",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Patrick Russo",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Nathan Hughes",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Tristan Rose",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Arif Chagla",
+        "department": "Sound",
+        "job": "ADR Engineer"
+      },
+      {
+        "name": "Dave Cockrum",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jeremy Johnson",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Grant McCord",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Tom Brown",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "name": "Adrien Flanquart",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Shaila Tobin",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Paul Zeke",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Michael Furniss",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Siddhartha Mukherjee",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Tyler Hohmann",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Duy Pham",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      }
+    ]
+  },
+  "keywords": [
+    "future",
+    "experiment",
+    "immortality",
+    "self-destruction",
+    "cyborg",
+    "dystopia",
+    "superhero",
+    "mutant",
+    "road trip",
+    "based on comic",
+    "sequel",
+    "super power",
+    "neo-western",
+    "troubled past",
+    "aging superhero",
+    "life on the margin"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+    "In 2029 the mutant population has shrunk significantly due to genetically modified plants designed to reduce mutant powers and the X-Men have disbanded. Logan, whose power to self-heal is dwindling, has surrendered himself to alcohol and now earns a living as a chauffeur. He takes care of the ailing old Professor X whom he keeps hidden away. One day, a female stranger asks Logan to drive a girl named Laura to the Canadian border. At first he refuses, but the Professor has been waiting for a long time for her to appear. Laura possesses an extraordinary fighting prowess and is in many ways like Wolverine. She is pursued by sinister figures working for a powerful corporation; this is because they made her, with Logan's DNA. A decrepit Logan is forced to ask himself if he can or even wants to put his remaining powers to good use. It would appear that in the near-future, the times in which they were able put the world to rights with razor sharp claws and telepathic powers are now over.",
+    "In the not-so-distant 2029, the entire mutant race is almost obliterated, and Logan, the invincible bestial superhero once known as the Wolverine, finds himself getting old, and his incredible healing ability significantly weakened. As an incognito limo driver, Logan does his best to guard and keep out of sight a weary nonagenarian Professor Xavier; however, things will take an unexpected turn when a cryptic woman asks him to transport the young mutant girl, Laura. A better future lies past the Canadian borders for the unaccompanied teenager, but the government is unwilling to let go of its asset so easily. In the end, can the ageing Logan protect both himself and Laura?—Nick Riganas",
+    "In a dystopian 2029, no mutants have been born in 25 years. Logan's healing ability has weakened and he has physically aged. The Adamantium coating on his skeleton has begun to leach into his body, poisoning him. Hiding in plain sight, Logan spends his days working as a limo driver in El Paso, Texas. In an abandoned smelting plant in northern Mexico, he and mutant tracker Caliban care for 90-year-old Charles Xavier, Logan's mentor and founder of the X-Men. Charles, a telepath, has developed a form of dementia that causes him to have seizures unless controlled with medication. It is alluded that a seizure one year prior, releasing a destructive wave of his telepathic powers, had killed seven mutants, thus leaving the three (Logan, Charles, Caliban) as the last of the X-Men."
+  ],
+  "synopsis": "The theatrical release of Logan was preceded by the short film Deadpool: No Good Deed (2017).Logan (Hugh Jackman), formerly the Wolverine, wakes up in the back of a limo, groggy and disheveled. It's the middle of the night. He stumbles out and finds a Mexican gang trying to steal the limo's wheels. Logan calmly attempts to intervene but one of the gang members blasts him with a shotgun. Standing up, Logan reveals his claws, an act that is evidently painful, but one doesn't extend all the way. He fights the gang, receiving his share of abuse as they beat him down, but manages to brutally maim and kill most of them before the rest run away.The year is 2029. Looking no older than 50, Logan has still aged to over 170 years and is no longer the same fighter he once was. His superhuman healing ability is failing and the adamantium in his body is slowly killing him. As a result, his body aches and he coughs up blood on occasion. Mutants are on the brink of extinction and no new ones have been born in 25 years. Logan now makes a living driving for a limo service in El Paso, Texas under his birth name, James Howlett. He also carries an adamantium bullet with him in case he ever decides to end it all.While he waits for a client at a funeral, he is approached by a woman named Gabriela Lopez (Elizabeth Rodriguez). She claims to know who he is and asks for his help, but Logan turns her away. Gabriela drives off as a young girl in the back seat stares at Logan.One morning a man enters Logan's limo, introducing himself as Donald Pierce (Boyd Holbrook). He appears to know much about Logan, saying he's aware of his unofficial participation in the killing of the gang members and alludes to Logan's side job as caretaker for one Charles Xavier just south of the border. Pierce says he knows Logan was contacted by a person of interest and claims that he only wants what Gabriela has; something she took from him. He hands Logan a card and tells him to call when he finds Gabriela again. The card reads that Donald is head of security at 'Alkali-Transigen', a biotechnological corporation. Logan drives off, furious.Logan heads into Mexico to an abandoned plant where he and the clairvoyant mutant Caliban (Stephen Merchant), an albino psychic, are taking care of Xavier (Patrick Stewart). Charles has been reduced to a shell of his former self, crippled and suffering from a degenerative brain disease which produces seizures. Thanks to his mutation, the seizures produce staggering psionic blasts which paralyze anyone within reach. Logan must administer a special serum to keep Xavier's episodes under control, though the doses often leave him confused and senile. Xavier has become broken since the loss of his school and fellow X-Men some time ago and says that Logan is just waiting for him to die.Logan argues with Caliban about obtaining enough medicine for Xavier. Caliban explains that it's hard caring for Xavier, especially when Logan won't communicate about his own needs which are more than evident to the albino. Logan storms off. Later he receives a notification for two passengers and drives to a motel. There, he comes across Gabriela again with the young girl whom Gabriela says is her 11 year old daughter, Laura (Dafne Keen). She offers Logan $50,000 to help them reach a place called 'Eden' in North Dakota en route to Canada before handing him an envelope with coordinates written on it and $20,000 inside. Logan reluctantly agrees and heads home to prepare. There, he tells Xavier that their dream of leaving and buying a boat may actually become reality.However, when he returns to the motel, he finds that Gabriela has been murdered and Laura is missing. Logan takes Gabriela's cell phone and finds she was in the process of sending him a text telling him to hurry as they've been found. Logan returns home, dejected, but is stunned to find that Laura has stowed away in the trunk of his limo. Xavier excitedly hosts the young girl and tries to convince Logan that she needs their help. However, Logan correctly predicts that she'll be found and, soon enough, Pierce comes knocking at their door. Logan claims Laura is not there and, when Pierce persists, Laura throws a pipe at his head, knocking him out. Logan tells Caliban to take Pierce out into the desert and leave him there. Caliban dresses heavily to protect his sensitive skin from the sun and carts Pierce's body away, but a squad of elites from Transigen, the Reavers, arrive. They pick up Pierce and capture Caliban.The Reavers return to the plant and two enter to retrieve Laura, who is calmly eating a bowl of cereal, while Logan and the others wait outside. They all hear commotion from inside, including screams and gunfire. Laura appears, throwing the head of one of the Reavers at Pierce's feet. She then steps forward, producing two adamantium claws from each of her hands and one from each foot and viciously attacks the Reavers. A stunned Logan finally helps her fight and flees the scene in the limo with Xavier and Laura in the backseat. Caliban is taken by the Reavers and tortured with sunlight in order to get him to use his powers to track the trio.Logan demands to know who Laura is and Xavier responds that she is very much like him. Logan looks through Gabriela's phone for clues and finds a video which reveals that she used to work for Transigen in the genetics department. However, the phone dies before the video can finish. They stop at a convenience store to stock up on supplies. The clerk (Dave Davis) attempts to stop Laura from shoplifting some chips and sunglasses but she easily flips him over and nearly claws him before Logan intervenes, saying \"Not okay\". He then takes a phone charger and cigar and leaves.That night, as the phone charges, Logan watches the rest of Gabriela's video. She had documented her role as a nurse in the genetic experimentation of new mutant children, led by Dr. Zander Rice (Richard E. Grant), with the intention of turning them into super soldiers. Using DNA from known mutants, most of whom were deceased, the children were conceived and born to anonymous mothers who would not be missed. The children, including Laura, were dubbed X-23 and raised under harsh conditions. Simple pleasures, such as birthdays, were frowned upon. The experiment was deemed a failure due to the fact that the children sustained too much emotion and often refused to follow orders. With the introduction of X-24, it was decided the children would be terminated. Rather than see them killed, Gabriela helped orchestrate an escape and the location of Eden was designated as a safe point so the children could live free in Canada. In the video's final moments, Gabriela admits that she is not Laura's mother but loves her all the same. Addressing Logan, she apologizes for lying about the total fee that she would pay him but hopes that, as her biological father, he will keep her safe.The trio enter Oklahoma City and take residence in a hotel where Logan discovers that Laura has been reading an X-Men comic book. He finds that the coordinates to Eden are included in the book and is convinced that the whole trip is a charade. Angry, he confronts Laura to Xavier's disdain and tells her the X-Men stories she's been reading are fantasized and that Eden does not exist. Logan leaves Xavier and Laura in their room and goes downstairs where he sees that the Reavers have followed them. Suddenly, everyone becomes paralyzed and Logan realizes Xavier is suffering another seizure. Having ever been the only one able to partially resist the effects, Logan struggles to make it back to the room where some of the Reavers have already found Laura and Xavier. Logan kills them all before injecting Xavier with his serum, ending the paralysis, and the three escape in a new vehicle.On the road, a report goes over the incident in Oklahoma City and relates the similarity to an event that occurred in Westchester one year prior, but Logan turns off the radio. They are nearly run off the road by a robotic freight truck and swerve to avoid a pickup hauling a trailer full of horses. Xavier convinces Logan to help and uses his telepathic powers to bring the horses back. The driver introduces himself as Will Munson (Eriq La Salle) accompanied by his wife Kathryn (Elise Neal) and son Nate (Quincy Fouse). Logan then helps push their pickup out of a ditch. Kathryn offers Logan and his 'family' to have dinner with them which Xavier happily accepts.Logan is eager to leave immediately after dinner but Kathryn offers them to spend the night as it's late. Logan only agrees for Xavier's sake and carries him upstairs to bed. Seeing that their water supply has been tampered with, Will goes out to investigate and Logan tags along. They find and fix the obvious leak at the pump some distance away and are confronted by a group of thugs led by a man who owns the land. He harasses Will, saying he's been skimping on payments, but Logan hits one of the thugs in the face with his own rifle and breaks it over his knee, scaring them off.Back at the house, Xavier lies in bed and senses Logan entering the room. He tearfully pleads with him to be patient with Laura, asleep on the floor beside him, and expresses regret and remorse over what happened a year ago. It is implied that Xavier suffered a massive seizure at his school in Westchester which resulted in the deaths of most of the X-Men. He apologizes but Logan pushes his claws through Xavier's chest. Laura attacks in Charles' defense. The attacker turns out to be a mindless and merciless clone of Logan, the X-24. The mutant abducts Laura and slaughters Nate and Kathryn. Upon returning, Will is struck down by the X-24 and Logan rushes upstairs to get Xavier who is just barely alive. Logan consoles him, \"It wasn't me\", as he carries him downstairs.Outside, the Reavers wait with Pierce and Dr. Rice. Caliban is confined in a surveillance van. The thugs who abused Will before arrive at the house in retaliation for their earlier humiliation but X-24 kills them all. Logan sets Xavier down in the bed of a pickup truck. Charles utters the name of their boat and dies. Bereaved, Logan engages X-24 in a furious fight. Meanwhile, Caliban fights back against his captors and sets off two grenades, muttering the phrase his mother once told him: \"Beware the light.\" The van explodes and Pierce is thrown out while Rice escapes. Logan is nearly overpowered by the X-24 until Will rams into the mutant with his truck, pinning him against some farm equipment. Will repeatedly shoots X-24 with a shotgun and then turns the gun on Logan. The gun is out of shots and Will collapses, dead. Logan retrieves Laura and takes her with Xavier's body and drives away. The following morning, Dr. Rice and his crew take care of the scene and inject X-24 with an agent to help him heal.Logan buries Charles in an unmarked grave in the woods while Laura watches. Afterwards, he goes back to their truck and begins smashing it in fury before passing out. Later, Logan wakes up in a clinic. The doctor (James Handy) tells Logan he knows he's a mutant and says he wants to help him, aware that the adamantium in his body is killing him. Logan refuses and leaves with Laura. He begrudgingly thanks her and she finally speaks by responding 'you're welcome' in Spanish. Logan is perplexed as to why she never spoke before, but Laura begins rattling in Spanish the names of her friends from Transigen. She tells Logan they must meet up with them in Eden and presses him with such persistence that Logan finally concedes, but only to prove Eden doesn't exist.The two just barely make it and Logan is drained to the point of unconsciousness, so much that Laura had to drive the remaining miles there. At a cliff, a lift is dropped for Logan so they can ascend and he and Laura are finally able to rest along with the remaining children led by Rictor (Jason Genao). The kids prank Logan by shaving his beard in his sleep to more closely resemble how he looked in his youth, but Logan is not amused. Rictor gives Logan a serum that was used on them in Transigen to help him re-energize and heal, but he warns Logan not to use it all at once. Logan then tells Laura that he's done his job in delivering her to Eden and emotionally explains that everyone he cares about dies and it's better he leaves. Laura bitterly responds that she should be fine, then.In the morning, the children are gone and Logan is about to leave when he sees that the Reavers have caught up to them, tracking the children. Logan runs to intercept them as the Reavers pick off the children one by one. Despite using their powers, the children are outnumbered. Injecting all of the healing agent at once, Logan kills most of the Reavers and confronts Dr. Rice who has rounded up the children and is holding them at gunpoint. Rice reveals that he is actually the son of the man killed by Wolverine when he escaped the Weapon X project. Rice admits responsibility for the extinction of mutants thanks to a virus developed by Transigen that was seeped into food supplies. Before he can continue, Logan shoots him dead in a desperate move and goes after Pierce. However, X-24 is released and Logan fights his clone once more. Seeing that Pierce is in complete control of X-24, the children gang up on him and use their collective powers (electrocution, freezing, plant manipulation, etc.) to kill him.As the healing agent in Logan's body wears off, he becomes overpowered by his younger clone until X-24 finally impales Logan on a dead tree limb. Laura then uses the adamantium bullet Logan carried with him to shoot X-24 in the head, obliterating it. She runs to Logan and cuts him down from the tree, but Logan's wounds aren't healing. Logan tearfully tells Laura to run with the others; they're free. She cries, calling him 'Daddy' and Logan responds, \"So...this is what it feels like\" before he dies. The children bury Logan and raise a cross at the head of the grave as Laura recites from a Western, the movie Shane (1953), that she and Xavier watched in the Oklahoma hotel:\"A man has to be what he is, Joey. Can't break the mold. There's no living with the killing. There's no going back. Right or wrong, it's a brand. A brand that sticks. Now you run on home to your mother... you tell her everything's alright. There are no more guns in the valley.\"The children then leave, their future uncertain but free. Laura takes the cross on Logan's grave and tilts it sideways, to look like an X."
+}

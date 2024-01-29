@@ -1,0 +1,1194 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+  "id": 820,
+  "title": "JFK",
+  "poster_path": "https://image.tmdb.org/t/p/w500/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+  "release_date": "1991-12-20",
+  "vote_average": 7.596,
+  "vote_count": 1939,
+  "popularity": 35.644,
+  "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+  "imdb_id": "tt0102138",
+  "budget": 40000000,
+  "homepage": "",
+  "revenue": 205405498,
+  "runtime": 189,
+  "tagline": "The story that won't go away.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "History"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "StudioCanal",
+    "Regency Enterprises",
+    "Alcor Films",
+    "Ixtlan Productions",
+    "A. Kitman Ho"
+  ],
+  "production_countries": [
+    "FR",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Kevin Costner",
+        "character": "Jim Garrison"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "character": "Clay Shaw / Clay Bertrand"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Lee Harvey Oswald"
+      },
+      {
+        "name": "Kevin Bacon",
+        "character": "Willie O'Keefe"
+      },
+      {
+        "name": "Michael Rooker",
+        "character": "Bill Broussard"
+      },
+      {
+        "name": "Jack Lemmon",
+        "character": "Jack Martin"
+      },
+      {
+        "name": "Laurie Metcalf",
+        "character": "Susie Cox"
+      },
+      {
+        "name": "Sissy Spacek",
+        "character": "Liz Garrison"
+      },
+      {
+        "name": "Joe Pesci",
+        "character": "David Ferrie"
+      },
+      {
+        "name": "John Candy",
+        "character": "Dean Andrews"
+      },
+      {
+        "name": "Pruitt Taylor Vince",
+        "character": "Lee Bowers"
+      },
+      {
+        "name": "Jay O. Sanders",
+        "character": "Lou Ivon"
+      },
+      {
+        "name": "Walter Matthau",
+        "character": "Senator Long"
+      },
+      {
+        "name": "Sally Kirkland",
+        "character": "Rose Cheramie"
+      },
+      {
+        "name": "Donald Sutherland",
+        "character": "X"
+      },
+      {
+        "name": "Ed Asner",
+        "character": "Guy Bannister"
+      },
+      {
+        "name": "Brian Doyle-Murray",
+        "character": "Jack Ruby"
+      },
+      {
+        "name": "Ray LePere",
+        "character": "Abraham Zapruder"
+      },
+      {
+        "name": "Vincent D'Onofrio",
+        "character": "Bill Newman"
+      },
+      {
+        "name": "Tom Howard",
+        "character": "Lyndon B. Johnson"
+      },
+      {
+        "name": "Lolita Davidovich",
+        "character": "Beverly Oliver"
+      },
+      {
+        "name": "Jim Garrison",
+        "character": "Earl Warren"
+      },
+      {
+        "name": "Wayne Knight",
+        "character": "Numa Bertel"
+      },
+      {
+        "name": "Gary Grubbs",
+        "character": "Al Oser"
+      },
+      {
+        "name": "Beata Pozniak",
+        "character": "Marina Oswald"
+      },
+      {
+        "name": "Tony Plana",
+        "character": "Carlos Bringuier"
+      },
+      {
+        "name": "John William Galt",
+        "character": "L.B.J. (voice)"
+      },
+      {
+        "name": "Ron Jackson",
+        "character": "FBI Spokesman"
+      },
+      {
+        "name": "Sean Stone",
+        "character": "Jasper Garrison"
+      },
+      {
+        "name": "John S. Davies",
+        "character": "Hobo #2"
+      },
+      {
+        "name": "Tomas Milian",
+        "character": "Leopoldo"
+      },
+      {
+        "name": "Raul Aranas",
+        "character": "Angelo"
+      },
+      {
+        "name": "Gail Cronauer",
+        "character": "Janet Williams"
+      },
+      {
+        "name": "Gary Carter",
+        "character": "Bill Williams"
+      },
+      {
+        "name": "James N. Harrell",
+        "character": "Sam Holland"
+      },
+      {
+        "name": "Ellen McElduff",
+        "character": "Jean Hill"
+      },
+      {
+        "name": "Jo Anderson",
+        "character": "Julia Ann Mercer"
+      },
+      {
+        "name": "Marco Perella",
+        "character": "Mercer Interrogator"
+      },
+      {
+        "name": "Edwin Neal",
+        "character": "Mercer Interrogator"
+      },
+      {
+        "name": "Darryl Cox",
+        "character": "FBI Agent #2 with Hill"
+      },
+      {
+        "name": "T.J. Kennedy",
+        "character": "Hill Interrogator"
+      },
+      {
+        "name": "J.J. Johnston",
+        "character": "Mobster with Broussard"
+      },
+      {
+        "name": "R. Bruce Elliott",
+        "character": "Bolton Ford Dealer"
+      },
+      {
+        "name": "William Larsen",
+        "character": "Will Fritz"
+      },
+      {
+        "name": "Wayne Tippit",
+        "character": "FBI Agent - Frank"
+      },
+      {
+        "name": "Dale Dye",
+        "character": "General Y"
+      },
+      {
+        "name": "Jerry Douglas",
+        "character": "Board Room Man"
+      },
+      {
+        "name": "Ryan MacDonald",
+        "character": "Board Room Man"
+      },
+      {
+        "name": "Duane Grey",
+        "character": "Board Room Man"
+      },
+      {
+        "name": "George R. Robertson",
+        "character": "White House Man"
+      },
+      {
+        "name": "Baxter Harris",
+        "character": "White House Man"
+      },
+      {
+        "name": "John Seitz",
+        "character": "General Lemnitzer"
+      },
+      {
+        "name": "Alex Rodine",
+        "character": "White House Man"
+      },
+      {
+        "name": "Sam Stoneburner",
+        "character": "White House Man"
+      },
+      {
+        "name": "Bob Gunton",
+        "character": "TV Newsman #3"
+      },
+      {
+        "name": "John Finnegan",
+        "character": "Judge Haggerty"
+      },
+      {
+        "name": "Walter Breaux",
+        "character": "Vernon Bundy"
+      },
+      {
+        "name": "Melodee Bowman",
+        "character": "FBI Receptionist"
+      },
+      {
+        "name": "Peter Maloney",
+        "character": "Colonel Finck"
+      },
+      {
+        "name": "Richard Rutowski",
+        "character": "Fence Shooter"
+      },
+      {
+        "name": "Bill Bolender",
+        "character": "Prisoner Powell"
+      },
+      {
+        "name": "Price Carson",
+        "character": "Tippet"
+      },
+      {
+        "name": "Gil Glasgow",
+        "character": "Tippet Shooter"
+      },
+      {
+        "name": "Bob Orwig",
+        "character": "Officer Poe"
+      },
+      {
+        "name": "Hugh Feagin",
+        "character": "Dr. Rose (credited in Director's Cut)"
+      },
+      {
+        "name": "George Kelly",
+        "character": "Jerry Johnson's Sidekick (credited in Director's Cut)"
+      },
+      {
+        "name": "Victor Kempster",
+        "character": "Samuel (credited in Director's Cut)"
+      },
+      {
+        "name": "John Larroquette",
+        "character": "Jerry Johnson (credited in Director's Cut)"
+      },
+      {
+        "name": "Maria Mason",
+        "character": "Garrison's Secretary (credited in Director's Cut)"
+      },
+      {
+        "name": "Ron Rifkin",
+        "character": "Mr. Goldberg / Spiesel (credited in Director's Cut)"
+      },
+      {
+        "name": "Frank Whaley",
+        "character": "Oswald Imposter (credited in Director's Cut)"
+      },
+      {
+        "name": "Kevin Beard",
+        "character": "(uncredited)"
+      },
+      {
+        "name": "Jeffrey Bornstein",
+        "character": "Hitman (uncredited)"
+      },
+      {
+        "name": "Marie Del Marco",
+        "character": "Secretary in Window (uncredited)"
+      },
+      {
+        "name": "Alan Donnes",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Orlando Gallegos",
+        "character": "Plaza Witness (uncredited)"
+      },
+      {
+        "name": "Robert J. Groden",
+        "character": "Courtroom Projectionist (uncredited)"
+      },
+      {
+        "name": "Chuck Kelley",
+        "character": "Dallas County Sherriff (uncredited)"
+      },
+      {
+        "name": "Codie Scott",
+        "character": "Man in Court (uncredited)"
+      },
+      {
+        "name": "Martin Sheen",
+        "character": "Narrator (voice) (uncredited)"
+      },
+      {
+        "name": "John F. Kennedy",
+        "character": "Self (archive footage)"
+      },
+      {
+        "name": "Anthony Ramirez",
+        "character": "Epileptic"
+      },
+      {
+        "name": "Stanley White",
+        "character": "B Team Shooter"
+      },
+      {
+        "name": "Fidel Castro",
+        "character": "Self (archive footage)"
+      },
+      {
+        "name": "Jacqueline Kennedy",
+        "character": "Self (archive footage)"
+      },
+      {
+        "name": "John Connally",
+        "character": "Self (archive footage)"
+      },
+      {
+        "name": "Richmond Hoxie",
+        "character": "TV Reporter"
+      },
+      {
+        "name": "Allison Pratt Davis",
+        "character": "Elizabeth Garrison"
+      },
+      {
+        "name": "Scott Krueger",
+        "character": "Snapper Garrison"
+      },
+      {
+        "name": "Ngô Đình Diệm",
+        "character": "Self - Walking with Stick (archive footage)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Williams",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Heidi Levitt",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Robert Richardson",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Arnon Milchan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Victor Kempster",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Crispian Sallis",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Pietro Scalia",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Oliver Stone",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Oliver Stone",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Oliver Stone",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "A. Kitman Ho",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Clayton Townsend",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Clayton Townsend",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Risa Bramon Garcia",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Billy Hopkins",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Scott Martin Gershin",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Marlene Stewart",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Webster Whinery",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Joe Hutshing",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Ron Berkeley",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ron Berkeley",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "William H. Brown",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Joseph A. Brennan",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Joseph P. Reidy",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Joseph P. Reidy",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Ann Goulder",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Juel Bestrop",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Jim Marrs",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "Jim Garrison",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "Zachary Sklar",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Derek R. Hill",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Alan Tomkins",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Christopher Assells",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Joe Burns",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Tod A. Maitland",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "T.J. O'Mara",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "J. Michael Muro",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Julie Monroe",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "name": "Charleen Richards",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Derek Abernathy",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Kenneth Wannberg",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Kevin Beard",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Gary Huckabay",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Bob Shelley",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Budd Carr",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "name": "John Neufeld",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "J. Michael McClary",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "name": "Mary Andrews",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Paul Etheredge",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "David Orr",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Randy E. Moore",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "F. Paul Benz",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Andria Litto",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Warren Keillor",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Eddie Perez",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Hugo Weng",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Roger Armstrong",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Mary Saisselin",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Mark A. Hatley",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Joseph Holsen",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Margaret Lancaster",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Lisa Lovaas",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Dan Bronson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Dan O'Connell",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "David M. Roberts",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Gregg Landaker",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Brooks Baldwin",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Wylie Stateman",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Avram D. Gold",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Mark Gordon",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Bob Newlan",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Miller Drake",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Leeann Stonebreaker",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Jay B. Richardson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Greg Orloff",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "John A. Kelly",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Richard Dwan Jr.",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Sidney Ray Baldwin",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Mark 'Frito' Long",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Reinhart Peschke",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "David A. Arnold",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Mark Lanza",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Willy Allen",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Rodney Armanino",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Elle Elliott",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Philip C. Pfeiffer",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Philip C. Pfeiffer",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Thomas Hayslip",
+        "department": "Production",
+        "job": "Research Assistant"
+      },
+      {
+        "name": "Michael D. Wilhoit",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Alison Fisher",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Bonnie Clevering",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Jerry G. Callaway",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "name": "Kelvin R. Trahan",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Jerelyn J. Harding",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Kate Crossley",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Susan Malerstein",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Margaret Johnson",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Faires A. Sekiya",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Robert Batha",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Deborah Mills-Whitlock",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Fran Allgood",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "John Shoemaker",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Dan M. Rich",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Martha Marek Beresford",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Ron Scott",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Wade Daily",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Elaine Thomas",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Cassandra Scott",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Craig Berkeley",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Sandy Berman",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Carl Catanese",
+        "department": "Art",
+        "job": "Set Buyer"
+      },
+      {
+        "name": "Patrick Hogan",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Mark Burchard",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Michael F. Burke",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Chris Centrella",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Lance Cheatham",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Dennis Collins",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Dianne E. Collins",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "name": "Donah Bassett",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Kayla Chaillot",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Numa V. Bertel Jr.",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "J. Grey Smith",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Liam Finn",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Patricia Anne Doherty",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Michael Off",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Frank Scheidbach",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Romy Stevenson",
+        "department": "Crew",
+        "job": "Production Intern"
+      },
+      {
+        "name": "Mark Thomason",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Donald Carlson",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Judson Leach",
+        "department": "Sound",
+        "job": "Apprentice Sound Editor"
+      },
+      {
+        "name": "Tana Bishop",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Margery Z. Gabrielson",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Jack Kostelnik",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Barby Kirk",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Mandy Brou",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Bill Darrow",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "Tutt Esquerre",
+        "department": "Crew",
+        "job": "Picture Car Coordinator"
+      },
+      {
+        "name": "Charlie French",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Daniel Burns",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Jamie Dierlam",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William B. Borges",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Alvin L. Milliken Sr.",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Tim Morrison",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Jeff Kluttz",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Kenny Davis",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Jonathan M. Abrams",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Deborah Lupard",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Richard Sobin",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Sandra Dawes",
+        "department": "Production",
+        "job": "Location Casting"
+      },
+      {
+        "name": "Bill Daly",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Michael Johnson",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "John Stockwell",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      }
+    ]
+  },
+  "keywords": [
+    "vietnam war",
+    "cia",
+    "assassination",
+    "usa president",
+    "government",
+    "politics",
+    "homophobia",
+    "texas",
+    "new orleans, louisiana",
+    "investigation",
+    "john f. kennedy",
+    "historical figure",
+    "president",
+    "conspiracy",
+    "district attorney",
+    "death",
+    "john f. kennedy assassination",
+    "assassination of president",
+    "usa history",
+    "1960s",
+    "courtroom drama",
+    "legal thriller",
+    "jacqueline kennedy"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "New Orleans District Attorney Jim Garrison discovers there's more to the Kennedy assassination than the official story.",
+    "On November 22, 1963, president John F. Kennedy is assassinated in Dallas. Lee Harvey Oswald is arrested for the crime and subsequently shot by Jack Ruby, supposedly avenging the president's death. An investigation concludes that Lee Harvey Oswald and Jack Ruby acted alone in their respective crimes, but Louisiana district attorney Jim Garrison is skeptical. Assembling a trusted group of people, Garrison conducts his own investigation, bringing about backlash from powerful government and political figures.—Cole Matthews",
+    "Jim Garrison (Costner) - a New Orleans's District Attorney - can't believe the Warren Commission official conclusion on the death of President Kennedy is accurate. Determined to prove them wrong, Garrison stakes everything to find the truth, and as more and more proof comes to light of a possible conspiracy and cover-up, the more people take note.",
+    "Details the actions of New Orleans District Attorney Jim Garrison, who takes it upon himself to investigate the assassination of President John F. Kennedy in Dallas, Texas, in 1963. Garrison is extremely suspicious of the official story presented by the FBI, and what he already knows and what he subsequently learns lead him to suspect that there is more to the story than the public is being told.—Murray Chapman <muzzle@cs.uq.oz.au>",
+    "A mixture of fact and speculation surrounding the death of U.S. President John F. Kennedy on 22nd November, 1963. New Orleans District Attorney, Jim Garrison, re-opens the files on the investigation and takes a critical look at the facts given by the F.B.I. His persistent questioning and poking his nose where it shouldn't be causes his and his family's lives to be at risk. But he keeps on the trail and soon uncovers a lead which points to the war in Vietnam.—Graeme Roy <gsr@cbmamiga.demon.co.uk>"
+  ],
+  "synopsis": "The film opens with a narration (by an uncredited Martin Sheen) showing newsreel footage, including the farewell address in 1961 of outgoing President Dwight D. Eisenhower, warning about the build-up of the \"military-industrial complex\". This is followed by a summary of John F. Kennedy's years as president, emphasizing the events that, in Stone's thesis, would lead to his assassination. This builds to a reconstruction of the assassination on November 22, 1963. New Orleans District Attorney Jim Garrison (Kevin Costner) subsequently learns about potential links to the assassination in New Orleans.Garrison and his team investigate private pilot David Ferrie (Joe Pesci), but are forced to let him go after their investigation is publicly rebuked by the federal government. Kennedy's alleged assassin Lee Harvey Oswald (Gary Oldman) is killed by Jack Ruby (Brian Doyle-Murray) before he can go to trial two days after the assassination, and Garrison closes the investigation.Three years later, the investigation is reopened in late 1966 after Garrison reads the Warren Commission Report and notices what he believes are numerous inaccuracies and conflicts. Garrison and his staff interrogate several witnesses to the Kennedy assassination, and others who were involved with Oswald, Ruby, and Ferrie. Russell B. Long (Walter Matthau), a Democrat senator, privately tells Garrison about the FBI investigation into Oswald and evidence surfaced that it was technically impossible for Oswald to fire off three shots from a bolt-action rifle with the pinpoint accuracy that killed John F. Kennedy.Garrison and his associates question Jack Martin (Jack Lemmon) a former private investigator who worked with the late Guy Banister (Ed Asner) where Martin recalls Banister beating him with a pistol on that day three years earlier after discovering that Banister's office had been broken into and several files stolen from the office. Banister was a career member of the FBI before he became a private investigator and then died suddenly of a \"heart attack\" in 1964 one year after the Warren Commission released its report. Martin tells Garrison that Oswald had met with Banister a few times during his brief stay in New Orleans and that Oswald and Ferrie knew each other and were employed on some special project with Cuban anti-communist militants.Garrison meets with Dean Andrews, Jr. (John Candy), an eccentric lawyer who claims that an alleged phone call was made to him by one of his clients, named \"Clay Bertrand\" on the day after the Kennedy assassination in which Andrews was asked to represent Oswald in the assassination charges against him. Andrews tells Garrison that he may be in over his head with those who may have been involved.Another witness Garrison meets with is Willie O'Keefe (Kevin Bacon), a male prostitute currently serving five years in prison for solicitation,, who reveals he witnessed Ferrie discussing Kennedy's assassination with Oswald, and a group of Latin men. As well as briefly meeting Oswald, O'Keefe was romantically involved with a man he knew as \"Clay Bertrand\" also known as Clay Shaw (Tommy Lee Jones), a wealthy New Orleans businessman. Upon Garrison's informal questioning, Shaw denies any knowledge of meeting Ferrie, O'Keefe or Oswald, but he is soon charged with conspiring to murder the President.In Dallas, others come forward, including Jean Hill (Ellen McElduff). She tells the investigators that she witnessed shots fired from the grassy knoll and she heard four to six shots total, but Secret Service agents threatened her into saying only three shots came from the book depository; the implication is that changes that were made to her testimony by the Warren Commission.Garrison and a staff member, Lou Ivon (Jay O. Sanders), go to the sniper's location in the Texas School Book Depository and aim an empty rifle from the window through which Oswald was alleged to have shot Kennedy. Ivon dry-fires the rifle while Garrison times him. They conclude that Oswald was too poor a marksman to make the shots, and two of the shots were much too close together, indicating that one or two more additional assassins must have been involved.Another person comes forward named Rose Cheramie (Sally Kirkland), a Dallas prostitute who was allegedly beaten up by Jack Ruby's bodyguards. She tells Garrison that she was taken to a clinic on that day where she pleaded to the doctors that the Mafia was planning on killing President Kennedy.After discovering electronic surveillance microphones that had been planted in his offices, Garrison meets a high-level figure in Washington D.C. who identifies himself as \"X\" (Donald Sutherland). X suggests there was a conspiracy at the highest levels of government, implicating members of the CIA, the military-industrial complex, Cuban exiles, the Mafia, and Secret Service, FBI, and even Kennedy's vice-president, Lyndon B. Johnson, as either direct conspirators, co-conspirators, or, as having motives to cover up the truth after the assassination. X explains that Kennedy was assassinated because his foreign policy would have meant diminished profit for the military-industrial complex, and enraged high-ranking military officials who viewed such diplomacy as weakness. Kennedy ordered control of secret para-military operations to be removed from the CIA and handed over to Department of Defense Joint Chiefs of Staff. This would have diminished the agency's power. Further, the Mafia had helped Kennedy win the 1960 election as a favor to his father, Joseph P. Kennedy, Sr, who had done business with the Mafia dating back to the 1920s, and felt betrayed that he had let his brother, Robert F. Kennedy, continue his crusade against the Mob. Furthermore, the Mob wanted revenge for the April 1961 Bay of Pigs fiasco, which they had helped fund and support in order to get their Cuban casinos, their biggest moneymakers, back from the hands of the Castro government.In flashbacks, X reveals how his superior, General \"Y\", had X sent on a trip to Antarctica just before the assassination. One of X's duties was to supplement presidential security. He points out all the lapses in security during JFK's fatal trip to Dallas: the open windows along the route, the hairpin turn from Houston to Elm which slowed the limousine, and bystander activities which would not have been allowed. X suggests he was ordered out of the country in order to strip away the normal security measures he would have had in place during Kennedy's fateful trip to Dallas.On his way back from Antarctica, X touches down in New Zealand. He reads a local newspaper which mysteriously presents a full dossier on Oswald and his guilt in Kennedy's death. This was hours before Oswald would be charged with the crime and anyone investigating the case knew much about him. X views this as clear proof of a cover story of the type used by CIA black ops. In other words, CIA assets in the media were being used to persuade the public of Oswald's guilt.X further states that Kennedy was intent on pulling U.S. troops from South Vietnam by the end of 1965 as evidenced by National Security Order 263. This was countermanded immediately by Kennedy's successor, Lyndon Johnson, with National Security Order 273. Therein, concludes \"X\", lay the foundation of the Vietnam War. X encourages Garrison to keep digging and make further arrests.Two of Garrison's staff, one of whom is Assistant District Attorney Susie Cox (Laurie Metcalf), quit the investigation, doubting his motives and methods. Garrison's marriage is strained when his wife Liz (Sissy Spacek) complains that he is spending more time on the case than with his own family. After a sinister phone call is made to their daughter, Liz accuses Garrison of being selfish and attacking Shaw only because of his homosexuality. In addition, the media launches attacks on television and in newspapers attacking Garrison's character and criticizing the way his office is spending taxpayers' money. Some key witnesses become scared and refuse to testify while others, such as Ferrie, die under suspicious circumstances. Before his death, Ferrie tells Garrison and some of his staff, in a private meeting where Ferrie is plainly agitated and paranoid, that he believes people are after him, and reveals there was a conspiracy around Kennedy's death that involved co-conspirators that were involved in the CIA planned Operation Mongoose.In June 1968, fellow Assistant District Attorney Bill Broussard (Michael Rooker) meets Garrison at the New Orleans airport where Garrison is boarding for Phoenix, Arizona and tells him the Canadian mob will attempt to assassinate him and is about to get Garrison some serious protection when Garrison confronts Broussard about his orders not to pass rumors about someone going to be killed. Broussard tries in vain to get Garrison to listen, but Garrison refuses, dismissing it as \"paranoid garbage.\" He accuses Broussard of disobeying orders and decides to take him back to New Orleans as punishment. Broussard tries to apologize, but Garrison is too busy to accept it. After a few minutes, he has to flee from a public restroom when he hears strange noises in the adjacent stall and is approached by an unknown man who pretends to be a friend of his. Garrison flees after figuring out that he is about to be set up to be arrested by the airport police as part of a plot by the conspiracy to set him up as a homosexual.After Garrison returns to New Orleans, he and his staff discovered that Broussard has joined the FBI and disappeared from his apartment. They argue about the real reason why Shaw has been brought to trial. After Liz retires, he sees Robert Kennedy on TV and witnesses R.F. Kennedy's assassination. Garrison, who predicted it, and Liz, whose faith in her husband is renewed as a result, reconcile.The climax of the film is Clay Shaw's trial, a lengthy hearing from January-March 1969. Garrison presents the court with further evidence of multiple killers while attempting to debunk the \"single bullet theory\" proposed in the Warren Commission report. Garrison also presents the Zapruder film, a silent, color motion picture sequence shot by private citizen Abraham Zapruder with an 8mm home-movie camera as Kennedy's motorcade passed through Dealey Plaza on that day, thereby unexpectedly capturing the President's assassination. Garrison uses the film to propose a scenario involving three assassins who fired six total shots.Garrison's closing statement is an impassioned one where he floats the notion that information from the Warren Commission will not be released for many years and that his oldest son will be 75 at the time. He also invokes Kennedy's own famous inaugural speech and brings himself to tears over the nation's fallen hero. He then bids the jury to bring justice.After only one hour of deliberations, the jury acquits Shaw on all charges. The film reflects that the jury's members publicly stated that they really believed there was indeed a conspiracy behind the assassination of JFK, but there was not enough evidence to link Shaw to that conspiracy. The film ends with Garrison stating to reporters that he'll continue to find out what else may be there in the cover up. The final shot shows Garrison and Liz leaving the courthouse together.In the end credits, it is mentioned that Clay Shaw died of lung cancer in 1974, but in 1979 Richard Helms testified under oath that Clay Shaw had, in fact, been a part-time contract agent of the Domestic Contacts Division of the CIA. The Justice Department has done nothing to re-open the investigation of the Kennedy assassination.The end credits also state that secret records related to the assassination will be released to the public in 2029."
+}

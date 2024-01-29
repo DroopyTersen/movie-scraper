@@ -1,0 +1,827 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/urDWNffjwmNi5IQaezw9GwqkUXa.jpg",
+  "id": 767,
+  "title": "Harry Potter and the Half-Blood Prince",
+  "poster_path": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+  "release_date": "2009-07-15",
+  "vote_average": 7.694,
+  "vote_count": 18532,
+  "popularity": 135.083,
+  "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
+  "imdb_id": "tt0417741",
+  "budget": 250000000,
+  "homepage": "https://www.warnerbros.com/movies/harry-potter-and-half-blood-prince/",
+  "revenue": 933959197,
+  "runtime": 153,
+  "tagline": "Dark Secrets Revealed",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Heyday Films"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Daniel Radcliffe",
+        "character": "Harry Potter"
+      },
+      {
+        "name": "Rupert Grint",
+        "character": "Ron Weasley"
+      },
+      {
+        "name": "Emma Watson",
+        "character": "Hermione Granger"
+      },
+      {
+        "name": "Jim Broadbent",
+        "character": "Horace Slughorn"
+      },
+      {
+        "name": "Michael Gambon",
+        "character": "Albus Dumbledore"
+      },
+      {
+        "name": "Tom Felton",
+        "character": "Draco Malfoy"
+      },
+      {
+        "name": "Alan Rickman",
+        "character": "Severus Snape"
+      },
+      {
+        "name": "Bonnie Wright",
+        "character": "Ginny Weasley"
+      },
+      {
+        "name": "Jessie Cave",
+        "character": "Lavender Brown"
+      },
+      {
+        "name": "Evanna Lynch",
+        "character": "Luna Lovegood"
+      },
+      {
+        "name": "Freddie Stroma",
+        "character": "Cormac McLaggen"
+      },
+      {
+        "name": "Robbie Coltrane",
+        "character": "Rubeus Hagrid"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "character": "Bellatrix Lestrange"
+      },
+      {
+        "name": "Maggie Smith",
+        "character": "Minerva McGonagall"
+      },
+      {
+        "name": "Timothy Spall",
+        "character": "Peter Pettigrew"
+      },
+      {
+        "name": "David Thewlis",
+        "character": "Remus Lupin"
+      },
+      {
+        "name": "Julie Walters",
+        "character": "Molly Weasley"
+      },
+      {
+        "name": "David Bradley",
+        "character": "Argus Filch"
+      },
+      {
+        "name": "Warwick Davis",
+        "character": "Filius Flitwick"
+      },
+      {
+        "name": "Gemma Jones",
+        "character": "Poppy Pomfrey"
+      },
+      {
+        "name": "Helen McCrory",
+        "character": "Narcissa Malfoy"
+      },
+      {
+        "name": "Natalia Tena",
+        "character": "Nymphadora Tonks"
+      },
+      {
+        "name": "Mark Williams",
+        "character": "Arthur Weasley"
+      },
+      {
+        "name": "Dave Legeno",
+        "character": "Fenrir Greyback"
+      },
+      {
+        "name": "Elarica Johnson",
+        "character": "Waitress"
+      },
+      {
+        "name": "Geraldine Somerville",
+        "character": "Lily Potter"
+      },
+      {
+        "name": "Oliver Phelps",
+        "character": "George Weasley"
+      },
+      {
+        "name": "James Phelps",
+        "character": "Fred Weasley"
+      },
+      {
+        "name": "Alfred Enoch",
+        "character": "Dean Thomas"
+      },
+      {
+        "name": "Robert Knox",
+        "character": "Marcus Belby"
+      },
+      {
+        "name": "Amber Evans",
+        "character": "Twin Girl 1"
+      },
+      {
+        "name": "Ruby Evans",
+        "character": "Twin Girl 2"
+      },
+      {
+        "name": "Louis Cordice",
+        "character": "Blaise Zabini"
+      },
+      {
+        "name": "Scarlett Hefner",
+        "character": "Pansy Parkinson"
+      },
+      {
+        "name": "Jamie Waylett",
+        "character": "Vincent Crabbe"
+      },
+      {
+        "name": "Josh Herdman",
+        "character": "Gregory Goyle"
+      },
+      {
+        "name": "Matthew Lewis",
+        "character": "Neville Longbottom"
+      },
+      {
+        "name": "William Melling",
+        "character": "Nigel Wolpert"
+      },
+      {
+        "name": "Anna Shaffer",
+        "character": "Romilda Vane"
+      },
+      {
+        "name": "Devon Murray",
+        "character": "Seamus Finnigan"
+      },
+      {
+        "name": "Georgina Leonidas",
+        "character": "Katie Bell"
+      },
+      {
+        "name": "Isabella Laughland",
+        "character": "Leanne"
+      },
+      {
+        "name": "Afshan Azad",
+        "character": "Padma Patil"
+      },
+      {
+        "name": "Shefali Chowdhury",
+        "character": "Parvati Patil"
+      },
+      {
+        "name": "Amelda Brown",
+        "character": "Mrs Cole"
+      },
+      {
+        "name": "Hero Fiennes Tiffin",
+        "character": "Tom Riddle (11 Years)"
+      },
+      {
+        "name": "Jack Pryor",
+        "character": "Skinny Kid"
+      },
+      {
+        "name": "Mark Lockyer",
+        "character": "Waiter"
+      },
+      {
+        "name": "Paul Ritter",
+        "character": "Eldred Worple"
+      },
+      {
+        "name": "Frank Dillane",
+        "character": "Tom Riddle (16 Years)"
+      },
+      {
+        "name": "Joerg Stadler",
+        "character": "Male Inferi"
+      },
+      {
+        "name": "Caroline Wildi",
+        "character": "Female Inferi"
+      },
+      {
+        "name": "Ralph Ineson",
+        "character": "Amycus Carrow"
+      },
+      {
+        "name": "Suzie Toase",
+        "character": "Alecto Carrow"
+      },
+      {
+        "name": "Rod Hunt",
+        "character": "Thorfinn Rowle"
+      },
+      {
+        "name": "Katie Leung",
+        "character": "Cho Chang"
+      },
+      {
+        "name": "Nathan Clarke",
+        "character": "Gryffindor Student (uncredited)"
+      },
+      {
+        "name": "Olivia Jewson",
+        "character": "Slug Club Party Member (uncredited)"
+      },
+      {
+        "name": "Freddie Rose",
+        "character": "Year 7 Schoolboy (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Bruno Delbonnel",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Stephenie McMillan",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Stuart Craig",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Jill Brooks",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Tina Maskell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "J.K. Rowling",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Steve Kloves",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "David Heyman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Andrew Ackland-Snow",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Greg Powell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Nick Dudman",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Gary Tomkins",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jany Temime",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Fiona Weir",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Alastair Bullock",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Amanda Knight",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Tim Alexander",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Lucy Allen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Yates",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Nicholas Hooper",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Mark Day",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "James Mather",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Andie Derrick",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "David Barron",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tim Lewis",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Tim Lewis",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Lionel Wigram",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Molly Hughes",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Tino Schaedler",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Hattie Storey",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Sloane U'Ren",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Shaune Harrison",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Peter Gleaves",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Lisa Tomblin",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Jade Gordon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Andy Kennedy",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Nina Armstrong",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Charlotte Hunter",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Simon Emanuel",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Stephen Woolfenden",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Charlotte Finlay",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Neil Lamont",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Nicolas Aithadi",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Michael Fentum",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Dominic Gibbs",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jed Loughran",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Glen Gathard",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Robert Edwards",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Oliver Money",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Anna Worley",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Jaap Buitendijk",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Dominic Sidoli",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Tim Burke",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Kate Baird",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Sarah Weatherburn",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Chloe Grysole",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Paul J. Franklin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Mike Dowson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Helen Steinway Bailey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Coulier",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Stuart Hilliker",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Charlotte Rogers",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Charlotte Loughnane",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Rosie Goodwin",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Emma Norton",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Amanda Foster",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Hermione Byrt",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Martin Foley",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jamie Christopher",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "John Trehy",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Antony Bayman",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Vivienne Jones",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Richard Davies",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Jamie McPhee",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Stuart Wilson",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Ed Colyer",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Paul Spateri",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Russell Lodge",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Chris Lyons",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Sarah Franzl",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gretchen Libby",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Paul Riddle",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "John Moffatt",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "David Holmes",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Belinda Hodgson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Sharon Nicholas",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Gregory Yepes",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Tolga Kenan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Elaine Ford",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Donna Williams",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Paula Eden",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Rob Bliss",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "John Richardson",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Rupert Steggle",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Ferran Domenech",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Amanda Burns",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Alisha Smith",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Gabrielle Fritz",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Joanna Whitney",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joanna Whitney",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Tilly Powell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Aimee Lisby",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Gemma Powley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Shaw",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Marc Mailley",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "witch",
+    "dying and death",
+    "london, england",
+    "magic",
+    "school of witchcraft",
+    "apparition",
+    "curse",
+    "teenage crush",
+    "school",
+    "werewolf",
+    "teenage love",
+    "luck",
+    "wizard",
+    "secret past",
+    "christmas",
+    "based on young adult novel"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as \"the property of the Half-Blood Prince\" and begins to learn more about Lord Voldemort's dark past.",
+    "During Harry Potter's sixth year at Hogwarts, he finds a book that once belonged to the mysterious Half-Blood Prince that earns him the respect of his new Potions professor Horace Slughorn. In addition, Dumbledore must prepare Harry for the ultimate final confrontation by finding out the secret behind Voldemort's power. Meanwhile, a hidden enemy waits in the shadows to carry out a mission given to him by the Dark Lord.—Blazer346",
+    "As the sixth year at Hogwarts begins, both worlds are more in danger by the ultimate evil threat. Harry begins to learn more about the past of the evil threat as he tries to discover the true identity of a title name that he finds within the school.—RECB3",
+    "In Harry Potter's (Daniel Radcliffe's) sixth year at Hogwarts School of Witchcraft, he finds a book marked mysteriously, \"This book is the property of the Half Blood Prince\", which helps him excel at Potions class and teaches him a few dark and dangerous ones along the way. Meanwhile, Harry is taking private lessons with Dumbledore (Sir Michael Gambon) in order to find out about Voldemort's (Ralph Fiennes') past so they can find out what might be his only weakness.—heather"
+  ],
+  "synopsis": "Scarred by his experience at the Ministry of Magic with Voldemort, Harry is reluctant to return to Hogwarts. Dumbledore encourages him to continue, after transporting him to see a former professor, Horace Slughorn, hoping that Slughorn would return to Hogwarts and take Harry under his wing.Meanwhile, Death Eaters begin to wreak havoc both towards Muggles, destroying the Millennium Bridge, and Wizards, kidnapping the wandmaker Mr. Ollivander and destroying his Diagon Alley shop. Bellatrix Lestrange entreats Severus Snape to enter an Unbreakable Vow with Draco Malfoy's mother, Narcissa, assuring that he will complete the task assigned to Draco should Draco fail and that he will protect him and make sure he doesn't get hurt. Harry, Ron and Hermione, while in Diagon Alley, spot Draco entering Borgin and Burkes and taking part in a ritual with other Death Eaters, and become suspicious of his actions.At Hogwarts, the school is under tight security to prevent the Death Eaters from entering the school. With Slughorn back to teach Potions, Snape is given Defense Against the Dark Arts. Harry and Ron are encouraged by Professor McGonagall to take up Potions now that Slughorn, with lower standards, is teaching the class; however, as neither was expecting to take the course, they have to find textbooks for themselves in the bookcase. Harry's book is annotated with more exact instructions to complete potions, giving him an edge over the other students; he finds that it once belonged to the \"Half-Blood Prince\", a term Hermione cannot figure out. Meanwhile, Ron becomes the successful Gryffindor's Quidditch goalie, attracting the love of Lavender Brown, much to Hermione's chagrin. Harry is also upset over Ginny's attraction to Dean Thomas. During the Christmas Break while Harry and Ron are at the Burrow, the Death Eaters with Bellatrix in charge come intending to kidnap Harry, but are forced to retreat after they are outnumbered by Order of the Phoenix members. Before they leave they set fire to the Burrow, and the Weasleys are gathered outside the house, leaving Harry regretting the evil that he has brought down upon people he cares about.Dumbledore reveals to Harry through the Pensieve memories of Tom Riddle (Voldemort's original name), including a false memory from Slughorn, when Riddle asked him about a certain restricted Dark Art. The memory fails to reveal this art, and Dumbledore believes that the key to defeating Voldemort is to learn what Dark Art Riddle asked about, and instructs Harry to further confide himself to Slughorn. Using a Luck potion he won earlier in the school year, Harry is able to bring Slughorn to be intoxicated with Hagrid and convinces the professor in his stupor to give him the true memory. This memory reveals that Riddle inquired about the creation of Horcruxes, devices that store a portion of the creator's soul to allow them to live indefinitely. Dumbledore reveals that Riddle's diary and his mother's ring were two of seven Horcruxes that Riddle had created, and that they must track these down and destroy them to make Voldemort mortal.Meanwhile, Harry continues to be suspicious of Draco's actions, following him around the school but no success in determining what he seeks. Harry believes Draco to be behind two indirect attempts on Dumbledore's life, one through a cursed necklace that Katie Bell, under an Imperius Curse, was bringing to Dumbledore as a gift, and another through a bottle of poisoned wine that Slughorn, similarly cursed, planned to give to the professor. The latter is discovered accidently when Ron ingests the poison; though he recovers with medical treatment, he unconsciously mumbles Hermione's name in front of Lavender, sending her away crying. After this incident, Harry corners Draco in the toilets and after a short fight casts the Sectumsempra curse from the Half-Blood Prince's book, severely harming Draco. Snape arrives knowing that he let Draco get hurt and that he broke one of the promises and heals him. Ginny convinces Harry to hide the book in the Room of Requirement to prevent him from using it again; there, they discover, unknown to them, a Vanishing Cabinet, which Draco has been attempting to repair, but think nothing of it further. Ginny also reveals her love for Harry, and they kiss after she hides the book.Dumbledore implores Harry to help him recover another Horcrux, the location of which he recently learned. The two transport themselves to a seaside cliff, and enter a cave where the Horcrux is located. On a small crystalline island, Dumbledore forces Harry to make him drink a mind-altering liquid in order to reveal the Horcrux. While Dumbledore recovers from the liquid, Harry recovers the Horcrux, a small pendant. Harry tries to help Dumbledore recover, but they are attacked by numerous inferi. Dumbledore recovers in time to set them aflame, and the two return to the Astronomy Tower at Hogwarts.Dumbledore, still weakened by the trial, instructs Harry to go to get Snape. However, before Harry can go, footsteps are heard, and Dumbledore tells Harry to hide on the lower floor. The footsteps belong to Draco, who prepares to kill Dumbledore, but cannot bring himself to do so. Meanwhile, with the Vanishing Cabinet fixed, Bellatrix and other Death Eaters are able to invade Hogwarts through a similar cabinet at Borgin and Burkes, and join Draco in the tower. Snape silently arrives on the lower floor, indicating to Harry to stay quiet, and then goes upstairs, joining the other Death Eaters. Snape then casts the killing spell Avada Kedavra on Dumbledore, throwing him over the side of the Tower and killing him. Snape, Draco, and the other Death Eaters depart the school, Bellatrix casting the Death Eaters' sign over the school, destroying the Great Hall and setting fire to Hagrid's hut in glee. Harry tries to stop them with the Sectumsempra spell, but Snape deflects it and stuns him. As he departs, he explains to Harry that he is the Half-Blood Prince and the creator of the spell.Harry returns to the school to find the staff and students mourning over Dumbledore's death. Harry walks over to Dumbledore's body lying in front of them, grieving as Ginny comforts him. When he returns to the late headmaster's office one last time, McGonagall confronts him and asks him to open up to her, but he does not comply and leaves. A portrait of Dumbledore can be seen hanging on a wall behind them.Harry reveals to Ron and Hermione that the Horcrux they got was a fake, containing a message from an \"R.A.B.\" that stated he had already taken it, but is also seeking to end Voldemort's life. Harry tells his friends that he does not plan to return next year, instead seeking out R.A.B. and the other Horcruxes so that he may put an end to Voldemort; Ron and Hermione remind Harry that they are his friends and will help alongside him in his goal."
+}

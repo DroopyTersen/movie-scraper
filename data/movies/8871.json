@@ -1,0 +1,654 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/sy0vo1cmpKqwPRiMUiJ45jyLsX7.jpg",
+  "id": 8871,
+  "title": "How the Grinch Stole Christmas",
+  "poster_path": "https://image.tmdb.org/t/p/w500/AmUs3hximCKa90sHuIRr5Bz8ci5.jpg",
+  "release_date": "2000-11-17",
+  "vote_average": 6.772,
+  "vote_count": 7074,
+  "popularity": 78.336,
+  "overview": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
+  "imdb_id": "tt0170016",
+  "budget": 123000000,
+  "homepage": "",
+  "revenue": 345800000,
+  "runtime": 104,
+  "tagline": "He puts the mean in green.",
+  "genres": [
+    "Family",
+    "Comedy",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Imagine Entertainment",
+    "Brian Grazer Productions",
+    "LUNI Productions GmbH and Company KG"
+  ],
+  "production_countries": [
+    "DE",
+    "US",
+    "FR"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jim Carrey",
+        "character": "Grinch"
+      },
+      {
+        "name": "Taylor Momsen",
+        "character": "Cindy Lou Who"
+      },
+      {
+        "name": "Jeffrey Tambor",
+        "character": "Mayor Augustus Maywho"
+      },
+      {
+        "name": "Christine Baranski",
+        "character": "Martha May Whovier"
+      },
+      {
+        "name": "Bill Irwin",
+        "character": "Lou Lou Who"
+      },
+      {
+        "name": "Molly Shannon",
+        "character": "Betty Lou Who"
+      },
+      {
+        "name": "Clint Howard",
+        "character": "Whobris"
+      },
+      {
+        "name": "Josh Ryan Evans",
+        "character": "8-Year-Old Grinch"
+      },
+      {
+        "name": "Mindy Sterling",
+        "character": "Clarnella"
+      },
+      {
+        "name": "Bryce Dallas Howard",
+        "character": "Surprised Who"
+      },
+      {
+        "name": "Lacey Kohl",
+        "character": "Christina Whoterberry"
+      },
+      {
+        "name": "Rachel Winfree",
+        "character": "Rose"
+      },
+      {
+        "name": "Rance Howard",
+        "character": "Elderly Timekeeper"
+      },
+      {
+        "name": "Jeremy Howard",
+        "character": "Drew Lou Who"
+      },
+      {
+        "name": "T.J. Thyne",
+        "character": "Stu Lou Who"
+      },
+      {
+        "name": "Nadja Pionilla",
+        "character": "Junie"
+      },
+      {
+        "name": "Jim Meskimen",
+        "character": "Officer Wholihan"
+      },
+      {
+        "name": "Michael Dahlen",
+        "character": "Customer"
+      },
+      {
+        "name": "David Costabile",
+        "character": "Biker Who"
+      },
+      {
+        "name": "Mary Stein",
+        "character": "Miss Rue Who"
+      },
+      {
+        "name": "James Ritz",
+        "character": "Crazy Mose"
+      },
+      {
+        "name": "Deep Roy",
+        "character": "Post Office Clerk"
+      },
+      {
+        "name": "Jessica Sara",
+        "character": "Sophie"
+      },
+      {
+        "name": "Mason Lucero",
+        "character": "Who Boy"
+      },
+      {
+        "name": "Ben Bookbinder",
+        "character": "8-Year-Old Augustus Maywho"
+      },
+      {
+        "name": "Michaela Gallo",
+        "character": "Who Schoolgirl"
+      },
+      {
+        "name": "Landry Allbright",
+        "character": "8-Year-Old Martha May Whovier"
+      },
+      {
+        "name": "Reid Kirchenbauer",
+        "character": "8-Year-Old Whobris"
+      },
+      {
+        "name": "Rebecca Chace",
+        "character": "Shopper"
+      },
+      {
+        "name": "Suzanne Krull",
+        "character": "Shopper"
+      },
+      {
+        "name": "Steve Kehela",
+        "character": "Shopper"
+      },
+      {
+        "name": "Lillias White",
+        "character": "Shopper"
+      },
+      {
+        "name": "Rain Pryor",
+        "character": "Shopper"
+      },
+      {
+        "name": "John Alexander",
+        "character": "Shopper"
+      },
+      {
+        "name": "Kevin Isola",
+        "character": "Tree Trimmer"
+      },
+      {
+        "name": "Gavin Grazer",
+        "character": "Yodeler"
+      },
+      {
+        "name": "Walter Franks",
+        "character": "Clerk"
+      },
+      {
+        "name": "Verne Troyer",
+        "character": "Band Member"
+      },
+      {
+        "name": "Clayton Martinez",
+        "character": "Cook"
+      },
+      {
+        "name": "Q'orianka Kilcher",
+        "character": "Little Choir Member"
+      },
+      {
+        "name": "Caroline Williams",
+        "character": "Tiny Who Woman"
+      },
+      {
+        "name": "John Short",
+        "character": "Tiny Who Man"
+      },
+      {
+        "name": "Grainger Esch",
+        "character": "Near Miss Who"
+      },
+      {
+        "name": "Eva Burkley",
+        "character": "Pudding Chef"
+      },
+      {
+        "name": "Rick Baker",
+        "character": "Puppeteer"
+      },
+      {
+        "name": "Bill Sturgeon",
+        "character": "Puppeteer"
+      },
+      {
+        "name": "Mark Setrakian",
+        "character": "Puppeteer"
+      },
+      {
+        "name": "Jurgen Heimann",
+        "character": "Puppeteer"
+      },
+      {
+        "name": "Tim Blaney",
+        "character": "Puppeteer"
+      },
+      {
+        "name": "Charles Croughwell",
+        "character": "Balloon Who"
+      },
+      {
+        "name": "Frank Welker",
+        "character": "Max the Dog (voice)"
+      },
+      {
+        "name": "Anthony Hopkins",
+        "character": "Narrator (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Brian Grazer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "James Horner",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "James Horner",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Janet Hirshenson",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "name": "Jane Jenkins",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "name": "Ron Howard",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ron Howard",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Todd Hallowell",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Todd Hallowell",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Aldric La'Auli Porter",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Aldric La'Auli Porter",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Louisa Velis",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Daniel P. Hanley",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Mike Hill",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Rita Ryack",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Busta Rhymes",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Donald Peterman",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Michael Corenblith",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Merideth Boswell",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Charles Croughwell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Dan Webster",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Jeffrey Price",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Peter S. Seaman",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Scott A. Hecker",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Bill Corso",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Rick Baker",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "name": "Lauren E. Polizzi",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "David Womark",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "David Womark",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Faith Hill",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Barry E. Jackson",
+        "department": "Art",
+        "job": "Conceptual Design"
+      },
+      {
+        "name": "Dr. Seuss",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "Mariah Carey",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Ben Folds",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Bonnie Greenberg",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Eric A. Norris",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Barenaked Ladies",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Paul O'Neill",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Ed Robertson",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Robert Kinkel",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Ve Neill",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Mark Oliver Everett",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Linda Fields",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Toni G",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Steven Page",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Bob Camp",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Steve Harwell",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Leslie Park",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Dan Bronson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Gail Rowell-Ryan",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Allen Hall",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Julian Levi",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Joe E. Rand",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Jim Henrikson",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Debra Wolff",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "name": "Joyce Cox",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Kevin Scott Mack",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Patricia Miller",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Deborah Rutherford",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kazu Hiro",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "John LaSalandra",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Michael Geisler",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Kurt Williams",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Kurt Williams",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Nina Paskowitz",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Rachel Wyn Dunn",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Greg Camp",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Christopher Flick",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Michael J. Malone",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Lisa Hoyle",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Brian Thomas Nist",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jon Oliva",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "David MacMillan",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "David Hyman",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Kenneth L. Johnson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Mike Anderson",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Michael Key",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  },
+  "keywords": [
+    "new love",
+    "based on novel or book",
+    "holiday",
+    "christmas party",
+    "village",
+    "santa claus",
+    "surrealism",
+    "thief",
+    "public humiliation",
+    "christmas",
+    "surreal world"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town.",
+    "Inside a snowflake exists the magical land of Whoville, wherein live the Whos, an almost-mutated sort of Munchkin-like people who all love Christmas. Just outside of their beloved town lives the Grinch (Jim Carrey), a nasty creature that hates Christmas and plans to steal it from the Whos, which he equally abhors. Little Cindy Lou Who (Taylor Momsen) decides to befriend the Grinch.—Filmfreak <webmaster@filmfreak.co.za>",
+    "In this live-action adaptation of the beloved children's tale by Dr. Seuss, the reclusive green Grinch (Jim Carrey) decides to ruin Christmas for the cheery citizens of Whoville. Reluctantly joined by his hapless dog Max (Kelley), the Grinch comes down from his mountaintop home and sneaks into town to swipe everything Christmas-related from the Whos. However, the bitter grump finds a hitch in his plans when he encounters the endearing Cindy Lou Who (Taylor Momsen)—Jwelch5742",
+    "In the outskirts of Whoville, a green hermit known as the Grinch has been living in Mount Crumpit with his only friend and pet dog, Max. It is soon discovered the Grinch has put himself in exile, due to his hatred for Christmas and after he was bullied by his former school peers after he tried to impress his childhood crush and only female friend, Martha May Whovier, but that ended in humiliation for the Grinch, after Augustus Maywho (the corrupt mayor of Whoville) has began belittling him even further. However, Cindy Lou Who, the daughter of Lou and Betty, believes that there is good in the Grinch. At the same time, Cindy realizes that Christmas is about being with loved ones and it shouldn't be about materialism. The Grinch devises a plot to ruin Christmas by dressing up as Santa in retaliation for being ridiculed and for the citizens endless greed for gifts.—dawsonpersi",
+    "Rejected by the Whos as a child, and living in spiteful seclusion for most of his life, the Grinch (Jim Carrey) has always hated the citizens of Whoville. That especially goes for Christmas with the Whos' noise, phony sentiment, and wasteful materialism. When little Cindy Lou Who's (Taylor Momsen's) attempt to transcend the festivities' empty commercialism by inviting the Grinch ends with his public humiliation, the Grinch hatches upon on his supreme scheme to ruin Christmas. Cindy Lou Who becomes a great friend to the Grinch and stops the Grinch from destroying a wonderful holiday, and the Grinch is now welcome in Whoville.—Kenneth Chisholm <kchishol@home.com>"
+  ],
+  "synopsis": "On a tiny snowflake floating through the air, exists the town of Who-ville, home of the Whos. The town is joyously preparing for the coming of Christmas.However, of all the Whose, a little girl named Cindy Lou Who is feeling depressed, and not at all in the holiday spirit. When her brother and his friends return from climbing Mt Crumpit and claim they saw the Grinch, Cindy Lou grows curious as to the Grinch, who she learns does not like Christmas. While in the Post Office with her Father, Cindy takes some mail to a backroom, and finds the Grinch trying to cause havoc in the mail room. The Grinch scares her, and causes Cindy to fall into the mail sorting machine. To her surprise, the Grinch rescues her.Cindy then decides to investigate more into the Grinch's past, and interviews several people, including two elderly women who cared for the Grinch, as well as town socialite Margaret May-Who and the Mayor, both of whom were classmates with the Grinch.From the information she collects, the Grinch as a child actually liked Christmas, and even had a crush on Margaret. However, the Mayor as a child, taunted the Grinch about this. The Grinch tries to create a hand-made present for Margaret and shave off his facial hair, but the bad shaving job causes the class to laugh at him, finally causing him to hate Christmas. After that, he ran away to Mt Crumpit.As Christmas approaches, the Mayor announces the upcoming Who-bilation, where the town nominates a Cheer Meister. While the Mayor looks forward to another unanimous vote for himself, Cindy requests that they nominate the Grinch, feeling he deserves it the most.With enough votes, Cindy gets the Grinch a nomination, and climbs up Mt Crumpit to deliver it to him. The Grinch does not believe her at first, but reconsiders when he finds out he'll be receiving an award, and that Margaret May-Who will be attending. The Grinch agonizes over the decision to attend (partly believing this is a trick), before appearing to the Who's.While at first apprehensive, the Grinch appears to be getting into the Christmas spirit, until the Mayor proposes to Martha May-Who, and offers her a car. The ostentatious gift rouses the ire of the Grinch, and he then begins to wreck the celebration, causing mayhem and burning down the Christmas tree. Cindy feels terrible that her plan to make the Grinch feel better has been ruined, and the Grinch returns to Mt Crumpit.The Grinch feeling worse then ever, decides that this year, he'll stop Christmas from coming, by dressing as Santa, and stealing it. Fashioning a sled, he and his dog Max return to Who-Ville, and make off with all the gifts and festive trimmings. Taking everything to the top of Mt Crumpit, he plans to drop it all over the edge.Back in Who-ville, everyone is sad and distraught, with the Mayor blaming the whole thing on Cindy for inviting the Grinch. Cindy's father proclaims that he actually is proud of his daughter, because he's seen that Christmas is not about presents and decorations, but about being together. Soon a number of other Who's join in and begin singing.This sound causes the Grinch to pause, wondering how they can be so cheerful. As he watches, the emotion gets to him, and his once shrivelled heart grows 3 sizes. The Grinch then returns the presents to Who-ville, and apologizes for his misdeed. At the same time, Margaret May-Who tells the Mayor she is rejecting his marriage proposal, and that her heart belongs to the Grinch.In the closing of the film, the town feast is held, with the Grinch carving the Roast Beast."
+}

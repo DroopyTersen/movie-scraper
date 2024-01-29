@@ -1,0 +1,863 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5SgrtPH6kBmmHao0PofxpvOYfWC.jpg",
+  "id": 470,
+  "title": "21 Grams",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hdS0to9nUpgK0Zm1bZAF6BWRae7.jpg",
+  "release_date": "2003-09-06",
+  "vote_average": 7.338,
+  "vote_count": 2947,
+  "popularity": 23.475,
+  "overview": "Paul Rivers, an ailing mathematician lovelessly married to an English émigré; Christina Peck, an upper-middle-class suburban housewife and mother of two girls; and Jack Jordan, a born-again ex-con, are brought together by a terrible accident that changes their lives.",
+  "imdb_id": "tt0315733",
+  "budget": 20000000,
+  "homepage": "",
+  "revenue": 60427839,
+  "runtime": 124,
+  "tagline": "How much does life weigh?",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "This Is That",
+    "Y Productions",
+    "Mediana Productions Filmgesellschaft",
+    "Focus Features"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Sean Penn",
+        "character": "Paul Rivers"
+      },
+      {
+        "name": "Naomi Watts",
+        "character": "Cristina Peck"
+      },
+      {
+        "name": "Danny Huston",
+        "character": "Michael Peck"
+      },
+      {
+        "name": "Carly Nahon",
+        "character": "Cathy"
+      },
+      {
+        "name": "Claire Pakis",
+        "character": "Laura"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Jack Jordan"
+      },
+      {
+        "name": "Nick Nichols",
+        "character": "Boy"
+      },
+      {
+        "name": "Charlotte Gainsbourg",
+        "character": "Mary Rivers"
+      },
+      {
+        "name": "John Rubinstein",
+        "character": "Gynecologist"
+      },
+      {
+        "name": "Eddie Marsan",
+        "character": "Reverend John"
+      },
+      {
+        "name": "Loyd Keith Salter",
+        "character": "Fat Man"
+      },
+      {
+        "name": "Antef A. Harris",
+        "character": "Basketball Guy"
+      },
+      {
+        "name": "Melissa Leo",
+        "character": "Marianne Jordan"
+      },
+      {
+        "name": "Marc Musso",
+        "character": "Freddy (as Marc Thomas Musso)"
+      },
+      {
+        "name": "Teresa Delgado",
+        "character": "Gina"
+      },
+      {
+        "name": "Trent Dee",
+        "character": "Guard (as Terry Dee Draper)"
+      },
+      {
+        "name": "Tony Guyton",
+        "character": "Guard #2"
+      },
+      {
+        "name": "Wayne E. Beech, Jr.",
+        "character": "Inmate #1"
+      },
+      {
+        "name": "Keith Lamont Johnson",
+        "character": "Inmate #2"
+      },
+      {
+        "name": "Clea DuVall",
+        "character": "Claudia"
+      },
+      {
+        "name": "David Chattam",
+        "character": "Caddie #1 (as David Chattam Jr.)"
+      },
+      {
+        "name": "John Boyd West",
+        "character": "Caddie #2"
+      },
+      {
+        "name": "Jeff Schmidt",
+        "character": "Caddie #3"
+      },
+      {
+        "name": "Tony Vaughn",
+        "character": "Al"
+      },
+      {
+        "name": "Paul Calderon",
+        "character": "Brown"
+      },
+      {
+        "name": "Denis O'Hare",
+        "character": "Dr. Rothberg"
+      },
+      {
+        "name": "Anastasia Herin",
+        "character": "Dolores"
+      },
+      {
+        "name": "Carlo Alban",
+        "character": "Lucio"
+      },
+      {
+        "name": "Hai Quang Tran",
+        "character": "Cashier"
+      },
+      {
+        "name": "Annie Corley",
+        "character": "Trish"
+      },
+      {
+        "name": "Sharon Bishop",
+        "character": "Receptionist"
+      },
+      {
+        "name": "Jerry Chipman",
+        "character": "Cristina's Father"
+      },
+      {
+        "name": "Tom Irwin",
+        "character": "Dr. Jones"
+      },
+      {
+        "name": "Roberto Medina",
+        "character": "Dr. Molina"
+      },
+      {
+        "name": "Arita Trahan",
+        "character": "Dr. Badnews"
+      },
+      {
+        "name": "Rodney Ingle",
+        "character": "Barman"
+      },
+      {
+        "name": "Catherine Dent",
+        "character": "Ana"
+      },
+      {
+        "name": "Kevin Chapman",
+        "character": "Alan (as Kevin H. Chapman)"
+      },
+      {
+        "name": "Randall Hartzog",
+        "character": "Friend #1"
+      },
+      {
+        "name": "Verda Davenport",
+        "character": "Friend #2 (as Verda Davenport-Booher)"
+      },
+      {
+        "name": "Dorothy Armstrong-Miles",
+        "character": "Female Friend #1 (as Dorothy Armstrong Miles)"
+      },
+      {
+        "name": "Barclay Roberts",
+        "character": "Male Friend #1"
+      },
+      {
+        "name": "Lisa Sanchez",
+        "character": "Wife"
+      },
+      {
+        "name": "Stephen Bridgewater",
+        "character": "P.I."
+      },
+      {
+        "name": "Michael Finnell",
+        "character": "Fat Prisoner"
+      },
+      {
+        "name": "Juan Corrigan",
+        "character": "Valet"
+      },
+      {
+        "name": "Charlie B. Brown",
+        "character": "Night Guard"
+      },
+      {
+        "name": "Arron Shiver",
+        "character": "Young Doctor"
+      },
+      {
+        "name": "Pamela Blair",
+        "character": "Doctor"
+      },
+      {
+        "name": "Jennifer Pfalzgraff",
+        "character": "Nurse"
+      },
+      {
+        "name": "Lew Temple",
+        "character": "County Sheriff"
+      },
+      {
+        "name": "Tricia Branch",
+        "character": "Skinny Woman"
+      },
+      {
+        "name": "Jessica Scott",
+        "character": "Cocktail Waitress (uncredited)"
+      },
+      {
+        "name": "Adriana Barraza",
+        "character": "Heart Transplant Nurse (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Alejandro González Iñárritu",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Alejandro González Iñárritu",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Guillermo Arriaga",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Guillermo Arriaga",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Rodrigo Prieto",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Gustavo Santaolalla",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Francine Maisler",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Stephen Mirrione",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Marlene Stewart",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Robert Salerno",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert Salerno",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Ted Hope",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Brigitte Broch",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Jack Gill",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Deborah Riley",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Meg Everist",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Gilbert B. Combs",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Peterson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "José Antonio García",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Jonathan Fuh",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Laurel Van Dyke",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Annaliese Levy",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      },
+      {
+        "name": "Steve Bowen",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Douglas Crise",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Roland N. Thai",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Xavier Grobet",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Xavier Grobet",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Amy Kaufman",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Thomas Betts",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Spiro Razatos",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Ron Bedrosian",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Nerses Gezalyan",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "James Moriana",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Jeffrey Wilhoit",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Andy Gill",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lynn Fainchtein",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Vivian Baker",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Vivian Baker",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Gloria Belz",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Merrick Morton",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Chris Durand",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tony Hernandez",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Peewee Piemonte",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lisa Guerriero",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Glenn Kaplan",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Luisa Abel",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Gail Rowell-Ryan",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Lucas Moore",
+        "department": "Crew",
+        "job": "Studio Teacher"
+      },
+      {
+        "name": "Michael Hertlein",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Hilda Saffari",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Riki Lin Sabusawa",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Eva Z. Cabrera",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Jon Taylor",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Robby Baumgartner",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Brad Sherman",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Tim Pedegana",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Damon Michael Gordon",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Diane L. Sabatini",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Jeffrey Schlatter",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Paul Murphey",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Robert Getty",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Trevor Ward",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "name": "Melinka Thompson-Godoy",
+        "department": "Production",
+        "job": "Location Coordinator"
+      },
+      {
+        "name": "Diego Quemada-Díez",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Jill Rosenblatt",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Phillip Howard",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "David J. Thompson",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Mark Karavite",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Cynthia Nibler",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Martín Hernández",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Martín Hernández",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Michael E. Steele",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Robyn Adams",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Anibal Kerpel",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Michael Mullane",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Brian Ufberg",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "J. Elizabeth Ingram",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Anthony 'Spike' Simms",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Len Murach",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Jim Sheldon",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Day Permuy",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Andy Brokmeyer",
+        "department": "Crew",
+        "job": "Cableman"
+      },
+      {
+        "name": "Mary Sunshine",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Alex Blagg",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "James Alan Hensz",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Steve Cainas",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Jolynn Nieto",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Nancy Collini",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "David M. Graves",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Keith H. Sauter",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Joseph Dianda",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Thomas Kittle",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Ira M. Hammons-Glass",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Tom Moore",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Sarah Tackett",
+        "department": "Production",
+        "job": "Location Casting"
+      },
+      {
+        "name": "Holly Davis",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Thomas Michael Ryan",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Paul Tanzillo Jr.",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Christopher Sidor",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Troy Borisy",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Peter Walts",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Julio Carmona",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Kiersten Pilar Miller",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Gary Pilkinton",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Jennifer Hunt Pedevilla",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Kenneth Roth",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Allison Gross",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Lee McLemore",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Michael Cruickshank",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Jay Levy",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Sato Masuzawa",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      },
+      {
+        "name": "Jerry Jackson",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Sergio Díaz",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Janey Bergam",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      },
+      {
+        "name": "Chandra De Alessandro",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tyrel Ventura",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      },
+      {
+        "name": "Jeanette Agaronoff",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "life and death",
+    "rage and hate",
+    "transplantation",
+    "faith",
+    "suicide attempt",
+    "loss of loved one",
+    "widow",
+    "ex-detainee",
+    "new mexico",
+    "sadness",
+    "car crash",
+    "multiple storylines"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A freak accident brings together a critically ill mathematician, a grieving mother, and a born-again ex-con.",
+    "Paul Rivers, an ailing mathematician lovelessly married to English émigré; Christina Peck, who's hiding a secret past; and Jack Jordan, an ex-convict who has found Jesus are brought together by a terrible accident which changes their lives.—Miguel Cane (Stepford@yahoo.com)"
+  ],
+  "synopsis": "The story is told in a non-linear manner. The following is a linear, chronological summary of the plot:\nJack Jordan (Benicio Del Toro) is a former convict who is using his new-found religious faith to recover from drug addiction and alcoholism. Paul Rivers (Sean Penn) is a mathematics professor with a fatal heart condition. Unless he receives a new heart from an organ donor, he will not live longer than one month. Paul's wife wants him to donate his sperm so she can have his baby even if he dies. The two are civil to one another, yet distant.Cristina Peck (Naomi Watts) is also a recovering drug addict and now lives a normal suburban life with a supportive husband and two children. She is a loving mother and active swimmer who has left her days of drugs and booze behind. These three separate stories/characters become tied together one evening when Jack kills Cristina's husband and children in a hit-and-run accident. Her husband's heart is donated to Paul, who begins his recovery.Cristina is devastated by the loss and returns to drugs and alcohol. Paul is eager to begin normal life again, but he hesitantly agrees to his wife's idea of surgery and artificial insemination as a last-ditch effort to get pregnant. During consultations with a doctor before the surgery, Paul learns that his wife had undergone an abortion after they had separated in the past. Angered, Paul ends the relationship. He becomes very inquisitive about whose heart he has. He learns from a private detective that the heart belonged to Cristina's husband and begins to follow the widowed Cristina around town.Jack is stricken with guilt following the accident. Despite his wife's protests to keep quiet and conceal his guilt, Jack tells her that his \"duty is to God\" and turns himself in. While incarcerated, he claims that God had betrayed him, loses his will to live and tries unsuccessfully to commit suicide. He is released after Cristina declines to press charges, as she realizes that putting Jack in prison will not bring her family back. When Jack is released, he is unable to reincorporate himself into normal family life, and instead leaves home to live as a transient, working a job of manual labor.Paul finds an opportunity to meet Cristina and eventually reveals how the two of them are connected. Desperately needing one another, they begin to develop a relationship. Though Paul has a new heart, his body is rejecting the surgery, and his outlook is grim. As Cristina begins to dwell more on her changed life and the death of her girls, she continually focuses on a desire to exact revenge on Jack. She goads Paul into agreeing to murder him.Paul meets with the private detective who originally found Cristina for him. Paul also purchases a gun from him and learns that Jack is living in a motel. Paul and Cristina check into the motel where Jack is also staying. When Jack is walking alone, Paul grabs him and leads him out into a clearing at gunpoint with the intention of killing him. Paul is unable to kill Jack, who himself is confused, shaking and pleading during the event. Paul tells Jack to \"just disappear\" then returns to the motel, lying to Cristina about Jack's death. Later that night, while they are sleeping, Paul and Cristina are awakened by a noise outside their door. It's Jack, who, still consumed by guilt and inner torment, orders Paul to kill him and end his misery. There is a struggle, and Cristina blind-sides Jack and begins to beat him with a wooden lamp. Paul has a heart attack and shoots himself to avoid dying from asphyxia.Jack and Cristina rush Paul to the hospital. Jack tells the police that he was the one who shot Paul but is released when his story is unable to be confirmed. The conflict between Cristina and Jack remains unresolved (they meet in the waiting room after Paul's death. If they converse, it is not shown.) Cristina learns in the hospital that she is pregnant. After Paul's death, Cristina is seen tentatively preparing for the new child in one of her daughters' bedrooms which she was previously unable to enter since her daughters' death, and Jack is shown returning to his family."
+}

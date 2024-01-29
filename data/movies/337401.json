@@ -1,0 +1,1943 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg",
+  "id": 337401,
+  "title": "Mulan",
+  "poster_path": "https://image.tmdb.org/t/p/w500/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+  "release_date": "2020-09-04",
+  "vote_average": 6.888,
+  "vote_count": 6390,
+  "popularity": 50.554,
+  "overview": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+  "imdb_id": "tt4566758",
+  "budget": 200000000,
+  "homepage": "https://movies.disney.com/mulan-2020",
+  "revenue": 69965374,
+  "runtime": 115,
+  "tagline": "Loyal. Brave. True.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Drama",
+    "Action"
+  ],
+  "production_companies": [
+    "Walt Disney Pictures",
+    "Good Fear",
+    "Jason T. Reed Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Liu Yifei",
+        "character": "Hua Mulan"
+      },
+      {
+        "name": "Donnie Yen",
+        "character": "Commander Tung"
+      },
+      {
+        "name": "Gong Li",
+        "character": "Xian Niang"
+      },
+      {
+        "name": "Jet Li",
+        "character": "The Emperor"
+      },
+      {
+        "name": "Jason Scott Lee",
+        "character": "Böri Khan"
+      },
+      {
+        "name": "Yoson An",
+        "character": "Chen Honghui"
+      },
+      {
+        "name": "Tzi Ma",
+        "character": "Hua Zhou"
+      },
+      {
+        "name": "Rosalind Chao",
+        "character": "Hua Li"
+      },
+      {
+        "name": "Cheng Pei-pei",
+        "character": "The Matchmaker"
+      },
+      {
+        "name": "Ming-Na Wen",
+        "character": "Esteemed Guest"
+      },
+      {
+        "name": "Xana Tang",
+        "character": "Hua Xiu"
+      },
+      {
+        "name": "Ron Yuan",
+        "character": "Sergeant Qiang"
+      },
+      {
+        "name": "Jun Yu",
+        "character": "Cricket"
+      },
+      {
+        "name": "Chen Tang",
+        "character": "Yao"
+      },
+      {
+        "name": "Doua Moua",
+        "character": "Po"
+      },
+      {
+        "name": "Jimmy Wong",
+        "character": "Ling"
+      },
+      {
+        "name": "Nelson Lee",
+        "character": "The Chancellor"
+      },
+      {
+        "name": "Hoon Lee",
+        "character": "Village Magistrate"
+      },
+      {
+        "name": "Crystal Rao",
+        "character": "Young Mulan"
+      },
+      {
+        "name": "Elena Askin",
+        "character": "Young Xiu"
+      },
+      {
+        "name": "Vincent Feng",
+        "character": "Longwei"
+      },
+      {
+        "name": "R.J. O'Young",
+        "character": "Young Soldier"
+      },
+      {
+        "name": "Roger Yuan",
+        "character": "Duba Tegin"
+      },
+      {
+        "name": "Jenson Cheng",
+        "character": "Tulugui Tegin"
+      },
+      {
+        "name": "Arka Das",
+        "character": "Red Fez"
+      },
+      {
+        "name": "Jen Sung",
+        "character": "Kilifu Tegin"
+      },
+      {
+        "name": "King Lau",
+        "character": "Bati Tegin"
+      },
+      {
+        "name": "Zhaidarbek Kunguzhinov",
+        "character": "Stallion Tegin"
+      },
+      {
+        "name": "Gary Young",
+        "character": "Garrison Commander"
+      },
+      {
+        "name": "Wolf Chen",
+        "character": "Garrison Scout"
+      },
+      {
+        "name": "Owen Kwong",
+        "character": "Senior Officer"
+      },
+      {
+        "name": "Young-H. Lee",
+        "character": "Imperial Gate Guard #2 (as Young-H Lee)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Chris Bender",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Paul Rubell",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "name": "Bina Daigeler",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Grant Major",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Mark Robins",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Kyrsten Mate",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Kyrsten Mate",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Anne Kuljian",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Harry Gregson-Williams",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Doc Kane",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Thomas P. Wilkins",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Niki Caro",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "David Coulson",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Ian Gracie",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "J.C. Spink",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Rick Findlater",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "name": "Scott Curtis",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Mandy Walker",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Jake Weiner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Holly Dorff",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Rick Jaffa",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Amanda Silver",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Sean O'Neill",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Terry Porter",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Shelley Roden",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Jeanette Browning",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Jennifer Pearson",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Jason Reed",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jill Cormack",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Tony Johnson",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Jenny Rushton",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "David Brown",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Eric Flickinger",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Einar Martinsen",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Winston Harris",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Damien Drew",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Lisa Lassek",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "name": "Liz McGregor",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Michael A. Martinez",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Steve Harris",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "John Roesch",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "PoPing AuYeung",
+        "department": "Production",
+        "job": "Casting Consultant"
+      },
+      {
+        "name": "Effron Heather",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Chris Quilty",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Liz Tan",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Liz Tan",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Michael Wong",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Josh Evans",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Rene Sekula",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Joe Dunckley",
+        "department": "Crew",
+        "job": "Weapons Master"
+      },
+      {
+        "name": "Kathleen Thomas",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Matthew Hartman",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Jason Ellson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Jason Ellson",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Richard K. Buoen",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Denise Kum",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Denise Kum",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Denise Kum",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "name": "Jacqui Leung",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Vincent Cosson",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "David Chow",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Gwendolyn Yates Whittle",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Jasin Boland",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Andrea Dopaso",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Janelle Hope",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Matt Cornelius",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Cameron McLean",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Cameron McLean",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "James Wright",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "name": "Andrew Cochrane",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "David Emmerichs",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "name": "Phil Pastuhov",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Anna Behlmer",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Diana Giorgiutti",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Shaun Conway",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Moira Houlihan",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Pamela Choules",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Scott Rogers",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Orlando Bassi",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Pascal Garneau",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Scott Guitteau",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "E. Larry Oatfield",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Daniele Tosti",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Sean Andrew Faden",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Chiara Tripodi",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Claire Rutledge",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Simon Ambridge",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Sam Storey",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Helen Strevens",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Rachael Cooper",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Alistair Gillies",
+        "department": "Art",
+        "job": "Conceptual Illustrator"
+      },
+      {
+        "name": "Sarah Shepherd",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Chris Hall",
+        "department": "Crew",
+        "job": "Cableman"
+      },
+      {
+        "name": "Tom Barrett",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Julius Kwan",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Georgia Lockhart-Adams",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Jared Connon",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Chris Manning",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Marc Jones",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "Nicholas St. Clair",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Ana Cuerda",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Katie Sharrock",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Amber Richards",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Jonny Winograd",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Tyler Cordova",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "James Andrykowski",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Anders Langlands",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Benton Jew",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Jonathan Borland",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Hugh Brompton",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Todd Whalen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Daniela Backes",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Sarah Hinch",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Julian Bryant",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Brian Chumney",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Bettina Seifert",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Chloe Feodoroff",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Ben Rowsell",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Todd Bilton",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Darwin Go",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jason T. Clark",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "John Brubaker",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Heidi Moneymaker",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Stu Turner",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Adam Pere",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Michele Perry",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Melyssa Forget Turcotte",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Seth Maury",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Natasha Leonnet",
+        "department": "Editing",
+        "job": "Digital Intermediate Colorist"
+      },
+      {
+        "name": "Hayley Ness",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Rosie Guthrie",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Lizzy Jane Klein",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "name": "Jenny Morgan",
+        "department": "Art",
+        "job": "Set Decorating Coordinator"
+      },
+      {
+        "name": "Dylan Jury",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Jacinta Driver",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Allison Krumwiede",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Lauren Hynek",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Elizabeth Martin",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Hubert Maston",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Laurent Laban",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Corrin Ellingford",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Chris Velvin",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Ryan Brassington",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Christian Irles",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jarrod Nesbit",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Michael Craig Ferguson",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Justin Pollard",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "name": "Jack Taggart",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "Sebastian Meyer",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "name": "Guy Campbell",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "John Curran",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Bogdan Iofciulescu",
+        "department": "Crew",
+        "job": "Techno Crane Operator"
+      },
+      {
+        "name": "Sarah Goodhue",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Lucy Bowring",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Shay Lawrence",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Paul Marbury",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Tony Drew",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "David Gimenez",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Joe Nolan",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "name": "Helen Ashton",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Huai Hsuan Huang",
+        "department": "Crew",
+        "job": "Translator"
+      },
+      {
+        "name": "Natalija Kucija",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Sarah Hart",
+        "department": "Production",
+        "job": "Extras Casting Coordinator"
+      },
+      {
+        "name": "Calvin Tsoi",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Michael Krehl",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "name": "Zahra Archer",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Mathew Hunkin",
+        "department": "Art",
+        "job": "Conceptual Illustrator"
+      },
+      {
+        "name": "Filippo Valsecchi",
+        "department": "Art",
+        "job": "Conceptual Design"
+      },
+      {
+        "name": "Brenden Holster",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Luke Ripley",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Mark Stainthorpe",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Michele Moen",
+        "department": "Art",
+        "job": "Conceptual Illustrator"
+      },
+      {
+        "name": "Mark Smith",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Andrew H. Leung",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Christie Kwan",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Tyler Page",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Dion Hartley",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Susie Glass",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "name": "K. Troy Zestos",
+        "department": "Costume & Make-Up",
+        "job": "Additional Hairstylist"
+      },
+      {
+        "name": "Jay Munro",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Sophie Hart-Walsh",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Ryan Sivley",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Zaid Babeel",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Marc Mapile",
+        "department": "Costume & Make-Up",
+        "job": "Additional Hairstylist"
+      },
+      {
+        "name": "Marvin Kim",
+        "department": "Visual Effects",
+        "job": "Modelling Supervisor"
+      },
+      {
+        "name": "Robyn Ducharme",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Ricky McLennan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Cloud Wang",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Bianca Appice",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Jason Marlow",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "Charlie Adams",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Christian Gower",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Anna P. McCarthy",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Justin Muller",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "name": "Brett Voss",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Tamara Eyre",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "John Mang",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Jarl Benzon",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Houston Sharp",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Logan Marshall",
+        "department": "Production",
+        "job": "Production Runner"
+      },
+      {
+        "name": "Sam Bailey",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Daisy Faulkner",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Tori Marsh",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Guy Mulligan",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Matthew Linfoot",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Pete Harrow",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Aaron Cordery",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Rebecca Young",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Tendo Nagenda",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steffen Reichstadt",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Aaron Sims",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Christoph Salzmann",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Andrew Sykes",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Michael Milella",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Jared Sandrew",
+        "department": "Visual Effects",
+        "job": "Stereoscopic Supervisor"
+      },
+      {
+        "name": "Jeanne-Élise Prévost",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Romain Rico",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Frederick Leota",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Dan Perry",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Tomohiko Fukuda",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Leanne Hoare",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Elizabeth McCarthy",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      },
+      {
+        "name": "Justin Sykes",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "George Hamilton",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Craig Cooper",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Abi Wollcombe",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Thomas DeRose",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Erik Singer",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Mathew Harte",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Mark Stephen",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Rpin Suwannath",
+        "department": "Visual Effects",
+        "job": "Pre-Visualization Supervisor"
+      },
+      {
+        "name": "Jacqueline Priem",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Lisa Gardner",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Davis Bonner",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Charlie Oswin",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Arnika Howard-Lawrence",
+        "department": "Production",
+        "job": "Extras Casting Assistant"
+      },
+      {
+        "name": "Holly Johnson",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Ndosi Anyabwile",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Matthew Dravitzki",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jordan Smith",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Gabriel Kearney",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jessica Virtue",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "name": "Ashlee Fidow",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Sophie Massey Broadbery",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Pasquale Paolo",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Darren Wilcock",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Raven Midkiff",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "David Masson",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Richard Ward",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Mike Mcrae",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Fiona Crawford",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Joe Howes",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Rachel van Baarle",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Ally Williams",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Lukas Davidson",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Kyle Brown",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Jack Van Nuis",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Gayanath Dayasundara",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Toni Bisset",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Teuila Field",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "James Andrew Haven",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Luke Maxcy",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Christopher Rudkin",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Sam Peacocke",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Samuel Fraser",
+        "department": "Camera",
+        "job": "First Assistant \"C\" Camera"
+      },
+      {
+        "name": "Ryan Spearman",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Seb Graham",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jan Kleinheins",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jason Waguespack",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Laetitia Belen",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Nick Willoughby",
+        "department": "Camera",
+        "job": "Second Assistant \"C\" Camera"
+      },
+      {
+        "name": "Louis Cassells",
+        "department": "Camera",
+        "job": "Second Assistant \"C\" Camera"
+      },
+      {
+        "name": "Sanja Bucko",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Jay Weston",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Hannah Wilson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Jose Noriega",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair Assistant"
+      },
+      {
+        "name": "Susan Durno",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Patrick Pabalan",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Phoebe Newman",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Jee Ok",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Aimee Reed",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Sunshine Yuen",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Louise George",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Kelly Marumaru",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Philippa O'Brien",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Evelyn Santana Paz",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Ana Lydia Monaco",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "name": "Davy To Burnard",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Annlie Huang",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Christopher Barron",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Nick Docter",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Dan Abrams",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Mark Lindauer",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Ryan Stern",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Andy Winderbaum",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Ariella Segal",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "David Stone",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Lok Yiu Chan",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "David Peters",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Francis Baker",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Paul Drebing",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Brian Schrider",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Victoria Wevers",
+        "department": "Art",
+        "job": "Construction Buyer"
+      },
+      {
+        "name": "Cathy Adams",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Kevin Willcocks",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Mela Blackwell",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Ethan Montgomery-Williams",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Karin Åberg",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Rebecca Asquith",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Tanika Pratt",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Karijus Schlogl",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Gavin Walker",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Jillian Chitty",
+        "department": "Art",
+        "job": "Textile Artist"
+      },
+      {
+        "name": "Benjamin Hendricks",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Nicholas Daniels",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Michael Balzer",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Daphne De Jesus",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Andrew Dohan",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Nara Smith",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Tyler Usie",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Alex Wolfe",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Aron Galabuzi",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Darren Quah",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Isaac Buono",
+        "department": "Visual Effects",
+        "job": "Visual Effects Compositor"
+      },
+      {
+        "name": "Dru Fickling",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Emily Fay Higgins",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Katie Johnson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Ruchika Rawat",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Kimberley Wells",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Valerie Wicks",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Louise Vanhelle",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Zach Hamelton",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Lilian Bravo",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jake Hetzel",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "Kylie Gaudin",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Francesca Hunt",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Nicola Benton",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "name": "Melissa Chan",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "name": "Amy Gurr",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "name": "Mei Ling Au",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Devon Baclawski",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Miriam Emerson",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Luke Park Bower",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Jason Ren",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Jason Astley",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Marina Stojanovic",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jared Hasselbach",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Jane Wu",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Kay Hoddy",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Duy Pham",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Yaxi Liu",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Sarah Dunn",
+        "department": "Art",
+        "job": "Graphic Designer"
+      }
+    ]
+  },
+  "keywords": [
+    "martial arts",
+    "hero",
+    "china",
+    "fake identity",
+    "honor",
+    "east asian lead",
+    "heroine",
+    "based on myths, legends or folklore",
+    "live action and animation",
+    "chinese girl",
+    "live action remake"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "To keep her ailing father from serving in the Imperial Army, a fearless young woman disguises herself as a man and battles northern invaders in China."
+  ],
+  "synopsis": "In Imperial China, Hua Mulan is an adventurous and active girl, to the disappointment of her parents, who hopes that one day she will be wed to a good husband. As a young woman, Mulan is forced to meet with a matchmaker to demonstrate her fitness as a future wife. Mulan, flustered, attempts to pour tea in front of the matchmaker, but a spider causes a panic that destroys the kettle, and the matchmaker calls her a disgrace in front of her family.To the north, an imperial outpost is invaded by Rouran warriors, under the leadership of Böri Khan. They are assisted by the witch Xianniang, who uses her magic to pose as a surviving soldier and report the attack to the Emperor of China; he then issues a conscription decree ordering every family to contribute one man to fight Khan's forces.Imperial soldiers arrive in Mulan's village to enlist recruits and her elderly and frail father Hua Zhou is forced to pledge his service as he has no sons. Realizing that her father has no chance of survival, Mulan flees with his armor, horse, and sword to join in his place. Mulan arrives at the training camp, which is run by Commander Tung, an old comrade of Hua Zhou. Alongside dozens of other inexperienced recruits, she ultimately becomes a trained soldier under his tutelage without exposing her true identity.The Khan's army continues to advance, forcing Tung to end training early and send his battalion to fight. Mulan chases some troops on her own, but is confronted by Xianniang, who mocks her for pretending to be a man. She attempts to kill Mulan, but her attacks are stopped by the leather with which Mulan's chest had been bound to hide her identity. Mulan removes her male disguise, returning to the battle just as the Rourans begin attacking her fellow troops with a trebuchet. Mulan uses discarded helmets and her archery skills to maneuver the trebuchet into firing on a snowy mountain, triggering an avalanche that buries the Rourans.Mulan rides back to camp and rescues Chen Honghui, a soldier she befriended in camp. Unable to hide her true gender any longer, she is expelled from the army and begins her return home. On her way, she is confronted by Xianniang, who reveals that she was also shunned by her people and fights for Böri Khan only because he treats her as an equal and that no one else does. Additionally, she reveals that the attacks on the outposts have been a diversion, as Khan's true plan is to capture and execute the Emperor for having his father killed. Risking execution, Mulan returns to her battalion to warn them of the impending capture. Tung decides to believe her, and allows her to lead a unit to the Emperor's palace.Xianniang uses her magic to be in the image of the Imperial Chancellor and persuades the Emperor to accept Böri Khan's challenge to single combat, while removing the city guards from their posts. The guards are murdered, and the Rourans prepare to burn the Emperor alive. Mulan's unit distracts the Rourans while Mulan goes to save the Emperor. Khan tries to snipe her with an arrow, but Xianniang, sympathetic to Mulan and disenchanted from Khan, transforms into a bird and sacrifices herself by intercepting the arrow. Mulan kills Khan, but not before he disarms her and destroys her father's sword. She frees the Emperor, who offers to let her join his personal guard. She declines the offer and returns to her village.Mulan is reunited with her family. An emissary from the Emperor, under the leadership of Commander Tung, arrives to present Mulan with a new sword, while making a personal request that she join the Emperor's Guard"
+}

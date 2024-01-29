@@ -1,0 +1,906 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/lenFpoDZMlMvBWml8CF682x9NTQ.jpg",
+  "id": 6538,
+  "title": "Charlie Wilson's War",
+  "poster_path": "https://image.tmdb.org/t/p/w500/45FghqcdSYRWK7PsHUInaFPNd8l.jpg",
+  "release_date": "2007-12-19",
+  "vote_average": 6.539,
+  "vote_count": 1370,
+  "popularity": 21.723,
+  "overview": "The true story of Texas congressman Charlie Wilson's covert dealings in Afghanistan, where his efforts to assist rebels in their war with the Soviets had some unforeseen and long-reaching effects.",
+  "imdb_id": "tt0472062",
+  "budget": 75000000,
+  "homepage": "http://www.charliewilsonswar.net/",
+  "revenue": 119483446,
+  "runtime": 102,
+  "tagline": "When the world wasn't looking, he changed it forever.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Relativity Media",
+    "Participant",
+    "Playtone",
+    "MP Munich Pape Filmproductions"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Charlie Wilson"
+      },
+      {
+        "name": "Julia Roberts",
+        "character": "Joanne Herring"
+      },
+      {
+        "name": "Philip Seymour Hoffman",
+        "character": "Gust Avrakotos"
+      },
+      {
+        "name": "Amy Adams",
+        "character": "Bonnie Bach"
+      },
+      {
+        "name": "Emily Blunt",
+        "character": "Jane Liddle"
+      },
+      {
+        "name": "Om Puri",
+        "character": "President Zia"
+      },
+      {
+        "name": "Shiri Appleby",
+        "character": "Jailbait - Charlie's Angels"
+      },
+      {
+        "name": "Rachel Nichols",
+        "character": "Suzanne - Charlie's Angels"
+      },
+      {
+        "name": "Wynn Everett",
+        "character": "Receptionist - Charlie's Angel"
+      },
+      {
+        "name": "Jud Tylor",
+        "character": "Crystal Lee"
+      },
+      {
+        "name": "John Slattery",
+        "character": "Cravely"
+      },
+      {
+        "name": "Erick Avari",
+        "character": "Avi Perlman"
+      },
+      {
+        "name": "Cyia Batten",
+        "character": "Stacey"
+      },
+      {
+        "name": "Denis O'Hare",
+        "character": "Harold Holt"
+      },
+      {
+        "name": "Ned Beatty",
+        "character": "Doc Long"
+      },
+      {
+        "name": "Ken Stott",
+        "character": "Zvi"
+      },
+      {
+        "name": "Daniel Eric Gold",
+        "character": "Donnelly"
+      },
+      {
+        "name": "Harry S. Murphy",
+        "character": "Congressional Committee"
+      },
+      {
+        "name": "Enayat Delawary",
+        "character": "Doc Long's Translator"
+      },
+      {
+        "name": "Peter Gerety",
+        "character": "Larry Liddle"
+      },
+      {
+        "name": "Navid Negahban",
+        "character": "Refugee Camp Translator"
+      },
+      {
+        "name": "P.J. Byrne",
+        "character": "Jim Van Wagenen"
+      },
+      {
+        "name": "Mozhan Marnò",
+        "character": "Refugee Camp Translator #2"
+      },
+      {
+        "name": "Michael Spellman",
+        "character": "Agent Patrick"
+      },
+      {
+        "name": "Russell Edge",
+        "character": "Agent Wells"
+      },
+      {
+        "name": "Christopher Denham",
+        "character": "Mike Vickers"
+      },
+      {
+        "name": "Ron Fassler",
+        "character": "Mario"
+      },
+      {
+        "name": "Nazanin Boniadi",
+        "character": "Afghan Refugee Woman (uncredited)"
+      },
+      {
+        "name": "Rizwan Manji",
+        "character": "Colonel Mahmood"
+      },
+      {
+        "name": "Tracy Phillips",
+        "character": "Belly dancer"
+      },
+      {
+        "name": "Ali Olomi",
+        "character": "Injured Mujahadeen Soldier (uncredited)"
+      },
+      {
+        "name": "Mary-Bonner Baker",
+        "character": "Marla - Charlie's Angels"
+      },
+      {
+        "name": "Hilary Angelo",
+        "character": "Kelly"
+      },
+      {
+        "name": "Terry Bozeman",
+        "character": "CIA Award Presenter"
+      },
+      {
+        "name": "Brian Markinson",
+        "character": "Paul Brown"
+      },
+      {
+        "name": "Kirby Mitchell",
+        "character": "Stoned Guy"
+      },
+      {
+        "name": "Ed Regine",
+        "character": "Limo Driver"
+      },
+      {
+        "name": "Thomas Crawford",
+        "character": "Maintenance Man"
+      },
+      {
+        "name": "Joe Roland",
+        "character": "McGaffin"
+      },
+      {
+        "name": "Patrika Darbo",
+        "character": "Auctioneer"
+      },
+      {
+        "name": "Carly Reeves",
+        "character": "Slave Girl"
+      },
+      {
+        "name": "Salaheddine Ben Chegra",
+        "character": "Pakistani Steward"
+      },
+      {
+        "name": "Faran Tahir",
+        "character": "Brigadier Rashid"
+      },
+      {
+        "name": "Maurice Sherbanee",
+        "character": "Refugee In Wheelchair"
+      },
+      {
+        "name": "Salam Sangi",
+        "character": "Refugee Building Wall"
+      },
+      {
+        "name": "Michael Saba",
+        "character": "Afghan Boy"
+      },
+      {
+        "name": "Nadia Miller",
+        "character": "Afghan Girl"
+      },
+      {
+        "name": "Michelle Arthur",
+        "character": "Refugee Camp Nurse"
+      },
+      {
+        "name": "Shila Ommi",
+        "character": "Refugee Mother"
+      },
+      {
+        "name": "Edward Hunt",
+        "character": "Embassy Marine"
+      },
+      {
+        "name": "Michael Haley",
+        "character": "Embassy Official"
+      },
+      {
+        "name": "Joseph Sikora",
+        "character": "Chess Player"
+      },
+      {
+        "name": "Gabriel Tigerman",
+        "character": "Chess Player"
+      },
+      {
+        "name": "Patrick Bentley",
+        "character": "Chess Player"
+      },
+      {
+        "name": "Marc Pelina",
+        "character": "Chess Player"
+      },
+      {
+        "name": "Aharon Ipalé",
+        "character": "Egyptian Defense Minister"
+      },
+      {
+        "name": "Mary Bailey",
+        "character": "Doc Long's Secretary"
+      },
+      {
+        "name": "Trish Gallaher Glenn",
+        "character": "Joanne's Assistant"
+      },
+      {
+        "name": "Nancy Linehan Charles",
+        "character": "Mrs. Long"
+      },
+      {
+        "name": "Daston Kalili",
+        "character": "Mujahideen Translator"
+      },
+      {
+        "name": "Pasha D. Lychnikoff",
+        "character": "Russian Helicopter Pilot"
+      },
+      {
+        "name": "Ilia Volok",
+        "character": "Russian Helicopter Pilot"
+      },
+      {
+        "name": "Alex Lvovsky",
+        "character": "Russian Helicopter Pilot"
+      },
+      {
+        "name": "Sammy Sheik",
+        "character": "Stinger Mujahideen"
+      },
+      {
+        "name": "Moneer Yaqubi",
+        "character": "Stinger Mujahideen"
+      },
+      {
+        "name": "Gabriel Justice",
+        "character": "Stinger Mujahideen"
+      },
+      {
+        "name": "Siyal Mohammad",
+        "character": "Stinger Presenter"
+      },
+      {
+        "name": "Quill Roberts",
+        "character": "Stinger Presenter"
+      },
+      {
+        "name": "Jim Jansen",
+        "character": "Congressional Committee"
+      },
+      {
+        "name": "Spencer Garrett",
+        "character": "Congressional Committee"
+      },
+      {
+        "name": "Kevin Cooney",
+        "character": "Congressional Committee"
+      },
+      {
+        "name": "Erick Avari",
+        "character": "Ari Goldman (uncredited)"
+      },
+      {
+        "name": "Yousuf Azami",
+        "character": "Work Relief Guy (uncredited)"
+      },
+      {
+        "name": "Anthony Azizi",
+        "character": "Orderly (uncredited)"
+      },
+      {
+        "name": "Stephanie D'Abruzzo",
+        "character": "Las Vegas Showgirl / Charlie's Party Guest (uncredited)"
+      },
+      {
+        "name": "Darren Dowler",
+        "character": "Congressman (uncredited)"
+      },
+      {
+        "name": "François Duhamel",
+        "character": "French Photographer (uncredited)"
+      },
+      {
+        "name": "David M. Edelstien",
+        "character": "Hotel Manager (uncredited)"
+      },
+      {
+        "name": "Matthew Herington",
+        "character": "Afghan Refugee (uncredited)"
+      },
+      {
+        "name": "Mueen Jahan Ahmad",
+        "character": "Bodyguard (uncredited)"
+      },
+      {
+        "name": "Jody Jaress",
+        "character": "VIP Party Guest (uncredited)"
+      },
+      {
+        "name": "Alexander Kanellakos",
+        "character": "Texas Millionaire (uncredited)"
+      },
+      {
+        "name": "Igor Korosec",
+        "character": "USSR Gunner 2 (uncredited)"
+      },
+      {
+        "name": "Richard Lawrence",
+        "character": "Senators Aide (uncredited)"
+      },
+      {
+        "name": "Daniel Lench",
+        "character": "Party Goer #1 (uncredited)"
+      },
+      {
+        "name": "Tucker Maloney",
+        "character": "CIA Operative (uncredited)"
+      },
+      {
+        "name": "J. Patrick McCormack",
+        "character": "Senator (uncredited)"
+      },
+      {
+        "name": "Ambria Miscia",
+        "character": "Vegas Showgirl (uncredited)"
+      },
+      {
+        "name": "Kazu Nagahama",
+        "character": "Japanese Tourist (uncredited)"
+      },
+      {
+        "name": "Mara New",
+        "character": "Extra (uncredited)"
+      },
+      {
+        "name": "Tom Ohmer",
+        "character": "Party Guest (uncredited)"
+      },
+      {
+        "name": "Ron Ostrow",
+        "character": "Congressional Committee #5 (uncredited)"
+      },
+      {
+        "name": "J. Woodward Palmer",
+        "character": "Bartender (uncredited)"
+      },
+      {
+        "name": "Mary Linda Phillips",
+        "character": "Party Guest (uncredited)"
+      },
+      {
+        "name": "Dan Rather",
+        "character": "Self (archive footage) (uncredited)"
+      },
+      {
+        "name": "John Robert",
+        "character": "Congressional Committee (uncredited)"
+      },
+      {
+        "name": "Gubbi Sigurdsson",
+        "character": "Doc Long's Aide (uncredited)"
+      },
+      {
+        "name": "Cynthia Silver",
+        "character": "Charlie's Party Guest (uncredited)"
+      },
+      {
+        "name": "Cassidy Smith",
+        "character": "Afghan Girl (uncredited)"
+      },
+      {
+        "name": "Nicole Smolen",
+        "character": "Afghan Girl (uncredited)"
+      },
+      {
+        "name": "Leo Solomon",
+        "character": "Freedom Fighter (uncredited)"
+      },
+      {
+        "name": "Rachel Style",
+        "character": "Blodgett - CIA Cafeteria Cashier (uncredited)"
+      },
+      {
+        "name": "Jackie Swanson",
+        "character": "Texas Socialite (uncredited)"
+      },
+      {
+        "name": "Shaun Toub",
+        "character": "Hassan (uncredited)"
+      },
+      {
+        "name": "Kyle Vogt",
+        "character": "Male Party Guest #4 (uncredited)"
+      },
+      {
+        "name": "Kurt Yaeger",
+        "character": "Afghani Refugee (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tom Hanks",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Nancy Haigh",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Victor Kempster",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "James Newton Howard",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Ellen Lewis",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Celia D. Costas",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mike Nichols",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Stephen Goldblatt",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Marco Trentini",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "John Bloom",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Antonia Van Drimmelen",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Brad Ricker",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Albert Wolsky",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Aaron Sorkin",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "John Hartigan",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Michael Haley",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Michael Haley",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Richard Edlund",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Rick Sharp",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Gary Goetzman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jeff Skoll",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ryan Kavanaugh",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Paul A. Levin",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Gary Archer",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "Basil Grillo",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Ron Bochar",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Ron Bochar",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Kam Chan",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Marko Costanzo",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Lee Dichter",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Rick Avery",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Rick Avery",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Charles Saldaña",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Luke Freeborn",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Nicole Abellara Hallman",
+        "department": "Production",
+        "job": "Local Casting"
+      },
+      {
+        "name": "Dean Wolcott",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "George A. Lara",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Cristen Carr Strubbe",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "François Duhamel",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Trevor Coop",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Shawn Landis",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Douglas Noe",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Luisa Abel",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Bob Morgan",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Josh Lusby",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Carl Fischer",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Leah Palen",
+        "department": "Art",
+        "job": "Set Decorating Coordinator"
+      },
+      {
+        "name": "Sebastian Milito",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Charlotte Raybourn",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Mary Bailey",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Mary Bailey",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Michelle Brattson",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Trish Gallaher Glenn",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Ray De La Motte",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Liz Ralston",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Allan Zaleski",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Deborah Wallach",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Janice Alexander",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Will Arnot",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Will Arnot",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Kimberley Spiteri",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Branka Mrkic",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Paige Augustine",
+        "department": "Art",
+        "job": "Set Buyer"
+      },
+      {
+        "name": "Eliza Coleman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Heather Gross",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Erik Bernstein",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Susan Kowarsh",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Gregg Edler",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Petur Hliddal",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Colin J. Campbell",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Erik L. Brown",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Ann Gray",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Antoine Douaihy",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Doug Wall",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Dennis Seawright",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Edward Hunt",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Mark Trapenberg",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Martin Charles",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Mike Cahoon",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Joanna Shelmidine",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Starrs McBurney",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Leslie 'Tinker' Linville",
+        "department": "Art",
+        "job": "Set Buyer"
+      },
+      {
+        "name": "George Crile",
+        "department": "Writing",
+        "job": "Book"
+      }
+    ]
+  },
+  "keywords": [
+    "cia",
+    "helicopter",
+    "washington dc, usa",
+    "congress",
+    "cairo",
+    "alcohol",
+    "refugee camp",
+    "cold war",
+    "rocket launcher",
+    "ladykiller",
+    "jerusalem, israel",
+    "munition",
+    "pakistan",
+    "afghanistan war (2001- )",
+    "belly dancing",
+    "dollar",
+    "congressman",
+    "1980s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A drama based on a Texas congressman Charlie Wilson's covert dealings in Afghanistan, where his efforts to assist rebels in their war with the Soviets have some unforeseen and long-reaching effects.",
+    "In the early 1980s, Charlie Wilson is a womanizing US congressional representative from Texas who seemed to be in the minor leagues, except for the fact that he is a member of two major foreign policy and covert-ops committees. However, prodded by his major conservative supporter, Houston Socialite Joanne Herring, Wilson learns about the plight the people are suffering in the brutal Soviet occupation of Afghanistan. With the help of the maverick CIA agent, Gustav \"Gust\" Avrakotos, Wilson dedicates his canny political efforts to supply the Afghan mujahideen with the weapons and support to defeat the Soviet Union. However, Charlie Wilson eventually learns that while military victory can be had, there are other consequences and prices to that fight that are ignored to everyone's sorrow.—Kenneth Chisholm (kchishol@rogers.com)",
+    "Congressman Charlie Wilson represents the second congressional district in Texas. For those few who know or know of him, he is seen as a lightweight congressman, who is more than willing to sell his votes in the house. As such, he has collected more IOUs than any other congressman. He is also an illicit drug user and womanizer, who staffs his office with attractive young women. He is able to get away with all this behavior since little scrutiny is placed on him because no one pays any attention to him. In 1980, he begins an interest in the Soviet occupation of Afghanistan after seeing network news reports and speaking to one of his women friends, the wealthy Joanne Herring, a right wing, fundamentalist Christian zealot. He is dismayed to learn that the US has no official policy on the Afghan situation, only supporting the Afghan side of the war - the mujahideen - with a meager $10 million. And within the CIA, there is only an unofficial and clandestine policy of wanting to bleed the Soviets at the expense of the Afghan people. Charlie wants to speak to a high ranking CIA official about the situation, but instead is sent Gust Avrakotos, a committed but disgruntled CIA operative working the Afghan file, whose appointment was not meant to be meritorious. Charlie and Gust end up working together on a covert mission toward the common goal of arming and training the mujahideen to defeat the Soviets. Gust works the strategic side within the CIA, and Charlie, calling in whatever favor he can, works the political and diplomatic side. Charlie's tasks are not easy as he has to bring together not only disparate but often hostile opposing political and religious forces to achieve his goal. Charlie learns that his personal life may come back to haunt him, and that winning the war may come with unexpected consequences.—Huggo",
+    "In the early 1980s, US Congressman Charlie Wilson (Hanks), Texas socialite Joanne Herring (Roberts) and CIA agent Gust Avrakotos (Hoffman) form an unlikely alliance to boost funding for Afghan freedom fighters in their war against invading Soviets. The trio's successful efforts to finance these covert operations contributes to the fall of the Soviet Union and the end of the Cold War."
+  ],
+  "synopsis": "In 1980, Congressman Charlie Wilson (Tom Hanks) is more interested in partying than legislating, frequently throwing huge galas and staffing his congressional office with young, attractive women. His social life eventually brings about a federal investigation into allegations of his cocaine use, conducted by then-federal prosecutor Rudy Giuliani as part of a larger investigation into congressional misconduct. The investigation results in no charge against Charlie.Back then, Charlie had seen a TV report that described the Soviet war in Afghanistan as a steppingstone a wider attack on the Arab nation states that controlled the oil supply of the world. The report concluded that if the Afghan Mujahideen are given arms support, they could win against the Soviets.\nCharlie at the time was involved in frivolous legislation like Department of Defense support to the Boy Scouts of America.\nAt office Charlie is surrounded by gorgeous looking women like his secretary Bonnie Bach (Amy Adams).Charlie finds that the CIA budget for covert operations against Soviets in Afghanistan is $5 million. He asks his staffer to double the budget.\nA friend and romantic interest, Joanne Herring (Julia Roberts), hears about Charlie doubling the budget for Afghanistan and encourages Charlie to do more to help the Afghan people, and persuades Charlie to visit the President of Pakistan Zia-Ul-Haq (Om Puri).\nCharlie sits on the Congressional committees for Defense, Pentagon, and the CIA, and oversees an unlimited budget for the 3 agencies needed to run a covert war. Joanne tells Charlie that the Soviets armor plated their gunships to resist the 12.7 mm rounds fired from guns supplied by America to Pakistan. America provided F-16s but no radar to help them aim accurately.\nJoanne wants Charlie to help run the war in Afghanistan properly by first calling it a war, and then deliver a crushing defeat to Soviets to eliminate Communism and end the cold war.The Pakistanis complain about the inadequate support of the U.S. to oppose the Soviet Union. The radars were not sold to Pakistan since they were already sold to Israel and American supported Israel more than Muslims. Zia also argues that all funding for the war should flow through Pakistan, as they have experience with this kind of war.\nThey insist that Charlie visit a major Pakistan-based Afghan refugee camp. (This and other Afghan scenes were filmed in Morocco.) Charlie is deeply moved by their misery and determination to fight but is frustrated by the regional CIA personnel's insistence on a low-key approach against the Soviet occupation of Afghanistan. Charlie returns home to lead an effort to substantially increase funding to the Mujahideen.\nCharlie sees that despite the atrocities, the Afghan people are determined to fight the Soviets.As part of this effort, Charlie befriends the maverick CIA operative Gust Avrakotos (Philip Seymour Hoffman).\nCIA director of European operations Henry Cravely (John Slattery) is Gust's boss. Gust has been with the agency for 24 years and is an expert of Europe, yet is assigned to Afghanistan, since he lacks the proper diplomatic skills. Henry is also against training foreign origin people as field agents, even though they can speak the local language a lot better, because their loyalty to American can be questionable. Henry and Gust do not see eye on eye on these topics.Gust tells Charlie that US is currently not trying to defeat the Soviets in Afghanistan, but only to bleed them out, much like what Vietnam did to the US. Gust says that US does not have a strategy.\nGust's understaffed Afghanistan group to find a better strategy, especially including a means to counter the Soviets' formidable Mi-24 helicopter gunship. This group was composed in part of members of the CIA's elite Special Activities Division, including a young paramilitary officer named Michael Vickers (Christopher Denham).Gust hires Israeli arms merchant Zvi Rafiah (Ken Stott) to supply arms to the Mujahideen and to make it look like that these are Soviet made weapons captured by the Afghans. Charlie manages to forge a covert partnership between Israel, Egypt, Pakistan, Saudi Arabia and Afghanistan to fight the Soviets. The largest stockpile of Soviet weapons, outside of the USSR is in Egypt.\nCharlie gets Joanne to use her Christian angle to convince Representative Doc Long (Ned Beatty), who is the head of the funding committee to commit US funds for the Afghan effort.As a result, Charlie's deft political bargaining for the necessary funding and Avrakotos' group's careful planning using those resources, such as supplying the guerrillas with FIM-92 Stinger missile launchers, turns the Soviet occupation into a deadly quagmire with their heavy fighting vehicles being destroyed at a crippling rate. The CIA's anti-communism budget evolves from $5 million to over $500 million (with the same amount matched by Saudi Arabia), startling several congressmen.This effort by Charlie ultimately evolves into a major portion of the U.S. foreign policy known as the Reagan Doctrine, under which the U.S. expanded assistance beyond just the Mujahideen and began also supporting other anti-communist resistance movements around the world. Charlie states that senior Pentagon official Michael Pillsbury persuaded President Ronald Reagan to provide the Stingers to the Afghans: \"Ironically, neither Gust nor Charlie was directly involved in the decision and claims any credit.\nThe Soviet eventually withdraw from Afghanistan.Charlie follows Gust's guidance to seek support for post-Soviet occupation Afghanistan but finds almost no enthusiasm in the U.S. government for even the modest measures he proposes.The film ends with Charlie receiving a major commendation for the support of the U.S. clandestine services, that led to the defeat of the Soviet army in Afghanistan. Just 13 years ago the Soviet army appeared to be invincible, and Charlie was commended for his efforts to win the cold war. Charlie helped make a dent into the formidable Soviet fighting machine.\nHis pride is tempered by his fears of what unintended consequences his secret efforts could yield in the future and the implications of U.S. disengagement from Afghanistan."
+}

@@ -1,0 +1,878 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
+  "id": 567609,
+  "title": "Ready or Not",
+  "poster_path": "https://image.tmdb.org/t/p/w500/vOl6shtL0wknjaIs6JdKCpcHvg8.jpg",
+  "release_date": "2019-08-21",
+  "vote_average": 7.063,
+  "vote_count": 4044,
+  "popularity": 43.355,
+  "overview": "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.",
+  "imdb_id": "tt7798634",
+  "budget": 6000000,
+  "homepage": "http://www.foxsearchlight.com/readyornot/",
+  "revenue": 57600000,
+  "runtime": 95,
+  "tagline": "In-laws will be the death of her.",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Mythology Entertainment",
+    "Vinson Films",
+    "Fox Searchlight Pictures",
+    "Radio Silence"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Samara Weaving",
+        "character": "Grace"
+      },
+      {
+        "name": "Adam Brody",
+        "character": "Daniel Le Domas"
+      },
+      {
+        "name": "Mark O'Brien",
+        "character": "Alex Le Domas"
+      },
+      {
+        "name": "Henry Czerny",
+        "character": "Tony Le Domas"
+      },
+      {
+        "name": "Andie MacDowell",
+        "character": "Becky Le Domas"
+      },
+      {
+        "name": "Melanie Scrofano",
+        "character": "Emilie Le Domas"
+      },
+      {
+        "name": "Kristian Bruun",
+        "character": "Fitch Bradley"
+      },
+      {
+        "name": "Elyse Levesque",
+        "character": "Charity Le Domas"
+      },
+      {
+        "name": "Nicky Guadagni",
+        "character": "Helene Le Domas"
+      },
+      {
+        "name": "John Ralston",
+        "character": "Stevens"
+      },
+      {
+        "name": "Liam MacDonald",
+        "character": "Georgie Bradley"
+      },
+      {
+        "name": "Ethan Tavares",
+        "character": "Gabe Bradley"
+      },
+      {
+        "name": "Hanneke Talbot",
+        "character": "Clara"
+      },
+      {
+        "name": "Celine Tsai",
+        "character": "Tina"
+      },
+      {
+        "name": "Daniela Barbosa",
+        "character": "Dora"
+      },
+      {
+        "name": "Chase Churchill",
+        "character": "Young Alex Le Domas"
+      },
+      {
+        "name": "Etienne Kellici",
+        "character": "Young Daniel Le Domas"
+      },
+      {
+        "name": "Andrew Anthony",
+        "character": "Charles"
+      },
+      {
+        "name": "Elana Dunkelman",
+        "character": "Young Helene Le Domas"
+      },
+      {
+        "name": "Kate Ziegler",
+        "character": "Young Becky Le Domas"
+      },
+      {
+        "name": "James Eddy",
+        "character": "Masked Family Member #1"
+      },
+      {
+        "name": "Adam Winlove-Smith",
+        "character": "Masked Family Member #2"
+      },
+      {
+        "name": "Alicia Richardson",
+        "character": "Police Officer"
+      },
+      {
+        "name": "Nat Faxon",
+        "character": "Justin (voice)"
+      },
+      {
+        "name": "Guy Busick",
+        "character": "Richard (uncredited)"
+      },
+      {
+        "name": "R. Christopher Murphy",
+        "character": "Charlie (uncredited)"
+      },
+      {
+        "name": "James Vanderbilt",
+        "character": "Mr. LeBail (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Brian Tyler",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Brian Tyler",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Andrew M. Stearn",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "James Vanderbilt",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Brad Fischer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Joanna Moore",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Tripp Vinson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Matt Bettinelli-Olpin",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "William Sherak",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Eric Bryson",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Gregor Hutchison",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Mark DeSimone",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Peter Bas",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Joe Bracciale",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Joe Bracciale",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Christian T. Cooke",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Dana Niu",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Brett Jutkiewicz",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Jeanette Roxborough",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tyler Gillett",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Chad Villella",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Terel Gibson",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Steve Baine",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Edward A. Queffelec",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kevin Banks",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Robert Stecko",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Mike Curran",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Adam Stein",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Neil Morrill",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Jenny Arbour",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Stephanie Collins",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Colin McLellan",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mark Wotton",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Robert Elhai",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "T.K. Knowles",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "John O'Grady",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Daniel Bekerman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Nigel Mendoza",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Morgyn Johnston",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Anthony Pangalos",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Zoë Bigio",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Brad Warnaar",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Rossano Galante",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "James Sled",
+        "department": "Crew",
+        "job": "Pyrotechnician"
+      },
+      {
+        "name": "Cudah Andarawewa",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Jason Pomerantz",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Eric Zachanowich",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Guy Busick",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Darren Marsman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Duncan McLeod",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Julia Valente",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Steve Newburn",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Peter Persaud",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Tara Farney",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Evan Gillman",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Bianca Monteiro",
+        "department": "Sound",
+        "job": "ADR Coordinator"
+      },
+      {
+        "name": "Bas Reitsma",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Trevor Goulet",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Rose Gregoris",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Chirayouth Jim Saysana",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Laura Hokstad",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Avery Plewes",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Ritchie Miazek",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Martin Drover",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Richard Rodrigues",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Tracey Nyberg",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Adrian Stansfield",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Shaun Hunter",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Sean Kirby",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Ashley Shields-Muir",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Michael Lee Taylor",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Angela Chao",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Ari Magder",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Charles McGlynn",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Richard D. Leko",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "J.P. Giamos",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Devin Doucette",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Cindy Perez",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Nathan Rival",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Jennifer Vey",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Adam Tupper",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Adam Tupper",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Adam Winlove-Smith",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kayla Dobilas",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Jen Georgopoulos",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Don Stockford",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "R. Christopher Murphy",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Dipak Tarpara",
+        "department": "Visual Effects",
+        "job": "Visual Effects Compositor"
+      },
+      {
+        "name": "Gina Wark",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Mike Leandro",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "James Eddy",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jordan Delic",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Michael Stark",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Kathryn Prescott",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Claudia Gedge",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Julia Karmasin",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Steph Pringle",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "name": "Rory James",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Elliott Whittaker",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Daniel Betti",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Stephen Van Allen",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Shudhdodhan Milind Ambhore",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Justin Bates",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Alex Heffner",
+        "department": "Visual Effects",
+        "job": "Visual Effects Compositor"
+      },
+      {
+        "name": "Ethan Helms",
+        "department": "Visual Effects",
+        "job": "Compositing Lead"
+      },
+      {
+        "name": "Quentin E. Holmes",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Eddy Wolfson",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Vineshh Vickinadas",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Rickey Verma",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Hussain Taj",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Paige Reynolds",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Ryan Ramsey",
+        "department": "Visual Effects",
+        "job": "Visual Effects Compositor"
+      },
+      {
+        "name": "Daniel Moctezuma",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Savanna Slonimski",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Neil Olsen",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Randy Brown",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "John Belliveau",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Mario Tassone",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Glen Roemer",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Bradley Greaves",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Leslie Whittaker",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "John Kurtz",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Martin Budd",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Denna McNaught",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Gino Sandoval",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Stephen Crone",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Mike Twin Jones",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Stewy Wells",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Mike Daigle",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Kenroy Ebanks",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Mikey Sarciron",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Heather Crepp",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Anita Shapanski",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Joanna Watson",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Mark Alleyne",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "John Teixeira",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Chris Moulson",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Kevin Forstner",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Victoria Darlene Baksi",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Ashley Alcock",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Kyle Klausen",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Ryan Macnell",
+        "department": "Sound",
+        "job": "Foley Artist"
+      }
+    ]
+  },
+  "keywords": [
+    "escape",
+    "ritual",
+    "marriage",
+    "satanism",
+    "games",
+    "gore",
+    "pact with the devil",
+    "wealth",
+    "murder",
+    "wedding",
+    "wedding dress",
+    "satanic cult",
+    "death game"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.",
+    "All of us have made certain efforts so our in-laws will like us, but Grace is going to have to give it her all if she wants to fit in with her brand new husband's wealthy dynasty, who require her to follow a brutal tradition: for the bride to try to survive her wedding night while the rest of them hunt her down. The class struggle stuff hits the proverbial fan in this extremely black satire starring a brilliant Samara Weaving and including an uncommonly perverse Andie MacDowell.—Sitges Film Festival",
+    "Grace couldn't be happier after she marries the man of her dreams at his family's luxurious estate. There's just one catch-she must now hide from midnight until dawn while her new in-laws hunt her down with guns, crossbows and other weapons. As Grace desperately tries to survive the night, she soon finds a way to turn the tables on her not-so-lovable relatives.—krmanirethnam",
+    "After an elegant nuptial ceremony at the lavish manor of the uber-wealthy Le Domas clan, the gentle groom, Alex Le Domas, informs his blissful young bride, Grace, that the ceremony is far from over yet, and there's still a long night ahead of them. Before long, as part of a macabre long-standing family tradition, Grace will have to play a seemingly innocent game, and hide somewhere in the vast mansion's cavernous halls and labyrinthine corridors, until dawn. Now, whether Grace is ready or not, the armed-to-the-teeth Domases are coming for her, and it's going to get ugly. Will the newlywed quarry survive the relentless onslaught of the nasty in-laws from Hell?—Nick Riganas"
+  ],
+  "synopsis": "Young brothers Alex (Mark O'Brien) and Daniel Le Domas (Adam Brody) witness the killing of a man on the night of his wedding to their Aunt Helene (Nicky Guadagni). Thirty years later, Alex has returned home to marry his fiance, Grace (Samara Weaving), a former foster child eager to finally have a family. On their wedding night, he tells her that, as tradition, every outside addition to the family must play a game. Grace has to draw a random card, and the game they have to play will be written there.The family includes Alex, his alcoholic brother, Daniel, and drug-addicted sister, Emilie (Melanie Scrofano); their father, Tony (Henry Czerny) and mother, Becky (Andie MacDowell); Daniel's snobbish wife, Charity (Elyse Levesque); Emilie's whiny husband, Fitch (Kristian Bruun); and the somber Helene. It is explained that their ancestor, Victor Le Domas, made a deal with a man named Le Bail. Le Bail would build the Le Domas fortune in exchange for the Le Domases observing this tradition. Grace draws a card labeled \"Hide and Seek.\" Unaware of the truth, she hides while the Le Domases arm themselves with antique weapons to hunt her down.When Grace witnesses Emilie accidentally killing one of the maids believing it to be her, Alex confesses that the \"hide and seek\" card is the only game that requires the family to kill the recipient. They believe that if Grace survives until dawn, the entire family will die, as per the agreement with Le Bail. He kept the truth from Grace, knowing she would leave him if she knew. The last time someone pulled that card was thirty years ago when Helene's husband was killed. Shocked, scared, and angry, Grace becomes determined to survive. She is discovered by Daniel, who is disillusioned with the bloody family tradition and gives her a head start. To prevent his family tracking Grace, Alex destroys the security monitors before being restrained by Daniel and Tony.Grace escapes the mansion and hides in the barn, only to be shot in the hand by Emilie's young son, Georgie (Liam McDonald). Furious, she knocks Georgie out, but accidentally falls into a pit filled with the decaying corpses of the previous sacrifices. She climbs out, though not without more wounds, and is pursued by the butler, Stevens (John Ralston). She fights him and escapes in his car, but the car is quickly reported stolen and shut down. Stevens catches up and tranquilizes her. While being driven back, Grace awakens and attacks Stevens, causing the car to crash. However, she is captured again and restrained on the symbol of a pentagon as the family prepares to sacrifice her. They drink from a ceremonial cup and start to vomit blood. Daniel releases Grace, revealing he non-lethally poisoned its contents. Charity, however, shoots Daniel in the throat, causing him to bleed to death; Grace thanks Daniel for helping her after pistol-whipping Charity and bludgeoning Tony with an oil lamp, inadvertently starting a fire.Becky attacks Grace; having had enough, Grace snaps and bludgeons Becky to death with Le Bail's wooden game box. Alex finds Daniel's body before finding Grace and his mother. Realizing that Grace no longer trusts him and will not be with him after all this, Alex subdues her. The group hails Satan as Alex prepares to stab her. At the last moment, Grace twists, taking the stab to her shoulder and freeing herself. Dawn breaks, but when nothing happens, the family believes their tradition was a lie, and all of this was for nothing. However, Helene suddenly explodes. One by one, the remaining family members explode in bloody messes. Alex pleads for Grace's forgiveness out of cowardice; she rebukes him, and he explodes. As the mansion burns, Grace sees Le Bail's ghost, realizing there was truth to the tale.\nAs the police arrive, Grace sits on the patio steps, exhausted and traumatized, her wedding dress turned red from blood, and smokes a cigarette."
+}

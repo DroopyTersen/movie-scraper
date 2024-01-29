@@ -1,0 +1,3283 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+  "id": 299534,
+  "title": "Avengers: Endgame",
+  "poster_path": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+  "release_date": "2019-04-24",
+  "vote_average": 8.258,
+  "vote_count": 24398,
+  "popularity": 134.683,
+  "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+  "imdb_id": "tt4154796",
+  "budget": 356000000,
+  "homepage": "https://www.marvel.com/movies/avengers-endgame",
+  "revenue": 2800000000,
+  "runtime": 181,
+  "tagline": "Avenge the fallen.",
+  "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Action"
+  ],
+  "production_companies": [
+    "Marvel Studios"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Robert Downey Jr.",
+        "character": "Tony Stark / Iron Man"
+      },
+      {
+        "name": "Chris Evans",
+        "character": "Steve Rogers / Captain America"
+      },
+      {
+        "name": "Mark Ruffalo",
+        "character": "Bruce Banner / Hulk"
+      },
+      {
+        "name": "Chris Hemsworth",
+        "character": "Thor Odinson"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Natasha Romanoff / Black Widow"
+      },
+      {
+        "name": "Jeremy Renner",
+        "character": "Clint Barton / Hawkeye"
+      },
+      {
+        "name": "Don Cheadle",
+        "character": "James Rhodes / War Machine"
+      },
+      {
+        "name": "Paul Rudd",
+        "character": "Scott Lang / Ant-Man"
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "Stephen Strange / Doctor Strange"
+      },
+      {
+        "name": "Chadwick Boseman",
+        "character": "T'Challa / Black Panther"
+      },
+      {
+        "name": "Brie Larson",
+        "character": "Carol Danvers / Captain Marvel"
+      },
+      {
+        "name": "Tom Holland",
+        "character": "Peter Parker / Spider-Man"
+      },
+      {
+        "name": "Karen Gillan",
+        "character": "Nebula"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "character": "Gamora"
+      },
+      {
+        "name": "Evangeline Lilly",
+        "character": "Hope Van Dyne / Wasp"
+      },
+      {
+        "name": "Tessa Thompson",
+        "character": "Valkyrie"
+      },
+      {
+        "name": "Rene Russo",
+        "character": "Frigga"
+      },
+      {
+        "name": "Elizabeth Olsen",
+        "character": "Wanda Maximoff / Scarlet Witch"
+      },
+      {
+        "name": "Anthony Mackie",
+        "character": "Sam Wilson / Falcon"
+      },
+      {
+        "name": "Sebastian Stan",
+        "character": "Bucky Barnes / Winter Soldier"
+      },
+      {
+        "name": "Tom Hiddleston",
+        "character": "Loki"
+      },
+      {
+        "name": "Danai Gurira",
+        "character": "Okoye"
+      },
+      {
+        "name": "Benedict Wong",
+        "character": "Wong"
+      },
+      {
+        "name": "Pom Klementieff",
+        "character": "Mantis"
+      },
+      {
+        "name": "Dave Bautista",
+        "character": "Drax"
+      },
+      {
+        "name": "Letitia Wright",
+        "character": "Shuri"
+      },
+      {
+        "name": "John Slattery",
+        "character": "Howard Stark"
+      },
+      {
+        "name": "Tilda Swinton",
+        "character": "The Ancient One"
+      },
+      {
+        "name": "Jon Favreau",
+        "character": "Harold 'Happy' Hogan"
+      },
+      {
+        "name": "Hayley Atwell",
+        "character": "Peggy Carter"
+      },
+      {
+        "name": "Natalie Portman",
+        "character": "Jane Foster"
+      },
+      {
+        "name": "Marisa Tomei",
+        "character": "Aunt May"
+      },
+      {
+        "name": "Taika Waititi",
+        "character": "Korg (voice)"
+      },
+      {
+        "name": "Angela Bassett",
+        "character": "Ramonda"
+      },
+      {
+        "name": "Michael Douglas",
+        "character": "Dr. Hank Pym"
+      },
+      {
+        "name": "Michelle Pfeiffer",
+        "character": "Janet Van Dyne"
+      },
+      {
+        "name": "William Hurt",
+        "character": "Secretary of State Thaddeus 'Thunderbolt' Ross"
+      },
+      {
+        "name": "Cobie Smulders",
+        "character": "Maria Hill"
+      },
+      {
+        "name": "Sean Gunn",
+        "character": "On-Set Rocket / Kraglin"
+      },
+      {
+        "name": "Winston Duke",
+        "character": "M'Baku"
+      },
+      {
+        "name": "Linda Cardellini",
+        "character": "Laura Barton"
+      },
+      {
+        "name": "Maximiliano Hernández",
+        "character": "Agent Sitwell"
+      },
+      {
+        "name": "Frank Grillo",
+        "character": "Brock Rumlow"
+      },
+      {
+        "name": "Hiroyuki Sanada",
+        "character": "Akihiko"
+      },
+      {
+        "name": "Tom Vaughan-Lawlor",
+        "character": "Ebony Maw"
+      },
+      {
+        "name": "James D'Arcy",
+        "character": "Jarvis"
+      },
+      {
+        "name": "Jacob Batalon",
+        "character": "Ned"
+      },
+      {
+        "name": "Vin Diesel",
+        "character": "Groot (voice)"
+      },
+      {
+        "name": "Bradley Cooper",
+        "character": "Rocket (voice)"
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "character": "Pepper Potts"
+      },
+      {
+        "name": "Robert Redford",
+        "character": "Alexander Pierce"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Thanos"
+      },
+      {
+        "name": "Chris Pratt",
+        "character": "Peter Quill / Star-Lord"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Nick Fury"
+      },
+      {
+        "name": "Lexi Rabe",
+        "character": "Morgan Stark"
+      },
+      {
+        "name": "Ross Marquand",
+        "character": "Johann Schmidt / Red Skull (Stonekeeper)"
+      },
+      {
+        "name": "Joe Russo",
+        "character": "Grieving Man"
+      },
+      {
+        "name": "Emma Fuhrmann",
+        "character": "Cassie Lang"
+      },
+      {
+        "name": "Michael James Shaw",
+        "character": "Corvus Glaive"
+      },
+      {
+        "name": "Terry Notary",
+        "character": "On-Set Groot / Cull Obsidian"
+      },
+      {
+        "name": "Kerry Condon",
+        "character": "Friday (voice)"
+      },
+      {
+        "name": "Ben Sakamoto",
+        "character": "Cooper Barton"
+      },
+      {
+        "name": "Ava Russo",
+        "character": "Lila Barton"
+      },
+      {
+        "name": "Cade Woodward",
+        "character": "Nathaniel Barton"
+      },
+      {
+        "name": "Stan Lee",
+        "character": "Driver"
+      },
+      {
+        "name": "Yvette Nicole Brown",
+        "character": "S.H.I.E.L.D. Agent"
+      },
+      {
+        "name": "Callan Mulvey",
+        "character": "Jack Rollins"
+      },
+      {
+        "name": "Lia Russo",
+        "character": "Lia"
+      },
+      {
+        "name": "Julian Russo",
+        "character": "Julian"
+      },
+      {
+        "name": "Taylor Patterson",
+        "character": "Taylor"
+      },
+      {
+        "name": "Agostino Rosalina",
+        "character": "Augie"
+      },
+      {
+        "name": "Ken Jeong",
+        "character": "Security Guard"
+      },
+      {
+        "name": "Ty Simpkins",
+        "character": "Harley Keener"
+      },
+      {
+        "name": "Jackson A. Dunn",
+        "character": "Scott Lang (12 Y.O.)"
+      },
+      {
+        "name": "Lee Moore",
+        "character": "Scott Lang (93 Y.O.)"
+      },
+      {
+        "name": "Bazlo LeClair",
+        "character": "Scott Lang (Baby)"
+      },
+      {
+        "name": "Loen LeClair",
+        "character": "Scott Lang (Baby)"
+      },
+      {
+        "name": "Matthew Berry",
+        "character": "S.H.I.E.L.D. Agent"
+      },
+      {
+        "name": "Joy McAvoy",
+        "character": "Asgardian Maiden"
+      },
+      {
+        "name": "John Michael Morris",
+        "character": "Young Hank Pym"
+      },
+      {
+        "name": "Michael A. Cook",
+        "character": "Male S.H.I.E.L.D. Agent"
+      },
+      {
+        "name": "Brent McGee",
+        "character": "Camp Lehigh Guard"
+      },
+      {
+        "name": "Brian Schaeffer",
+        "character": "Military Police"
+      },
+      {
+        "name": "Jamie Wedel",
+        "character": "Drill Sergeant"
+      },
+      {
+        "name": "Anthony G Breed",
+        "character": "Young Stan Lee Double"
+      },
+      {
+        "name": "Erica Ribley",
+        "character": "Car Girl"
+      },
+      {
+        "name": "Monique Ganderton",
+        "character": "On-Set Proxima Midnight"
+      },
+      {
+        "name": "Jim Starlin",
+        "character": "Support Group Man #1"
+      },
+      {
+        "name": "Jimmy Ray Pickens",
+        "character": "Support Group Man #2"
+      },
+      {
+        "name": "Hye Jin Jang",
+        "character": "Japanese Girl"
+      },
+      {
+        "name": "Russell Bobbitt",
+        "character": "Diner Owner"
+      },
+      {
+        "name": "James Lin",
+        "character": "Diner Cook"
+      },
+      {
+        "name": "Jack Champion",
+        "character": "Kid on Bike"
+      },
+      {
+        "name": "Sam Hargrave",
+        "character": "New Asgard Truck Driver"
+      },
+      {
+        "name": "Patrick Gorman",
+        "character": "Old Steve Rogers Double"
+      },
+      {
+        "name": "Aaron Lazar",
+        "character": "Doctor Strange Double"
+      },
+      {
+        "name": "Robert Pralgo",
+        "character": "Thanos Reader"
+      },
+      {
+        "name": "Tom Wisdom",
+        "character": "Loki Reader"
+      },
+      {
+        "name": "John Posey",
+        "character": "Alexander Pierce Reader"
+      },
+      {
+        "name": "Ameenah Kaplan",
+        "character": "Gamora Reader"
+      },
+      {
+        "name": "Olaniyan Thurmon",
+        "character": "Teenage Groot Reader"
+      },
+      {
+        "name": "Jennifer Elmore",
+        "character": "On Set Reader #1"
+      },
+      {
+        "name": "Mike Lutz",
+        "character": "On Set Reader #2"
+      },
+      {
+        "name": "Eric Patrick Cameron",
+        "character": "Midtown High Student (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Alan Silvestri",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "David Farmer",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Sarah Halley Finn",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Christopher Markus",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Christopher Markus",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Stephen McFeely",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Stephen McFeely",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Stan Lee",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Stan Lee",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Stan Lee",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "name": "Stan Lee",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "name": "Kevin Feige",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Leslie A. Pope",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Paul Hughen",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Julian Ashby",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Judianna Makovsky",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "James Gunn",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Daniel Sudick",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Jeffrey Ford",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Jack Kirby",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Jack Kirby",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "name": "Jon Favreau",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Larry Lieber",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Don Heck",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Joe Simon",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Anthony Russo",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Joe Russo",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Zelda Tinska",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Dave Jordan",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Michael Grillo",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Charles Wood",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Louis D'Esposito",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Danielle Legovich",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Victoria Alonso",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Shelley Roden",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Geoffrey Haley",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Dylan Goss",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Monique Ganderton",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Christopher 'Critter' Antonucci",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michelle Rose",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rohan Harris",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Alex Knudsen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Michael Lum",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Terry Notary",
+        "department": "Crew",
+        "job": "Motion Capture Artist"
+      },
+      {
+        "name": "Terry Notary",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "name": "Jimmy Ray Pickens",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Rohit Agarwal",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "David J. Barker",
+        "department": "Crew",
+        "job": "Pyrotechnician"
+      },
+      {
+        "name": "Christopher Duskin",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Trent Opaloch",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Mike Stallion",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Russell Bobbitt",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Mike Lutz",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Lloyd Pitts",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ray Chan",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Mitchell Bell",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Grace Hendley",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Pat Sweeney",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Dave Cory",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Jeff Murrell",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Matt Leonard",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Keith Giffen",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Anna Majewski",
+        "department": "Costume & Make-Up",
+        "job": "Hair Setup"
+      },
+      {
+        "name": "Anna Majewski",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Janene Carleton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Anthony N.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Fisher",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Nick Scarano",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Thomas Brown",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jordan Crockett",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Stephane Ceretti",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Wendy M. Craig",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Tom Kramer",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Dan O'Connell",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Jonathan Weber",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "David M. Roberts",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Victor Huang",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Chase Paris",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Isobel Griffiths",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "MacKenzie Cleveland",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Matthew Schmidt",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Steve Englehart",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Maurice K. McGuire",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "James Lin",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Russell Earl",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Gianni Biasetti Jr.",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Allison Paul",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Mitul Patel",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Trent Claus",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Kirsty Whalley",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Ken Dailey",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Simon Stanley-Clamp",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Michael Harden",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Andy Stevens",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Gui DaSilva-Greene",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jennifer Badger",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Valentina Aulisi",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Joel Marrow",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Jeremy Braben",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Gee Alexander",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lorelei David",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "John Polyson",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Lars Vinther",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Nia Hansen",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Nia Hansen",
+        "department": "Crew",
+        "job": "Sound Design Assistant"
+      },
+      {
+        "name": "Noon Orsatti",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jonah Levy",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Brian A. Waits",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Dan Riffel",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Mark Johnston",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Michael-Ryan Fletchall",
+        "department": "Camera",
+        "job": "Aerial Camera"
+      },
+      {
+        "name": "Matt Aitken",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Janine Rath",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Jerad Marantz",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Eamonn Butler",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Christopher Learmonth",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Nicola Barnes",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Tully Summers",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Doug Appleton",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Craig Tanner",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "name": "Corrina Roshea Bobb",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jonathan Burdeshaw",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Jenny Basen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jarrod Anderson",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Tristan Connors",
+        "department": "Visual Effects",
+        "job": "Senior Modeller"
+      },
+      {
+        "name": "Vernessa Cook",
+        "department": "Crew",
+        "job": "Motion Capture Artist"
+      },
+      {
+        "name": "Stephen A. Buckley",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Amy Lynn Tuttle",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kelly Port",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Terence Bannon",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Mark S. Wright",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Peter Cobbin",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "name": "Chris Castaldi",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Mark Bialuski",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Tyrone Anthony Jones",
+        "department": "Art",
+        "job": "Set Decorating Coordinator"
+      },
+      {
+        "name": "Shawn Kelly",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Eric Dvorsky",
+        "department": "Camera",
+        "job": "Aerial Camera Technician"
+      },
+      {
+        "name": "Rick Harris",
+        "department": "Camera",
+        "job": "Libra Head Technician"
+      },
+      {
+        "name": "Jamie Hallett",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Ellen Hoffmann",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Marco La Torre",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Jonathan Terpstra",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Sagar Desai",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Nate Andrade",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tamar Shaham",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Myra N. Foy",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Mary Castor",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jason B. Stamey",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Michelle Diamantides",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Michelle Diamantides",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Jason Tamez",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "John Pritchett",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Christopher Flick",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "Erik Pampel",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Nashia Wachsman",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Sean Noel Walker",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Marc Calvelo",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Chris Petts",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Zave Jackson",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Sean Hunter Moe",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Taylor Matheson",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Matthew Haskins",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Paul Ensby",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Alessandro Di Meo",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Darwin Go",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Mitchell Andrew Lillian",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Katrin Arndt",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Adam Baines",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Jan Philip Cramer",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Adam Castro",
+        "department": "Camera",
+        "job": "First Assistant \"C\" Camera"
+      },
+      {
+        "name": "Heidi Moneymaker",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Claudia Bonfe",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "James Sled",
+        "department": "Visual Effects",
+        "job": "Pyrotechnic Supervisor"
+      },
+      {
+        "name": "Jen Underdahl",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Dan DeLeeuw",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Cassie Dixon",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Bradley J. Lincoln",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Juan Alonso",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Ross Grimshaw",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "John M. Pisani",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Craig Anthony",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Donna Smith",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Cecile Dubois-Herry",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Aoife Warren",
+        "department": "Art",
+        "job": "Draughtsman"
+      },
+      {
+        "name": "Javier Arrieta",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Steve Bobertz",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Cristiano Cesolari",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Christopher Finley",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Ben Aycrigg",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kelly Bellini",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kelly Bellini",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Anwei Chen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Thomas M. Dangcil",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Scott Barnes",
+        "department": "Lighting",
+        "job": "Lighting Programmer"
+      },
+      {
+        "name": "Molly Doyle",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Nicholas A. Mudd",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Nicholas A. Mudd",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Samson Neslund",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Mike Wilson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Johnny Gidcomb",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Michael J. Coo",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Henry Cantor",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "James McMillan",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "name": "Akihiro Haga",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Ben Wiggs",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Florent Limouzin",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Jim Starlin",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Jim Starlin",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Balendu Kurup",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Vasilios Tanis",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Tim Fabrizio",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Kristine Nadal",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Rob Andrews",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Kristin Catuogno",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Darryl Humber",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Jeffrey Steven Brink",
+        "department": "Camera",
+        "job": "Drone Cinematographer"
+      },
+      {
+        "name": "John Garrett",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Lara Lom",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Tamiko Brownlee",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Paul Chandler",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Renae Moneymaker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bill Mantlo",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Jackson Spidell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Adam Cole",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Sean Ricigliano",
+        "department": "Camera",
+        "job": "Epk Camera Operator"
+      },
+      {
+        "name": "Tyson Weatherford",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "David Boucher",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Jason Charles Hill",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Jacob Riehle",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Peter Ayriss",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Abbie Kennedy",
+        "department": "Visual Effects",
+        "job": "Layout Supervisor"
+      },
+      {
+        "name": "Lulu Morgan",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Simon Downes",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Scott Dwyer",
+        "department": "Crew",
+        "job": "Pyrotechnician"
+      },
+      {
+        "name": "Nikhil Paniz",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Daniel Hargrave",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Kandis Hargrave",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ben Cowell-Thomas",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Chris Cloud",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Matthew Twyford",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Shauna Galligan",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Chris Adkins",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "David Oliveros",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Maxwell Britton",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Wesley Burt",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Brian Rosso",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Lisa Walsh",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Praveen Kilaru",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Tonio Freitag",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Sean Devine",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Jeremy Bloch",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Georgina Street",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Sidney Kombo",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Lucas John Ng",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Bonnie Gosnell",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Josh Dagg",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jonathan Connaught",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Cameron Blake",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "name": "Francisco Ramirez",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "David Masure-Bosco",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Jason Kay",
+        "department": "Crew",
+        "job": "Drone Operator"
+      },
+      {
+        "name": "John Barrett",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Lorne MacDougall",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Martin Rossi",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Maria Hippolyte",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Darren Rodriguez",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Derek Garcia",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Richard Edwards",
+        "department": "Editing",
+        "job": "Stereoscopic Editor"
+      },
+      {
+        "name": "Carlos Ciudad",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Victor Pesavento",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Michelle Liu",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Alan Perrin",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Scott Pritchard",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Joseph Hayden",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Sam Haynes",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "K.C. Roballo",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jason Blackman",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Robin Buday",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Kevin Martel",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Steve Sauers",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Chay Johansson",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Rebecca Fair-Lien",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Katherine Farrar",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Matt Aston",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Dave Foster",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "name": "Dorina Markoff-McNulty",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Tony Bohorquez",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Michael T. Chen",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Luca Cantani",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Simon Wottge",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Blake Winder",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Fabio Siino",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Dacoda Bartels",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Louise Aubertin",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Heather Armstrong",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "name": "Nick Thompson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Valerie Rudolph",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Larry Clark",
+        "department": "Art",
+        "job": "Paint Coordinator"
+      },
+      {
+        "name": "Ryan Cronin",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Vincent Désilets",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Dan Snape",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Chris Arnold",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Mike Stillwell",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Jeff LaBaume",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Louis Rendemonti",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Steven Brown",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Dan Curry",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Reid Andrews",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jonathan Irizarry",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Michael Jordan",
+        "department": "Camera",
+        "job": "Russian Arm Operator"
+      },
+      {
+        "name": "Trey Twitty",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Daniel Wurschl",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Brad Bittner",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "name": "Matthias Winkler",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Djordje Jugovic",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Daniel Paul Newman",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Damien di Toro",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Shannon Murphy",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Charelle Bronson",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Ari Costa",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Benjamin Soh",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Jun Wei Puah",
+        "department": "Visual Effects",
+        "job": "3D Generalist"
+      },
+      {
+        "name": "Shoichi Matsubara",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Joe Frataccia",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Adrian Steel",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Michael Melchiorre",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Leah Sargent",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Erik Schneider",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Charlie Lehmer",
+        "department": "Camera",
+        "job": "Data Wrangler"
+      },
+      {
+        "name": "Jesse Cooper",
+        "department": "Lighting",
+        "job": "Rigging Supervisor"
+      },
+      {
+        "name": "Brad Irvin",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Aleksei Chernogorod",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Sudeepto Bose",
+        "department": "Visual Effects",
+        "job": "Compositing Lead"
+      },
+      {
+        "name": "Terence Alvares",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Michelangelo Neri Orliani",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Simon Butler",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Chris Radcliffe",
+        "department": "Visual Effects",
+        "job": "Modelling Supervisor"
+      },
+      {
+        "name": "David Michaels",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Steven Carlton Ficke",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Alexander Talley",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Beau Bellanich",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Richard Masino",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Enrik Pavdeja",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Emanuele Pescatori",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Ryan Green",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Beverly Abbott",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Matt Boyer",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "Dan Carney",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "Riley Barnes",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Lydia Hand",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Arnold",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Scott Medcalf",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Wasim Ali",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Akshay Madansure",
+        "department": "Visual Effects",
+        "job": "3D Modeller"
+      },
+      {
+        "name": "Scott Fox",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Alison Wortman",
+        "department": "Lighting",
+        "job": "Lighting Supervisor"
+      },
+      {
+        "name": "Harrison Osterfield",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      },
+      {
+        "name": "Juan Alonso",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Jerry Wheat",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Amber Actaboski",
+        "department": "Art",
+        "job": "Additional Set Dresser"
+      },
+      {
+        "name": "Valerie Patterson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Prashant Sharan",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Nathan Alexander",
+        "department": "Crew",
+        "job": "Prop Maker"
+      },
+      {
+        "name": "Autumn Atkinson",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Gabe Harrington",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Tyler Blythe",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "name": "Breanna Adams",
+        "department": "Crew",
+        "job": "Motion Capture Artist"
+      },
+      {
+        "name": "Charlotte Adams",
+        "department": "Crew",
+        "job": "Motion Capture Artist"
+      },
+      {
+        "name": "Muhammad Junaid Baig",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Tommy Barry",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Shidhyesh Bhogle",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Peter Chen",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Vishnu Simha",
+        "department": "Visual Effects",
+        "job": "3D Modeller"
+      },
+      {
+        "name": "Trinh Tran",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Justin Faith",
+        "department": "Costume & Make-Up",
+        "job": "Contact Lens Technician"
+      },
+      {
+        "name": "Briky Stone",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Zack Duncan",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Zack Duncan",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Zack Duncan",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "name": "Robert Broadfoot",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Kurtis Campbell",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Caleb Cascio",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Michelle Spreuer",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Robert Zavala",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Carl Rohrs",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Marshall T. Broyles",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Bailey Eller",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Jonathan Faber",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Hayley Adams",
+        "department": "Visual Effects",
+        "job": "Layout Supervisor"
+      },
+      {
+        "name": "Jayaraman Adhikesavan",
+        "department": "Art",
+        "job": "Paint Coordinator"
+      },
+      {
+        "name": "Atyeb Ahmed",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Daniil Alikov",
+        "department": "Visual Effects",
+        "job": "Senior Modeller"
+      },
+      {
+        "name": "Pedro Andrade",
+        "department": "Visual Effects",
+        "job": "Compositing Lead"
+      },
+      {
+        "name": "Alessandra Aucello",
+        "department": "Visual Effects",
+        "job": "VFX Production Coordinator"
+      },
+      {
+        "name": "Dan Ayling",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "name": "Magali Barbé",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Kris Barone",
+        "department": "Visual Effects",
+        "job": "Head of Animation"
+      },
+      {
+        "name": "Eric M. Beaver",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Mikael G. Betru",
+        "department": "Crew",
+        "job": "Motion Capture Artist"
+      },
+      {
+        "name": "Dheeraj Bhadani",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Richard Binnington",
+        "department": "Visual Effects",
+        "job": "VFX Production Coordinator"
+      },
+      {
+        "name": "Jamie Blyth",
+        "department": "Lighting",
+        "job": "Rigging Supervisor"
+      },
+      {
+        "name": "Fabrizia Bonaventura",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Jason Lanier Brown",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Alexander Bucknell",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "Andy Campion",
+        "department": "Camera",
+        "job": "Camera Department Manager"
+      },
+      {
+        "name": "Amy Carpenter",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Edward Catley",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "Silvia Colonna Romano",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Elmar Bragi Einarsson",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Charlotte Fearn",
+        "department": "Art",
+        "job": "Runner Art Department"
+      },
+      {
+        "name": "Carrie Bernans",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Stephane Feruch",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Carlos Guity",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Amanda L. Akins",
+        "department": "Production",
+        "job": "Grip Production Assistant"
+      },
+      {
+        "name": "Nolan Aldridge",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Stacy Barnhill",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Zavier Bolton",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Sara Daily",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Bradley C. Ferm",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Storm Flejter",
+        "department": "Crew",
+        "job": "Playback Coordinator"
+      },
+      {
+        "name": "Kerry Goodrum",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Jordan Hager",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "James Hatridge",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "James Hatridge",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Abbie Knights",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Ryan L. Lizardi",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Nick Masters",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "name": "Quinn McMillan",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Justin Memovich",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Annabelle Nutt",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Devon Stinson",
+        "department": "Crew",
+        "job": "Techno Crane Operator"
+      },
+      {
+        "name": "Manjoe Chan",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Javier Cimentada",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Camilo Duarte Franco",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Isaac Marcos Gonzalez",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Juan Sebastian Niño Florez",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Edwina Ting",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Seckin Yalin",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Alex Cody",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Samantha Burpee",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Joseph Richard Collins",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Kassia Dombroski",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Keith Muessigmann",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Jenny Reyes",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Hector Padilla",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Wayan Blue Palmieri",
+        "department": "Editing",
+        "job": "Stereoscopic Editor"
+      },
+      {
+        "name": "Dylan Suchesk",
+        "department": "Editing",
+        "job": "Dailies Operator"
+      },
+      {
+        "name": "Ted Alvarez",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "David Crigler",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Justin Christopher Ray",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Jorge Saumell",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Antony Scott",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Nancy Wong",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Joe Zimmerman",
+        "department": "Sound",
+        "job": "Music Programmer"
+      },
+      {
+        "name": "Chris Basso",
+        "department": "Crew",
+        "job": "Vehicles Coordinator"
+      },
+      {
+        "name": "Sheri B. Burton",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Nolan Ekberg",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jess Durham",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Julie Brown",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Alex R. Wagner",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Thomas Ward",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Lisa Theresa Downey-Dent",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Graham Binding",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Mark Mitchell",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Dena Sodano",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joan Buhigas",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Sujay Kumar G.",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "Brendon Phillips",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Matthew Dravitzki",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Cory Brandon Clay",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Ronan Binding",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Victoria Liu",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Indrit Zabzuni",
+        "department": "Visual Effects",
+        "job": "3D Artist"
+      },
+      {
+        "name": "Kacy McDonald",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Yasmine Hausler",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Christian Smith",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Kat Turner",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Garry Thomson",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Casey Ann Zeller",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robert Allman",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Stuart Penn",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "George Selden",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Gaurav Singh",
+        "department": "Visual Effects",
+        "job": "3D Modeller"
+      },
+      {
+        "name": "Joe Howes",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Maciej Kuciara",
+        "department": "Art",
+        "job": "Conceptual Illustrator"
+      },
+      {
+        "name": "Paul Ghezzo",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Graham Page",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Aleksandar Chalyovski",
+        "department": "Visual Effects",
+        "job": "Visual Effects Technical Director"
+      },
+      {
+        "name": "Robert Hemmings",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Joshua Koilpillai",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Jenny Leupold",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Werner Reifberger",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Jan Roth",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Merten Tremer",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Mona Wiemer",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Glen Sharah",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Martin Johansson",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "David Scott",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Eric Kasanowski",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Sameer Malik",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Tim Walker",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Felix Menguy",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Sushant Kadam",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Giulia Dell'Armi",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Jonathan Dysart",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "Justin Molush",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Naveen Sabesan",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Roberto Clochiatti",
+        "department": "Lighting",
+        "job": "Lighting Supervisor"
+      },
+      {
+        "name": "Nikos Gatos",
+        "department": "Lighting",
+        "job": "Lighting Supervisor"
+      },
+      {
+        "name": "Matteo Sanna",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "name": "Simon D. Kern",
+        "department": "Visual Effects",
+        "job": "Stereoscopic Supervisor"
+      },
+      {
+        "name": "Stephen Bassett",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Julie Gauthier",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Hiro Kamegaya",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Lew Lewington-Pearce",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Liam McCartin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Shrijeet Modi",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Ryan Musante",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Sophie Olive-Calver",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Chaz Pizani",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Manasa Raghavan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Sarah Stauffer",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Ellis Trespalacios",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Mallika Worboys",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Tom Barrett",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Hannah Long",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Allison Glennon",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "James Abunawass",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "Tiffany Herzog",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "Storm Nylen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "LaNeisha Watson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "David McPhail",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "David Cordon",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Mårten Larsson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Phillip Leonhardt",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Lexi Guenard",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Jamey Russell",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Kenneth Bolton",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Vareck Gober",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Dan Lewis",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Beaux Petit",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Cameron Woodall",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Zach Steele",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Davey Mayes",
+        "department": "Crew",
+        "job": "Generator Operator"
+      },
+      {
+        "name": "Jonny Mackenzie",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Alexandra Matheson",
+        "department": "Camera",
+        "job": "Second Assistant \"C\" Camera"
+      },
+      {
+        "name": "Riley Flanagan",
+        "department": "Production",
+        "job": "Key Set Production Assistant"
+      },
+      {
+        "name": "Kevin R. Wright",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "name": "Steve Gan",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Paul Schneider",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "John David Duncan",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Carlos Pacheco",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Oliver Cordwell",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Don McGregor",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Florian Boury",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Alexander T.H. Browne",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Kay Hoddy",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Christian J Smith",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Lisa Marra",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Christopher Kelly",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Kenneth Koh",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      }
+    ]
+  },
+  "keywords": [
+    "superhero",
+    "time travel",
+    "space travel",
+    "time machine",
+    "based on comic",
+    "sequel",
+    "alien invasion",
+    "superhero team",
+    "marvel cinematic universe (mcu)",
+    "alternate timeline",
+    "father daughter relationship",
+    "sister sister relationship"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face...",
+    "The grave course of events set in motion by Thanos, that wiped out half the universe and fractured the Avengers ranks, compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films - Avengers: Endgame.",
+    "After half of all life is snapped away by Thanos, the Avengers are left scattered and divided. Now with a way to reverse the damage, the Avengers and their allies must assemble once more and learn to put differences aside in order to work together and set things right. Along the way, the Avengers realize that sacrifices must be made as they prepare for the ultimate final showdown with Thanos, which will result in the heroes fighting the biggest battle they have ever faced.—Blazer346",
+    "Catastrophe. Confusion. Loss. The overwhelming devastation caused by the mad Titan Thanos has left what remains of the Avengers reeling. For a while, all hope seems lost...until an opportunity to reverse the damage is presented. Now, the team must assemble once more and do whatever it takes to restore the universe and bring those they lost back."
+  ],
+  "synopsis": "In the opening, Clint Barton is teaching his daughter archery on his secluded farm while his wife prepares a picnic lunch for them. Suddenly, Clint's daughter vanishes and the rest of Clint's family disintegrates, along with half of all life across the universe, the result of Thanos' snapping his fingers after acquiring all six Infinity Stones. Nebula and Tony Stark are stranded in space following their defeat by Thanos on Titan, but are returned to Earth by Carol Danvers and reunited with Natasha Romanoff, Bruce Banner, Steve Rogers, Rocket, Thor, and James Rhodes. The team formulates a plan to steal the Infinity Stones back from Thanos and use them to reverse his actions, but learn upon finding him that he had used the stones a second time to destroy them, preventing their further use. He tells the remaining Avengers that he did so to avoid using the Stones for further nefarious purposes. Enraged, Thor beheads Thanos, saying it's what he should have done in Wakanda.Five years later, Scott Lang escapes from the quantum realm to discover that his daughter Cassie is now a teenager and that Hope van Dyne, along with half of the population, has disappeared in the snap. Rogers has been leading grief counseling sessions for survivors still struggling with the effects of the snap, while Romanoff is tirelessly keeping watch over both Earth and the rest of the universe with the help of Rhodes, Danvers, Okoye, Rocket, and Nebula. Lang goes to Romanoff and Rogers, and explains that while five years had passed for them, only five hours had passed for him in the quantum realm and that time stretches much differently there.The three go to Stark, who is now raising a child with Pepper Potts, and explain their theory that the quantum realm can be used to go back in time and steal the Infinity Stones before Thanos is able to collect them. Stark initially rejects their proposal with concern about risking his family and the peace he has found, but after reflecting upon the loss of Peter Parker decides to test theoretical models that would work with Lang's quantum tunnel, eventually finding one that works.With Stark now on board the remaining Avengers set out to reassemble their team. Bruce Banner has now embraced the Hulk as a part of him, and has melded his own consciousness and the Hulk's together into one. Romanoff, after hearing reports from Rhodes of an assassin that operates with similar methods to Barton, leaves to find him. Barton, consumed with grief after the loss of his family, has been operating under the mantle \"Ronin\" while brutally massacring criminal cartels and gangs around the world in order to try and improve the world that's still left. Natasha finds him in Japan and after some convincing, he agrees to rejoin the team in order to try and bring his family back.Banner and Rocket go to the small town of New Asgard, where Valkyrie and the last survivors of Asgard have settled. They there find Thor, who has become overwhelmed by guilt over failing to kill Thanos in Wakanda. Thor has become overweight, his hair and beard are overgrown, and he spends his free time eating junk food, getting drunk, and playing Fortnite with his friends Korg and Miek. Thor begrudgingly agrees to return to the Avengers after some convincing from Rocket and Banner.After testing the quantum time machine on Barton, who confirms that it works, The Avengers are reunited with a plan - Banner, Rogers, Lang, and Stark embark to retrieve the Time, Mind, and Space stones during the battle of New York in 2012. Banner goes to the Sanctum Sanctorum, where he is informed by the Ancient One that taking the Time Stone from her time line would prevent Stephen Strange's future efforts to stop Kaecilius from destroying the laws of nature. However, when Banner tells her that Strange gave up the Time Stone willingly to Thanos, she allows Banner to have it, implying Strange had intended for a specific sequence of events to occur for Thanos to be defeated. Banner also promises the stones' return to their proper time lines in order to prevent any ill effects. Lang and Stark attempt to steal the Space Stone after the Avengers confiscate it from Loki.Lang gives Stark's past self a mild cardiac arrest by pulling a circuit in his artificial heart, while Stark steals the briefcase housing the Tesseract when nobody is looking. Their plan is thwarted when Stark drops the briefcase after he is accidentally hit by the Hulk. Loki then steals the Space Stone and uses it to escape custody. Rogers succeeds in stealing the Mind Stone from undercover Hydra agents, but stumbles across his past self, who mistakes him for a disguised Loki.After defeating past-Steve, Rogers meets back up with Stark and Lang, who now must figure out another way to get the Space Stone without running out of the limited supply of Pym Particles that allow them to travel through the quantum realm. Lang returns to the present with the Mind Stone while Rogers and Stark devise a plan to steal the Space Stone from a U.S. Army installation in the 1970s, while also stealing further vials of Pym Particles in order to make the journey back home. While there, Rogers sights Peggy Carter and Stark has an meaningful conversation with his father Howard.Rocket and Thor travel to Asgard to retrieve the Reality Stone before Malekith uses it against the Nine Realms. While in Asgard, Thor is reminded that his mother, Frigga, would die soon and has a chance encounter with her while Rocket steals the Aether, the vaporized version of the Reality Stone, from Jane Foster. The two return to Earth after Frigga counsels Thor and he retrieves his hammer Mjolnor, elated to discover that he is still worthy of it.Nebula and Rhodes travel to Morag to steal the Power Stone before Peter Quill does. As Rhodes returns to the present with the Power Stone, Nebula malfunctions and remains on Morag. With two consciousnesses operating on Nebula's systems, Thanos and Ebony Maw discover the presence of future Nebula and go to kidnap her. Nebula realizes what has happened and tries to warn the others, but is too late. Thanos scans her memories and discovers the Avengers' plan, and sends the more loyal past Nebula back to the present as a spy.Barton and Romanoff travel to Vormir to retrieve the Soul Stone, though are conflicted when Red Skull, keeper of the stone, informs them that it can only be retrieved by sacrificing someone they love. The two fight over which will make the sacrifice, with Romanoff ultimately taking the fall, while a distraught Barton returns to Earth with the Soul Stone.After everyone has returned to the present on Earth, Stark, Rocket, and Banner set out to craft a gauntlet to wield the stones, one constructed from the same nanotech of Stark's latest Iron Man suit. Banner volunteers himself to wield the gauntlet and bring back everyone that disappeared in Thanos' snap, reasoning that he can withstand both the gamma radiation and the immense pain and injury brought on by using the stones. He succeeds, though they are almost immediately attacked by Thanos, who has been brought to Earth by the impostor Nebula, destroying the quantum portal in the process.Thanos reduces the Avengers headquarters to rubble, splitting the team up and causing the gauntlet to fall into Barton's protection. The past Nebula is killed by her future self as she attempts to take the Infinity Stones from Barton, while Rogers, Thor, and Stark confront Thanos, who decides he will instead use the Infinity Stones to destroy the universe and create one in his vision. The three fight Thanos one on one, with Rogers confirming Thor's theory that he is worthy of wielding Mjolnor, but are each bested by Thanos.Soon after Thanos' army lands on Earth, T'Challa appears before Rogers, along with all of the Avengers and other allies revived by Banner, before launching an assault on Thanos and his army. After a lengthy battle during which Stark is reunited with Parker and Quill is reunited with past Gamora, Thanos wrestles with numerous Avengers for the Infinity Stones.When he's bound by Wanda Maximoff's energy, Thanos orders Glaive to have his ship fire multiple energy blasts, nearly devastating the Avengers' efforts. Captain Marvel reappears, taking out Thanos' ship while fighting for control of the gauntlet. Using the nanotech from the new gauntlet, Stark maneuvers the Infinity Stones from Thanos' hand to his own and uses them to turn Thanos and his entire army into ash, triumphantly stating \"I am Iron Man.\" Parker and Potts console Stark as he dies from exposure to the Stones' radiation.Following the battle, The Avengers hold a funeral for Stark, whose Mark I arc reactor is floated out on the lake next to his house. Barton and Wanda Maximoff take solace in the fact that Romanoff and Vision, who did not return in the snap, would be proud of their victory over Thanos. Thor makes Valkyrie the Queen of Asgard and joins the Guardians of the Galaxy in order to find his true purpose, free of the burden of royalty and leadership for the first time in his life. Barton returns home to his family and Parker returns to school, where he is reunited with his best friend Ned.Meanwhile, Rogers is tasked to go into the past to return the stones and Thor's hammer to their original time-lines, but decides not to return to the present and to instead live the rest of his life in the past with Carter. He reappears before Sam Wilson and Bucky Barnes as an old man, and passes his shield and the mantle of Captain America on to Wilson.A brief flashback shows Rogers and Carter in an ordinary-looking house, finally sharing the dance they never got to have in their living room, truly happy at last."
+}

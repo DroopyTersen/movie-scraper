@@ -1,0 +1,930 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg",
+  "id": 705861,
+  "title": "Hustle",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
+  "release_date": "2022-06-03",
+  "vote_average": 7.775,
+  "vote_count": 2284,
+  "popularity": 37.348,
+  "overview": "After discovering a once-in-a-lifetime player with a rocky past abroad, a down on his luck basketball scout takes it upon himself to bring the phenom to the States without his team's approval. Against the odds, they have one final shot to prove they have what it takes to make it in the NBA.",
+  "imdb_id": "tt8009428",
+  "budget": 0,
+  "homepage": "https://www.netflix.com/title/80242342/",
+  "revenue": 0,
+  "runtime": 117,
+  "tagline": "Are you obsessed with this game?",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    "SpringHill Entertainment",
+    "Roth-Kirschenbaum Films",
+    "Happy Madison Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Adam Sandler",
+        "character": "Stanley Sugerman"
+      },
+      {
+        "name": "Queen Latifah",
+        "character": "Teresa Sugerman"
+      },
+      {
+        "name": "Juancho Hernangómez",
+        "character": "Bo Cruz"
+      },
+      {
+        "name": "Anthony Edwards",
+        "character": "Kermit Wilts"
+      },
+      {
+        "name": "Kenny Smith",
+        "character": "Leon"
+      },
+      {
+        "name": "Ben Foster",
+        "character": "Vince Merrick"
+      },
+      {
+        "name": "Robert Duvall",
+        "character": "Rex Merrick"
+      },
+      {
+        "name": "Moritz Wagner",
+        "character": "Haas"
+      },
+      {
+        "name": "Jordan Hull",
+        "character": "Alex Sugerman"
+      },
+      {
+        "name": "María Botto",
+        "character": "Paola"
+      },
+      {
+        "name": "Ainhoa Pillet",
+        "character": "Lucia"
+      },
+      {
+        "name": "Jaleel White",
+        "character": "Blake - VP of Player Personnel"
+      },
+      {
+        "name": "Boban Marjanović",
+        "character": "Big Serbian - Dimitri Jovanovic"
+      },
+      {
+        "name": "Elvin Rodriguez",
+        "character": "Mr. Everything"
+      },
+      {
+        "name": "Raúl Castillo",
+        "character": "Oscar Morales"
+      },
+      {
+        "name": "Heidi Gardner",
+        "character": "Kat Merrick"
+      },
+      {
+        "name": "Michael Foster",
+        "character": "Zeke Washington"
+      },
+      {
+        "name": "Julius Erving",
+        "character": "Julius Erving"
+      },
+      {
+        "name": "Matisse Thybulle",
+        "character": "Matisse Thybulle"
+      },
+      {
+        "name": "Tobias Harris",
+        "character": "Tobias Harris"
+      },
+      {
+        "name": "Kyle Lowry",
+        "character": "Kyle Lowry"
+      },
+      {
+        "name": "Tyrese Maxey",
+        "character": "Tyrese Maxey"
+      },
+      {
+        "name": "Seth Curry",
+        "character": "Seth Curry"
+      },
+      {
+        "name": "Glenn 'Doc' Rivers",
+        "character": "Glenn 'Doc' Rivers"
+      },
+      {
+        "name": "Dirk Nowitzki",
+        "character": "Dirk Nowitzki"
+      },
+      {
+        "name": "Brad Stevens",
+        "character": "Brad Stevens"
+      },
+      {
+        "name": "Jay Wright",
+        "character": "Jay Wright"
+      },
+      {
+        "name": "Jordan Clarkson",
+        "character": "Jordan Clarkson"
+      },
+      {
+        "name": "Trae Young",
+        "character": "Trae Young"
+      },
+      {
+        "name": "Aaron Gordon",
+        "character": "Aaron Gordon"
+      },
+      {
+        "name": "Mark Jackson",
+        "character": "Mark Jackson"
+      },
+      {
+        "name": "Allen Iverson",
+        "character": "Allen Iverson"
+      },
+      {
+        "name": "Luka Dončić",
+        "character": "Luka Dončić"
+      },
+      {
+        "name": "Tim Young",
+        "character": "Tim Young"
+      },
+      {
+        "name": "Fat Joe",
+        "character": "Fat Joe"
+      },
+      {
+        "name": "Mike James",
+        "character": "Mike James"
+      },
+      {
+        "name": "Leandro Barbosa",
+        "character": "Leandro Barbosa"
+      },
+      {
+        "name": "James Goldstein",
+        "character": "James Goldstein"
+      },
+      {
+        "name": "Mark Cuban",
+        "character": "Mark Cuban"
+      },
+      {
+        "name": "Aaron Owens",
+        "character": "Aaron Owens"
+      },
+      {
+        "name": "Lonnie Harrell",
+        "character": "Lonnie Harrell"
+      },
+      {
+        "name": "Larry Williams",
+        "character": "Larry Williams"
+      },
+      {
+        "name": "Waliyy Dixon",
+        "character": "Waliyy Dixon"
+      },
+      {
+        "name": "Grayson Boucher",
+        "character": "Grayson Boucher"
+      },
+      {
+        "name": "Ty Tanner",
+        "character": "Ty Tanner"
+      },
+      {
+        "name": "Chris Matthews",
+        "character": "Chris Matthews"
+      },
+      {
+        "name": "Emeka Okafor",
+        "character": "Emeka Okafor"
+      },
+      {
+        "name": "Bill Duffy",
+        "character": "Bill Duffy"
+      },
+      {
+        "name": "Khris Middleton",
+        "character": "Khris Middleton"
+      },
+      {
+        "name": "Jeff Schwartz",
+        "character": "Jeff Schwartz"
+      },
+      {
+        "name": "Pat Croce",
+        "character": "Pat Croce"
+      },
+      {
+        "name": "Maurice Cheeks",
+        "character": "Maurice Cheeks"
+      },
+      {
+        "name": "Kristine Leahy",
+        "character": "Kristine Leahy"
+      },
+      {
+        "name": "Aaron McKie",
+        "character": "Aaron McKie"
+      },
+      {
+        "name": "Howard Wood",
+        "character": "Howard Wood"
+      },
+      {
+        "name": "Fran Fraschilla",
+        "character": "Fran Fraschilla"
+      },
+      {
+        "name": "Dan Patrick",
+        "character": "Dan Patrick"
+      },
+      {
+        "name": "Charles Barkley",
+        "character": "Charles Barkley"
+      },
+      {
+        "name": "Shaquille O'Neal",
+        "character": "Shaquille O'Neal"
+      },
+      {
+        "name": "Ernie Johnson",
+        "character": "Ernie Johnson"
+      },
+      {
+        "name": "Beanie Sigel",
+        "character": "Beanie Sigel"
+      },
+      {
+        "name": "Lonnie Cooper",
+        "character": "Lonnie Cooper"
+      },
+      {
+        "name": "Greg St. Jean",
+        "character": "Greg St. Jean"
+      },
+      {
+        "name": "Torrel Harris Jr.",
+        "character": "Torrel Harris Jr."
+      },
+      {
+        "name": "Torrel Harris Sr.",
+        "character": "Torrel Harris Sr."
+      },
+      {
+        "name": "Freeway",
+        "character": "Freeway"
+      },
+      {
+        "name": "Tierra Whack",
+        "character": "Tierra Whack"
+      },
+      {
+        "name": "Sergio Scariolo",
+        "character": "Sergio Scariolo"
+      },
+      {
+        "name": "José Calderón",
+        "character": "José Calderón"
+      },
+      {
+        "name": "Willy Hernangómez",
+        "character": "Willy Hernangómez"
+      },
+      {
+        "name": "Felipe Reyes",
+        "character": "Felipe Reyes"
+      },
+      {
+        "name": "Álex Abrines",
+        "character": "Àlex Abrines"
+      },
+      {
+        "name": "Pierre Oriola",
+        "character": "Pierre Oriola"
+      },
+      {
+        "name": "Jason Filippi",
+        "character": "Jason Filippi"
+      },
+      {
+        "name": "Igor Ormazabal",
+        "character": "Igor Ormazabal"
+      },
+      {
+        "name": "Peter Vecsey",
+        "character": "Peter Vecsey"
+      },
+      {
+        "name": "Bobby Verdun",
+        "character": "Bobby Verdun"
+      },
+      {
+        "name": "Dell Demps",
+        "character": "Dell - Asst. Coach Philadelphia 76ers"
+      },
+      {
+        "name": "Billy King",
+        "character": "76ers General Manager"
+      },
+      {
+        "name": "Joseph Vecsey",
+        "character": "Assistant General Manager"
+      },
+      {
+        "name": "Peter Dominguez",
+        "character": "Asst. Coach Philadelphia 76ers"
+      },
+      {
+        "name": "Dave Joerger",
+        "character": "Asst. Coach Philadelphia 76ers"
+      },
+      {
+        "name": "Christian Crosby",
+        "character": "Executive Assistant"
+      },
+      {
+        "name": "Ron Hoover",
+        "character": "Tattooed Player"
+      },
+      {
+        "name": "Bob Steitz",
+        "character": "76ers Personnel #1"
+      },
+      {
+        "name": "Owen Morin",
+        "character": "76ers Personnel #2"
+      },
+      {
+        "name": "Kareek Best",
+        "character": "76ers Personnel #3"
+      },
+      {
+        "name": "Rebecca Rodriguez",
+        "character": "76ers Personnel #4"
+      },
+      {
+        "name": "Andrew Dean",
+        "character": "76ers Personnel #5"
+      },
+      {
+        "name": "Kathryn Alario",
+        "character": "76ers Woman Executive (Gym)"
+      },
+      {
+        "name": "Jill Snodgrass",
+        "character": "76ers Woman Executive (Stairs)"
+      },
+      {
+        "name": "Brittanie Boyd",
+        "character": "Brittanie - 76ers Stats"
+      },
+      {
+        "name": "Leland Smith",
+        "character": "76ers Executive Assistant"
+      },
+      {
+        "name": "Mark Milano",
+        "character": "Ball Boy - 76ers Practice"
+      },
+      {
+        "name": "Anthony L. Gargano",
+        "character": "Local Reporter #1"
+      },
+      {
+        "name": "Andrew J. Perloff",
+        "character": "Local Reporter #2"
+      },
+      {
+        "name": "Thaddeus Daniels",
+        "character": "German Fixer - Felix"
+      },
+      {
+        "name": "Jon Collin Barclay",
+        "character": "German Sports Agent - Hans Larsson"
+      },
+      {
+        "name": "William Franke",
+        "character": "German Telekom Security Guard"
+      },
+      {
+        "name": "Santiago Kuster Galetto",
+        "character": "Spanish Fixer"
+      },
+      {
+        "name": "Ivica Marc",
+        "character": "Serbian Fixer"
+      },
+      {
+        "name": "Oscar Pavlo",
+        "character": "Serbian Manager / Translator"
+      },
+      {
+        "name": "Nenad Ninkovic",
+        "character": "Serbian Security Guard"
+      },
+      {
+        "name": "Dragana Argirovic",
+        "character": "Serbian Wife"
+      },
+      {
+        "name": "Nielsen Gordon",
+        "character": "Tall Serbian Teen"
+      },
+      {
+        "name": "Vladimir Pavlovic",
+        "character": "Serbian Trainer / Coach"
+      },
+      {
+        "name": "Aila Troxel",
+        "character": "Alex's Friend #1"
+      },
+      {
+        "name": "Jaidyn Hires",
+        "character": "Alex's Friend #2"
+      },
+      {
+        "name": "Todd Vulpio",
+        "character": "Loew's Valet"
+      },
+      {
+        "name": "Noelle Gentile",
+        "character": "Swimmer"
+      },
+      {
+        "name": "Andrea Sooch",
+        "character": "German Wife"
+      },
+      {
+        "name": "Peter Linari",
+        "character": "German Man"
+      },
+      {
+        "name": "Sidney Allen",
+        "character": "Cardinal Hayes Check in Guy"
+      },
+      {
+        "name": "Liz Wiest",
+        "character": "Flight Attendant"
+      },
+      {
+        "name": "Marko Christie",
+        "character": "Philly Fan"
+      },
+      {
+        "name": "Olivia Daniels",
+        "character": "Little Daughter"
+      },
+      {
+        "name": "John D. Kay Jr.",
+        "character": "Jack in Security Guard"
+      },
+      {
+        "name": "Bennett Gruninger",
+        "character": "Officier Richard"
+      },
+      {
+        "name": "Oliver Morton",
+        "character": "Cyclist"
+      },
+      {
+        "name": "Sunny Sandler",
+        "character": "Greek 13 Yr Old Girl"
+      },
+      {
+        "name": "Anthony Capozzoli",
+        "character": "Bartender"
+      },
+      {
+        "name": "Tyreek Cade",
+        "character": "Prison Tat"
+      },
+      {
+        "name": "Denzel Jackson",
+        "character": "Philly Baller"
+      },
+      {
+        "name": "Alejandra Bitti Ibañez",
+        "character": "Waitress"
+      },
+      {
+        "name": "Marie Rose Segarra Mebuy",
+        "character": "Hostess"
+      },
+      {
+        "name": "Thomas Aquino",
+        "character": "Rex's Driver - Carl"
+      },
+      {
+        "name": "Xavier Nuñez",
+        "character": "Spanish Man on TV"
+      },
+      {
+        "name": "Zaila Avant-garde",
+        "character": "13 Yr Old Street Baller"
+      },
+      {
+        "name": "Josiah Gabriel",
+        "character": "Teen with Drone"
+      },
+      {
+        "name": "Evan Rosado",
+        "character": "Social Media Teen #1"
+      },
+      {
+        "name": "Isaiah Allen",
+        "character": "Social Media Teen #2"
+      },
+      {
+        "name": "Toonyun",
+        "character": "Chinese Mom"
+      },
+      {
+        "name": "Qing Fang Pang",
+        "character": "7-Foot Chinese Player"
+      },
+      {
+        "name": "Diakite Boubcar Sidik Bouki",
+        "character": "Stoned Player"
+      },
+      {
+        "name": "Samuel Muriithi",
+        "character": "Arguing African Fan"
+      },
+      {
+        "name": "Jalani Benton",
+        "character": "Nigerian Player's Friend #1"
+      },
+      {
+        "name": "Christlo C. Gittens",
+        "character": "Nigerian Player's Friend #2"
+      },
+      {
+        "name": "Darrin Barber",
+        "character": "Nigerian Player's Friend #3"
+      },
+      {
+        "name": "Chad Johnson",
+        "character": "Combine Referee"
+      },
+      {
+        "name": "Victor Corsino",
+        "character": "Combine Official #1"
+      },
+      {
+        "name": "Nicole Kornet",
+        "character": "Combine Official #2"
+      },
+      {
+        "name": "Lyman Chen",
+        "character": "Combine Official #3"
+      },
+      {
+        "name": "Lawrence Settles",
+        "character": "Combine Official #4"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Elmo Weber",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Mike Topoozian",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Adam Sandler",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Perry Andelin Blake",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Joe Roth",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jeff Kirschenbaum",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Alan Au",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Johnetta Boone",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Nicholaus Goossen",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Tom Costain",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Claire Kaufman",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Ann Pala",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "LeBron James",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Will Fetters",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Jeremiah Zagar",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Pamela Peitzman",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Dan Deacon",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Zak Mulligan",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "David Schlesinger",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Maverick Carter",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jeffrey Lee Gibson",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Stephanie Hamilton",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Kristen Ploucha",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Ryan Heck",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Bryan Felty",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Ronit Ravich-Boss",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Mia Neal",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Xanthus Valan",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Michele Ziegler",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Caroline Vexler",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Jeremy Yaches",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Quenell Jones",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Luis Gerard",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Arthur Scipio Africano",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Stewart Cantrell",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Stewart Cantrell",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Boyd Shermis",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Zack Roth",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Troy Dobbertin",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Eve Strickman",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Tracey Poirier",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Kevin Isenberg",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Autumn Moran",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Alec Freund",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Jamal Henderson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Tim Sessler",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Tim Sessler",
+        "department": "Camera",
+        "job": "\"C\" Camera Operator"
+      },
+      {
+        "name": "Jay Rogers",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Taylor Materne",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Brian M. Robinson",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Spencer Beighley",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Robert Lau",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Bethany Serpico",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Mike Toland",
+        "department": "Camera",
+        "job": "First Assistant \"C\" Camera"
+      },
+      {
+        "name": "Michael Scott Manne",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "James McCann",
+        "department": "Camera",
+        "job": "Second Assistant \"C\" Camera"
+      },
+      {
+        "name": "Kiko Prieto",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Tsyen Shen",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Katie McGregor",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kimberly Herman",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Johnny DelToro",
+        "department": "Sound",
+        "job": "Apprentice Sound Editor"
+      }
+    ]
+  },
+  "keywords": [
+    "spain",
+    "sports",
+    "training",
+    "basketball",
+    "teenage pregnancy",
+    "basketball player",
+    "opportunity",
+    "dramedy",
+    "interracial family"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A basketball scout discovers a phenomenal street ball player while in Spain and sees the prospect as his opportunity to get back into the NBA.",
+    "After being fired, pro basketball scout, Stanley Sugerman, is excited, for the first time in a very long while, when he serendipitously discovers Spanish amateur baller, Bo Cruz, playing in a park outside Madrid. Fueled with new-found purpose, Stanley makes it his mission to groom Bo for the NBA as he believes they both can make it.",
+    "Bo Cruz is a young man in Spain who is a very good basketball player but is unknown in the sports world. He is discovered by a visiting American basketball scout Stanley ( ex NBA) who sees great potential in him. He trains him rigorously and grooms him for NBA. Stanley also sees this as a chance to get back into NBA. Will he be successful in his mission?—Madan Marwah"
+  ],
+  "synopsis": ""
+}

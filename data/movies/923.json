@@ -1,0 +1,779 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+  "id": 923,
+  "title": "Dawn of the Dead",
+  "poster_path": "https://image.tmdb.org/t/p/w500/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg",
+  "release_date": "1978-09-02",
+  "vote_average": 7.487,
+  "vote_count": 1930,
+  "popularity": 32.017,
+  "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+  "imdb_id": "tt0077402",
+  "budget": 650000,
+  "homepage": "",
+  "revenue": 55000000,
+  "runtime": 127,
+  "tagline": "When there’s no more room in HELL, the dead will walk the EARTH!",
+  "genres": [
+    "Horror"
+  ],
+  "production_companies": [
+    "Dawn Associates",
+    "Laurel Entertainment"
+  ],
+  "production_countries": [
+    "IT",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "David Emge",
+        "character": "Stephen \"Flyboy\" Andrews"
+      },
+      {
+        "name": "Ken Foree",
+        "character": "Peter Washington"
+      },
+      {
+        "name": "Scott H. Reiniger",
+        "character": "Roger \"Trooper\" DeMarco"
+      },
+      {
+        "name": "Gaylen Ross",
+        "character": "Francine \"Fran\" Parker"
+      },
+      {
+        "name": "David Crawford",
+        "character": "Dr. James Foster"
+      },
+      {
+        "name": "David Early",
+        "character": "Sidney Berman"
+      },
+      {
+        "name": "Richard France",
+        "character": "Dr. Milliard Rausch"
+      },
+      {
+        "name": "Howard Smith",
+        "character": "TV Commentator"
+      },
+      {
+        "name": "Daniel Dietrich",
+        "character": "Dan Givens"
+      },
+      {
+        "name": "Fred Baker",
+        "character": "Police Commander"
+      },
+      {
+        "name": "James A. Baffico",
+        "character": "Wooley"
+      },
+      {
+        "name": "Rod Stouffer",
+        "character": "Roy Tucker"
+      },
+      {
+        "name": "Jese Del Gre",
+        "character": "Old Priest"
+      },
+      {
+        "name": "Clayton McKinnon",
+        "character": "Officer in Project Apt."
+      },
+      {
+        "name": "John Rice",
+        "character": "Officer in Project Apt."
+      },
+      {
+        "name": "Ted Bank",
+        "character": "Officer at Police Dock"
+      },
+      {
+        "name": "Randy Kovitz",
+        "character": "Officer at Police Dock"
+      },
+      {
+        "name": "Patrick McCloskey",
+        "character": "Officer at Police Dock"
+      },
+      {
+        "name": "Joseph Pilato",
+        "character": "Officer at Police Dock"
+      },
+      {
+        "name": "Pasquale Buba",
+        "character": "Motorcycle Raider"
+      },
+      {
+        "name": "Tony Buba",
+        "character": "Motorcycle Raider"
+      },
+      {
+        "name": "Tom Savini",
+        "character": "Motorcycle Raider"
+      },
+      {
+        "name": "Larry Vaira",
+        "character": "Motorcycle Raider"
+      },
+      {
+        "name": "Marty Schiff",
+        "character": "Motorcycle Raider"
+      },
+      {
+        "name": "Taso N. Stavrakis",
+        "character": "Motorcycle Raider"
+      },
+      {
+        "name": "Sharon Ceccatti",
+        "character": "Lead Zombie (Nurse)"
+      },
+      {
+        "name": "Mike Christopher",
+        "character": "Lead Zombie (Hare Krishna)"
+      },
+      {
+        "name": "Clayton Hill",
+        "character": "Lead Zombie"
+      },
+      {
+        "name": "John Amplas",
+        "character": "2nd Guy on Roof (uncredited)"
+      },
+      {
+        "name": "Greg Besnak",
+        "character": "Fu Manchu Zombie (uncredited)"
+      },
+      {
+        "name": "Rik Billock",
+        "character": "Gray Suited Zombie (uncredited)"
+      },
+      {
+        "name": "Christine Forrest",
+        "character": "TV Producer / Zombie / Mall Announcer (voice) (uncredited)"
+      },
+      {
+        "name": "Roy Frumkes",
+        "character": "Pie-in-Face Zombie (uncredited)"
+      },
+      {
+        "name": "Debra Gordon",
+        "character": "Red Turtleneck Sweater Zombie (uncredited)"
+      },
+      {
+        "name": "Michael Gornick",
+        "character": "Radio News Reporter (voice) (uncredited)"
+      },
+      {
+        "name": "Jim Krut",
+        "character": "Helicopter Zombie (uncredited)"
+      },
+      {
+        "name": "Donald Rubinstein",
+        "character": "Parking Lot Zombie (uncredited)"
+      },
+      {
+        "name": "George A. Romero",
+        "character": "TV Director / Biker (uncredited)"
+      },
+      {
+        "name": "Warner Shook",
+        "character": "Security Guard Zombie (uncredited)"
+      },
+      {
+        "name": "Sara Venable",
+        "character": "Leotard Zombie (uncredited)"
+      },
+      {
+        "name": "Laura Ziemba",
+        "character": "Ice Skating Rink Zombie"
+      },
+      {
+        "name": "Robert Williams",
+        "character": "Soldier in Apartment Project"
+      },
+      {
+        "name": "John 'Weezer' Wickerham",
+        "character": "Black Knit Cap Sunglasses Bearded Biker"
+      },
+      {
+        "name": "Vickie Walters",
+        "character": "Brown Leather Jacket Biker Chick"
+      },
+      {
+        "name": "Billie Walters",
+        "character": "Biker Chick Wearing Brown Headband"
+      },
+      {
+        "name": "Vincent Vok",
+        "character": "WGON - TV Station Employee"
+      },
+      {
+        "name": "Susan Vermazen",
+        "character": "Dark Curly Haired Plaid Shirted Zombie"
+      },
+      {
+        "name": "Bobbi Van Eman",
+        "character": "Beautiful Curly Haired Female WGON-TV Technician"
+      },
+      {
+        "name": "Jeanette Lansel Vaira",
+        "character": "Biker Chick"
+      },
+      {
+        "name": "Danny Vail",
+        "character": "Mall Zombie"
+      },
+      {
+        "name": "Milt Thompson",
+        "character": "Checkered Shirted Zombie Who Attacks Stephen"
+      },
+      {
+        "name": "Ralph Tallo",
+        "character": "Stephen's Grey Suited Airport Zombie Attacker"
+      },
+      {
+        "name": "Stephen M. Silverman",
+        "character": "Zombie"
+      },
+      {
+        "name": "Donna Siegel",
+        "character": "Dark Haired Light Brown Bloused Woman"
+      },
+      {
+        "name": "Gina Sestak",
+        "character": "Longhaired Glasses Zombie"
+      },
+      {
+        "name": "Frank A. Serrao",
+        "character": "Fat Grey-Suited Zombie"
+      },
+      {
+        "name": "Mike Savini",
+        "character": "Zombie Boy in Airport Chart House"
+      },
+      {
+        "name": "Donna Savini",
+        "character": "Zombie Girl in Airport Chart House"
+      },
+      {
+        "name": "Charlie Peters",
+        "character": "Bearded White Collared Shirted WGON-TV Crew Member"
+      },
+      {
+        "name": "Jeff Paul",
+        "character": "Biker Who Shoots Flyboy"
+      },
+      {
+        "name": "Ken Nagin",
+        "character": "Pendant Headband Biker with Axe"
+      },
+      {
+        "name": "Robert V. Michelucci",
+        "character": "Bearded Scope Zombie / Zombie Who Attacks Mousey"
+      },
+      {
+        "name": "Doug Mertz",
+        "character": "Preppie Zombie - 2nd Pie-In Face"
+      },
+      {
+        "name": "Molly McCloskey",
+        "character": "Lovely Woman at WGON (uncredited)"
+      },
+      {
+        "name": "Nicholas Mastandrea",
+        "character": "Mall Zombie Outside Gun Store"
+      },
+      {
+        "name": "Leonard Lies",
+        "character": "Machete Zombie"
+      },
+      {
+        "name": "Ed Letteri",
+        "character": "Long-Haired Man by Door at WGON-TV"
+      },
+      {
+        "name": "Maxine Lapiduss",
+        "character": "Redhead Zombie Outside J.C. Penny"
+      },
+      {
+        "name": "Robert Langer",
+        "character": "Mustachioed Plaid-Shirted Zombie Eating Bikers' Flesh"
+      },
+      {
+        "name": "Ralph Langer",
+        "character": "Green Collared-Shirted Zombie in Ice Skating Rink"
+      },
+      {
+        "name": "Tommy Lafitte",
+        "character": "Miguel, The Zombie"
+      },
+      {
+        "name": "'Wild Bill' Laczko",
+        "character": "Head Bandage Redneck"
+      },
+      {
+        "name": "Katherine Kolbert",
+        "character": "Brunette Biker Chick Throwing Pies and Cakes"
+      },
+      {
+        "name": "C. Courtney Joyner",
+        "character": "Zombie Wearing Eyeglasses"
+      },
+      {
+        "name": "Jeannie Jefferies",
+        "character": "Blonde Zombie Who Attacks Roger in Truck"
+      },
+      {
+        "name": "Jon Hayden",
+        "character": "Featured Zombie"
+      },
+      {
+        "name": "John Harrison",
+        "character": "Screwdriver Zombie"
+      },
+      {
+        "name": "Barry Gress",
+        "character": "Parking Lot Zombie Knocking Sign Over"
+      },
+      {
+        "name": "Ingeborg Forrest",
+        "character": "Mall Zombie Wearing Blue Nightgown"
+      },
+      {
+        "name": "Cliff Forrest",
+        "character": "Tony, Man at WGON - TV ('You all right?')"
+      },
+      {
+        "name": "Tom Dubensky",
+        "character": "Young WGON-TV Man Wearing Plaid Shirt"
+      },
+      {
+        "name": "Zilla Clinton",
+        "character": "Blonde Biker Chick Riding Motorcycle"
+      },
+      {
+        "name": "Mary Lee Casey",
+        "character": "Featured Light Blue Bathrobe Zombie"
+      },
+      {
+        "name": "Adolph Caesar",
+        "character": "Narrator of Theatrical Trailer"
+      },
+      {
+        "name": "David W. Butler",
+        "character": "2nd Biker in Elevator"
+      },
+      {
+        "name": "Ben Barenholtz",
+        "character": "Cowboy Hat Zombie Hit by Sledge"
+      },
+      {
+        "name": "Renee Banks",
+        "character": "Wild Haired Plaid Shirted Apartment Zombie"
+      },
+      {
+        "name": "Joe Abeln",
+        "character": "Redneck Rifleman That Misses"
+      },
+      {
+        "name": "Nick Tallo",
+        "character": "Motorcycle Raider"
+      },
+      {
+        "name": "Joe Shelby",
+        "character": "Motorcycle Raider"
+      },
+      {
+        "name": "Rudy Ricci",
+        "character": "Motorcycle Raider"
+      },
+      {
+        "name": "Joey Baffico",
+        "character": "Zombie Attacking Roger (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "George A. Romero",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "George A. Romero",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "George A. Romero",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Dario Argento",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Dario Argento",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Dario Argento",
+        "department": "Writing",
+        "job": "Script Consultant"
+      },
+      {
+        "name": "Tom Savini",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Tom Savini",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Tom Savini",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Richard P. Rubinstein",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Agostino Marangolo",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Massimo Morante",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Fabio Pignatelli",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Claudio Simonetti",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Michael Gornick",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "John Amplas",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "John Amplas",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Josie Caruso",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Josie Caruso",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Barbara Lifsher",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Nancy Allen",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Jeannie Jefferies",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Zilla Clinton",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Jay Stover",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Tony Buba",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Tony Buba",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "name": "Gary Zeller",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Arthur J. Canestro",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Joseph A. Campayno",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Nicholas Mastandrea",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Joseph Pilato",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Claudio Argento",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Taso N. Stavrakis",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Taso N. Stavrakis",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Christine Forrest",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Randy Kovitz",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "John Rice",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "name": "Robert Williams",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Marty Schiff",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Benjamin Meade",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Clayton McKinnon",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Ted Bank",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Tom Dubensky",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Joe Shelby",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joe Shelby",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Tom Wholey",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Rick Dior",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Greg Besnak",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Alfredo Cuomo",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Billy 'Silver Dollar' Baxter",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "name": "Leonard Lies",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Michael Lies",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Donna Siegel",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Joseph Eberle",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Leonard DeStefans",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "John Konter",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Carl Scott",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Trudy Gray",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Trudy Gray",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Carl Augenstein",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Dan Bertha",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Bradley Drumheller",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Cliff Forrest",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Katherine Kolbert",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Ken Nagin",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Daniel Silk",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Ellen Hopkins",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Kenneth Davidow",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Frank A. Serrao",
+        "department": "Production",
+        "job": "Production Driver"
+      }
+    ]
+  },
+  "keywords": [
+    "helicopter",
+    "army",
+    "chaos",
+    "bite",
+    "materialism",
+    "machete",
+    "gore",
+    "martial law",
+    "state of emergency",
+    "shopping mall",
+    "infection",
+    "biker",
+    "truck",
+    "consumerism",
+    "zombie",
+    "motorcycle gang",
+    "exploding head",
+    "mall",
+    "tv production",
+    "zombie apocalypse",
+    "pittsburgh, pennsylvania"
+  ],
+  "mpaa": "NC-17",
+  "summaries": [
+    "During an escalating zombie epidemic, two Philadelphia SWAT team members, a traffic reporter and his TV executive girlfriend seek refuge in a secluded shopping mall.",
+    "The zombie apocalypse has hit Earth. Two personnel from a TV station and two policemen set off in a helicopter to find a safe place to hide out. Their search leads them to a shopping mall where they manage to find a place that, while not zombie-free, is quite secure. So far, so good.—grantss",
+    "Following the events of Night of the Living Dead (1968), we follow the exploits of four survivors of the expanding zombie apocalypse as they take refuge in an abandoned shopping mall following a horrific SWAT evacuation of an apartment complex. Taking stock of their surroundings, they arm themselves, lock down the mall, and destroy the zombies inside so they can eke out a living--at least for a while. Tensions begin to build as months go on, and they come to realize that they've fallen prey to consumerism. Soon afterward, they have even heavier problems to worry about, as a large gang of bikers discovers the mall and invades it, ruining the survivors' best-laid plans and forcing them to fight off both lethal bandits and flesh-eating zombies.—Curly Q. Link",
+    "Sequel of \"Night of the Living Dead.\" It's some time after the dead have started to rise and attack the shocked living, and civilization has started to crumble. In the city of Philadelphia, Pennsylvania, USA, TV station workers Stephen and Francine decide to run as the situation worsens and, after meeting Roger and Peter, two special policemen ordered to move any people into rescue stations who have also choose to run, steal the station's helicopter and fly west in an attempt to find a safe place. After several attempts during their flight across Pennsylvania, they find a deserted mega-mall in Monroeville, outside Pittsburgh, and decide to wait there until the crisis is over. They clear the mall of the undead and board the entrances up with tractor-trailers and then sit down and wait. Can they hold out, not only against the growing, moaning, and hungry masses of the undead outside, against murderous looters, but, most importantly of all, can they hold out and not lose their sanity...?—Lee Horton <Leeh@tcp.co.uk>",
+    "This sequel of \"Night of the Living Dead\" is filled with splattered blood and brains in living color. The dead have come back to life to eat the living. This is the story of the escape of four people from an urban nightmare to a suburban nightmare. They barricade themselves in a shopping mall and try to start new lives. Much of this movie was filmed outside Pittsburgh.—Mark Logan <marklo@west.sun.com>"
+  ],
+  "synopsis": "Tensions are running high in the United States. The recently deceased are returning to life as shambling, flesh-eating ghouls, and political dissidents are threatening social stability. In the city of Philadelphia, Fran (Gaylen Ross) an employee of WGON-TV and Radio learns that her program director Givens is broadcasting out-of-date information about rescue stations that have been overrun by the living dead. Fran's boyfriend Stephen (David Emge), who pilots the station's traffic helicopter, arrives at the station and tells her that they must escape in order to survive. He plans on stealing the station's helicopter and tells Fran to meet him on the roof at 9pm.Meanwhile, in another part of Philadelphia, the city's SWAT team is preparing to launch an assault on a low-income tenement building filled with African-American and Hispanic refugees who refuse to leave their homes for emergency shelters; they also refuse to give up their dead, both deceased and re-animated, harboring them in the basement of the tenement. After a gun battle with armed bandits on the roof, the police and National Guard soldiers break into the building using tear gas. Roger (Scott H. Reiniger) one of the SWAT troopers, becomes disgusted by the bloodthirsty behavior of some of their fellow SWAT members when one of them, named Wooley, goes crazy and begins shooting at both zombies and innocent bystanders. A tall figure in a gas mask shoots the rogue officer dead.Roger retreats to the basement to escape the confusion, but the tall figure follows him. He removes his mask and reveals himself to be an imposing man named Peter (Ken Foree). They smoke cigarettes and talk for a few minutes and agree that the zombie plague will only get worse. Roger tells Peter about his friend who has a helicopter; he plans to leave with Stephen and Fran, and suggests Peter join their escape. The two SWAT men are startled when a elderly Hispanic priest emerges from a room in the cellar; the man is missing a leg and walks with a crutch. He tells them that he has administered the last rites to the dead people in the next room, and that the soldiers may now \"do what they will\" with them. Peter and Roger kill all the zombies in the cellar, nearly overcome by the gravity of the situation.Meanwhile, Stephen and Fran arrive in their helicopter at an abandoned police station pier on the Delaware River to refuel and wait for Roger to show up. They are surprised when four rogue policemen arrive and threaten them for looting the place. Roger and Peter arrive and the rogue cops back down allowing the four to go on their way. Stephen and Fran are surprised that Roger has brought someone with him, but they agree to take Peter with them. The four of them fly all night.In the morning, Stephen lands the helicopter at a small, deserted rural airport depot to refuel. While exploring the area, zombies, wandering nearby or lurking among the scant cover, attack them. Stephen tries to prove his manliness before Fran -- who is carrying his child -- but he is both clumsy and a poor shot. Roger has to kill the zombies Stephen weakly shoots at, and Stephen nearly kills Peter when aiming for a zombie. Peter becomes infuriated, aiming his rifle at Steven to scare him.Later, while in the air again, they see a deserted shopping mall. They land on its roof and break in through a skylight to rest and to collect supplies. The parking lots are full of zombies and the interior of the mall has many of them milling about inside -- the group theorizes that the undead were drawn to a place that had meant something to them when they were alive. Despite the growing number of undead outside, the four refugees realize that they could survive there for a long time. It even has a gun shop so they will be able to find weapons to defend themselves and ammunition for the arms they already have. Using the mall's floor plans and master keys, Peter, Roger and Stephen race around the mall, collecting the supplies they will need to make a home. They take these supplies to an upstairs area where they and Fran build a home in an annex of former offices and storage rooms. Fran is resistant to the idea; she thinks it is a bad idea to leave what is left of society, but perhaps because she is pregnant and wants to do what's best for her child, she stays. She is later accosted by one of the zombies and insists that she never be left alone again and that they teach her to shoot properly so she can defend herself and that Stephen teach her how to fly the chopper if anything happens to him.The next day, the group realizes they need to clear all the walking dead out of the rest of the mall. A decision is made to block the entrances to the mall with semi-trucks from a nearby warehouse. While Stephen circles the operation in his helicopter, Peter and Roger hot-wire the trucks and drive them to the mall. Peter is disturbed that Roger seems to be losing his grip on reality; he becomes arrogant and takes unnecessary risks in order to demonstrate his mastery of the situation, earning a stern lecture from Peter, who tells him he's risking his partner's life as much as his own. Roger is still arrogant and dismissive and unfortunately, he is bitten by zombies while trying to retrieve the toolkit he'd left behind. They all realize that Roger's wound will prove fatal, as nobody can survive a bite for more than a few days. Fran is conflicted; she wants to take Roger to a medical facility, but the others won't hear of it. They are convinced Roger is doomed but decide to let the \"disease\" run its course.Over the next several days, they begin to make the mall their home. They care for the ailing Roger as best they can, but his condition rapidly deteriorates until it is clear he is on the verge of death. Peter and Stephen build a fake wall in front of the only hallway that leads to their home, disguising it from any potential looters that may come through the area. They monitor a television to see if the zombie crisis ever ends but the news is dismal. Roger makes Peter promise to kill him if he reanimates. Roger does return, however, and Peter is forced to shoot his animated corpse in the head. They bury Roger inside of a large planter that houses decorative palm trees inside the mall.One night, Peter prepares a romantic dinner for Fran and Stephen. When Peter leaves them alone, Stephen proposes marriage to Fran. Fran declines, saying that they can't make that kind of commitment given what has become of the world. \"It wouldn't be real,\" she explains. Stephen seems to be depressed by her refusal.Over the next few months, the three survivors, Stephen, Fran, and Peter, have hauled various items from the mall (furniture, appliances, etc) in the office space as their home. Fran is now showing signs of her pregnancy as she walks around the windowless apartment. Peter is seen unhappily hitting tennis balls against a wall on the roof of the mall to relieve his boredom. By now, there are hundreds of zombies wondering around the empty acres of the parking lot that surrounds the mall.Eventually, all television and radio transmissions cease. The remaining three bicker as their sense of isolation and claustrophobia gets stronger. One evening, Stephen and Peter play cards using the worthless cash stolen from the mall bank, while Fran cooks them dinner. During the dinner, Fran becomes annoyed by the white noise static from the nearby TV set and asks to turn it off -- there hasn't been a broadcast in three days. Stephen refuses to turn off the TV set. Fran gets up from the table and turns off the TV before returning to her place at the table. Stephen promptly rises and defiantly turns the TV back on. Fran then exclaims, \"what have we done to ourselves?!\" It is here that all three of them realize that the goods they have that meant something to the civilized world mean nothing now. Their place of sanctuary has become more of a prison.During one of her lessons when teaches her how to fly it, Fran and Stephen are spotted by a gang of motorcycle-riding survivalists who have been casing the mall. That evening, the survivalists/looters approach, coveting the supplies inside the mall. They try to contact Peter, Fran and Stephen by radio, but Peter is smart enough not to respond. He knows that they will be killed if the survivalists find them. His plan is to let the looters break in and take what they want, then leave, betting that they won't find the camouflaged entrance to their home. The looters break into the mall, and zombies flood in with them. Stephen, believing that the mall belongs to him and his friends, sneaks into the mall and tries to shoot the bikers, who return fire. With no choice but to help his friend, Peter creeps through air shafts, picking off isolated bikers and zombies. Unable to cope with both Peter and the zombies, the bikers decide to leave. Before they do, two of them enter the elevator where Stephen is hiding on top, and begin blindly shooting, severely wounding him. He is later attacked and bitten by zombies, and dies in the elevator. In the mall, the zombies corner and eviscerate several of the remaining looters.Peter returns to their hidden apartment and waits with Fran; they are unsure if Stephen has survived, but they know he will return either way. Now a zombie, Stephen remembers how to get through the hidden wall to the storeroom. He leads the horde of zombies up the stairwell. When the zombie Stephen appears, Peter kills him. He tells Fran to leave, refusing to go with her. He helps Fran onto the roof, where she prepares the helicopter. Peter stays in the storeroom, waiting for the zombies to flock in and planning to shoot himself before they can grab him. But at the last minute, he decides he wants to live and fights his way through the zombies to the helicopter. Fran delayed taking off until the last possible moment, and Peter is able to hop into the helicopter. The two fly off to an uncertain future, with little fuel left."
+}

@@ -1,0 +1,958 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/yWIjNZpQSVGD2YgpGorFVf1MJb0.jpg",
+  "id": 9833,
+  "title": "The Phantom of the Opera",
+  "poster_path": "https://image.tmdb.org/t/p/w500/aTsp2VTaCBiGs8w05OTXfD97FRZ.jpg",
+  "release_date": "2004-12-08",
+  "vote_average": 7.249,
+  "vote_count": 1509,
+  "popularity": 28,
+  "overview": "Deformed since birth, a bitter man known only as the Phantom lives in the sewers underneath the Paris Opera House. He falls in love with the obscure chorus singer Christine, and privately tutors her while terrorizing the rest of the opera house and demanding Christine be given lead roles.",
+  "imdb_id": "tt0293508",
+  "budget": 70000000,
+  "homepage": "",
+  "revenue": 154700000,
+  "runtime": 143,
+  "tagline": "The classic musical comes to the big screen for the first time.",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Odyssey Entertainment",
+    "Scion Films",
+    "The Really Useful Group"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Gerard Butler",
+        "character": "The Phantom"
+      },
+      {
+        "name": "Emmy Rossum",
+        "character": "Christine"
+      },
+      {
+        "name": "Patrick Wilson",
+        "character": "Raoul"
+      },
+      {
+        "name": "Miranda Richardson",
+        "character": "Madame Giry"
+      },
+      {
+        "name": "Minnie Driver",
+        "character": "Carlotta"
+      },
+      {
+        "name": "Ciarán Hinds",
+        "character": "Firmin"
+      },
+      {
+        "name": "Simon Callow",
+        "character": "Andre"
+      },
+      {
+        "name": "Victor McGuire",
+        "character": "Piangi"
+      },
+      {
+        "name": "Jennifer Ellison",
+        "character": "Meg Giry"
+      },
+      {
+        "name": "Murray Melvin",
+        "character": "Reyer"
+      },
+      {
+        "name": "Kevin McNally",
+        "character": "Buquet"
+      },
+      {
+        "name": "James Fleet",
+        "character": "Lefevre"
+      },
+      {
+        "name": "Imogen Bain",
+        "character": "Carlotta's Maid"
+      },
+      {
+        "name": "Miles Western",
+        "character": "Carlotta's Wigmaker"
+      },
+      {
+        "name": "Judith Paris",
+        "character": "Carlotta's Seamstress"
+      },
+      {
+        "name": "Halcro Johnston",
+        "character": "Passirino"
+      },
+      {
+        "name": "Paul Brooke",
+        "character": "Auctioneer"
+      },
+      {
+        "name": "Oliver Chopping",
+        "character": "Porter"
+      },
+      {
+        "name": "Alison Skilbeck",
+        "character": "Nun / Nurse"
+      },
+      {
+        "name": "Lee Sellers",
+        "character": "Chauffeur"
+      },
+      {
+        "name": "Ramin Karimloo",
+        "character": "Christine's Father"
+      },
+      {
+        "name": "Chris Overton",
+        "character": "Young Phantom"
+      },
+      {
+        "name": "Jesika Cannon",
+        "character": "Young Christine"
+      },
+      {
+        "name": "Annabel Porter",
+        "character": "Young Meg"
+      },
+      {
+        "name": "Laura Hounsom",
+        "character": "Young Madame Giry"
+      },
+      {
+        "name": "Lorraine Stewart",
+        "character": "Ballet Tart"
+      },
+      {
+        "name": "Lucy Casson",
+        "character": "Ballet Tart"
+      },
+      {
+        "name": "Jonathan D. Ellis",
+        "character": "Fop"
+      },
+      {
+        "name": "Jose Tirado",
+        "character": "Lead Male Dancer / Flamenco Dancer / Masquerade Dancer"
+      },
+      {
+        "name": "David Langham",
+        "character": "Fop #1 / Male Ensemble"
+      },
+      {
+        "name": "Sebastien Torkia",
+        "character": "Ballet Boy"
+      },
+      {
+        "name": "Chris Jarvis",
+        "character": "Ballet Boy / Flamenco Dancer / Masquerade Dancer"
+      },
+      {
+        "name": "Liesl Dowsett",
+        "character": "Ballet Girl / Masquerade Dancer"
+      },
+      {
+        "name": "Greet Botterman",
+        "character": "Ballet Girl / Masquerade Dancer"
+      },
+      {
+        "name": "Kirsty Tapp",
+        "character": "Ballet Girl / Masquerade Dancer"
+      },
+      {
+        "name": "Amy Lawson",
+        "character": "Ballet Girl / Masquerade Dancer"
+      },
+      {
+        "name": "Tess Cunningham",
+        "character": "Ballet Girl / Masquerade Dancer"
+      },
+      {
+        "name": "Kathryn Dunn",
+        "character": "Ballet Girl / Flamenco Dancer"
+      },
+      {
+        "name": "Pia Driver",
+        "character": "Ballet Girl / Flamenco Dancer / Masquerade Dancer"
+      },
+      {
+        "name": "Sophia Hurdley",
+        "character": "Ballet Girl"
+      },
+      {
+        "name": "Elena Buda",
+        "character": "Ballet Girl"
+      },
+      {
+        "name": "Mark Carroll",
+        "character": "Male Ensemble"
+      },
+      {
+        "name": "Brian Wheeler",
+        "character": "Opera Chorus"
+      },
+      {
+        "name": "Terry Kelly",
+        "character": "Male Ensemble"
+      },
+      {
+        "name": "David Arneil",
+        "character": "Male Ensemble"
+      },
+      {
+        "name": "John Griffiths",
+        "character": "Male Ensemble"
+      },
+      {
+        "name": "Graham McDuff",
+        "character": "Male Ensemble"
+      },
+      {
+        "name": "Tricia Deighton",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Mandy Holliday",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Jackie Marks",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Sophie-Louise Dann",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Valerie Cutko",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Julia Worsley",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Margaret Preece",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Annalene Beechey",
+        "character": "Female Ensemble"
+      },
+      {
+        "name": "Lucy Potter",
+        "character": "Ballet Girl"
+      },
+      {
+        "name": "Remy Martyn",
+        "character": "Flamenco Dancer / Male Masquerade Dancer"
+      },
+      {
+        "name": "Richard Bayliss",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Andrew Charles Corbett",
+        "character": "Flamenco Dancer / Male Masquerade Dancer"
+      },
+      {
+        "name": "Ralph Broadbent",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Damien Lee Stirk",
+        "character": "Flamenco Dancer / Male Masquerade Dancer"
+      },
+      {
+        "name": "Alexander Cameron",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Pascal Langdale",
+        "character": "Flamenco Dancer"
+      },
+      {
+        "name": "Paul Costin",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Carlos Otera",
+        "character": "Flamenco Dancer"
+      },
+      {
+        "name": "Matthew Draper",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Annika Strandberg",
+        "character": "Flamenco Dancer"
+      },
+      {
+        "name": "Ben Gant",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Beth Sheather",
+        "character": "Flamenco Dancer"
+      },
+      {
+        "name": "Jonathon Hill",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Isabel Lesto",
+        "character": "Flamenco Dancer"
+      },
+      {
+        "name": "Sarah Frasca",
+        "character": "Flamenco Dancer"
+      },
+      {
+        "name": "Timothy Kipling",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Sandra Eloani",
+        "character": "Flamenco Dancer"
+      },
+      {
+        "name": "Jonathon Kitchen",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Ruben Halse",
+        "character": "Candelabra Holder"
+      },
+      {
+        "name": "Tristan Keyte",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Damian Jones",
+        "character": "Candelabra Holder"
+      },
+      {
+        "name": "Michael Mansbridge",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Jeff Moore",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Vanessa Perroncel",
+        "character": "Candelabra Holder"
+      },
+      {
+        "name": "Lea Jerova",
+        "character": "Candelabra Holder"
+      },
+      {
+        "name": "Julian Poole",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Rebekah Dobbins",
+        "character": "Candelabra Holder"
+      },
+      {
+        "name": "James Pullman",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Lee Chapman",
+        "character": "Candelabra Holder"
+      },
+      {
+        "name": "Robert Purvis",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Gavin Lee",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Dave Tosh",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Rod Buchanan",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Chris Worsey",
+        "character": "Opera Populaire Orchestra"
+      },
+      {
+        "name": "Ashley Wallen",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Adam Pudney",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Ben Garner",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Blake Clayfield",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Damien Delaney",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Marcus Tesch",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Michael Small",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Milo Miles",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Nathan Clark",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Stephen B. White",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Stephen Berkeley",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Kasper Cornish",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Philip Catchpole",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Ryan Jenkins",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Gavin Wilkinson",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Alec Mann",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Scott Wyer",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Paul Micha",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Clinton Goldsmith",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Andrew Corbett",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Luis Gallo Mudarra",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Damien Jackson",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Tom Tanscy",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Luke Jackson",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Aaron Sillis",
+        "character": "Male Masquerade Dancer"
+      },
+      {
+        "name": "Melanie Perks",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Lorena Randi",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Lisa Stevens",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Rachael Crocker",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Julia Florimo",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Caroline Lynn",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Joanna Woodliffe",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Marilena Nicolaou",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Joanna Ernest",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Georgina Hagerty",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Simone De La Rue",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Claire Goodman",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Gem Collingwood",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Maddy G. Harris",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Juliet Gough",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Deborah Bundy",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Pippa Raine",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Leigh Daniels",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Gabriel Noble",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Maryam Pourian",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Candice Evans",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Janine Davis",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Bethany Elliot",
+        "character": "Female Masquerade Dancer"
+      },
+      {
+        "name": "Dawn Collins",
+        "character": "Female Masquerade Dancer"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Peter Darling",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "John Mathieson",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Terry Rawlings",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Joel Schumacher",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Joel Schumacher",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Greg Powell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "John Fenner",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Alexandra Byrne",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Gaston Leroux",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Anthony Pratt",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Jeff Abberley",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Julia Blackman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Martin Evans",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Ralph Kamp",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Louise Goodsill",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Paul Hitchcock",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Brendan Donnison",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Andrew Lloyd Webber",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Andrew Lloyd Webber",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Andrew Lloyd Webber",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Dusty Symonds",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Paul Edwards",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Austin Shaw",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lynne Page",
+        "department": "Crew",
+        "job": "Associate Choreographer"
+      },
+      {
+        "name": "Paul Kirby",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Celia Bobak",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Richard Stilgoe",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "name": "Alex Bailey",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Gillian Lynne",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Suzi Turnbull",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Nathan McGuinness",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Andy Nelson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Lisa Stevens",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Tim Hands",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Yann McCullough",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "David Grindrod",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Anthony Caron-Delion",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Sally Jones",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Michael Parnin",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Clive Jackson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Peter Taylor",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Tony Dawe",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Anna Behlmer",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Arthur Wicks",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Paul Apted",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Jill McCullough",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Tim Grover",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Eli Richbourg",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Jenny Shircore",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Jenny Shircore",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Mark Layton",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Lavinia Waters",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "John Stanborough",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Ed Colyer",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Jo McLaren",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Hutchinson",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Jaya Bishop",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Tommy Gormley",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "David Cullen",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Jim Cornish",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Caridad Angus",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Tony Tromp",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Charles Hart",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "name": "Cate Arbeid",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "name": "Lorraine Fennell",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Faye Aydin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Keith Cousins",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": [
+    "mask",
+    "dancing",
+    "paris, france",
+    "based on novel or book",
+    "love triangle",
+    "obsession",
+    "musical",
+    "based on play or musical",
+    "remake",
+    "tragic villain",
+    "rooftop",
+    "disfigured face",
+    "opera singer",
+    "1910s",
+    "phantom of the opera"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A young soprano becomes the obsession of a disfigured and murderous musical genius who lives beneath the Paris Opéra House.",
+    "Begins when an opera ghost terrorizes the cast and crew of the French Opera House while tutoring a chorus girl. He finally drives the lead soprano crazy so she and her friend leave. The girl is able to sing lead one night but the soprano doesn't want her show stolen so she comes back. The ghost demands they keep giving his protégé lead roles. Meanwhile, His pupil falls in love with the Vicomte de Chagny, but the Phantom is in love with Christine, his student. The Phantom is outraged by their love and kidnaps Christine to be his eternal bride. Will Raoul, the Vicomte, be able to stop this dastardly plan?—Niki",
+    "Our story begins with Opera Populaire's manager, Lefevre, leaving. His successors, Andre and Firmin, take over the opera, and bring with them their new patron, le Vicomte Raoul de Changy. To celebrate their new managers, the opera throws a gala, at which the leading diva refuses to perform, due to the mysterious 'Opera Ghost' who seems determined to have the screeching diva leave. Without a diva, Andre and Firmin are strong-minded to find a new leading lady, so they invoke the talents of a young, chorus-singer named Christine Daae, who has been taking lessons from a mysterious tutor. Raoul, Christine's old childhood sweetheart, who recognizes her at her triumphant gala performance, wants to bring Christine back into his life. But, suddenly, Christine's mysterious tutor reveals himself to her... Now, will Christine ask everything of Raoul or listen to the Music of the Night?—phan007",
+    "Deformed since birth, a bitter man known only as the Phantom lives in the sewers underneath the Paris Opera House. He falls in love with the obscure chorus singer Christine, and privately tutors her while terrorizing the rest of the opera house and demanding Christine be given lead roles. Things get worse when Christine meets back up with her childhood acquaintance Raoul and the two fall in love. The Phantom decides to kidnap her and imprison her with him in his lair. Raoul is now the only one who can stop him.—rmlohner",
+    "The story of a young chorus girl, Christine - a young talented singer who, with the right training, could become world famous. While rehearsing at the Opera Populaire, where weird and unexplainable things happen, she captures the attention and the heart of The Phantom, or as the Opera Populaire call him...The Opera Ghost. But he is no ghost - he is a disfigured musical genius who has hidden away for years to avoid the cruel stares of strangers. With the Phantoms help, Christine becomes the venue's leading lady, but tragedy awaits as the young soprano has fallen for the charms of handsome noble Viscount Raoul De Chagny, not realizing her Angel of Music is deeply in love with her. Insane with jealousy and unable to see the object of his affection, and ultimately is obsession, in the arms of another man, The Phantom kidnaps Christine - unaware of the lengths Raoul is prepared to go to get her back.—Shinyhappypeoples"
+  ],
+  "synopsis": "The movie starts with an auction being held in the Paris Opera House. The Opera has been shut down and they are auctioning off props to make some money. One of the items is a stuffed monkey dressed in Persian robes and playing the cymbals sitting on top of a music box. An older gentleman in a wheelchair buys the monkey and holds on to it tightly. The next item is a chandelier that was broken but has been repaired. When the chandelier is revealed, we are whisked back to 1870 (\"Overture\") where we see the opera house in full swing for it's performance of Hannibal by Chalemau. Rehearsals are under way when the Opera manager informs the cast and crew that he is leaving for Australia and that the Opera House is now under the command of Gilles Andre and Richard Firmin (Simon Callow and Cirian Hinds).When they resume rehearsal, a stage prop falls on the lead diva, Carlotta (Minnie Driver). After she storms out refusing to sing, Madame Giry (Miranda Richardson), the ballet instructor, convinces the new owners to let Christine Daaé (Emmy Rossum), one of the dancers, to take Carlotta's part. After a stunning performance (\"Think of Me\"), Christine goes down to the small chapel under the Opera House to pray for her father who died long ago. Meg (Jennifer Ellison) one of the ballet dancers and Christine's best friend comes to find her inquiring of her singing prowess (\"Angel of Music\").Later, Christine's childhood friend Raoul, the Vicomte de Changy and patron of the Opera House, comes to visit her in her dressing room. He had been in the audience and had recognized her. After inviting her to a party and leaving to prepare for the ride, Christine is locked in her room and hears singing. The Phantom (Gerard Butler) is mad at Raoul for taking credit in his work in training Christine to sing. He then lures Christine to a mirror where she sees him then follows him to his lair under the Opera House (\"The Phantom of the Opera\"). Once there the Phantom expresses his feelings for Christine and tries to convince her to stay with him (\"Music of the Night\"). Later she unmasks him and the Phantom is furious with her. Although he is raging and angry, he becomes vunerable and begins crying. He wishes he didn't have a loathsome gargoyle face (\"I Remember/Stranger Than You Dreamt It\"). He then returns her to the surface.While Christine is gone, Andre and Firmin are upset because Christine has disappeared and they no longer have a lead to play in the operas. After receiving a series of notes all signed O.G. (Opera Ghost) they find out that Christine has returned and they have been instructed by the Phantom to put Christine in the lead role of the upcoming opera II Muto. They refuse and put Carlotta in the lead part after convincing her to return (\"Prima Donna\") and give Christine a silent role, which infuriates the Phantom. He then disables Carlotta's voice giving her the voice of a toad, which forces the Opera managers to put Christine in the lead role. While Christine is getting ready, Joseph Buquet (Kevin McNally) finds the Phantom in the rafters and after trying to escape is caught and hung from the rafters on stage in full view of everyone. This frightens Christine and she runs to the roof with Raoul pursuing her where he comforts her telling her that he loves her and will never leave her (\"All I Ask of You\") The Phantom overhears and is now in a state of shock because Christine loves Raoul and not him.3 months later, we see that the Opera House is in full swing without any appearance from the Phantom since he disabled Carlotta's voice. The Opera House is holding a Masquerade to celebrate (\"Masquerade\"). During the Masquerade the Phantom interrupts and presents the managers with a new Opera he has written called Don Juan. He then gives them an ultimatum. Follow his instructions or bad things will happen. Christine visits the graveyard where her father is buried (\"Wishing You Were Somehow Here Again\"). The Phantom is also there and tries to lure her to him but Raoul arrives and fights off the Phantom in a sword battle. They then leave the Phantom there and he swears to get revenge.The performance of Don Juan has finally come and everyone is nervous. Raoul, Andre, and Firmin are positive the Phantom will make an appearance so they set a trap. Christine is torn. She explains that she can't be a part of the trap without the Phantom taking her back. The play starts and Christine comes on stage singing. Backstage, Piangi (Victor McGuire) is getting ready for his next scene when the Phantom kills him and takes his place on stage. Christine sings with the Phantom, expressing her love for him. Raoul, who is in the audience, sadly realizes that Christine loves the Phantom (\"The Point of No Return\"). The Phantom then sings passionately to Christine who takes his mask off, revealing to the audience the distortion of his face. He takes her once again down to his lair, causing the opera theatre to catch on fire in the progress after bringing down the chandelier (\"Down Once More/Track Down This Murderer\"). The Phantom gives Christine the ring that he took from her at the masquerade ball, and asks her to stay with him. Meanwhile, Raoul gets Madame Giry to take him to the Phantom's lair. She leaves Raoul halfway through their journey, and Raoul goes the rest of the way alone. After nearly drowning, he shows up in the Phantom's lair to save Christine. The Phantom then gives Christine the difficult desicion: she can either stay with the Phantom and Raoul (who has been tied up by the Phantom) goes free, or she refuses the Phantom and Raoul dies but Christine goes free. Christine decides to stay with the Phantom and tells him that he is not alone. She kisses him passionately. At this the Phantom realizes that Christine truly loves him, but his horrible actions have ruined any chance they have together. In an act of selflessness, he frees both Christine and Raoul. Christine gives the ring back to the Phantom who sadly tells Christine that he loves her. Christine forces herself to leave with Raoul in the boat. She looks back at the Phantom sadly, knowing that she loves him. Heartbroken, the Phantom destroys the mirrors and escapes through a secret passage just before the mob shows up. Meg Giry finds only his mask.The scene then switches back to 1919. The elderly gentleman now known to be Raoul leaves the monkey music box on Christine's grave. He looks down and sees that the Phantom has left a rose tied with a black ribbon (his trademark) and the ring that he gave to Christine: the Phantom still loves her. Raoul sadly looks at it knowing that Christine truly loved the Phantom."
+}

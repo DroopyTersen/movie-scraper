@@ -1,0 +1,812 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ysKahAEPP8h6MInuLjr0xuZOTjh.jpg",
+  "id": 107,
+  "title": "Snatch",
+  "poster_path": "https://image.tmdb.org/t/p/w500/56mOJth6DJ6JhgoE2jtpilVqJO.jpg",
+  "release_date": "2000-09-01",
+  "vote_average": 7.8,
+  "vote_count": 8537,
+  "popularity": 39.75,
+  "overview": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+  "imdb_id": "tt0208092",
+  "budget": 10000000,
+  "homepage": "",
+  "revenue": 83600000,
+  "runtime": 103,
+  "tagline": "Stealin' stones and breakin' bones.",
+  "genres": [
+    "Crime",
+    "Comedy"
+  ],
+  "production_companies": [
+    "SKA Films",
+    "Columbia Pictures",
+    "Screen Gems"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jason Statham",
+        "character": "Turkish"
+      },
+      {
+        "name": "Alan Ford",
+        "character": "Brick Top Polford"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Mickey O'Neil"
+      },
+      {
+        "name": "Stephen Graham",
+        "character": "Tommy"
+      },
+      {
+        "name": "Dennis Farina",
+        "character": "Cousin Avi"
+      },
+      {
+        "name": "Robbie Gee",
+        "character": "Vincent"
+      },
+      {
+        "name": "Lennie James",
+        "character": "Sol"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Franky Four Fingers"
+      },
+      {
+        "name": "Rade Šerbedžija",
+        "character": "Boris \"The Blade\" Yurinov"
+      },
+      {
+        "name": "Vinnie Jones",
+        "character": "Bullet-Tooth Tony"
+      },
+      {
+        "name": "Ade",
+        "character": "Tyrone"
+      },
+      {
+        "name": "Mike Reid",
+        "character": "Doug \"The Head\" Denovitz"
+      },
+      {
+        "name": "Jason Flemyng",
+        "character": "Darren"
+      },
+      {
+        "name": "Ewen Bremner",
+        "character": "Mullet"
+      },
+      {
+        "name": "Andy Beckwith",
+        "character": "Errol"
+      },
+      {
+        "name": "Charles Cork",
+        "character": "MC"
+      },
+      {
+        "name": "Sorcha Cusack",
+        "character": "Mum O'Neil"
+      },
+      {
+        "name": "Dave Legeno",
+        "character": "John"
+      },
+      {
+        "name": "Trevor Steedman",
+        "character": "Bomber Harris"
+      },
+      {
+        "name": "Yuri Stepanov",
+        "character": "Himy"
+      },
+      {
+        "name": "Velibor Topic",
+        "character": "The Russian"
+      },
+      {
+        "name": "William Beck",
+        "character": "Neil"
+      },
+      {
+        "name": "Sam Douglas",
+        "character": "Rosebud"
+      },
+      {
+        "name": "Adam Fogerty",
+        "character": "Gorgeous George"
+      },
+      {
+        "name": "Eric Meyers",
+        "character": "Avi's Colleague"
+      },
+      {
+        "name": "Jason Buckham",
+        "character": "Gary"
+      },
+      {
+        "name": "Mickey Cantwell",
+        "character": "Liam"
+      },
+      {
+        "name": "Nicola Collins",
+        "character": "Alex"
+      },
+      {
+        "name": "Teena Collins",
+        "character": "Susi"
+      },
+      {
+        "name": "James Cunningham",
+        "character": "Horrible Man"
+      },
+      {
+        "name": "Mickey Dee",
+        "character": "Jack"
+      },
+      {
+        "name": "Goldie",
+        "character": "Bad Boy Lincoln"
+      },
+      {
+        "name": "Sid Hoare",
+        "character": "Reuben"
+      },
+      {
+        "name": "Ronald Isaac",
+        "character": "Referee"
+      },
+      {
+        "name": "Chuck Julian",
+        "character": "Michael"
+      },
+      {
+        "name": "Jason Ninh Cao",
+        "character": "Charlie"
+      },
+      {
+        "name": "Paul O'Boyle",
+        "character": "Patrick"
+      },
+      {
+        "name": "Jimmy Roussounis",
+        "character": "Paulie"
+      },
+      {
+        "name": "Sidney Sedin",
+        "character": "Pauline"
+      },
+      {
+        "name": "Peter Szakacs",
+        "character": "Sausage Charlie"
+      },
+      {
+        "name": "John Taheny",
+        "character": "Salt Peter"
+      },
+      {
+        "name": "Mick Theo",
+        "character": "Mad Fist Willy"
+      },
+      {
+        "name": "Andy Till",
+        "character": "John the Gun"
+      },
+      {
+        "name": "Scott Welch",
+        "character": "Horace \"Good Night\" Anderson"
+      },
+      {
+        "name": "Michael Hughes",
+        "character": "Gypsy Man"
+      },
+      {
+        "name": "Liam McMahon",
+        "character": "Gypsy Man"
+      },
+      {
+        "name": "James Warren",
+        "character": "Gypsy Man"
+      },
+      {
+        "name": "Austin Drage",
+        "character": "Gypsy Kid"
+      },
+      {
+        "name": "Liam Donaghy",
+        "character": "Gypsy Kid"
+      },
+      {
+        "name": "Joe Williams",
+        "character": "Gypsy Kid"
+      },
+      {
+        "name": "John Farnell",
+        "character": "Brick Top's Henchman"
+      },
+      {
+        "name": "Shaun Pearson",
+        "character": "Brick Top's Henchman"
+      },
+      {
+        "name": "Dean Smith",
+        "character": "Brick Top's Henchman"
+      },
+      {
+        "name": "Roy Snell",
+        "character": "Brick Top's Henchman"
+      },
+      {
+        "name": "Tim Faraday",
+        "character": "Policeman"
+      },
+      {
+        "name": "Andrew Shield",
+        "character": "Policeman"
+      },
+      {
+        "name": "Guy Ritchie",
+        "character": "Man Reading Newspaper (uncredited)"
+      },
+      {
+        "name": "Elwin 'Chopper' David",
+        "character": "Boxer (uncredited)"
+      },
+      {
+        "name": "Alex Andreas",
+        "character": "Pikey Man (uncredited)"
+      },
+      {
+        "name": "Dian Bachar",
+        "character": "Brick Henchman (uncredited)"
+      },
+      {
+        "name": "Sol Campbell",
+        "character": "Bouncer (uncredited)"
+      },
+      {
+        "name": "Tom Delmar",
+        "character": "Thug with Head Crushed in Door (uncredited)"
+      },
+      {
+        "name": "Christopher Fosh",
+        "character": "Bricktop's Henchman (uncredited)"
+      },
+      {
+        "name": "John Hathaway",
+        "character": "Bricktop's Barman (uncredited)"
+      },
+      {
+        "name": "Arnold Montey",
+        "character": "Man Reading Newspaper (uncredited)"
+      },
+      {
+        "name": "Tim Packham",
+        "character": "Gypsy Man (uncredited)"
+      },
+      {
+        "name": "Peter Rnic",
+        "character": "Irish Traveller (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Steve Tisch",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lucinda Syson",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "John Murphy",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Guy Ritchie",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Guy Ritchie",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Matthew Vaughn",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tim Maurice-Jones",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Hugo Luczyc-Wyhowski",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Jon Harris",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Verity Hawkes",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Les Healey",
+        "department": "Editing",
+        "job": "Co-Editor"
+      },
+      {
+        "name": "Michael Dreyer",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Barrie Gower",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics Sculptor"
+      },
+      {
+        "name": "Stephen Marks",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Peter Morton",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ian Neil",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "name": "Adam Bohling",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Trudie Styler",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Noel Gallagher",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "David Reid",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Daniel Toland",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Sharon Gilham",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Julie Philpott",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Linda Wilson",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Jean Ann Black",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Simon Hayes",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Jason Swanscott",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Matthew Collinge",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Matthew Collinge",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "David Lindsay",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Charles Jarman",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Andy Duncan",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Mark Taylor",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Emma Pike",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Peter Wignall",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Peter Wignall",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Casper Lailey",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Mary Haddow",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Danny Sheehan",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Danny Sheehan",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Danny Sheehan",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Darren McQuade",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Belinda Parish",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Mike Dowson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "James Harris",
+        "department": "Crew",
+        "job": "Cableman"
+      },
+      {
+        "name": "Nevette Previd",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Angad Paul",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Sebastian Pearson",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Sebastian Pearson",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Taha Ali Reza",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Martin Foley",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Tom Delmar",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Nicki Varney",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Charles Bodycomb",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Diane Greaves",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Ken Lailey",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Paul Swinburne",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Pebbles",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Brendan Gunn",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Jake Marcuson",
+        "department": "Camera",
+        "job": "Clapper Loader"
+      },
+      {
+        "name": "Vanessa Baker",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "David Rees",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Pat Karam",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Tom Roberts",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "Ray Bateman",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Dennis Wilson",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Terry Williams",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Bibs Ekkel",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Robert Park",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Fergus Cotter",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Tom Pleydell-Pearce",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Mick Ward",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Mick Ward",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Bill Hickey",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Simon Barker",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Maurice Landsberger",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Willi Geiger",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "name": "Arthur Fenn",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Daniel L. Griffiths",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Kristin Emblem",
+        "department": "Visual Effects",
+        "job": "Digital Effects Producer"
+      },
+      {
+        "name": "Michael Redfern",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Peter Dansie",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Jean-Clement Soret",
+        "department": "Editing",
+        "job": "Digital Colorist"
+      },
+      {
+        "name": "Michael Elson",
+        "department": "Visual Effects",
+        "job": "Digital Effects Producer"
+      },
+      {
+        "name": "Michael Elson",
+        "department": "Production",
+        "job": "Head of Production"
+      },
+      {
+        "name": "Peter Burden",
+        "department": "Art",
+        "job": "Dressing Prop"
+      },
+      {
+        "name": "Philip Smith",
+        "department": "Art",
+        "job": "Supervising Carpenter"
+      },
+      {
+        "name": "Ian Cross",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Elizabeth Hoar",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "name": "Stuart Graham",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "name": "Emma Engers",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Giles Edleston",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Sandra Fattorre",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "name": "Richard Oxley",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Debbie Ninnis",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Paul Conway",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Sarah Gellately-Smith",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "robbery",
+    "trailer park",
+    "england",
+    "gypsy",
+    "gambling",
+    "bare knuckle boxing",
+    "slang",
+    "antwerp",
+    "pig",
+    "gangster",
+    "boxer",
+    "underground fighting",
+    "diamond heist",
+    "pikey"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "Turkish and his close friend/accomplice Tommy get pulled into the world of match fixing by the notorious Brick Top. Things get complicated when the boxer they had lined up gets badly beaten by Mickey, who comes into the equation after Turkish, an unlicensed boxing promoter wants to buy a caravan off of Travellers. They then try to convince Mickey not only to fight for them, but to lose for them too. Whilst all this is going on, a huge diamond heist takes place, and a fistful of motley characters enter the story, including 'Cousin Avi', 'Boris The Blade', 'Franky Four Fingers' and 'Bullet Tooth Tony'. Things go from bad to worse as it all becomes about the money, the guns, and the damned dog.—Filmtwob <webmaster@filmfreak.co.za>",
+    "Turkish, an unlicenced boxing promoter is pulled into trouble when he becomes involved in big time criminal Brick Top, who wants him to arrange a fight and fix it. Meanwhile, a diamond theft goes down but the 84 karat stone goes missing. This leads Avi, the boss who was supposed to receive the stone, to come to England to search for it, with the help of his cousin, Doug The Head and Bullet Tooth Tony. As events twist and turn, the two situations blending into one with a chain reaction of events carrying on for each and each every character.—~^Æ~§íX~^Æ~"
+  ],
+  "synopsis": "After stealing an 86-carat (17 g) diamond in a heist in Antwerp, Frankie \"Four-Fingers\" (Benicio Del Toro) goes to London to deliver the gemstone to diamond dealer Doug \"The Head\" (Mike Reid) on behalf of New York jeweler \"Cousin Avi\" (Dennis Farina), who bankrolled the theft. One of the other robbers advises Frankie to first see his arms-dealing brother, ex-KGB agent Boris \"The Blade\" (Rade Serbedzija), to obtain a gun. Unbeknownst to Frankie, the brothers plan to rob him of the diamond, using a third party to avoid implicating themselves.Meanwhile, unlicensed boxing promoter and casino owner Turkish (Jason Statham) convinces local gangster \"Brick Top\" (Alan Ford)-head of an unlicensed boxing and dog fighting circuit-to add the matches of his boxer \"Gorgeous George\" (Adam Fogerty) to the bets at his bookies. However, when Turkish sends his partner Tommy (Stephen Graham) and Gorgeous George to purchase a caravan from a group of Pikeys, George gets into an impromptu boxing match with Mickey O'Neil (Brad Pitt), who turns out to be a bare-knuckle boxing champ and badly injures George with a single punch. With George injured, Turkish recruits Mickey to replace him in his upcoming match by agreeing to purchase a new caravan for Mickey's mother (Sorcha Cusack).Brick Top agrees to the change on the condition that Mickey throws the fight in the fourth round.\nBoris gives Frankie a gun in exchange for a favor: Frankie is to place a bet on Boris' behalf at Brick Top's bookies, since Boris has an outstanding debt there and cannot go himself. Avi learns of this and, knowing that Frankie has a gambling problem, flies to London with his bodyguard \"Rosebud\" (Sam Douglas) in tow to claim the diamond. Boris hires Vinnie (Robbie Gee) and Sol (Lennie James), two pawnbrokers and small-time crooks, to rob Frankie of the diamond while he is at the bookies. The robbery goes comically awry, and Sol, Vinnie, and their driver Tyrone (Ade) are caught on-camera but manage to kidnap Frankie.Instead of throwing the boxing match as instructed, Mickey knocks his opponent out with a single punch, causing Brick Top's investors to lose their bets. Infuriated, Brick Top robs Turkish of his savings and demands that Mickey fight again and lose this time. Meanwhile, Boris retrieves the diamond and executes Frankie, leaving Sol, Vinnie, and Tyrone to dispose of the body. As they and their accomplice \"Bad Boy\" Lincoln (Goldie) are puzzling over how to do this, Brick Top arrives to execute them for robbing his bookies. He details to them his preferred method of body disposal, which is to feed the corpses to ravenous pigs. Sol bargains for their lives by promising Brick Top the stolen diamond, and he gives them 48 hours to retrieve it.Avi and Doug hire the mercenary \"Bullet-Tooth\" Tony (Vinnie Jones) to help them find Frankie. When the trail leads to Boris, they kidnap him and retrieve the gemstone, closely pursued by Sol, Vinnie, and Tyrone. As they are driving, Tommy carelessly throws Turkish's carton of milk out the window of their car; it splashes over Tony's windshield, causing him to crash. Rosebud is killed, and Boris escapes from the wreck only to be hit by Tyrone's car. Tony and Avi regroup at a pub where they are confronted by Sol, Vinnie, and Tyrone. Tony quickly realizes that their pistols are replicas loaded with blanks and intimidates them into leaving him alone.The wounded Boris arrives with an assault rifle and is killed by Tony, but Sol and Vinnie escape with the diamond, which Vinnie hides in his pants. When Tony catches up to them, they tell him that the diamond is back at their pawn shop. Once there, they run out of stall tactics and produce the diamond, but it is promptly swallowed by a dog that Vinnie got from the Pikeys. Avi fires wildly at the fleeing dog and accidentally kills Tony. He gives up his pursuit and returns to New York.Mickey refuses to fight again unless Turkish buys an even more lavish caravan for his mother, but Turkish has no money left. Furious, Brick Top has his men vandalize Turkish's gambling arcade and burn down Mickey's mother's caravan while she is asleep inside it. Mickey agrees to fight in order to avoid more carnage but gets so drunk after his mother's wake the night before that Turkish fears he won't even make it to the fourth round. If he fails to go down as agreed, Brick Top's men will execute Turkish, Tommy, Mickey, and the entire campsite of Pikeys. Mickey takes a heavy beating but makes it to the fourth round, when he makes a sudden recovery and knocks out his opponent with a powerful blow. As they flee the building, Brick Top is killed by the Pikeys, who have turned the tables on him: Mickey had bet on himself to win and waited until the fourth round to allow the other Pikeys time to ambush and kill Brick Top's men at the campsite.The next morning, Turkish and Tommy find the Pikey campsite deserted. They are confronted by the police and don't know what to say, until Vinnie's dog suddenly arrives, and they claim to be walking it. They are released, while Sol and Vinnie are arrested when the police find the corpses of Frankie and Tony in their car. Turkish and Tommy take the dog to a veterinarian to extract a squeaky toy that it had swallowed earlier and discover the diamond in its stomach as well. They consult Doug about selling the diamond, and he calls Avi who returns to London."
+}

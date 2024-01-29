@@ -1,0 +1,753 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/pMBKzEotLUzk3NuQiyVjZEDlH70.jpg",
+  "id": 69,
+  "title": "Walk the Line",
+  "poster_path": "https://image.tmdb.org/t/p/w500/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+  "release_date": "2005-09-13",
+  "vote_average": 7.495,
+  "vote_count": 2690,
+  "popularity": 20.492,
+  "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
+  "imdb_id": "tt0358273",
+  "budget": 28000000,
+  "homepage": "",
+  "revenue": 186800000,
+  "runtime": 136,
+  "tagline": "Love is a burning thing.",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "production_companies": [
+    "Mars Media Beteiligungs",
+    "Tree Line Films",
+    "Konrad Pictures",
+    "Catfish Productions",
+    "Fox 2000 Pictures"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "John R. Cash"
+      },
+      {
+        "name": "Reese Witherspoon",
+        "character": "June Carter"
+      },
+      {
+        "name": "Ginnifer Goodwin",
+        "character": "Vivian Cash"
+      },
+      {
+        "name": "Robert Patrick",
+        "character": "Ray Cash"
+      },
+      {
+        "name": "Dallas Roberts",
+        "character": "Sam Phillips"
+      },
+      {
+        "name": "Dan John Miller",
+        "character": "Luther Perkins"
+      },
+      {
+        "name": "Larry Bagby",
+        "character": "Marshall Grant"
+      },
+      {
+        "name": "Shelby Lynne",
+        "character": "Carrie Cash"
+      },
+      {
+        "name": "Tyler Hilton",
+        "character": "Elvis Presley"
+      },
+      {
+        "name": "Waylon Payne",
+        "character": "Jerry Lee Lewis"
+      },
+      {
+        "name": "Shooter Jennings",
+        "character": "Waylon Jennings"
+      },
+      {
+        "name": "Sandra Ellis Lafferty",
+        "character": "Maybelle Carter"
+      },
+      {
+        "name": "Dan Beene",
+        "character": "Ezra Carter"
+      },
+      {
+        "name": "Clay Steakley",
+        "character": "W.S. \"Fluke\" Holland"
+      },
+      {
+        "name": "Johnathan Rice",
+        "character": "Roy Orbison"
+      },
+      {
+        "name": "Johnny Holiday",
+        "character": "Carl Perkins"
+      },
+      {
+        "name": "Ridge Canipe",
+        "character": "Young J.R."
+      },
+      {
+        "name": "Lucas Till",
+        "character": "Young Jack Cash"
+      },
+      {
+        "name": "Carly Nahon",
+        "character": "Young Reba Cash"
+      },
+      {
+        "name": "McGhee Monteith",
+        "character": "Reba Cash"
+      },
+      {
+        "name": "Wyatt Entrekin",
+        "character": "Tommy Cash (5)"
+      },
+      {
+        "name": "Hailey Anne Nelson",
+        "character": "Roseanne Cash"
+      },
+      {
+        "name": "Kerris Dorsey",
+        "character": "Kathy Cash"
+      },
+      {
+        "name": "Delaney Keefe",
+        "character": "Cindy Cash"
+      },
+      {
+        "name": "Victoria Hester",
+        "character": "Carlene Carter"
+      },
+      {
+        "name": "Deborah Rawlings",
+        "character": "Diner Waitress"
+      },
+      {
+        "name": "James DeForest Parker",
+        "character": "Inmate"
+      },
+      {
+        "name": "James Keach",
+        "character": "Warden"
+      },
+      {
+        "name": "Davielle Boyce",
+        "character": "Maid at Door"
+      },
+      {
+        "name": "Glenn Alan Gardner",
+        "character": "Texarkana Stage Manager"
+      },
+      {
+        "name": "Danny Vinson",
+        "character": "Texarkana MC"
+      },
+      {
+        "name": "Dave McPhail",
+        "character": "Armory MC"
+      },
+      {
+        "name": "Bob King",
+        "character": "Armory Stage Manager"
+      },
+      {
+        "name": "Natalie Canerday",
+        "character": "Lady in the Aisle"
+      },
+      {
+        "name": "Rhoda Griffis",
+        "character": "Five and Dime Manager"
+      },
+      {
+        "name": "Jeff Bailey",
+        "character": "El Paso Taxi Driver"
+      },
+      {
+        "name": "Ross Harkins",
+        "character": "Record Executive"
+      },
+      {
+        "name": "J.D. Evermore",
+        "character": "F.B.I. Man"
+      },
+      {
+        "name": "Helen Ingebritsen",
+        "character": "Bank Teller"
+      },
+      {
+        "name": "J.W. Williams",
+        "character": "Pill Man"
+      },
+      {
+        "name": "Shane Bowen",
+        "character": "JR's Agent"
+      },
+      {
+        "name": "Tim Ware",
+        "character": "A & R Man #1"
+      },
+      {
+        "name": "Dolan Wilson",
+        "character": "A & R Man #2"
+      },
+      {
+        "name": "J. Allen Scott",
+        "character": "Dyess Doctor"
+      },
+      {
+        "name": "Clare Grant",
+        "character": "Lissome Girl"
+      },
+      {
+        "name": "Michael Ingersoll",
+        "character": "Donzil"
+      },
+      {
+        "name": "Carter Thrower",
+        "character": "Sheriff"
+      },
+      {
+        "name": "J.P. McNeely",
+        "character": "Musician"
+      },
+      {
+        "name": "Brian Deas",
+        "character": "NCO"
+      },
+      {
+        "name": "Glenda Pannell",
+        "character": "Neighbor Woman"
+      },
+      {
+        "name": "Amy Lavere",
+        "character": "Wanda"
+      },
+      {
+        "name": "Tracee Mae Miller",
+        "character": "Birdie Perkins"
+      },
+      {
+        "name": "Ken Axmaker Jr.",
+        "character": "Record Company Executive / Reporter (uncredited)"
+      },
+      {
+        "name": "Bryce Blackman",
+        "character": "Prisoner (uncredited)"
+      },
+      {
+        "name": "Garnet Brooks",
+        "character": "Prisoner (uncredited)"
+      },
+      {
+        "name": "David Caffey",
+        "character": "Record Company Executive (uncredited)"
+      },
+      {
+        "name": "John Carter Cash",
+        "character": "Bob Neal (uncredited)"
+      },
+      {
+        "name": "Mark Alan Compton",
+        "character": "Man (uncredited)"
+      },
+      {
+        "name": "Brian Crider",
+        "character": "Prisoner (uncredited)"
+      },
+      {
+        "name": "Richard Crowe",
+        "character": "Service Station Guy (uncredited)"
+      },
+      {
+        "name": "Josh Driver",
+        "character": "Cash's Stagehand (uncredited)"
+      },
+      {
+        "name": "Jeff Evans",
+        "character": "Folsom Prison Assistant Warden (uncredited)"
+      },
+      {
+        "name": "Geoff Falk",
+        "character": "Folsom Prison Assistant Warden (uncredited)"
+      },
+      {
+        "name": "Jan Falk",
+        "character": "Lady at the Five & Dime (uncredited)"
+      },
+      {
+        "name": "Marc Farley",
+        "character": "Ferlin (uncredited)"
+      },
+      {
+        "name": "Evelyn Diana Frogge-Chabot",
+        "character": "Audience Member / Fan (uncredited)"
+      },
+      {
+        "name": "Gavin Lindsay Goode",
+        "character": "Prison Guard Sniper (uncredited)"
+      },
+      {
+        "name": "Cody Hanford",
+        "character": "Tommy Cash (age 9) (uncredited)"
+      },
+      {
+        "name": "L. Michele Hester",
+        "character": "Columbia Records Secretary (uncredited)"
+      },
+      {
+        "name": "Kimberly Hill",
+        "character": "Concertgoer (uncredited)"
+      },
+      {
+        "name": "Jason Lewin",
+        "character": "Band Member (uncredited)"
+      },
+      {
+        "name": "Katie Lindsey",
+        "character": "Rosey Nix (uncredited)"
+      },
+      {
+        "name": "Mathew Luschek",
+        "character": "Businessman in Bathroom (uncredited)"
+      },
+      {
+        "name": "Donald Meyers",
+        "character": "Record Company Executive (uncredited)"
+      },
+      {
+        "name": "Michael Montgomery",
+        "character": "Man in Aisle (uncredited)"
+      },
+      {
+        "name": "Zach Navarro",
+        "character": "Folsom Prison Prisoner (uncredited)"
+      },
+      {
+        "name": "Rich Parham",
+        "character": "Salesman / Prisoner (uncredited)"
+      },
+      {
+        "name": "Chris Plumlee",
+        "character": "Stagehand (uncredited)"
+      },
+      {
+        "name": "Kevin Scroggs",
+        "character": "Press Photographer (uncredited)"
+      },
+      {
+        "name": "Laura Lynn Seguin",
+        "character": "Screaming Fan (uncredited)"
+      },
+      {
+        "name": "Brit Shaw",
+        "character": "Etta Grant (uncredited)"
+      },
+      {
+        "name": "Melissa Goodwin Shepherd",
+        "character": "Flight Attendant (uncredited)"
+      },
+      {
+        "name": "Ben Taylor",
+        "character": "Jack the Drunk (uncredited)"
+      },
+      {
+        "name": "Frank Hoyt Taylor",
+        "character": "Passionate Preacher (uncredited)"
+      },
+      {
+        "name": "Danny Thomas",
+        "character": "Prison Guard (uncredited)"
+      },
+      {
+        "name": "Sheila Thomas",
+        "character": "Girl in Crowd (uncredited)"
+      },
+      {
+        "name": "Dave Thompson",
+        "character": "Derwent (uncredited)"
+      },
+      {
+        "name": "Jim Wright",
+        "character": "Military Supervisor (uncredited)"
+      },
+      {
+        "name": "R. Elkins Wright",
+        "character": "John's Friend Randy (uncredited)"
+      },
+      {
+        "name": "Laurie Johnson",
+        "character": "Church Lady (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Mangold",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "James Mangold",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Gill Dennis",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "James Keach",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Cathy Konrad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Carter Cash",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Alan C. Blomquist",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Alan C. Blomquist",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Phedon Papamichael",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Michael McCusker",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Lisa Beach",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Sarah Katzman",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "David J. Bomba",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "T Bone Burnett",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "T Bone Burnett",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "name": "John R. Jensen",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Suzanne Tenner",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Bunny Andrews",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Arianne Phillips",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Tim Gomillion",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Mildred Iatrou",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Paul Massey",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Dennis Rogers",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Kathrine Gordon",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Gina Fortunato",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Carla Curry",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Rick Avery",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "John R. Saunders",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Kimberly Lowe Voigt",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Johnny Cash",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "Doug Coleman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter F. Kurland",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Lou Robin",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Robert Stromberg",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Julia Frey",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Carlos Rosario",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Jane Galli",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Joulles Wright",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Wendy M. Craig",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Michelle Vittone",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "David Fernandez",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Brad Wilder",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Robert Saba",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Paul Graff",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Doug Hemphill",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Terry Delsing",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Sheila Waldron",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Lori McCoy-Bell",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Aaron Downing",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Robin Citrin",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Adruitha Lee",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "name": "Donald Sylvester",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Ron Bolanowski",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Anne Morgan",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Rob Simons",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Lorraine Crossman",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Janelle Cochrane",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Emmy Ellison",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Brian Avery",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marie Healy",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "John Sprague",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Heidi Pascoe",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Heidi Pascoe",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Stephanie Beman",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Khris Bennett",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Harrison Palmer",
+        "department": "Lighting",
+        "job": "Electrician"
+      }
+    ]
+  },
+  "keywords": [
+    "prison",
+    "adultery",
+    "concert",
+    "music record",
+    "country music",
+    "guitar",
+    "germany",
+    "loss of loved one",
+    "marriage",
+    "single",
+    "accident",
+    "1960s",
+    "biographical"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.",
+    "While growing up in the Great Depression era, Johnny Cash takes an interest in music and eventually moves out of his Arkansas town to join the air force in Germany. While there, he buys his first guitar and writes his own music, and proposes to Vivian. When they got married, they settled in Tennessee and with a daughter, he supported the family by being a salesman. He discovers a man who can pursue his dreams and ends up getting a record with the boys. Shortly after that, he was on a short tour, promoting his songs, and meets the already famous and beautiful June Carter. Then as they get on the long-term tours with June, the boys, and Jerry Lee Lewis, they have this unspoken relationship that grows. But when June leaves the tour because of his behavior, he was a drug addict. His marriage was also falling apart, and when he sees June years later at an awards show, he forces June to tour with them again, promising June to support her two kids and herself. While the tour goes on, the relationship between June and John grow more,and his marriage to his first wife ends. June finds out about the drugs, and help him overcome it. True love and care helped John eventually stop the drug usage, and finally proposes to her in front of an audience at a show.—kayleigh",
+    "The story of Johnny Cash, music legend. From his time growing up on a small farm in Arkansas, to his time in the US Air Force where his musical talented first started to manifest itself, to the early days of his career, through the trials and tribulations of being a star and beyond. We also see his relationships, particularly with his older brother Jack, his father, his first wife Vivian, and, most importantly, with June Carter.—grantss",
+    "Having found solace in music and songwriting after the shocking 1944 accident and the impact of childhood trauma, Johnny Cash writes his first song while serving in the U.S. Air Force in Germany. After getting a regular job and marrying his first wife, Vivian Liberto, Cash moves to Memphis, Tennessee, where he starts a gospel band, The Tennessee Two, and auditions for Sun Records founder Sam Phillips. While on tour with Elvis Presley, Jerry Lee Lewis, and Carl Perkins, Johnny Cash meets the love of his life, June Carter Cash. But touring takes a toll on Johnny's marriage and health. As their relationship gets a second chance, Cash performs at Folsom State Prison and records his first live album, Johnny Cash at Folsom Prison. During a live performance at the London Ice House in Ontario in 1968, Cash proposed to Carter while singing the country hit single, Jackson. The couple remained married for 35 years until June's death in May 2003. Four months later, Cash followed.—Nick Riganas",
+    "Johnny Cash grew up in Arkansas, and served in the Air Force in Germany, where he bought a guitar. He returned from the war and married. Singing and playing with two other men, he cut a record in Memphis. His reputation growing from airplay and live performances, Cash became a star, touring with the likes of Jerry Lee Lewis and others. On tour, he suffered the effects of drug addiction. He also met June Carter, who would later become his wife. Responding in part to the fan mail he received from prisoners, Cash played a legendary concert for the inmates at Folsom Prison in California.—Ken Miller <wkmiller704@yahoo.com>"
+  ],
+  "synopsis": "In 1968, an audience of inmates at Folsom State Prison cheer for Johnny Cash's band as he waits backstage near a table saw, reminding him of his early life.In 1944, Johnny, then known as J.R., grows up the son of a share cropper on a cotton farm in Dyess, Arkansas, and is adept with hymnals, while his brother Jack is training himself to become a pastor. While Jack is sawing wood for a neighbor, J.R. goes fishing while he finishes. However, Jack injures himself with the saw, and dies of his injuries. Cash's strained relationship with his father Ray, becomes much more difficult after Jack's death. In 1950, J.R. (Joaquin Phoenix) enlists in the United States Air Force as Johnny Cash, and is posted in West Germany. One day in 1952, he finds solace in playing a guitar he bought and writing songs-one of which will become \"Folsom Prison Blues\". Cash is eventually discharged, and marries his girlfriend Vivian Liberto. The couple move to Memphis, Tennessee, where Cash works as a door-to-door salesman to support his growing family. He walks past a recording studio, which inspires him to organize a band to play gospel music. Cash's band auditions for Sam Phillips, the owner of Sun Records. Phillips interrupts the audition and asks Cash to play a song that he really \"feels\", prompting them to play \"Folsom Prison Blues\". The band is contracted by Sun Records.The band begins touring as Johnny Cash and the Tennessee Two. He meets many different artists on tour, including June Carter (Reese Witherspoon), with whom Cash soon falls in love. Cash begins spending more time with June, who divorces her first husband, Carl Smith. After an attempt by Cash to woo June backfires, he begins to take drugs and alcohol. After his behavior peaks during a performance with June, they go their separate ways. Over Vivian's objections, Johnny persuades June to come out of semi-retirement at an awards show and tour with him. The tour is a success, but backstage, Vivian is critical of June's influence.After one Las Vegas performance, Cash and June sleep together in her hotel room. The next morning, she notices Cash taking several pills and begins to doubt her choices. At that evening's concert, Cash, upset by June's apparent rejection, behaves erratically and eventually passes out. June disposes of Cash's drugs and begins to write \"Ring of Fire\", describing her feelings for Cash and her pain at watching him descend into addiction.On his way home, Cash travels to Mexico to purchase more drugs and is arrested. Cash's marriage to Vivian begins to crumble and after a final violent dispute, the pair eventually divorce and Cash moves to Nashville in 1966. In an attempt to reconcile with June, Cash buys a large house near a lake in Hendersonville. His parents, and the extended Carter family, arrive for Thanksgiving, at which time Ray dismisses his son's achievements and behavior. After eating, June's mother-aware of her daughter's true feelings toward Cash-encourages her to help him. After a long detoxification period, Cash wakes up with June by his side. June says she, and God, have given Cash a second chance. Although not formally a couple, the two begin to spend most of their time with each other.Cash discovers that most of his fan mail comes from prisoners, impressed with the outlaw image that Cash has cultivated. Cash visits his recording company he signed with in 1958, Columbia Records, and proposes that he record an album live inside Folsom Prison. Despite Columbia's doubts, Cash says that he will perform regardless and the label can use the tapes if they wish.\nAt the Folsom Prison concert, Cash tells how he always admired prisoners, explaining that his arrest for drug possession helped him to relate to them. The concert is a great success, and Cash embarks on a tour with June and his band.While on a tour bus, Cash goes to see June in the back of the bus. Waking up June, he proposes to her, but she turns him down. At the next concert, June tells him that he is only allowed to speak with her on stage. There, Cash persuades June to join him in a duet. In the middle of the song, Cash stops playing, explaining that he cannot sing anymore unless June agrees to marry him. June eventually accepts and they share a passionate embrace on stage. The two marry and eventually raise their kids together and spend time with their families."
+}

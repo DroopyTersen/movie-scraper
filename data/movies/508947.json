@@ -1,0 +1,978 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/fzP9z9oreLfDSWv6QsJVdI0yDJP.jpg",
+  "id": 508947,
+  "title": "Turning Red",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+  "release_date": "2022-03-10",
+  "vote_average": 7.413,
+  "vote_count": 4710,
+  "popularity": 138.699,
+  "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+  "imdb_id": "tt8097030",
+  "budget": 190000000,
+  "homepage": "https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m",
+  "revenue": 18900000,
+  "runtime": 100,
+  "tagline": "Growing up is a beast.",
+  "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Walt Disney Pictures",
+    "Pixar"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Rosalie Chiang",
+        "character": "Meilin 'Mei' Lee (voice)"
+      },
+      {
+        "name": "Sandra Oh",
+        "character": "Ming (voice)"
+      },
+      {
+        "name": "Ava Morse",
+        "character": "Miriam (voice)"
+      },
+      {
+        "name": "Hyein Park",
+        "character": "Abby (voice)"
+      },
+      {
+        "name": "Maitreyi Ramakrishnan",
+        "character": "Priya (voice)"
+      },
+      {
+        "name": "Orion Lee",
+        "character": "Jin Lee (voice)"
+      },
+      {
+        "name": "Wai Ching Ho",
+        "character": "Grandma (voice)"
+      },
+      {
+        "name": "Tristan Allerick Chen",
+        "character": "Tyler (voice)"
+      },
+      {
+        "name": "James Hong",
+        "character": "Mr. Gao (voice)"
+      },
+      {
+        "name": "Lori Tan Chinn",
+        "character": "Auntie Chen (voice)"
+      },
+      {
+        "name": "Mia Tagano",
+        "character": "Lily (voice)"
+      },
+      {
+        "name": "Sherry Cola",
+        "character": "Helen (voice)"
+      },
+      {
+        "name": "Lillian Lim",
+        "character": "Auntie Ping (voice)"
+      },
+      {
+        "name": "Jordan Fisher",
+        "character": "Robaire (4*Town) (voice)"
+      },
+      {
+        "name": "Finneas O'Connell",
+        "character": "Jesse (4*Town) (voice)"
+      },
+      {
+        "name": "Topher Ngo",
+        "character": "Aaron T. (4*Town) (voice)"
+      },
+      {
+        "name": "Grayson Villanueva",
+        "character": "Tae Young (4*Town) (voice)"
+      },
+      {
+        "name": "Josh Levi",
+        "character": "Aaron Z. (4*Town) (voice)"
+      },
+      {
+        "name": "Sasha Roiz",
+        "character": "Mr. Kieslowski / Additional Voices (voice)"
+      },
+      {
+        "name": "Addie Chandler",
+        "character": "Devon / Additional Voices (voice)"
+      },
+      {
+        "name": "Lily Sanfelippo",
+        "character": "Stacy Frick / Additional Voices (voice)"
+      },
+      {
+        "name": "Anne-Marie",
+        "character": "Lauren (voice) (uncredited)"
+      },
+      {
+        "name": "Evan Agos",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Trinity Bliss",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Devin Bright",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Kimberly Brooks",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Ian James Corlett",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Juliet Donenfeld",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Terri Douglas",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Ellen Dubin",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Alison Fernandez",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Jack Fisher",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Erin Fitzgerald",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Poon Fong-Fong",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Hadley Gannaway",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "David Hayter",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Karen Huie",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Sean T. Krishnan",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Arif S. Kinchen",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Paul Kwo",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "James Taku Leung",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Lydia Look",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "David Chen",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Kim Mai Guest",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Caleb Jeon",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Ethan Loh",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Noel Mason",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Jason Maybaum",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Jaiden McLeod",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Ulka Simone Mohanty",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Iara Nemirovsky",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Capri Oliver",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Benjamin Plessala",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Tsang Pui-Yee",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Maddix Robinson",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Zeno Robinson",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Vivienne Rutherford",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Violet Grace Schaffer",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Mariel Sheets",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Christian J. Simon",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Artemis Snow",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Sydney Thomas",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Timothy Cheng Chi-Sing",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Benjamin Valic",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Shondalia White",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Cedric L. Williams",
+        "character": "Additional Voices (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ren Klyce",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Ren Klyce",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Ren Klyce",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Bret Parker",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Brett Coderre",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Wendell Lee",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Victor Navone",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Patty Kihm Stevenson",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Kureha Yokoo",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Pete Docter",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Nicholas C. Smith",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Kevin Reher",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Lindsey Collins",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steve Bissinger",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Terri Douglas",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Dan Scanlon",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Steve Bloom",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Ludwig Göransson",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Natalie Lyon",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jessie Thiele",
+        "department": "Production",
+        "job": "Post Production Producer"
+      },
+      {
+        "name": "Madeline Sharafian",
+        "department": "Writing",
+        "job": "Head of Story"
+      },
+      {
+        "name": "Julia Cho",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Julia Cho",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Tom MacDougall",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "name": "Finneas O'Connell",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Steven Clay Hunter",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Jonathon Stevens",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Stephen Urata",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "James W. Brown",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Kirsten Yamaguchi",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Christopher D. Lindsay",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Royce Wesley",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Mariko Hoshi",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Jeremy Lazare",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Lucy Laliberte",
+        "department": "Writing",
+        "job": "Story Manager"
+      },
+      {
+        "name": "Aaron Hartline",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Shaun Chacko",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Robb Denovan",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Michael Stocker",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Mahyar Abousaeedi",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Paul Diaz",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Don Crum",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Steve Mason",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Beth David",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Daniela Kriston",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "name": "Danielle Feinberg",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Coya Elliott",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Rachel Slansky",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Eric Andraos",
+        "department": "Art",
+        "job": "Set Supervisor"
+      },
+      {
+        "name": "Lindsay Andrus",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Evan Bonifacio",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Jude Brownbill",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Guillaume Chartier",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Michael Chia-Wei Chen",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Graham Finley",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Joey Gilbreath",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Neil Helm",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Guilherme Sauerbronn Jacinto",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Aaron Koressel",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bruce Kuei",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "John Chun Chiu Lee",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Cameron Miyasaki",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Allison Rutland",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Michael Sauls",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Terry Song",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Jessica Torres",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Amanda Wagner",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Dovi Anderson",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Benjamin Su",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Leslie Pao",
+        "department": "Lighting",
+        "job": "Lighting Manager"
+      },
+      {
+        "name": "Brendan Beesley",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Joshua Dai",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Mike Stern",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Catherine Hang-Hicks",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Cody Lyon",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ben Rush",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Lisa Fotheringham",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Jonathan Pytko",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Tomoyuki Harashima",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Tal Shwarzman",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Doug Frankel",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Jaime Landes Roe",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Kristoff Vergne",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Manuel Zenon Rodriguez",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "David S. Peng",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Andrew Perez",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Domee Shi",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Domee Shi",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Domee Shi",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Carolyn Ee-Kaiser",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "YuehChih Eric Lin",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Todd Elliott",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Eric Anderson",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Brent Dienst",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Gang Maria Yi",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "name": "Bill Presing",
+        "department": "Writing",
+        "job": "Story Supervisor"
+      },
+      {
+        "name": "Sabine Koch O'Sullivan",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Melody Cisinski",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "name": "Melody Cisinski",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "name": "Melody Cisinski",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Arjun Rihan",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "Christopher Chua",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Rosana Sullivan",
+        "department": "Writing",
+        "job": "Story Supervisor"
+      },
+      {
+        "name": "Daniel A. Rodriguez",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Jamie Ryan",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Kate Hansen-Birnbaum",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Searit Kahsay Huluf",
+        "department": "Writing",
+        "job": "Story Coordinator"
+      },
+      {
+        "name": "Julian Teo",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Rona Liu",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Sarah Streicher",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Bruna Berford",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Nick Sumida",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Kelly Juarez",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Christian Hoffman",
+        "department": "Visual Effects",
+        "job": "Character Modelling Supervisor"
+      },
+      {
+        "name": "Steve Karski",
+        "department": "Art",
+        "job": "Set Supervisor"
+      },
+      {
+        "name": "Janel Drewis",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Teresa Falcone",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Robb Gibbs",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Rami Kasim",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Beril Pisgin-Saglam",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Priscila de Borthole Vertamatti",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Selen Atiker",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Christopher R. Carter",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Andreas Dutz",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Mark-Leon Rivera",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Kristina Sepulveda",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Maya Tanaka",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Guyu Liang",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Christopher Sanchez",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Lexi Diamond",
+        "department": "Production",
+        "job": "Casting Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "friendship",
+    "canada",
+    "concert",
+    "temple",
+    "shapeshifting",
+    "toronto, canada",
+    "coming of age",
+    "teenage girl",
+    "female protagonist",
+    "east asian lead",
+    "animal",
+    "domineering mother",
+    "perfectionist",
+    "aftercreditsstinger",
+    "chinese canadian",
+    "woman director",
+    "ancestor",
+    "boy band",
+    "mother daughter relationship",
+    "red panda"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A thirteen-year-old girl named Mei Lee is torn between staying her mother's dutiful daughter and the changes of adolescence. And as if the challenges were not enough, whenever she gets overly excited she transforms into a giant red panda.",
+    "Toronto, Canada, 2002. Trying to juggle her burgeoning independence and the family's expectations is about to become even more complicated when 13-year-old high-achiever Mei Lee makes an eye-opening discovery. And as her hyperactive teenage hormones kick in, having a mind of their own, Mei's emotions also take on a life of their own: whenever she gets too stressed or excited about something, Mei triggers a strange, radical metamorphosis. Can Mei Lee endure puberty and the growing pains of growing up, or will she keep turning red?—Nick Riganas"
+  ],
+  "synopsis": "In 2002, Meilin \"Mei\" Lee is a 13-year-old Chinese-Canadian girl living in Toronto. She helps take care of the family's temple dedicated to their ancestor, Sun Yee, and works to make her strict, overprotective mother Ming proud. Mei hides her personal interests from Ming, such as the fact that she and her best friends Miriam, Priya, and Abby are fans of the boy band 4*Town. When Ming discovers Mei's crush on the local convenience store clerk, she unintentionally embarrasses Mei in public, including in front of school bully Tyler.Mei has a vivid nightmare involving red pandas; when she wakes up in the morning, Mei has transformed into a large red panda. She hides from her parents and discovers that she only transforms when she is in a state of high emotion, though her hair remains red. Ming initially believes Mei is experiencing her first period, but finds out the truth when she further embarrasses Mei at school, causing Mei to transform and run home.Ming and Mei's father Jin explain that Sun Yee was granted this transformation to protect her daughters, and every female family member since then has also transformed when they came of age. This has become inconvenient and dangerous in the modern age, so the red panda spirit must be sealed in a talisman by a ritual on the night of the Red Moon; the next being in a month's time. Mei's friends discover her transformation but take a liking to it, and Mei finds that concentrating on them helps control the red panda within her.Ming allows Mei to resume her normal life but refuses to let Mei attend 4*Town's upcoming concert. Instead, the girls secretly raise money for the tickets at school, exploiting the popularity of Mei's red panda form, while lying to Ming. To cover the last ticket, Mei agrees to attend Tyler's birthday party as the red panda. At the party, Mei is upset to discover that the concert will be held on her ritual night. In the midst of her rage, she attacks Tyler when he insults her family, frightening the other children. Ming discovers Mei's activities and accuses her friends of corrupting and taking advantage of her. Ashamed and afraid to stand up to her mother, Mei fails to come to her friends' defense.Mei's grandmother Wu and Mei's aunts come to assist in her ritual, to Ming's dismay. As Mei prepares herself, Jin finds videos she took of herself as the red panda with her friends and tells her she should not be ashamed of this side of her. During the ritual, as Mei's red panda form is about to be sealed, she decides to keep her powers and abandons the ritual to attend the concert at the SkyDome. Her friends forgive her for her actions at the party, and they discover Tyler is also a 4*Town fan. However, during Mei's escape from the temple, Ming becomes so enraged that her amulet breaks and she transforms into a kaiju-sized red panda and disrupts the concert, intending to take Mei back by force.Mei and Ming argue about Mei's independence, and as they quarrel, Mei accidentally knocks her mother unconscious. Wu and the other aunts break their talismans to use their red panda forms to help drag Ming into a new ritual circle. Mei's friends and 4*Town join in singing to complete the ritual, sending Mei, Ming, and the other women to the astral plane. Mei reconciles with Ming and helps her mend her bond with Wu, whom Ming accidentally scarred in anger at some point before sealing her red panda form years ago. The other women conceal their red pandas in new talismans, but Mei decides to keep hers, and Ming accepts that she is finding her own path. Later, as the Lee family raises money to repair the damage caused at the SkyDome, Mei and Ming's relationship has improved, as Mei balances her temple duties-where her red panda is now an attraction-with spending time with her friends and their new friend Tyler."
+}

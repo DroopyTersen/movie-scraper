@@ -1,0 +1,811 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5nhp41gx49vXjwXuDXJwQrRFsng.jpg",
+  "id": 10719,
+  "title": "Elf",
+  "poster_path": "https://image.tmdb.org/t/p/w500/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+  "release_date": "2003-10-09",
+  "vote_average": 6.6,
+  "vote_count": 3803,
+  "popularity": 37.036,
+  "overview": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
+  "imdb_id": "tt0319343",
+  "budget": 32000000,
+  "homepage": "",
+  "revenue": 228500000,
+  "runtime": 97,
+  "tagline": "This holiday, discover your inner elf.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "New Line Cinema",
+    "Guy Walks into a Bar Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Will Ferrell",
+        "character": "Buddy"
+      },
+      {
+        "name": "James Caan",
+        "character": "Walter"
+      },
+      {
+        "name": "Bob Newhart",
+        "character": "Papa Elf"
+      },
+      {
+        "name": "Ed Asner",
+        "character": "Santa"
+      },
+      {
+        "name": "Mary Steenburgen",
+        "character": "Emily"
+      },
+      {
+        "name": "Zooey Deschanel",
+        "character": "Jovie"
+      },
+      {
+        "name": "Daniel Tay",
+        "character": "Michael"
+      },
+      {
+        "name": "Faizon Love",
+        "character": "Gimbel's Manager"
+      },
+      {
+        "name": "Peter Dinklage",
+        "character": "Miles Finch"
+      },
+      {
+        "name": "Amy Sedaris",
+        "character": "Deb"
+      },
+      {
+        "name": "Michael Lerner",
+        "character": "Fulton"
+      },
+      {
+        "name": "Andy Richter",
+        "character": "Morris"
+      },
+      {
+        "name": "Kyle Gass",
+        "character": "Eugene"
+      },
+      {
+        "name": "Artie Lange",
+        "character": "Gimbel's Santa"
+      },
+      {
+        "name": "Leon Redbone",
+        "character": "Leon the Snowman (voice)"
+      },
+      {
+        "name": "Ray Harryhausen",
+        "character": "Polar Bear Cub (voice)"
+      },
+      {
+        "name": "Claire Lautier",
+        "character": "NY 1 Reporter"
+      },
+      {
+        "name": "Ted Friend",
+        "character": "NY 1 Anchor"
+      },
+      {
+        "name": "Patrick Ferrell",
+        "character": "Security Guard"
+      },
+      {
+        "name": "Patrick McCartney",
+        "character": "Security Guard"
+      },
+      {
+        "name": "Jon Favreau",
+        "character": "Doctor / Mr. Narwhal (voice)"
+      },
+      {
+        "name": "Lydia Lawson-Baird",
+        "character": "Carolyn"
+      },
+      {
+        "name": "Brenda McDonald",
+        "character": "Nun"
+      },
+      {
+        "name": "Annie Brebner",
+        "character": "Elf Student"
+      },
+      {
+        "name": "Luke Pohl",
+        "character": "Elf Student"
+      },
+      {
+        "name": "Meghan Black",
+        "character": "Elf"
+      },
+      {
+        "name": "Patrick Baynham",
+        "character": "Elf"
+      },
+      {
+        "name": "Michael Roberds",
+        "character": "Disgruntled Cobbler Elf"
+      },
+      {
+        "name": "Peter A. Hulne",
+        "character": "Elf Twin"
+      },
+      {
+        "name": "Patrick Hulne",
+        "character": "Elf Twin"
+      },
+      {
+        "name": "Richard Side",
+        "character": "Elf Teacher"
+      },
+      {
+        "name": "David-Paul Grove",
+        "character": "Pom Pom"
+      },
+      {
+        "name": "Kristian Ayre",
+        "character": "Foom Foom"
+      },
+      {
+        "name": "Lorin Heath",
+        "character": "Perfume Clerk"
+      },
+      {
+        "name": "Dillard Brinson",
+        "character": "Printer"
+      },
+      {
+        "name": "Brad Turner",
+        "character": "Office Co-Worker"
+      },
+      {
+        "name": "David Berenbaum",
+        "character": "Office Co-Worker"
+      },
+      {
+        "name": "Brenda Crichlow",
+        "character": "Office Co-Worker"
+      },
+      {
+        "name": "Oscar Goncalves",
+        "character": "Francisco"
+      },
+      {
+        "name": "Mary Black",
+        "character": "Nurse"
+      },
+      {
+        "name": "Murray Jack",
+        "character": "Man in Elevator"
+      },
+      {
+        "name": "Mark Acheson",
+        "character": "Mailroom Guy"
+      },
+      {
+        "name": "Robin Mossley",
+        "character": "Chuck"
+      },
+      {
+        "name": "Paul Schofield",
+        "character": "Kid with Santa"
+      },
+      {
+        "name": "Matt Walsh",
+        "character": "Self"
+      },
+      {
+        "name": "Will McCormack",
+        "character": "Witness"
+      },
+      {
+        "name": "Gus Michael",
+        "character": "Witness"
+      },
+      {
+        "name": "Alexandra Michael",
+        "character": "Child"
+      },
+      {
+        "name": "Terry J. Scarlatos",
+        "character": "Police Officer"
+      },
+      {
+        "name": "Jonathan Bruce",
+        "character": "Biker"
+      },
+      {
+        "name": "Akeem A. Smith",
+        "character": "School Kid"
+      },
+      {
+        "name": "Michael Christopher Fischetti",
+        "character": "School Kid"
+      },
+      {
+        "name": "Jane Bradbury",
+        "character": "Susan Welles"
+      },
+      {
+        "name": "Peter Billingsley",
+        "character": "Ming Ming (uncredited)"
+      },
+      {
+        "name": "John Murray",
+        "character": "Man in Elevator"
+      },
+      {
+        "name": "Jay Finocchiaro",
+        "character": "Passerby (uncredited)"
+      },
+      {
+        "name": "Craig 'Radioman' Castaldo",
+        "character": "Radioman (uncredited)"
+      },
+      {
+        "name": "Graeme Duffy",
+        "character": "Orange Elf (uncredited)"
+      },
+      {
+        "name": "Maurice LaMarche",
+        "character": "Buddy's Belch (uncredited)"
+      },
+      {
+        "name": "Rachel Lana Li",
+        "character": "Child (uncredited)"
+      },
+      {
+        "name": "Natasha Denis",
+        "character": "Gimbels Elf (uncredited)"
+      },
+      {
+        "name": "Dal McKennon",
+        "character": "Jack in the Box - Laugh (archive sound) (uncredited)"
+      },
+      {
+        "name": "Nance Nickels",
+        "character": "Extra in crowd (uncredited)"
+      },
+      {
+        "name": "Albert Precourt",
+        "character": "Passerby (uncredited)"
+      },
+      {
+        "name": "Joe Ranft",
+        "character": "Store Owner (uncredited)"
+      },
+      {
+        "name": "Jamie Vergan",
+        "character": "Ice skater (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Debney",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Greg Gardiner",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Laura Jean Shannon",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Rusty Smith",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Dan Lebental",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Cale Boyter",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jon Favreau",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Gitte Axen",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Johanne Hubert",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Susie Farris",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "name": "Toby Emmerich",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jay Vinitsky",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Geoff Wallace",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Shauna Robertson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Todd Komarnicki",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David Berenbaum",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Victoria Down",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "David B. Householter",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Jimmy Miller",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Kent Alterman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jon Berg",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Julie Darmody",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Craig Seitz",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Stephen Chiodo",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Kimberly Lowe Voigt",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Kimberly Lowe Voigt",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "William Waring",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Scott J. Ateah",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Rebeccah Delchambre",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Kelly Zombor",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "G. A. Aguilar",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Doug Chapman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Mylrea",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James Mazzola",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Owen Walstrom",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kelvin Humenny",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Lauren Ritchie",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Tanya Noel Hill",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Anthony Milch",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Musa Brooker",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Jessica Clothier",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Tony Lazarowich",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Jon Taylor",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jay Mitchell",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Brad Sherman",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mickey Gilbert",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Bryan Korenberg",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Joseph B. Conmy IV",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Joe Bauer",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Alan Markfield",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Steve Mann",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Allan Galajda",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Douglas Bloom",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Angel De Angelis",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Ian C. Ballard",
+        "department": "Costume & Make-Up",
+        "job": "First Assistant Hairstylist"
+      },
+      {
+        "name": "John Leveque",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Stephen P. Robinson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Christopher Woods",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Erik De Boer",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "James Sarzotti",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Donna Bis",
+        "department": "Costume & Make-Up",
+        "job": "First Assistant Hairstylist"
+      },
+      {
+        "name": "Carey Toner",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Carey Toner",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Sherry Linder-Gygli",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Jeremy Oddo",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Justin Mitchell",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bill Westenhofer",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Teresa Drilling",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Brian Dowrick",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Hunter Athey",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Steve Baker",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Troy W. Carrington",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Giovanni Dulay",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Antoine Durr",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Brian Fisher",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Dan Foster",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Greg Groenekamp",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Rob Meyers",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "John Paszkiewicz",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Joe Salazar",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Charles E. McCarry",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "David E. Baron",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Mark Rodahl",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Wade Wilson",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Doug Lavender",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "David Husby",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Nancy Duggan",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Victoria Balharry",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Patrick Stepien",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Arthur Jeppe",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Penny Gibbs",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Jim Brebner",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Andrew M. Robinson",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Amrit Laura Gunhouse",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Todd Lawley",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Kelly Canfield",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Barbara Wilson",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Jennifer Silvertand",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      }
+    ]
+  },
+  "keywords": [
+    "elves",
+    "dwarf",
+    "holiday",
+    "adoption",
+    "santa claus",
+    "sarcasm",
+    "looking for  birth parents",
+    "romance",
+    "orphan",
+    "north pole",
+    "christmas spirit",
+    "christmas",
+    "workshop",
+    "father son relationship"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Raised as an oversized elf, Buddy travels from the North Pole to New York City to meet his biological father, Walter Hobbs, who doesn't know he exists and is in desperate need of some Christmas spirit.",
+    "Buddy was a baby in an orphanage who stowed away in Santa's sack and ended up at the North Pole. Later, as an adult who happened to be raised by elves, Santa allows him to go to New York City to find his birth father, Walter Hobbs. He, who is on Santa's naughty list for being a heartless jerk, had no idea that Buddy was even born. Buddy, meanwhile, experiences the delights of New York City (and human culture) as only an elf can. When Walter's relationship with him interferes with his job, he is forced to reevaluate his priorities.—Ken Miller <wkmiller704@yahoo.com>"
+  ],
+  "synopsis": "Thirty years prior to the events of the film, a baby crawls into Santa's sack at an orphanage. Santa unwittingly takes the baby back to the North Pole, where it is decided that Papa Elf will raise him. The baby, named Buddy, is raised unaware that he is actually a human, until his enormous size and poor toy-making abilities cause Papa Elf to tell him the truth. The old elf reveals that Buddy was born to Walter Hobbs and Susan Wells and placed up for adoption, that Walter never knew Buddy was born, and that he now works at a children's book company in New York. From Santa, Buddy learns that his father is also on the naughty list; nevertheless, Buddy sets out for New York to find his father.Once in the city, Buddy displays his naïveté in several ways, as he crosses the street at the wrong time, chews discarded gum on the street, and takes a coffee shop's claim to have the \"world's best cup of coffee\" literally. Buddy eventually finds his father in the Empire State Building, but an incredulous Walter Hobbs has him thrown out. Buddy takes a security guard's sarcastic suggestion to \"get back to Gimbel's,\" where he is mistaken for an employee and meets the lovely but unenthusiastic Jovie. The next morning, Buddy is shocked to discover that Gimbel's Santa is not the genuine article, and a fight ensues between them. Buddy is arrested and Walter reluctantly bails him out and takes him to a pediatrician for a DNA test. Once it is proven that Buddy is in fact Walter's son, he takes Buddy home to meet his wife Emily and son Michael. Walter is clearly put off by Buddy's immature, innocent behavior (he slathers his pasta with maple syrup and can't seem to understand that Walter isn't interested in playing with him), but Emily insists that they take care of Buddy until he \"recovers.\"Buddy befriends Michael after the former defeats a gang of bullies single-handedly in a snowball fight, and Michael encourages Buddy to ask Jovie out. The next day, Walter reluctantly takes Buddy to work with him, and uses Buddy's naïveté to send him down to the mailroom. Buddy gets drunk on a coworker's whiskey, thinking it's syrup, and ends up throwing a party in the mailroom. That night, Buddy has a successful date with Jovie. Walter, meanwhile, has been trying to save his floundering business by hiring the temperamental best-selling writer Miles Finch. When the vertically-challenged Finch arrives, Buddy mistakes him for an elf. The offended Finch attacks Buddy and storms out of the conference room without signing a deal with Walter's company. Walter is so upset over this setback that he screams at Buddy to \"get the Hell out of my life.\" A deeply hurt Buddy roams New York that night (Christmas Eve), until he looks up and sees Santa's sleigh crash in Central Park. He finds Santa, who explains that he'd lost the sleigh's engine and that the last bit of Christmas spirit (which had powered the sleigh previously) had gone. Santa convinces Buddy to help him fix the sleigh.Michael, meanwhile, bursts in on Walter's board meeting to tell him frantically that Buddy has gone. He manages to convince Walter to put his family above his job for the first time, and the two find Buddy in Central Park as he locates the sleigh's engine. Buddy takes them to meet Santa, who reveals to Michael that belief in Santa (manifested in knowing that Santa is bringing people what they want for Christmas) can make his sleigh fly. Michael therefore steals Santa's list and reads it in front of the TV cameras now gathered outside Central Park, so that people all across New York believe conclusively in Santa. The Central Park Rangers begin to chase Santa's sleigh while Buddy is still trying to reattach the engine, and eventually the engine is lost. However, Jovie (remembering that Buddy had told her \"The best way to spread Christmas cheer is singing loud for all to hear\"), manages to overcome her shyness and get the sleigh in the air by the power of Christmas spirit when she leads the crowd in singing \"Santa Claus is Comin' to Town,\" with even Walter eventually joining in. In the epilogue, Papa Elf explains that Walter started his own publishing company, and the first book released was Buddy's own account of his adventures. Papa Elf also reveals that Buddy and Jovie married and had a daughter named Susie, and that they visit the North Pole periodically."
+}

@@ -1,0 +1,808 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/oLma4sWjqlXVr0E3jpaXQCytuG9.jpg",
+  "id": 512200,
+  "title": "Jumanji: The Next Level",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+  "release_date": "2019-12-04",
+  "vote_average": 6.915,
+  "vote_count": 8141,
+  "popularity": 69.339,
+  "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+  "imdb_id": "tt7975244",
+  "budget": 125000000,
+  "homepage": "https://www.sonypictures.com/movies/jumanjithenextlevel",
+  "revenue": 801693929,
+  "runtime": 123,
+  "tagline": "Everything will change.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Seven Bucks Productions",
+    "Matt Tolmach Productions",
+    "The Detective Agency"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Dwayne Johnson",
+        "character": "Dr. Smolder Bravestone"
+      },
+      {
+        "name": "Kevin Hart",
+        "character": "Franklin 'Mouse' Finbar"
+      },
+      {
+        "name": "Jack Black",
+        "character": "Professor Sheldon 'Shelly' Oberon"
+      },
+      {
+        "name": "Karen Gillan",
+        "character": "Ruby Roundhouse"
+      },
+      {
+        "name": "Awkwafina",
+        "character": "Ming"
+      },
+      {
+        "name": "Nick Jonas",
+        "character": "Jefferson 'Seaplane' McDonough"
+      },
+      {
+        "name": "Alex Wolff",
+        "character": "Spencer Gilpin"
+      },
+      {
+        "name": "Morgan Turner",
+        "character": "Martha Kaply"
+      },
+      {
+        "name": "Madison Iseman",
+        "character": "Bethany"
+      },
+      {
+        "name": "Ser'Darius Blain",
+        "character": "Anthony 'Fridge' Johnson"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "Eddie"
+      },
+      {
+        "name": "Danny Glover",
+        "character": "Milo"
+      },
+      {
+        "name": "Rhys Darby",
+        "character": "Nigel Billingsley"
+      },
+      {
+        "name": "Colin Hanks",
+        "character": "Alex"
+      },
+      {
+        "name": "Rory McCann",
+        "character": "Jurgen the Brutal"
+      },
+      {
+        "name": "Marin Hinkle",
+        "character": "Spencer's Mom"
+      },
+      {
+        "name": "Vince Pisani",
+        "character": "Pharmacy Manager"
+      },
+      {
+        "name": "Dorothy Steel",
+        "character": "Village Elder"
+      },
+      {
+        "name": "Jennifer Patino",
+        "character": "Bravestone's Mother"
+      },
+      {
+        "name": "Madison Johnson",
+        "character": "Little Bethany Vreeke"
+      },
+      {
+        "name": "Dania Ramirez",
+        "character": "Lady in Red"
+      },
+      {
+        "name": "Derek Russo",
+        "character": "Key Master"
+      },
+      {
+        "name": "Nick Gomez",
+        "character": "Oasis Drunk"
+      },
+      {
+        "name": "Massi Furlan",
+        "character": "Switchblade"
+      },
+      {
+        "name": "Javier Villamil",
+        "character": "Switchblade's Sidekick"
+      },
+      {
+        "name": "Anthony Neves",
+        "character": "Jurgen's Patrolman"
+      },
+      {
+        "name": "Morgan Brown",
+        "character": "Fortress Guard"
+      },
+      {
+        "name": "Deobia Oparei",
+        "character": "Elevator Guard"
+      },
+      {
+        "name": "Leslie Simms",
+        "character": "Cake Lady"
+      },
+      {
+        "name": "John Ross Bowie",
+        "character": "Cavendish"
+      },
+      {
+        "name": "Lucy DeVito",
+        "character": "Maiden"
+      },
+      {
+        "name": "Bebe Neuwirth",
+        "character": "Nora"
+      },
+      {
+        "name": "Lamorne Morris",
+        "character": "Heater Repair Guy"
+      },
+      {
+        "name": "Darin Ferraro",
+        "character": "The Gun Seller (uncredited)"
+      },
+      {
+        "name": "Sal Longobardo",
+        "character": "Tony (uncredited)"
+      },
+      {
+        "name": "Michael Beasley",
+        "character": "Coach Davis (uncredited)"
+      },
+      {
+        "name": "Charles Green",
+        "character": "Bartender (uncredited)"
+      },
+      {
+        "name": "James William Ballard",
+        "character": "Bad Guy in Fortress (uncredited)"
+      },
+      {
+        "name": "Kodai Yamaguchi",
+        "character": "Jumanjian Villager (uncredited)"
+      },
+      {
+        "name": "Ashley Scott",
+        "character": "Ashley (uncredited)"
+      },
+      {
+        "name": "Melissa Kennemore",
+        "character": "Marauder 1 / Jergens Inner Circle (uncredited)"
+      },
+      {
+        "name": "Vanessa Cater",
+        "character": "Red Headed Marauder (uncredited)"
+      },
+      {
+        "name": "John David Bulla",
+        "character": "Groovy Face Tattoo Biker (uncredited)"
+      },
+      {
+        "name": "Ryan Cheeseman",
+        "character": "Marauder (uncredited)"
+      },
+      {
+        "name": "Cruz Abelita",
+        "character": "Messenger Boy (uncredited)"
+      },
+      {
+        "name": "Sheril Rodgers",
+        "character": "New York City Pedestrain (uncredited)"
+      },
+      {
+        "name": "Bruno Rose",
+        "character": "NY Dorm Guy (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jeanne McCarthy",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "name": "Scott Rosenberg",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Scott Rosenberg",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Stella Vaccaro",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Ted Field",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Louise Mingenbach",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Wolfgang Stegemann",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Dwayne Johnson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steve Edwards",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Gyula Pados",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Andrew Max Cahn",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Chris Van Allsburg",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Chris Van Allsburg",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "William Teitler",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jake Kasdan",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Jake Kasdan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jake Kasdan",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Bill Brzeski",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "David B. Householter",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Matt Rebenkoff",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Danielle Berman",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Tanoai Reed",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Rob Mars",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeff Pinkner",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jeff Pinkner",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Adrian Hein",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Theo Kypri",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Henry Jackman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Rhys Millen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Roel Failma",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nicole Abellara Hallman",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "name": "Matt Tolmach",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dany Garcia",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Brian Stultz",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jahnel Curfman",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Allan Henry",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Myles Humphus",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "David Conk",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Danny Le Boyer",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ruben Maldonado",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mike Weber",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Craig Henningsen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Matt Berberi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brice Liesveld",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Mark Breakspear",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Drew Monahan",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Randy James Beckman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Isaac Hamon",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "J.J. Dashnaw",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Wainani Young-Tomich",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Michael Jamorski",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Hiram Garcia",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Michael Gowen",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Melvin Mar",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Tom McComas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Shawnna Thibodeau",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Wade Eastwood",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Wade Eastwood",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Vanessa Cater",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Daniel Berkowitz",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Jimmy Waitman",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Josh Diogo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Barnes",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Tricia Barrett",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Shauna Galligan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Thomas Joseph Culler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alex Berson",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Tad Griffith",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marc Canonizado",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Evanko",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dave Van Zeyl",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alyma Dorsey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael Hansen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jess King",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Charles Abou Aad",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Justin Eaton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ryan Allen",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Lydia Aguilar",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Kevin Kersting",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Joann Connolly",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Greg Harris",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Wakeel Ahmad",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Myles Asseter",
+        "department": "Visual Effects",
+        "job": "Modelling Supervisor"
+      },
+      {
+        "name": "Ritesh Aggarwal",
+        "department": "Visual Effects",
+        "job": "Stereoscopic Supervisor"
+      },
+      {
+        "name": "Scott Armstrong",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Chad Bowman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kristina M. Peterson",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Breanna Adams",
+        "department": "Visual Effects",
+        "job": "VFX Production Coordinator"
+      },
+      {
+        "name": "Troy Butler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lucy Cork",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Stephane Fiossanangaye",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jonathan Asselin",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ndosi Anyabwile",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Cory Bedwell",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Bahget Abdalmalek",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Nathan Kimball",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Nate Hitpas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Shudhdodhan Milind Ambhore",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Joshua Romeo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sara Price",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Samuel J. Paul",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Chris Naylor",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Simeon Freeman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Cihangir",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lee Chesley",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Chris Balualua",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Branden Arnold",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Riley Flanagan",
+        "department": "Production",
+        "job": "Key Set Production Assistant"
+      },
+      {
+        "name": "Joe Ross",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jahan Arsi",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Steven Benjamin",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Kay Hoddy",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Sky Salem Robinson",
+        "department": "Production",
+        "job": "Associate Producer"
+      }
+    ]
+  },
+  "keywords": [
+    "magic",
+    "animal attack",
+    "body-swap",
+    "adventurer",
+    "superhuman strength",
+    "duringcreditsstinger",
+    "action hero",
+    "trapped in a game"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have to brave parts unknown from arid deserts to snowy mountains, to escape the world's most dangerous game.",
+    "The gang is back but the game has changed. As they return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored, from the arid deserts to the snowy mountains, in order to escape the world's most dangerous game.",
+    "One quiet year after unearthing the old-school video-game console in Jumanji: Welcome to the Jungle (2017), Spencer and his friends--Martha, Fridge, and Bethany--have all gone their separate ways. However, the power of the mysterious board game is unlimited, and before they know it, the quartet of reluctant players find themselves pulled into the dangerous mystical realm along with a pair of unexpected participants. But this time, the game has evolved. Now, challenging new levels await the users' digital alter egos as a mighty adversary bent on destruction threatens Jumanji. Amid unforgiving deserts, treacherous jungle oases, and steep snow-capped mountains, will Dr Smoulder Bravestone and the other characters figure out how to cooperate to get out of there alive?—Nick Riganas",
+    "The group of high school students return inside the video game with a relative and an old friend to work together to complete the next stage of the video game. They make sure that their personal lives do not get in the way of finishing the video game and returning home.—RECB3"
+  ],
+  "synopsis": "A year after the events of the previous film, friends Spencer Gilpin (Alex Wolff), Anthony \"Fridge\" Johnson (Ser'Darius Blain), Martha Kaply (Morgan Turner) and Bethany Walker (Madison Iseman) have graduated high school and gone their separate ways. Bethany is travelling the world performing community service, Martha has become a popular girl in college while Fridge has been working out extensively. To celebrate the holidays, they arrange a reunion at Nora's diner in Brantford, New Hampshire.Meanwhile, Spencer has encountered a rough patch in his life while attending college in New York. Unhappy with his lowly supermarket job, he has also put his long-distance relationship with Martha on hold. When he returns home, he finds his maternal grandfather Eddie (Danny DeVito) sharing his room while he recovers from hip surgery. That night, as Spencer and Eddie discuss their problems, Eddie tells his grandson that college is the best time of one's life and that things are destined to go downhill as one grows older.Despairing that his life is ever going to improve, Spencer decides to re-don the persona of Dr. Smolder Bravestone within the Jumanji video game. Retrieving the broken pieces of the game which he had secretly kept, he repairs it to a barely-working condition and reactivates it.The next morning, Spencer's three friends are baffled when he fails to show up for their scheduled reunion and visit his house looking for him. There, they meet Eddie and his estranged friend Milo Walker (Danny Glover), learning that the two men were once joint owners of Nora's and had fallen out after Milo chose to retire. While searching for Spencer, the threesome hears the dreaded drum beats of Jumanji and discover the game running in his basement. Reluctantly, they all decide to re-enter the game in order to rescue him.Upon entering the game, things aren't exactly as they were the first time the teens played the game. Although Martha is once again playing as Ruby Roundhouse (Karen Gillan), Fridge is now playing as Bethany's former avatar, Professor Shelly Oberon (Jack Black). Further complicating matters, the damaged game has inadvertently sucked in Eddie and Milo too, with them respectively playing the two remaining avatars, Dr. Smolder Bravestone (Dwayne Johnson) and Franklin \"Mouse\" Finbar (Kevin Hart) respectively, and Bethany has been left behind.After Fridge loses his first life thanks to being eaten by an anaconda, NPC guide Nigel Billingsley (Rhys Darby) arrives in a plane and gives the players their new mission: evil conqueror Jurgen the Brutal, (Rory McCann) the murderer of Bravestone's parents has stolen a gem known as the Falcon Jewel which guarantees good harvests. The four adventurers must reacquire the jewel and \"show it to the sun\", calling out Jumanji's name to win.After Nigel drops the players in a desert, they are attacked by a herd of ostriches, barely making an escape in an abandoned dune buggy. It quickly becomes apparent that Eddie's stubborn impulsiveness and Milo's penchant for making long-winded explanations is endangering the group, as proven when Milo takes too long to exposit about the ostriches' biology, resulting in Eddie losing his first life when he confronts one of them.Upon arrival at a place called the Oasis, the team runs into Spencer, who is now a female cat burglar named Ming Fleetfoot (Awkwafina). Eddie inadvertently costs Spencer his first life by capturing him and giving him to Jurgen the Brutal, who executes Spencer by beheading him, though Spencer thankfully respawns nearby. Following the clues given to them, Fridge and Martha obtain a desert fruit called the Jumanji Berry while discovering a pool of green glowing water which allows them to exchange avatars.As Spencer and Milo search for camels for the group to ride, Eddie gets into a brawl with about 45 strangers. The battle draws the attention of Switchblade, a mercenary who is Bravestone's sole weakness. Using a rocket launcher, Switchblade kills all the players with a single shot, costing each one of them a life. Riding the camels to their next destination, the team is slowed down when Eddie and Milo argue about the latter's choice to retire from the restaurant business, a decision which angered the workaholic Eddie. The fight ends when Eddie crushes Milo beneath a rock, costing Milo his second life.Eventually, the group arrives at the next level: a series of moving rope bridges spanning a canyon. It is not long before they encounter a horde of angry mandrills, which hound the players and attempt to hurl them off the bridges. Although Fridge is able to guide the team across using his avatar's geometry skill, they are ultimately surrounded on the other side by the vicious primates, and Martha loses her second life when she's tossed into the canyon by the mandrills at one point. At the last moment, they are rescued by Alex Vreeke (Colin Hanks), whom Bethany has recruited. He's playing once again as Jefferson \"Seaplane\" McDonough (Nick Jonas), while Bethany is now playing as a black horse named Cyclone. The two of them have brought along winter gear for the others to wear.Eddie and Milo reconcile, with the latter explaining that he is terminally ill and wishes to make amends with Eddie before he dies. As the group prepares to confront Jurgen at his mountain fortress, Fridge tells everyone that the mismatched avatars have been a major liability up to this point. Spencer's neuroticism isn't really well suited to a thief like Ming, Milo's long-windedness means he takes too long to explaining the threats any wild animal can pose to them, and Eddie is too hotheaded and impulsive to be Bravestone. Shortly after this, Fridge accidentally stumbles upon a river flowing with the mysterious glowing water he and Martha saw at the Oasis. All of the characters take the plunge save for Martha and Alex, resulting in Spencer, Fridge and Bethany being returned to their original avatars, while Eddie is now playing Ming and Milo is now playing Cyclone.Unfortunately, the two old men are captured by Jurgen's men shortly afterwards, leaving the original team of five to rescue them. Infiltrating the mountain fortress, Alex loses two of his lives to the booby traps trying to rescue Milo, while Fridge and Bethany pose as a pair of famous brothers Jurgen is expecting. Meanwhile, Spencer and Martha rekindle their relationship while finding and freeing Eddie.Inside the fortress, Martha battles Jurgen's goons to music while Spencer pursues the fleeing Jurgen. Confronting the conqueror aboard his zeppelin, Spencer deduces that the Jumanji Berry is Jurgen's weakness, using it to subdue and defeat the villain. Below, Cyclone is revealed to be a flying horse, which leads to Milo carrying Eddie to meet Spencer in midair. Spencer tosses the Falcon Jewel to his grandfather, who points the gem at the sun as instructed by Nigel. Their mission accomplished, the whole team cries out \"Jumanji\", ending the game.Nigel arrives to send the players home, but Milo expresses his wish to stay in the game. Eddie bids him farewell, understanding his motivations and thanking him for their friendship. Spencer in turn thanks his friends for coming for him, whereupon Fridge tells him not to do it again. Everyone returns safely to Spencer's basement, and Eddie changes his mind about growing old, saying to Spencer that it is in fact \"a gift\".Spencer and Eddie finally go to Nora's, where it is revealed that the diner's current owner is actually Nora Shepherd, the aunt of Judy and Peter and an old friend of Eddie's. Using the lessons he learned as Bravestone, Eddie begins to flirt with her, smoldering intensely as he does so.In a mid-credits scene, Spencer's mother calls in a repairman to fix the basement heater, who stumbles across the game and its console. Back at Nora's, a herd of ostriches stampedes past the diner, shocking Spencer and his friends."
+}

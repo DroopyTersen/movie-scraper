@@ -1,0 +1,788 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/mrgPeVDJEexgQ0UyqVyeJGvbefJ.jpg",
+  "id": 504172,
+  "title": "The Mule",
+  "poster_path": "https://image.tmdb.org/t/p/w500/vkOfx5meJvFb4qmAJU7j6v8IIpZ.jpg",
+  "release_date": "2018-12-14",
+  "vote_average": 6.8,
+  "vote_count": 4693,
+  "popularity": 53.148,
+  "overview": "Earl Stone, a man in his eighties, is broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he's just signed on as a drug courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar of hard-charging DEA agent Colin Bates.",
+  "imdb_id": "tt7959026",
+  "budget": 50000000,
+  "homepage": "http://www.themulefilm.com",
+  "revenue": 174800000,
+  "runtime": 116,
+  "tagline": "Nobody Runs Forever",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "production_companies": [
+    "Imperative Entertainment",
+    "Bron Studios",
+    "Malpaso Productions",
+    "Warner Bros. Pictures",
+    "Creative Wealth Media Finance"
+  ],
+  "production_countries": [
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Clint Eastwood",
+        "character": "Earl Stone"
+      },
+      {
+        "name": "Bradley Cooper",
+        "character": "Agent Colin Bates"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "character": "Special Agent in Charge"
+      },
+      {
+        "name": "Michael Peña",
+        "character": "Agent Treviño"
+      },
+      {
+        "name": "Dianne Wiest",
+        "character": "Mary"
+      },
+      {
+        "name": "Andy García",
+        "character": "Latón"
+      },
+      {
+        "name": "Ignacio Serricchio",
+        "character": "Julio"
+      },
+      {
+        "name": "Taissa Farmiga",
+        "character": "Ginny"
+      },
+      {
+        "name": "Alison Eastwood",
+        "character": "Iris"
+      },
+      {
+        "name": "Richard Herd",
+        "character": "Tim Kennedy"
+      },
+      {
+        "name": "Lobo Sebastian",
+        "character": "Bug"
+      },
+      {
+        "name": "Manny Montana",
+        "character": "Axl"
+      },
+      {
+        "name": "Noel Gugliemi",
+        "character": "Bald Rob"
+      },
+      {
+        "name": "Gustavo Muñoz",
+        "character": "Farmhand #2"
+      },
+      {
+        "name": "Patrick L. Reyes",
+        "character": "Farmhand #3"
+      },
+      {
+        "name": "Cesar de León",
+        "character": "José"
+      },
+      {
+        "name": "Jackie Prucha",
+        "character": "Helen"
+      },
+      {
+        "name": "Adam Drescher",
+        "character": "Computer Daylily Guy"
+      },
+      {
+        "name": "Christi McClintock",
+        "character": "Daylily Fan"
+      },
+      {
+        "name": "Keith Flippen",
+        "character": "MC"
+      },
+      {
+        "name": "Kinsley Isla Dillon",
+        "character": "Younger Ginny"
+      },
+      {
+        "name": "Joe Knezevich",
+        "character": "Dave"
+      },
+      {
+        "name": "Megan Leahy",
+        "character": "Bartender"
+      },
+      {
+        "name": "Austin Freeman",
+        "character": "Mike"
+      },
+      {
+        "name": "Victor Rasuk",
+        "character": "Rico"
+      },
+      {
+        "name": "Robert LaSardo",
+        "character": "Emilio"
+      },
+      {
+        "name": "Saul Huezo",
+        "character": "Andrés"
+      },
+      {
+        "name": "Lee Coc",
+        "character": "Assault Rifle Guy"
+      },
+      {
+        "name": "Eugene Cordero",
+        "character": "Luis Rocha"
+      },
+      {
+        "name": "Felicia Dee",
+        "character": "Biker #1"
+      },
+      {
+        "name": "Jessica B. Wellington",
+        "character": "Biker #2"
+      },
+      {
+        "name": "Michael H. Cole",
+        "character": "Banker"
+      },
+      {
+        "name": "Charles Lawlor",
+        "character": "Phil"
+      },
+      {
+        "name": "Alan Heckner",
+        "character": "Texas State Trooper"
+      },
+      {
+        "name": "Mollie Busta",
+        "character": "Mollie-B"
+      },
+      {
+        "name": "James DeForest Parker",
+        "character": "Old Vet"
+      },
+      {
+        "name": "Clifton Collins Jr.",
+        "character": "Gustavo"
+      },
+      {
+        "name": "Daniel Moncada",
+        "character": "Eduardo"
+      },
+      {
+        "name": "Paul Alayo",
+        "character": "Sal"
+      },
+      {
+        "name": "Travina Springer",
+        "character": "Young Wife"
+      },
+      {
+        "name": "Kareem J. Grimes",
+        "character": "Nerdy Husband"
+      },
+      {
+        "name": "Caroline Avery Granger",
+        "character": "Hot 45-Year-Old"
+      },
+      {
+        "name": "Diego Cataño",
+        "character": "Weasel"
+      },
+      {
+        "name": "Kiana N. Paz",
+        "character": "Cartel Girl #1"
+      },
+      {
+        "name": "Ashley V. Yanez",
+        "character": "Cartel Girl #2"
+      },
+      {
+        "name": "Nicole M. Gomez",
+        "character": "Cartel Girl #3"
+      },
+      {
+        "name": "Dylan Kussman",
+        "character": "Sheriff"
+      },
+      {
+        "name": "Grant Roberts",
+        "character": "DEA Agent"
+      },
+      {
+        "name": "Pete Burris",
+        "character": "DEA Regional Manager"
+      },
+      {
+        "name": "Loren Dean",
+        "character": "Agent Brown"
+      },
+      {
+        "name": "Kenny Barr",
+        "character": "SWAT Captain"
+      },
+      {
+        "name": "Jan Hartsell",
+        "character": "Beauty School Admin"
+      },
+      {
+        "name": "Javier Vazquez Jr.",
+        "character": "Driver Pulled Over"
+      },
+      {
+        "name": "Derek Russo",
+        "character": "Big Dude"
+      },
+      {
+        "name": "Megan Mieduch",
+        "character": "24-Hour Waitress"
+      },
+      {
+        "name": "Leonard Hennessy",
+        "character": "Pastor"
+      },
+      {
+        "name": "Dayna Beilenson",
+        "character": "Judge"
+      },
+      {
+        "name": "Tess Malis Kincaid",
+        "character": "Attorney"
+      },
+      {
+        "name": "Antwan Mills",
+        "character": "Translator"
+      },
+      {
+        "name": "Sparrow Nicole",
+        "character": "Ashlyn Bates (uncredited)"
+      },
+      {
+        "name": "Almendra Fuentes",
+        "character": "Chola (uncredited)"
+      },
+      {
+        "name": "Mia Rio",
+        "character": "Chola Girlfriend (uncredited)"
+      },
+      {
+        "name": "Jill Flint",
+        "character": "Pam (uncredited)"
+      },
+      {
+        "name": "Ashani Roberts",
+        "character": "Pretty Nurse (uncredited)"
+      },
+      {
+        "name": "Devon Ogden",
+        "character": "Pretty Woman (uncredited)"
+      },
+      {
+        "name": "Katie Gill",
+        "character": "Sarah (uncredited)"
+      },
+      {
+        "name": "Scott Dale",
+        "character": "The Clown (uncredited)"
+      },
+      {
+        "name": "Artemis",
+        "character": "Asian Bride (uncredited)"
+      },
+      {
+        "name": "Milton Saul",
+        "character": "U.S. Marshal (uncredited)"
+      },
+      {
+        "name": "Timothy Carr",
+        "character": "Prisoner (uncredited)"
+      },
+      {
+        "name": "Marco Schittone",
+        "character": "LJ Bates"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Clint Eastwood",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Clint Eastwood",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Joel Cox",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Deborah Hopper",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Ronald R. Reiss",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Kevin Ishioka",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Bradley Thomas",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tim Moore",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Nick Schenk",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Dean A. Zupancic",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Ruben Fleischer",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Arturo Sandoval",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Doug Coleman",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Geoffrey Miclat",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "name": "Aaron L. Gilbert",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Liz Radley",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "John Joseph Thomas",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "David Bernad",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mitchell Ray Kenney",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Lindsay Good",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Ana Maria Quintana",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "John T. Reitz",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Chase Paris",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Tara Feldstein Bennett",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Alan Robert Murray",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Rick Sander",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jillian Apfelbaum",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Hans Bjerno",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Claire Folger",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Adam Ohl",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Darren Maynard",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Dean Grimes",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Thom Williams",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Eric Dvorsky",
+        "department": "Camera",
+        "job": "Aerial Camera Technician"
+      },
+      {
+        "name": "Eliza Coleman",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Steven Morrow",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "James W. Apted",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Rory Bruen",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Michael Crow",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "James B. Crawford",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Owen Patry",
+        "department": "Camera",
+        "job": "Aerial Camera"
+      },
+      {
+        "name": "David Elwell",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Derek Russo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Terry Fitzpatrick",
+        "department": "Visual Effects",
+        "job": "24 Frame Playback"
+      },
+      {
+        "name": "Jessica Meier",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kristina Rivera",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David M. Bernstein",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Matthew McGinn",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Julien Pougnier",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Aaron Matthews",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Scott Dale",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Scott Dale",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Matthew Jerome",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Vicente Parada",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Jack Taggart",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "Kathy Oberlin",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Dan Friedkin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Bobby Hernandez",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Allen Robinson",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Cristin Azure",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tyler Childs",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Goeun Lee",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Holly Hagy",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Trent Brya",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Abhishek Shaw",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Ryan Allen",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "name": "Shizan Faisal",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Christian Wenger",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Matt Shearer",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Yves Bélanger",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Amit Kumar",
+        "department": "Visual Effects",
+        "job": "2D Supervisor"
+      },
+      {
+        "name": "Mrinal Ranjan",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Sam Dolnick",
+        "department": "Writing",
+        "job": "Original Concept"
+      },
+      {
+        "name": "Jason Bowers",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Michael Kellogg",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Kyle Leftridge",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Tim Chang",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Brandon Crawford",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Dinah Lightsey",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Kim Trujillo",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Richard Alonso",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Kelsey Elias",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Graham Tailleur",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Todd Hoffman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "C.C. Ice",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Charlie Parrish",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Warren Jones",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Jenny Jerman",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Alexander Hashioka Oatfield",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      }
+    ]
+  },
+  "keywords": [
+    "mexico",
+    "drug crime",
+    "drug mule",
+    "based on true story",
+    "drug cartel",
+    "dea agent",
+    "korean war veteran",
+    "based on magazine, newspaper or article",
+    "2000s",
+    "sinaloa"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A ninety-year-old horticulturist and Korean War veteran turns drug mule for a Mexican cartel.",
+    "Clint Eastwood stars as Earl Stone, a man who is ninety years old, broke, alone, and facing foreclosure of his business when he is offered a job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he's just signed on as a drug courier for a Mexican cartel. He does well, so well, in fact, that his cargo increases exponentially, and Earl is assigned a handler. But he isn't the only one keeping tabs on Earl. The mysterious new drug mule has also hit the radar of hard-charging D.E.A. Agent Colin Bates (Bradley Cooper). And even as his money problems become a thing of the past, Earl's past mistakes start to weigh heavily on him, and it's uncertain if he'll have time to right those wrongs before law enforcement, or the cartel's enforcers, catch up to him.",
+    "In Peoria, Illinois, Korean War veteran Earl Stone (Clint Eastwood) is a ninety-year-old horticulturist that has always prioritized his work and friends over his family. He is estranged by his ex-wife Mary (Dianne Wiest) and his daughter Iris (Alison Eastwood). When his granddaughter Ginny (Taissa Farmiga) is celebrating her engagement with her fiancé, Earl is completely broke, and agrees to become a mule above any suspicion for the Mexican cartel, transporting drugs under the alias of \"Tata\". He makes money and resolves many financial issues of his family and friends. Meanwhile, efficient D.E.A. Agent Colin Bates (Bradley Cooper) is in charge of investigating the notorious cartel and the mysterious Tata with his partner Agent Treviño (Michael Peña).—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Due to financial problems, an 80-something-year-old man, Earl Stone, takes a job as a drug mule, driving shipments between Texas and Illinois for a Mexican cartel. Unbeknownst to him, the DEA are targeting the cartel, resulting in Earl being the central figure in their investigations.—grantss",
+    "Illinois celebrated lily grower Earl Stone (73) wins horticulture prizes, but is too broke to afford a nice gift for his daughter Iris's wedding, where he even arrives late, grimly scolded by mother Mary who divorced him. 13 years of Internet competition later, he's so broke he can't keep his home. So a vague family friend's offer to earn a pack of banknotes by transporting a closed bag from Texas to Illinois in his trusted rickety truck and home is irresistible, so becomes his lucrative job, and he starts spreading the proceeds to family and veteran buddies. The DEA, using blackmail, and rivalry within the Mexican drug cartel that exploits the mule draw him and kin into a dirty game with many losers.—KGF Vissers"
+  ],
+  "synopsis": "This movie is based on a true story of a World War II vet named Leo Sharp.The film opens with Earl Stone (Clint Eastwood), an elderly man who grows daylilies, winning another award for his flowers. At the same time, his daughter Iris (Alison Eastwood) is getting re-married elsewhere. Granddaughter Ginny is initially optimistic that Earl will show up but grandma Mary Stone - Earl's ex-wife (Dianne Wiest) knows he will ultimately disappoint everyone. In fact, Earl stands up his family once more.10 years later.The internet flower businesses have driven Earl into foreclosure. He shows up at Ginny's birthday party and Iris causes a scene. Mary realizes that Earl is there looking for a place to live, when she sees all the possessions in his beat-up old truck.One of Ginny's shady friends gives Earl a business card and tells him he knows someone who is hiring drivers. Good money, no questions asked. Earl finally calls and goes to a garage where Mexican goons put a duffel bag in the back of his truck as well as a cell phone. He is told to never use the phone but to answer it \"night or day.\" He is to never look in the bag, park the truck and come back in an hour. He does as told and finds an envelope stuffed with cash in the glove compartment.Meanwhile, the DEA has brought a new hot shot agent, Colin Bates (Bradley Cooper) to try and catch drug dealers and traffic into the US. He and his partner (Michael Pena) recruit an informer and get to work.Earl buys himself a new truck and gets his home out of foreclosure. A Korean war vet, he visits the VFW and finds it has been gutted by a fire. \"If only someone would donate some money to repair it,\" says a volunteer, eyeing Earl's new truck.Earl attends Ginny's wedding but Mary and Iris are distant. Mary tells Earl that if has truly changed, it will take some time and effort. It won't be instant acceptance.Earl does another run, impressing the Mexican hoods with his new truck. The cartel boss, Laton, is also amazed that a 90-year-old man nicknamed \"El Tata\" (Earl) is the most successful new mule for his organization.The VA holds a big reopening celebration. Earl is a hero. He also pays for granddaughter Ginny's education and attends her graduation ceremony. Iris is still distant but Mary is starting to come around. But she also has developed a bad cough.The DEA has learned of the existence of \"El Tata\" and is beginning to gather clues to his identity. All they know is that he has carried more drugs than any other carrier and he has a black truck. Earl has many several more drug runs and has gained the respect of the Mexican gangsters.Earl does a run and bumps into DEA agent Colin Bates at a coffee shop, the night after the DEA stakes out a motel looking for El Tata. Earl gives him advice about his family, telling him \"Don't be like me.\"Laton brings Earl to Mexico to meet him and throws a big party in his honor. Unfortunately, his underlings feel they can do a better job and murder Laton. The new boss tells the Mexican hoods that they must crack down on Earl, and not give him the leniency to meander on his drug runs, because there's too much money at stake.Mary is brought home for hospice care to die. Earl has just started his first run for the new boss but knows this is his last chance to make things right, so he disappears. The DEA and the Mexican cartel is frantic that he's gone off the grid for the first time.Iris comes around as Earl stays by his ex-wife's bedside until she dies, then attends the funeral. She invites him to spend Thanksgiving dinner with the family. He then resumes his drug delivery.The hoods who were supposed to be following Earl see his truck and follow him to a truck stop, where they beat him up. They take the flier from the memorial service and realize he has a legitimate reason to have vanished, but their new boss sees things differently. At first, he wants Earl killed. But they plead his case. He tells them it will be their heads if Earl doesn't complete the delivery.However Bates now has ID'd Earl's truck and he is finally stopped and arrested. At trial, Earl's lawyer attempts to paint him as a broke, desperate war hero trying to provide for his family. But Earl stops her and pleads guilty to all charges. His daughter and granddaughter kiss him. Iris says \"At least we'll know where to find you.\"The film ends with Earl growing daylilies in the prison garden."
+}

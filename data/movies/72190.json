@@ -1,0 +1,881 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/cRLeBlvfSttbsgOcQ0KG8Dorzqk.jpg",
+  "id": 72190,
+  "title": "World War Z",
+  "poster_path": "https://image.tmdb.org/t/p/w500/1SWBSYJsnyhdNRfLI1T6RsCxAQ4.jpg",
+  "release_date": "2013-06-20",
+  "vote_average": 6.811,
+  "vote_count": 14697,
+  "popularity": 85.067,
+  "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+  "imdb_id": "tt0816711",
+  "budget": 200000000,
+  "homepage": "http://www.worldwarzmovie.com",
+  "revenue": 531865000,
+  "runtime": 116,
+  "tagline": "Remember Philly!",
+  "genres": [
+    "Action",
+    "Drama",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    "GK Films",
+    "Paramount",
+    "Hemisphere Media Capital",
+    "2DUX²",
+    "Apparatus Productions",
+    "Latina Pictures",
+    "Skydance Media",
+    "Plan B Entertainment"
+  ],
+  "production_countries": [
+    "MT",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "Gerry Lane"
+      },
+      {
+        "name": "Mireille Enos",
+        "character": "Karen Lane"
+      },
+      {
+        "name": "Daniella Kertesz",
+        "character": "Segen"
+      },
+      {
+        "name": "James Badge Dale",
+        "character": "Captain Speke"
+      },
+      {
+        "name": "Ludi Boeken",
+        "character": "Jurgen Warmbrunn"
+      },
+      {
+        "name": "Matthew Fox",
+        "character": "Parajumper"
+      },
+      {
+        "name": "Fana Mokoena",
+        "character": "Thierry Umutoni"
+      },
+      {
+        "name": "David Morse",
+        "character": "Ex-CIA Agent"
+      },
+      {
+        "name": "Elyes Gabel",
+        "character": "Andrew Fassbach"
+      },
+      {
+        "name": "Sterling Jerins",
+        "character": "Constance Lane"
+      },
+      {
+        "name": "Peter Capaldi",
+        "character": "W.H.O. Doctor"
+      },
+      {
+        "name": "Pierfrancesco Favino",
+        "character": "W.H.O. Doctor"
+      },
+      {
+        "name": "Ruth Negga",
+        "character": "W.H.O. Doctor"
+      },
+      {
+        "name": "Moritz Bleibtreu",
+        "character": "W.H.O. Doctor"
+      },
+      {
+        "name": "Abigail Hargrove",
+        "character": "Rachel Lane"
+      },
+      {
+        "name": "Fabrizio Guido",
+        "character": "Tomas"
+      },
+      {
+        "name": "David Andrews",
+        "character": "Navy Captain Mullenaro"
+      },
+      {
+        "name": "John Gordon Sinclair",
+        "character": "Navy SEAL Commander"
+      },
+      {
+        "name": "Grégory Fitoussi",
+        "character": "C130 Pilot"
+      },
+      {
+        "name": "Jane Perry",
+        "character": "UN Delegate"
+      },
+      {
+        "name": "Lucy Russell",
+        "character": "UN Delegate"
+      },
+      {
+        "name": "Mark Holden",
+        "character": "UN Delegate"
+      },
+      {
+        "name": "Tim Berrington",
+        "character": "UN Delegate"
+      },
+      {
+        "name": "Konstantin Khabenskiy",
+        "character": "Russian Fighter"
+      },
+      {
+        "name": "Michiel Huisman",
+        "character": "Ellis"
+      },
+      {
+        "name": "Ann Ogbomo",
+        "character": "Camp Humphrey's Soldier"
+      },
+      {
+        "name": "Jonathan Howard",
+        "character": "Camp Humphrey's Soldier"
+      },
+      {
+        "name": "Mike Noble",
+        "character": "Camp Humphrey's Soldier"
+      },
+      {
+        "name": "Ernesto Cantu",
+        "character": "Tomas' Father"
+      },
+      {
+        "name": "Vicky Araico",
+        "character": "Tomas' Mother"
+      },
+      {
+        "name": "Graham Hornsby",
+        "character": "Market Attacker"
+      },
+      {
+        "name": "Nick Bartlett",
+        "character": "Market Attacker"
+      },
+      {
+        "name": "Kevin Kiely Jnr",
+        "character": "Motorcycle Cop"
+      },
+      {
+        "name": "Ruari Cannon",
+        "character": "Pharmacy Helper"
+      },
+      {
+        "name": "Ryen Perkins-Gangnes",
+        "character": "Philadelphian Zombie"
+      },
+      {
+        "name": "Khalid Laith",
+        "character": "Thierry's Aide"
+      },
+      {
+        "name": "Noa Bodner",
+        "character": "Israeli Camp Soldier"
+      },
+      {
+        "name": "Troy Glasgow",
+        "character": "Argus Sailor"
+      },
+      {
+        "name": "Julia Levy-Boeken",
+        "character": "Israeli Camp Refugee"
+      },
+      {
+        "name": "Lee Nicholas Harris",
+        "character": "Camp Humphrey's Soldier"
+      },
+      {
+        "name": "Assaf Ben-Shimon",
+        "character": "Israeli Camp Soldier"
+      },
+      {
+        "name": "Gil Cohen-Alloro",
+        "character": "Israeli Camp Soldier"
+      },
+      {
+        "name": "Yaniv Rokah",
+        "character": "Israeli Camp Soldier"
+      },
+      {
+        "name": "Shaul Ezer",
+        "character": "Israeli Camp Soldier"
+      },
+      {
+        "name": "Linoy Aynesaz",
+        "character": "Israeli Camp Singer"
+      },
+      {
+        "name": "Efrat Avni",
+        "character": "Israeli Camp Singer"
+      },
+      {
+        "name": "Maisam Masri",
+        "character": "Israeli Camp Refugee"
+      },
+      {
+        "name": "Renu Setna",
+        "character": "Israeli Camp Refugee"
+      },
+      {
+        "name": "Ori Pfeffer",
+        "character": "Israeli Camp Refugee"
+      },
+      {
+        "name": "Imran Mraish",
+        "character": "Israeli Camp Refugee"
+      },
+      {
+        "name": "Yousef Hayyan Jubeh",
+        "character": "Israeli Camp Refugee"
+      },
+      {
+        "name": "Josh Wingate",
+        "character": "Argus Sergeant"
+      },
+      {
+        "name": "Richard Thomson",
+        "character": "Argus Sailor"
+      },
+      {
+        "name": "Ewan Ross",
+        "character": "Technician"
+      },
+      {
+        "name": "Song Xuan Ke",
+        "character": "Korean Doctor"
+      },
+      {
+        "name": "Christian Wong",
+        "character": "Korean Patient"
+      },
+      {
+        "name": "Denis Ischenko",
+        "character": "Airline Pilot"
+      },
+      {
+        "name": "Nikola Đuričko",
+        "character": "Airline Pilot"
+      },
+      {
+        "name": "Elen Rhys",
+        "character": "Flight Attendant"
+      },
+      {
+        "name": "Paula Videniece",
+        "character": "Airline Passenger"
+      },
+      {
+        "name": "Doron Davidson",
+        "character": "Airline Passenger"
+      },
+      {
+        "name": "Lee Colley",
+        "character": "Airline Passenger"
+      },
+      {
+        "name": "Michael Jenn",
+        "character": "W.H.O. Vault Zombie"
+      },
+      {
+        "name": "Sarah Amankwah",
+        "character": "W.H.O. Lab Zombie"
+      },
+      {
+        "name": "Anna Biczik",
+        "character": "Zombie (Cardiff sequence)"
+      },
+      {
+        "name": "Gábor Czap",
+        "character": "Zombie (Cardiff sequence)"
+      },
+      {
+        "name": "Katalin Dombi",
+        "character": "Zombie (Cardiff sequence)"
+      },
+      {
+        "name": "Eniko Fulop",
+        "character": "Zombie (Cardiff sequence)"
+      },
+      {
+        "name": "Istvan Karikas",
+        "character": "Zombie (Cardiff sequence)"
+      },
+      {
+        "name": "Andrea Meszaros",
+        "character": "Zombie (Cardiff sequence)"
+      },
+      {
+        "name": "Gergely Mészáros",
+        "character": "Zombie (Cardiff sequence)"
+      },
+      {
+        "name": "Peter Molnár",
+        "character": "Zombie Cardiff sequence)"
+      },
+      {
+        "name": "Lambert Tóth",
+        "character": "Zombie (Cardiff sequence)"
+      },
+      {
+        "name": "Roland Tzafetás",
+        "character": "Zombie (Cardiff sequence)"
+      },
+      {
+        "name": "Jeno Radi",
+        "character": "Zombie (Cardiff sequence)"
+      },
+      {
+        "name": "Adam Zambryzcki",
+        "character": "Zombie (Cardiff sequence)"
+      },
+      {
+        "name": "Maddox Jolie-Pitt",
+        "character": "Zombie (uncredited)"
+      },
+      {
+        "name": "Alma Rix",
+        "character": "Russian Passenger (uncredited)"
+      },
+      {
+        "name": "Darren Kendrick",
+        "character": "Zombie (uncredited)"
+      },
+      {
+        "name": "Ryan Hartwig",
+        "character": "Teen Zombie Bait (uncredited)"
+      },
+      {
+        "name": "Taylor Murphy",
+        "character": "Zombie (uncredited)"
+      },
+      {
+        "name": "Dayle Teegarden",
+        "character": "Police Officer (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Brad Pitt",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Marco Beltrami",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Ian Bryce",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Debra James",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Nigel Phelps",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Jon Billington",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Greg Powell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Roger Barton",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Jennifer Williams",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Marc Forster",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Matt Chesse",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Graham King",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "James Harrison",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Brad Simpson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mayes C. Rubeo",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Dede Gardner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dana Goldberg",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "J. Michael Straczynski",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "name": "Matthew Michael Carnahan",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Matthew Michael Carnahan",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "name": "Paul Schwake",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Drew Goddard",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Kate Dowd",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "David Ellison",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ben Seresin",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Matthew Gray",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Tim Headington",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Damon Lindelof",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Max Brooks",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Nick Adams",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Simon Crane",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Simon Crane",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "James Foster",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Ian Kincaid",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Jeremy Kleiner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Larry McConkey",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Larry McConkey",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Kevin McKeever",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Borislav Iliev",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Stephanie Martin",
+        "department": "Camera",
+        "job": "\"C\" Camera Operator"
+      },
+      {
+        "name": "Ben Collins",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Alastair Sirkett",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Lora Hirschberg",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Dominic Gibbs",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Nigel Stone",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "John Simpson",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Orin Beaton",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Tobias Poppe",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "John Finklea",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "name": "Richard Sale",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Tim Hands",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Ben Meechan",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Ethan van der Ryn",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Jaap Buitendijk",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Anna Behlmer",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Robin Saxen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Rob Harris",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Mark Edward Wright",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Simon Chase",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Steve Little",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Steve Kitchen",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Zoe Morgan",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Lee Walters",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Gabriele Zucchelli",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Jason Canovas",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Malcolm Roberts",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Paul Sharp",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Gregor Tavenner",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Birgit Dierken",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Charlotte Law",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Wade Eastwood",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Iain Eyre",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Stuart Wilson",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Matt Johnson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Vanessa Baker",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Dan Moore",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Denise Morgan McGrath",
+        "department": "Crew",
+        "job": "Production Controller"
+      },
+      {
+        "name": "Jo McLaren",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Yang Liang",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Harding",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Dawn Gough",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Toby Hefferman",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Louis Elman",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Nick Shuttleworth",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Abigail Barbier",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Lloyd Dudley",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Péter Fülöp",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Tiffany M. Carpenter",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Tim Battersby",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Tasha Back",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Jeff Taylor",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Rachel Clark",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Carolina Jiménez",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "Ken Petrie",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Celeste Talaszek",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Joe Cash",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "philadelphia, pennsylvania",
+    "new jersey",
+    "based on novel or book",
+    "dystopia",
+    "jerusalem, israel",
+    "apocalypse",
+    "zombie",
+    "epidemic",
+    "nuclear weapons",
+    "multiple perspectives",
+    "zombie apocalypse",
+    "virus"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Former United Nations employee Gerry Lane traverses the world in a race against time to stop a zombie pandemic that is toppling armies and governments and threatens to destroy humanity itself.",
+    "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.—Kenneth Chisholm (kchishol@rogers.com)",
+    "When former U.N. investigator Gerry Lane and his family get stuck in urban gridlock, he senses that it's no ordinary traffic jam. His suspicions are confirmed when, suddenly, the city erupts into chaos. A lethal virus, spread through a single bite, is turning healthy people into something vicious, unthinking and feral. As the pandemic threatens to consume humanity, Gerry leads a worldwide search to find the source of the infection and, with luck, a halt to it's spread.—ahmetkozan",
+    "A virulent and unprecedented pandemic of global proportions which turns humans into rabid flesh-eating zombies takes the world by surprise. Under these circumstances, the retired United Nations special agent, Gerry Lane, must leave behind a peaceful family life, a wife and two daughters, to escort a team of scientists on a mission to find a cure, navigating through zombie-swarmed cities. However, as the deadly pathogen obliterates entire areas, incessantly giving birth to diseased masses of freshly-reanimated undead, the frail hope of finding a viable solution starts drifting away. Does humanity have enough time to wait for a miracle?—Nick Riganas",
+    "Having retired as U.N. investigator, Gerry Lane devotes his time to wife Karin and their wining brat daughter Constance and Rachel in Philadelphia, until it becomes the next site of a globally spreading mystery epidemic turning bitten people into rabies-like zombies. His clueless former chief, deputy secretary general Thierry Umutoni, recalls him to the UN emergency team, thus offering the whole family a spot aboard the safe air carrier. Gerry joins though army veterans on reconnaissance to Korea, where a rogue CIA agent's suggestion proves worthless, then to Israel, where a Mossad 'contrarious tenth man' had the foresight to respond to a vague Indian pandemic threat by erecting a wall Jerusalem, only to see an undead flood overtake it. His last minute escape flight must deal drastically with an infected passenger before crashing in Cardiff, near a WHO research facility, where he combines and tests a daring out of the box 'camouflage' strategy inspired by weir observations.—KGF Vissers"
+  ],
+  "synopsis": "Former UN employee Gerry Lane (Brad Pitt), his wife Karin and their two daughters are in heavy Philadelphia traffic when the city is attacked by zombies. As chaos spreads, the Lanes escape to Newark, New Jersey and take refuge in an apartment, home to a couple with a young son, Tommy. UN Deputy Secretary-General Thierry Umutoni (Fana Mokoena) -an old friend of Gerry's-sends a helicopter that extracts the Lanes and Tommy to a U.S. Navy vessel in the Atlantic where scientists and military personnel are analyzing the worldwide outbreaks. Dr. Andrew Fassbach posits that the plague is a virus, and that development of a vaccine depends on finding the origin. The origin is suspected in a military facility in South Korea from where an email originated that mentioned the word \"Zombie\" for the first time while communicating the symptoms of the disease. Gerry reluctantly agrees to help Fassbach find the outbreak's source after it is made clear that he and his family will be removed from the ship if he does not.Gerry and Fassbach fly to Camp Humphreys, a military base in South Korea, where they are attacked on arrival by zombies. Turning to re-enter the aircraft, Fassbach slips, falls and accidentally discharges his gun, killing himself. After being rescued by the base's surviving personnel, led by Captain Speke, Gerry learns that the infection was introduced to the base by its doctor (The doctor was infected in the field when he was treating a farmer who had zombie like symptoms. The farmer was patient 0, & the doctor patient 1), who was ultimately incinerated by a soldier with a lame leg who the infected ignored. A former CIA operative, imprisoned at the base, tells Gerry to go to Jerusalem, where he says a safe zone has been maintained by the Israeli Mossad since before the outbreak's official acknowledgment. As Gerry and his team bike back to their aircraft, zombies attack, kill several soldiers and infect Captain Speke, who commits suicide to prevent himself from turning. Gerry and his pilot escape.In Jerusalem, Gerry meets Mossad chief Jurgen Warmbrunn, who explains that months earlier, the Mossad had intercepted a Indian military message claiming that Indian troops were fighting the Rakshasa, or \"dead spirits\". Israel had thereupon quarantined Jerusalem, erecting huge walls around it. Just as Jurgen shows Gerry that Israel is allowing survivors to take refuge in the city, loud celebratory singing from refugees prompts zombies to scale the walls and attack. Jurgen orders some Israeli soldiers to escort Gerry back to his plane. On the way, Gerry notices zombies ignoring an emaciated boy. Soon after, one of Gerry's escorts, a soldier who identifies herself only as \"Segen\", is bitten in the hand, which Gerry quickly amputates to stop her turning. Gerry and Segen escape on a commercial airliner as Israel is overrun.Gerry contacts Thierry, and the airliner is diverted to a World Health Organization (WHO) facility outside Cardiff, Wales. When a stowaway zombie attacks in mid-air, Gerry uses a grenade to blow the infected out of the aircraft, but this also causes them to crash. Gerry is injured, but both he and Segen survive. They proceed to the WHO facility, where Gerry loses consciousness. He awakens three days later and explains to the remaining WHO staff a theory he has, based on the people he has seen the zombies ignore: the infected do not bite the seriously injured or terminally ill, since they would be unsuitable hosts for viral reproduction.He suggests that they test this by deliberately infecting somebody with a pathogen from the facility, but the pathogens are stored in a wing already overrun by zombies. Gerry, Segen and the lead WHO doctor go to get a pathogen. As they fight their way through, they are separated; Gerry continues to the pathogen vault while Segen and the doctor return to the main building. A zombie corners Gerry inside the vault, prompting him to inject himself with an unknown bacteria and open the vault, thereby testing his theory. The zombie ignores him, as do those he encounters while returning to the main building. Everybody rejoices at Gerry's success.Gerry and his family are reunited in a safe zone at Freeport, Nova Scotia. A \"vaccine\", derived from deadly pathogens, is developed and issued to troops battling the infected, acting as a kind of camouflage. The vaccine also helps survivors to reach quarantine zones. Human offensives begin against the zombies, and hope is restored. \"This isn't the end,\" Gerry comments, \"Not even close. Our war has just begun.\""
+}

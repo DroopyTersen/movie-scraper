@@ -1,0 +1,1518 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/r0kZNywAeN6Ar75rxDqLlTP5RiJ.jpg",
+  "id": 475557,
+  "title": "Joker",
+  "poster_path": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+  "release_date": "2019-10-01",
+  "vote_average": 8.165,
+  "vote_count": 24008,
+  "popularity": 89.449,
+  "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+  "imdb_id": "tt7286456",
+  "budget": 55000000,
+  "homepage": "http://www.jokermovie.net/",
+  "revenue": 1074500000,
+  "runtime": 122,
+  "tagline": "Put on a happy face.",
+  "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Joint Effort",
+    "Village Roadshow Pictures",
+    "Bron Studios",
+    "DC Films"
+  ],
+  "production_countries": [
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Arthur Fleck / Joker"
+      },
+      {
+        "name": "Robert De Niro",
+        "character": "Murray Franklin"
+      },
+      {
+        "name": "Zazie Beetz",
+        "character": "Sophie Dumond"
+      },
+      {
+        "name": "Frances Conroy",
+        "character": "Penny Fleck"
+      },
+      {
+        "name": "Brett Cullen",
+        "character": "Thomas Wayne"
+      },
+      {
+        "name": "Shea Whigham",
+        "character": "Detective Burke"
+      },
+      {
+        "name": "Bill Camp",
+        "character": "Detective Garrity"
+      },
+      {
+        "name": "Glenn Fleshler",
+        "character": "Randall"
+      },
+      {
+        "name": "Leigh Gill",
+        "character": "Gary"
+      },
+      {
+        "name": "Josh Pais",
+        "character": "Hoyt Vaughn"
+      },
+      {
+        "name": "Rocco Luna",
+        "character": "GiGi Dumond"
+      },
+      {
+        "name": "Marc Maron",
+        "character": "Gene Ufland"
+      },
+      {
+        "name": "Sondra James",
+        "character": "Dr. Sally"
+      },
+      {
+        "name": "Murphy Guyer",
+        "character": "Barry O'Donnell"
+      },
+      {
+        "name": "Douglas Hodge",
+        "character": "Alfred Pennyworth"
+      },
+      {
+        "name": "Dante Pereira-Olson",
+        "character": "Bruce Wayne"
+      },
+      {
+        "name": "Carrie Louise Putrello",
+        "character": "Martha Wayne"
+      },
+      {
+        "name": "Sharon Washington",
+        "character": "Social Worker"
+      },
+      {
+        "name": "Hannah Gross",
+        "character": "Young Penny"
+      },
+      {
+        "name": "Frank Wood",
+        "character": "Dr. Stoner"
+      },
+      {
+        "name": "Brian Tyree Henry",
+        "character": "Carl (Arkham Clerk)"
+      },
+      {
+        "name": "April Grace",
+        "character": "Arkham Psychiatrist"
+      },
+      {
+        "name": "Mick Szal",
+        "character": "Woman on Subway"
+      },
+      {
+        "name": "Carl Lundstedt",
+        "character": "Wall Street Three"
+      },
+      {
+        "name": "Michael Benz",
+        "character": "Wall Street Three"
+      },
+      {
+        "name": "Ben Warheit",
+        "character": "Wall Street Three"
+      },
+      {
+        "name": "Gary Gulman",
+        "character": "Comedian"
+      },
+      {
+        "name": "Sam Morril",
+        "character": "Open Mic Comic"
+      },
+      {
+        "name": "Chris Redd",
+        "character": "Comedy Club Emcee"
+      },
+      {
+        "name": "Mandela Bellamy",
+        "character": "Mother on Bus"
+      },
+      {
+        "name": "Demetrius Dotson II",
+        "character": "Boy on Bus"
+      },
+      {
+        "name": "Greer Barnes",
+        "character": "Haha's Clown"
+      },
+      {
+        "name": "Ray Iannicelli",
+        "character": "Haha's Clown"
+      },
+      {
+        "name": "Bryan Callen",
+        "character": "Haha's Stripper"
+      },
+      {
+        "name": "Peter Hans Benson",
+        "character": "Good Morning Host"
+      },
+      {
+        "name": "Vito Gerbino",
+        "character": "Street Kid"
+      },
+      {
+        "name": "Adam Quezada",
+        "character": "Street Kid"
+      },
+      {
+        "name": "Xavyer Ureña",
+        "character": "Street Kid"
+      },
+      {
+        "name": "Evan Rosado",
+        "character": "Street Kid"
+      },
+      {
+        "name": "Damian Emmanuel",
+        "character": "Street Kid"
+      },
+      {
+        "name": "Mike Troll",
+        "character": "Clown Protestor"
+      },
+      {
+        "name": "Jane Fergus",
+        "character": "IBN Anchorwoman"
+      },
+      {
+        "name": "David Gibson",
+        "character": "WBC News Anchor"
+      },
+      {
+        "name": "Tony D. Head",
+        "character": "WGC Anchorman"
+      },
+      {
+        "name": "Jeff McCarthy",
+        "character": "NCB Anchor"
+      },
+      {
+        "name": "Kim Brockington",
+        "character": "NCB Co-Anchor"
+      },
+      {
+        "name": "Troy Roberts",
+        "character": "NCB News Reporter"
+      },
+      {
+        "name": "Lou Young",
+        "character": "ANC News Reporter"
+      },
+      {
+        "name": "Michael-Scott Druckenmiller",
+        "character": "Paramedic"
+      },
+      {
+        "name": "Craig Austin",
+        "character": "Paramedic"
+      },
+      {
+        "name": "John Cenatiempo",
+        "character": "Aftermath Police Officer"
+      },
+      {
+        "name": "Danny Schoch",
+        "character": "Aftermath Police Officers"
+      },
+      {
+        "name": "Keith Buterbaugh",
+        "character": "Band Leader"
+      },
+      {
+        "name": "James Ciccone",
+        "character": "Murray Franklin Band"
+      },
+      {
+        "name": "Rich Campbell",
+        "character": "Murray Franklin Band"
+      },
+      {
+        "name": "Roger Squitero",
+        "character": "Murray Franklin Band"
+      },
+      {
+        "name": "Steven Elson",
+        "character": "Murray Franklin Band"
+      },
+      {
+        "name": "Graham Mabry",
+        "character": "Murray Franklin Band"
+      },
+      {
+        "name": "John Alldred",
+        "character": "Murray Franklin Band"
+      },
+      {
+        "name": "Alonzo Wright",
+        "character": "Murray Franklin Band"
+      },
+      {
+        "name": "Jack Wilkins",
+        "character": "Murray Franklin Band"
+      },
+      {
+        "name": "Richard Baratta",
+        "character": "Murray Franklin Band"
+      },
+      {
+        "name": "Mary Kate Malat",
+        "character": "Murray Franklin Intern"
+      },
+      {
+        "name": "Adrienne Lovette",
+        "character": "Middle Aged Woman (uncredited)"
+      },
+      {
+        "name": "Justin Theroux",
+        "character": "Ethan Chase (uncredited)"
+      },
+      {
+        "name": "Alissa Bourne",
+        "character": "Anna (uncredited)"
+      },
+      {
+        "name": "Jamaal Burcher",
+        "character": "Hospital Visitor / Mfs Audience (uncredited)"
+      },
+      {
+        "name": "John Cashin",
+        "character": "Arkham Patient (uncredited)"
+      },
+      {
+        "name": "Jason John Cicalese",
+        "character": "Protester / Rioter (uncredited)"
+      },
+      {
+        "name": "Brendan Patrick Connor",
+        "character": "Mr. Slotnick (uncredited)"
+      },
+      {
+        "name": "Blaise Corrigan",
+        "character": "Taxi Driver (uncredited)"
+      },
+      {
+        "name": "Dennis Jay Funny",
+        "character": "Gotham Citizen (uncredited)"
+      },
+      {
+        "name": "James P. Harkins",
+        "character": "Thomas Wayne's Body Guard (uncredited)"
+      },
+      {
+        "name": "Joseph Hernandez",
+        "character": "Protester / Rioter (uncredited)"
+      },
+      {
+        "name": "Ben Heyman",
+        "character": "Protestor (uncredited)"
+      },
+      {
+        "name": "Graham Maby",
+        "character": "Murray Franklin Band (uncredited)"
+      },
+      {
+        "name": "Jesse Schratz",
+        "character": "Gotham City Sick Kid (uncredited)"
+      },
+      {
+        "name": "Isabella Ferreira",
+        "character": "Flirting Woman on the Bus (uncredited)"
+      },
+      {
+        "name": "Shade Rupe",
+        "character": "Bartender"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Scott Silver",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Bruce Berman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Frank Miller",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Bob Kane",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Mark Friedberg",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Lawrence Sher",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Lawrence Sher",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "name": "Laura Ballinger",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Michael Uslan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lisa Dennis",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Tod A. Maitland",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Randall Poster",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Timothy Healy",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Richard Baratta",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mark Bridges",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Emma Tillinger Koskoff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Walter Hamada",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Bradley Cooper",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Todd Phillips",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Todd Phillips",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Todd Phillips",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "David Webb",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "David Webb",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Geoffrey Haley",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Geoffrey Haley",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Dean A. Zupancic",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Carla Raij",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Kay Georgiou",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Peter Epstein",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bill Finger",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "John Cenatiempo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ryan Webb",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Brice R. Parker",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jeff Atmajian",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Jeff Groth",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Kim Jennings",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Theo Sena",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Kris Moran",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Joseph Garner",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Nicki Ledermann",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "G. A. Aguilar",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Niko Tavernise",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Aaron L. Gilbert",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Airon Armstrong",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Hildur Guðnadóttir",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "George Drakoulias",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "J. M. DeMatteis",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Keith Giffen",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "John Joseph Thomas",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jerry Popolis",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Joel Weaver",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Dan O'Connell",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Brian Adler",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Sandy Hamilton",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Jerry Robinson",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "John T. Cucci",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Alan Robert Murray",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Tom Ozanich",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Tom Ozanich",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Willard Overstreet",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Jason Cloth",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Sam Hutchins",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Jeff Brink",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Matthew Jeffrey Sama",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Larry Kaplan",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Steve Ramsey",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Ryan Murphy",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Renee Burke",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Kira Roessler",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Kira Roessler",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Sunday Englis",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Ryan Young",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Carla White",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Darren Maynard",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Cameron Steenhagen",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Jason Ruder",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "name": "Kevin Murray",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Jill Brown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Frank Alfano",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robert Pyzocha",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Will Scheck",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Michael J. Prate",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Tom Prate",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Meghan Currier",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Gregory Irwin",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Unsun Song",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Juliet Ouyoung",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Martin Lowry",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Chris Cenatiempo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Josh Lakatos",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mitchell Beck",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Jill Bogdanowicz",
+        "department": "Editing",
+        "job": "Digital Intermediate Colorist"
+      },
+      {
+        "name": "Shayna Markowitz",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jeffrey D. McDonald",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Monica Ruiz-Ziegler",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Thomas Aquino",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Tim Metivier",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Patrice Cormier",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Brian Bolland",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jerry Yuen",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Stephen Izzi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeff Mee",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Michael Dressel",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "Richard Burden",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ray Neapolitan",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Timothy Metzger",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Steven John Brown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lawrence Bell",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Joan Altman",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Henry Antonacchio",
+        "department": "Art",
+        "job": "Head Carpenter"
+      },
+      {
+        "name": "Michael Auszura",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Dan Decelle",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Roman Greller",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Candis Heiland",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Erica Hohf",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Hugh Sicotte",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Joe Taglairino",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Lauren Rockman",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Connell Burke",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Jeremy Marks",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Thomas J. Cabela",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Miccah Underwood",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Abby Walton",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Tania Ribalow",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "John Campbell",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Richard Duarte",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Todd Giresi",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Thomas J. O'Connell",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Daniel Kresco",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Michael Scott",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Cindy Bond",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Aimee Dombo Desmond",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Daniel Waldman",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Grant Wilfley",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Edwin Rivera",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jack Cucci",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Tony Pilkington",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Christian Wenger",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Nicholas Kay",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Doug Facciponti",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Benjamin J. Stern",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Wilson Rivas",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Sarah Guenther",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Jason Saulog",
+        "department": "Editing",
+        "job": "Digital Intermediate Editor"
+      },
+      {
+        "name": "Michael Scarola",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Michael Scarola",
+        "department": "Art",
+        "job": "Key Construction Grip"
+      },
+      {
+        "name": "Mathew Giampa",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Mariella Navarro",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Christy Guillermain",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Anjay Nagpal",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Joyce Hsieh",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Susan Strine",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Candice Alustiza-Lee",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Jordan Felix",
+        "department": "Production",
+        "job": "Trainee Production Coordinator"
+      },
+      {
+        "name": "Ryan Robert Howard",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Michael Arnold",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Ann Bartek",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Mason Chesler",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Anthony Coan",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Carrie Wills",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "David Michael Dabney",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Al Padilla",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Jonathan Rotberg",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Jason Lanci",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Carter Jones",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Daniel Wong",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Timothy Montgomery",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Lindsey C. Brush",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Jennifer Bentley",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Jesca Alfano",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Danielle Landry",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Gabriel Rivera",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Kimberly Baird",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Jennifer Harrington",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Yvette Helin",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Jessie Pellegrino",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Olivia Mae Davis",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Bobby Griffon",
+        "department": "Crew",
+        "job": "Picture Car Coordinator"
+      },
+      {
+        "name": "Lena Glikson",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Leah Winkler",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "name": "Michael Hall",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Ben Gatollari",
+        "department": "Production",
+        "job": "Travel Coordinator"
+      },
+      {
+        "name": "Will Limpert",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Kerry Roberts",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Ramona Wong",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Ann Imai",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Kathryn Mell",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Evan Reed",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Ke Ze Lui",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Suzette Baker",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Katherine Delaney",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Karen T. Salva",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Dan Welch",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Alec Bates",
+        "department": "Production",
+        "job": "Location Coordinator"
+      },
+      {
+        "name": "Kevin Harrigan",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Ashley Wellbrock",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Shannon Nallan",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Nara DeMuro",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Janine Pesce",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Joseph E. Petruccio",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "John Schabel",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Chris Heike",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Ted Altman",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Mike Bloecker",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Robert Iversen",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Mike Rich",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Spencer Lasky",
+        "department": "Art",
+        "job": "Shop Electric"
+      },
+      {
+        "name": "Elizabeth Linn",
+        "department": "Crew",
+        "job": "Charge Scenic Artist"
+      },
+      {
+        "name": "Juliana Hatkoff",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "name": "Justine Conte",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "name": "Matthew Claar",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Faith Maciolek",
+        "department": "Production",
+        "job": "Extras Casting Assistant"
+      },
+      {
+        "name": "Courtney Battles",
+        "department": "Production",
+        "job": "Extras Casting Assistant"
+      },
+      {
+        "name": "LeMicah Levert",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Silvia Veronica Cadmilema",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Carolyn Shea",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Joseph S. Alfieri",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Carolina Jiménez",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "James Massenburg",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Huey Carroll",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Eric Mancha",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Peter Steffan",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Charles Zambrano",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Morteza Rahdani",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Matthew Mullarkey",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Irv Novick",
+        "department": "Crew",
+        "job": "Thanks"
+      }
+    ]
+  },
+  "keywords": [
+    "dream",
+    "street gang",
+    "society",
+    "psychopath",
+    "clown",
+    "villain",
+    "based on comic",
+    "murder",
+    "psychological thriller",
+    "criminal mastermind",
+    "mental illness",
+    "anarchy",
+    "character study",
+    "clown makeup",
+    "subway train",
+    "social realism",
+    "supervillain",
+    "tv host",
+    "1980s",
+    "mother son relationship",
+    "origin story",
+    "falling into madness"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "A socially inept clown for hire - Arthur Fleck aspires to be a stand up comedian among his small job working dressed as a clown holding a sign for advertising. He takes care of his mother, Penny Fleck, and as he learns more about his mental illness, he learns more about his past. Dealing with all the negativity and bullying from society, he heads downwards on a spiral, in turn showing how his alter ego, \"Joker,\" came to be.—crisspaggos",
+    "Struggling to make people laugh in grim early-1980s Gotham City, the mentally ill street clown and failed stand-up comedian, Arthur Fleck, wears his smudgy makeup every day to eke out an existence. Mocked, bullied, and above all, marginalised, Fleck's slippery grip on reality will pave the way for a gradual descent into a dark world of unrestrained violence, as a loaded revolver enters the picture offering the long-awaited liberation. Then, the medications stopped working, and troubled Arthur's fierce hatred seems to be the only way out. Is the world prepared for the gloriously malevolent advent of the grinned super-villain, Joker?—Nick Riganas",
+    "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile attempt to feel like he's part of the world around him. Isolated, bullied and disregarded by society, Fleck begins a slow descent into madness as he transforms into the criminal mastermind known as the Joker.—Jwelch5742",
+    "In addition to being a clown at work, Arthur Fleck wants to perform stand-up comedy. He struggles with mental health concerns, some of which include fits of uncontrollable laughter. Because of his troubles and line of work, Arthur is having it considerably harder than other people. Over time, these problems weigh heavily on him, influencing his behaviour and finally leading him to assume the identity of the Joker, for whom he is better known."
+  ],
+  "synopsis": "The story takes place in Gotham City, 1981.Arthur Fleck (Joaquin Phoenix) works as a clown-for-hire for a company called Ha-Ha's. He struggles with severe depression personally but finds some form of optimism in performing for others and trying to make people laugh. He is tasked with advertising a store by dancing and waving a sign around. On one such occasion, the sign gets snatched by a group of punk teens, forcing Arthur to chase them into an alley. They smash the sign against his face and proceed to mercilessly kick him while he's down.In this era, Gotham is struggling with crime, unemployment, and poverty. Arthur visits a social worker for his medication, as well as his ongoing mental health issues. On the bus ride home, a small child looks at Arthur. He makes silly faces that amuse the boy, but his mother tells Arthur to leave him alone. Arthur begins to laugh hysterically and uncontrollably. When the mother questions him, he hands her a card that explains that he has a mental condition that causes him to laugh the way that he does.Arthur returns home to a high-rise apartment project, where he lives with his ailing mother, Penny (Frances Conroy). After dinner, they sit and watch a TV talk show with host Murray Franklin (Robert DeNiro). Arthur imagines himself being on the show and getting Murray's attention. In his fantasy, Arthur charms the audience and Murray by telling them that he takes care of his mother. Murray relates to Arthur and invites him up on stage in front of everyone, where they share a familial embrace. It is revealed that Penny used to work for Thomas Wayne (Brett Cullen) and is obsessed with the millionaire and has been currently writing to him to try and better their living situation.At Ha-Ha's, Arthur is given a gun for protection by his co-worker Randall (Glenn Fleschler) after he hears about the mugging incident. Arthur is both reluctant and relieved to receive such a gift as firearms are outlawed at work but soon finds his confidence growing after receiving the weapon. However, soon after this, he is confronted by his cold and unfeeling boss, who reprimands him for losing the sign and takes the cost of it out of his pay. Arthur responds only by smiling bitterly.Arthur meets and becomes infatuated with one of his neighbors, a single mother named Sophie Dumond (Zazie Beetz). She speaks to him politely about relating issues that he can relate to. However, while trying to make an impression with her, he appears awkward and weird around her. At one point, he spends his day following her. Later, she comes by his apartment and asks if he was following her, and he admits that he was, but she doesn't seem put off by it. He invites her to a stand-up comedy show that he is performing at. She is hesitant but is won over by his charm and sense of humor. Arthur watches comedians perform to help him gain some insight into the craft, but feels more awkward and out of place as his over-the-top laughter is not genuine.Arthur goes to the comedy club for his performance. His nervousness consumes him and, as a coping mechanism, unintentionally finds himself laughing so hard that he can barely speak. He then begins going off into his routine, which isn't very funny. Sophie appears to be in the audience... the only person who is laughing at Arthur's jokes. This gives him the comfort he needs to continue to joke despite his inner torment and turmoil.Arthur later goes to a children's hospital to entertain them as a clown. He brought his gun with him, and it falls out on the floor. Arthur's boss later chews him out for this. Arthur pleads for a second chance, but his boss refuses and fires him on the spot. To top things off, Randall throws Arthur under the bus by claiming that Arthur got the gun himself. On the subway train ride home from Ha-Ha's in full clown getup, Arthur spots three drunk young Wall Street types working for Wayne Enterprises harassing a woman. Arthur starts laughing unintentionally and draws the attention of the men, while the woman wisely flees from that car. The men approach Arthur and mock him and his laughter before they start to beat him. Arthur fights back in self-defense, but they team up, and relentlessly beat him to the floor. Having had enough, Arthur then pulls out his gun and shoots two of them dead in self-defense before following the last guy out of the train and murdering him on the stairs.In shock over what he just did, Arthur retreats into a nearby public men's room. After a moment of frantic contemplation, he finds a force rising within him, and he begins to dance by himself. At this moment, he sees himself in the dirty mirror as a battered and smeared and yet powerful clown and begins to embrace it. He hides the gun and then returns to the apartment building where he meets and kisses Sophie for the first time.The news of the three murders spreads, with some seeing it as an attack on the wealthy, while others support the act. Thomas Wayne speaks out and condemns it, labeling the lower class as \"clowns,\" which becomes a symbol they readily embrace. The next day, Arthur cleans out his locker at Ha Ha's but not before confronting Randall about betraying him and breaking the time punching machine. He then leaves, feeling high-spirited and free. News reports show clown rioters protesting through the city and wreaking trouble, condemning the higher privileged. Arthur sees that he has inadvertently caused this and begins to see his true potential, which makes him genuinely delighted.Arthur later finds one of Penny's letters to Thomas, which indicates that Arthur is Thomas' son. Arthur goes to Wayne Manor, where he meets young Bruce Wayne (Dante Pereira-Olson). After performing a magic trick for Bruce, he sticks his hands through the gate and forces Bruce to smile, realizing deep within that they may or may not be brothers. However, Alfred (Douglas Hodge) comes to intervene and tell Arthur to leave. Arthur mentions his mother and her involvement with Thomas. Alfred says he remembers Penny, but that she was lying to him. Arthur attacks and nearly strangles Alfred through the bars but then notices that Bruce is watching. Arthur then gets hold of himself and flees the Wayne premises.That evening, Arthur finds Thomas at a public art theater event. Arthur infiltrates the theater by impersonating an usher. He follows Thomas Wayne into a men's room and tries to confront him with the potential of him being his father. Arthur mentions Penny, whom Thomas also remembers. While Thomas also acknowledges that Penny used to work for him as part of his housekeeping staff, he says that she was delusional and that there's no way Arthur could be his son. Thomas also explains that Penny never told Arthur that he was adopted, which Arthur strongly rejects before uncontrollably laughing in Thomas's face. Thomas, unaware of Arthur's condition, becomes defensive and punches Arthur in the face before having him thrown out of the building. Arthur returns home, where he tortures himself by slamming his head on the refrigerator in a fit of depression and longing.The next day, two police detectives, Burke (Shea Wigham) and Garrity (Bill Camp), go to Arthur's apartment to question him on the subway murders due to the word that the suspect was wearing clown make-up, and they know Arthur lost his job earlier that day. Arthur denies any involvement and gets the detectives to leave. Not long after, Penny falls ill and is hospitalized. Sophie sits by Arthur as he tends to his mother. In the hospital, Arthur sees that Murray's TV show is playing a clip from his stand-up routine, but he is hurt to see that Murray only played it to mock Arthur.Arthur later receives a phone call from a rep for Murray's show. He is invited to appear as a guest, which Arthur reluctantly accepts. After studying other interviews on the comedy show, Arthur decides to commit suicide in front of the live audience, thinking it will make them laugh.Seeking hard proof, Arthur goes to Arkham Asylum and speaks to a clerk, named Carl (Brian Tyree Henry), who has a file on Penny. When Carl says he can't give Arthur the info he wants, Arthur snatches the file and runs away to read it. Once away and hidden in a stairwell, Arthur opens the documents and reads them, finding that Thomas was telling the truth... according to the documents. The reality is that Penny adopted Arthur after he was found abandoned as a baby, and she abused him, tying him to a radiator and beating him alongside her abusive boyfriend. One part of the file mentions Arthur having a head injury, which is most likely what caused his laughing condition. Arthur returns to the hospital and tells Penny that he thought his life was a tragedy, but he sees it's a \"fucking comedy.\" With that, he smothers Penny to death.Arthur goes back home and breaks into Sophie's apartment. She sees him and is terrified, asking him to leave for the sake of her daughter. Arthur asks her if she has ever had \"a really bad day,\" to which she replies that she doesn't even know him. Through this, it is revealed that every other moment featuring Sophie was just in Arthur's head. A broken and frustrated Arthur apologizes for his intrusion and leaves Sophie alone, storming out of her apartment.Arthur starts to get ready for his appearance on Murray's show and paints his face white. He is visited in his apartment by Randall and another former co-worker, a dwarf named Gary (Leigh Gill). They offer condolences after they hear about Penny's death, but then Randall begins mentioning Burke and Garrity going to their apartments to question them about the subway murders. Arthur realizes that Randall is only seeking a way to use Arthur in order to cover his own butt and then snaps, brutally stabbing Randall twice in the face before smashing his head against the wall. A terrified Gary questions Arthur's deeds and begs to be let go. Arthur agrees to before playfully scaring him as a prank. Gary tries to undo the lock on Arthur's door but is unable to due to his height. He asks Arthur to open the door for him to which Arthur immediately agrees, pausing once to thank Gary for being the only person in his life who was nice to him. Arthur kisses Gary on the forehead and lets him go.Arthur then dyes his hair green, puts on full clown make-up, and dons a burgundy suit. He then dances down the stairways, fully embracing his insanity and carefree life. Burke and Garrity find Arthur dancing in the street and move in to arrest him. Arthur runs, and they chase him into the subway train where dozens of other Gotham citizens are dressed like clowns after being inspired by the murders. Arthur hides his face with a clown mask, which he steals from a protester and inadvertently starts a brawl in the train cars. As the detectives pursue Arthur, one clown gets in the way, and Burke accidentally shoots him dead when they struggle with his gun. The clowns pull the detectives out of the subway and start beating them relentlessly, allowing Arthur to get away, moving smoothly through the police forces which swarm the area.At the TV station, Arthur meets Murray and his agent Gene (Marc Maron). Before he goes on, Arthur asks Murray to introduce him as \"Joker,\" since Murray referred to him as such when playing his clip. Murray asks Arthur if his clown make-up has political agendas behind it to which Arthur replies, \"I don't believe in that. I don't believe in anything.\" While waiting to be introduced, Arthur sees Murray broadcasting a clip of a struggling Arthur trying to tell a joke. This causes Arthur's mind and plans to change, and then he dances out into the spotlight.Arthur goes out as the show begins. He awkwardly tells Murray a joke, which he finds funny for its dark humor though nobody else does. After being confronted with this, Arthur continues by admitting to the subway murders. Murray and the audience slowly realize that Arthur is serious. Arthur argues that the audience only cares for the victims because Thomas Wayne spoke for them, but anyone else like Arthur would be ignored and walked over. Murray and the audience grow angrier with Arthur, but so does he. Murray scolds Arthur, which escalates into Arthur snapping and telling another joke, grinning giddily. \"What do you get when you cross a mentally ill loner with a society that abandons him and treats him like trash?!\" he asks, only for Murray to try shutting him off before calling for the police. An enraged Arthur then screams, \"You get what you fucking' deserve!\" before blowing Murray's brains out in front of everyone. The audience runs away in terror, and the news of the murder immediately hits the airwaves. Arthur then laughs genuinely for the first time in his life.Gotham is now overrun by rioting citizens dressed as clowns after hearing about what Arthur did. The Waynes leave a movie theater to find the chaos in the streets. Thomas takes his wife Martha (Carrie Louise Putrello) and Bruce into an alley, but one clown follows them and tells Thomas he is getting what he deserves using the punchline that Arthur used on the Murray Franklin show. With that, he shoots Thomas and Martha dead in front of Bruce.Meanwhile, Arthur has been arrested and is being taken by the police. Arthur looks out the window and laughs gleefully as he sees the destruction and chaos he has caused. Just then, the clowns in an ambulance run into the car, killing the cops and freeing Arthur, who is injured and unconscious. When he awakes, Arthur finds himself surrounded by a mob of cheering mobsters in clown masks. The rioters then cheer Arthur on as he stands on a car and embraces their admiration, now that he has gotten the recognition he has long desired. He dances to their cheering and then pauses, finding that his nose is bleeding profusely. He then spreads the blood across his upper lip and grins before standing before them, elevated like a god.Sometime later, Arthur is locked up in Arkham Asylum. He laughs after telling this story and visualizes a young Bruce standing over his parents in the alley. Realizing that he has, in a way, turned Bruce into himself, Arthur laughs some more, finding this genuinely hilarious. He meets a new social worker (April Grace) and says he wants to tell her a joke, but she wouldn't get it. A few minutes later, Arthur then steps out of the room, leaving a trail of bloody footprints behind before he is chased around by orderlies."
+}

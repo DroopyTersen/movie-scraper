@@ -1,0 +1,613 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/sIzZQdXY21sEks9lGkGuXzqdGSA.jpg",
+  "id": 4011,
+  "title": "Beetlejuice",
+  "poster_path": "https://image.tmdb.org/t/p/w500/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+  "release_date": "1988-03-30",
+  "vote_average": 7.381,
+  "vote_count": 6305,
+  "popularity": 46.749,
+  "overview": "After an untimely death, a newly dead New England couple seek help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+  "imdb_id": "tt0094721",
+  "budget": 15000000,
+  "homepage": "",
+  "revenue": 74800000,
+  "runtime": 92,
+  "tagline": "In this house, if you've seen one ghost...you haven't seen them all.",
+  "genres": [
+    "Fantasy",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Geffen Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Alec Baldwin",
+        "character": "Adam Maitland"
+      },
+      {
+        "name": "Geena Davis",
+        "character": "Barbara Maitland"
+      },
+      {
+        "name": "Jeffrey Jones",
+        "character": "Charles Deetz"
+      },
+      {
+        "name": "Catherine O'Hara",
+        "character": "Delia Deetz"
+      },
+      {
+        "name": "Winona Ryder",
+        "character": "Lydia Deetz"
+      },
+      {
+        "name": "Michael Keaton",
+        "character": "Betelgeuse"
+      },
+      {
+        "name": "Glenn Shadix",
+        "character": "Otho"
+      },
+      {
+        "name": "Sylvia Sidney",
+        "character": "Juno"
+      },
+      {
+        "name": "Patrice Martinez",
+        "character": "Receptionist"
+      },
+      {
+        "name": "Dick Cavett",
+        "character": "Bernard"
+      },
+      {
+        "name": "Robert Goulet",
+        "character": "Maxie Dean"
+      },
+      {
+        "name": "Maree Cheatham",
+        "character": "Sarah Dean"
+      },
+      {
+        "name": "Susan Kellermann",
+        "character": "Grace"
+      },
+      {
+        "name": "Carmen Filpi",
+        "character": "Messenger"
+      },
+      {
+        "name": "Annie McEnroe",
+        "character": "Jane Butterfield"
+      },
+      {
+        "name": "Rachel Mittelman",
+        "character": "Little Jane Butterfield"
+      },
+      {
+        "name": "Hugo Stanger",
+        "character": "Old Bill"
+      },
+      {
+        "name": "Maurice Page",
+        "character": "Ernie"
+      },
+      {
+        "name": "J. Jay Saunders",
+        "character": "Moving Man #1"
+      },
+      {
+        "name": "Mark Ettlinger",
+        "character": "Moving Man #2"
+      },
+      {
+        "name": "Cindy Daly",
+        "character": "3-Fingered Typist"
+      },
+      {
+        "name": "Duane Davis",
+        "character": "Very Dumb Football Player"
+      },
+      {
+        "name": "Simmy Bow",
+        "character": "Janitor"
+      },
+      {
+        "name": "Adelle Lutz",
+        "character": "Beryl"
+      },
+      {
+        "name": "Tony Cox",
+        "character": "Preacher"
+      },
+      {
+        "name": "Jack Angel",
+        "character": "Preacher (voice)"
+      },
+      {
+        "name": "Charles Schneider",
+        "character": "The Hanging Man (uncredited)"
+      },
+      {
+        "name": "Douglas S. Turner",
+        "character": "Char Man (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tim Burton",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Danny Elfman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Richard L. Anderson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Warren Skaaren",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Janet Hirshenson",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jane Jenkins",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "John Warnke",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Cheryl Carasik",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Bob Badami",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Bo Welch",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Jane Kurson",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Tom Duffield",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Aggie Guerard Rodgers",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "William Ross",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "William Lee Scott",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Richard Hashimoto",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Douglas Knapp",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Steve LaPorte",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Larry Wilson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Larry Wilson",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Michael McDowell",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Michael McDowell",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Michael Bender",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Thomas E. Ackerman",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Catherine Mann",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Steve Bartek",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Bill Scott",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Fred Waugh",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Carl Ciarfalio",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robert Short",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "name": "Robert Short",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Mary Andrews",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Joe Day",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Ve Neill",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jeffrey Wilhoit",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Steve Maslow",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "K.C. Colwell",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Warren Hamilton Jr.",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "William A. Petrotta",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Gregg Landaker",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Richard McKenzie",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Michael Cassidy",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kevin O’Connell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Pablo Ferro",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Jane O'Neal",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Yolanda Toussieng",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Steve Newman",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Noon Orsatti",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John B. Schuyler",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "David E. Stone",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Nancy Fogarty",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Dan Ondrejko",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "George Stephenson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Patrick Puccinelli",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dan Pemberton",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Anthony G. Schmidt",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Pappas",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "David M. Ronne",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Carol Sevilla",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Fred Lerner",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "David L. Parrish",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Michael Laws",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Donald Heitzer",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Linda Henrikson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Shinko Isobe",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Maria R. Kelly",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Cris Thomas-Palomino",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chuck Velasco",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Robert Scaife",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Gil Haimsohn",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Gary F. Kieldrup",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Jerry Fleck",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Di Ann Lerner",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James Lerner",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Beth Nufer",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mary Peters",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Patricia Harrison",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Mark Pearson",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Ted Rhodes",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Bill Silic",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Louis Benioff",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Mary F. Galloway",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Chrissy Bocchino",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Luba Dmytryk",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Jon Curtis Price",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Douglas S. Turner",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Douglas S. Turner",
+        "department": "Art",
+        "job": "Creative Director"
+      },
+      {
+        "name": "Douglas S. Turner",
+        "department": "Visual Effects",
+        "job": "Effects Supervisor"
+      }
+    ]
+  },
+  "keywords": [
+    "skeleton",
+    "afterlife",
+    "calypso",
+    "supernatural",
+    "arts",
+    "halloween",
+    "minister",
+    "possession",
+    "giant snake",
+    "surrealism",
+    "child bride",
+    "teenage girl",
+    "gothic",
+    "madness",
+    "ghost",
+    "property"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+    "Adam and Barbara are a normal couple...who happen to be dead. They have given their precious time to decorate their house and make it their own, but unfortunately a family is moving in, and not quietly. Adam and Barbara try to scare them out, but end up becoming the main attraction to the money making family. They call upon Beetlejuice to help, but Beetlejuice has more in mind than just helping.—ahmetkozan",
+    "After Barbara and Adam Maitland die in a car accident, they find themselves stuck haunting their country residence, unable to leave the house. When the unbearable Deetzes and teen daughter Lydia buy the home, the Maitlands attempt to scare them away without success. Their efforts attract Beetlejuice, a rambunctious spirit whose \"help\" quickly becomes dangerous for the Maitlands and innocent Lydia.—Jwelch5742",
+    "Following a freak accident, the blissful Maitlands now rest in peace. But nothing lasts forever--while stuck in limbo, a mysterious force sends the ghostly pair back to the realm of the living. However, fate plays cruel tricks on mortals--now, insufferable New York yuppies Charles and Delia Deetz occupy the Maitlands' lovingly decorated New England home. Unfortunately, the Maitlands' haunting skills are pathetic, and sharing their beloved house with the obnoxious invaders is out of the question. Under those grave circumstances, only Beetlejuice--a manic, rotten-toothed veteran exorcist--can rid the place of unwanted guests. But what happens if the cure is worse than the disease?—Nick Riganas",
+    "This is the story of Adam and Barbara who live in a beautiful house in New England. One day while driving home they are involved in a terrible auto accident. They manage to walk home only to discover later that they have died and now haunt their house. When their house is purchased by an out of state family, they feel their home is threatened by the over-the-top artist wife and real-estate idea-man husband. Their only relief is the Gothic daughter of the family. Their attempts at scaring the family out of the house are ignored or laughed at. Finally they fall to the temptation to use the people-exorciser Beetlejuice. When they find his tactics too dangerous, they attempt to contain him and save the family they were trying to boot.—FMJ_Joker"
+  ],
+  "synopsis": "In a sleepy little town in New England, we meet Barbara (Geena Davis) and Adam (Alec Baldwin) Maitland, a couple who have chosen to take a vacation by staying at home. However, the realtor who sold them the house, Jane (Annie McEnroe), tries to entice them to sell the house, since it seems too big for just a couple. The Maitlands reject her pleas and head to town. On the way home they swerve to avoid a dog, which sends them into a river where they drown.Unaware that they are dead, the Maitlands return to the house, unsure how they got back so quickly. Adam decides to go back outside to 'retrace their steps,' but finds himself on a strange desert planet inhabited by striped sandworms. When he returns to the house, Barbara says he was gone for two hours and shows him a book that she found on a table, Handbook for the Recently Deceased.Time passes relatively quickly, and soon, the Maitlands' house is sold again (under Jane's watchful eye) to the Deetzes, a New York family composed of Charles (Jeffrey Jones), Delia (Catherine O'Hara), and their daughter Lydia (Winona Ryder). While Charles wishes for a quiet respite from the hustle and bustle of New York, Delia can't stand the simple life, and hires a decorator named Otho (Glenn Shadix) to make the house more 'livable' and more to her tastes.Adam and Barbara try to scare the Deetzes, but all their efforts are for naught, as it seems that the living can't see the dead. They take refuge in the attic, where Adam locks the door. However, Lydia finds a skeleton key and tries to open the door. As Adam and Barbara foil her attempts, a TV in the attic comes to life, advertising the services of someone named Beetlejuice (Michael Keaton), who claims to be able to scare the living.Consulting the handbook, Adam creates a door that takes him and Barbara to a waiting room in the afterlife, filled with others who have met rather gruesome fates. They are shown to a special room, which reveals their home after it has been redecorated by Delia and Otho. It is here that they are introduced to their case worker Juno (Sylvia Sidney), who chastises them for their haunting methods and cautions them not to take the advice of the person they saw on the television.Returning to the house, Adam and Barbara dress up in sheets to try and scare Charles and Delia, but their attempt fails again. Annoyed with the spooky noises, Lydia finds them, and the two are amazed when they remove the bedsheets and realize she can see them! Lydia reveals that she found their handbook, and found a passage that explains how 'live people ignore the strange and unusual,' something she considered herself to be.The Maitlands enlist Lydia to help get the Deetzes out of their house, but no one believes her. Not sure what to do, Barbara notices something in the model of the town in the attic: a glowing light around a small grave that appears to belong to Beetlejuice. She says his name three times, and she and Adam are whisked into the model, where they unearth Beetlejuice's body. Once they've done so they regret it, as Beetlejuice is a rather crazy, uncouth and insane ghoul. Turned off by his personality, they resolve to scare the Deetzes themselves.At a dinner party Delia throws to show her sculptures and other art pieces, the entire group ends up singing 'The Banana Boat Song,' and the shrimp dish in front of them turns into grasping hands. The Maitlands think they've finally succeeded, only to find that their antics have actually amused the Deetzes. The Deetzes send Lydia to bring them down, and when they refuse, everyone clambers to the attic, demanding that the Maitlands show themselves. They find no one there, but Charles is entranced by the miniature of the town, and Otho finds and takes the handbook.Leaving the attic, Charles feels that there is a lucrative business venture just waiting to happen. However, his cheerfulness turns to horror as Beetlejuice transforms into a large snake, freaking out the family by knocking Otho down the stairs and dropping Charles to the floor below. Barbara manages to call the snake off by uttering Beetlejuice's name three times. Lydia is distraught, thinking that the snake was the Maitlands intending to do more than just scare them.The Maitlands are brought before Juno again, who takes them to task for breaking a number of rules: having photos taken of themselves, letting Beetlejuice out, and letting Otho get hold of the handbook. Juno encourages the Maitlands to work harder to scare the Deetzes, and Barbara and Adam contort their features into grotesque forms. However, Barbara has some apprehensions, as she likes Lydia.Meanwhile, Lydia grows so upset that she writes a suicide letter. Going to the attic to say goodbye to the Maitlands, she encounters Beetlejuice in the model. Beetlejuice tries to convince her that he can help her find the Maitlands if she says his name three times. Lydia is almost tricked into saying this, until she realizes that Beetlejuice was the snake, and doubts if he really can help her find the Maitlands. Just then, Adam and Barbara appear, and Lydia explains what was about to happen. Lydia, feeling distraught to be living, tells them of her wish to be dead. Barbara talks her out of these thoughts, and tells her that they've decided to not scare the family, and allow them to stay.Just then, Otho and Charles appear in the attic; Lydia and the Maitlands hide. Otho and Charles carry Adam's model of the town downstairs, where they give Charles' business associate Maxie Deen (Robert Goulet) an overview of Charles' plan to turn the town into a paranormal-themed attraction. Charles also requests that Lydia produce the Maitlands for their guests, but when she refuses, Otho explains that he has a way.Using the handbook and the Maitlands' wedding clothes, Otho performs a seance that forces the couple to appear before them. However, this causes the Maitlands to deteriorate, their forms reverting to their decaying corpses.Frantic, Lydia rushes to the model and sees Beetlejuice in the graveyard. She begs him to help her. Beetlejuice agrees on the condition that Lydia marries him. She agrees to this, and the Maitlands are saved. However, Beetlejuice then holds Lydia to her word, and holds Charles and Delia hostage as 'witnesses,' as Otho escapes.Both Adam and Barbara struggle to stop Beetlejuice, who sends Adam into the model and Barbara to the sandworm planet. Through a joint effort, they do away with Beetlejuice and save Lydia.In the aftermath, the Maitlands and the Deetzes co-occupy the house, and Lydia is much more cheerful in her new environment."
+}

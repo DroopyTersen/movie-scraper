@@ -1,0 +1,971 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/92PG1J4gvxjTRLXTqDzPqjpe6fp.jpg",
+  "id": 268,
+  "title": "Batman",
+  "poster_path": "https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+  "release_date": "1989-06-21",
+  "vote_average": 7.223,
+  "vote_count": 7331,
+  "popularity": 49.165,
+  "overview": "Batman must face his most ruthless nemesis when a deformed madman calling himself \"The Joker\" seizes control of Gotham's criminal underworld.",
+  "imdb_id": "tt0096895",
+  "budget": 35000000,
+  "homepage": "",
+  "revenue": 411348924,
+  "runtime": 126,
+  "tagline": "Justice is always darkest before the dawn.",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Crime"
+  ],
+  "production_companies": [
+    "The Guber-Peters Company",
+    "Warner Bros. Pictures",
+    "Polygram Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Michael Keaton",
+        "character": "Bruce Wayne / Batman"
+      },
+      {
+        "name": "Jack Nicholson",
+        "character": "Jack Napier / The Joker"
+      },
+      {
+        "name": "Kim Basinger",
+        "character": "Vicki Vale"
+      },
+      {
+        "name": "Michael Gough",
+        "character": "Alfred Pennyworth"
+      },
+      {
+        "name": "Jerry Hall",
+        "character": "Alicia Grissom"
+      },
+      {
+        "name": "Robert Wuhl",
+        "character": "Alexander Knox"
+      },
+      {
+        "name": "Pat Hingle",
+        "character": "Commissioner James Gordon"
+      },
+      {
+        "name": "Billy Dee Williams",
+        "character": "Harvey Dent"
+      },
+      {
+        "name": "Jack Palance",
+        "character": "Carl Grissom"
+      },
+      {
+        "name": "Tracey Walter",
+        "character": "Bob the Goon"
+      },
+      {
+        "name": "Lee Wallace",
+        "character": "Mayor"
+      },
+      {
+        "name": "William Hootkins",
+        "character": "Eckhardt"
+      },
+      {
+        "name": "Richard Strange",
+        "character": "Goon"
+      },
+      {
+        "name": "Carl Chase",
+        "character": "Goon"
+      },
+      {
+        "name": "Mac McDonald",
+        "character": "Goon"
+      },
+      {
+        "name": "George Lane Cooper",
+        "character": "Goon"
+      },
+      {
+        "name": "Terence Plummer",
+        "character": "Goon"
+      },
+      {
+        "name": "Philip Tan",
+        "character": "Goon"
+      },
+      {
+        "name": "John Sterland",
+        "character": "Accountant"
+      },
+      {
+        "name": "Edwin Craig",
+        "character": "Rotelli"
+      },
+      {
+        "name": "Vincent Wong",
+        "character": "Crimelord 1"
+      },
+      {
+        "name": "Joel Cutrara",
+        "character": "Crimelord 2"
+      },
+      {
+        "name": "John Dair",
+        "character": "Ricorso"
+      },
+      {
+        "name": "Christopher Fairbank",
+        "character": "Nic"
+      },
+      {
+        "name": "George Roth",
+        "character": "Eddie"
+      },
+      {
+        "name": "Kate Harper",
+        "character": "Anchorwoman"
+      },
+      {
+        "name": "Bruce McGuire",
+        "character": "Anchorman"
+      },
+      {
+        "name": "Richard Durden",
+        "character": "TV Director"
+      },
+      {
+        "name": "Kit Hollerbach",
+        "character": "Becky"
+      },
+      {
+        "name": "Lachele Carl",
+        "character": "TV Technician"
+      },
+      {
+        "name": "Del Baker",
+        "character": "Napier Hood"
+      },
+      {
+        "name": "Jazzer Jeyes",
+        "character": "Napier Hood"
+      },
+      {
+        "name": "Wayne Michaels",
+        "character": "Napier Hood"
+      },
+      {
+        "name": "Valentino Musetti",
+        "character": "Napier Hood"
+      },
+      {
+        "name": "Rocky Taylor",
+        "character": "Napier Hood"
+      },
+      {
+        "name": "Keith Edwards",
+        "character": "Reporter"
+      },
+      {
+        "name": "Leon Herbert",
+        "character": "Reporter"
+      },
+      {
+        "name": "Steve Plytas",
+        "character": "Doctor"
+      },
+      {
+        "name": "Anthony Wellington",
+        "character": "Patrolman at Party"
+      },
+      {
+        "name": "Amir M. Korangy",
+        "character": "Wine Steward"
+      },
+      {
+        "name": "Hugo Blick",
+        "character": "Young Jack Napier"
+      },
+      {
+        "name": "Charles Roskilly",
+        "character": "Young Bruce Wayne"
+      },
+      {
+        "name": "Philip O'Brien",
+        "character": "Maitre d'"
+      },
+      {
+        "name": "Michael Balfour",
+        "character": "Scientist"
+      },
+      {
+        "name": "Garrick Hagon",
+        "character": "Dad"
+      },
+      {
+        "name": "Liza Ross",
+        "character": "Mom"
+      },
+      {
+        "name": "Adrian Meyers",
+        "character": "Jimmy"
+      },
+      {
+        "name": "David Baxt",
+        "character": "Dr Wayne"
+      },
+      {
+        "name": "Sharon Holm",
+        "character": "Mrs Wayne"
+      },
+      {
+        "name": "Clyde Gatell",
+        "character": "Other Mugger"
+      },
+      {
+        "name": "Jon Soresi",
+        "character": "Medic"
+      },
+      {
+        "name": "Elliott Stein",
+        "character": "Man in Crowd"
+      },
+      {
+        "name": "Sam Douglas",
+        "character": "Lawyer"
+      },
+      {
+        "name": "Denis Lill",
+        "character": "Bob the Cartoonist"
+      },
+      {
+        "name": "Paul Birchard",
+        "character": "Reporter"
+      },
+      {
+        "name": "Paul Michael",
+        "character": "Cop"
+      },
+      {
+        "name": "Pat Gorman",
+        "character": "Cop at Axis Chemicals"
+      },
+      {
+        "name": "Chris Andrews",
+        "character": "Election Ceremony Patron"
+      },
+      {
+        "name": "Stephanie English",
+        "character": "Woman in Green Coat"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Ray Lovejoy",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Roger Pratt",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Tim Burton",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Danny Elfman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Warren Skaaren",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Bob Ringwood",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Bob Kane",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Peter Guber",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jon Peters",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Marion Dougherty",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Anton Furst",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Sam Hamm",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Sam Hamm",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Leslie Tomkins",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Bob Badami",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Michael Uslan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Benjamin Melniker",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Suzie F. Wiesmann",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Nigel Phelps",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Peter Young",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Nick Dudman",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Lynda Armstrong",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Terry Ackland-Snow",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Tip Tipping",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Stuart Clark",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sally Osoba",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Eddy Joseph",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Peter MacDonald",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Marc Boyle",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Charles Staffell",
+        "department": "Crew",
+        "job": "Projection"
+      },
+      {
+        "name": "Don Sharpe",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Prince",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Nick Hobbs",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bill Weston",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Shirley Walker",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Steve Bartek",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Michael Dilbeck",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Ali Asad",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "David Allday",
+        "department": "Art",
+        "job": "Draughtsman"
+      },
+      {
+        "name": "Gordon Arnell",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "name": "David Lea",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Derek Meddings",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Eddie Powell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Terry Forrestal",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eddie Stacey",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Clive Curtis",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dave Holland",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Graham Churchyard",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Annie Crawford",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Brian Bishop",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Chuck Finch",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Paul Heasman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Dent",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Murray Close",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Jack Stew",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Billy Merrell",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Charles Torbett",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Tony Dawe",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Rick Lester",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Graeme Crowther",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eddie Butler",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Chris Brock",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Jim Dowdall",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sy Holland",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sy Holland",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Sean McCabe",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jonathan Taylor",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "name": "Eddie Eddon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Romo Gorrara",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Derek Cracknell",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Cheryl Leigh",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Bernie Hagadorn",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Brenda Coxon",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Michael Boone",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Gerry Crampton",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "John Evans",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Richard Graydon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sarah Franzl",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard Morrison",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Jan Jamison",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Maurice Gillett",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Roy Clarke",
+        "department": "Production",
+        "job": "Production Driver"
+      },
+      {
+        "name": "Fred Brown",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Chris Webb",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Brace",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Anthony Newman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Russ Woolnough",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Barbara Kalish",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Chris Kenny",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Tony Dunsterville",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Jenny Chartres",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Roy Martin",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "John Campbell",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Stuart Godfrey",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Patricia Gregory",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Suzanne Reynolds",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Jamie White",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Richard Brierley",
+        "department": "Camera",
+        "job": "Clapper Loader"
+      },
+      {
+        "name": "Victor Anderson",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Paul Smith",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Simon Harris",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Margaret Adams",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "John Samworth",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Paula Connor",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Rocky Phelan",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Eric Tomlinson",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Peter Watson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Pat Harrison",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Michael White",
+        "department": "Art",
+        "job": "Production Illustrator"
+      },
+      {
+        "name": "Terry Cade",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tracey Eddon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Falcini",
+        "department": "Sound",
+        "job": "Second Assistant Sound"
+      },
+      {
+        "name": "Tim Hegarty",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nick Powell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tony van Silva",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Les Benson",
+        "department": "Art",
+        "job": "Dressing Prop"
+      },
+      {
+        "name": "Robin Demetriou",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "name": "Melvin Lind",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Chrissie Richardson",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Tommy Nutter",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Steve Millson",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Michael King",
+        "department": "Art",
+        "job": "Construction Buyer"
+      },
+      {
+        "name": "Les Andrews",
+        "department": "Art",
+        "job": "Dressing Prop"
+      },
+      {
+        "name": "Philip Clark",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Christian Wolf-La'Moy",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Len Alexander",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Maggie Choyce",
+        "department": "Crew",
+        "job": "Assistant Script"
+      },
+      {
+        "name": "Terry Shane",
+        "department": "Crew",
+        "job": "Floor Runner"
+      },
+      {
+        "name": "Max Brown",
+        "department": "Production",
+        "job": "Production Runner"
+      },
+      {
+        "name": "Janice Body",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Ken Barker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dorothy Ford",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Whyment",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark McBride",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeff Hewitt-Davis",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "dual identity",
+    "double life",
+    "chemical",
+    "crime fighter",
+    "superhero",
+    "villain",
+    "based on comic",
+    "mobster",
+    "organized crime",
+    "criminal",
+    "super power",
+    "madness",
+    "good versus evil"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+    "Gotham City. Crime boss Carl Grissom (Jack Palance) effectively runs the town but there's a new crime fighter in town - Batman (Michael Keaton). Grissom's right-hand man is Jack Napier (Jack Nicholson), a brutal man who is not entirely sane... After falling out between the two Grissom has Napier set up with the Police and Napier falls to his apparent death in a vat of chemicals. However, he soon reappears as The Joker and starts a reign of terror in Gotham City. Meanwhile, reporter Vicki Vale (Kim Basinger) is in the city to do an article on Batman. She soon starts a relationship with Batman's everyday persona, billionaire Bruce Wayne.—grantss",
+    "After witnessing the death of his beloved parents in front of his face, billionaire Bruce Wayne vows himself to protecting the good people of Gotham City against evil forces that threaten the city. But his vow is put to the test when he starts to wage his crime fighting crusade against the maniacal Clown Prince of Crime...also known as the Joker.—Blazer346",
+    "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman who calls himself \"The Joker\" seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.—Jwelch5742",
+    "Gotham City: dark, dangerous, 'protected' only by a mostly corrupt police department. Despite the best efforts of D.A. Harvey Dent and police commissioner Jim Gordon, the city becomes increasingly unsafe...until a Dark Knight arises. We all know criminals are a superstitious, cowardly lot...so his disguise must be able to strike terror into their hearts. He becomes a bat. Enter Vicky Vale, a prize-winning photo journalist who wants to uncover the secret of the mysterious \"bat-man\". And enter Jack Napier, one-time enforcer for Boss Grissom, horribly disfigured after a firefight in a chemical factory...who, devoid of the last vestiges of sanity, seizes control of Gotham's underworld as the psychotic, unpredictable Clown Prince of Crime...the Joker. Gotham's only hope, it seems, lies in this dark, brooding vigilante. And just how does billionaire playboy Bruce Wayne fit into all of this?—ahmetkozan"
+  ],
+  "synopsis": "The mayor of Gotham City orders District Attorney Harvey Dent (Billy Dee Williams) and Police Commissioner James Gordon (Pat Hingle) to increase police activity and combat crime in preparation for the city's bicentennial. Reporter Alexander Knox (Robert Wuhl) and photojournalist Vicki Vale (Kim Basinger) begin to investigate reports of a vigilante nicknamed \"Batman\", who is targeting the city's criminals.Mob boss Carl Grissom (Jack Palance), who has already been targeted by Dent, discovers his mistress (Jerry Hall) is involved with his second-in-command, Jack Napier (Jack Nicholson). With the help of corrupt policeman Max Eckhardt (William Hootkins), Grissom sets up Napier to be murdered during a raid at the Axis Chemicals plant. During the ensuing shootout, Napier kills Eckhardt, after which Batman suddenly appears. The two struggle, and Napier is accidentally knocked into a vat of chemical waste. Batman flees, and Napier is thought to be dead.Batman is in actuality Bruce Wayne (Michael Keaton), a billionaire industrialist who, as a child, witnessed his parents' murder at the hands of a mugger. Bruce meets and falls for Vicki at a fundraiser, and the two begin a relationship. Meanwhile, Napier survives the accident, but is horribly disfigured with chalk-white skin, emerald-green hair and a permanent ruby-red grin. Driven insane by his reflection, he reinvents himself as \"the Joker\", kills Grissom and usurps his criminal empire.The Joker begins to spread terror in the city, first by lacing hygiene products with a deadly chemical known as \"Smilex\", which causes victims to laugh to death when used in certain combinations. The Joker then sets a trap at the Gotham Museum of Art for Vicki, and he and his henchmen vandalize the surrounding works of art. Batman arrives and rescues Vicki, and the pair escape in the Batmobile. Batman gives information about Smilex to Vicki so she can warn the city via Gotham newspapers about the poisoned products.Bruce meets with Vicki at her apartment, prepared to tell her that he is Batman. They are interrupted by the Joker, who asks Bruce, \"Have you ever danced with the devil by the pale moonlight?\" before shooting him. Bruce, who was wearing body armor, escapes, and recollects that the man who killed his parents asked him the same question; he realizes that the Joker killed his parents. Vicki suddenly appears in the Batcave, having been let in by Bruce's butler, Alfred Pennyworth (Michael Gough). After avouching himself to Vicki, Bruce-as Batman-leaves to destroy the Axis Chemical plant. Meanwhile, the Joker lures the townspeople to a nighttime parade with a promise to give away $20 million in cash. When the citizens arrive, however, he attacks them with Smilex gas spewing it from his giant parade balloons. Batman arrives on the scene and saves Gotham City from the attack using the Batwing, but the Joker kidnaps Vicki and takes her to the top of a cathedral.Batman pursues the two, and at the top of the dusty edifice, he and the Joker confront each other in single combat. When the Joker attempts an escape via a helicopter, Batman grapples the Joker's leg to a heavy stone sculpture, causing him to fall to his death. Commissioner Gordon unveils the Bat-Signal along with a note from Batman read by Harvey Dent, promising to defend Gotham whenever crime strikes again."
+}

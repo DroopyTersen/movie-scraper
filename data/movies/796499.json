@@ -1,0 +1,718 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/bo4evsmoKb16AD1OhHgVOlgJtBw.jpg",
+  "id": 796499,
+  "title": "Army of Thieves",
+  "poster_path": "https://image.tmdb.org/t/p/w500/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg",
+  "release_date": "2021-10-27",
+  "vote_average": 6.9,
+  "vote_count": 1836,
+  "popularity": 37.145,
+  "overview": "A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves on a top-secret heist during the early stages of the zombie apocalypse.",
+  "imdb_id": "tt13024674",
+  "budget": 30000000,
+  "homepage": "https://www.netflix.com/title/81185548",
+  "revenue": 46900000,
+  "runtime": 127,
+  "tagline": "BEFORE VEGAS, ONE LOCKSMITH BECAME A LEGEND.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Pantaleon Films",
+    "The Stone Quarry",
+    "Film United"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Matthias Schweighöfer",
+        "character": "Ludwig Dieter"
+      },
+      {
+        "name": "Nathalie Emmanuel",
+        "character": "Gwendoline"
+      },
+      {
+        "name": "Ruby O. Fee",
+        "character": "Korina"
+      },
+      {
+        "name": "Stuart Martin",
+        "character": "Brad Cage"
+      },
+      {
+        "name": "Guz Khan",
+        "character": "Rolph"
+      },
+      {
+        "name": "Jonathan Cohen",
+        "character": "Delacroix"
+      },
+      {
+        "name": "Noémie Nakai",
+        "character": "Beatrix"
+      },
+      {
+        "name": "Christian Steyer",
+        "character": "Hans Wagner"
+      },
+      {
+        "name": "Dan Bradford",
+        "character": "Big Tough Guy"
+      },
+      {
+        "name": "Tonya Graves",
+        "character": "Basement McGee"
+      },
+      {
+        "name": "Trent Garrett",
+        "character": "Mr. Cool Guy"
+      },
+      {
+        "name": "Barbara Meier",
+        "character": "Lucy"
+      },
+      {
+        "name": "Ephraim Goldin",
+        "character": "Competitor #4"
+      },
+      {
+        "name": "Melanie Rada",
+        "character": "Competitor #5"
+      },
+      {
+        "name": "Oleg Kim",
+        "character": "Competitor #6"
+      },
+      {
+        "name": "Samira Mekibes Meza",
+        "character": "Competitor #7"
+      },
+      {
+        "name": "Charlie McGuire",
+        "character": "Competitor #8"
+      },
+      {
+        "name": "Trish Osmond",
+        "character": "Bank Employee Inge"
+      },
+      {
+        "name": "Pavel Gajdoš",
+        "character": "Barista"
+      },
+      {
+        "name": "Hana Frejková",
+        "character": "Old Lady"
+      },
+      {
+        "name": "Peter Hosking",
+        "character": "Old Security Guard Joe"
+      },
+      {
+        "name": "Rebecca Connolly",
+        "character": "Old Lady Teller"
+      },
+      {
+        "name": "Frank Kusche",
+        "character": "Angry Bald Guy"
+      },
+      {
+        "name": "Ian Willoughby",
+        "character": "Sad Manager"
+      },
+      {
+        "name": "Andreas Nowak",
+        "character": "Tom CM"
+      },
+      {
+        "name": "Lukáš Duy Anh Tran",
+        "character": "Techie"
+      },
+      {
+        "name": "Jim High",
+        "character": "Rooftop Agent 1"
+      },
+      {
+        "name": "Steve Wilkie",
+        "character": "Security Guard"
+      },
+      {
+        "name": "Michael Pitthan",
+        "character": "Bank Manager"
+      },
+      {
+        "name": "Kateřina Pindejová",
+        "character": "Teller"
+      },
+      {
+        "name": "Miroslav Lhotka",
+        "character": "Armed Guard #1"
+      },
+      {
+        "name": "Zdeněk Dvořáček",
+        "character": "Armed Guard #2"
+      },
+      {
+        "name": "Jenn Kirk",
+        "character": "Another Teller"
+      },
+      {
+        "name": "Miroslav Pecháček",
+        "character": "Young Security Guard"
+      },
+      {
+        "name": "Zdeněk Pecháček",
+        "character": "Old Security Guard"
+      },
+      {
+        "name": "Josef Jelínek",
+        "character": "Man With Bicycle"
+      },
+      {
+        "name": "Tigran Hovakimyan",
+        "character": "Local Cop"
+      },
+      {
+        "name": "Paul Coltofeanu",
+        "character": "Driver"
+      },
+      {
+        "name": "David Bowles",
+        "character": "Backup"
+      },
+      {
+        "name": "Fanette Ronjat",
+        "character": "Floor Manager"
+      },
+      {
+        "name": "Jeff Fritz",
+        "character": "Another Employee"
+      },
+      {
+        "name": "Garrett Marcantel",
+        "character": "Rooftop Agent #2 Bob"
+      },
+      {
+        "name": "Peter Stehlík",
+        "character": "Rooftop Agent #3"
+      },
+      {
+        "name": "Jonáš Petřík",
+        "character": "Interpol Agent #1"
+      },
+      {
+        "name": "Petr Kotík",
+        "character": "Interpol Agent #2"
+      },
+      {
+        "name": "Dunja Hayali",
+        "character": "German News Anchor"
+      },
+      {
+        "name": "Sascha Graetz",
+        "character": "Father"
+      },
+      {
+        "name": "Lucie Grün",
+        "character": "Mother"
+      },
+      {
+        "name": "Daniel Vano",
+        "character": "Korina's Brother 5y/o"
+      },
+      {
+        "name": "Ondřej Vetchý",
+        "character": "Strong Kid"
+      },
+      {
+        "name": "Samba Goldin",
+        "character": "Teenage Boy"
+      },
+      {
+        "name": "John Bubniak",
+        "character": "Douchey Young Guy Chris"
+      },
+      {
+        "name": "Jan Cajzl",
+        "character": "Man with Skimask"
+      },
+      {
+        "name": "Amy Huck",
+        "character": "Lady Café"
+      },
+      {
+        "name": "Ted Otis",
+        "character": "Snob"
+      },
+      {
+        "name": "Jan Nemejovský",
+        "character": "Old Gun Guy"
+      },
+      {
+        "name": "Damian Odess-Gillett",
+        "character": "Salesclerk"
+      },
+      {
+        "name": "Michaela Pospíšilová",
+        "character": "Young Couple Female"
+      },
+      {
+        "name": "Tim Otis",
+        "character": "Young Couple Male"
+      },
+      {
+        "name": "Bob Boudreaux",
+        "character": "Reporter Gil Pedretti"
+      },
+      {
+        "name": "Leonard Treyde",
+        "character": "Young Dieter 12y/o"
+      },
+      {
+        "name": "Jasmina Peña Milian",
+        "character": "Gwendoline 6y/o"
+      },
+      {
+        "name": "Nandi Sawyers-Hudson",
+        "character": "Gwendoline 16y/o"
+      },
+      {
+        "name": "Violina Maria Rostami",
+        "character": "Korina 10-12y/o"
+      },
+      {
+        "name": "David Dvorščík",
+        "character": "Brad 11y/o"
+      },
+      {
+        "name": "Sinéad Phelps",
+        "character": "Woman With Bike and Grey Helmet"
+      },
+      {
+        "name": "Hiroyuki Sanada",
+        "character": "Bly Tanaka (archive footage)"
+      },
+      {
+        "name": "Dave Bautista",
+        "character": "Scott Ward (archive footage) (uncredited)"
+      },
+      {
+        "name": "Ana de la Reguera",
+        "character": "María Cruz (archive footage) (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Hans Zimmer",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Alexander Berner",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Martin Vačkář",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Martin Vačkář",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Zack Snyder",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Zack Snyder",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Matthias Schweighöfer",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Matthias Schweighöfer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Bernhard Jasper",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Frank Kusche",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Christian Eisele",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Dan Maag",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Wesley Coller",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Deborah Snyder",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ralph Kaechele",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Ralph Kaechele",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Steve Mazzaro",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Christian Angermayer",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Kurt Van Der Basch",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Deborah Chambers",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "René Stejskal",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "name": "René Stejskal",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Viktor Prášil",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Viktor Prášil",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Jiří Husák",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Gregory D. Liegey",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Tim Cavagin",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Marek Svitek",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marek Svitek",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Jakub Dvorak",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "name": "Maya Kvetny",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Michael Scheel",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Kate Ringsell",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Klemens Hallmann",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Miroslav Lhotka",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Miroslav Lhotka",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Miroslav Pavlík",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Cassandra Barbour",
+        "department": "Crew",
+        "job": "Clearances Coordinator"
+      },
+      {
+        "name": "Stefan Busch",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Kevin Carter",
+        "department": "Costume & Make-Up",
+        "job": "Contact Lens Painter"
+      },
+      {
+        "name": "Johanna Ragwitz",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Lenka Líkařová",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jindřich Klaus",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Misha Bukowski",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Matthew Rugetti",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Jan Blahák",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Monika Hrichova",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Adele Firth",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Pedro Eustache",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Karel Stýblo",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Pavel Proisl",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Max Walsh",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Lukas Lehoucka",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Dan Kuska",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Silke Engelhardt",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Martin Dolezal",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Stephanie Portnoy Porter",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Shay Hatten",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Shay Hatten",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Veronika Lencová",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Nicole Haeussermann",
+        "department": "Crew",
+        "job": "Clearances Coordinator"
+      },
+      {
+        "name": "Pavel Vojtisek",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Josef Jelínek",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Shakir Hafoudh",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Marketa Magerova",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Petra Vencelidesová",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Jan Cajzl",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Marie Strnadová",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Jan R. Martin",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Anna Mayerová",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Jan Louma",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Stanislav Honzik",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Marc-André Gerke",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Lukáš Kuchár",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Ondrej Vondrácek",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Yvonne Höft",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Vendy Vosatkova",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "David Koubik",
+        "department": "Editing",
+        "job": "Dailies Manager"
+      }
+    ]
+  },
+  "keywords": [
+    "europe",
+    "interpol",
+    "prequel",
+    "zombie",
+    "safecracker",
+    "bank teller"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A prequel, set before the events of Army of the Dead, which focuses on German safecracker Ludwig Dieter leading a group of aspiring thieves on a top secret heist during the early stages of the zombie apocalypse.",
+    "Six years before the apocalyptic events of Army of the Dead (2021), timid small-town bank teller Sebastian leads a solitary, uneventful existence against the backdrop of an unheard-of virus outbreak in Las Vegas. Fascinated by locks and safes, the enthusiastic YouTuber and theoretical safe-cracker will get the chance to shine when mysterious Gwendoline enlists his help to pull off the heist of the century: crack a quartet of impenetrable, Richard Wagner-inspired safes. However, as Sebastian and Gwendoline's band of thieves embark on a frenzied mission across Europe, obsessive Interpol agent Delacroix is hot on their trail, and things are starting to look bleak in Sin City. Now, in the face of impossible odds, one man is about to write history. Is insecure Sebastian destined to become a legend?—Nick Riganas"
+  ],
+  "synopsis": "Sebastian (Matthias Schweighofer) has a mundane life as a bank teller in Potsdam. A zombie outbreak in Nevada dominates international news, giving him nightmares about zombies. He also produces YouTube videos about safe-cracking that receive no attention until a mysterious figure comment on his most recent, inviting him to an underground safe-cracking competition. Sebastian goes, winning the contest. Gwendoline (Nathalie Emmanuel) then introduces herself, a skilled jewel thief who had commented upon his YouTube video.Gwendoline recruits Sebastian into a heist crew consisting of herself, expert hacker Korina (Ruby O. Fee), getaway driver Rolph (Guz Khan) and gunman Brad Cage (Stuart Martin) with the intention of breaking into three banks that have the three safes created by legendary locksmith Hans Wagner (Christian Steyer) (Hans had created 4 safes, but one was lost to the vagaries of time. If you attempted to force the locks, the contents of the safe would be burnt. Hans finishes his work and locks himself in his final safe (the 5th), which was dropped in the ocean with his body still inside), which currently belong to billionaire Bly Tanaka. The safes are due to be decommissioned in less than a week (and the puzzle that Hans Wagner spent his life developing will be lost forever), so time is running out for someone to break into them.Sebastian, a theoretical expert on Wagner's work and safe-cracking but with no practical experience, is convinced by Gwendoline to join them for the challenge of breaking into a Wagner safe. Together, the crew successfully undertakes their heist of the first safe in Paris (the least complex of the 3, and also the least guarded), escaping with only a fraction of the money that is actually in the safe. Gwendoline justifies this as the challenge and reputation is better than any major monetary gain.As the crew celebrate after the Paris heist, Sebastian develops feelings for Gwendoline, drawing jealousy from Brad, her boyfriend since their teenage years when his real name was Alexis. The crew travel to Prague the location of the second safe (rumored to contain $40 MM), and are followed by Delacroix (Jonathan Cohen), an obsessive Interpol agent (who knows about the legend of Hans Wagner safes and knows where the team will strike next) leading a unit that has been trying to capture Gwendoline and the crew for years after Brad shot him during a theft.Sebastian and Gwendoline enter the bank but are soon identified by security, forcing Brad to create a distraction with a pretend robbery. He cracks the second safe, leaving with Gwendoline and another haul of money as Delacroix and his team race to the bank to stop them (he went to the wrong bank at first, who had traded their Wagner safe to one of their more prestigious branches). Brad is shot in the shoulder by a security guard and narrowly escapes the bank, ahead of Sebastian and Gwendoline. As the team flee, Brad deliberately leaves Sebastian behind, forcing him to shake off the pursuing police alone.Angry at Brad's actions, Gwendoline and Korina leave the crew, although the original plan was to ditch Sebastian after the three heists were complete. The women head back to Potsdam and reunite with Sebastian, telling him that the pursuit of the Wagner challenge is more important to them than any monetary gain.\nThe trio head to St. Moritz, location of the last safe in Europe, whilst Interpol also arrives. Delacroix's team believe they have a lead on the theft, only to be tricked again by them. They hijacked the safe during its transfer from the casino (Korina had called the casino as Interpol and told them about a possible security threat to the vault and advised them to move it). Their hijacking also usurps Brad and Rolph's idea to rob the safe themselves.Gwendoline and Sebastian leave St. Moritz on a lorry, chased by Brad and Rolph. Korina, caught by Interpol, manages to warn them about the other two. Sebastian has to crack the safe in the lorry while they are pursued by Brad and Rolph, and Interpol. He succeeds, finding another large haul of cash. Before they can leave with it however, Rolph and increasingly unstable Brad arrive. She overpowers and handcuffs them to the truck for Interpol to find before leaving with Sebastian.Before escaping on a boat from the town of Hallstatt, Austria, Sebastian, and Gwendoline confess their mutual feelings. However, Delacroix catches them, resulting in a standoff between him and Gwendoline. Out of love for Sebastian, she sacrifices herself to be arrested so that he can escape, promising to find him once she is free. Sebastian goes, vowing he will be reunited with Gwendoline one day.Sometime later, Scott Ward and Maria Cruz find Sebastian's (now Ludwig's) locksmith shop in California. They offer him the chance to crack Wagner's legendary \"missing\" safe, which Gwendoline and Sebastian had resolved to crack together once she was free; Sebastian accepts the job."
+}

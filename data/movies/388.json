@@ -1,0 +1,947 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/2QxNeZ9ejpkAE7Q1DMWzJDDhrVP.jpg",
+  "id": 388,
+  "title": "Inside Man",
+  "poster_path": "https://image.tmdb.org/t/p/w500/wqbvzu1D60ZmhNdC6EI888Yrg7g.jpg",
+  "release_date": "2006-03-17",
+  "vote_average": 7.404,
+  "vote_count": 5464,
+  "popularity": 23.421,
+  "overview": "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+  "imdb_id": "tt0454848",
+  "budget": 45000000,
+  "homepage": "http://theinsideman.net",
+  "revenue": 186003591,
+  "runtime": 129,
+  "tagline": "It looked like the perfect bank robbery. But you can’t judge a crime by its cover.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "40 Acres and a Mule Filmworks",
+    "Imagine Entertainment",
+    "Universal Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Denzel Washington",
+        "character": "Keith Frazier"
+      },
+      {
+        "name": "Clive Owen",
+        "character": "Dalton Russell"
+      },
+      {
+        "name": "Jodie Foster",
+        "character": "Madeleine White"
+      },
+      {
+        "name": "Christopher Plummer",
+        "character": "Arthur Case"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "John Darius"
+      },
+      {
+        "name": "Chiwetel Ejiofor",
+        "character": "Bill Mitchell"
+      },
+      {
+        "name": "Carlos Andrés Gómez",
+        "character": "Steve"
+      },
+      {
+        "name": "Kim Director",
+        "character": "Stevie"
+      },
+      {
+        "name": "James Ransone",
+        "character": "Steve-O"
+      },
+      {
+        "name": "Bernie Rachelle",
+        "character": "Chaim"
+      },
+      {
+        "name": "Peter Gerety",
+        "character": "Captain Coughlin"
+      },
+      {
+        "name": "Victor Colicchio",
+        "character": "Sergeant Collins"
+      },
+      {
+        "name": "Cassandra Freeman",
+        "character": "Sylvia"
+      },
+      {
+        "name": "Peter Frechette",
+        "character": "Peter Hammond"
+      },
+      {
+        "name": "Gerry Vichi",
+        "character": "Herman Gluck"
+      },
+      {
+        "name": "Waris Ahluwalia",
+        "character": "Vikram Walia"
+      },
+      {
+        "name": "Rafael Osorio",
+        "character": "Bank Guard"
+      },
+      {
+        "name": "Rodney \"Bear\" Jackson",
+        "character": "Bank Guard"
+      },
+      {
+        "name": "Daryl Mitchell",
+        "character": "Officer Rourke"
+      },
+      {
+        "name": "Ashlie Atkinson",
+        "character": "Officer Berk"
+      },
+      {
+        "name": "David Brown",
+        "character": "Officer Carnow"
+      },
+      {
+        "name": "Robert C. Kirk",
+        "character": "Officer Borinsky"
+      },
+      {
+        "name": "Frank Stellato",
+        "character": "Detective"
+      },
+      {
+        "name": "Ken Leung",
+        "character": "Wing"
+      },
+      {
+        "name": "Marcia Jean Kurtz",
+        "character": "Miriam Douglas"
+      },
+      {
+        "name": "Ed Onipede Blunt",
+        "character": "Ray Robinson"
+      },
+      {
+        "name": "Amir Ali Said",
+        "character": "Brian Robinson"
+      },
+      {
+        "name": "Lemon Andersen",
+        "character": "Paul Guitierez"
+      },
+      {
+        "name": "Samantha Ivers",
+        "character": "Nancy Mann"
+      },
+      {
+        "name": "Peter Kybart",
+        "character": "Mayor"
+      },
+      {
+        "name": "Al Palagonia",
+        "character": "Kevin"
+      },
+      {
+        "name": "Florina Petcu",
+        "character": "Ilina Miritia"
+      },
+      {
+        "name": "Jason Manuel Olazabal",
+        "character": "ESU Officer Hernandez"
+      },
+      {
+        "name": "Jeff Ward",
+        "character": "ESU Officer Jesus"
+      },
+      {
+        "name": "Anthony Mangano",
+        "character": "ESU Officer"
+      },
+      {
+        "name": "Michael Devine",
+        "character": "ESU Officer"
+      },
+      {
+        "name": "Ed Bogdanowicz",
+        "character": "ESU Officer"
+      },
+      {
+        "name": "Aaron Vexler",
+        "character": "ESU Officer"
+      },
+      {
+        "name": "Anthony Borowiec",
+        "character": "ESU Officer"
+      },
+      {
+        "name": "Joe Coots",
+        "character": "ESU Officer"
+      },
+      {
+        "name": "Lionel Pina",
+        "character": "Cop with Pizzas"
+      },
+      {
+        "name": "Ken Ferrigni",
+        "character": "Redheaded Detective"
+      },
+      {
+        "name": "Frank Hopf",
+        "character": "Barricade Officer"
+      },
+      {
+        "name": "Robert Testut",
+        "character": "Barricade Officer"
+      },
+      {
+        "name": "Craig M. Spitzer",
+        "character": "Seth Greenblatt"
+      },
+      {
+        "name": "Limary Agosto",
+        "character": "Gladys Perez"
+      },
+      {
+        "name": "Patrick Illig",
+        "character": "Brad Stone"
+      },
+      {
+        "name": "Frank Composto",
+        "character": "Eric Dodge"
+      },
+      {
+        "name": "Rozanne Sher",
+        "character": "Hostage Woman"
+      },
+      {
+        "name": "Rachel Black",
+        "character": "Katherine"
+      },
+      {
+        "name": "Gregory Dann",
+        "character": "Case's Bodyguard"
+      },
+      {
+        "name": "Ben Crowley",
+        "character": "White's Assistant"
+      },
+      {
+        "name": "Shon Gables",
+        "character": "CBS News Reporter"
+      },
+      {
+        "name": "Dominic Carter",
+        "character": "NY1 News Anchor"
+      },
+      {
+        "name": "Sandra Endo",
+        "character": "NY1 News Reporter"
+      },
+      {
+        "name": "Kandiss Edmundson",
+        "character": "Madge"
+      },
+      {
+        "name": "Agim Coma",
+        "character": "Borova"
+      },
+      {
+        "name": "John Speredakos",
+        "character": "Porcario"
+      },
+      {
+        "name": "Baktash Zaher",
+        "character": "Zahir"
+      },
+      {
+        "name": "Ernest Rayford",
+        "character": "Men's Club Attendant"
+      },
+      {
+        "name": "Vincent DiMartino",
+        "character": "Barber"
+      },
+      {
+        "name": "Julian Niccolini",
+        "character": "Four Seasons Maître d'"
+      },
+      {
+        "name": "Ed Crescimanni",
+        "character": "Edwin"
+      },
+      {
+        "name": "Brad Leland",
+        "character": "Ronnie"
+      },
+      {
+        "name": "Michal Sinnott",
+        "character": "Lori Minitte"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Brian Grazer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Wynn Thomas",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Eugene Gearty",
+        "department": "Sound",
+        "job": "Sound Effects Designer"
+      },
+      {
+        "name": "Jon Kilik",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Matthew Libatique",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Spike Lee",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Russell Gewirtz",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Karen Kehela Sherwood",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Kim Roth",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Daniel M. Rosenberg",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jonathan Filley",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Jonathan Filley",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Terence Blanchard",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Barry Alexander Brown",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Kim Taylor-Coleman",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Donna Berwick",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Rodney \"Bear\" Jackson",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "David Boulton",
+        "department": "Sound",
+        "job": "ADR Engineer"
+      },
+      {
+        "name": "Curtis Lindersmith",
+        "department": "Editing",
+        "job": "Digital Intermediate Editor"
+      },
+      {
+        "name": "Randall Balsmeyer",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Steven Kirshoff",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Chris Shriver",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "George DeTitta Jr.",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Sam Pollard",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "name": "Todd Bozung",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "name": "Howard Drossin",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Marko Costanzo",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Chris Fielder",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Marissa Littlefield",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Anita Gibson",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Fred Rosenberg",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Carla Meyer",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Mike Phillips",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Mike Ellis",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Eve Streger",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Ryan Denmark",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Carmen Cárdenas",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "name": "Ricardo Sarmiento",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Paul A. Simmons Jr.",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jeff Ward",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Frank Kern",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "Michael Saccio",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Philip Stockton",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Patricia Regan",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "James C. Feng",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Sean Garnhart",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Stephen Consentino",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Stephen Consentino",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Leann Murphy",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Bill Almeida",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Alex Jablonski",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Martin Bernstein",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Bob Chefalas",
+        "department": "Sound",
+        "job": "Additional Sound Re-Recording Mixer"
+      },
+      {
+        "name": "John G. Velez",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Allan Zaleski",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Fred Buchholz",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Kenneth Walker",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Shari L. Carpenter",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "name": "Linton Alfred",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tsigie White",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "David Lee",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "William Sarokin",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Jamie Baker",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "George Leong",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Darrin Smith",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Gene O'Neill",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Kurt Rimmel",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Diana E. Latham",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Tony Arnaud",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Lamont Crawford",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Guy Efrat",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Dan Maslen",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "John Canavan",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Terrence Laron Burke",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Susan Lazarus",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Beth Avery",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "James Klotsas",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Ethan Borsuk",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Miguel Ángel Poveda",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Paul Tanzillo Jr.",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Joseph White",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Careen Fowles",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Devin Maggio",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Pyare Fortunato",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Ryder Washburn",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Meg Thornton",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "Colin Cumberbatch",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Carlie Bergman",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Jodi Pynn",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gabu Camilo",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Kim Jackson",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Pierson Silver",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Yana Collins Lehman",
+        "department": "Production",
+        "job": "Post Production Accountant"
+      },
+      {
+        "name": "Justin Panzanaro",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Victoria Brown McCready",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Jean Chien",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Terra Bliss",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Vincent Guarriello",
+        "department": "Art",
+        "job": "Key Construction Grip"
+      },
+      {
+        "name": "Arne Olsen",
+        "department": "Art",
+        "job": "Construction Grip"
+      },
+      {
+        "name": "Dicken Berglund",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Sara Stern",
+        "department": "Sound",
+        "job": "Apprentice Sound Editor"
+      },
+      {
+        "name": "Colleen Morris-Glennon",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Robert Antalocy",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Dan DeTitta",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Laura Sewrey",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Timothy Main",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Mark Adams",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "William Sepulveda",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Evelyn Santana",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "name": "Nicholas Brown",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "James Hook",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Jackie Bazan",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Max Frankston",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Tracey Hinds",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Justin Cheatham",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Ross Huttick",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Allen Stillman",
+        "department": "Art",
+        "job": "Shop Electric"
+      },
+      {
+        "name": "James Parsons",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Jeffrey L. Glave",
+        "department": "Crew",
+        "job": "Charge Scenic Artist"
+      },
+      {
+        "name": "Ella Boliver",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Mo Link",
+        "department": "Production",
+        "job": "Extras Casting Assistant"
+      },
+      {
+        "name": "Bridgett Brown",
+        "department": "Crew",
+        "job": "Intern"
+      },
+      {
+        "name": "Jill Fazzolare",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jennifer Gaston-Gates",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "nazi",
+    "court case",
+    "kidnapping",
+    "hostage",
+    "bank",
+    "bank manager",
+    "ultimatum",
+    "heist",
+    "anti-semitism",
+    "police detective",
+    "bank robbery",
+    "hostage situation",
+    "financial transactions",
+    "bank vault",
+    "dark past",
+    "manhattan, new york city",
+    "secret past",
+    "crooked banker",
+    "secret",
+    "public figure"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A police detective, a bank robber, and a high-power broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.",
+    "Composed and meticulous, the soft-spoken and ingenious bank robber, Dalton Russell, has orchestrated the perfect heist--shortly, the Manhattan bank at the corner of Wall Street and Broadway along with dozens of hostages will be his to command. Try as he might, the rough hostage negotiator, Keith Frazier, is always one step behind the criminal mastermind--and what is more disheartening--the institution's silver-haired founder, Arthur Case, recruits the intelligent problem-fixer, Madeline White, to retrieve something of paramount importance. However, the thieves seem to procrastinate intentionally, when they should be rushing into action. Will Arthur and Madeline get what they want this time?—Nick Riganas",
+    "A gang holds up a bank, takes hostages and is trapped inside the bank by police. A police hostage negotiator arrives and takes charge but the gang don't seem to be following the usual playbook. Even more mysteriously, the chairman of the bank has hired his own negotiator.—grantss",
+    "From a cell, a man tells us he has planned the perfect bank robbery; he invites us to watch. An efficient gang enters a Manhattan bank, locks the doors, and takes hostages. They work deliberately, without haste. Detective Frazier is assigned to negotiate, but half his mind is occupied with the corruption charges he is facing. The bank's president has something to protect in a safe deposit box, so he brings in Madeleine White, a high-power broker with a hidden agenda. With an army of police surrounding the bank, the thief, the cop, and the plutocrat's fixer enter high-stakes negotiations. Why are the robbers asking for a plane, if they are so competent and they know they won't get one? Why aren't they in more of a hurry? If the job's perfect, why is the thieves' leader in a cell?—<jhailey@hotmail.com>"
+  ],
+  "synopsis": "The film begins in medias res with Dalton Russell (Clive Owen) narrating his plight in the confines of an undisclosed cell, musing about the difference between a cell and a prison. Shortly afterwards, he begins in narration to describe the \"perfect\" plan for a bank robbery.The robbery begins in flashback as robbers, dressed as painters and utilizing aliases under variants of the name \"Steve,\" enter a bank, disable the security cameras, and seize control. All customers and bank employees are herded into the basement, where they are forced to surrender their keys and cell phones and change into painter uniforms and face masks identical to the robbers'. The hostages are locked into several rooms; periodically the robbers rotate them and sometimes place themselves in among the hostages at various points.Meanwhile, the police surround the bank. Detectives Keith Frazier (Denzel Washington) and Bill Mitchell (Chiwetel Ejiofor) introduce themselves to Captain Darius (Willem Dafoe) and briefly discuss the situation. Russell demands that the police provide food, and they provide pizzas with electronic bugs in the boxes. They overhear conversations in a foreign language and eventually identify it as Albanian. They discover, however, that the conversations are in fact propaganda recordings of deceased Albanian communist leader Enver Hoxha, implying that the robbers knew or guessed at the attempted surveillance.After being informed of the robbery in progress, Arthur Case (Christopher Plummer), chairman of the board of directors and founder of the bank, hires \"fixer\" Madeleine White (Jodie Foster) to try to arrange for the contents of his safe deposit box at the bank to remain secret. White meets with the mayor, then manipulates Frazier to let her talk with Russell. Mentioning the special interests she wants to protect, she persuades Russell to let her enter the bank to talk. When White requests access to the safe deposit box, Russell shows her a document bearing a swastika symbol, suggesting that Case received money, enough to fund his bank, from the Nazis during World War II for unspecified services that resulted in Jewish deaths. Russell reveals his motivation, saying, \"Fact is, all lies, all evil deeds, they stink. You can cover them up for a while, but they don't go away.\" After assuring Russell that Case will make him a very wealthy man if he destroys or covers up this document, White leaves.Attempting a bluff, Frazier informs Russell that the plane he demanded is ready but he needs to confirm that all the hostages are safe before permitting them to leave. Russell allows him to enter the bank, and escorts Frazier around the building. As they check the hostages, they discuss the situation, and also Frazier's desire to propose to his girlfriend, something which Russell suggests he should do regardless of finances. Upon exiting the bank, Frazier attempts to overpower Russell, but another robber comes to Russell's aid. Russell lets Frazier leave unharmed with seemingly no repercussion for his attack. Frazier tells his colleagues that he intentionally tried to provoke Russell, but as Russell failed to harm him, he believes Russell is not a killer. Soon after, the robbers call and direct the police to point their cameras to a specific second-floor window where a hostage is executed. An enraged Frazier confronts Russell again, demanding to know the robbers' true intentions. Russell simply replies that Frazier is, \"too damn smart to be a cop\".The execution incident prompts the ESU team into action, and they plan to raid the building, using rubber bullets to knock everyone out. Frazier, however, discovers that the drawer Russell sent out that contained the robbers written demands also hid a radio transmitter. He tries to order Captain Darius to cancel the impending attack, but Darius ignores him.Inside the bank, Russell overheard the conversation between Darius and Frazier and is alarmed that the police plan to move in. The robbers detonate smoke bombs throughout the bank and release the hostages, resulting in a horde of identically dressed people exiting through the smoke in mass confusion. The police detain and interrogate everyone. However, the police are unable to distinguish the robbers from among the hostages. The police search fails to turn up Russell, but reveals the hostage execution was faked and the robbers' weapons turn out to be plastic toy replicas. As nothing appears to have been stolen, Frazier's superior orders him to bury the case, commenting \"What do you expect me to say?\".Frazier, however, searches the bank's records and finds that safe deposit box #392 has never appeared on any records since the bank's founding in 1948. He obtains a search warrant to open it. He is then confronted by White, who informs him of Case's Nazi dealings. She attempts to persuade Frazier to drop his investigation, reminding him that she has held up her end of their deal (guaranteeing his promotion and returning money he was implicated in stealing prior to the events of the movie). He refuses, pointing out that he never agreed to such a deal, and plays back their earlier conversation from a secret audio recording pen, ensuring he is protected.White confronts Case about his Nazi connections, and he confesses everything to her. She correctly surmises that the safe deposit box must have contained diamonds and that these were the robbers' true objective; Case then specifies a Cartier diamond ring, belonging to a Jewish friend whom he betrayed to the Nazis in exchange for money. Case is remorseful over his past, and had since engaged in international philanthropy to try to assuage his guilt.Russell's opening monologue is then repeated, but with the revelation that Russell is in fact hiding behind a fake wall erected inside the bank's supply room, thus revealing him as the titular \"Inside Man\", for he has been inside the bank all along. He emerges a week after the incident, with the contents of Case's safe deposit box (including the documents and numerous small bags containing diamonds) in his backpack. As he exits the bank, he deliberately bumps into Detective Frazier, who does not recognize him. Russell's associates meet him in an SUV outside the bank. Asked about the missing ring, Russell assures them he has left it \"in good hands.\"Frazier opens the safe deposit box and finds Russell's gum wrapper, along with the Cartier ring and a scrawled message: \"Follow the ring.\" Frazier confronts Case, informing him of his intention to investigate the ring. He confronts White and the Mayor, telling her that the ring was linked to Case's sordid past. He offers White the pen with the recording and gives her a card for the Office of War Crimes Issues at the U.S. State Department to request they investigate the situation.\nAfter his final encounter with White, Frazier goes home and finds a loose multi-carat diamond in his pocket, realizing it must have been slipped to him by the man he bumped into in the bank, and that man must have been Russell. As the movie ends, it is implied that Frazier will use the diamond to propose to his girlfriend."
+}

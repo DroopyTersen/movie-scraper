@@ -1,0 +1,911 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/plWyKqUIenzqFjMrs1gu7Gjygfq.jpg",
+  "id": 402,
+  "title": "Basic Instinct",
+  "poster_path": "https://image.tmdb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+  "release_date": "1992-03-20",
+  "vote_average": 6.896,
+  "vote_count": 3592,
+  "popularity": 40.299,
+  "overview": "A violent police detective investigates a brutal murder that might involve a manipulative and seductive novelist.",
+  "imdb_id": "tt0103772",
+  "budget": 49000000,
+  "homepage": "https://www.studiocanal.com/title/basic-instinct-1992/",
+  "revenue": 352927224,
+  "runtime": 127,
+  "tagline": "A brutal murder. A brilliant killer. A cop who can't resist the danger.",
+  "genres": [
+    "Thriller",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Carolco Pictures",
+    "StudioCanal"
+  ],
+  "production_countries": [
+    "US",
+    "FR"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Michael Douglas",
+        "character": "Det. Nick Curran"
+      },
+      {
+        "name": "Sharon Stone",
+        "character": "Catherine Tramell"
+      },
+      {
+        "name": "George Dzundza",
+        "character": "Gus Moran"
+      },
+      {
+        "name": "Jeanne Tripplehorn",
+        "character": "Dr. Beth Garner"
+      },
+      {
+        "name": "Leilani Sarelle",
+        "character": "Roxy"
+      },
+      {
+        "name": "Denis Arndt",
+        "character": "Lt. Philip Walker"
+      },
+      {
+        "name": "Bruce A. Young",
+        "character": "Andrews"
+      },
+      {
+        "name": "Chelcie Ross",
+        "character": "Capt. Talcott"
+      },
+      {
+        "name": "Dorothy Malone",
+        "character": "Hazel Dobkins"
+      },
+      {
+        "name": "Wayne Knight",
+        "character": "John Correli"
+      },
+      {
+        "name": "Daniel von Bargen",
+        "character": "Lt. Marty Nilsen"
+      },
+      {
+        "name": "Stephen Tobolowsky",
+        "character": "Dr. Lamott"
+      },
+      {
+        "name": "Benjamin Mouton",
+        "character": "Harrigan"
+      },
+      {
+        "name": "Jack McGee",
+        "character": "Sheriff"
+      },
+      {
+        "name": "Bill Cable",
+        "character": "Johnny Boz"
+      },
+      {
+        "name": "Stephen Rowe",
+        "character": "Internal Affairs Investigator"
+      },
+      {
+        "name": "Mitch Pileggi",
+        "character": "Internal Affairs Investigator"
+      },
+      {
+        "name": "Mary Pat Gleason",
+        "character": "Juvenile Officer"
+      },
+      {
+        "name": "Freda Foh Shen",
+        "character": "Berkeley Registrar"
+      },
+      {
+        "name": "William Duff-Griffin",
+        "character": "Dr. Myron"
+      },
+      {
+        "name": "James Rebhorn",
+        "character": "Dr. McElwaine"
+      },
+      {
+        "name": "David Wells",
+        "character": "Polygraph Examiner"
+      },
+      {
+        "name": "Mary Ann Rodgers",
+        "character": "Nurse"
+      },
+      {
+        "name": "Adilah Barnes",
+        "character": "Nurse"
+      },
+      {
+        "name": "Irene Olga López",
+        "character": "Maid"
+      },
+      {
+        "name": "Juanita Jennings",
+        "character": "Receptionist"
+      },
+      {
+        "name": "Craig C. Lewis",
+        "character": "Bartender / Police Bar"
+      },
+      {
+        "name": "Michael David Lally",
+        "character": "Detective"
+      },
+      {
+        "name": "Peter Appel",
+        "character": "Detective"
+      },
+      {
+        "name": "Michael Halton",
+        "character": "Bartender / Country Western Bar"
+      },
+      {
+        "name": "Keith McDaniel",
+        "character": "Featured Dancer"
+      },
+      {
+        "name": "Eric Poppick",
+        "character": "Coroner's Guy"
+      },
+      {
+        "name": "Ron Cacas",
+        "character": "Policeman"
+      },
+      {
+        "name": "Kayla Blake",
+        "character": "Roxy's Friend"
+      },
+      {
+        "name": "Bradford English",
+        "character": "Campus Policeman"
+      },
+      {
+        "name": "Ashlyn Gere",
+        "character": "Body Double"
+      },
+      {
+        "name": "Jeanne Basone",
+        "character": "(unconfirmed)"
+      },
+      {
+        "name": "Doreen Foo Croft",
+        "character": "(unconfirmed)"
+      },
+      {
+        "name": "Christa Connor",
+        "character": "Disco Patron (uncredited)"
+      },
+      {
+        "name": "Anne Lockhart",
+        "character": "Disco Patron (uncredited)"
+      },
+      {
+        "name": "Patricia Anne Isgate-Hayward",
+        "character": "Classmate"
+      },
+      {
+        "name": "Ken Liebenson",
+        "character": "Doo Wah Riders"
+      },
+      {
+        "name": "Lindy Rasmusson",
+        "character": "Doo Wah Riders"
+      },
+      {
+        "name": "Byron Berline",
+        "character": "Doo Wah Riders"
+      },
+      {
+        "name": "Eddie Dunbar",
+        "character": "Doo Wah Riders"
+      },
+      {
+        "name": "Tom McKibbin",
+        "character": "Doo Wah Riders"
+      },
+      {
+        "name": "Julia Bond",
+        "character": "Hand Puppet Model"
+      },
+      {
+        "name": "Dave LaBrucherie",
+        "character": "Driver (uncredited)"
+      },
+      {
+        "name": "Pui Fan Lee",
+        "character": "Mrs. Rollins (uncredited)"
+      },
+      {
+        "name": "Andy Rolfes",
+        "character": "Police Officer (uncredited)"
+      },
+      {
+        "name": "Bob Sallese",
+        "character": "Internal Affairs Detective (uncredited"
+      },
+      {
+        "name": "Theodore Carl Soderberg",
+        "character": "Disco Bartender (uncredited)"
+      },
+      {
+        "name": "Damon Stout",
+        "character": "Disco Patron (uncredited)"
+      },
+      {
+        "name": "Chase Watson",
+        "character": "Disco Patron (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Howard Feuer",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jerry Goldsmith",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Alexander Courage",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Jan de Bont",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Terence Marsh",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Mario Kassar",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mario Kassar",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "name": "Ellen Mirojnick",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Paul Verhoeven",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Joe Eszterhas",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Alan Marshall",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Frank J. Urioste",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Mark Billerman",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "William Cruse",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Anne Kuljian",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Dean Beville",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Dean Beville",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "John Frazier",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "John Frazier",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "M. James Arnett",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "M. James Arnett",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Seth Arnett",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Roy Barnes",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Dave Childers",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Ellen Lent",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Scott A. Hecker",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Kenneth Hall",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Ron Bartlett",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Derek Brechin",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "William S. Beasley",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "William S. Beasley",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Michael Dennison",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Wayne Fitzgerald",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Louis D'Esposito",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Louis D'Esposito",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Steve Adcock",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Michael Viglietta",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Norman B. Schwartz",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Charlie Picerni",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Rob Bottin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "name": "Ron Roggé",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Stephen Myles Berger",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Gary Epper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nerses Gezalyan",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Stephen Hunter Flick",
+        "department": "Sound",
+        "job": "Supervising Sound Effects Editor"
+      },
+      {
+        "name": "Donna Evans",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Larry McConkey",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Nicole Boxer",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Robert 'Bobby Z' Zajonc",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "David Forrest",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Randy L. Childs",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Trudy Ramirez",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Al Magliochetti",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Ralph Nelson Jr.",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Tommy J. Huff",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jakki Fink",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Carlos Delarios",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Greg Orloff",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Audrey L. Anzures",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "David A. Arnold",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Jonathan Bobbitt",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Jeffrey Greeley",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Kim Marks",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Leslie J. Kovacs",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Douglas Greenfield",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "name": "Douglas Kunin",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "name": "Dennis J. Parrish",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "John Pospisil",
+        "department": "Crew",
+        "job": "Special Sound Effects"
+      },
+      {
+        "name": "Nicholas Korda",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Perry Montague Mason",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Marian Green",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sandy Berumen",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "David Lowery",
+        "department": "Art",
+        "job": "Production Illustrator"
+      },
+      {
+        "name": "Bruce Y. Kuroyama",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Lauren Beth Strogoff",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "name": "Allen Burry",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "name": "Manny Perry",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gregory Lynch Jr.",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Michael Runyard",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Robin Glenn",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Miles Anderson",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Mauriece Jacks Jr.",
+        "department": "Crew",
+        "job": "Cableman"
+      },
+      {
+        "name": "Fred Runner",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Bob Putynkowski",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Robin Allen",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Chris Chichotka",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Jim Davidson",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Randy Burke",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Robert J. Babin",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Catherine Marie McDonald",
+        "department": "Production",
+        "job": "Key Set Production Assistant"
+      },
+      {
+        "name": "Bill Landrum",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Christine A. Johnston",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Harry Shannon",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Paul Threlkeld",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Janet Brady",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Doug Kent",
+        "department": "Sound",
+        "job": "Assistant Dialogue Editor"
+      },
+      {
+        "name": "Benny McNulty",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Michael R. Sloan",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "E. Christopher Reed",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Candace Wells",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Thomas J. O'Connell",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "B.J. Fredrickson",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Jennifer Clinard",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "Craig T. Shordon",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Harold Selig",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Mariann H.W. Lee",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Richard W. Clot",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Gary E. Roloff",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "J. Michael Davis",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "Don Estes",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Aslihan Coker",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Jim Baldwin",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Homer Albin",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Daniel B. Briggs",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Frank Cunha",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Christopher Desmond",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Mike Kaufman",
+        "department": "Crew",
+        "job": "Projection"
+      },
+      {
+        "name": "James Marett",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Gary F. Kieldrup",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Stephen Hessel",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Joseph Graham",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Scott Beatty",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Jeff Ledbetter",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Tim August",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Craig Dietrich",
+        "department": "Production",
+        "job": "Production Secretary"
+      }
+    ]
+  },
+  "keywords": [
+    "dying and death",
+    "california",
+    "jealousy",
+    "sexual obsession",
+    "police",
+    "san francisco, california",
+    "sadism",
+    "psychopath",
+    "detective",
+    "eroticism",
+    "bisexuality",
+    "suspicion of murder",
+    "dangerous",
+    "lover",
+    "striptease",
+    "celebrity",
+    "femme fatale",
+    "sociopath",
+    "dead",
+    "neo-noir",
+    "erotic thriller",
+    "manipulative woman",
+    "novel writing",
+    "killed during sex",
+    "american giallo"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A violent police detective investigates a brutal murder that might involve a manipulative and seductive novelist.",
+    "A former rock star, Johnny Boz, is brutally killed during sex, and the case is assigned to detective Nick Curran of the SFPD. During the investigation, Nick meets Catherine Tramell, a crime novelist who was Boz's girlfriend when he died. Catherine proves to be a very clever and manipulative woman, and though Nick is more or less convinced that she murdered Boz, he is unable to find any evidence. Later, when Nilsen, Nick's rival in the police, is killed, Nick suspects of Catherine's involvement in it. He then starts to play a dangerous lust-filled mind game with Catherine to nail her, but as their relationship progresses, the body count rises and contradicting evidences force Nick to start questioning his own suspicions about Catherine's guilt.—Soumitra",
+    "Former rock star and San Francisco nightclub owner Johnny Boz is found murdered in his bed. Detective Nick Curran is assigned to the case; he has a history of alcoholism and drug abuse although he is clean now. The prime suspect is Catherine Tramell, an attractive and manipulative novelist who had been seeing Boz for a while. Police psychiatrist Beth Gardner (who happens to be Nick's ex-girlfriend) is brought in on the case when it is discovered that Boz's murder was copied directly from one of Catherine's novels. Nick starts to get too involved and everyone seems to be a suspect.—Col Needham <col@imdb.com>",
+    "Nick Curran is in charge of the investigation of a brutal murder of a rock star, who has been killed using an ice pick. All the evidence points to a beautiful woman, Catherine, as the main suspect of the crime. Catherine is a psychologist and she's written one crime novel, a story in which a similar crime is described. Curran goes to Catherine's house to interrogate her about the victim and what happened that night. Apparently, Catherine was a formal lover of the musician and she even spent that night with him, but she claims to have not killed him. Nick feels attracted immediately to Catherine, but she's a quite intelligent woman who manages to avoid his questions cleverly, using her physical attributes and seductive personality. Catherine has a romantic relationship with another woman, but that won't be an obstacle for Nick, who everyday seems to be much more interested in her. But Nick's been checked by a psychologist, Beth, who was his girlfriend in the past, because the detective had an alcohol problem. But the sexual attraction that Nick feels for Catherine, seems to provoke the problem again. Nick becomes Catherine's lover, a fact that threatens to hinder the investigation and puts in danger his life, discovering a wild sexuality never experimented before. Nick's convinced that Catherine is innocent, but maybe love and sex are blinding him in his way of unfolding the truth.—Alejandro Frias"
+  ],
+  "synopsis": "Down-and-out detective SFPD Nick Curran is called to investigate the murder of a wealthy former rock star, Johnny Boz, who was brutally stabbed to death with an ice pick while having sex with a blonde woman. Boz had ties to the mayor and a mayor's aide hovers over them during their investigation. After the crime scene investigation, he sees Beth Garner, an SFPD psychiatrist that Internal Affairs has required him to see. She asks him about his drug and alcohol use and he says he's been clean and sober for three months.The only lead the police have on Boz' murder is Catherine Tramell, a successful and extremely wealthy crime novelist who was the last person seen with Boz the night he died. Curran and fellow detective Gus Moran (George) look for Tramell at her Pacific Heights mansion, but they find only Roxy, Tramell's lesbian lover, is home. Roxy tells them Tramell is at her Stinson Beach beach house, and mentions that \"she didn't do it, kill Johnny Boz\". Curran and Moran go to the beach house to question Tramell and find her on a deckchair by the ocean. The two policemen introduce themselves, and Tramell says to Curran \"I know who you are\". They ask her questions about her relationship with Boz. She insists they weren't dating (\"I wasn't dating him, I was fucking him\"). Upon hearing that he is dead, she shows very little remorse, saying that she most misses their sexual encounters.Both Nick Curran and Gus Morran discover that Tramell has written a novel about a former rock star who was killed in the exact same way - tied to the bed with a white scarf and stabbed multiple times with an ice-pick. They strongly suspect she murdered Boz. After another confrontation with the detectives, Tramell agrees to go to police headquarters to be interviewed about the murder. She asks to change into something \"more appropriate\" and returns wearing a short white miniskirt. During the interview she uncrosses and crosses her legs in a provocative manner, briefly exposing her genitalia, and the interrogators--especially Curran--are embarrassed and shocked.She continuously calls Curran by his first name, Nick. Later that night, Curran goes to a bar with several of his co-workers. He resumes drinking after having been sober for three months. Officer Nielsen, an Internal Affairs officer who has been a major source of problems for Nick throughout his career, shows up, and he and Curran get into a argument. Beth Garner arrives and she and Nick then leave together. At Beth's apartment the two engage in heated sex. Although he had stopped smoking for some time, Nick asks for a cigarette, and Beth tells him where some cigarettes are before curtly and angrily telling Nick to leave.In another suspicious development, Curran learns that Tramell's parents were both killed in an explosion on their boat when Tramell was an adolescent. Curran also learns that Tramell makes a habit out of befriending vicious murderers like a woman who stabbed her husband and children to death. Curran finds out during a visit to Tramell's house that she knows things about him that are confidential, things that only the psychiatrist Garner ought to know. Curran confronts Garner about Trammel's knowledge of his private life, and Garner reluctantly tells Curran that the IA investigator Nielsen was trying to get Curran off the force. Garner felt compelled to give Nielsen his private file to enable Nielsen and other IA investigators to evaluate Curran directly. Curran attacks Nielsen in his office, accusing him of having showed his psychological profile to Tramell. Nielsen screams back \"You're through!\"Nielsen is found dead later that night in his car with a single gunshot wound to the head from a .38 pistol. Other officers believe Curran may have motive. A torrid sexual affair then begins between Curran and Tramell, with an initial air of a cat-and-mouse game. Roxy, Catherine's lover attempts to kill Nick by running him over with Catherine's car but she ends up being killed herself. Curran, though on leave, continues to investigate on his own and discovers several facts which appear to implicate Tramell as the killer.He also uncovers facts about Garner that cause him to suspect her instead. He learns that Tramell and Garner had an affair while in college and each accuses the other of being obsessed with each other. Curran also learns that a psychology professor was murdered with an ice pick while both of the women were attending that college, where both majored in psychology. Curran's partner is lured to a building and murdered in the same way described in Tramell's new, still unpublished book. Curran, who was left waiting in the car, figures out there is trouble brewing but arrives too late to help his partner. Curran finds Beth at the scene. He thinks she's murdered his partner. She reaches for something in her coat, and he thinks she's about to shoot him. He shoots her first. She has only keys in her pocket and as she dies, she tells Curran she loves him.The police search Beth's apartment afterward and find incriminating evidence--a .38 revolver, copies of Trammel's books, photos of the victims and of Tramell, and an ice pick--that implicate her as Boz' and Gus' murderer. Later on, Tramell and Curran have heated, steamy sex. Afterward Nick's back is briefly turned to her and Catherine slowly reaches under the bed. But she changes her mind and makes passionate love to Nick again. The camera slowly pans down and shows the underside of the bed where an ice-pick is lying on the floor."
+}

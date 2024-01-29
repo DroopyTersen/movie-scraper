@@ -1,0 +1,838 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/2yjrmdQwYIVWlhCSWD5ZeI7F6zK.jpg",
+  "id": 968051,
+  "title": "The Nun II",
+  "poster_path": "https://image.tmdb.org/t/p/w500/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg",
+  "release_date": "2023-09-06",
+  "vote_average": 6.831,
+  "vote_count": 1663,
+  "popularity": 211.741,
+  "overview": "In 1956 France, a priest is violently murdered, and Sister Irene begins to investigate. She once again comes face-to-face with a powerful evil.",
+  "imdb_id": "tt10160976",
+  "budget": 38500000,
+  "homepage": "https://www.warnerbros.com/movies/nun2",
+  "revenue": 268100000,
+  "runtime": 110,
+  "tagline": "Confess your sins.",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    "New Line Cinema",
+    "Atomic Monster",
+    "The Safran Company"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Taissa Farmiga",
+        "character": "Sister Irene"
+      },
+      {
+        "name": "Jonas Bloquet",
+        "character": "Maurice Theriault"
+      },
+      {
+        "name": "Storm Reid",
+        "character": "Sister Debra"
+      },
+      {
+        "name": "Anna Popplewell",
+        "character": "Kate"
+      },
+      {
+        "name": "Bonnie Aarons",
+        "character": "The Demon Nun / Valak"
+      },
+      {
+        "name": "Katelyn Rose Downey",
+        "character": "Sophie"
+      },
+      {
+        "name": "Suzanne Bertish",
+        "character": "Madame Laurent"
+      },
+      {
+        "name": "Léontine d'Oncieu",
+        "character": "Simone"
+      },
+      {
+        "name": "Anouk Darwin Homewood",
+        "character": "Céleste"
+      },
+      {
+        "name": "Peter Hudson",
+        "character": "Father Ridley"
+      },
+      {
+        "name": "Tamar Baruch",
+        "character": "Sister Amara"
+      },
+      {
+        "name": "Natalia Safran",
+        "character": "Sister Chloe"
+      },
+      {
+        "name": "Maxime Elias-Menet",
+        "character": "Jacques"
+      },
+      {
+        "name": "Pascal Aubert",
+        "character": "Father Noiret"
+      },
+      {
+        "name": "Alexandra Gentil",
+        "character": "Sister Astrid"
+      },
+      {
+        "name": "Florence Mestais",
+        "character": "Double Demon Nun"
+      },
+      {
+        "name": "Margaux Borel",
+        "character": "Double Demon Nun"
+      },
+      {
+        "name": "Viviana Moin",
+        "character": "Sister Maria"
+      },
+      {
+        "name": "Renata Palminiello",
+        "character": "Sister Pia"
+      },
+      {
+        "name": "Fulvia Patrizia Olivieri",
+        "character": "Abbess"
+      },
+      {
+        "name": "Camille Amiel",
+        "character": "Julie"
+      },
+      {
+        "name": "Margot Morris",
+        "character": "Aurélie"
+      },
+      {
+        "name": "Gaël Raës",
+        "character": "Cedric the Altar Boy"
+      },
+      {
+        "name": "Sarah Pachoud",
+        "character": "Emily"
+      },
+      {
+        "name": "Lieve Carchon",
+        "character": "Sister Concetta"
+      },
+      {
+        "name": "David Horovitch",
+        "character": "Cardinal Conroy"
+      },
+      {
+        "name": "Paul Spera",
+        "character": "Deacon Scott"
+      },
+      {
+        "name": "Kate Colebrook",
+        "character": "Irene's Mother / St. Lucy"
+      },
+      {
+        "name": "Margot Bernazzi",
+        "character": "Young Irene"
+      },
+      {
+        "name": "Grégory Di Meglio",
+        "character": "Hotel Clerk"
+      },
+      {
+        "name": "Delcho Koprivshki",
+        "character": "Ethan Rome"
+      },
+      {
+        "name": "Philippe Josserand",
+        "character": "Doctor"
+      },
+      {
+        "name": "Aaron-Jon North",
+        "character": "Demon Goat"
+      },
+      {
+        "name": "Andrew Morgado",
+        "character": "Demonic Voice (voice)"
+      },
+      {
+        "name": "Patrick Wilson",
+        "character": "Ed Warren"
+      },
+      {
+        "name": "Vera Farmiga",
+        "character": "Lorraine Warren"
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Wan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "James Wan",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Marco Beltrami",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Michael Polaire",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jean-Christophe Magnaud",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Laurent Usse",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Peter Safran",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Richard Brener",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Stéphane Cressend",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Dave Neustadter",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Gregory Plotkin",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Philip Thomas",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Véronique Boslé",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Ian B. Goldberg",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Alexis McKenzie Main",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Rose Wicksteed",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Akela Cooper",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Akela Cooper",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Gary Dauberman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Gary Dauberman",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "John Marquis",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Dominique Moisan",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Arnaud Kaiser",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Arnaud Kaiser",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Sophie Leclerc",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Tristan Nyby",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Jason W. Jennings",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Jason W. Jennings",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Sarah Boutin",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "name": "Anne Fremiot",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Michael Chaves",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Hugues Espinasse",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Emmanuel Delis",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Richard Naing",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Xio Farias",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Erwan Kerzanet",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Rémi Quilichini",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Agnès Beziers",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Michael Clear",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Eric Larsen",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Laurent Schepman",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Sébastien Fouassier",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Suzel Jouguet",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Mathieu Poudevigne",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Guilhem Malgoire",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Nicolas Amedeo",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Matthieu Lornat",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Matthieu Lornat",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Michel Strasser",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Yannick Heuveline",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Mathias Canard",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Pietro Rosso",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Kay Philips",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Thomas Laporte",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Sylvain Bardoux",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Sophie Kingston-Smith",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Julien Rizzo",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Alexis Imbert",
+        "department": "Art",
+        "job": "Standby Property Master"
+      },
+      {
+        "name": "Michel Bouquerel",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Victoria Palmeri",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Judson Scott",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Dylan Talleux",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Aurélie Avram",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Simon Witte",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Dimitri Besicovitch",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Frederic Dagmey",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Sepehr Azadi",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Melvin Nkosi",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Lainey Lipson",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Marco Peron",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Strasser Matteo",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Antoine Charveriat",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Félix Armand",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jérémy Debord",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Jérémy Debord",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Roberto DiCamillo",
+        "department": "Art",
+        "job": "Construction Buyer"
+      },
+      {
+        "name": "Brayan Cadoret",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Etienne Beck",
+        "department": "Production",
+        "job": "Casting Coordinator"
+      },
+      {
+        "name": "Alexandre Monteau",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Alexandre Monteau",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Quentin Roddier",
+        "department": "Production",
+        "job": "Data Management Technician"
+      },
+      {
+        "name": "Margaux Escourolle",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Frank Quatrone",
+        "department": "Editing",
+        "job": "Dailies Operator"
+      },
+      {
+        "name": "Andres Gomez Orellana",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Tanya Larcinese",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Darren Hallihan",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Jean-Charles Etien",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Matteo Nira Mancini",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Clément Jolivet",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Yohann Ramsawmy",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Mark Schons",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Axel Sorensen",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Chouchane Bakirel",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Guillaume Mondin",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Clément Valette",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Stephanie Le Jamtel",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Baptiste Marnière",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Lou Jullien",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "name": "Clémence Hamel",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Andy Deschamps",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Pauline Rey",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Wesley Barker",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Josue Daniel Acuña",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Tavares Audrey",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Audrey Tavares",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Corinne Texier",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Nicolas Avrand",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Manon Grach",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Frechon Marine",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Jérémie Stachow",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Sue Elliott",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Clément Langelin",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Benjamin Colussi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tau Barut",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Florine Jacquemot",
+        "department": "Camera",
+        "job": "Additional Second Assistant Camera"
+      },
+      {
+        "name": "Kevin Kaiser",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "name": "Sarah Okendo",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Benjamin Rigot",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Dweezil Rotily",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Bastien Semeriva",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jérôme Tanguy",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Peggy Quetglas",
+        "department": "Production",
+        "job": "Extras Casting Assistant"
+      },
+      {
+        "name": "Michèle Pezzin",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Jackie Mata",
+        "department": "Editing",
+        "job": "Dailies Manager"
+      },
+      {
+        "name": "Serop Cheikhoyan",
+        "department": "Crew",
+        "job": "Assistant Script"
+      },
+      {
+        "name": "Laura Gaubert",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Zach Pino",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      }
+    ]
+  },
+  "keywords": [
+    "france",
+    "bullying",
+    "sequel",
+    "religion",
+    "demon",
+    "gothic horror",
+    "demonic possession",
+    "praying",
+    "duringcreditsstinger",
+    "1950s",
+    "demonic",
+    "girls' school",
+    "convent",
+    "the conjuring universe"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "1956 - France. A priest is murdered. An evil is spreading. The sequel to the worldwide smash hit follows Sister Irene as she once again comes face-to-face with Valak, the demon nun.",
+    "A follow-up to the enigmatic gothic horror about a strong evil that haunts and causes supernatural harm to everybody it comes into contact with. After the events of the first film, the said powerful evil now begins to spread in 1956 throughout a town in France as word gets out that a priest has been violently murdered. A finished contemplative in her novitiate, Sister Irene, begins to investigate the murder, only to find a demon behind it -- the same evil that terrorized her in the original film as a nun -- Valak, whom she once again soon comes to encounter.—Kevin",
+    "Tarascon, France, 1956. Following the supernatural encounter with the condemned demon Valak in The Nun (2018), unadulterated evil rapidly spreads across Europe. As a bloody pattern emerges, Sister Irene, the only person alive who has faced the evil entity and lived to tell the tale, picks up where she left off to determine if the rogue spirit in Saint Cartha's monastery is still alive. Now, expendable human pawns do the demon's bidding and will stop at nothing to find what the dark master wants. With the Vatican in dire need of a second miracle, is Sister Irene prepared to sacrifice her life to confront the Nun once more?—Nick Riganas"
+  ],
+  "synopsis": "In 1956, Father Noiret and Jacques perform their daily chores at a church in Tarascon, France. While investigating a disturbance, Noiret is raised into the air, set on fire, and burned to death, all the while Jacques watches as he holds onto the priest's rosary.Following the events at Saint Cartha's monastery, Sister Irene now serves in a convent in Italy. Maurice works at a boarding school in France, where he has made friends with a young Irish girl named Sophie, as well as a teacher and her mother, Kate. Irene has a vision of Maurice asking her to save him, and the next day, she is asked by the Cardinal to investigate a series of deaths across Europe. While Irene travels to Tarascon, Sister Debra, a young novice, joins her without permission. During the train ride, Debra expresses her difficulty in accepting miracles, such as the Real presence of Christ in the Eucharist, while Irene explains to her the importance of faith.At Tarascon, Irene has a vision where she follows Jacques into an alley but ends up getting choked by Valak, the demon who takes the form of a nun. The next morning, Debra tells Irene that she had met with Jacques and he had given her Father Noiret's rosary. At the same time, in the boarding school, Sophie is bullied by her classmates and locked up in the abandoned chapel of the school where no-one is allowed to enter. The bullies tell her to look at a window with a goat on the mosaic, and claim that if she looks away, the devil will appear to haunt her. The sun shines through the mosaic and makes the eye of the goat shine red.Irene and Debra travel to Palais des Papes and meet with a librarian who tells them that the demon they are investigating was an angel rejected by God and that the emblem on the rosary is the family crest of St. Lucy, who was martyred by a pagan. Though she was set on fire by the pagan, she miraculously did not die; St. Lucy's family rescued her eyes and dispersed throughout the world. The librarian suggests that the demon is killing the descendants of St. Lucy because it wants this relic, the eyes, which were last known to be stored in a former monastery, which is revealed to be a boarding school in the present day.Irene and Debra go to the school to find Maurice in distress with Sophie and Kate. Irene tells Maurice that the demon is inside of him, and is devastated by the revelation, but is then taken over by the demon and attacks Irene and Debra, before being knocked unconscious. Inside the chapel of the school, Sophie shows Irene, Debra, and Kate the game her classmates made her play and Debra uses a flashlight to make the eyes of the goat on the mosaic glow red. The red light points in the direction of where the eyes of St. Lucy are buried and Irene finds the relic.Debra and Kate are separated from Irene and Sophie to protect the schoolgirls from a demon goat. Under the influence of the demon, Maurice escapes and attacks Irene, while Sophie grabs the relic and runs away. Maurice chases after Sophie and causes the bell tower building to collapse. Irene finds Sophie inside, and Debra reunites with the pair. Debra admits that she has seen a miracle and has faith. Irene uses the relic against Maurice until he manages to hold it himself. He lifts Irene in the air and sets her on fire, but she does not burn as she realizes that she is a descendant of St. Lucy and is able to harness the same power associated with the relic.Irene and Debra begin to pray the Words of Institution used in Christian celebrations of the Eucharist and barrels of wine present at the former monastery become the blood of Christ. As the blood of Christ soaks Valak, the demon perishes and is damned back to hell."
+}

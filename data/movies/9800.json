@@ -1,0 +1,642 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tUeMIPdYo1eXJZdBhxw4118RIAm.jpg",
+  "id": 9800,
+  "title": "Philadelphia",
+  "poster_path": "https://image.tmdb.org/t/p/w500/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+  "release_date": "1993-12-22",
+  "vote_average": 7.728,
+  "vote_count": 4008,
+  "popularity": 24.305,
+  "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops their courage overcomes the prejudice and corruption of their powerful adversaries.",
+  "imdb_id": "tt0107818",
+  "budget": 26000000,
+  "homepage": "",
+  "revenue": 206678440,
+  "runtime": 126,
+  "tagline": "No one would take on his case... until one man was willing to take on the system.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "TriStar Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Andrew Beckett"
+      },
+      {
+        "name": "Denzel Washington",
+        "character": "Joe Miller"
+      },
+      {
+        "name": "Jason Robards",
+        "character": "Charles Wheeler"
+      },
+      {
+        "name": "Mary Steenburgen",
+        "character": "Belinda Conine"
+      },
+      {
+        "name": "Antonio Banderas",
+        "character": "Miguel Alvarez"
+      },
+      {
+        "name": "Ron Vawter",
+        "character": "Bob Seidman"
+      },
+      {
+        "name": "Robert Ridgely",
+        "character": "Walter Kenton"
+      },
+      {
+        "name": "Charles Napier",
+        "character": "Judge Garnett"
+      },
+      {
+        "name": "Lisa Summerour",
+        "character": "Lisa Miller"
+      },
+      {
+        "name": "Obba Babatundé",
+        "character": "Jerome Green"
+      },
+      {
+        "name": "Andre B. Blake",
+        "character": "Young Man in Pharmacy"
+      },
+      {
+        "name": "Robert W. Castle",
+        "character": "Bud Beckett"
+      },
+      {
+        "name": "Daniel Chapman",
+        "character": "Clinic Storyteller"
+      },
+      {
+        "name": "Roger Corman",
+        "character": "Mr. Laird"
+      },
+      {
+        "name": "Ann Dowd",
+        "character": "Jill Beckett"
+      },
+      {
+        "name": "David Drake",
+        "character": "Bruno"
+      },
+      {
+        "name": "Karen Finley",
+        "character": "Dr. Gillman"
+      },
+      {
+        "name": "Charles Glenn",
+        "character": "Kenneth Killcoyne"
+      },
+      {
+        "name": "Peter Jacobs",
+        "character": "Peter / Mona Lisa"
+      },
+      {
+        "name": "Paul Lazar",
+        "character": "Dr. Klenstein"
+      },
+      {
+        "name": "John Bedford Lloyd",
+        "character": "Matt Beckett"
+      },
+      {
+        "name": "Roberta Maxwell",
+        "character": "Judge Tate"
+      },
+      {
+        "name": "Warren Miller",
+        "character": "Mr. Finley"
+      },
+      {
+        "name": "Harry Northup",
+        "character": "Juror"
+      },
+      {
+        "name": "Dan Olmstead",
+        "character": "Randy Beckett"
+      },
+      {
+        "name": "Joey Perillo",
+        "character": "Filko"
+      },
+      {
+        "name": "Lauren Roselli",
+        "character": "Iris"
+      },
+      {
+        "name": "Anna Deavere Smith",
+        "character": "Anthea Burton"
+      },
+      {
+        "name": "Lisa Talerico",
+        "character": "Shelby"
+      },
+      {
+        "name": "Daniel von Bargen",
+        "character": "Jury Foreman"
+      },
+      {
+        "name": "Tracey Walter",
+        "character": "Librarian"
+      },
+      {
+        "name": "Bradley Whitford",
+        "character": "Jamey Collins"
+      },
+      {
+        "name": "Chandra Wilson",
+        "character": "Chandra"
+      },
+      {
+        "name": "Kathryn Witt",
+        "character": "Melissa Benedict"
+      },
+      {
+        "name": "Joanne Woodward",
+        "character": "Sarah Beckett"
+      },
+      {
+        "name": "Buzz Kilman",
+        "character": "Crutches"
+      },
+      {
+        "name": "Mark Sorensen Jr.",
+        "character": "Clinic Patient"
+      },
+      {
+        "name": "Jeffrey Williamson",
+        "character": "Tyrone"
+      },
+      {
+        "name": "Stephanie Roth Haberle",
+        "character": "Rachel Smilow"
+      },
+      {
+        "name": "Bill Rowe",
+        "character": "Dr. Armbruster"
+      },
+      {
+        "name": "Ford Wheeler",
+        "character": "Alan"
+      },
+      {
+        "name": "Julius Erving",
+        "character": "Himself"
+      },
+      {
+        "name": "Adam LeFevre",
+        "character": "Jill's Husband"
+      },
+      {
+        "name": "Gary Goetzman",
+        "character": "Guido Paonessa"
+      },
+      {
+        "name": "Kenneth Utt",
+        "character": "Juror"
+      },
+      {
+        "name": "Lawrence T. Wrentz",
+        "character": "Juror"
+      },
+      {
+        "name": "Charles Techman",
+        "character": "Ralph Peterson"
+      },
+      {
+        "name": "Jim Roche",
+        "character": "Not Adam and Steve"
+      },
+      {
+        "name": "Tony Fitzpatrick",
+        "character": "Bartender"
+      },
+      {
+        "name": "Gene Borkan",
+        "character": "Bailiff"
+      },
+      {
+        "name": "Q Lazzarus",
+        "character": "Party singer"
+      },
+      {
+        "name": "Lucas Platt",
+        "character": "Robert"
+      },
+      {
+        "name": "José Castillo",
+        "character": "Miguel's Dad"
+      },
+      {
+        "name": "Roy Blount Jr.",
+        "character": "Partygoer (uncredited)"
+      },
+      {
+        "name": "Bob Bowersox",
+        "character": "PR Director (uncredited)"
+      },
+      {
+        "name": "Quentin Crisp",
+        "character": "Guest at Party (uncredited)"
+      },
+      {
+        "name": "Tom Detrik",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Tony Devon",
+        "character": "Security Guard (uncredited)"
+      },
+      {
+        "name": "Tak Fujimoto",
+        "character": "Doctor (uncredited)"
+      },
+      {
+        "name": "Ana Leza",
+        "character": "Guest (uncredited)"
+      },
+      {
+        "name": "Jaime Gomez",
+        "character": "Guy in Library (uncredited)"
+      },
+      {
+        "name": "Elizabeth Roby",
+        "character": "Elizabeth Beckett"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Howard Shore",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Colleen Atwood",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Howard Feuer",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Chris Newman",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Jonathan Demme",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Jonathan Demme",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ronald M. Bozman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ronald M. Bozman",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Edward Saxon",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kenneth Utt",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Kenneth Utt",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Tak Fujimoto",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Craig McKay",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Karen O'Hara",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Kristi Zea",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Kristi Zea",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Kristi Zea",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Tim Galvin",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Billy Miller",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Gary Goetzman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Alan D'Angerio",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Nicole Arbusto",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Tony C. Jannelli",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Ron Nyswaner",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Ron Bochar",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Marko Costanzo",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Lisa R. Frucht",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Anne Gyory",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Fred Rosenberg",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Drew Ann Rosenberg",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Laura Civiello",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Suzana Peric",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Colleen Sharp",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "name": "Frank Kern",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "David Davenport",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Carl Fullerton",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Pablo Ferro",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Bruce MacCallum",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Garrett Brown",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Andrew Casey",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Tom Fleischman",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Steven Litecky",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Peter Owen",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Kenneth Walker",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Robert Griffon Jr.",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Deborah Wallach",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Edna Sheen",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Steve Rose",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Patrick Capone",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Eliza Paley",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Timothy Alberts",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Ken Regan",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Steven Visscher",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Francine Byrne",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Nicholas Meyers",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Kathleen Gerlach",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Ken Connors",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Bruce Pross",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "Thomas A. Imperato",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Judy Arthur",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Neri Kyle Tannenbaum",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Dennis Maitland II",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Debra C. Victoroff",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "David Bryden",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "James Finnerty, Jr.",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Russ Engels",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Ben Goldberg",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "philadelphia, pennsylvania",
+    "court",
+    "jurors",
+    "aids",
+    "pennsylvania, usa",
+    "homophobia",
+    "lawsuit",
+    "partner",
+    "hiv",
+    "lawyer",
+    "dying",
+    "lgbt",
+    "discrimination",
+    "judiciary",
+    "1980s",
+    "courtroom drama",
+    "gay theme"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small time lawyer as the only willing advocate for a wrongful dismissal suit.",
+    "Fearing it would compromise his career, lawyer Andrew Beckett hides his homosexuality and HIV status at a powerful Philadelphia law firm. But his secret is exposed when a colleague spots the illness's telltale lesions. Fired shortly afterwards, Beckett resolves to sue for discrimination, teaming up with Joe Miller (Denzel Washington), the only lawyer willing to help. In court, they face one of his ex-employers top litigators, Belinda Conine.—SAMUEL AXON",
+    "Hard-working, meticulous, and above all, devoted, the young attorney, Andrew Beckett, sees his efforts pay off, as he rises through the ranks of a prestigious and powerful law firm in Philadelphia. However, right after earning a promotion, the shocking early signs of AIDS will lead to his ignoble dismissal, on account of alleged incompetence. Suspecting that the deadly disease and homosexuality are the only reasons that got him fired, Andy summons up the courage to sue his cruel former employers, enlisting the help of an improbable and reluctant ally: the homophobic African-American lawyer, Joe Miller. Now, two men alone struggle to crush ignorance--the root cause of injustice and prejudice. Can they make a difference?—Nick Riganas",
+    "Andrew Beckett, a young Philadelphia lawyer infected with AIDS, keeps his homosexuality hidden from his employers. When he is suddenly dismissed by his law firm, Andrew hires a small-time, homophobic lawyer as the only willing advocate for a wrongful dismissal suit."
+  ],
+  "synopsis": "Andrew Beckett (Tom Hanks) is a senior associate at the largest corporate law firm in Philadelphia. Although he lives with his partner Miguel Álvarez (Antonio Banderas), Beckett is not open about his homosexuality at the law firm, nor the fact that he has AIDS. On the day he is assigned the firm's newest and most important case, one of the firm's partners notices a small lesion on Beckett's forehead. Shortly thereafter, Beckett stays home from work for several days to try to find a way to hide his lesions. While at home, he finishes the complaint for the case he has been assigned and then brings it to his office, leaving instructions for his assistants to file the complaint in court on the following day, which marks the end of the statute of limitations for the case. Beckett suffers from bowel spasms at home and is rushed to the hospital. Later that morning, while still at the ER, he receives a frantic call from the firm asking for the complaint, as the paper copy cannot be found and there are no copies on the computer's hard drive. However, the complaint is finally discovered and is filed with the court at the last possible moment. The following day, Beckett is dismissed by the firm's partners, who had previously referred to him as their \"buddy\", but now question his professional abilities in light of the misplaced document.\nBeckett believes that someone deliberately hid his paperwork to give the firm a pretext to fire him, and that the firing is actually as a result of his diagnosis with AIDS. He asks several attorneys to take his case, including personal injury lawyer Joe Miller (Denzel Washington), with whom he had been involved in a previous case. Miller, who is admittedly homophobic and knows little about Beckett's AIDS, initially declines to take the case and immediately visits his doctor to find out if he could have contracted the AIDS through shaking Beckett's hand. The doctor explains the methods of HIV infection. The doctor then offers to take a sample of Miller's blood, suspecting that Miller was asking about AIDS because he suspected he had contracted it and was trying to hide it. Miller dismisses the request by laughing it off, thinking it a joke. Unable to find a lawyer willing to represent him, Beckett is compelled to act as his own attorney. While researching a case at a law library, Miller sees Beckett at a nearby table. After a librarian announces that he has found a book on AIDS discrimination for Beckett, others in the library begin to first stare and then move away, and the librarian suggests Beckett retire to a private room. Disgusted by their behavior, Miller approaches Beckett and reviews the material he has gathered. It is obvious he has decided to take the case. Upon receiving a summons by Miller, the head of the firm, Charles Wheeler (Jason Robards), worries about the damage the lawsuit could do to his business and reputation, although one partner (Ron Vawter) unsuccessfully tries to convince them to settle out of court with Beckett.\nAs the case goes before the court, Wheeler takes the stand, claiming that Beckett was incompetent and claiming that he had deliberately tried to hide his condition. The defense repeatedly suggests that Beckett had invited his illness through promiscuity and was therefore not a victim. In the course of testimony, it is revealed that the partner who had noticed Beckett's lesion had previously worked with a woman who had contracted AIDS after a blood transfusion and so would have recognized the lesion as relating to AIDS. To prove that the lesions would have been visible, Miller asks Beckett to unbutton his shirt while on the witness stand, revealing that his lesions were indeed visible and recognizable as such.\nDuring cross-examination, Beckett admits that he was originally planning to tell his law colleagues that he was gay, but changed his mind after hearing them make homophobic jokes in the sauna of a health club. When asked about the truth of how he got infected, he confirms that he engaged in anonymous sex with another man at a pornographic movie theater. However, he and Miller gain an advantage when the partner who advised settling out of court confesses he long suspected Beckett had AIDS but never said anything, and how he regrets his inaction.\nBeckett collapses during Wheeler's testimony. During his hospitalization, the jury votes in his favor, awarding him back pay, damages for pain and suffering, and punitive damages totaling nearly $4.5M. Miller visits Beckett in the hospital after the verdict and overcomes his fear enough to touch Beckett's face. After Beckett's family leaves the room, he tells Miguel that he is ready to die. A short scene immediately afterward shows Miller getting the word that Beckett has died. The movie ends with a reception at Beckett's home following the funeral, where many mourners, including the Millers, view home movies of Beckett as a healthy child."
+}

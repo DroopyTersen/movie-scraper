@@ -1,0 +1,555 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg",
+  "id": 10830,
+  "title": "Matilda",
+  "poster_path": "https://image.tmdb.org/t/p/w500/wnLbqoGRGdnPNjMV6rY75wgRamd.jpg",
+  "release_date": "1996-08-02",
+  "vote_average": 7.152,
+  "vote_count": 4145,
+  "popularity": 60.282,
+  "overview": "An extraordinarily intelligent young girl from a cruel and uncaring family discovers she possesses telekinetic powers and is sent off to a school headed by a tyrannical principal.",
+  "imdb_id": "tt0117008",
+  "budget": 36000000,
+  "homepage": "",
+  "revenue": 33500000,
+  "runtime": 98,
+  "tagline": "A little magic goes a long way.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Jersey Films",
+    "TriStar Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Mara Wilson",
+        "character": "Matilda Wormwood"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "Harry Wormwood / Narrator (voice)"
+      },
+      {
+        "name": "Rhea Perlman",
+        "character": "Zinnia Wormwood"
+      },
+      {
+        "name": "Embeth Davidtz",
+        "character": "Miss Honey"
+      },
+      {
+        "name": "Pam Ferris",
+        "character": "Agatha Trunchbull"
+      },
+      {
+        "name": "Paul Reubens",
+        "character": "FBI Agent"
+      },
+      {
+        "name": "Tracey Walter",
+        "character": "FBI Agent"
+      },
+      {
+        "name": "Jean Speegle Howard",
+        "character": "Miss Phelps"
+      },
+      {
+        "name": "Brian Levinson",
+        "character": "Michael Wormwood"
+      },
+      {
+        "name": "Sara Magdalin",
+        "character": "Four-Year-Old Matilda"
+      },
+      {
+        "name": "R.D. Robb",
+        "character": "Roy"
+      },
+      {
+        "name": "Gregory R. Goliath",
+        "character": "Luther"
+      },
+      {
+        "name": "Fred Parnes",
+        "character": "Waiter"
+      },
+      {
+        "name": "Kiami Davael",
+        "character": "Lavender"
+      },
+      {
+        "name": "Leor Livneh Hackel",
+        "character": "Julius Rottwinkle"
+      },
+      {
+        "name": "Jacqueline Steiger",
+        "character": "Amanda Thripp"
+      },
+      {
+        "name": "Jimmy Karz",
+        "character": "Bruce Bogtrotter"
+      },
+      {
+        "name": "Michael Valentine",
+        "character": "Nigel HIcks"
+      },
+      {
+        "name": "Liam Kearns",
+        "character": "Charles"
+      },
+      {
+        "name": "Mark Watson",
+        "character": "Magnus"
+      },
+      {
+        "name": "Kira Spencer Hesser",
+        "character": "Hortensia"
+      },
+      {
+        "name": "J.C. Alexander",
+        "character": "Nearby Boy"
+      },
+      {
+        "name": "Malone Brinton",
+        "character": "Older Boy"
+      },
+      {
+        "name": "Marion Dugan",
+        "character": "Cookie"
+      },
+      {
+        "name": "Joshua Alvarez",
+        "character": "Child at Assembly"
+      },
+      {
+        "name": "Max E. Blum",
+        "character": "Child at Assembly"
+      },
+      {
+        "name": "Erin M. Gray",
+        "character": "Child at Assembly"
+      },
+      {
+        "name": "Misty L. Oppenheim",
+        "character": "Child in Assembly"
+      },
+      {
+        "name": "Christopher Shepard Hughes",
+        "character": "Child in Assembly"
+      },
+      {
+        "name": "Rachel Snow",
+        "character": "Child in Assembly"
+      },
+      {
+        "name": "Craig Lamar Traylor",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Jennifer Key",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Marty Bautista",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Anthony Hernandez",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Raina Cease",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Jonathan Osser",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Vinnie Buffolino",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Marcella Sassano",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Johnny Thomas III",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Shannon Hughes",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Christel Khalil",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Cassie Colaw",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Austin Stout",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Cindy Tran",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Jonathan Feyer",
+        "character": "Child in Classroom"
+      },
+      {
+        "name": "Alissa Graham",
+        "character": "Newborn Matilda"
+      },
+      {
+        "name": "Amanda Graham",
+        "character": "Newborn Matilda"
+      },
+      {
+        "name": "Trevor Gallagher",
+        "character": "Newborn Matilda"
+      },
+      {
+        "name": "James Gallagher",
+        "character": "Newborn Matilda"
+      },
+      {
+        "name": "Kayla Fredericks",
+        "character": "Nine-Months Old Matilda"
+      },
+      {
+        "name": "Kelsey Fredericks",
+        "character": "Nine-Months Old Matilda"
+      },
+      {
+        "name": "Amanda Fein",
+        "character": "Toddler Matilda"
+      },
+      {
+        "name": "Caitlin Fein",
+        "character": "Toddler Matilda"
+      },
+      {
+        "name": "Nicholas Cox",
+        "character": "Six-Year-Old Michael"
+      },
+      {
+        "name": "Amanda Summers",
+        "character": "Two-Year-Old Miss Honey"
+      },
+      {
+        "name": "Kristin Summers",
+        "character": "Two-Year-Old Miss Honey"
+      },
+      {
+        "name": "Phoebe Garcia-Pearl",
+        "character": "Five-Year-Old Miss Honey"
+      },
+      {
+        "name": "Kathy Barbour",
+        "character": "Million $ Sticky Showgirl"
+      },
+      {
+        "name": "Donna Spangler",
+        "character": "Million $ Sticky Showgirl"
+      },
+      {
+        "name": "Marianne Curan",
+        "character": "Million $ Sticky Contestant"
+      },
+      {
+        "name": "Penny Holland",
+        "character": "Million $ Sticky Contestant"
+      },
+      {
+        "name": "Richard E. Coe",
+        "character": "Million $ Sticky Contestant"
+      },
+      {
+        "name": "Sabrina Bryan",
+        "character": "Girl (uncredited)"
+      },
+      {
+        "name": "Trevor Coppola",
+        "character": "Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "Simon Jones",
+        "character": "Shellhammer (uncredited)"
+      },
+      {
+        "name": "Jon Lovitz",
+        "character": "Million $ Sticky Host (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Danny DeVito",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Danny DeVito",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Martin Bregman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Deep Roy",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Roald Dahl",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Stefan Czapsky",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "David Newman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Lynzee Klingman",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Michael Shamberg",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Stacey Sher",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David Rubin",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "R. A. Rondell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Bobby Porter",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robin Swicord",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Robin Swicord",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Nicholas Kazan",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Nicholas Kazan",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Jeffrey J. Dashnaw",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jane Ruhm",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Jennifer Polito",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Brent White",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Bill Brzeski",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Michael Peyser",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Liccy Dahl",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Gary Archer",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "Michael Lantieri",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Michael Lantieri",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Eddie Hice",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ve Neill",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Ve Neill",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Renee Rousselot",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Laura Dash",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "François Duhamel",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Lucia Mace",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Philip Toolin",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Edouard F. Henriques",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Yolanda Toussieng",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Cara Giallanza",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Dana Dru Evenson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "May Boss",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Janet Brady",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Larry Nicholas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kent W. Luttrell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marge Piane",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Rusty Hanson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dianne L. Wilson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robin Tracey Sherwood",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "parent child relationship",
+    "difficult childhood",
+    "child prodigy",
+    "childhood trauma",
+    "telekinesis",
+    "school",
+    "teacher student relationship",
+    "schoolmarm",
+    "based on young adult novel"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "A girl gifted with a keen intellect and psychic powers uses both to deal with her crude, distant family and free her kind teacher from their sadistic headmistress.",
+    "Matilda Wormwood is an exquisite and intelligent little girl. Unfortunately, her parents, Harry and Zinnia misunderstand her because they think she is so different. As time passes, she finally starts school and has a kind teacher, loyal friends, and a sadistic headmistress. As she gets fed up with the constant cruelty, she begins to realize that she has a gift of telekinetic powers. After some days of practice, she suddenly turns the tables to stand up to Harry and Zinnia and outwit the headmistress.—Blazer346",
+    "Sweet and bright little Matilda Wormwood, a child of wondrous intelligence, is different from the rest of her family. Misunderstood by everyone and ignored at home, she escapes into a world of reading, honing her skills, and exercising her mind so much that she develops telekinetic powers. When she is sent off to the Crunchem Hall Elementary School headed by the cruel, hulking headmistress, Miss Agatha Trunchbull, Matilda needs all the help she can get. But amid darkness, Matilda finds a single light in warm-hearted Miss Jennifer Honey, her first-grade teacher, who recognizes her remarkable skills--including a very distinctive talent that allows her to turn the tables on the wicked adults in her world. Will they ever see how extraordinary she is?—Nick Riganas",
+    "A young female who is part of a mean family is allowed to attend a school. Instantly, she becomes friends with her peers and her teacher, who has a horrific past with the principal, who is viciously mean and treats children in an awful and terrible way.—RECB3",
+    "A grouchy couple named Harry and Zinnia Wormwood are parents to a very sweet 6-year-old daughter named Matilda. Unlike them and her bratty brother, Michael, she becomes a very sweet and extremely intelligent girl who can't wait to go to school and read books. After a while, Harry and Zinnia send her to the school with the worst headmistress in the world, a very sweet teacher, and good friends. While trying to put up with her parents' and headmistress' cruelty, she starts to unwittingly unleash telekinetic powers, destroying a television and making a newt fly onto the headmistress. With enough practice, she learns to control her telekinetic powers and is soon using them on the headmistress so she can drive her away from the school.—anonomys"
+  ],
+  "synopsis": ""
+}

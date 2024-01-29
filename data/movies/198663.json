@@ -1,0 +1,939 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/vHJlbhsXrZ5yrO2KqCbGSIU6fRX.jpg",
+  "id": 198663,
+  "title": "The Maze Runner",
+  "poster_path": "https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+  "release_date": "2014-09-10",
+  "vote_average": 7.175,
+  "vote_count": 16212,
+  "popularity": 122.137,
+  "overview": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow “runners” for a shot at escape.",
+  "imdb_id": "tt1790864",
+  "budget": 34000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/the-maze-runner",
+  "revenue": 348319861,
+  "runtime": 113,
+  "tagline": "Remember. Survive. Run.",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Ingenious Media",
+    "The Gotham Group",
+    "Dayday Films",
+    "Temple Hill Entertainment",
+    "TSG Entertainment",
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "US",
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Dylan O'Brien",
+        "character": "Thomas"
+      },
+      {
+        "name": "Kaya Scodelario",
+        "character": "Teresa Agnes"
+      },
+      {
+        "name": "Ki Hong Lee",
+        "character": "Minho"
+      },
+      {
+        "name": "Aml Ameen",
+        "character": "Alby"
+      },
+      {
+        "name": "Blake Cooper",
+        "character": "Chuck"
+      },
+      {
+        "name": "Thomas Brodie-Sangster",
+        "character": "Newt"
+      },
+      {
+        "name": "Will Poulter",
+        "character": "Gally"
+      },
+      {
+        "name": "Dexter Darden",
+        "character": "Frypan"
+      },
+      {
+        "name": "Chris Sheffield",
+        "character": "Ben"
+      },
+      {
+        "name": "Joe Adler",
+        "character": "Zart"
+      },
+      {
+        "name": "Alexander Flores",
+        "character": "Winston"
+      },
+      {
+        "name": "Jacob Latimore",
+        "character": "Jeff"
+      },
+      {
+        "name": "Randall D. Cunningham",
+        "character": "Clint"
+      },
+      {
+        "name": "Patricia Clarkson",
+        "character": "Ava Paige"
+      },
+      {
+        "name": "Don McManus",
+        "character": "Masked Man"
+      },
+      {
+        "name": "Michael Bow",
+        "character": "Glader"
+      },
+      {
+        "name": "Jerry Clark",
+        "character": "Glader"
+      },
+      {
+        "name": "Michael Deville",
+        "character": "Glader"
+      },
+      {
+        "name": "Dylan Gaspard",
+        "character": "Glader"
+      },
+      {
+        "name": "Cory Gooding",
+        "character": "Glader"
+      },
+      {
+        "name": "Cazi Greene",
+        "character": "Glader"
+      },
+      {
+        "name": "Dustin Guitreau",
+        "character": "Glader"
+      },
+      {
+        "name": "Tyler Harrison",
+        "character": "Glader"
+      },
+      {
+        "name": "Landon Hazel",
+        "character": "Glader"
+      },
+      {
+        "name": "Gary Hood",
+        "character": "Glader"
+      },
+      {
+        "name": "Nick Killebrew",
+        "character": "Glader"
+      },
+      {
+        "name": "John Langston",
+        "character": "Glader"
+      },
+      {
+        "name": "Chad Martinez",
+        "character": "Glader"
+      },
+      {
+        "name": "Lester Millet",
+        "character": "Glader"
+      },
+      {
+        "name": "Sawyer Pierce",
+        "character": "Glader"
+      },
+      {
+        "name": "Weston Rachal",
+        "character": "Glader"
+      },
+      {
+        "name": "Bryce Romero",
+        "character": "Glader"
+      },
+      {
+        "name": "Johnny Stockwell",
+        "character": "Glader"
+      },
+      {
+        "name": "SanChavis Torns",
+        "character": "Glader"
+      },
+      {
+        "name": "Lane Westerhaus",
+        "character": "Glader"
+      },
+      {
+        "name": "Gentry Williams",
+        "character": "Glader"
+      },
+      {
+        "name": "Adriana Acosta",
+        "character": "Glader (uncredited)"
+      },
+      {
+        "name": "Duane Cothren",
+        "character": "Conference Room Parent (uncredited)"
+      },
+      {
+        "name": "James Dashner",
+        "character": "Lab Tech (uncredited)"
+      },
+      {
+        "name": "Mark Gibson",
+        "character": "Glader (Alec) (uncredited)"
+      },
+      {
+        "name": "Darryl Harvey",
+        "character": "Maze Control Room Supervisor / EMT (uncredited)"
+      },
+      {
+        "name": "Janet L'Aube",
+        "character": "Lab Scientist (uncredited)"
+      },
+      {
+        "name": "Travis Michael Myers",
+        "character": "Glader (uncredited)"
+      },
+      {
+        "name": "Zach Nichols",
+        "character": "Glader (uncredited)"
+      },
+      {
+        "name": "Tommy Sheppard",
+        "character": "Conference Room Member (uncredited)"
+      },
+      {
+        "name": "Andrew Varenhorst",
+        "character": "Patient Zero (uncredited)"
+      },
+      {
+        "name": "Carol Jean Wells",
+        "character": "Herself Lab Student (uncredited)"
+      },
+      {
+        "name": "Jeff Wiesen",
+        "character": "Glader (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Denise Chamian",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Priscilla John",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Wyck Godfrey",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dan Zimmerman",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Eric Brevig",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Ron Bartlett",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mark De Alessandro",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Enrique Chediak",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Jon Danniells",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Marc Fisichella",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Marty Bowen",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David McKimmie",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "David Betancourt",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Tim Gomillion",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Galen Goodpaster",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "David Lucarelli",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Chuck Michael",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Charleen Richards",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Douglas Cumming",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Felipe Savahge",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Paesano",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Dylan Goss",
+        "department": "Camera",
+        "job": "Helicopter Camera"
+      },
+      {
+        "name": "Edward O'Donnell",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Joe Hartwick Jr.",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Bobby Talbert",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "H.H. Cooper",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Jessica Navran",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Stacy Kelly",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Aimee Stuit",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Amy Wood",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Monty L. Simons",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Winsett",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Thirl Haston",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Wes Ball",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Simonetta Mariano",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Noah Oppenheim",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Lindsay Williams",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "James Dashner",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Grant Pierce Myers",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "T.S. Nowlin",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Ellen Goldsmith-Vein",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Christine Bieselin Clark",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Terri De Haan",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Kevin Waterman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lauren Thomas",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Lee Stollman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dan O'Connell",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Nancy Breaux",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Eric D. Christensen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Simonette Berry",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Noah Bradley",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "David Keith Broome",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "William Burck",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Russ Doyle",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Michelle C. Harmon",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Wright McFarland",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Michael Sabo",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "John T. Cucci",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Ai-Ling Lee",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Ai-Ling Lee",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Anthony Ortiz",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Christal Wolgamott",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Sue Rowe",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Scott Puckett",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Troy Robinson",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Andy Ryan",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Kizzie Autumn Martin",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Britany Viguerie",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Ted Caplan",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Steve Gehrke",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Bonnie Marquette",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Lauri Mills",
+        "department": "Crew",
+        "job": "Studio Teachers"
+      },
+      {
+        "name": "Stephen S. Campanelli",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Doug Hemphill",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Susan Dawes",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Greg Maloney",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Ben Rothstein",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Eddie Gamarra",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "John A. Larsen",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Lisa Tutunjian",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Wayne Lemmer",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Budd Bird",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Scotty Morris",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Loan Phan",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Gus Coto",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Erin Foster",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Shane Daniels",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christopher Dooly",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Erik De Boer",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Lucy O'Reilly",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "P.J. Burch",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Greg Morris",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "name": "Bailey Domke",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Logan Breit",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Jason Chen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Steve McLeod",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Gayle Munro",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Ollie Rankin",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Jeff Ranasinghe",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Mariana Sánchez de Antuñano",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Ferdinand Duplantier Jr.",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Michael Umble",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Vanessa Lapato",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Kevin C. Lang",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "David Wolowic",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Kortney Manns",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ashley Nicole Hudson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christine Sirois",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Greg Rementer",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Meredith Richardson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eric Salas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Craine",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Matthew Harrison",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Stephen P. Durante",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Blake Collins",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Helen Luttrell",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "David Guilbeau",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Paul Ledford",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Joel Venti",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Aaron Matthews",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Josh Mueller",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sid Yost",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "name": "Mallory Thompson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard Duarte",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "John Guentner",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Doug Wright",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Preston Schrag",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Edward Poveda",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Patrick Calabrese",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Greg Dela Riva",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Matt Zaff",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Mirashyam Blakeslee",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Tony Vo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Curtis Abbott",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Beau Harrison",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Vanessa Hickey",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Hiroshi Mori",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "escape",
+    "dystopia",
+    "maze",
+    "post-apocalyptic future",
+    "memory loss",
+    "erased memory",
+    "trapped",
+    "runner",
+    "based on young adult novel"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow \"runners\" for a shot at escape.",
+    "Awakening in an elevator, remembering nothing of his past, Thomas emerges into a world of about thirty teenage boys, all without past memories, who have learned to survive under their own set of rules in a completely enclosed environment, subsisting on their own agriculture and supplies. With a new boy arriving every thirty days, the group has been in \"The Glade\" for three years, trying to find a way to escape through the Maze that surrounds their living space (patrolled by cyborg monsters named 'Grievers'). They have begun to give up hope when a comatose girl arrives with a strange note, and their world begins to change with the boys dividing into two factions: those willing to risk their lives to escape and those wanting to hang onto what they've got and survive.—KelseyJ",
+    "A teen wakes up in a clearing in the center of a gigantic maze with no memory of his past, finding himself a resident in community of boys who have built a village in the glade and who sends two of its strongest and fittest runners into the maze every morning to find a way out. Every night the doors to the maze close and creatures known as 'grievers' kill those who are stuck inside. Nobody ever survives a night in the maze, but there must be a way out.—Blue_EagleUK",
+    "Thomas wakes up in a strange elevator, with memories lost and no idea what is going to happen. He is accepted into a glade full of other teenage boys who call themselves \"Gladers.\" After learning about the Maze that surrounds them all, Thomas becomes obsessed with finding a way out, which could mean certain death.",
+    "A boy wakes up in an elevator with no recollection of his name, where he comes from, or where he is. As he emerges from the earth, he finds himself in a community of boys, living in a glade. As the boy slowly starts unearthing memories, such as his name, Thomas, he also finds out more sinister things from the other boys about the place he's landed. The boys are held prisoners within the center of a gigantic maze, and for three years they've been looking for a way out. Now it's up to Thomas to find that way, but the road isn't going to be easy, as any who dare enter the maze finds himself hunted by the Grievers."
+  ],
+  "synopsis": "Thomas (Dylan O'Brien) wakes up in an ascending elevator. With him are supply containers marked WCKD. When the elevator reaches the top, a door above him opens and he's surrounded by a Lord of the Flies type gaggle of young men/boys. Thomas takes off running, but stops when he realizes he's in a small glade surrounded by huge walls.Gally (Will Poulter) subdues Thomas and keeps him from trying to run into a maze which is accessible through a door in the wall.The leader of the group, Alby (Ami Ameen), and his consigliere Newt (Thomas Brodie-Sangster) explain the situation to Thomas. Once a month the elevator (or the box as they call it), comes to the surface with supplies as well as a new boy. They all live in the glade and call themselves Gladers. None of them can remember anything about their pasts or why they were sent there, but after a few days their names come back to them. Each boy is given a different job. Some are builders, some are runners. A door opens in the giant wall every day and closes every night. The door leads to a maze that surrounds the glade. Runners go through looking for a way out. \"If you're trapped in the maze over night, the Grievers get you and you die\". The maze changes every night. Alby was the first boy to arrive in the Glade. No one knows why they're there.Thomas starts to form a friendship with the kid who came up the month before him. He's one of the youngest of the group. His name is Chuck (Blake Cooper).That night there's a celebration for Thomas. Gally is wrestling one of the other boys and asks if Thomas wants to have a go. They end up sparring and when Thomas hits his head on the ground, he remembers his name.That night Thomas has a dream. It's full of fleeting images, but a woman (Patricia Clarkson) says, \"Wicked is good.\"Alby takes Thomas around to show him more of the sites. The boys carve their names on the wall when they arrive. When one dies, they cross off the name. Thomas tries to fit in and he's given the task to go dig up fertilizer from out in the woods. While he's there, he's attacked by Ben (Chris Sheffield) one of the Runners who was stung by a Griever. While they fight, the other boy says, \"This is all your fault. I saw you. That boy has what they call The Changing. A sting will apparently cause tremendous pain and make you prone to violence. There's no cure for it, so they force the boy into the maze at night just as the doors are closing.\" Everyone is concerned that there was a Griever attack during the day.That night Thomas has another dream. It's more of the lady assuring him that Wicked is good, but now he also remembers himself and a girl about the same age sitting across from each other at work stations going over diagnostics.The next day, Alby goes into the maze to retrace Ben's path to find out what happened. It rains during the day. Now it's getting late and Alby still hasn't returned. All the boys gather around the entrance to the maze. Just as the doors are about to close, the lead Runner named Minho (Ki Hong Lee) appears with a very injured Alby. Thomas rushes into the maze to help them, but the door closes behind him.Minho and Thomas use vines to suspend Alby's body and try to keep it safe from the Grievers. Alby was stung while inside the maze. One of the Grievers appears and chases after Thomas. The Grievers looks like gigantic bedbugs with robot legs and scorpion tails. Thomas and the Griever run around a bit as the walls in the maze change. Finally Thomas is able to lure the Griever between two walls that are colliding and SQUISH! Dead Griever.The next day Gally calls for a meeting of the Gladers. Most are excited that Thomas killed a Griever. There's another group though, lead by Gally who feel that the rules they have were put in place to keep everyone safe and ever since Thomas arrived things have changed like Grievers attacking during the day. Speaking of things changing, the elevator arrives.The boys run out to check what the elevator brought. Inside are no supplies, only a young girl (Kaya Scodelario). She looks up and says, \"Thomas...\", before passing out. In her hand is a note that reads: 'She's the last one ever.'Gally calls for Thomas to be punished because non Runners are allowed in the maze. He doesn't like the fact that the girl knew who Thomas was. He's scared that the elevator hasn't gone back down since they took out the girl. Newt says Thomas can be locked up overnight without any food and starting tomorrow, he's a Runner. Gally is mad at his leniency.Some of the boys go back into the maze to look at the carcass of the Griever, which further upsets Gally. Inside it they find a weird device that has an electronic display reading the number 7. The device also is marked WCKD. The boys realize whoever sends them supplies also made the Grievers.Minho shows Thomas a map of the maze. There are different outer sections that open each day as the maze changes. Each outer section is numbered. Last night, section 7 was open.The girl is awake. She's at the top of a tower throwing stuff at the boys on the ground. Thomas yells up to her that it's him. She agrees to let him come up. He explains that her memory was wiped, but in a few days she'll remember her name. She says she already remembers her name. It's Teresa. She remembers Thomas too. He tells her that he's had dreams about her and a lady saying that \"Wicked is good.\" When Teresa woke up she found two syringes in her pocket too.That night, Thomas deals with his punishment of being locked up. Chuck visits him and brings him some food. He also asks Thomas to give his parents a little carved statue Chuck made. Even though he doesn't remember his parents, he's sure his parents remember him and miss him. Thomas gives back the statue and tells Chuck that he'll be able to give that to his parents himself.The next morning Thomas and Minho go into the maze along with the device they got from the Griever. The device ends up making clicking noises and guides them to a new section Minho has never seen before. Minho is also concerned that all of the outer sections of the maze seem to be open. They get to a wide area marked WCKD Loading Dock that ends up in a dead end, but the device turns from red to green and opens a new path. That path leads to what looks like some sort of sewer tunnel. The edges of the tunnel have the same slime that the Grievers secrete, so they go back to the Glade.Thomas decides to use one of the syringes on the still changing Alby. It ends up making him better. When he comes to he tells Thomas, \"You were their favorite.\" But we don't find out what he means because outside doors all over the maze begin to open and out pour scores of Grievers.The Griever attack that wipes out lots of the boys and destroys most of their village. Alby is among the dead. Chuck is saved after being grabbed by one of the Grievers. They end up hacking off its tail. After the attack, Thomas realizes that the venom from the Griever stings helps the victim remember, so he takes the hacked off tail and stings himself and he remembers a little bit more.Thomas remembers that the maze isn't a prison, it's a test. He sees all of the other boys in incubation tubes. A lot of them are in a panic. He also sees himself as a scientist along with Teresa.The Gladers use the second syringe and Thomas is cured and confesses to everyone that he's one of the people responsible for everyone being there. Gally is furious; he and his group tie Thomas and Teresa to stakes outside the entrance to the maze as an offering. But half the group is still with Thomas so they free them. Now the Gladers are divided.Thomas tells Gally that he'd rather die trying to escape than die in the Glade not trying. Thomas takes a group into the maze. They get to the Loading Dock area from before and are attacked by Grievers again. They go through the sewer tunnel and it leads to a locked door. They need a numerical code to get through. They realize the code must be the sequence in which the maze would normally open. Theresa types it in and everyone goes through a door. Walls crush all the Grievers behind them.The kids walk through some hallways until they find a door marked exit. (It's seriously a regular old exit door like you'd find in any office building). They go through and now they're inside the lab from Thomas dreams and memories. All the scientists are dead. A video starts to play.The woman from earlier identifies herself as Ava Paige and tells the kids that they don't remember this but there was global devastation by something called the Flare. She was part of a controversial group called The World Catastrophe Killzone Department (WCKD), that believed that in testing the kids they could monitor their brains and find a cure. While she speaks, behind her guerrilla soldiers rush in and start killing other scientists. She tells them she's glad they passed the first test and reminds them that Wicked is good. Before signing off, Paige shoots herself in the head.A door opens leading outside. Before anyone can leave, Gally shows up. He has a gun. He says that they all belong in the Glade. He goes to shoot Thomas, but Chuck jumps in front of the bullet. Gally gets stabbed in the chest with a knife. Chuck hands the, now bloody, statue to Thomas and dies.A group, who looks like the guerrilla soldiers from the video, rush in and takes the kids outside to waiting helicopters. At first it looks like they're in the desert, but we pull out to reveal that they're outside what used to be a city. Buildings are destroyed and everything is covered in sand. They fly over the maze and the Glade and no one asks why the helicopters just didn't land inside the Glade and rescue the kids there instead.In the final shot, it is shown that Paige is alive and wiping fake blood off her head. She says that the kids have taken the bait. More kids survived than she anticipated. The Maze was a success, and now \"phase 2\" can begin as the helicopter flies away to the city of ruins.To be continued..."
+}

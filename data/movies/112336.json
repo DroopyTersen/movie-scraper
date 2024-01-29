@@ -1,0 +1,596 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ikFXXa4k5A13cWXLxanBBInjh4s.jpg",
+  "id": 112336,
+  "title": "Hitchcock",
+  "poster_path": "https://image.tmdb.org/t/p/w500/zlG4QzB00VM6QHUmRkKaboCOgat.jpg",
+  "release_date": "2012-11-22",
+  "vote_average": 6.553,
+  "vote_count": 1437,
+  "popularity": 19.522,
+  "overview": "Following his great success with \"North by Northwest,\" director Alfred Hitchcock makes a daring choice for his next project: an adaptation of Robert Bloch's novel \"Psycho.\" When the studio refuses to back the picture, Hitchcock decides to pay for it himself in exchange for a percentage of the profits. His wife, Alma Reville, has serious reservations about the film but supports him nonetheless. Still, the production strains the couple's marriage.",
+  "imdb_id": "tt0975645",
+  "budget": 15700000,
+  "homepage": "http://www.hitchcockthemovie.com/",
+  "revenue": 23570541,
+  "runtime": 98,
+  "tagline": "Behind every Psycho is a great woman.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Cold Spring Pictures",
+    "The Montecito Picture Company"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Anthony Hopkins",
+        "character": "Alfred Hitchcock"
+      },
+      {
+        "name": "Helen Mirren",
+        "character": "Alma Reville"
+      },
+      {
+        "name": "Scarlett Johansson",
+        "character": "Janet Leigh"
+      },
+      {
+        "name": "Danny Huston",
+        "character": "Whitfield Cook"
+      },
+      {
+        "name": "Toni Collette",
+        "character": "Peggy Robertson"
+      },
+      {
+        "name": "Michael Stuhlbarg",
+        "character": "Lew Wasserman"
+      },
+      {
+        "name": "Michael Wincott",
+        "character": "Ed Gein"
+      },
+      {
+        "name": "Jessica Biel",
+        "character": "Vera Miles"
+      },
+      {
+        "name": "James D'Arcy",
+        "character": "Anthony Perkins"
+      },
+      {
+        "name": "Richard Portnow",
+        "character": "Barney Balaban"
+      },
+      {
+        "name": "Kurtwood Smith",
+        "character": "Geoffrey Shurlock"
+      },
+      {
+        "name": "Ralph Macchio",
+        "character": "Joseph Stefano"
+      },
+      {
+        "name": "Kai Lennox",
+        "character": "Hilton Green"
+      },
+      {
+        "name": "Tara Summers",
+        "character": "Rita Riggs"
+      },
+      {
+        "name": "Wallace Langham",
+        "character": "Saul Bass"
+      },
+      {
+        "name": "Paul Shackman",
+        "character": "Bernard Herrmann"
+      },
+      {
+        "name": "Currie Graham",
+        "character": "PR Flack"
+      },
+      {
+        "name": "Spencer Garrett",
+        "character": "George Tomasini"
+      },
+      {
+        "name": "Terry Rhoads",
+        "character": "Jack Russell"
+      },
+      {
+        "name": "Tom Virtue",
+        "character": "NY Theater Manager"
+      },
+      {
+        "name": "Karina Deyko",
+        "character": "Pretty Secretary"
+      },
+      {
+        "name": "Steven Lee Allen",
+        "character": "Crew Member"
+      },
+      {
+        "name": "Richard Chassler",
+        "character": "Martin Balsam"
+      },
+      {
+        "name": "Frank Collison",
+        "character": "Henry Gein"
+      },
+      {
+        "name": "Melinda Chilton",
+        "character": "Margo (Perkins' Double)"
+      },
+      {
+        "name": "Mary Anne McGarry",
+        "character": "Hedda Hopper Type"
+      },
+      {
+        "name": "Jon Abrahams",
+        "character": "Reporter #1"
+      },
+      {
+        "name": "Gil McKinney",
+        "character": "Reporter #2"
+      },
+      {
+        "name": "Emma Jacobs",
+        "character": "Blonde Fan"
+      },
+      {
+        "name": "Spencer Leigh",
+        "character": "Nunzio"
+      },
+      {
+        "name": "Sean MacPherson",
+        "character": "Waiter"
+      },
+      {
+        "name": "Gerald V. Casale",
+        "character": "David Kirkpatrick"
+      },
+      {
+        "name": "Tara Arroyave",
+        "character": "Woman Waiting in Line"
+      },
+      {
+        "name": "Josh Yeo",
+        "character": "John Gavin"
+      },
+      {
+        "name": "Judith Hoag",
+        "character": "Lillian"
+      },
+      {
+        "name": "Danielle Burgio",
+        "character": "Dead Woman in Tub"
+      },
+      {
+        "name": "John Lacy",
+        "character": "First Guard"
+      },
+      {
+        "name": "Howard Gibson",
+        "character": "Party Guest"
+      },
+      {
+        "name": "Josette Prevost",
+        "character": "Party Guest"
+      },
+      {
+        "name": "Lauren Stewart",
+        "character": "Party Guest"
+      },
+      {
+        "name": "Jaehne Moebius",
+        "character": "Party Guest"
+      },
+      {
+        "name": "Ana Matallana",
+        "character": "Female Prop Assistant"
+      },
+      {
+        "name": "Lindsey Ginter",
+        "character": "Male Prop Master"
+      },
+      {
+        "name": "Brett Chapin",
+        "character": "Hitchcock Fan"
+      },
+      {
+        "name": "Paul Henderson",
+        "character": "Beach Walker"
+      },
+      {
+        "name": "Kay Henderson",
+        "character": "Beach Walker"
+      },
+      {
+        "name": "Lisa Marie Boiko",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Richard Burns",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Meredith Claire",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Alexia DuBasso",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Jonn Faircrest",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Gina Fricchione",
+        "character": "Film Crew"
+      },
+      {
+        "name": "James R. Gavio",
+        "character": "Film Crew"
+      },
+      {
+        "name": "James Henderson",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Bruce Holman",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Dion W.H. Holt",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Jeremiah Hundley",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Michael Kurtz",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Joseph Martino",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Jeremy S. Miles",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Jon Renfield",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Linda Sans",
+        "character": "Film Crew"
+      },
+      {
+        "name": "James Tappan",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Jon Thibault",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Sebastian Vale",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Jason Wingo",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Cynthia Youngblood",
+        "character": "Film Crew"
+      },
+      {
+        "name": "Bill Blair",
+        "character": "Premier Theatre Guest (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Julie Weiss",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Terri Taylor",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Danny Elfman",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Judy Becker",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Robert Gould",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Jeff Cronenweth",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Sacha Gervasi",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ivan Reitman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Pamela Martin",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Steve Bartek",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Tom Pollock",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Joe Medjuck",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Howard Berger",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Supervisor"
+      },
+      {
+        "name": "Kelcey Fry",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Alan Barnette",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John McAlary",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Tommy Thayer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John J. McLaughlin",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Stephen Rebello",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "Josh Hakian",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Eleanor Sabaduquia",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Julie Hewett",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "David Waine",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Susannah Carradine",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Shie Rozow",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Martina Kohl",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Alex Rouse",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Philip Tallman",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Mark Shoaf",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Ken Terry",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Jane Goldsmith",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Colleen LaBaff",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Harold Skinner",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Marsha Shearrill",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Alexander Wei",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Martin Samuel",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Daniel Turk",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Erika Abrams",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Peter Montagna",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Dwayne Grady",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Alexander Linde",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Brittany Perham-MacWhorter",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Sharon Stetzel",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Amir Shahinsha",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Sasi Kumar",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Ken Van Duyne",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Carol Kunz",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Olga Ishkhanova",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "David Norland",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Edgardo Simone",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Ed Maloney",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Paul Postal",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Damon Doherty",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Lars Ian Wolfe",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Josh Seifert",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      }
+    ]
+  },
+  "keywords": [
+    "husband wife relationship",
+    "movie business",
+    "biography",
+    "hollywood",
+    "psycho",
+    "movie set"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The relationship between Alfred Hitchcock and his wife Alma Reville during the filming of Psycho (1960) in 1959 is explored.",
+    "In 1959, Sir Alfred Hitchcock (Sir Anthony Hopkins) and his wife, Alma Reville (Dame Helen Mirren), are at the top of their creative game as filmmakers amidst disquieting insinuations about it being time to retire. To recapture his youth's artistic daring, Sir Alfred decides his next movie will adapt the lurid horror novel, \"Psycho\", over everyone's misgivings. Unfortunately, as Sir Alfred self-finances and labors on this movie, Alma finally loses patience with his roving eye and controlling habits with his actresses. When an ambitious friend lures her to collaborate on a work of their own, the resulting marital tension colors Sir Alfred's work, even as the novel's inspiration haunts his dreams.—Kenneth Chisholm (kchishol@rogers.com)",
+    "In 1959, Sir Alfred Hitchcock (Sir Anthony Hopkins) and his more often than not unheralded collaborator Alma Reville (Dame Helen Mirren), his wife, are revelling in their latest critical and box-office success: North by Northwest (1959). Some in the business believe Sir Alfred, now at age sixty, should hang up his hat while he is still on top, while the brass at Paramount Pictures, to whom he is under contract for one more movie, just wants him to follow North by Northwest (1959) with something in a similar vein to make them money. Sir Alfred, however, wants to stir his creative juices, unlike he has felt he has done with any movie of late. Against the desires of others, including Alma, he is determined that that next project will be a horror movie, specifically an adaptation of a book, that project which will eventually become Psycho (1960). For maximum impact, he wants to buy up whatever existing copies of the book are on the market, so that the public will have no idea what to expect with the movie when it's released, and to have the set closed. While Alma does faithfully support him in this endeavor, Barney Balaban (Richard Portnow), the President at Paramount Pictures, and Geoffrey Shurlock (Kurtwood Smith) with the Censor Board, do not, the former who refuses to finance the movie, leading to Sir Alfred needing to find alternate financing or self-finance, which would result in financial ruin if the movie does not make money, and the latter threatening not to provide certification over the proposed shower scene. These are only two of the external obstacles beyond some on-set problems, including Sir Alfred's mutual dislike of co-star Vera Miles (Jessica Beil), due to their previous working situations. Through it all, there may be issues at home as Sir Alfred suspects Alma of having an affair with writer Whitfield Cook (Danny Huston), who wanted Sir Alfred to use his latest manuscript as the basis for that follow-up to North by Northwest (1959), while Alma, long having despaired over Sir Alfred's obsessions with his leading ladies, most specifically Grace Kelly, just wants something in her life separate from him.—Huggo",
+    "Sir Alfred Hitchcock opens his latest movie, North by Northwest (1959), to considerable success, but is troubled by a reporter's insinuation that he should retire. Seeking to reclaim the artistic daring of his youth, Sir Alfred turns down movie proposals, including Casino Royale and The Diary of Anne Frank, in favor of a horror novel called \"Psycho\" by Robert Bloch, based on the real-life crimes of murderer Ed Gein. Gein (Michael Wincott) appears in sequences throughout this movie, in which he seems to prompt Sir Alfred's imagination regarding the \"Psycho\" story, or act as some function of Sir Alfred's subconscious mind (for instance, drawing Sir Alfred's attention to sand on his bathroom floor, the quantity of which reveals how much time his wife Alma (Dame Helen Mirren) has been spending at the beach house with Whitfield Cook (Danny Huston)). Sir Alfred's wife and artistic collaborator, Alma, is no more enthusiastic about the idea than his colleagues, especially since she is being lobbied by their writer friend, Whitfield Cook, to look at his own screenplay. However, she warms to Sir Alfred's proposal, suggesting the innovative plot turn of killing the female lead early in the movie. The studio heads at Paramount Pictures prove to be more difficult to persuade, forcing Sir Alfred to finance the movie personally, and use his Alfred Hitchcock Presents (1955) television crew (over at competitor Revue/Universal Pictures) to shoot the movie, his last with Paramount Pictures."
+  ],
+  "synopsis": "In 1959, Alfred Hitchcock (Anthony Hopkins) opens his latest film, North by Northwest, to considerable success, but is troubled by a reporter's insinuation that it is time to retire. Seeking to reclaim the artistic daring of his youth, Alfred turns down film proposals like adapting Casino Royale in favor of a horror novel called Psycho by Robert Bloch, which is based on the crimes of serial killer Ed Gein.Alfred's wife and artistic collaborator, Alma (Helen Mirren), is no more enthusiastic about the idea than his appalled colleagues, especially since she is being lobbied by their writer friend, Whitfield Cook, to look at his own screenplay. However, she warms to Alfred's proposal, suggesting the innovative plot turn of killing the female lead early in the film. The studio heads prove more difficult to persuade, forcing Alfred to finance the film personally and use his Alfred Hitchcock Presents television crew to produce the film.However, the pressures of this self-financed production, such as dealing with Geoffrey Shurlock of the Motion Picture Production Code, and Hitchcock's notorious lecherous habits, such as when they confer with the female lead, Janet Leigh (Scarlett Johansson), annoy Alma beyond endurance. To find a release, Alma begins a personal writing collaboration with Whitfield on his screenplay at his beach house without Alfred's knowledge. Alfred eventually discovers what she has been doing and suspects her of having an affair. This concern affects Alfred's work on the film, such as giving Psycho's famous shower scene particularly ferocious ambiance even as he imagines Gein speaking to him.Despite this tension, Alma's loyalty is such that she personally takes over production of his film when Alfred is temporarily bedridden after collapsing from overwork. Despite this, Alfred eventually confronts Alma and asks her if she is having an affair. Alma denies it, profoundly insulted at being accused of adultery after all she has done for her husband.Events take a turn for the worse when Alfred's rough cut of Psycho is poorly received by the studio executives, while Alma discovers Whitfield philandering with a younger woman at his beach house. With both feeling chastened, Alfred and Alma reconcile and set to work on improving the film. Their renewed collaboration yields results, culminating in Alma convincing Alfred to accept their composer's suggestion for adding Bernard Hermann's famous harsh strings score for the shower scene, making it a very effective moment of cinematic horror.After maneuvering Shurlock into leaving the film's content largely intact, Alfred learns that the studio is only going to exhibit the film in a handful of theaters with minimal marketing. To compensate, Alfred arranges for special theater instructions to pique the public's interest in the film such as forbidding admittance after the film begins. At the film's premiere, Alfred waits in the lobby for the audience's reaction and is rewarded with a raucously enthusiastic reception.With the film's screening being so well received, Alfred publicly thanks his wife afterward for helping make it possible and they affirm their love. At the conclusion at his home, Alfred addresses the audience noting Psycho proved a major high point of his artistic career and he is currently pondering his next project. At that, a crow lands on his shoulder as a reference to his successful follow-up effort, The Birds, before turning to meet with his wife."
+}

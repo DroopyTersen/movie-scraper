@@ -1,0 +1,1829 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+  "id": 313369,
+  "title": "La La Land",
+  "poster_path": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+  "release_date": "2016-11-29",
+  "vote_average": 7.9,
+  "vote_count": 15943,
+  "popularity": 52.814,
+  "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+  "imdb_id": "tt3783958",
+  "budget": 30000000,
+  "homepage": "http://www.lalaland.movie",
+  "revenue": 447407695,
+  "runtime": 129,
+  "tagline": "Here's to the fools who dream.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Music"
+  ],
+  "production_companies": [
+    "Summit Entertainment",
+    "Black Label Media",
+    "Gilbert Films",
+    "Impostor Pictures",
+    "Marc Platt Productions",
+    "TIK Films"
+  ],
+  "production_countries": [
+    "HK",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ryan Gosling",
+        "character": "Sebastian Wilder"
+      },
+      {
+        "name": "Emma Stone",
+        "character": "Mia Dolan"
+      },
+      {
+        "name": "John Legend",
+        "character": "Keith"
+      },
+      {
+        "name": "Rosemarie DeWitt",
+        "character": "Laura Wilder"
+      },
+      {
+        "name": "J.K. Simmons",
+        "character": "Bill"
+      },
+      {
+        "name": "Amiée Conn",
+        "character": "Famous Actress"
+      },
+      {
+        "name": "Terry Walters",
+        "character": "Linda"
+      },
+      {
+        "name": "Thom Shelton",
+        "character": "Coffee Spiller"
+      },
+      {
+        "name": "Cinda Adams",
+        "character": "Casting Director"
+      },
+      {
+        "name": "Callie Hernandez",
+        "character": "Tracy"
+      },
+      {
+        "name": "Jessica Rothe",
+        "character": "Alexis"
+      },
+      {
+        "name": "Sonoya Mizuno",
+        "character": "Caitlin"
+      },
+      {
+        "name": "Claudine Claudio",
+        "character": "Karen"
+      },
+      {
+        "name": "Jason Fuchs",
+        "character": "Carlo"
+      },
+      {
+        "name": "D.A. Wallach",
+        "character": "80's singer"
+      },
+      {
+        "name": "Trevor Lissauer",
+        "character": "Valet"
+      },
+      {
+        "name": "Olivia Hamilton",
+        "character": "Bree"
+      },
+      {
+        "name": "Anna Chazelle",
+        "character": "Sarah / Hula Hooper"
+      },
+      {
+        "name": "Marius de Vries",
+        "character": "Clyde"
+      },
+      {
+        "name": "Finn Wittrock",
+        "character": "Greg Earnest"
+      },
+      {
+        "name": "Josh Pence",
+        "character": "Josh"
+      },
+      {
+        "name": "Nicole Coulon",
+        "character": "Josh's Fiance"
+      },
+      {
+        "name": "Damon Gupton",
+        "character": "Harry"
+      },
+      {
+        "name": "Christopher Michael Stevens",
+        "character": "Malcolm"
+      },
+      {
+        "name": "Keith Harris",
+        "character": "Cole"
+      },
+      {
+        "name": "Kaveh Rastegar",
+        "character": "Tom"
+      },
+      {
+        "name": "David Douglas",
+        "character": "Ty"
+      },
+      {
+        "name": "Miles Anderson",
+        "character": "Alistair"
+      },
+      {
+        "name": "Bobo Chang",
+        "character": "Photographer's Assistant"
+      },
+      {
+        "name": "Meagen Fay",
+        "character": "Mrs. Dolan"
+      },
+      {
+        "name": "John Hindman",
+        "character": "Frank"
+      },
+      {
+        "name": "Valarie Rae Miller",
+        "character": "Amy Brandt"
+      },
+      {
+        "name": "Nicole Wolf",
+        "character": "Amy Brandt's Assistant"
+      },
+      {
+        "name": "Corrin Evans",
+        "character": "New Barista"
+      },
+      {
+        "name": "Kiff VandenHeuvel",
+        "character": "New Coffee Shop Manager"
+      },
+      {
+        "name": "Tom Everett Scott",
+        "character": "David"
+      },
+      {
+        "name": "Hemky Madera",
+        "character": "Jimmy"
+      },
+      {
+        "name": "Zoë Hall",
+        "character": "Chelsea"
+      },
+      {
+        "name": "Dempsey Pappion",
+        "character": "Charles"
+      },
+      {
+        "name": "Clifton 'Fou Fou' Eddie",
+        "character": "Seb's Drummer"
+      },
+      {
+        "name": "Cal Bennett",
+        "character": "Seb's Sax Player"
+      },
+      {
+        "name": "Nedra Wheeler",
+        "character": "Seb's Bassist"
+      },
+      {
+        "name": "Javier Gonzalez",
+        "character": "Seb's Trumpeter"
+      },
+      {
+        "name": "Khirye Tyler",
+        "character": "Seb's Pianst"
+      },
+      {
+        "name": "Briana Lee",
+        "character": "Echo Backup Singer"
+      },
+      {
+        "name": "Shaylah J. Stevens",
+        "character": "Echo Backup Singer"
+      },
+      {
+        "name": "Natalie Imani",
+        "character": "Echo Backup Singer"
+      },
+      {
+        "name": "Camryn Ray Cavaliero",
+        "character": "Mia's Daughter"
+      },
+      {
+        "name": "Sandra Rosko",
+        "character": "Dream Audience"
+      },
+      {
+        "name": "Arthur Horowitz",
+        "character": "Fantasy Baby"
+      },
+      {
+        "name": "Reshma Gajjar",
+        "character": "Traffic Dancer - Girl #1"
+      },
+      {
+        "name": "Candice Coke",
+        "character": "Traffic Dancer - Girl #2"
+      },
+      {
+        "name": "Hunter Hamilton",
+        "character": "Traffic Dancer - 1st Man"
+      },
+      {
+        "name": "Damian Gomez",
+        "character": "Traffic Dancer - 2nd Man"
+      },
+      {
+        "name": "Amanda Balen",
+        "character": "Traffic Dancer - Conductor"
+      },
+      {
+        "name": "Lou Becker",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Dominic Chaiduang",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Cindera Che",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Chris Moss",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Marissa Labog",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Tiffany Daniels",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Melinda Sullivan",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Stephanie Landwehr",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Britt Stewart",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Clarice Ordaz",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Nathan Prevost",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Mecca Vazie Andrews",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Scott Hislop",
+        "character": "Hollywood Party Dancer - Creepy Guy"
+      },
+      {
+        "name": "Kc Monnie",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Krystal Ellsworth",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Sarah Mitchell",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Khasan Brailsford",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Morgan Larson",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Becca Sweitzer",
+        "character": "Restaurant Dancer"
+      },
+      {
+        "name": "Gakenia Muigai",
+        "character": "Restaurant Dancer"
+      },
+      {
+        "name": "Michael Stein",
+        "character": "Restaurant Dancer"
+      },
+      {
+        "name": "Mario Diaz",
+        "character": "Restaurant Dancer"
+      },
+      {
+        "name": "Julie Schmid",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Samantha Abrantes",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Lexie Contursi",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Eartha Robinson",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Sybil Azur",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Tara Nicole Hughes",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Kayla Kalbfleisch",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Martha Nichols",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Anthony Marciona",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Bill Prudich",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Robert Roldan",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Ryan Novak",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Demian Boergadine",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Gustavo Vargas",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Robert Haynes",
+        "character": "Angry Neighbor"
+      },
+      {
+        "name": "Jesse Houk",
+        "character": "Kissing Couple (uncredited)"
+      },
+      {
+        "name": "Ana Flavia Gavlak",
+        "character": "Young Actress (uncredited)"
+      },
+      {
+        "name": "Kristin Slaysman",
+        "character": "Coffee Shop Customer (uncredited)"
+      },
+      {
+        "name": "Cameron Brinkman",
+        "character": "Jazz Club Patron (uncredited)"
+      },
+      {
+        "name": "Jordan Ray Fox",
+        "character": "Nathan (uncredited)"
+      },
+      {
+        "name": "C.J. Stussi",
+        "character": "Espresso Coffee Shop Customer (uncredited)"
+      },
+      {
+        "name": "Margaret Newborn",
+        "character": "Jazz Club Goer (uncredited)"
+      },
+      {
+        "name": "Nadia Tumanova",
+        "character": "Club Patron (uncredited)"
+      },
+      {
+        "name": "Crystal Nichol",
+        "character": "Audition Actress (uncredited)"
+      },
+      {
+        "name": "Kristin Elliott",
+        "character": "Audition Actress (uncredited)"
+      },
+      {
+        "name": "Andrea Lareo",
+        "character": "Casting Assistant (uncredited)"
+      },
+      {
+        "name": "Christopher Aber",
+        "character": "Cowboy (uncredited)"
+      },
+      {
+        "name": "Anna Lunberry",
+        "character": "Publicist (uncredited)"
+      },
+      {
+        "name": "Shannon Leann",
+        "character": "Hollywood Starlet (uncredited)"
+      },
+      {
+        "name": "Jenna Curtis",
+        "character": "Waitress (uncredited)"
+      },
+      {
+        "name": "Noah James",
+        "character": "Young Man (uncredited)"
+      },
+      {
+        "name": "Tommy Cooley",
+        "character": "Kissing Couple (uncredited)"
+      },
+      {
+        "name": "Morgan Cohen",
+        "character": "Kissing Couple (uncredited)"
+      },
+      {
+        "name": "Jeremy Nathan Tisser",
+        "character": "Freeway Truck Musician (uncredited)"
+      },
+      {
+        "name": "Patty Tobin",
+        "character": "Casting Director (uncredited)"
+      },
+      {
+        "name": "Heather Turman",
+        "character": "Young Man's Date (uncredited)"
+      },
+      {
+        "name": "Ottavio Taddei",
+        "character": "Swing Dancer (uncredited)"
+      },
+      {
+        "name": "April Martucci",
+        "character": "Audition Girl (uncredited)"
+      },
+      {
+        "name": "Trent Kerpsack",
+        "character": "Sailor (uncredited)"
+      },
+      {
+        "name": "Kaye L. Morris",
+        "character": "Producer's Girlfriend (uncredited)"
+      },
+      {
+        "name": "Vince Donvito",
+        "character": "Coffee Guy (uncredited)"
+      },
+      {
+        "name": "Steffen Dziczek",
+        "character": "Moviegoer (uncredited)"
+      },
+      {
+        "name": "Melvin LaThomas Brimm",
+        "character": "Waiter (uncredited)"
+      },
+      {
+        "name": "Kelly Kennedy",
+        "character": "Bubblegum Girl (uncredited)"
+      },
+      {
+        "name": "Destinee Handly",
+        "character": "Barista (uncredited)"
+      },
+      {
+        "name": "Tommy Otis",
+        "character": "Extra - Robert Evans (uncredited)"
+      },
+      {
+        "name": "Doran Butler",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Matt Cady",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Carol Connors",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Patrick Cook",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Aaron 'Deuce' Cooke",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Bubba Dean Rambo",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Nick Drago",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Shaun Evaristo",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Dana Fukagawa",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Daniel Gaymon",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Liz Imperio",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Casey Johansen",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Cris Judd",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Yoori Kim",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Bradley M. Rapier",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Dana Wilson",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Terrance Yates",
+        "character": "Traffic Dancer"
+      },
+      {
+        "name": "Tracy Shibata",
+        "character": "Hollywood Party Dancer - Girl #1"
+      },
+      {
+        "name": "Dominique Domingo",
+        "character": "Hollywood Party Dancer - Girl #2"
+      },
+      {
+        "name": "Asiel Hardison",
+        "character": "Hollywood Party Dancer - Agent #1"
+      },
+      {
+        "name": "Corey Anderson",
+        "character": "Hollywood Party Dancer - Agent #2"
+      },
+      {
+        "name": "Nick Baga",
+        "character": "Hollywood Party Dancer - Agent #3"
+      },
+      {
+        "name": "Leah Adler",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Noel Bajandas",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Denzel Chisolm",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Montana Efaw",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Natalie Gilmore",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Shannon Holtzapffel",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Galen Hooks",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Jeremy Hudson",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "George Lawrence Jr.",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Scott Myrick",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Cassidy Noblett",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Brittany Parks",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Víctor Rojas",
+        "character": "Hollywood Party Dancer"
+      },
+      {
+        "name": "Tony Bellissimo",
+        "character": "Echo Dancer"
+      },
+      {
+        "name": "Ryan Ramirez",
+        "character": "Echo Dancer"
+      },
+      {
+        "name": "Catalina Cat Rendic",
+        "character": "Echo Dancer"
+      },
+      {
+        "name": "Bryan Tanaka",
+        "character": "Echo Dancer"
+      },
+      {
+        "name": "Ava Bernstine",
+        "character": "Restaurant Dancer"
+      },
+      {
+        "name": "Quinn Lipton",
+        "character": "Restaurant Dancer"
+      },
+      {
+        "name": "Monie Adamson",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Matthew Aylward",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "McKenzie Anderson",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Pamela Chu",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Mallauri Esquibel",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Michael Higgins",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Chris Jarosz",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Matthew Kazmierczak",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Paul Kirkland",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Megan Lawson",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Michael Munday",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Brandon O'Neal",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Chelsea Thedinga",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Danny Valle",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Emily Williams",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Deniz Altunay",
+        "character": "Epilogue Dancer"
+      },
+      {
+        "name": "Holly Houk",
+        "character": "Kissing Couple (uncredited)"
+      },
+      {
+        "name": "Clarence Robinson",
+        "character": "Lighthouse Bass Player (uncredited)"
+      },
+      {
+        "name": "Dapo Torimiro",
+        "character": "Jazz Club Guitar Player (uncredited)"
+      },
+      {
+        "name": "Sasha Fine",
+        "character": "Jazz Club Staff (uncredited)"
+      },
+      {
+        "name": "Eren Kayakıran",
+        "character": "Jazz Club Staff (uncredited)"
+      },
+      {
+        "name": "Ali Arda Özdeniz",
+        "character": "Jazz Club Staff (uncredited)"
+      },
+      {
+        "name": "Phillip E. Walker",
+        "character": "Jazz Club Patron (uncredited)"
+      },
+      {
+        "name": "Susie Ganiere",
+        "character": "Jazz Club Patron (uncredited)"
+      },
+      {
+        "name": "Lynn Moore",
+        "character": "Jazz Club Patron (uncredited)"
+      },
+      {
+        "name": "Nilla Elizabeth Watkins",
+        "character": "Coffee Shop Customer (uncredited)"
+      },
+      {
+        "name": "Andres Perez-Molina",
+        "character": "Coffee Shop Customer (uncredited)"
+      },
+      {
+        "name": "Milica Govich",
+        "character": "Coffee Shop Customer #2 (uncredited)"
+      },
+      {
+        "name": "Frederick Keeve",
+        "character": "Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "Amanda Fields",
+        "character": "Red Head Actress (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Peter Kohn",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "David Wasco",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Deborah Aquila",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Gary Gilbert",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mary Zophres",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Charles Croughwell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Sandy Reynolds-Wasco",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Austin Gorg",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Marc Platt",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mildred Iatrou",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Michael Beugg",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Daniel Bradford",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jeffrey Harlacker",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Jeffrey Harlacker",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Danny Downey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jacklin Masteran",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Carl Pedregal",
+        "department": "Production",
+        "job": "Executive In Charge Of Post Production"
+      },
+      {
+        "name": "Robert Foulkes",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Robert Foulkes",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "John Legend",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Eric Reichardt",
+        "department": "Art",
+        "job": "Lead Painter"
+      },
+      {
+        "name": "Damien Chazelle",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Damien Chazelle",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Damien Chazelle",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "name": "Dale Robinette",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Mark Kubr",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Bart Lipton",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Linus Sandgren",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Tricia Wood",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Steven Frohardt",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Tom Cross",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Jacob Whitley",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Scott Trimble",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Kim Richey",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Jo Kissack Folsom",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Kevin Becker",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Hannah Douglass",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jordan Horowitz",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Marius de Vries",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "name": "Lynda Foote",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Barbara Lorenz",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Dan O'Connell",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Andy Nelson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Kevin Cross",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Attila Kiss",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Luis Galdames",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Lee Gilmore",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "John T. Cucci",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Ai-Ling Lee",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Ai-Ling Lee",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Craig Dollinger",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Lyn Matsuda Norton",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Steve Beimler",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Amy Lederman",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Tim LeDoux",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jason Sanford",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Geno Hart",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Laura Wolford",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Ari Robbins",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Edward J. Protiva",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Fríða Aradóttir",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "David Schmalz",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Jed Dornoff",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Justin Hurwitz",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Justin Hurwitz",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Justin Hurwitz",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Marty Osborne",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Mark Avery",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Ken Lebre",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "name": "Torsten Witte",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Justin Paul",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Justin Paul",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "name": "Tom Lalley",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Thomas Conrad",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "name": "Eric Salas",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Michael Anthony Travers",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Chris Weigand",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Thomas Kuo",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "name": "John F. Teeple",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Steven Morrow",
+        "department": "Sound",
+        "job": "Sound mixer"
+      },
+      {
+        "name": "Nicolas Bosc",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Medusah",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Patrick Clancey",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Jeremy Hays",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Jimmy Hart",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Jennie Harris",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "John To",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Kent Baker",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Jose F. Barrios",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Blake Collins",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "James Ashwill",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Chad R. Davis",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "Chad R. Davis",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Timothy Scott Ralston",
+        "department": "Production",
+        "job": "Executive In Charge Of Post Production"
+      },
+      {
+        "name": "Adam Pere",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Gregory Paul Austin",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "David Ladish",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "David Ladish",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Davon Slininger",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Owen Patry",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Mike Jackson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ty Stiklorius",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Albert Elizondo",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Yukiko Kinkel",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Aubrey Marie",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Lali Peer",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Haruyo Sawada",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Steven R. Soussanna",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Paula Case",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Eddie Acuña",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "David Agajanian",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "Christopher Branan",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Matthew Cavaliero",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Tina Charad",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Chris Forster",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Wes Hottman",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Steven Ladish",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "Steven Light-Orr",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Geoffrey Mandel",
+        "department": "Art",
+        "job": "Other"
+      },
+      {
+        "name": "Rick McLean",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "John Youngblood",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Daniel Hyun Lim",
+        "department": "Art",
+        "job": "Other"
+      },
+      {
+        "name": "Michael Kaleta",
+        "department": "Sound",
+        "job": "Other"
+      },
+      {
+        "name": "Fiifi Aggrey",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Steve Dinozzi",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Blake Goedde",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Bryan Haines",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Chris LeDoux",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Olivia Courtney",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ed McDermott II",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Allan Padelford",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brett Praed",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Cameron Revier",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Josh Yadon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James Frank Brown",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Anthony Cady",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Dustin Evans",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "name": "Christopher Ferguson",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Brad M. Hazen",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Renee Treyball",
+        "department": "Crew",
+        "job": "Loader"
+      },
+      {
+        "name": "Troy N. Wade",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Rachel Wiederhoeft",
+        "department": "Camera",
+        "job": "Other"
+      },
+      {
+        "name": "Sarah Scheussler",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Natasha Leonnet",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Kimi Rosenthal",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Ray Ruotolo",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "name": "Josh Stein",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Matt Wallach",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "name": "Celeste Chada",
+        "department": "Sound",
+        "job": "Other"
+      },
+      {
+        "name": "Tim Davies",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Steven Gizicki",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Mark Graham",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "name": "Liz Kinnon",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      },
+      {
+        "name": "Fred Oliveira",
+        "department": "Sound",
+        "job": "Other"
+      },
+      {
+        "name": "Moore Brian",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Michael Connor",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Gary Thomas Williams",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Malcolm Arias",
+        "department": "Production",
+        "job": "Finance"
+      },
+      {
+        "name": "Demian Boergadine",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "name": "Lauren Coggiola",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      },
+      {
+        "name": "Ami Cohen",
+        "department": "Crew",
+        "job": "Department Administrator"
+      },
+      {
+        "name": "Richard Lee Dalton",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Anna J. DeMildt",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Jessi Eichberger",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Sommer Fehmel",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Stephanie M. Flores",
+        "department": "Production",
+        "job": "Other"
+      },
+      {
+        "name": "Michael A. Fry",
+        "department": "Production",
+        "job": "Other"
+      },
+      {
+        "name": "Hadeel Hadidi",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      },
+      {
+        "name": "Ossey James",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Sherry Kecskes",
+        "department": "Production",
+        "job": "Finance"
+      },
+      {
+        "name": "Eloy Lara",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Laurent Marchand",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "name": "Collin McShane",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "name": "Robert M. Melnik",
+        "department": "Crew",
+        "job": "Executive in Charge of Finance"
+      },
+      {
+        "name": "Curtis A. Miller",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Carly Olsson",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Carrie Prince",
+        "department": "Production",
+        "job": "Other"
+      },
+      {
+        "name": "Michael Riley",
+        "department": "Crew",
+        "job": "Title Graphics"
+      },
+      {
+        "name": "Ross Risley",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Theresa Snider",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Danny Valle",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "name": "Whitney J. Willard",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Tyler John Young",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Kate Gray",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "name": "Fred Berger",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kerri Smeltzer",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "David Castillo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mandy Moore",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Benj Pasek",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Benj Pasek",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "name": "Tom Callinicos",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Brandon Cornell",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "J.R. Vasquez",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Daniel Galindo",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Corina Kramer",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Audrey Douglass",
+        "department": "Crew",
+        "job": "Stunt Double"
+      }
+    ]
+  },
+  "keywords": [
+    "dancing",
+    "dance",
+    "jazz",
+    "musical",
+    "ambition",
+    "casting",
+    "coffee shop",
+    "jazz club",
+    "traffic jam",
+    "hollywood",
+    "los angeles, california",
+    "pianist",
+    "pier",
+    "audition",
+    "planetarium",
+    "aspiring actor",
+    "movie set",
+    "sunset",
+    "one woman show",
+    "pool party",
+    "griffith observatory"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "Aspiring actress serves lattes to movie stars in between auditions and jazz musician Sebastian scrapes by playing cocktail-party gigs in dingy bars. But as success mounts, they are faced with decisions that fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.—Eirini",
+    "The story of aspiring actress Mia and dedicated jazz musician Sebastian, who struggle to make ends meet while pursuing their dreams in a city known for destroying hopes and breaking hearts. With modern-day Los Angeles as the backdrop, this musical about everyday life explores what more important: a once-in-a-lifetime love or the spotlight.—Jwelch5742",
+    "In Hollywood, Mia and Sebastian are struggling to make it in their respective respective careers, about which each has extreme passion. Mia is an actress who dropped out of college and moved from small-town Nevada five years ago to pursue her dream. She is enamored with old-tome Hollywood - the movies she grew up on - but hates the cattle-herding feeling of going on auditions and her belief that she needs to schmooze at social events to get ahead in the business. Sebastian is a jazz pianist, his style of jazz in the vein of traditionalists Charlie Parker and Thelonious Monk. He wants to do his part to preserve that tradition, especially as he knows that that style of music is dying. He has trouble emotionally playing music he doesn't like just to get a paying gig. He dreams of opening his own jazz club, most specifically in what used to be a famous jazz club that has since been converted to a tapas-bar-cum-salsa-dance-club. Partly because of their individual struggles and partly because of the situations, their first few chance meetings are antagonistic. But they eventually become attracted to each other largely because of the passion for their dreams that they see in each other. But there are many obstacles to a happily-ever-after. They may be able to endure the struggling-artist life for so long before those struggles take their toll. The pursuit of their individual dreams may take all their energies with nothing left for their relationship. And any compromise each may make in getting ahead may change the person with whom each has fallen in love.—Huggo",
+    "In sun-kissed Los Angeles, a pair of morning commuters jammed on a wide stretch of highway are off to a rocky start. But suave Sebastian, a charming jazz pianist whom life's got him on the ropes, and lovely Mia, a brilliant playwright waiting for her big break, are meant for each other. On the one hand, Sebastian thinks he has a serious plan for the future. On the other hand, Mia squanders herself in meaningless auditions, mesmerised by old Hollywood glamour. However, as the incurable romantics keep running into each other under the city's starry nights and plum-hued sunrises, a magical, old-school tap-dance romance timidly begins. Such is the power of effervescent love: it inspires people to have long walks while gazing at the colourful Milky Way of the city's flickering lights. But life is as exciting as it is challenging. After all, no one knows what tomorrow holds. And as the young idealists veer from their dreams, questions arise. Does true love exist only in movies? Do dreams come true in real life?—Nick Riganas"
+  ],
+  "synopsis": "On a crowded Los Angeles highway (\"Another Day of Sun\"), Mia (Emma Stone), an on-studio barista and aspiring actress, has a moment of road rage with Sebastian (Ryan Gosling), a struggling jazz pianist. Her subsequent audition goes poorly despite her efforts. That night, Mia's roommates take her to a lavish party in the Hollywood Hills to cheer her up (\"Someone in the Crowd\"). She has to take a long walk back after finding that her car has been towed.During a gig at a restaurant, Sebastian slips into a passionate jazz improvisation despite warnings from the owner (J. K. Simmons) to only play songs on the set-list. Mia overhears the music as she passes by (\"Mia and Sebastian's Theme\"). Moved, she enters, but Sebastian is promptly fired for his disobedience. As he storms out, Mia attempts to compliment him, but he coldly brushes her off.Months later, Mia runs into Sebastian at a party where he plays in a 1980s pop cover band; she teases him. After the gig, the two walk together to find their cars, lamenting being in each other's company despite the chemistry between them (\"A Lovely Night\").Mia takes Sebastian on a walk around the movie lot, explaining her passion for acting; Sebastian takes Mia to a jazz club, describing his passion for jazz and desire to open his own club. They warm to each other (\"City of Stars\"). Sebastian invites Mia to a screening of Rebel Without a Cause, which Mia accepts, forgetting an earlier commitment with her current boyfriend. Discontented with that date, she leaves and rushes to the theater, finding Sebastian as the film begins. The two conclude their evening with a romantic dance at the Griffith Observatory (\"Planetarium\").After more failed auditions, Mia decides, at Sebastian's suggestion, to write a personal single-actress play. Sebastian begins to perform regularly at the jazz club (\"Summer Montage\") and the two move in together. A high school classmate, Keith (John Legend), invites Sebastian to be the keyboardist in his jazz band, which offers a steady source of income. Sebastian is dismayed over the band's pop-oriented style but decides to sign with them after overhearing Mia trying to convince her mother that Sebastian is working on his career. Mia attends one of their concerts (\"Start a Fire\") but is disturbed, knowing Sebastian could not possibly enjoy his band's music.During the band's first tour, Mia confronts Sebastian over his future and goals. Sebastian responds by claiming a steady career is what she wanted for him before accusing her of liking him more when he was unsuccessful. Insulted, Mia leaves. On the night of Mia's play, Sebastian fails to show up due to a photo shoot he had forgotten about. Only a few people attend, and Mia overhears dismissive comments. Despondent, she decides to move back home to Boulder City, Nevada.One day, Sebastian receives a call from a casting director who had attended Mia's play, inviting Mia to a film audition the following evening. Sebastian drives to Boulder City and persuades Mia to attend. For the audition Mia is simply asked to tell a story; she begins to sing about her aunt who inspired her to pursue acting (\"Audition/The Fools Who Dream\"). Sebastian, confident that the audition was a success, asserts that Mia must devote herself wholeheartedly to the opportunity. They profess they will always love each other but are uncertain of their future.Five years later, Mia is a famous actress and happily married to another man (Tom Everett Scott), with whom she has a daughter. One night, the couple stumble upon a jazz bar. Noticing the Seb's logo, she had once designed, Mia realizes Sebastian has finally opened his club. Sebastian spots Mia in the crowd. He begins to play their love theme (\"Epilogue\"), prompting an extended dream sequence in which the two imagine what might have been had their relationship worked perfectly. The song ends and Mia leaves with her husband. Before exiting, she shares one last look with Sebastian and smiles."
+}

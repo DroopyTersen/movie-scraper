@@ -1,0 +1,814 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4LrL40XecjGLRpX5I2gzMTUt04l.jpg",
+  "id": 617653,
+  "title": "The Last Duel",
+  "poster_path": "https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+  "release_date": "2021-10-13",
+  "vote_average": 7.454,
+  "vote_count": 3097,
+  "popularity": 32.617,
+  "overview": "King Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire, Jacques Le Gris, by challenging him to a duel.",
+  "imdb_id": "tt4244994",
+  "budget": 100000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/the-last-duel",
+  "revenue": 30500000,
+  "runtime": 153,
+  "tagline": "The true story of a woman who defied a nation and made history.",
+  "genres": [
+    "History",
+    "Drama",
+    "Action"
+  ],
+  "production_companies": [
+    "20th Century Studios",
+    "Scott Free Productions",
+    "Pearl Street Films",
+    "TSG Entertainment"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Matt Damon",
+        "character": "Sir Jean de Carrouges"
+      },
+      {
+        "name": "Adam Driver",
+        "character": "Jacques Le Gris"
+      },
+      {
+        "name": "Jodie Comer",
+        "character": "Marguerite de Carrouges"
+      },
+      {
+        "name": "Ben Affleck",
+        "character": "Pierre d'Alençon"
+      },
+      {
+        "name": "Harriet Walter",
+        "character": "Nicole de Carrouges"
+      },
+      {
+        "name": "Marton Csokas",
+        "character": "Crespin"
+      },
+      {
+        "name": "Alex Lawther",
+        "character": "King Charles VI"
+      },
+      {
+        "name": "William Houston",
+        "character": "Herald at the Duel"
+      },
+      {
+        "name": "Oliver Cotton",
+        "character": "Jean de Carrouges III"
+      },
+      {
+        "name": "Zeljko Ivanek",
+        "character": "Le Coq"
+      },
+      {
+        "name": "Nathaniel Parker",
+        "character": "Sir Robert de Thibouville"
+      },
+      {
+        "name": "Tallulah Haddon",
+        "character": "Marie"
+      },
+      {
+        "name": "Aurélien Lorgnier",
+        "character": "Carrouges' Priest"
+      },
+      {
+        "name": "Bryony Hannah",
+        "character": "Alice"
+      },
+      {
+        "name": "Thomas Silberstein",
+        "character": "Palace of Justice Clerk"
+      },
+      {
+        "name": "Adam Goodwin",
+        "character": "Rider"
+      },
+      {
+        "name": "Ian Pirie",
+        "character": "Henri"
+      },
+      {
+        "name": "Daniel Horn",
+        "character": "Argentan Herald"
+      },
+      {
+        "name": "Michael McElhatton",
+        "character": "Bernard de Latour"
+      },
+      {
+        "name": "Sam Hazeldine",
+        "character": "Thomin Dubois"
+      },
+      {
+        "name": "Clive Russell",
+        "character": "King's Uncle"
+      },
+      {
+        "name": "Julian Firth",
+        "character": "King's Uncle"
+      },
+      {
+        "name": "Sylvain Lablée",
+        "character": "Palace of Justice Bailiff"
+      },
+      {
+        "name": "Zoé Bruneau",
+        "character": "Lady Marie Chamaillart"
+      },
+      {
+        "name": "Chloé Lindau",
+        "character": "Pierre's Mistress"
+      },
+      {
+        "name": "Adam Nagaitis",
+        "character": "Adam Louvel"
+      },
+      {
+        "name": "Elise Caprice",
+        "character": "Woman at Orgy"
+      },
+      {
+        "name": "Fiona Maherault Valinski",
+        "character": "Woman at Orgy"
+      },
+      {
+        "name": "Tassia Martin",
+        "character": "Woman at Orgy"
+      },
+      {
+        "name": "Camille Mutin",
+        "character": "Woman at Orgy"
+      },
+      {
+        "name": "Caoimhe O'Malley",
+        "character": "Elizabeth"
+      },
+      {
+        "name": "John Kavanagh",
+        "character": "Le Gris' Priest"
+      },
+      {
+        "name": "Simone Collins",
+        "character": "Agatha"
+      },
+      {
+        "name": "Clare Dunne",
+        "character": "Celia"
+      },
+      {
+        "name": "Christian Erickson",
+        "character": "Louis the Old Farmer"
+      },
+      {
+        "name": "Alex Blanchard",
+        "character": "Tailor"
+      },
+      {
+        "name": "Gin Minelli",
+        "character": "Noble Lady"
+      },
+      {
+        "name": "Cécilia Steiner",
+        "character": "Noble Lady"
+      },
+      {
+        "name": "Serena Kennedy",
+        "character": "Queen Isabeau"
+      },
+      {
+        "name": "Quentin Ogier",
+        "character": "Clergy"
+      },
+      {
+        "name": "Paul Bandey",
+        "character": "Clergy"
+      },
+      {
+        "name": "Martin Vaughan Lewis",
+        "character": "Clergy"
+      },
+      {
+        "name": "Brontis Jodorowsky",
+        "character": "Magistrate"
+      },
+      {
+        "name": "Peter Hudson",
+        "character": "Magistrate"
+      },
+      {
+        "name": "Alexander Pattie",
+        "character": "Sergeant at Arms"
+      },
+      {
+        "name": "Dimitri Michelsen",
+        "character": "Treasury Bureaucrat"
+      },
+      {
+        "name": "Stephen Brennan",
+        "character": "Physician"
+      },
+      {
+        "name": "Colin David Reese",
+        "character": "Carrouges' Gate Keeper"
+      },
+      {
+        "name": "Bosco Hogan",
+        "character": "Priest at Duel"
+      },
+      {
+        "name": "Kyle Hixon",
+        "character": "Pierre's Tailor"
+      },
+      {
+        "name": "Florian Hutter",
+        "character": "Dowry Lawyer"
+      },
+      {
+        "name": "Sam Chemoul",
+        "character": "Teenager Carrouges' Estate"
+      },
+      {
+        "name": "Jim Roche",
+        "character": "Orgy Spectator"
+      },
+      {
+        "name": "Martin Gogarty",
+        "character": "Orgy Spectator"
+      },
+      {
+        "name": "Ronan Leonard",
+        "character": "Orgy Spectator"
+      },
+      {
+        "name": "Shane Lynch",
+        "character": "Orgy Spectator"
+      },
+      {
+        "name": "Peter Kirkby",
+        "character": "Orgy Spectator"
+      },
+      {
+        "name": "Kevin McGahern",
+        "character": "Orgy Spectator"
+      },
+      {
+        "name": "Lorris Chevalier",
+        "character": "Singing Soldier"
+      },
+      {
+        "name": "Mark Atkin",
+        "character": "English Soldier (uncredited)"
+      },
+      {
+        "name": "Janet Grene",
+        "character": "Nobility (uncredited)"
+      },
+      {
+        "name": "Chloe Harris",
+        "character": "Peasant Woman (uncredited)"
+      },
+      {
+        "name": "Karl Hogan",
+        "character": "Crespin Guard (uncredited)"
+      },
+      {
+        "name": "Tyrone Kearns",
+        "character": "Male Peasant (uncredited)"
+      },
+      {
+        "name": "Brian Manning",
+        "character": "Male Peasant (uncredited)"
+      },
+      {
+        "name": "Brian F. Mulvey",
+        "character": "Phillippe (uncredited)"
+      },
+      {
+        "name": "Fady Naguib",
+        "character": "Scottley (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Dariusz Wolski",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Ridley Scott",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ridley Scott",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ben Affleck",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Ben Affleck",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Janty Yates",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Arthur Max",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Matt Damon",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Matt Damon",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jennifer Fox",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Bernard",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Harry Gregson-Williams",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Rob Inch",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Hugo Adams",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "Claire Simpson",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "David Giammarco",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Tim Gomillion",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Paul Massey",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Nicole Holofcener",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Nicole Holofcener",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kevin Halloran",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Stéphane Bucher",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Morgan O'Sullivan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Stéphane Cressend",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Sue Harding",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Mary Saisselin",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Kevin J. Walsh",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "James Flynn",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Annie Crawford",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Judy Farr",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Gary Brozenich",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Teresa Kelly",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Oliver Tarney",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Carine Demongueres",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Aidan Elliott",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Gary McGinty",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Loïc Chavanon",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Daniel Birch",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Alexis Continente",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Matteo Silvi",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Riccardo Monti",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Adam Mendez",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Valérie Chapelle",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Karine Hamelle",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Amélie Bouilly",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Sophia Hardman",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Dawn Gough",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Colman Corish",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Pedro Eustache",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Antonin Huet Calafat",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Judith Devlin",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Kevin Penney",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Jérôme Rabu",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Cristina Onori",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Rachel Walker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Una Carroll",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Madison Ainley",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Adam Armitage",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Nicole Chapman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sophie Dauchez",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Rob Bliss",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Oliver Ferris",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Michèle Constantinides",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Eric Jager",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "Drew Vinton",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "William Miller",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Sasha Veneziano",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Tiberio Nardi",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Claire Bernengo",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Stuart Gardiner",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Briana Hegarty",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jean-Marc Benois",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Jean-Marc Benois",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Aurélie Bouchet",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Dorothy Campbell",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jodi Corpe",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Vincent de Monfreid",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Daniel Hazeltine",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Can Yesilyurt",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Skye Radies",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Sébastien Raets",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Haijing Wang",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Vanessa Ricolleau",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Joelle Aoun",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Elaine Hopkins",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Brodie Toriati",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lucile Perez",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Michelle O'Loughlin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nora Nagys",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rachel Morgan",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Guillaume Marty",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Catherine Lundon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michèle Garrigue",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Emma Condren",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Elsie Barry",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "castle",
+    "male friendship",
+    "normandy, france",
+    "based on true story",
+    "trial",
+    "battlefield",
+    "knight",
+    "duel",
+    "battle",
+    "historical",
+    "catholic",
+    "sword duel",
+    "rape and revenge",
+    "historical drama",
+    "trial by combat",
+    "nobleman",
+    "squire",
+    "14th century",
+    "knighthood",
+    "medieval france",
+    "medieval times",
+    "noble"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The Knight Jean de Carrouges must settle the dispute over his wife Marguerite by challenging his former friend to a duel to the death.",
+    "Based on the true story of France's last trial by combat in the Middle Ages. Knight Jean de Carrouges challenges his former friend Jacques Le Gris to a duel after Jean's wife Marguerite accuses Le Gris of rape. Told in multiple \"Rashomon-style\" points of view.",
+    "In medieval France, Jean de Carrouges, a knight, challenges his friend, Squire Jacques Le Gris, to a lawful duel after Jean's wife, Marguerite, accuses Jacques of raping her. The movie shows the events leading up to the duel from three different truth versions. The truth according to Jean, the truth according to Jacques and the truth according to Lady Marguerite.—Wiki",
+    "14th-century France. After saving his life in the Battle of Poitiers, Sir Jean de Carrouges, a veteran knight, falls out with his brother-in-arms and former friend, Squire Jacques Le Gris. Then, as Jean gradually loses favour with Count Pierre d'Alençon, Marguerite de Thibouville, Carrouges' beautiful wife, accuses Le Gris of raping her. And to defend her honour, Jean requests a duel, an outlawed custom. However, the truth is in the eye of the beholder. As a result, the interpretation of three distinct realities and three conflicting points of view culminates in a gruelling death match. But who will win the last duel?—Nick Riganas"
+  ],
+  "synopsis": "Chapter One: The truth according to Jean de Carrouges. After serving in the Caroline War, Jean de Carrouges and his friend, squire Jacques Le Gris swear fealty to Count Pierre d'Alençon, who has been named Jean's overlord by his cousin, King Charles VI. Jacques later informs Jean that Pierre has ordered his new vassals to pay war levies, agreeing to ask for leniency on Jean's behalf when de Carrouges explains he lacks the funds. To restore his finances, Jean marries Marguerite de Thibouville, receiving a large dowry and the rights to many valuable estates. Pierre, however, has already gifted one piece of land to Jacques. When Jean sues for the land to be given to him, King Charles dismisses the suit. Pierre retaliates by appointing Jacques to the captaincy of a fort that Jean's family had held for generations. A military campaign in Scotland leaves Jean knighted for bravery but bankrupt. When he comes home from a visit to Paris, Marguerite tells him that Jacques raped her while she was home alone. Knowing that Pierre protects Jacques, Jean resolves to challenge him to a duel to the death, a request which Charles VI grants.\nChapter Two: The truth according to Jacques Le Gris. Jacques wins Pierre's trust by using his knowledge of accounting to organize the count's finances, earning him a position at court. Upon meeting Marguerite, Jacques falls in love with her and becomes convinced that she loves him after she shows him kindness. While Jean is away, his mother takes the servants to help her with errands, leaving Marguerite alone. Jacques has his servant knock on the door, claiming his horse has thrown a shoe. She allows the man in, but he is followed quickly by Jacques, who sincerely declares his love for Marguerite. She insists she is married and orders them to leave. Instead, Jacques chases Marguerite up to her bedchamber and has rough sex with her, which he believes to be consensual. Before leaving, he advises her not to tell her husband. Sometime later, Pierre informs Jacques that Jean is accusing him of raping Marguerite. Despite the count's attempt to exert his authority, Jean appeals his case directly to King Charles and requests a duel to the death. Jacques accepts Jean's challenge.\nChapter Three: The truth according to Lady Marguerite de Thibouville. Marguerite and Jean's marriage becomes strained by her failure to become pregnant. After meeting Jacques, Marguerite informs her friends she showed him kindness only to try and win court favor. When Jean leaves for Scotland, he orders her not to leave the castle or let anyone inside. Jean's mother takes all the servants with her on an errand despite Jean's order. Jacques shows up with a servant who tricks Marguerite into letting them enter. Jacques haughtily declares his love for Marguerite; He forces his way into their bedroom where he violently rapes Marguerite. When Marguerite's husband returns, she tells him what happened. Jean's mother later insists Marguerite drop her accusations (and abide any consequences), so her son might be spared court's judgment. At Jacques' trial, a now-pregnant Marguerite remains resolute that she is telling the truth. Charles VI grants Jean's request for a duel to the death. Marguerite confronts Jean for not telling her she would be burned alive if he failed. Marguerite gives birth to her son days before the duel is set to take place. The duel begins with Jean and Jacques jousting until both men lose their mounts and fight hand-to-hand. Jean is stabbed but eventually manages to pin down Jacques. He demands that Jacques confess or face damnation, but Jacques claims his innocence; Jean kills him. Jean basks in the glory of his victory while Marguerite follows quietly behind.\nA textual epilogue reveals that Jean died fighting in the Crusades a few years later while Marguerite continued managing his estate and lived in peace for the remaining thirty years of her life, never marrying again."
+}

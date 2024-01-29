@@ -1,0 +1,1366 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/fGbM2cqPauRu7ALFPSTDBH9FgpU.jpg",
+  "id": 2118,
+  "title": "L.A. Confidential",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+  "release_date": "1997-09-19",
+  "vote_average": 7.79,
+  "vote_count": 4624,
+  "popularity": 23.47,
+  "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+  "imdb_id": "tt0119488",
+  "budget": 35000000,
+  "homepage": "",
+  "revenue": 126200000,
+  "runtime": 138,
+  "tagline": "Everything is suspect... Everyone is for sale... And nothing is what it seems.",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Regency Enterprises",
+    "Warner Bros. Pictures",
+    "The Wolper Organization"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Russell Crowe",
+        "character": "Wendell \"Bud\" White"
+      },
+      {
+        "name": "Guy Pearce",
+        "character": "Edmund \"Ed\" Exley"
+      },
+      {
+        "name": "Kevin Spacey",
+        "character": "Jack Vincennes"
+      },
+      {
+        "name": "Kim Basinger",
+        "character": "Lynn Bracken"
+      },
+      {
+        "name": "Danny DeVito",
+        "character": "Sid Hudgens"
+      },
+      {
+        "name": "James Cromwell",
+        "character": "Dudley Smith"
+      },
+      {
+        "name": "David Strathairn",
+        "character": "Pierce Patchett"
+      },
+      {
+        "name": "Ron Rifkin",
+        "character": "D.A. Ellis Loew"
+      },
+      {
+        "name": "Matt McCoy",
+        "character": "\"Badge of Honor\" Star Brett Chase"
+      },
+      {
+        "name": "Paul Guilfoyle",
+        "character": "Mickey Cohen"
+      },
+      {
+        "name": "Paolo Seganti",
+        "character": "Johnny Stompanato"
+      },
+      {
+        "name": "Elisabeth Granli",
+        "character": "Mickey Cohen's Mambo Partner"
+      },
+      {
+        "name": "Sandra Taylor",
+        "character": "Mickey Cohen's Mambo Partner"
+      },
+      {
+        "name": "Steve Rankin",
+        "character": "Officer Arresting Mickey Cohen"
+      },
+      {
+        "name": "Graham Beckel",
+        "character": "Dick Stensland"
+      },
+      {
+        "name": "Allan Graf",
+        "character": "Wife Beater"
+      },
+      {
+        "name": "Precious Chong",
+        "character": "Wife"
+      },
+      {
+        "name": "Symba",
+        "character": "Jack's Dancing Partner"
+      },
+      {
+        "name": "Bob Clendenin",
+        "character": "Reporter at Hollywood Station"
+      },
+      {
+        "name": "Lennie Loftin",
+        "character": "Photographer at Hollywood Station"
+      },
+      {
+        "name": "Will Zahrn",
+        "character": "Liquor Store Owner"
+      },
+      {
+        "name": "Amber Smith",
+        "character": "Susan Lefferts"
+      },
+      {
+        "name": "Darrell Sandeen",
+        "character": "Buzz Meeks"
+      },
+      {
+        "name": "Michael Warwick",
+        "character": "Sid's Assistant"
+      },
+      {
+        "name": "Simon Baker",
+        "character": "Matt Reynolds"
+      },
+      {
+        "name": "Shawnee Free Jones",
+        "character": "Tammy Jordan"
+      },
+      {
+        "name": "Matthew Allen Bretz",
+        "character": "Officer Escorting Mexicans"
+      },
+      {
+        "name": "Thomas Rosales Jr.",
+        "character": "First Mexican"
+      },
+      {
+        "name": "Shane Dixon",
+        "character": "Officer / Detective at Hollywood Station"
+      },
+      {
+        "name": "Norman Howell",
+        "character": "Officer / Detective at Hollywood Station"
+      },
+      {
+        "name": "Brian Lally",
+        "character": "Officer / Detective at Hollywood Station"
+      },
+      {
+        "name": "Don Pulford",
+        "character": "Officer / Detective at Hollywood Station"
+      },
+      {
+        "name": "Chris Short",
+        "character": "Officer / Detective at Hollywood Station"
+      },
+      {
+        "name": "John Mahon",
+        "character": "Police Chief"
+      },
+      {
+        "name": "Tomas Arana",
+        "character": "Breuning - Dudley's Guy"
+      },
+      {
+        "name": "Michael McCleery",
+        "character": "Carlisle - Dudley's Guy"
+      },
+      {
+        "name": "George Yager",
+        "character": "Gangster at Victory Motel"
+      },
+      {
+        "name": "Jack Conley",
+        "character": "Vice Captain"
+      },
+      {
+        "name": "Ginger Slaughter",
+        "character": "Secretary in Vice"
+      },
+      {
+        "name": "Jack Knight",
+        "character": "Detective at Detective Bureau"
+      },
+      {
+        "name": "John H. Evans",
+        "character": "Patrolman at Nite Owl Cafe"
+      },
+      {
+        "name": "Gene Wolande",
+        "character": "Forensic Chief"
+      },
+      {
+        "name": "Brian Bossetta",
+        "character": "Forensic Officer"
+      },
+      {
+        "name": "Michael Chieffo",
+        "character": "Coroner"
+      },
+      {
+        "name": "Gwenda Deacon",
+        "character": "Mrs. Lefferts"
+      },
+      {
+        "name": "T.J. Kennedy",
+        "character": "Bud's Rejected Partner"
+      },
+      {
+        "name": "Ingo Neuhaus",
+        "character": "Jack's Rejected Partner"
+      },
+      {
+        "name": "Robert Harrison",
+        "character": "Pierce Patchett’s Bodyguard"
+      },
+      {
+        "name": "Jim Metzler",
+        "character": "City Councilman"
+      },
+      {
+        "name": "Robert Barry Fleming",
+        "character": "Boxer"
+      },
+      {
+        "name": "Jeremiah Birkett",
+        "character": "Ray Collins - Nite Owl Suspect"
+      },
+      {
+        "name": "Salim Grant",
+        "character": "Louis Fontaine - Nite Owl Suspect"
+      },
+      {
+        "name": "Karr Washington",
+        "character": "Ty Jones - Nite Owl Suspect"
+      },
+      {
+        "name": "Noel Evangelisti",
+        "character": "Stenographer"
+      },
+      {
+        "name": "Marisol Padilla Sánchez",
+        "character": "Inez Soto - Rape Victim"
+      },
+      {
+        "name": "Jeff Sanders",
+        "character": "Sylvester Fitch"
+      },
+      {
+        "name": "Steven Lambert",
+        "character": "Roland Navarette"
+      },
+      {
+        "name": "Jordan Marder",
+        "character": "Officer at Detective Bureau"
+      },
+      {
+        "name": "Gregory White",
+        "character": "Mayor"
+      },
+      {
+        "name": "April Breneman",
+        "character": "Look-Alike Dancer"
+      },
+      {
+        "name": "Lisa Worthy",
+        "character": "Look-Alike Dancer"
+      },
+      {
+        "name": "Beverly Sharpe",
+        "character": "Witness on Badge of Honor"
+      },
+      {
+        "name": "Colin Mitchell",
+        "character": "Reporter at Hospital"
+      },
+      {
+        "name": "John Slade",
+        "character": "Photographer at Hospital"
+      },
+      {
+        "name": "Brenda Bakke",
+        "character": "Lana Turner"
+      },
+      {
+        "name": "Kevin Maloney",
+        "character": "Frolic Room Bartender"
+      },
+      {
+        "name": "Patrice Walters",
+        "character": "Police File Clerk"
+      },
+      {
+        "name": "Rebecca Klingler",
+        "character": "Police File Clerk"
+      },
+      {
+        "name": "Irene Roseen",
+        "character": "D.A. Ellis Loew's Secretary"
+      },
+      {
+        "name": "Scott Eberlein",
+        "character": "West Hollywood Sheriff's Deputy"
+      },
+      {
+        "name": "David St. James",
+        "character": "Detective at Hush-Hush Office"
+      },
+      {
+        "name": "Bodie Newcomb",
+        "character": "Officer at Hush-Hush Office"
+      },
+      {
+        "name": "Jeff Austin",
+        "character": "Detective"
+      },
+      {
+        "name": "Robert Foster",
+        "character": "Detective"
+      },
+      {
+        "name": "Kevin Patrick Kelly",
+        "character": "Detective"
+      },
+      {
+        "name": "Henry Marder",
+        "character": "Detective"
+      },
+      {
+        "name": "Monty McKee",
+        "character": "Detective"
+      },
+      {
+        "name": "Henry Meyers",
+        "character": "Detective"
+      },
+      {
+        "name": "Michael Ossmann",
+        "character": "Detective"
+      },
+      {
+        "name": "Dick Stilwell",
+        "character": "Detective"
+      },
+      {
+        "name": "Jess Thomas",
+        "character": "Detective"
+      },
+      {
+        "name": "Robert Thompson",
+        "character": "Detective"
+      },
+      {
+        "name": "Jody Wood",
+        "character": "Detective"
+      },
+      {
+        "name": "Jimmy Ortega",
+        "character": "Second Mexican (uncredited)"
+      },
+      {
+        "name": "Nectar Rose",
+        "character": "Marilyn Monroe (uncredited)"
+      },
+      {
+        "name": "Rocco Salata",
+        "character": "Uniformed Patrol Officer (uncredited)"
+      },
+      {
+        "name": "Dell Yount",
+        "character": "Court Bailiff (uncredited)"
+      },
+      {
+        "name": "Scott McKinley",
+        "character": "Cop (uncredited)"
+      },
+      {
+        "name": "Gilbert Rosales",
+        "character": "Third Mexican (uncredited)"
+      },
+      {
+        "name": "J.P. Romano",
+        "character": "Deuce Perkins (uncredited)"
+      },
+      {
+        "name": "Chris Palermo",
+        "character": "Anthony Trombino (uncredited)"
+      },
+      {
+        "name": "April Audia",
+        "character": "Mayor's Wife (uncredited)"
+      },
+      {
+        "name": "Priscilla Cory",
+        "character": "Brunette Police Woman (uncredited)"
+      },
+      {
+        "name": "Fred Lerner",
+        "character": "Dudley's Guy with Shotgun (uncredited)"
+      },
+      {
+        "name": "Anne Zogby",
+        "character": "Movie Star (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Curtis Hanson",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Curtis Hanson",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Curtis Hanson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Arnon Milchan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mali Finn",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jerry Goldsmith",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Jerry Goldsmith",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "David L. Wolper",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Richard Stutsman",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Jay Hart",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Jimmy Ortega",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brian Helgeland",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Brian Helgeland",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Bob Beher",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Peter Honess",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Randy Berrett",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Joey Box",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeannine Oppewall",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Dan Kolsrud",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Robert Deschaine",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Tami Treadwell",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Kenneth Hall",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Dante Spinotti",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "James Ellroy",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Denise Horta",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Gene LeBell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael G. Nathanson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ruth Myers",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "William Arnold",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "J. Michael Muro",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Emily Schweber",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Chris Palermo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mildred Iatrou",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Charleen Richards",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Beth Jochem Besterveld",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "John Panzarella",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Gary Archer",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "Rick Avery",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lance Anderson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Troy Alan Peters",
+        "department": "Costume & Make-Up",
+        "job": "Dresser"
+      },
+      {
+        "name": "Kimberly Lowe Voigt",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Bob Herron",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Arthur Morton",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Carole Henderson Harrington",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Troy Brown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Drew Ann Rosenberg",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Doc Duhame",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Orr",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Gary Epper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeff Imada",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Toby Holguin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gilbert Rosales",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John C. Meier",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "John Roesch",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Merrick Morton",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Gary Price",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eric Rylander",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Scott H. Eddo",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "name": "Patrick McGee",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Lisa Lovaas",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Michael Trent",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Andy Nelson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Hilda Hodges",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Jeffrey W. Petersen",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Troy Robinson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Pablo Ferro",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Steven Melton",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Julia K. Levine",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Norm Compton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marsha Bozeman",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Donald L. Warner Jr.",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Sharron Reynolds-Enriquez",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Anna Behlmer",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Cathie Speakman",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Duane Manwiller",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Jimmy Romano",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gordon Ecker",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Becky Sullivan",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Brian Best",
+        "department": "Sound",
+        "job": "Apprentice Sound Editor"
+      },
+      {
+        "name": "Peter Donen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Sara Flamm",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Terry Rodman",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Steve Mann",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Gary Jay",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Peter Sorel",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Edward A. Gutentag",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Glenn Hoskinson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Thom 'Coach' Ehle",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "name": "John Leveque",
+        "department": "Sound",
+        "job": "Supervising Sound Effects Editor"
+      },
+      {
+        "name": "Travis Baumann",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Mark Poll",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Janis Clark",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Jessica Drake",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Dave DeGaetano",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Andrea Horta",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Neil David Pontecorvo",
+        "department": "Art",
+        "job": "Head Greensman"
+      },
+      {
+        "name": "Connie Papineau",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Kirk Francis",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Kenny Schneider",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "James W. Apted",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Anthony G. Schmidt",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kevin L. Jackson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "L. Dean Jones Jr.",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Fred Fein",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Glenn Brown",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Nick Vidar",
+        "department": "Sound",
+        "job": "Music Programmer"
+      },
+      {
+        "name": "Boyd Lacosse",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Scott M. Robinson",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Jim Duggan",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "David Guilbeau",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Thell Reed",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Joe Divitale",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Fred Lerner",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Corwin A. Bibb",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Rick Broderman",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Bruce Botnick",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Joni Avery",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kenneth Hunter",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "G. Roger Abell",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Mychal D. Smith",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Frankie 'G' Garbutt",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Heather Kritzer",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Kim Bodner",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Kay Colvin",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Mo Henry",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Al Eisenmann",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Jim Goldthwait",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Robby Robinson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steven Gerrior",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Robert Lamkin",
+        "department": "Crew",
+        "job": "Chef"
+      },
+      {
+        "name": "Keith Dillin",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Gary Damian Thomas",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Louisa Bonnie",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Javier Carrillo",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "John Hinkle",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "Mark Soucie",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Moira Gill",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Chuck Brooks",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Peter Savic",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Bella Noubarian",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Eric Yount",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Dave Amberik",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Bonnie Daniels",
+        "department": "Crew",
+        "job": "Production Controller"
+      },
+      {
+        "name": "Carolyn Hagan",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "name": "John Cales",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "John Baumhauer",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Pete Bianco",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "John Bush",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Michael Battaglia",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Dion Mitchell",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Mark Burnett",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Linda Montanti",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Warren Smith",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "J.P. Romano",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gus Le Pre",
+        "department": "Costume & Make-Up",
+        "job": "Hair Assistant"
+      },
+      {
+        "name": "Carlos M. Gallardo",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Kai Blomberg",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Richie Gaona",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robert Duggan",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Lonnie S. Gatlin",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Danny Jimenez",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Julie Beattie Iiams",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Nikola Ristić",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Doug Sieck",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Cheryl McHugh",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Diane Linn",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Karen Yokomizo",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Richard Drown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Elizabeth Abate",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Al DeGaetano",
+        "department": "Art",
+        "job": "Construction Buyer"
+      },
+      {
+        "name": "Alberto S. Ramos",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Stephen Fischer",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Andrea Morland",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "name": "Patti McGuire",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Raul Moreno",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Tom Lupo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Danny Costa",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Danny Rogers",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Grantz",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Eric Smith",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Leslie Thorson",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Freddie Jin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeff Durling",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Poly Veitzer",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      }
+    ]
+  },
+  "keywords": [
+    "corruption",
+    "based on novel or book",
+    "call girl",
+    "shotgun",
+    "detective",
+    "femme fatale",
+    "domestic violence",
+    "whodunit",
+    "corpse",
+    "district attorney",
+    "movie star",
+    "good cop bad cop",
+    "neo-noir",
+    "1950s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+    "1950's Los Angeles is the seedy backdrop for this intricate noir-ish tale of police corruption and Hollywood sleaze. Three very different cops are all after the truth, each in their own style: Ed Exley, the golden boy of the police force, willing to do almost anything to get ahead, except sell out; Bud White, ready to break the rules to seek justice, but barely able to keep his raging violence under control; and Jack Vincennes, always looking for celebrity and a quick buck until his conscience drives him to join Exley and White down the one-way path to find the truth behind the dark world of L.A. crime.—Greg Bole <bole@life.bio.sunysb.edu>",
+    "Three policemen, each with his own motives and obsessions, tackle the corruption surrounding an unsolved murder at a downtown Los Angeles coffee shop in the early 1950s. Detective Lieutenant Exley (Guy Pearce), the son of a murdered detective, is out to avenge his father's killing. The ex-partner of Officer White (Russell Crowe), implicated in a scandal rooted out by Exley, was one of the victims. Sergeant Vincennes (Kevin Spacey) feeds classified information to a tabloid magnate (Danny DeVito).",
+    "It's the early 1950s Hollywood where organized crime is taking hold. Bud White, Ed Exley, and Jack Vincennes are three vastly different members of the LAPD. White is the epitome of the muscle, he, who, acting more on emotion, uses his fists before he asks questions in exacting his brand of justice. He is especially protective of women victims, potential or actual. Of the types, his mentality most closely matches that of Captain Dudley Smith, the two, among others, who systematically corral and rough up the foot soldiers in organized crime to show them who's boss in town. The son of a famed detective who was killed by an unknown assailant on the job, Exley is by-the-books, none of the beat cops and detectives liking him for willing to rat out what he sees as corruption on the force. Exley is, however, politically savvy and knows how to play the system to his advantage. Vincennes is the slick cop who likes the glamour of Hollywood. As such, he most enjoys his role as technical advisor on the police television show Badge of Honor. He is also in an unofficial partnership with sleazy reporter Sid Hudgens of the tell-all tabloid magazine Hush-Hush, Hudgens digging up dirt for potential busts on minor celebrities while Vincennes allows him to cover exclusively the busts themselves, which often includes titillating photos in being at the right place at the right time. Many on the force, including the three, are involved in investigating a mass murder at the Night Owl Diner. Despite Exley being the first first responder on the scene, Smith takes over as lead of the investigation due to its high profile, which is only ramped up with the discovery of one of the victims. In the process, White is reacquainted with Lynn Bracken, a prostitute with who he becomes obsessed partly in that sense of protection he has for women. She works for wealthy Pierce Patchett whose service specializes in celebrity lookalikes, Bracken his \"Veronica Lake\". With the Night Owl Diner case solved and thus closed, White, Exley, and Vincennes all come back to the case from three different directions in they each believing not all that appears on the surface is the truth. Their individual investigations may bind them together or further tear them apart.—Huggo",
+    "LA in the 50's: someone's killing imprisoned mob boss Mickey Cohen's gang. The police, led by Captain Dudley, convince wiseguys from Jersey, Cleveland, and elsewhere to go home. Rich developer, Pierce Patchett, runs a stable of high-class hookers who are ringers for movie stars. The plot to replace Cohen blindsides three plainclothes cops: White watched his father beat his mother to death then vanish, he punishes abusers with quick violence; Exley's father was a hero cop killed mysteriously, he seeks justice by the book; Vicennes, a clothes horse, consults for a Dragnet-like TV show. Will they escape corruption and murder, will they find their own morality?—<jhailey@hotmail.com>"
+  ],
+  "synopsis": "In early 1950s Los Angeles, LAPD Sergeant Edmund \"Ed\" Exley (Guy Pearce) is determined to live up to the reputation of his father, famed detective Preston Exley, who was killed by an unknown assailant whom Exley nicknamed \"Rollo Tomasi\". Already isolated from other officers by his intelligence and career ambitions, he volunteers to testify against them in the \"Bloody Christmas\" case (6 Mexicans were brought into the station for allegedly beating up 2 officers. The rumors grew through the night till the cops believed one man lost an eye and the other died. They launch a full on assault on the 6 Mexicans while they were in the locker. Exley was locked up as he didn't participate and instead threatened to name everyone in his report) in exchange for promotion to Detective Lieutenant, against the advice of precinct captain Dudley Smith (James Cromwell). Exley is very \"by the book\" and refuses to plant evidence or stage an encounter even when it is clear that the perpetrator is guilty.Plainclothes Officer Wendell \"Bud\" White (Russell Crowe), whom Exley considers a \"mindless thug\", is obsessed with viciously reprimanding woman-beaters. White hates Exley due to his partner, Dick Stensland (Graham Beckel), being fired thanks to Exley's testimony in the \"Bloody Christmas\" case.\nWith crime boss Mickey Cohen (Paul Guilfoyle) imprisoned for 10 yrs for tax evasion while his underlings are being mysteriously killed, Cpt. Smith recruits White to torture out-of-town criminals trying to gain a foothold in Los Angeles to encourage them to leave town.\nWhile at a liquor store, White also encounters Lynn Bracken (Kim Basinger), a hooker resembling Veronica Lake, and former cop Leland \"Buzz\" Meeks (Darrell Sandeen). Both work for Pierce Patchett (David Strathairn), whose Fleur-de-Lis service runs high-end prostitutes altered by plastic surgery to resemble film stars.\nSergeant Jack Vincennes (Kevin Spacey) is a narcotics detective who moonlights as a technical advisor on Badge of Honor, a TV police drama series. Sid Hudgens (Danny DeVito), publisher of the Hush-Hush tabloid magazine, tips him off on celebrity criminal activity in order to facilitate high-profile arrests that Hudgens can then feature prominently in his publication.Exley soon investigates a robbery and multiple homicide at the Nite Owl coffee shop. Stensland was one of the victims. Exley and Vincennes track down & arrest three African-American felons for the crime; Exley interrogates them and cleverly gets them to confess that they raped and bled a white girl (but they technically never confessed to the Night Owl murders; White gets the address and is able to rescue the white girl they had been raping (White kills the 4th perpetrator who was holding the girl hostage and plants evidence to make it look like he was shot at, which Exley doesn't appreciate); The perpetrators later escape from police custody and are killed by Exley in a shootout. Exley is decorated for bravery. Although the Nite Owl case appears solved, Exley and White individually investigate further, discovering evidence of corruption all around them.\nThe rape survivor admits that the rapists were with her the entire night, on the night of the Night Owl incident.White begins a relationship with Lynn, and recognizes Nite Owl victim Susan Lefferts (Amber Smith) as one of Patchett's escorts. White is surprised when Patchett tells him that Meeks no longer works for him.\nLefferts' mother tells White that Stensland was Susan's \"boyfriend\"; He smells something odd in the Leffert house; White searches the crawl space under the mother's house and finds Meeks' corpse. He then interrogates Johnny Stompanato (Paolo Seganti), Mickey Cohen's ex-bodyguard, who says Meeks was trying to sell a large stash of heroin he had stolen.\nExley finds that White was looking around the Night Owl files and follows him to the Leffert house. After White leaves, he brings Meeks body to the morgue for identification and asks for Vincennes's help.Hudgens, with Vincennes' knowledge, paid struggling actor Matt Reynolds (Simon Baker Denny) to engage in a homosexual tryst with District Attorney Ellis Loew (Ron Rifkin) with the intent to set Loew up for arrest and public humiliation. After Reynolds is found murdered, a guilt-ridden Vincennes joins Exley's investigation to find the killer. Vincennes & Exley follow White and find out that he met Stompanato and that he is seeing Lynn as well.\nExley and Vincennes find that they body belonged to Meeks, an ex-cop. Vincennes looks at his old files in the archives. Exley goes over to Lynn to find out why she has been fucking White. Lynn seduces Exley and he starts fucking her, only for Hudgens to take photos of them having sex (on Patchett's instructions, who was concerned when both Vincennes and Exley came over to his house for interrogation on Leffert and Reynolds)..Vincennes later confronts Smith with evidence that Meeks and Stensland worked together under Smith's command a decade earlier, and dropped an investigation on Patchett, who had Hudgens photographing businessmen with hookers in a blackmail scam. Smith suddenly shoots Vincennes, who dies after murmuring \"Rollo Tomasi\", a name that Exley told him in confidence.The next day, Exley's suspicions are aroused when Smith asks him who \"Rollo Tomasi\" is. During an interrogation of Hudgens, Smith arranges for White to see photos of Lynn having sex with Exley, which sends White leaving in a rage to find him.\nAt the police station, White and Exley fight, but stop when both realize that Smith is corrupt. They deduce that Stensland killed Meeks over the stolen heroin, and that the Nite Owl killings were to allow Smith to kill Stensland. The three African-Americans were framed by evidence planted by Smith's men. Finally collaborating together, Exley and White interrogate Loew, and learn that Smith and Patchett (aided by Hudgens' blackmail photos of Reynolds with Loew) have been taking over Mickey Cohen's criminal empire (Reynolds had heard the whole thing and hence was killed), and that the killings were because of Smith tying up loose ends. They later find Patchett and Hudgens murdered. They manage to save Lynn before Smith and his goons get to her.Smith lures Exley and White into an ambush. After the pair kill Smith's hit-men in a gunfight, White and Smith wound each other. Exley holds Smith at gunpoint, but when Smith tries to surrender to arriving police, Exley shoots him dead (against his own principles). At the police station, Exley explains what he, Vincennes and White learned about Smith's corruption. The LAPD thus decides to protect their image by saying Smith died a hero in the shootout, whilst awarding Exley a second medal for bravery. Outside city hall, Exley says goodbye to Lynn and White before watching them drive off to Lynn's home in Arizona."
+}

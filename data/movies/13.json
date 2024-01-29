@@ -1,0 +1,1441 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+  "id": 13,
+  "title": "Forrest Gump",
+  "poster_path": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+  "release_date": "1994-06-23",
+  "vote_average": 8.477,
+  "vote_count": 26078,
+  "popularity": 85.683,
+  "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+  "imdb_id": "tt0109830",
+  "budget": 55000000,
+  "homepage": "https://www.paramountmovies.com/movies/forrest-gump",
+  "revenue": 677387716,
+  "runtime": 142,
+  "tagline": "The world will never be the same once you've seen it through the eyes of Forrest Gump.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "Paramount",
+    "The Steve Tisch Company",
+    "Wendy Finerman Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Forrest Gump"
+      },
+      {
+        "name": "Robin Wright",
+        "character": "Jenny Curran"
+      },
+      {
+        "name": "Gary Sinise",
+        "character": "Lieutenant Dan Taylor"
+      },
+      {
+        "name": "Sally Field",
+        "character": "Mrs. Gump"
+      },
+      {
+        "name": "Mykelti Williamson",
+        "character": "Benjamin Buford 'Bubba' Blue"
+      },
+      {
+        "name": "Michael Conner Humphreys",
+        "character": "Young Forrest Gump"
+      },
+      {
+        "name": "Hanna Hall",
+        "character": "Young Jenny Curran"
+      },
+      {
+        "name": "Haley Joel Osment",
+        "character": "Forrest Junior"
+      },
+      {
+        "name": "Siobhan Fallon Hogan",
+        "character": "School Bus Driver"
+      },
+      {
+        "name": "Rebecca Williams",
+        "character": "Nurse at Park Bench"
+      },
+      {
+        "name": "Bob Penny",
+        "character": "Crony"
+      },
+      {
+        "name": "Harold G. Herthum",
+        "character": "Doctor"
+      },
+      {
+        "name": "George Kelly",
+        "character": "Barber"
+      },
+      {
+        "name": "John Randall",
+        "character": "Crony"
+      },
+      {
+        "name": "Sam Anderson",
+        "character": "Principal Hancock"
+      },
+      {
+        "name": "Margo Moorer",
+        "character": "Louise"
+      },
+      {
+        "name": "Ione M. Telech",
+        "character": "Elderly Woman"
+      },
+      {
+        "name": "Christine Seabrook",
+        "character": "Elderly Woman's Daughter"
+      },
+      {
+        "name": "John Worsham",
+        "character": "Southern Gentleman / Landowner"
+      },
+      {
+        "name": "Peter Dobson",
+        "character": "Young Elvis Presley"
+      },
+      {
+        "name": "Alexander Zemeckis",
+        "character": "School Bus Boy"
+      },
+      {
+        "name": "Logan Livingston Gomez",
+        "character": "School Bus Boy"
+      },
+      {
+        "name": "Ben Waddel",
+        "character": "School Bus Boy"
+      },
+      {
+        "name": "Elizabeth Hanks",
+        "character": "School Bus Girl"
+      },
+      {
+        "name": "Tyler Long",
+        "character": "Red Headed Boy"
+      },
+      {
+        "name": "Christopher Jones",
+        "character": "Boy with Cross"
+      },
+      {
+        "name": "Grady Bowman",
+        "character": "Fat Boy"
+      },
+      {
+        "name": "Kevin Mangan",
+        "character": "Jenny's Father"
+      },
+      {
+        "name": "Fay Genens",
+        "character": "Jenny's Grandmother"
+      },
+      {
+        "name": "Frank Geyer",
+        "character": "Police Chief"
+      },
+      {
+        "name": "Rob Landry",
+        "character": "Red Headed Teen"
+      },
+      {
+        "name": "Jason McGuire",
+        "character": "Fat Teen"
+      },
+      {
+        "name": "Pete Auster",
+        "character": "Teen with Cross"
+      },
+      {
+        "name": "Sonny Shroyer",
+        "character": "College Football Coach"
+      },
+      {
+        "name": "Brett Rice",
+        "character": "High School Football Coach"
+      },
+      {
+        "name": "Ed Davis",
+        "character": "High School Football Coach"
+      },
+      {
+        "name": "Daniel C. Striepeke",
+        "character": "Recruiter"
+      },
+      {
+        "name": "Bruce Lucvia",
+        "character": "Kick Off Return Player"
+      },
+      {
+        "name": "David Brisbin",
+        "character": "Newscaster"
+      },
+      {
+        "name": "Kirk Ward",
+        "character": "Earl"
+      },
+      {
+        "name": "Angela Lomas",
+        "character": "Black Student"
+      },
+      {
+        "name": "Timothy Record",
+        "character": "Black Student"
+      },
+      {
+        "name": "Deborah McTeer",
+        "character": "Woman with Child on Park Bench"
+      },
+      {
+        "name": "Mark Matheisen",
+        "character": "Jenny's Date"
+      },
+      {
+        "name": "Al Harrington",
+        "character": "Local Anchor #1"
+      },
+      {
+        "name": "Jed Gillin",
+        "character": "President John F. Kennedy (voice)"
+      },
+      {
+        "name": "Bob Harks",
+        "character": "University Dean"
+      },
+      {
+        "name": "Don Fischer",
+        "character": "Army Recruiter"
+      },
+      {
+        "name": "Kenneth Bevington",
+        "character": "Army Bus Driver"
+      },
+      {
+        "name": "Michael Flannery",
+        "character": "Bus Recruit"
+      },
+      {
+        "name": "Gary Robinson",
+        "character": "Bus Recruit"
+      },
+      {
+        "name": "Marlena Smalls",
+        "character": "Bubba's Mother"
+      },
+      {
+        "name": "Kitty K. Green",
+        "character": "Bubba's Great Grandmother"
+      },
+      {
+        "name": "Afemo Omilami",
+        "character": "Drill Sergeant"
+      },
+      {
+        "name": "Matt Wallace",
+        "character": "Barracks Recruit"
+      },
+      {
+        "name": "Danté McCarthy",
+        "character": "Topless Girl"
+      },
+      {
+        "name": "Paulie DiCocco",
+        "character": "Emcee"
+      },
+      {
+        "name": "Mike Jolly",
+        "character": "Club Patron"
+      },
+      {
+        "name": "Michael Kemmerling",
+        "character": "Club Patron"
+      },
+      {
+        "name": "John Voldstad",
+        "character": "Club Patron"
+      },
+      {
+        "name": "Jeffrey Winner",
+        "character": "Club Patron"
+      },
+      {
+        "name": "Russ Wilson",
+        "character": "Pick-up Truck Driver"
+      },
+      {
+        "name": "Daniel J. Gillooly",
+        "character": "Helicopter Gunman"
+      },
+      {
+        "name": "Calvin Gadsden",
+        "character": "Sargeant Sims"
+      },
+      {
+        "name": "Aaron Izbicki",
+        "character": "Dallas"
+      },
+      {
+        "name": "Michael Burgess",
+        "character": "Cleveland"
+      },
+      {
+        "name": "Steven Griffith",
+        "character": "Tex"
+      },
+      {
+        "name": "Bill Roberson",
+        "character": "Fat Man at Bench"
+      },
+      {
+        "name": "Michael McFall",
+        "character": "Army Hospital Male Nurse"
+      },
+      {
+        "name": "Eric Underwood",
+        "character": "Mail Call Soldier"
+      },
+      {
+        "name": "Steve DeRelian",
+        "character": "Wounded Soldier"
+      },
+      {
+        "name": "Byron Minns",
+        "character": "Wounded Soldier"
+      },
+      {
+        "name": "Stephen Bridgewater",
+        "character": "Hospital Officer"
+      },
+      {
+        "name": "Bonnie Ann Burgess",
+        "character": "Army Nurse"
+      },
+      {
+        "name": "Scott Oliver",
+        "character": "National Correspondent #1"
+      },
+      {
+        "name": "John William Galt",
+        "character": "President Johnson (voice)"
+      },
+      {
+        "name": "Hilary Chaplain",
+        "character": "Hilary"
+      },
+      {
+        "name": "Isabel Rose",
+        "character": "Isabel"
+      },
+      {
+        "name": "Jay Ross",
+        "character": "Veteran at War Rally"
+      },
+      {
+        "name": "Richard D'Alessandro",
+        "character": "Abbie Hoffman"
+      },
+      {
+        "name": "Dick Stilwell",
+        "character": "Policeman at War Rally"
+      },
+      {
+        "name": "Kevin Davis",
+        "character": "Black Panther"
+      },
+      {
+        "name": "Michael Jace",
+        "character": "Black Panther"
+      },
+      {
+        "name": "Geoffrey Blake",
+        "character": "Wesley"
+      },
+      {
+        "name": "Tim Perry",
+        "character": "Hippie at Commune"
+      },
+      {
+        "name": "Vanessa Roth",
+        "character": "Hollywood Boulevard Girlfriend"
+      },
+      {
+        "name": "Emily Carey",
+        "character": "Hollywood Boulevard Girlfriend"
+      },
+      {
+        "name": "Paul Raczkowski",
+        "character": "Man in VW Bug"
+      },
+      {
+        "name": "Valentine",
+        "character": "Chinese Ping Pong Player"
+      },
+      {
+        "name": "Dick Cavett",
+        "character": "Dick Cavett"
+      },
+      {
+        "name": "Joe Stefanelli",
+        "character": "John Lennon (voice)"
+      },
+      {
+        "name": "Tiffany Salerno",
+        "character": "Carla"
+      },
+      {
+        "name": "Marla Sucharetza",
+        "character": "Lenore"
+      },
+      {
+        "name": "Aloysius Gigl",
+        "character": "Musician Boyfriend"
+      },
+      {
+        "name": "Jack Bowden",
+        "character": "National Correspondent #4"
+      },
+      {
+        "name": "Joe Alaskey",
+        "character": "President Nixon (voice)"
+      },
+      {
+        "name": "Lazarus Jackson",
+        "character": "Discharge Officer"
+      },
+      {
+        "name": "W. Benson Terry",
+        "character": "Stanley Loomis"
+      },
+      {
+        "name": "Matt Rebenkoff",
+        "character": "Drugged Out Boyfriend"
+      },
+      {
+        "name": "Peter Bannon",
+        "character": "Local Correspondent #2"
+      },
+      {
+        "name": "Joe Washington",
+        "character": "Local Anchor #2"
+      },
+      {
+        "name": "Nora Dunfee",
+        "character": "Elderly Southern Woman"
+      },
+      {
+        "name": "Natalie Hendrix Tate",
+        "character": "Local Anchor #3"
+      },
+      {
+        "name": "Hallie D'Amore",
+        "character": "Waitress in Cafe"
+      },
+      {
+        "name": "Jim Hanks",
+        "character": "Forrest Gump Running Double"
+      },
+      {
+        "name": "Chiffonye Cobb",
+        "character": "Hannibal Reporter"
+      },
+      {
+        "name": "Juan Singleton",
+        "character": "Hannibal Reporter"
+      },
+      {
+        "name": "Bobby Richardson",
+        "character": "Hannibal Reporter"
+      },
+      {
+        "name": "Michael Mattison",
+        "character": "Taxi Driver"
+      },
+      {
+        "name": "Lenny Herb",
+        "character": "Young Man Running"
+      },
+      {
+        "name": "Charles Boswell",
+        "character": "Aging Hippie"
+      },
+      {
+        "name": "Timothy McNeil",
+        "character": "Wild Eyed Man"
+      },
+      {
+        "name": "Lonnie Hamilton",
+        "character": "The Minister"
+      },
+      {
+        "name": "Teresa Denton",
+        "character": "Lieutenant Dan's Fiancée, Susan"
+      },
+      {
+        "name": "Kurt Russell",
+        "character": "Elvis Presley (voice) (uncredited)"
+      },
+      {
+        "name": "Mary Ellen Trainor",
+        "character": "Jenny's Babysitter (uncredited)"
+      },
+      {
+        "name": "Robb Skyler",
+        "character": "Nicholas Katzenbach (uncredited)"
+      },
+      {
+        "name": "Michael J. Oliver",
+        "character": "Red Headed Teen (uncredited)"
+      },
+      {
+        "name": "Bryan Hanna",
+        "character": "Football Coach (uncredited)"
+      },
+      {
+        "name": "Greg Brown",
+        "character": "Football Player (uncredited)"
+      },
+      {
+        "name": "Brendan Shanahan",
+        "character": "Football Player (uncredited)"
+      },
+      {
+        "name": "Troy Christian",
+        "character": "Cheerleader (uncredited)"
+      },
+      {
+        "name": "Jacqueline Lovell",
+        "character": "Football Fan (uncredited)"
+      },
+      {
+        "name": "Zach Hanner",
+        "character": "Barracks Recruit (uncredited)"
+      },
+      {
+        "name": "Aaron Michael Lacey",
+        "character": "National Guardsman (uncredited)"
+      },
+      {
+        "name": "William Shipman",
+        "character": "Black Panther (uncredited)"
+      },
+      {
+        "name": "Bob Hope",
+        "character": "Self - in Vietnam (archive footage) (uncredited)"
+      },
+      {
+        "name": "Ronald Reagan",
+        "character": "Self - (Assassination Attempt)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Alan Silvestri",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Alan Silvestri",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Robert Zemeckis",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Winston Groom",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Eric Roth",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Wendy Finerman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steve Tisch",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steve Starkey",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steve Starkey",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Don Burgess",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Arthur Schmidt",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Kevin Mangan",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Rick Carter",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Joanna Johnston",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Nancy Haigh",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Ellen Lewis",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Gloria S. Borders",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Tony Fanning",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Louis Rivera",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Dennie Thorpe",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Tony Eckert",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Robert Greenfield",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Debra James",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "William James Teegarden",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Joey Box",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "William Ross",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "David M. Dunlap",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Steve Arnold",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Bud Davis",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Bruce Moriarty",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Charles Newirth",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Charles Newirth",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Keith Campbell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael Tadross",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Phillip V. Caruso",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Robin L. Miller",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Jeremiah O'Driscoll",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Doug Chiang",
+        "department": "Crew",
+        "job": "Visual Effects Art Director"
+      },
+      {
+        "name": "Randy Thom",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Debbie Denise",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Debbie Denise",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Ken Ralston",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Carin-Anne Strohmaier",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Leslie McDonald",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Rick Sharp",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Lauren E. Polizzi",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Chris L. Spellman",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Steven J. Boyd",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "William B. Kaplan",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Earl Sampson",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Jim Morris",
+        "department": "Production",
+        "job": "General Manager"
+      },
+      {
+        "name": "Jay Cannistraci",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Lindsey Buckingham",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jeff 'Moose' Howery",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Jim Hanks",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Sam Taybi",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Michael McGovern",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Phil Benson",
+        "department": "Sound",
+        "job": "Assistant Sound Designer"
+      },
+      {
+        "name": "Stefan Dechant",
+        "department": "Art",
+        "job": "Production Illustrator"
+      },
+      {
+        "name": "Chris Squires",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Robert J. Groden",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Craig Lyman",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Stephen Rosenbaum",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Jane E. Russell",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Pamela Wise",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Elizabeth Lapp",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Hallie D'Amore",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Dan Bronson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jeff Passanante",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Hazel Catmull",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Andy Ryan",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Andy Ryan",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Allen Hall",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Greg Maloney",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "James C. Feng",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Peggy Pridemore",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Eric Rosenberg",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Kenneth Karman",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Robert Shoup",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "David R. Christensen",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Joel Marrow",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Patrick B. O'Brien",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Dianna Stirpe",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Ewa Sztompke",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Dan Cornwall",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "John Gazdik",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Tyler C. Daum",
+        "department": "Crew",
+        "job": "Picture Car Coordinator"
+      },
+      {
+        "name": "Judith A. Cory",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Marian Wilde",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Dennis S. Sands",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Sue Fox",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Patricia Bercsi",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "E. Larry Oatfield",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jessica Drake",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Susan Malerstein",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Claire Sanfilippo",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Timothy Eaton",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "William A. Kohout",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Susan Schuler-Page",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Kacy Magedman",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Wendy Richardson",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Linda Berger",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Daniel J. Gillooly",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Hugo Herrera",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Dan Ondrejko",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Paige Augustine",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Claire Gaul",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Erin Kemp",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Tom Barwick",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Rudolph Garcia",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Stephen P. Shubin",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Leslie Cook",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Amy Ness",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Mary Morgan",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Ben Wexler",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Rick Porras",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Joe Montenegro",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Ken Gorrell",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Michael Gastaldo",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Greg Hyman",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Bob Finley III",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Clare C. Freeman",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Bob Kaiser",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Jessica Fasman",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Joel Sill",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "name": "Randy Cantor",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Robin Richesson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Illustrator"
+      },
+      {
+        "name": "Timothy Greenwood",
+        "department": "Crew",
+        "job": "Projection"
+      },
+      {
+        "name": "Dane Farwell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Erik Tiemens",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Richard A. Kelley",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Nina Saxon",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "David Franklin Bergad",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Ismael Araujo Jr.",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "George Murphy",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Scott Mobley",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Anne Calanchini",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Thomas Bianco",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Allen Robinson",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jim DePue",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Amy Panzer",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Jonathan Gaynor",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Barry Spencer",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Brett Haas",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Samuel Ray Jablonski",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Alleene C. Keith",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "William Alford",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Wayne Roberts",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "E. Scott Mayhugh",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "David Brymer",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Cynthia Quan",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Christiane Steffen",
+        "department": "Sound",
+        "job": "Vocal Coach"
+      },
+      {
+        "name": "Heather Smith",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Lennie Appelquist",
+        "department": "Directing",
+        "job": "Additional Second Assistant Director"
+      },
+      {
+        "name": "Eric Tignini",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Chris Johnson",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Dale A. Dye",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "Jamie Daddio",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Craig Bilodeau",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Betty Birkowski",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Michael J. Hudson",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Joe Fulmer",
+        "department": "Camera",
+        "job": "First Company Grip"
+      },
+      {
+        "name": "John 'Jay' Devlin",
+        "department": "Camera",
+        "job": "Second Company Grip"
+      },
+      {
+        "name": "Stephanie Antosca",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Chris Ferro",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Clarissa Troop",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Charlie Puritano",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "name": "Tom West",
+        "department": "Camera",
+        "job": "Second Company Grip"
+      },
+      {
+        "name": "Tona B. Dahlquist",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Sharon Felder",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "John R. Dove",
+        "department": "Crew",
+        "job": "Driver"
+      }
+    ]
+  },
+  "keywords": [
+    "vietnam war",
+    "vietnam veteran",
+    "mentally disabled",
+    "friendship",
+    "usa president",
+    "washington dc, usa",
+    "post-traumatic stress disorder (ptsd)",
+    "waitress",
+    "china",
+    "based on novel or book",
+    "hippie",
+    "single parent",
+    "parent child relationship",
+    "optimism",
+    "1970s",
+    "drug addiction",
+    "autism",
+    "alabama",
+    "black panther party",
+    "bus stop",
+    "family relationships",
+    "single mother",
+    "military",
+    "anti war protest",
+    "1960s",
+    "college american football",
+    "mother son relationship"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+    "Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, creates the smiley, writes bumper stickers and songs, donates to people and meets the president several times. However, this is all irrelevant to Forrest who can only think of his childhood sweetheart Jenny Curran, who has messed up her life. Although in the end all he wants to prove is that anyone can love anyone.—aliw135",
+    "The movie Forrest Gump follows the life events of a man who shares the name as the title of the film. Gump faces many tribulations throughout his life, but he never lets any of them interfere with his happiness. From wearing braces on his legs, to having a below average IQ and even being shot, Gump continues to believe that good things will happen and goes after his dreams. While several less than ideal things occur during Gump's life, he manages to turn each setback into something good for him, such as when he finally gets his braces off he discovers that he is capable of running faster than most other people. This skill allows Gump to not only escape his bullies while he is a child in Greenbow, but also to gain a football scholarship, save many soldiers' lives and become famous for his ability. While Gump eventually achieves the majority of the things he hoped to throughout the movie, it proved a much more difficult task to win the heart of his life-long friend Jenny Curran. The movie is centered on Forrest Gump and the incidences that occur during his life, but during each period in his lifetime he thinks back of Jenny and how important she is to him. Although the two characters grew up together and shared a very close friendship, as the movie progresses they grow apart. This upsets Gump who cares immensely for the girl who had a rough start in life, and it seems the two always end up back in each other's lives, often in extraordinary ways like meeting in the Reflection Pond in D.C. Even though Gump is the main character of the film, it similarly tells the story of Curran and the hardships she faces.—Kathryn Logue",
+    "Slow-witted Forrest Gump has never thought of himself as disadvantaged, and thanks to his supportive mother, he leads anything but a restricted life. Whether dominating on the gridiron as a college football star, fighting in Vietnam or captaining a shrimp boat, Forrest inspires people with his childlike optimism. But one person Forrest cares about most may be the most difficult to save -- his childhood love, the sweet but troubled Jenny.—Jwelch5742",
+    "Forrest Gump, an innocent and kind-hearted Alabama boy, has been dealing with other people's unkindness nearly all his life. Having grown up with beautiful Jenny, his only friend, Forrest yearns to learn all about the ways of the world and embarks on a mission to find his true purpose in life. Thrust into downright extraordinary situations, Forrest finds himself present at some of the most pivotal events in the second half of the 20th century, rubbing shoulders with influential and historical figures, including John F. Kennedy, Richard Nixon, a nice young man from England named John Lennon, and even a handsome but still unknown Elvis Presley. Throughout his existence, Forrest has been encountering life's randomness; however, in this earth, no one is insignificant. With his presence alone, one builds his own place in this world, unknowingly changing the flow of things, while fate floats like a feather in the wind. But, in this life-altering journey, is Forrest meant to find his destiny, and be with Jenny?—Nick Riganas"
+  ],
+  "synopsis": "The film begins with a feather falling to the feet of Forrest Gump who is sitting at a bus stop in Savannah, Georgia. Forrest picks up the feather and puts it in the book Curious George, then tells the story of his life to a woman seated next to him. The listeners at the bus stop change regularly throughout his narration, each showing a different attitude ranging from disbelief and indifference to rapt veneration.On his first day of school, he meets a girl named Jenny, whose life is followed in parallel to Forrest's at times. Having discarded his leg braces, his ability to run at lightning speed gets him into college on a football scholarship. After his college graduation, he enlists in the army and is sent to Vietnam, where he makes fast friends with a black man named Bubba, who convinces Forrest to go into the shrimping business with him when the war is over. Later while on patrol, Forrest's platoon is attacked. Though Forrest rescues many of the men, Bubba is killed in action. Forrest is awarded the Congressional Medal of Honor for his heroism.While Forrest is in recovery for a bullet shot to his \"butt-tox\", he discovers his uncanny ability for ping-pong, eventually gaining popularity and rising to celebrity status, later playing ping-pong competitively against Chinese teams. At an anti-war rally in Washington, D.C. Forrest reunites with Jenny, who has been living a hippie counterculture lifestyle.Returning home, Forrest endorses a company that makes ping-pong paddles, earning himself $25,000, which he uses to buy a shrimping boat, fulfilling his promise to Bubba. His commanding officer from Vietnam, Lieutenant Dan, joins him. Though initially Forrest has little success, after finding his boat the only surviving boat in the area after Hurricane Carmen, he begins to pull in huge amounts of shrimp and uses it to buy an entire fleet of shrimp boats. Lt. Dan invests the money in Apple Computer and Forrest is financially secure for the rest of his life. He returns home to see his mother's last days.One day, Jenny returns to visit Forrest and he proposes marriage to her. She declines, though feels obliged to prove her love to him by sleeping with him. She leaves early the next morning. On a whim, Forrest elects to go for a run. Seemingly capriciously, he decides to keep running across the country several times, over some three and a half years, becoming famous.In present-day, Forrest reveals that he is waiting at the bus stop because he received a letter from Jenny who, having seen him run on television, asks him to visit her. Once he is reunited with Jenny, Forrest discovers she has a young son, of whom Forrest is the father. Jenny tells Forrest she is suffering from a virus (probably HIV, though this is never definitively stated). Together the three move back to Greenbow, Alabama. Jenny and Forrest finally marry. The wedding is attended by Lt. Dan, who now has prosthetic legs and a fiancee. Jenny dies soon afterward.The film ends with father and son waiting for the school bus on little Forrest's first day of school. Opening the book his son is taking to school, the white feather from the beginning of the movie is seen to fall from within the pages. As the bus pulls away, the white feather is caught on a breeze and drifts skyward."
+}

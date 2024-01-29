@@ -1,0 +1,658 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/46FRuCeAn6TrS4F1P4F9zhyCpyo.jpg",
+  "id": 785084,
+  "title": "The Whale",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+  "release_date": "2022-12-09",
+  "vote_average": 7.9,
+  "vote_count": 3338,
+  "popularity": 80.65,
+  "overview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
+  "imdb_id": "tt13833688",
+  "budget": 3000000,
+  "homepage": "https://a24films.com/films/the-whale",
+  "revenue": 55101305,
+  "runtime": 117,
+  "tagline": "",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "A24",
+    "Protozoa Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Brendan Fraser",
+        "character": "Charlie"
+      },
+      {
+        "name": "Sadie Sink",
+        "character": "Ellie"
+      },
+      {
+        "name": "Ty Simpkins",
+        "character": "Thomas"
+      },
+      {
+        "name": "Hong Chau",
+        "character": "Liz"
+      },
+      {
+        "name": "Samantha Morton",
+        "character": "Mary"
+      },
+      {
+        "name": "Sathya Sridharan",
+        "character": "Dan the Pizza Man"
+      },
+      {
+        "name": "Jacey Sink",
+        "character": "Young Ellie"
+      },
+      {
+        "name": "Allison Altman",
+        "character": "Young Mary (uncredited)"
+      },
+      {
+        "name": "Wilhelm Schalaudek",
+        "character": "Liam (uncredited)"
+      },
+      {
+        "name": "Lance Oppenheim",
+        "character": "Julian (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Mary Vernieu",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Mark Friedberg",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Matthew Libatique",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Darren Aronofsky",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Darren Aronofsky",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Lisa Scoppa",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Danny Glicker",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Skip Lievsay",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Ari Handel",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Andrew Weisblum",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Smokey Cloud",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "Adrien Morot",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "name": "Inman Young",
+        "department": "Production",
+        "job": "Head of Production"
+      },
+      {
+        "name": "Jeremy Dawson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Lindsay Graham Ahanonu",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Coll Anderson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Rob Simonsen",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Tim Stipan",
+        "department": "Editing",
+        "job": "Digital Intermediate Colorist"
+      },
+      {
+        "name": "William Sturtevant",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Scott Franklin",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Niko Tavernise",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Julia Ward",
+        "department": "Production",
+        "job": "Finishing Producer"
+      },
+      {
+        "name": "Alexandra Torterotot",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Steve Baine",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Drew Kunin",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Craig Henighan",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Jill Purdy",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Judy Chin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Tyson Bidner",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Tyson Bidner",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Matt Marks",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Hilary Greer",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Maaike Snoep",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Jenny Foster",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "John G. Velez",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Fred Kraemer",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Robert Pyzocha",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Annemarie Bradley",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Andrew Silver",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Rebecca West",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Mitchell Andrew Lillian",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Mark Goodermote",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Shane Shisheboran",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Bret Howe",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Patrick DeVine",
+        "department": "Editing",
+        "job": "Color Assistant"
+      },
+      {
+        "name": "Chris Chae",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Rowan Maher",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Jane Ji",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Mandy Bisesti",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Mike Drury",
+        "department": "Art",
+        "job": "On Set Props"
+      },
+      {
+        "name": "Zachary A. Schwartz",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Zac Gobetz",
+        "department": "Production",
+        "job": "Finishing Producer"
+      },
+      {
+        "name": "Brooks Lockwood",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Dexter Kennedy",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "James Hyde",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Rachaell Dama",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jack Lillian",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Nicholas Figueroa",
+        "department": "Crew",
+        "job": "Editorial Staff"
+      },
+      {
+        "name": "Jimmy DeMarco",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Lauren Doner",
+        "department": "Crew",
+        "job": "Charge Scenic Artist"
+      },
+      {
+        "name": "Chris Kocses",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Greg Meola",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Margaret Horning",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "name": "Duccio Fabbri",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Rosa Garces",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Mariella Navarro",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Morgan Heller",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Alice Johnson",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Hans Augustave",
+        "department": "Production",
+        "job": "Key Production Assistant"
+      },
+      {
+        "name": "Sophie-Ann Price",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jeff Flohr",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Michael Maida",
+        "department": "Production",
+        "job": "Head of Production"
+      },
+      {
+        "name": "Benjamin Bermudez",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Anthony Stracquadanio",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Matthew Fernandez",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jillian Fisher",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Samuel D. Hunter",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Samuel D. Hunter",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "name": "Hugh Brunt",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Hugh Brunt",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Bilali Mack",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Sarah Brady Stack",
+        "department": "Crew",
+        "job": "Health and Safety"
+      },
+      {
+        "name": "Tim Van Horn",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Jurasama Arunchai",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Brendan Naylor",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Dylan Golden",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Jenna Roscoe",
+        "department": "Editing",
+        "job": "Dailies Operator"
+      },
+      {
+        "name": "Nick Crist",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Andrew Keogh Ruotolo",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Danielle Guido",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "name": "Justin J. Jordan",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Brendan Lowry",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Neicy McFadden",
+        "department": "Crew",
+        "job": "Loader"
+      },
+      {
+        "name": "Grgo Sevo",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Reid Zarker",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "name": "Fiona Cruickshank",
+        "department": "Crew",
+        "job": "Score Engineer"
+      },
+      {
+        "name": "Clifton Harrison",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Michelle Bayreuther",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Michelle Bayreuther",
+        "department": "Crew",
+        "job": "Medical Consultant"
+      },
+      {
+        "name": "Jeff Kryvicky",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Tessa Lee",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "David M. Night Maire",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Paula Paternostro",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Allison Savoy",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Julie Velez",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Donald Francis",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Phil D'Andria",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Daniel Rodriguez",
+        "department": "Art",
+        "job": "Set Dresser"
+      }
+    ]
+  },
+  "keywords": [
+    "regret",
+    "nurse",
+    "missionary",
+    "idaho",
+    "bible",
+    "redemption",
+    "overweight man",
+    "addiction",
+    "based on play or musical",
+    "teacher",
+    "grief",
+    "neighbor",
+    "obesity",
+    "religion",
+    "death of lover",
+    "election",
+    "rebellious daughter",
+    "guilt",
+    "death",
+    "lgbt",
+    "sister-in-law",
+    "eating disorder",
+    "father daughter reunion",
+    "empathy",
+    "shame",
+    "english teacher",
+    "abandonment",
+    "one location",
+    "father daughter relationship",
+    "2010s",
+    "gay theme",
+    "apartment",
+    "essay",
+    "food addiction",
+    "religious symbolism"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.",
+    "Idaho, 2016. Scarred by the profound wounds of grief and guilt, couchbound Charlie, an online writing instructor living with chronic obesity, now has a crystal-clear view of his secret intentions. And confined to his claustrophobic and musty apartment, the self-destructive shut-in has all the time in the world to contemplate the damaging faults of the past, fatherhood, and reconciliation. Because, more than anything, flawed Charlie longs for communication and reconnection. After all, he hasn't spoken to his estranged, angry teenage daughter Ellie in years. But everyone knows whales don't live in the shallows. Do love and forgiveness have the power to wipe away the tears and the painful mistakes of a lifetime?—Nick Riganas",
+    "Charlie is an online teacher and lives alone in Idaho. He is morbidly obese, to the point that, despite the best intentions of his nurse Liz, he probably does not have long to live. He is desperate to reconnect with his estranged teenage daughter before he dies.—grantss",
+    "A morbidly obese English teacher, Charlie, is desperately trying to reconnect with his estranged daughter, Ellie, before he completely runs out of time. Having only days to live, Charlie will do whatever it takes to prove himself a worthy father to Ellie: to prove that's he's done one thing right in his life before he's gone.—Johnny-the-Film-Sentinel-2187"
+  ],
+  "synopsis": ""
+}

@@ -1,0 +1,908 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+  "id": 675,
+  "title": "Harry Potter and the Order of the Phoenix",
+  "poster_path": "https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+  "release_date": "2007-07-08",
+  "vote_average": 7.683,
+  "vote_count": 18601,
+  "popularity": 153.248,
+  "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+  "imdb_id": "tt0373889",
+  "budget": 150000000,
+  "homepage": "https://www.warnerbros.com/movies/harry-potter-and-order-phoenix/",
+  "revenue": 938212738,
+  "runtime": 138,
+  "tagline": "Evil Must Be Confronted.",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Warner Bros. Pictures",
+    "Heyday Films"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Daniel Radcliffe",
+        "character": "Harry Potter"
+      },
+      {
+        "name": "Rupert Grint",
+        "character": "Ron Weasley"
+      },
+      {
+        "name": "Emma Watson",
+        "character": "Hermione Granger"
+      },
+      {
+        "name": "Imelda Staunton",
+        "character": "Dolores Umbridge"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "character": "Bellatrix Lestrange"
+      },
+      {
+        "name": "Robbie Coltrane",
+        "character": "Rubeus Hagrid"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "Sirius Black"
+      },
+      {
+        "name": "Ralph Fiennes",
+        "character": "Lord Voldemort"
+      },
+      {
+        "name": "Michael Gambon",
+        "character": "Albus Dumbledore"
+      },
+      {
+        "name": "Alan Rickman",
+        "character": "Severus Snape"
+      },
+      {
+        "name": "Richard Griffiths",
+        "character": "Vernon Dursley"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "Alastor \"Mad-Eye\" Moody"
+      },
+      {
+        "name": "Jason Isaacs",
+        "character": "Lucius Malfoy"
+      },
+      {
+        "name": "Evanna Lynch",
+        "character": "Luna Lovegood"
+      },
+      {
+        "name": "Katie Leung",
+        "character": "Cho Chang"
+      },
+      {
+        "name": "Warwick Davis",
+        "character": "Filius Flitwick"
+      },
+      {
+        "name": "Fiona Shaw",
+        "character": "Petunia Dursley"
+      },
+      {
+        "name": "Maggie Smith",
+        "character": "Minerva McGonagall"
+      },
+      {
+        "name": "David Thewlis",
+        "character": "Remus Lupin"
+      },
+      {
+        "name": "Emma Thompson",
+        "character": "Sybill Trelawney"
+      },
+      {
+        "name": "Julie Walters",
+        "character": "Molly Weasley"
+      },
+      {
+        "name": "David Bradley",
+        "character": "Argus Filch"
+      },
+      {
+        "name": "Tom Felton",
+        "character": "Draco Malfoy"
+      },
+      {
+        "name": "Robert Hardy",
+        "character": "Cornelius Fudge"
+      },
+      {
+        "name": "George Harris",
+        "character": "Kingsley Shacklebolt"
+      },
+      {
+        "name": "Natalia Tena",
+        "character": "Nymphadora Tonks"
+      },
+      {
+        "name": "Mark Williams",
+        "character": "Arthur Weasley"
+      },
+      {
+        "name": "Harry Melling",
+        "character": "Dudley Dursley"
+      },
+      {
+        "name": "Jason Boyd",
+        "character": "Piers"
+      },
+      {
+        "name": "Richard Macklin",
+        "character": "Malcolm"
+      },
+      {
+        "name": "Kathryn Hunter",
+        "character": "Arabella Figg"
+      },
+      {
+        "name": "Miles Jupp",
+        "character": "TV Weatherman"
+      },
+      {
+        "name": "Jessica Hynes",
+        "character": "Mafalda Hopkirk (voice)"
+      },
+      {
+        "name": "Adrian Rawlins",
+        "character": "James Potter"
+      },
+      {
+        "name": "Geraldine Somerville",
+        "character": "Lily Potter"
+      },
+      {
+        "name": "Peter Cartwright",
+        "character": "Elphias Doge"
+      },
+      {
+        "name": "Brigitte Millar",
+        "character": "Emmeline Vance"
+      },
+      {
+        "name": "Timothy Bateson",
+        "character": "Kreacher (voice)"
+      },
+      {
+        "name": "James Phelps",
+        "character": "Fred Weasley"
+      },
+      {
+        "name": "Oliver Phelps",
+        "character": "George Weasley"
+      },
+      {
+        "name": "Bonnie Wright",
+        "character": "Ginny Weasley"
+      },
+      {
+        "name": "Jamie Wolpert",
+        "character": "Newspaper Vendor"
+      },
+      {
+        "name": "Nicholas Blane",
+        "character": "Bob"
+      },
+      {
+        "name": "Daisy Haggard",
+        "character": "Lift (voice)"
+      },
+      {
+        "name": "Chris Rankin",
+        "character": "Percy Weasley"
+      },
+      {
+        "name": "Sian Thomas",
+        "character": "Amelia Bones"
+      },
+      {
+        "name": "Jamie Waylett",
+        "character": "Vincent Crabbe"
+      },
+      {
+        "name": "Josh Herdman",
+        "character": "Gregory Goyle"
+      },
+      {
+        "name": "Matthew Lewis",
+        "character": "Neville Longbottom"
+      },
+      {
+        "name": "Ryan Nelson",
+        "character": "Slightly Creepy Boy"
+      },
+      {
+        "name": "William Melling",
+        "character": "Nigel 2nd Year"
+      },
+      {
+        "name": "Apple Brook",
+        "character": "Wilhelmina Grubbly-Plank"
+      },
+      {
+        "name": "Devon Murray",
+        "character": "Seamus Finnigan"
+      },
+      {
+        "name": "Alfred Enoch",
+        "character": "Dean Thomas"
+      },
+      {
+        "name": "Afshan Azad",
+        "character": "Padma Patil"
+      },
+      {
+        "name": "Shefali Chowdhury",
+        "character": "Parvati Patil"
+      },
+      {
+        "name": "Jim McManus",
+        "character": "Barman"
+      },
+      {
+        "name": "Nick Shirm",
+        "character": "Somewhat Doubtful Boy"
+      },
+      {
+        "name": "Sam Beazley",
+        "character": "Everard"
+      },
+      {
+        "name": "John Atterbury",
+        "character": "Phineas"
+      },
+      {
+        "name": "Arben Bajraktaraj",
+        "character": "Azkaban Death Eater"
+      },
+      {
+        "name": "Richard Leaf",
+        "character": "Dawlish"
+      },
+      {
+        "name": "Tony Maudsley",
+        "character": "Grawp"
+      },
+      {
+        "name": "Alec Hopkins",
+        "character": "Young Severus Snape"
+      },
+      {
+        "name": "Robbie Jarvis",
+        "character": "Young James Potter"
+      },
+      {
+        "name": "James Walters",
+        "character": "Young Sirius Black"
+      },
+      {
+        "name": "Charles Hughes",
+        "character": "Young Peter Pettigrew"
+      },
+      {
+        "name": "James Utechin",
+        "character": "Young Remus Lupin"
+      },
+      {
+        "name": "Jason Piper",
+        "character": "Centaur"
+      },
+      {
+        "name": "Michael Wildman",
+        "character": "Centaur"
+      },
+      {
+        "name": "Richard Cubison",
+        "character": "Death Eater"
+      },
+      {
+        "name": "Peter Best",
+        "character": "Death Eater"
+      },
+      {
+        "name": "Tav MacDougall",
+        "character": "Death Eater"
+      },
+      {
+        "name": "Richard Trinder",
+        "character": "Death Eater"
+      },
+      {
+        "name": "Nathan Clarke",
+        "character": "Gryffindor Student (uncredited)"
+      },
+      {
+        "name": "David Heyman",
+        "character": "Healer in Portrait (uncredited)"
+      },
+      {
+        "name": "Cliff Lanning",
+        "character": "Edgar Bones (uncredited)"
+      },
+      {
+        "name": "James Payton",
+        "character": "Frank Longbottom (uncredited)"
+      },
+      {
+        "name": "Christopher Rithin",
+        "character": "Dennis (uncredited)"
+      },
+      {
+        "name": "Lauren Shotton",
+        "character": "Pansy Parkinson (uncredited)"
+      },
+      {
+        "name": "Timothy Spall",
+        "character": "Peter Pettigrew (uncredited)"
+      },
+      {
+        "name": "Lisa Wood",
+        "character": "Alice Longbottom (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Slawomir Idziak",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Stuart Craig",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Jon Olive",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Michael Goldenberg",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Lorne Orleans",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tina Maskell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "J.K. Rowling",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "David Heyman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Andrew Ackland-Snow",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Greg Powell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Mark Bartholomew",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Nick Dudman",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "name": "Gary Tomkins",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Alexandra Walker",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jany Temime",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Fiona Weir",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Alastair Bullock",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Amanda Knight",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Tim Alexander",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Tim Alexander",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Lucy Allen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Yates",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Nicholas Hooper",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Mark Day",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Lynda Armstrong",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "James Boyle",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "James Mather",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "James Mather",
+        "department": "Sound",
+        "job": "Supervising Sound Effects Editor"
+      },
+      {
+        "name": "Luke Emrose",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Ben Cooke",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Matthew Stirling",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Andie Derrick",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "David Barron",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tim Lewis",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Tim Lewis",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Lionel Wigram",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mike Brewster",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Nigel Heath",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Shaune Harrison",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Peter Gleaves",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Jade Gordon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Andy Kennedy",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Charlotte Hunter",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Simon Emanuel",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Stephen Woolfenden",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Graham Churchyard",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Neil Lamont",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Dominic Gibbs",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Robert Edwards",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Stephanie Hornish",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Anna Worley",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Doug Cooper",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mark Taylor",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mike Prestwood Smith",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Dominic Sidoli",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Tim Burke",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Amy Beresford",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jason Heapy",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Paul J. Franklin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Mark Coulier",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Rachael Tate",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Emma Norton",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Amanda Foster",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Greg Butler",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Craig Lyn",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "John Trehy",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Stephenie McMillan",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Richard Davies",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Stuart Wilson",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Theresa Corrao",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Paul Spateri",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Cliff Lanning",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Sarah Franzl",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Moffatt",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "David Holmes",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Belinda Hodgson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Rick English",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sharon Nicholas",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ann Koska",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Nicholas Daines",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Tolga Kenan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Diz Sharpe",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Matthew Sharp",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "John Walker",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Sean MacKenzie",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Satarupa Bradley",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Mark Archer",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rob Bliss",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "John Richardson",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "José Granell",
+        "department": "Visual Effects",
+        "job": "Modelling Supervisor"
+      },
+      {
+        "name": "Ferran Domenech",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Alisha Smith",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Gabrielle Fritz",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Anthony Knight",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Joanna Whitney",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joanna Whitney",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Chris Shaw",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Martin Schadler",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jethro Loughran",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Emma Mac",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marc Mailley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kelly Attfield",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "witch",
+    "dying and death",
+    "court",
+    "magic",
+    "prophecy",
+    "loss of loved one",
+    "professor",
+    "supernatural",
+    "child hero",
+    "school of witchcraft",
+    "black magic",
+    "sorcery",
+    "occult",
+    "wizard",
+    "christmas",
+    "scholar",
+    "mystical land",
+    "ministry",
+    "based on young adult novel"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
+    "After a lonely summer on Privet Drive, Harry (Daniel Radcliffe) returns to a Hogwarts full of ill-fortune. Few of students and parents believe him or Dumbledore (Sir Michael Gambon) that Voldemort (Ralph Fiennes) is really back. The ministry had decided to step in by appointing a new Defense Against the Dark Arts teacher, Professor Dolores Umbridge (Imelda Staunton), who proves to be the nastiest person Harry has ever encountered. Harry also can't help stealing glances with the beautiful Cho Chang (Katie Leung). To top it off are dreams that Harry can't explain, and a mystery behind something for which Voldemort is searching. With these many things, Harry begins one of his toughest years at Hogwarts School of Witchcraft and Wizardry.—HPfan",
+    "After returning to Hogwarts to begin his fifth year at Hogwarts, Harry Potter (Daniel Radcliffe) discovers that much of the wizarding world, including the Ministry of Magic, is in denial about Lord Voldemort's (Ralph Fiennes') return. The Order of the Phoenix, a group sworn against Voldemort, is using its vast array of wizards and witches magical abilities to combat Voldemort. Cornelius Fudge (Robert Hardy), Minister for Magic, suspects that Dumbledore (Sir Michael Gambon) is using these claims of The Dark Lord's return as a means to over-throw Fudge as Minister. In retaliation, a new Defense Against the Dark Arts teacher is appointed by the Ministry in order to keep an eye on Hogwarts. This new teacher, Professor Dolores Umbridge (Imelda Staunton), implies strict new teachings and rules, forcing a group of students, under the tutelage of Harry, to form a club, by the name of \"Dumbledore's Army\".—Loopy Bug",
+    "As another year begins for Harry (Daniel Radcliffe), at Hogwarts school of Witchcraft and Wizardry, so do the never-ending articles stating that he and Dumbledore (Sir Michael Gambon) are insane. As the ministry starts to invent new and malicious lies about Harry's account of Voldemort's return, Hogwarts begins to change for the worse as the ministry sends in their cure for all of the insanity, Professor Dolores Jane Umbridge (Imelda Staunton). As she begins to inflict her rules and regulations on the students, they begin to find that with her as their teacher, they'll never be ready for the outside world. So Harry, along with his friends, decide to take things into their own hands and begin to learn magic the real way. As Harry starts having visions of terrible events happening within the Ministries very walls, he decides to take action, leading himself and his friends into battle, ultimately teaching them what friendship, loyalty, and sacrifice really means.—Kyle",
+    "After a disastrous summer with the Dursleys, including an encounter with the Dementors, Harry (Daniel Radcliffe) is shunned by friends upon returning to Hogwarts, after the return of Lord Voldemort (Ralph Fiennes) and no one believes him. He starts his fifth year while new Defense Against the Dark Arts teacher, Professor Dolores Jane Umbridge (Imelda Staunton) refuses to teach them defensive spells while refuting Harry's claims of the Dark Lord's return. So Harry sets out, with Ron (Rupert Grint) and Hermione (Emma Watson), to start up \"Dumbledore's Army\" to battle evil forces and prepare the fellow young witches and wizards for the extraordinary journey that lies ahead.—Michael Anderson"
+  ],
+  "synopsis": "Harry Potter and his cousin Dudley Dursley are attacked by two Dementors, but Harry manages to drive the Dementors off with a Patronus charm. Shortly thereafter, the Ministry of Magic detect the act of underage wizardry and attempt to have Harry expelled from Hogwarts immediately, but this is modified to a trial later in the summer. After experiencing horrible nightmares depicting the evil Lord Voldemort's return, Harry is awoken by the arrival of an advance guard of wizards who escort him to the headquarters of the Order of the Phoenix, a secret organization founded by Dumbledore. It is only now that Harry discovers that under the Ministry's influence the newspaper The Daily Prophet has launched a smear campaign against anyone who claims that Voldemort has returned, leaving Harry feeling isolated and betrayed by the Wizarding community. Harry and the other members of the Order fly to 12 Grimmauld Place, the home of Sirius Black, where they meet with Sirius, Remus, Ron, Hermione and others. Later, Ron and Hermione express concern about Harry's situation with the Ministry.Harry and Arthur Weasley head to the court where Harry's trial will take place, briefly spotting Lucius Malfoy speaking with the minister on their way. With the help of Dumbledore and Harry's neighbour, Mrs Figg, Harry is cleared of all charges at the Ministry and is allowed to return to Hogwarts. However, during Harry, Ron and Hermione's fifth year at Hogwarts School, the Minister for Magic Cornelius Fudge appoints a new Defence Against the Dark Arts teacher, Dolores Umbridge, a Senior Ministry official who refuses to teach practical magic to her students, as the Ministry fears Dumbledore will organize his own personal wizard army. One day during class, Harry is punished for claiming that Cedric Diggory was killed by Voldemort, which according to the Ministry's official policy is a lie. In Umbridge's office, Harry is forced to write \"I must not tell lies\" repeatedly as punishment. However, the sentence is magically imprinted on his hand instead, causing scarring. Meanwhile, as Umbridge's control over the school increases, Ron and Hermione aid Harry in forming a secret defence group, calling themselves \"Dumbledore's Army\" or DA for short. Harry, Ron and Hermione start teaching at Hogwarts, training students in defensive spells to become part of the Army. Draco Malfoy and other Slytherin students are then recruited by Umbridge to try to uncover the secretive group, creating the Inquisitorial Squad. Meanwhile, Harry officially begins a relationship with Cho, as they kiss one day after training. In an attempt to tighten her oppressive grip on Hogwarts, Umbridge dismisses Professor Sybill Trelawney and tries to have her banished from Hogwarts, which is only prevented after Dumbledore's intervention.Harry's nightmares continue, including a dangerous attack upon Arthur Weasley in the Department of Mysteries involving Nagini, Lord Voldemort's snake, which happens to turn true. Harry's anger starts to get out of control, as his mental connection to Voldemort grows stronger. Fearing Voldemort will exploit his connection with Harry, Dumbledore immediately instructs Professor Snape to give Harry a crash course on Occlumency lessons in an attempt to block Harry's mind from the Dark Lord's influence.Meanwhile, Bellatrix Lestrange escapes from Azkaban along with other Death Eaters after one of the prison walls is damaged by lightning flashes. At Hogwarts, Umbridge, Filch and her loyal Inquisitorial Squad, uncover Dumbledore's Army after interrogating one of the students, Cho Chang for whom Harry had developed intense feelings. Dumbledore is questioned and makes an impressive escape as Fudge orders his arrest. With Dumbledore gone, Umbridge becomes the new Headmistress, and her sinister dominance over the school continues. Later, Hagrid introduces Harry, Ron and Hermione to his half-brother giant, Grawp. Later, Harry reverses Snape's spell by glimpsing into Snape's mind. It is then that Harry learns that Harry's father used to bully Snape when they were students at Hogwarts, which appears to be the real cause behind Snape's resentment towards Harry. Meanwhile the Weasley twins, Fred and George formulate a plan of their own.During an O.W.L. exam, the Weasley twins execute their plan, launching a firework display in the great hall causing chaos for Umbridge, Fudge and the students of Slytherin house. As the students cheer joyously outside, Harry suffers a vision of Sirius trapped within the bowels of the Ministry being interrogated about the Order. Harry, Ron, and Hermione rush to search for Sirius, but Umbridge, soon after, catches the trio attempting to use the Floo Network, and begins interrogating Harry. She calls for Professor Snape to bring Veritaserum for use during her interrogation, as she has for all of her previous interrogations, but Snape tells her that the supply has been exhausted. Hermione then tricks Umbridge into entering the Forbidden Forest along with Harry and her in search of a faux weapon, really leading her to the hiding place of Grawp who has since freed himself from the tree he was latched to, when a herd of centaurs, who have their own issues with the Ministry, emerge and carry the Headmistress into the darkness. Hermione and Harry head back to Hogwarts to find Ron and other DA members, Luna Lovegood, Neville Longbottom, and Ginny Weasley, the group decided to fly to London by way of the Thestrals (winged horse-like magical creatures) to the Department of Mysteries of London City in an attempt to save Sirius.The six enter the Department of Mysteries, where they uncover a prophecy involving Harry and Voldemort, but are soon ambushed by Death Eaters, including Lucius Malfoy and Bellatrix Lestrange, Sirius's deranged cousin. After a brief battle and a failed escape attempt, the Death Eaters, manage to take Ron, Hermione, Luna, Neville, and Ginny as hostages threatening to kill them if Harry does not hand over the prophecy. Sirius appears, with the other members of the Order of the Phoenix, and attacks the Death Eaters causing Lucius to drop the prophecy, which then shatters. A battle erupts as the Death Eaters try to stop the students from escaping, resulting in Sirius's death at Bellatrix's hand. Back in the Atrium, Harry corners Bellatrix, where he struggles with his desire to enact the Cruciatus curse. Voldemort himself appears, ready to kill Harry when Dumbledore emerges to face his battle against Voldemort.A brief but furious duel between Voldemort and Dumbledore takes place, in which Bellatrix escapes through the Floo Network. When Voldemort disappears, and the battle seems over, Harry suddenly finds himself possessed by Voldemort -- recalling images of his past, of his family and his friends but throws off Voldemort's influence, stating that he is stronger than Voldemort through his friends and his ability to love. Ministry officials, including Fudge, hastily arrive via the Floo Network moments before Voldemort disappears.In the aftermath of the battle, the Ministry is forced to end their smear campaign and Umbridge is removed from Hogwarts, awaiting a formal investigation. Dumbledore explains that he had attempted to distance himself from Harry all year, hoping it would lessen the risk of Voldemort discovering and using the connection between the two. While the students head home from Hogwarts at the end of the academic year, Harry tells his friends that they have one thing Voldemort does not: love, a power worth fighting for."
+}

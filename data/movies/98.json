@@ -1,0 +1,1375 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7PBXKqTDCsSZb3GATn94DfXoAGx.jpg",
+  "id": 98,
+  "title": "Gladiator",
+  "poster_path": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+  "release_date": "2000-05-04",
+  "vote_average": 8.214,
+  "vote_count": 17459,
+  "popularity": 82.1,
+  "overview": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
+  "imdb_id": "tt0172495",
+  "budget": 103000000,
+  "homepage": "",
+  "revenue": 465361176,
+  "runtime": 155,
+  "tagline": "What we do in life echoes in eternity.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "Scott Free Productions",
+    "Red Wagon Entertainment",
+    "Mill Film",
+    "C & L",
+    "Dawliz",
+    "DreamWorks Pictures"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Russell Crowe",
+        "character": "Maximus Meridius"
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Emperor Commodus"
+      },
+      {
+        "name": "Connie Nielsen",
+        "character": "Lucilla"
+      },
+      {
+        "name": "Oliver Reed",
+        "character": "Proximo"
+      },
+      {
+        "name": "Richard Harris",
+        "character": "Marcus Aurelius"
+      },
+      {
+        "name": "Derek Jacobi",
+        "character": "Gracchus"
+      },
+      {
+        "name": "Djimon Hounsou",
+        "character": "Juba"
+      },
+      {
+        "name": "David Schofield",
+        "character": "Falco"
+      },
+      {
+        "name": "John Shrapnel",
+        "character": "Gaius"
+      },
+      {
+        "name": "Tomas Arana",
+        "character": "Quintus"
+      },
+      {
+        "name": "Ralf Moeller",
+        "character": "Hagen"
+      },
+      {
+        "name": "Spencer Treat Clark",
+        "character": "Lucius"
+      },
+      {
+        "name": "David Hemmings",
+        "character": "Cassius"
+      },
+      {
+        "name": "Tommy Flanagan",
+        "character": "Cicero"
+      },
+      {
+        "name": "Sven-Ole Thorsen",
+        "character": "Tigris"
+      },
+      {
+        "name": "Omid Djalili",
+        "character": "Slave Trader"
+      },
+      {
+        "name": "Nicholas McGaughey",
+        "character": "Praetorian Officer"
+      },
+      {
+        "name": "Chris Kell",
+        "character": "Scribe"
+      },
+      {
+        "name": "Tony Curran",
+        "character": "Assassin #1"
+      },
+      {
+        "name": "Mark Lewis",
+        "character": "Assassin #2"
+      },
+      {
+        "name": "John Quinn",
+        "character": "Valerius"
+      },
+      {
+        "name": "Alun Raglan",
+        "character": "Praetorian Guard #1"
+      },
+      {
+        "name": "David Bailie",
+        "character": "Engineer"
+      },
+      {
+        "name": "Chick Allan",
+        "character": "German Leader"
+      },
+      {
+        "name": "David J. Nicholls",
+        "character": "Giant Man"
+      },
+      {
+        "name": "Al Hunter Ashton",
+        "character": "Rome Trainer #1"
+      },
+      {
+        "name": "Billy Dowd",
+        "character": "Narrator"
+      },
+      {
+        "name": "Giannina Facio",
+        "character": "Maximus' Wife"
+      },
+      {
+        "name": "Giorgio Cantarini",
+        "character": "Maximus' Son"
+      },
+      {
+        "name": "Allan Corduner",
+        "character": "Trainer 1 (extended edition)"
+      },
+      {
+        "name": "Michael Mellinger",
+        "character": "Trainer 2 (extended edition)"
+      },
+      {
+        "name": "Said Amel",
+        "character": "Proximo's Man (extended edition)"
+      },
+      {
+        "name": "Adam Levy",
+        "character": "Officer 1 (extended edition)"
+      },
+      {
+        "name": "Gilly Gilchrist",
+        "character": "Officer 2 (extended edition)"
+      },
+      {
+        "name": "Paul Bateman",
+        "character": "Germanic Swordsman (uncredited)"
+      },
+      {
+        "name": "Nick Beardshaw",
+        "character": "Roman Dignitary (uncredited)"
+      },
+      {
+        "name": "Corey Booth",
+        "character": "Yeroc Thoob (uncredited)"
+      },
+      {
+        "name": "Michael Dickins",
+        "character": "Germanic Soldier (uncredited)"
+      },
+      {
+        "name": "Malcolm Ellul",
+        "character": "Centurion (uncredited)"
+      },
+      {
+        "name": "Simon Faulkner",
+        "character": "Roman Soldier (uncredited)"
+      },
+      {
+        "name": "James Fiddy",
+        "character": "Roman Soldier (uncredited)"
+      },
+      {
+        "name": "Peter Francis-Wemyss",
+        "character": "Barbarian Chieftain (uncredited)"
+      },
+      {
+        "name": "Ruth Frendo",
+        "character": "Roman Girl with Maximus (uncredited)"
+      },
+      {
+        "name": "Cara Higgins",
+        "character": "Vestal Virgin (uncredited)"
+      },
+      {
+        "name": "Earl Hundt",
+        "character": "Rome Citizen (uncredited)"
+      },
+      {
+        "name": "Mehdi Kashani",
+        "character": "Roman Soldier (uncredited)"
+      },
+      {
+        "name": "Tom Kay",
+        "character": "Roman Soldier (uncredited)"
+      },
+      {
+        "name": "Phil Lowes",
+        "character": "Rider (uncredited)"
+      },
+      {
+        "name": "Nic Main",
+        "character": "Roman Soldier (uncredited)"
+      },
+      {
+        "name": "Ray Mangion",
+        "character": "Centurion (uncredited)"
+      },
+      {
+        "name": "Antonio Meitin",
+        "character": "Battlefield Medic (uncredited)"
+      },
+      {
+        "name": "João Costa Menezes",
+        "character": "Roman Soldier (uncredited)"
+      },
+      {
+        "name": "Mike Mitchell",
+        "character": "Fighter (uncredited)"
+      },
+      {
+        "name": "Arnold Montey",
+        "character": "Roman Soldier (uncredited)"
+      },
+      {
+        "name": "Antone Pagán",
+        "character": "Fighter (uncredited)"
+      },
+      {
+        "name": "Norman Campbell Rees",
+        "character": "Sedan Chair Carrier (uncredited)"
+      },
+      {
+        "name": "Neil Roche",
+        "character": "Roman Soldier (uncredited)"
+      },
+      {
+        "name": "Paul Sacks",
+        "character": "Catapult Commander Shouts \"Loose\" (uncredited)"
+      },
+      {
+        "name": "Steve Saunders",
+        "character": "German Barbarian (uncredited)"
+      },
+      {
+        "name": "Christopher Say",
+        "character": "Roman Soldier (uncredited)"
+      },
+      {
+        "name": "Brian Smyj",
+        "character": "Coliseum Gladiator (uncredited)"
+      },
+      {
+        "name": "Richard Stride",
+        "character": "Swordsman (uncredited)"
+      },
+      {
+        "name": "Tony Tomlinson",
+        "character": "Man (uncredited)"
+      },
+      {
+        "name": "Paul Woodadge",
+        "character": "Germanian Barbarian (uncredited)"
+      },
+      {
+        "name": "Michael Yale",
+        "character": "Rome Citizen (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Hans Zimmer",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Ridley Scott",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ridley Scott",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "David Franzoni",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "David Franzoni",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David Franzoni",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Branko Lustig",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Branko Lustig",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Douglas Wick",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Logan",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "William Nicholson",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "John Mathieson",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Crispian Sallis",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Janty Yates",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Arthur Max",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Lisa Gerrard",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Lisa Gerrard",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "name": "Louis DiGiaimo",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Pietro Scalia",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Colin Coull",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Walter F. Parkes",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Scott Martin Gershin",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "name": "Eugene Collier",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Benjamín Fernández",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Neil Corbould",
+        "department": "Crew",
+        "job": "Animatronic and Prosthetic Effects"
+      },
+      {
+        "name": "Peter Russell",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Laurie MacDonald",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lisa Dennis",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Keith Pain",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Paul Engelen",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Carmel Jackson",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Adam O'Neill",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Terry Needham",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Terry Needham",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Stuart Clark",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Dino DiMuro",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Christopher Assells",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Per Hallberg",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Stephanie Corsalini",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "John King",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Alexander Witt",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Alexander Witt",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Neil Finnighan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mike Lambert",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Faivre",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Allday",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Derek Lea",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rosemary Burrows",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Graeme Purdy",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Ray Nicholas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Petr Drozda",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James Moriana",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Jeffrey Wilhoit",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Branko Knez",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Vincent Keane",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chuck Jeffreys",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alejandro Cobo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Martin Hub",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tom Lucy",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "C.C. Smiff",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Hric",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Trevor Lovell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Adam Somner",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Thierry Le Portier",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "name": "Alejandro García",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ricardo Cruz",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eddie Stacey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Miles",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jane Omorogbe",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jennifer Stoute",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nikki Penny",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Graham Mullins",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Trefor Proud",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Alex King",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Marese Langan",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "William McPhail",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "name": "Ivana Primorac",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Klemens Becker",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Klemens Becker",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Laura McIntosh",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Roger Holden",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Dan O'Connell",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Jon Title",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Scott Millan",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Charles Jarman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John T. Cucci",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Philip McDonald",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Phil Neilson",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Chisako Yokoyama",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Annie Penn",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Bob Beemer",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Randy Kelley",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Clive Jackson",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Simon Stanley-Clamp",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Lauren Stephens",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Peter Taylor",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Jaap Buitendijk",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Frank A. Montaño",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "José Luis del Barco",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Richard Dwan Jr.",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Tim Burke",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Rob Harris",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Chris Jargo",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Laura Graham",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "David A. Cohen",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "David A. Cohen",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Jeremy Johns",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Rob Harvey",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Terry Blyther",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Ivana Němcová",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Zdeněk Dvořáček",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Laurent Hugueniot",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Graham Johnston",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Bruce Bigg",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Dale E. Grahn",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Anita Burger",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Brian Smyj",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marek Toth",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tony Lucken",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Pavel Vokoun",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Simon Coke",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Melissa Lackersteen",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jo Allen",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Cynthia Sadler",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Bob Walker",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Astrig Akseralian",
+        "department": "Crew",
+        "job": "Animatronic and Prosthetic Effects"
+      },
+      {
+        "name": "Wesley Sewell",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "John Nelson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Ben Gooder",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Felix Schroer",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Agapios Louka",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "name": "Mustapha Charif",
+        "department": "Production",
+        "job": "Location Casting"
+      },
+      {
+        "name": "Kathleen Mackie Higgins",
+        "department": "Production",
+        "job": "Location Casting"
+      },
+      {
+        "name": "Michael Reynolds",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Dashiell Rae",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Gerry Gore",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Mike Higgins",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Ty Warren",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Hamid Ait Timaghrit",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Miroslav Lhotka",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joss Gower",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ivo Krištof",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ben Bellman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Carlo Antonioni",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Appleby",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Daniele Botteselle",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "John Evans",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Robert Dawson",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Ali Cherkaoui",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Viktor Cervenka",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lou Kleinman",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Adrian McCarthy",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Georges Branche",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Yann Mari Faget",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Sallie Beechinor",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Stephanie Lelievre",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Seoras Wallace",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Anthony Newman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ken Weston",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Rupert Lloyd-Parry",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Eugenio Alonso Yenes",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Taylor",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Morgan Johnson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary Fry",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary Fry",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Peter White",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Vincent Bellina",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Billy Dowd",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Sebastiano Cartier",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lesley Keane",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Barbara L. Roche",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Colin Codner",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Pia Zammit",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Guy List",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mohammed Enahal",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Hernan Ortiz",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mirek Navratil",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Manger",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tubardh Wilson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Weiss",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ian Walker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Martin 'Mato' Uhrovcik",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "R.J. Steel",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gordon Smith",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "José María Serrano",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ken Scotland",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jean-Phillipe Roman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marc Roberts",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Pauline Richards",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Olgyay",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mustapha Natouri",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Randy Miller",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Ivan Miča",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robbie MacFarlane",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Radowan Kak",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kevin Johnson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Carlton Headley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kamil Fojtik",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Walter Difrancesco",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michel Didier",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Forbes Cowan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gianluca Coppetta",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alessandro Casalino",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sergio Casadei",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Manuel Cabrera",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ryan Alber",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Bill Hargreaves",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Rob Martin",
+        "department": "Production",
+        "job": "Casting Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "epic",
+    "gladiator",
+    "rome, italy",
+    "arena",
+    "senate",
+    "roman empire",
+    "parent child relationship",
+    "emperor",
+    "slavery",
+    "ancient rome",
+    "revenge",
+    "battlefield",
+    "slave auction",
+    "historical fiction",
+    "ancient world",
+    "combat",
+    "chariot",
+    "philosopher",
+    "barbarian horde",
+    "2nd century",
+    "successor",
+    "commodus",
+    "maximus"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "Maximus is a powerful Roman general, loved by the people and the aging Emperor, Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir over his own son, Commodus, and a power struggle leaves Maximus and his family condemned to death. The powerful general is unable to save his family, and his loss of will allows him to get captured and put into the Gladiator games until he dies. The only desire that fuels him now is the chance to rise to the top so that he will be able to look into the eyes of the man who will feel his revenge.—Chris \"Morphy\" Terry",
+    "Commodus takes power and strips rank from Maximus, one of the favored generals of his predecessor and father, Emperor Marcus Aurelius, the great stoical philosopher. Maximus is then relegated to fighting to the death in the gladiator arenas.—Jwelch5742",
+    "In 180 A.D. Rome, the weary and dying emperor, Marcus Aurelius, names his loyal and triumphant general, Maximus Decimus Meridius, his successor and protector of Rome, much to the dismay of his haughty and unbalanced son, Commodus. But, instead, death and entrapment await, as the embittered and blind with rage rival rewards Rome's hero with an order for his execution, only to wind up as a slave to the former gladiator, Proximo. From the vast deserts of North Africa, a new Maximo will rise as a gladiator, hacking and slashing his way through all the way up to Mother Rome and the unsuspecting dictator, Commodus. But will the popular general ever find peace in a long-awaited retribution?—Nick Riganas",
+    "In Gladiator, victorious general Maximus Decimus Meridias has been named keeper of Rome and its empire by dying emperor Marcus Aurelius, so that rule might pass from the Caesars back to the people and Senate. Marcus' neglected and power-hungry son, Commodus, has other ideas, however. Escaping an ordered execution, Maximus hurries back to his home in Spain, too late to save his wife and son from the same order. Taken into slavery and trained as a gladiator by Proximo, Maximus lives only that he might someday take his revenge and fulfill the dying wish of his emperor. The time soon comes when Proximo's troupe is called to Rome to participate in a marathon of gladiator games held at the behest of the new emperor, Commodus. Once in Rome, Maximus wastes no time in making his presence known, and is soon involved in a plot to overthrow the emperor with his former-love Lucilla, Commodus' sister, after whom he lusts, and also the widowed mother of Lucius, heir to the empire after his uncle, and democratic-minded senator, Gracchus.—ahmetkozan"
+  ],
+  "synopsis": "Shouting \"Roma Invicta!\" as his forces attack, General Maximus Decimus Meridius (Russell Crowe) leads the Roman Army to victory against Germanic barbarians in the year 180 A.D., ending a prolonged war and earning the esteem of elderly Emperor Marcus Aurelius. Although the dying Aurelius has a son, Commodus (Joaquin Phoenix), he decides to appoint temporary leadership to the morally-upstanding Maximus, with a desire to eventually return power to the Roman Senate. Aurelius informs Maximus and offers him time to consider before informing Commodus, who, in a bout of jealousy, murders his father.Declaring himself the emperor, Commodus asks Maximus for his loyalty, which Maximus, realizing Commodus' involvement in the Emperor's death, refuses. Commodus orders Maximus' execution and dispatches Praetorian Guards to murder Maximus' wife and son. Maximus narrowly escapes his execution and races home only to discover his family's charred and crucified bodies in the smoldering ruins of his villa. After burying his wife and son, a grieving Maximus succumbs to exhaustion and collapses on their graves.Slave traders find Maximus and take him to Zucchabar, a rugged province in North Africa, where he is purchased by Proximo, the head of a local gladiator school. Distraught and nihilistic over the death of his family and betrayal by his empire, Maximus initially refuses to fight, but as he defends himself in the arena his formidable combat skills lead to a rise in popularity with the audience. As he trains and fights further, Maximus befriends Hagen, a Germanic barbarian, and Juba, a Numidian hunter, the latter becoming a close friend and confidant to the grieving Maximus, the two speaking frequently of the afterlife and Maximus' eventual reunification with his family.In Rome, Commodus reopens the gladiatorial games to commemorate his father's death, and Proximo's company of gladiators are hired to participate. In a recreation of the Battle of Zama (incorrectly named the Battle of Carthage) at the Colosseum, Maximus leads Proximo's gladiators to decisive victory against a more powerful force, much to the amazement of the crowd. Commodus descends into the arena to meet the victors and is stunned to discover Maximus as the leader of Proximo's gladiators. The Emperor, unable to kill Maximus because of the crowd's roaring approval for him, sulks out of the arena.As the games continue, Commodus pits Maximus against Tigris of Gaul, Rome's only undefeated gladiator, in an arena surrounded by chained tigers with handlers instructed to target Maximus. Following an intense battle, Maximus narrowly defeats Tigris and awaits Commodus' decision to kill or spare Tigris. As Commodus votes for death, Maximus spares Tigris, deliberately insulting the Emperor and garnering the audience's approval. His bitter enemy now known as \"Maximus the Merciful,\" Commodus becomes more frustrated at his inability to kill Maximus or stop his ascending popularity while Commodus' own popularity shrinks.Following the fight, Maximus meets his former servant Cicero, who reveals that Maximus's army remains loyal to him. They are camped at the port Ostia. Maximus forms a plot with Lucilla, Commodus' sister, and Senator Gracchus to reunite Maximus with his army and overthrow Commodus. Commodus however, suspecting his sister's betrayal, threatens her young son and forces her to reveal the plot. Praetorian guards immediately storm Proximo's gladiator barracks, battling the gladiators while Maximus escapes. Hagen and Proximo are killed in the siege while Juba and the survivors are imprisoned. Maximus escapes to the city walls only to witness Cicero's death and be ambushed by a legion of Praetorian guards.Concluding that legends born in the Colosseum must die there, Commodus personally challenges Maximus to a duel in front of a roaring audience. Acknowledging that Maximus' skill exceeds his own, Commodus deliberately stabs Maximus with a stiletto, puncturing his lung, and has the wound concealed beneath the gladiator's armor. In the arena, the two exchange blows before Maximus rips the sword from Commodus's hands. Commodus requests a sword from his guards, but they betray him and refuse to lend him their weapons. Maximus drops his own sword, but Commodus pulls a hidden stiletto and renews his attack. Maximus then beats Commodus into submission and kills him with his own stiletto.As Commodus collapses in the now-silent Colosseum, a dying Maximus begins seeing his wife and son in the afterlife. He reaches for them but is pulled back to reality by the Praetorian prefect Quintus, who asks for instructions. Maximus orders the release of Proximo's gladiators and Senator Gracchus, whom he reinstates and instructs to return Rome to a Senate-based government.Maximus collapses, and Lucilla rushes to his aid. After being reassured that her son is safe and Commodus is dead, Maximus dies and wanders into the afterlife to his family in the distance. Senator Gracchus and Proximo's gladiators carry his body out of the Colosseum. That night, a newly freed Juba buries Maximus' two small statues of his wife and son in the Colosseum, and says that he too will eventually join them, but not yet."
+}

@@ -1,0 +1,823 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/vMGkly71Jm2KwHN407mxheMGUYR.jpg",
+  "id": 5548,
+  "title": "RoboCop",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+  "release_date": "1987-07-17",
+  "vote_average": 7.303,
+  "vote_count": 4718,
+  "popularity": 44.563,
+  "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+  "imdb_id": "tt0093870",
+  "budget": 13000000,
+  "homepage": "",
+  "revenue": 53424681,
+  "runtime": 102,
+  "tagline": "Part man. Part machine. All cop. The future of law enforcement.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Orion Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Peter Weller",
+        "character": "Officer Alex J. Murphy / RoboCop"
+      },
+      {
+        "name": "Nancy Allen",
+        "character": "Officer Anne Lewis"
+      },
+      {
+        "name": "Dan O'Herlihy",
+        "character": "The Old Man"
+      },
+      {
+        "name": "Ronny Cox",
+        "character": "Dick Jones"
+      },
+      {
+        "name": "Kurtwood Smith",
+        "character": "Clarence Boddicker"
+      },
+      {
+        "name": "Miguel Ferrer",
+        "character": "Bob Morton"
+      },
+      {
+        "name": "Robert DoQui",
+        "character": "Sgt. Warren Reed"
+      },
+      {
+        "name": "Ray Wise",
+        "character": "Leon Nash"
+      },
+      {
+        "name": "Felton Perry",
+        "character": "Johnson"
+      },
+      {
+        "name": "Paul McCrane",
+        "character": "Emil Antonowsky"
+      },
+      {
+        "name": "Jesse D. Goins",
+        "character": "Joe Cox"
+      },
+      {
+        "name": "Del Zamora",
+        "character": "Kaplan"
+      },
+      {
+        "name": "Calvin Jung",
+        "character": "Steve Minh"
+      },
+      {
+        "name": "Rick Lieberman",
+        "character": "Walker"
+      },
+      {
+        "name": "Lee de Broux",
+        "character": "Sal"
+      },
+      {
+        "name": "Mark Carlton",
+        "character": "Miller"
+      },
+      {
+        "name": "Edward Edwards",
+        "character": "Manson"
+      },
+      {
+        "name": "Michael Gregory",
+        "character": "Lt. Hedgecock"
+      },
+      {
+        "name": "Freddie Hice",
+        "character": "Bobby"
+      },
+      {
+        "name": "Neil Summers",
+        "character": "Dougy"
+      },
+      {
+        "name": "Gene Wolande",
+        "character": "Prisoner"
+      },
+      {
+        "name": "Gregory Poudevigne",
+        "character": "Slimey Lawyer"
+      },
+      {
+        "name": "Charles Carroll",
+        "character": "Bail Bondsman"
+      },
+      {
+        "name": "Kevin Page",
+        "character": "Kinney"
+      },
+      {
+        "name": "Yolonda Williams",
+        "character": "Ramirez"
+      },
+      {
+        "name": "Tyrees Allen",
+        "character": "Starkweather"
+      },
+      {
+        "name": "John S. Davies",
+        "character": "Chessman"
+      },
+      {
+        "name": "Laird Stuart",
+        "character": "Cecil the Clerk"
+      },
+      {
+        "name": "Stephen Berrier",
+        "character": "Roosevelt"
+      },
+      {
+        "name": "Sage Parker",
+        "character": "Tyler"
+      },
+      {
+        "name": "Karen Radcliffe",
+        "character": "Technician #1"
+      },
+      {
+        "name": "Darryl Cox",
+        "character": "Technician #2"
+      },
+      {
+        "name": "Jerry Haynes",
+        "character": "Dr. McNamara"
+      },
+      {
+        "name": "Bill Schockley",
+        "character": "Creep"
+      },
+      {
+        "name": "Donna Keegan",
+        "character": "Rape Victim"
+      },
+      {
+        "name": "Mike Moroff",
+        "character": "Hophead"
+      },
+      {
+        "name": "Marjorie Rynearson",
+        "character": "Grocery Mom"
+      },
+      {
+        "name": "Jo Livingston",
+        "character": "Grocery Pop"
+      },
+      {
+        "name": "Joan Pirkle",
+        "character": "Barbara"
+      },
+      {
+        "name": "Diane Robin",
+        "character": "Chandra"
+      },
+      {
+        "name": "Adrianne Sachs",
+        "character": "Tawney"
+      },
+      {
+        "name": "Maarten Goslins",
+        "character": "Salesman"
+      },
+      {
+        "name": "Angie Bolling",
+        "character": "Murphy's Wife"
+      },
+      {
+        "name": "Jason Levine",
+        "character": "Murphy's Son"
+      },
+      {
+        "name": "S.D. Nemeth",
+        "character": "Bixby Snyder"
+      },
+      {
+        "name": "Bill Farmer",
+        "character": "Justin Ballard-Watkins"
+      },
+      {
+        "name": "Michael Hunter",
+        "character": "Peter the Homeowner"
+      },
+      {
+        "name": "Spencer Prokop",
+        "character": "Gas Station Attendant"
+      },
+      {
+        "name": "Debra Zach",
+        "character": "Nurse"
+      },
+      {
+        "name": "L.J. King",
+        "character": "Emergency Doctor"
+      },
+      {
+        "name": "David Packer",
+        "character": "Emergency Doctor"
+      },
+      {
+        "name": "Leeza Gibbons",
+        "character": "Jesse Perkins"
+      },
+      {
+        "name": "Mario Machado",
+        "character": "Casey Wong"
+      },
+      {
+        "name": "Bill Blair",
+        "character": "Undercover Cop (uncredited)"
+      },
+      {
+        "name": "Don \"Tex\" Clark",
+        "character": "Boardroom Executive (uncredited)"
+      },
+      {
+        "name": "Gilbert B. Combs",
+        "character": "Sal's Gunman (uncredited)"
+      },
+      {
+        "name": "Jon Davison",
+        "character": "ED-209 (voice) (uncredited)"
+      },
+      {
+        "name": "Wanda De Jesus",
+        "character": "Estevez (uncredited)"
+      },
+      {
+        "name": "James Field",
+        "character": "Restroom Junior Executive (uncredited)"
+      },
+      {
+        "name": "John Garrett",
+        "character": "News Crew (uncredited)"
+      },
+      {
+        "name": "Allan Graf",
+        "character": "Sal's Bodyguard (uncredited)"
+      },
+      {
+        "name": "Katie Griffin",
+        "character": "Young Girl (uncredited)"
+      },
+      {
+        "name": "Harry Johnson",
+        "character": "Dad in Nuke-'em' Commercial (uncredited)"
+      },
+      {
+        "name": "Debra Lamb",
+        "character": "Pizza Dough Juggling Girl (uncredited)"
+      },
+      {
+        "name": "John Landis",
+        "character": "Man in '6000 SUX' Commercial (uncredited)"
+      },
+      {
+        "name": "Randall Oliver",
+        "character": "S.W.A.T. Team Member (uncredited)"
+      },
+      {
+        "name": "Scott Sligar",
+        "character": "S.W.A.T. Team Member (uncredited)"
+      },
+      {
+        "name": "James Staszkiel",
+        "character": "Keva Rosenberg (uncredited)"
+      },
+      {
+        "name": "Scott Thomson",
+        "character": "Blonde Thug (uncredited)"
+      },
+      {
+        "name": "Paul Verhoeven",
+        "character": "Dancer at Disco (uncredited)"
+      },
+      {
+        "name": "Mark Edward Walters",
+        "character": "Street Kid (uncredited)"
+      },
+      {
+        "name": "Sean Wohland",
+        "character": "Nukem (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jost Vacano",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Paul Verhoeven",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Frank J. Urioste",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "William Sandell",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Robert Gould",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Erica Edell Phillips",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Edward Neumeier",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Edward Neumeier",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Jon Davison",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Phil Tippett",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Phil Tippett",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Basil Poledouris",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Arne Schmidt",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dale L. Martin",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "James E. Tocci",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Gilbert B. Combs",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Stephan Dupuis",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "name": "Charles Newirth",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Sally Dennison",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Freddie Hice",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gene LeBell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Erica Rogalla",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Florent Danny Retz",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Michael Miner",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Sol Negrin",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "name": "Julie Selzer",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Allegra Clegg",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "David B. Householter",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Russell Towery",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michele Panelli-Venetis",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Jeannie Epper",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Peter Kuran",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Tom Villano",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Rob Bottin",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Rob Bottin",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Rob Bottin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "name": "Bart Mixon",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "name": "Spiro Razatos",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Frank Ferrara",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David A. Whittaker",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Stephen Hunter Flick",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Janet Lucas Lawler",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Greg Wayne Elam",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Randy E. Moore",
+        "department": "Crew",
+        "job": "Weapons Master"
+      },
+      {
+        "name": "Randy Fife",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joe Finnegan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Vickie Creach",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mike Shanks",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jamie Bunch",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jackie Resch",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary Combs",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Fred Lackey III",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Robert Driskell",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Debbie Evans",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Margaret Prentice",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Margaret Prentice",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "name": "Carla Palmer",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Joan Thomas",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Donald Flick",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Avram D. Gold",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Don Broughton",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "E.W. Bradford",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Carlos Delarios",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Michael J. Kohut",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Aaron Rochin",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Deana Newcomb",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Alvin Milliken",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Miles Teves",
+        "department": "Art",
+        "job": "Conceptual Illustrator"
+      },
+      {
+        "name": "Craig Pointes",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "William Purcell",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Bill MacSems",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Michael J. Benavente",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Bundy Chanock",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Bonnie Clevering",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Gayle Simon",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jerry G. Henery",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Stephen Lim",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Anette Haellmigk",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "John Pospisil",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "James Christopher",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "John Marshall",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Robert Wald",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Steve Bartlett",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Dan Sharp",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Rocco Gioffre",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Dennis W. Milliken",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Kerry Rike",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Paula Squires Asaff",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Keith Richins",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Lawrence A. Aeschlimann",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "John Knight",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Brian Cowden",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Diane L. Greenwalt",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Larry Langley",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Teressa Longo",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Johnny Gutierrez",
+        "department": "Lighting",
+        "job": "Gaffer"
+      }
+    ]
+  },
+  "keywords": [
+    "experiment",
+    "cyborg",
+    "crime fighter",
+    "dystopia",
+    "giant robot",
+    "evil corporation",
+    "cyberpunk",
+    "detroit, michigan",
+    "law enforcement",
+    "gentrification",
+    "corrupt system",
+    "megacorporation"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In a dystopic and crime-ridden Detroit, a terminally wounded cop returns to the force as a powerful cyborg haunted by submerged memories.",
+    "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.—Jwelch5742",
+    "Detroit, Michigan, 2043. Having declared war against the outnumbered and outgunned Detroit Police Department, vicious criminal Clarence is now running the show in the crime-ridden city. However, many good people in Detroit are working hard to make a difference and take back their city. But when newly transferred officer Alex Murphy is killed in the line of duty by a brutal gang, the powerful OCP mega-corporation comes up with an ambitious project to combat corruption and crime. And as flesh and state-of-the-art technology merge into one another, a question arises. Does crime stand a chance against RoboCop, the future of law enforcement?—Nick Riganas"
+  ],
+  "synopsis": "In the near future, Detroit, Michigan is on the verge of collapse due to financial ruin and unchecked crime. The mega-corporation Omni Consumer Products enters into a contract with the city to run the police force. OCP plans to destroy \"Old Detroit\" to replace it with the utopia of \"Delta City\". Recognizing that human law enforcers are insufficient to stop the crime spree, OCP runs several programs to find robotic replacements. One program, the ED-209 enforcement droid, headed by senior president Dick Jones (Ronny Cox), malfunctions and kills a junior executive during its demonstration. As a result, the OCP Chairman (Dan O'Herlihy) opts for a cyborg program headed by middle-ranking executive Bob Morton (Miguel Ferrer), named \"RoboCop\".Veteran police officer Alex Murphy (Peter Weller) transfers to a new precinct in Old Detroit and is partnered with Anne Lewis (Nancy Allen). On their first patrol, they chase down a team of criminals led by crime boss Clarence Boddicker (Kurtwood Smith) to an abandoned steel mill. Lewis is later rendered unconscious by one of the gangs, while the rest of Boddicker's men corner Murphy and murder him. Murphy is pronounced dead at the hospital, but OCP takes his body and uses it to create the first RoboCop.He is able to deal with much of the violent crime in the city all by himself, causing the rest of the police force to become worried they may be replaced. Unbeknownst to his human monitors, RoboCop still retains memories of his life as Murphy, including brief glimpses of his wife and son, and the action of spinning his gun before holstering it, a trick Murphy had done for his son. Lewis recognizes these elements from Murphy's mannerisms, and tries to learn more from RoboCop, but he remains silent on the issues. Because of RoboCop's success, Morton is promoted to become one of OCP's Vice Presidents.Morton's success and arrogance leads Jones to have Boddicker, secretly in his employ, kill the young executive. Meanwhile, an armed gas station holdup by one of Boddicker's men allows RoboCop to track down Boddicker to a cocaine bunker. RoboCop bursts into the facility and Boddicker reveals his alliance with Dick Jones. Boddicker is arrested and RoboCop visits Jones at his offices at OCP, intending to arrest him as well.During the confrontation, RoboCop's previously unknown fourth directive, preventing him from arresting or harming any senior executive of OCP, activates, incapacitating him. Jones sends an ED-209 against RoboCop. The ED-209 proves incapable of descending a stairway, enabling RoboCop to escape. When RoboCop enters the parking complex of the building, a police SWAT team led by Lt. Hedgecock (Michael Gregory) is waiting for him with orders to destroy him. The hail of bullets severely damages RoboCop's armor, but he is saved by Lewis, his former partner.Meanwhile, the police launch their long-threatened strike, sending the city into chaos. Jones arranges for Boddicker and his men to be released from prison and provides them with weaponry capable of puncturing RoboCop's heavy armor. Using a tracking device which is also provided by Jones, Boddicker's team converges on the steel mill where RoboCop was recovering from his injuries. RoboCop and Lewis defend themselves and kill the entire gang. Lewis is wounded but survives.RoboCop returns to OCP headquarters and presents evidence of Jones's role in Morton's death to the OCP chairman. Jones quickly grabs a gun and takes the chairman hostage. The chairman, after being told about the Fourth Directive by RoboCop, fires Jones, allowing RoboCop to shoot him. Jones then crashes through the window and falls to his death. The chairman commends RoboCop for his skill and asks for his name, to which he replies, \"Murphy\"."
+}

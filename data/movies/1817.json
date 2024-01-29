@@ -1,0 +1,1847 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/g7DVjfNTeYVbVhmw0nx5TZjZryS.jpg",
+  "id": 1817,
+  "title": "Phone Booth",
+  "poster_path": "https://image.tmdb.org/t/p/w500/o9b4cA1USAUXz0oxwWVja7sMNFa.jpg",
+  "release_date": "2003-04-04",
+  "vote_average": 6.8,
+  "vote_count": 3493,
+  "popularity": 26.667,
+  "overview": "A slick New York publicist who picks up a ringing receiver in a phone booth is told that if he hangs up, he'll be killed... and the little red light from a laser rifle sight is proof that the caller isn't kidding.",
+  "imdb_id": "tt0183649",
+  "budget": 13000000,
+  "homepage": "",
+  "revenue": 97837138,
+  "runtime": 81,
+  "tagline": "No options. No lies. No fear. No deals. Just keep talking.",
+  "genres": [
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    "Fox 2000 Pictures",
+    "Zucker/Netter Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Colin Farrell",
+        "character": "Stu Shepard"
+      },
+      {
+        "name": "Kiefer Sutherland",
+        "character": "The Caller"
+      },
+      {
+        "name": "Forest Whitaker",
+        "character": "Captain Ramey"
+      },
+      {
+        "name": "Radha Mitchell",
+        "character": "Kelly Shepard"
+      },
+      {
+        "name": "Katie Holmes",
+        "character": "Pamela McFadden"
+      },
+      {
+        "name": "Paula Jai Parker",
+        "character": "Felicia"
+      },
+      {
+        "name": "Arian Ash",
+        "character": "Corky"
+      },
+      {
+        "name": "Tia Texada",
+        "character": "Asia"
+      },
+      {
+        "name": "John Enos III",
+        "character": "Leon"
+      },
+      {
+        "name": "Richard T. Jones",
+        "character": "Sergeant Cole"
+      },
+      {
+        "name": "Keith Nobbs",
+        "character": "Adam"
+      },
+      {
+        "name": "Dell Yount",
+        "character": "Pizza Guy"
+      },
+      {
+        "name": "James MacDonald",
+        "character": "Negotiator"
+      },
+      {
+        "name": "Josh Pais",
+        "character": "Mario"
+      },
+      {
+        "name": "Yorgo Constantine",
+        "character": "ESU Commander"
+      },
+      {
+        "name": "Colin Patrick Lynch",
+        "character": "ESU Technician"
+      },
+      {
+        "name": "Troy Gilbert",
+        "character": "ESU Sniper"
+      },
+      {
+        "name": "Seth William Meier",
+        "character": "Officer McDuff"
+      },
+      {
+        "name": "Svetlana Efremova",
+        "character": "Erica"
+      },
+      {
+        "name": "Billy Erb",
+        "character": "Lars"
+      },
+      {
+        "name": "Domenick Lombardozzi",
+        "character": "Wyatt"
+      },
+      {
+        "name": "Maile Flanagan",
+        "character": "Lana"
+      },
+      {
+        "name": "Tom Reynolds",
+        "character": "Richard"
+      },
+      {
+        "name": "Julio Oscar Mechoso",
+        "character": "Hispanic Medic"
+      },
+      {
+        "name": "Karara Muhoro",
+        "character": "Nigerian Vendor"
+      },
+      {
+        "name": "Zidu Chen",
+        "character": "Korean Husband"
+      },
+      {
+        "name": "Shu Lan Tuan",
+        "character": "Korean Wife"
+      },
+      {
+        "name": "Dean Cochran",
+        "character": "Reporter #1"
+      },
+      {
+        "name": "Amy Kowallis",
+        "character": "Reporter #2"
+      },
+      {
+        "name": "Tory Kittles",
+        "character": "Reporter #3"
+      },
+      {
+        "name": "Bruce Roberts",
+        "character": "Reporter #4"
+      },
+      {
+        "name": "Tyree Michael Simpson",
+        "character": "Doorman"
+      },
+      {
+        "name": "Dean Tarrolly",
+        "character": "Newscaster"
+      },
+      {
+        "name": "Mary Randle",
+        "character": "Dispatcher"
+      },
+      {
+        "name": "Paul Fontana",
+        "character": "Dispatcher"
+      },
+      {
+        "name": "Steve Alterman",
+        "character": "(voice)"
+      },
+      {
+        "name": "Kimberly Bailey",
+        "character": "(voice)"
+      },
+      {
+        "name": "Jason Broad",
+        "character": "(voice)"
+      },
+      {
+        "name": "Lanei Chapman",
+        "character": "(voice)"
+      },
+      {
+        "name": "Django Craig",
+        "character": "(voice)"
+      },
+      {
+        "name": "Judith Durand",
+        "character": "(voice)"
+      },
+      {
+        "name": "Greg Finley",
+        "character": "(voice)"
+      },
+      {
+        "name": "Ramón Franco",
+        "character": "(voice)"
+      },
+      {
+        "name": "Anneliese Goldman",
+        "character": "(voice)"
+      },
+      {
+        "name": "Rick Gonzales",
+        "character": "(voice)"
+      },
+      {
+        "name": "Tracy Metro",
+        "character": "(voice)"
+      },
+      {
+        "name": "Jason Pace",
+        "character": "(voice)"
+      },
+      {
+        "name": "Juan Pope",
+        "character": "(voice)"
+      },
+      {
+        "name": "Nicole Prescott",
+        "character": "(voice)"
+      },
+      {
+        "name": "Cheryl Tyre Smith",
+        "character": "(voice)"
+      },
+      {
+        "name": "John Vargas",
+        "character": "(voice)"
+      },
+      {
+        "name": "Tanya Vidal",
+        "character": "(voice)"
+      },
+      {
+        "name": "Billy 'Sly' Williams",
+        "character": "(voice)"
+      },
+      {
+        "name": "Ruth Zalduondo",
+        "character": "(voice)"
+      },
+      {
+        "name": "Ben Foster",
+        "character": "Big Q (uncredited)"
+      },
+      {
+        "name": "Jared Leto",
+        "character": "Bobby (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jay Meagher",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Mali Finn",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Michael Payne",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Nathan Larson",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Mel Wesson",
+        "department": "Sound",
+        "job": "Music Programmer"
+      },
+      {
+        "name": "Matthew Libatique",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "John A. Machione",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Judy Richter",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Harry Gregson-Williams",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Harry Gregson-Williams",
+        "department": "Sound",
+        "job": "Music Programmer"
+      },
+      {
+        "name": "Joel Schumacher",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Mark Stevens",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Daniel Orlandi",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Brian Emrich",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Justin Scoppa Jr.",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "David Zucker",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "David Rapaport",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "James Sabat",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Michael Brook",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Larry Cohen",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Austin Gorg",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Susie Farris",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "name": "Gil Netter",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Andrew Laws",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Justin Caine Burnett",
+        "department": "Sound",
+        "job": "Music Programmer"
+      },
+      {
+        "name": "Ted Kurdyla",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ted Kurdyla",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Martin Tillman",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Martin Whist",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Christine M. Loss",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Lindsey Hayes Kroeger",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "David Lucarelli",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Charleen Richards",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Marty Taylor",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Marc Streitenfeld",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Jeremy Garelick",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Glen Trotiner",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "John M. Gilgar",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "David Melito",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Sean Rowe",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Jon H. Epstein",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Tim Y. Wetzel",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Nancy Haecker",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Richard Walden",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Richard Walden",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "name": "John Robotham",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Toby Chu",
+        "department": "Sound",
+        "job": "Music Programmer"
+      },
+      {
+        "name": "Matthew Gordon",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Eric Kutner",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Chris Regan",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Phil Dornfeld",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "name": "Kristina Trirogoff",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Christopher Duskin",
+        "department": "Camera",
+        "job": "\"D\" Camera Operator"
+      },
+      {
+        "name": "Chic Daniel",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "Don Diers",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Mark Sawicki",
+        "department": "Visual Effects",
+        "job": "Visual Effects Camera"
+      },
+      {
+        "name": "Andrew Clarke",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Gary Davies",
+        "department": "Production",
+        "job": "Extras Casting Assistant"
+      },
+      {
+        "name": "David Tumblety",
+        "department": "Lighting",
+        "job": "Genetator Operator"
+      },
+      {
+        "name": "Nathan McGuinness",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Nathan McGuinness",
+        "department": "Visual Effects",
+        "job": "Visual Effects Designer"
+      },
+      {
+        "name": "Blondel Aidoo",
+        "department": "Crew",
+        "job": "Executive Visual Effects Producer"
+      },
+      {
+        "name": "Laura Macias",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Tim Walston",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Ralph Volpe",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Thomas Saccio",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "John C. Stuver",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Douglas Dresser",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Paul Curtis",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Donald L. Warner Jr.",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Michael Buster",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Sharron Reynolds-Enriquez",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Mark Dornfeld",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Frank Torres",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "K.C. Bailey",
+        "department": "Crew",
+        "job": "Loader"
+      },
+      {
+        "name": "Marshall Garlington",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Ken Teaney",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Barbara Wilder",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Hairstylist"
+      },
+      {
+        "name": "Kristopher Kasper",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Lindsay Hallett",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Meri Gavin",
+        "department": "Sound",
+        "job": "Other"
+      },
+      {
+        "name": "Stephen P. Robinson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Travis Baumann",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Jason Schugardt",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Chris Culliton",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Dan Kneece",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Dan Kneece",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Michael Mills",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "name": "Michael Bauman",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "James Fredburg",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Todd Ellis",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Andy Peach",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Gunther Schatz",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "James Durante",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "James J. Sabat Jr.",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Don Tomich",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Eli Richbourg",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Steve Salazar",
+        "department": "Production",
+        "job": "Location Production Assistant"
+      },
+      {
+        "name": "Jason Talbert",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Chris Navarro",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Michael Trisler",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Seth William Meier",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Mary Ann Newfield",
+        "department": "Crew",
+        "job": "Additional Script Supervisor"
+      },
+      {
+        "name": "Dennis T. Benatar",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Patricia Grande",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Darryl Levine",
+        "department": "Costume & Make-Up",
+        "job": "Key Set Costumer"
+      },
+      {
+        "name": "Mary Aaron",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Mark Jan Wlodarkiewicz",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Jeffrey P. Soderberg",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Bela Brozsek",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Michael L. Lewin",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Michael A. Morongell",
+        "department": "Crew",
+        "job": "Mixing Engineer"
+      },
+      {
+        "name": "Gregg Edler",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Victor Svimonoff",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Randy Kutcher",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Tommy Hooper",
+        "department": "Visual Effects",
+        "job": "Head of Animation"
+      },
+      {
+        "name": "Bruce Barris",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "name": "Jerry F. Johnson",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Shawn Kennelly",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Matt Floyd",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Brad Peterman",
+        "department": "Camera",
+        "job": "First Assistant \"C\" Camera"
+      },
+      {
+        "name": "Erik Lee",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Brian Cuscino",
+        "department": "Visual Effects",
+        "job": "I/O Manager"
+      },
+      {
+        "name": "Bruce Jagoda",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "name": "Kevin Brown",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jeff Andrus",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Javier Arrieta",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Christopher Bonnstetter",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Anthony Cady",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Troy Gilbert",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Thomas M. Dangcil",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Robin Bursey",
+        "department": "Crew",
+        "job": "Loader"
+      },
+      {
+        "name": "Scott Barnes",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Ashley Kimmet",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Laura Christy",
+        "department": "Production",
+        "job": "Accounting Clerk Assistant"
+      },
+      {
+        "name": "Shaina Holmes",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Steve Boyd",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Phil Testa",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Sean Garrett Fogel",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Gary Burritt",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Janell Sammelman",
+        "department": "Production",
+        "job": "Key Set Production Assistant"
+      },
+      {
+        "name": "Stephen V. Johnson",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Dean Garvin",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Duncan M. Sobel",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Sandi Figueroa",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Peter DiStefano",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Fred O'Connor",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Scott Lazar",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Larissa Supplitt",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Paul Meehan",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Tana Dubbe",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Michael Koepke",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Michael Hemschoot",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Randy Davison",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Elizabeth Bolden",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Miguel Benavides",
+        "department": "Crew",
+        "job": "Techno Crane Operator"
+      },
+      {
+        "name": "Richard 'Rocky' Nichols",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Claire Baker",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Danny Valencia",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      },
+      {
+        "name": "Paul Plannette",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "J. Wilfrid White",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Steve Caldwell",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Lisa Shaw Phillips",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Kevin Meehan",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Stan Keitt",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Eddie Micallef",
+        "department": "Production",
+        "job": "Key Set Production Assistant"
+      },
+      {
+        "name": "Grant Wilfley",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Eric Thompson",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Eric Thompson",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Jeffrey Norvet",
+        "department": "Camera",
+        "job": "\"C\" Camera Operator"
+      },
+      {
+        "name": "Jon Boyden",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Greg Nelson",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Chris Soronen",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Paul J. Lindsey",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "James Coffin",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Chad Van Baalbergen",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "James R. Bilz",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Brian McEachen",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "name": "Robert J. Studenny",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Julia Morgan",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Bill Ahern",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Ivan Bates",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Emma McGuinness",
+        "department": "Crew",
+        "job": "Executive Visual Effects Producer"
+      },
+      {
+        "name": "Joe Luther",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "name": "Jennifer Gonzales",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Mathew Lamb",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Dennis Green",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "John Baldwin",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Penny Sprague",
+        "department": "Camera",
+        "job": "First Assistant \"D\" Camera"
+      },
+      {
+        "name": "Bill Dance",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Nicky Craft",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "John Warner",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Kevin Roy",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Eric Betts",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Paul Gonsoulin",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Amy Comstock",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Jeffrey Angel",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Monica Kenyon",
+        "department": "Production",
+        "job": "Key Set Production Assistant"
+      },
+      {
+        "name": "Jeff Werner",
+        "department": "Crew",
+        "job": "Digital Producer"
+      },
+      {
+        "name": "Corinne Fixmer",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "name": "John Parker",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "John Morrisey",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Michael Foster",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Kerry Da Silva",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Kyle Oliver",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Martin Nowlan",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Michael D'Imperio",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Norman Edward Parker",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Nicholas Fitzgerald",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "James J. Hughes",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Scot A. McKay",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Gaston Wurth",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Eddy Collins",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Jason Rez",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Brett M. Welch",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "David Ronan",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Kim Crabb",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Matthew Devitt",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "John Mazzola",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Ivan Živković",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Darrin Porter",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "name": "Joshua Dean Foster",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Ann Rabin",
+        "department": "Camera",
+        "job": "Second Assistant \"C\" Camera"
+      },
+      {
+        "name": "David Schreiber",
+        "department": "Camera",
+        "job": "Second Assistant \"D\" Camera"
+      },
+      {
+        "name": "Dave O'Brien",
+        "department": "Crew",
+        "job": "Loader"
+      },
+      {
+        "name": "Randall J. Smith",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Christopher Jones",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Edward Espinoza",
+        "department": "Art",
+        "job": "Other"
+      },
+      {
+        "name": "Chris Davis",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Mark Hill",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Stephen Pietropaolo",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Eric Barginear",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Uriel Uribe",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jesse Cartwright",
+        "department": "Lighting",
+        "job": "Genetator Operator"
+      },
+      {
+        "name": "Chaddon Edward Merrick",
+        "department": "Lighting",
+        "job": "Genetator Operator"
+      },
+      {
+        "name": "Joe Susfolk",
+        "department": "Lighting",
+        "job": "Genetator Operator"
+      },
+      {
+        "name": "Alan Kaneshiro",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "name": "Gregory E. McEachen",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "name": "Michael Joseph Reyes",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Jim \"Tomcat\" Downing",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Tommy O'Connell",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Osorio Kerwin",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Derek Kleindolph",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Mike Murray",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Rick Boomhower",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Dan Andres",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Steven Wayne Cramer",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "David Darrow",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Mark Dimitrov",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Nicholas Franchot",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Jason Ray Jurica",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Mike Linn",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Michael Manzoni",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Dean C. Peppler",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "John Theveny",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Michael J. Allison",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Zoli J. Hajdu",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Matthew Livingston",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Susan Roberts",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "David Liebshardt",
+        "department": "Production",
+        "job": "Location Production Assistant"
+      },
+      {
+        "name": "Jennifer O'Rourke",
+        "department": "Production",
+        "job": "Location Production Assistant"
+      },
+      {
+        "name": "Kimberlina E. Whettam",
+        "department": "Production",
+        "job": "Location Production Assistant"
+      },
+      {
+        "name": "Trenton Driver",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Norman Lee Fils",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "José A. Ochos",
+        "department": "Art",
+        "job": "Other"
+      },
+      {
+        "name": "Gail R. Kerlagon",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Rob Blackwell",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Scott B. Valdes",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Al Durcan",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "name": "Christopher R. Codon",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Craig Handberg",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Mariana Grubbs",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Bruce Valdes",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Paul C. Valdes",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Erika Roberts",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Mike Ades",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "name": "Lisa A. Wasierski",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "name": "Jennifer \"Jenx\" Barnes",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jeffery Craig Owens",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jason Wintz",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "William Pellegrini III",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Ross Stasik",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Anthony St. Martin",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Merle Kessler",
+        "department": "Crew",
+        "job": "Dialogue Coach"
+      },
+      {
+        "name": "Amy Hammer",
+        "department": "Sound",
+        "job": "Sound Post Production Coordinator"
+      },
+      {
+        "name": "Paul Rodriguez",
+        "department": "Sound",
+        "job": "Sound Post Production Coordinator"
+      },
+      {
+        "name": "Gretchen O'Neal",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Mark P. Renton",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Zachary Justman",
+        "department": "Visual Effects",
+        "job": "Visual Effects Assistant Editor"
+      },
+      {
+        "name": "Bill Laverty",
+        "department": "Visual Effects",
+        "job": "CG Engineer"
+      },
+      {
+        "name": "Rob Salvage",
+        "department": "Visual Effects",
+        "job": "CG Engineer"
+      },
+      {
+        "name": "Greg Mucino",
+        "department": "Visual Effects",
+        "job": "I/O Manager"
+      },
+      {
+        "name": "Lee Robinson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Lineup"
+      },
+      {
+        "name": "Susan Shin George",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Laurie Powers",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Adam Gass",
+        "department": "Visual Effects",
+        "job": "Visual Effects Lineup"
+      },
+      {
+        "name": "Dennis Dorney",
+        "department": "Visual Effects",
+        "job": "Visual Effects Lineup"
+      },
+      {
+        "name": "Timothy Donohue",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Jack Lavangia",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Howard Kreft",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Greg Dunn",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Aaron David Forste",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Joe Gonzales",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "William Hayes",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Mark Hubatsek",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Jim Bartolomeo",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Kory Salomone",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Felix Teitelbaum",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Dawn Wolf",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Ronald Mazzola Jr.",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Samuel Hutchins",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Willard Wilder",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Wendi Lynn Avignone",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  },
+  "keywords": [
+    "sniper",
+    "new york city",
+    "psychopath",
+    "terrorism",
+    "publicist",
+    "one location",
+    "affair",
+    "phone booth"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Publicist Stuart Shepard finds himself trapped in a phone booth, pinned down by an extortionist's sniper rifle. Unable to leave or receive outside help, Stuart's negotiation with the caller leads to a jaw-dropping climax.",
+    "Stu Shepard is a fast talking and wise cracking New York City publicist who gets out of trouble and lies with his clever charm, connections, and charisma. Stu's greatest lie is to his wife Kelly, who he is cheating on with his girlfriend, Pam. Upon answering a call in a phone booth in belief it is Pam, Stu is on the line with a dangerous yet intelligent psychopath with a sniper rifle. When realizing it is not a joke, Stu is placed in a powerful mind game of wits and corruption. The New York City Police eventually arrive thereafter and demand Stu comes out of the phone booth- but how can he when if he hangs up or leaves the booth he will die?—commanderblue",
+    "Stu Shepard is an arrogant publicist who thinks he has the whole world in his hands. Every day he uses the same phone booth to call the woman he is cheating on his wife with. But on the last day, before this particular phone booth is demolished, the phone rings. Stu naturally answers the phone, only to find the caller on the end is an invisible sniper who knows everything on Stu, including his relationships. The caller now has Stu as his hostage, who demands he comes clean with his wife.—FilmFanUK",
+    "After answering a phone call, a dishonest and arrogant N.Y. publicist finds himself trapped in a phone booth and being held hostage by a mysterious but dangerous blackmailer sniper, who demands him to admit his dishonest attitudes with his wife and with the people of his day-to-day.—MadMovieManiac",
+    "Stuart hasn't been totally honest. In fact, he's about the most dishonest man you'll meet. Everyday, at the same time, he goes to a phone booth in NYC to call his girlfriend, so that his wife can't trace the phone call. Today is no longer just an ordinary day. Now, someone's calling him, leaving his life on the line.—Mac The Movieguy"
+  ],
+  "synopsis": "Stu Shepard (Colin Farrell) is an arrogant New York City publicist who is contemplating cheating on his wife Kelly (Radha Mitchell). He calls Pam (Katie Holmes), a young actress, from a phone booth on a side street. When a delivery man (Dell Yount) tries to deliver a free pizza to the booth, Stu rudely dismisses him. After the phone call with Pam, the phone rings and Stu answers it. The caller (voice of Kiefer Sutherland), says that Stu should have accepted the pizza as it would have \"kept his strength up for what comes next\". He warns Stu not to leave the booth. Stu, again dismissive, is skeptical toward the mystery caller. The caller says that he will say 'hi' to Kelly for him, then hangs up, leaving Stu visibly concerned.The unseen man calls back and reveals that he had previously setup two other dishonest individuals in a similar situation, where he gave them a chance to redeem themselves but since both refused he had to kill them. One was a pedophile, and the other was a business executive who used inside information to cash in his stock options before the company share price collapsed (and refused the caller's request to share the proceeds with regular investors who got burned on that stock). The caller tells Stu that he must tell Kelly and Pam the truth: that he is cheating. The man calls Pam, puts Stu on speakerphone, and he tells her that Stu is married and does not want anything with Pam except to sleep with her. He then tells Stu to call his wife and tell her the truth, or else he will. Angrily, Stu does so.Before he has a chance to tell Kelly the truth, Stu is distracted by three prostitutes who want to use the phone. The prostitutes become hostile due to Stu's refusal to leave the booth, and they start banging against the glass. Stu becomes agitated and finally hangs up on his wife and yells at the prostitutes to leave him alone. As the three girls leave, the man calls and warns Stu that if he hangs up again, he will shoot him. Stu does not believe him but is convinced when the man cocks his rifle. Stu gets scared, warning him that if he shoots, the cops will arrive. However, the sniper proves him to be wrong by shooting a toy robot next to the booth without anyone noticing. The caller continues to mock Stu's faith that the caller is not capable.The situation escalates further when the prostitutes and their pimp, Leon (John Enos III), approach the booth and demand that Stu leave. Terrified that he will be shot, Stu refuses. The impasse between Stu and Leon escalates to the point of Leon breaking into the booth with a bat and attacking Stu. The sniper tells Stu he can help him and Stu says \"yes\". Leon is shot in the back by the sniper, horrifying the prostitutes, who accuse Stu.The police arrive and Stu is instantly the suspect. He doubts that they will find any evidence to suggest his guilt to the murder, but later finds out the sniper has planted a gun in the phone booth's roof, on top of the light panel that could be used as evidence in Leon's murder. Captain Ed Ramey (Forest Whitaker) arrives tries to negotiate with Stu to exit the booth but he says he cannot get off the call and he is talking to his \"psychiatrist\". Multiple news vans arrive, and reporters begin filming the situation, putting pressure on the police to deal with the situation without appearing trigger-happy. The caller continues to taunt Stu by telling him to take hold of the planted gun, or he would \"Blow him (Ramey) Away!\" but Stu refuses, knowing the police will likely shoot him.Kelly arrives at the scene and the sniper makes Stu confess to her about his infidelity, which Stu does. The man asks Stu to choose between Pam and Kelly, threatening to kill one of them to eliminate further temptation. The unseen caller tells Stu that there are policemen right now trying to tap into the call, but will never succeed as the caller has taken precautions to avoid it.Stu pleads with the sniper while at the same time using his cell phone to call Kelly, who secretly informs Captain Ramey of the sniper's presence when Ramey hears the conversation. Stu confesses his bad character to the crowd, telling his unpaid assistant, Adam (Keith Nobbs), who looks up to Stu, not to become a publicist and admitting his $2,000 watch is a fake, like himself. Stu explains he grew up in the Bronx and he wanted to put his past behind him by buying expensive clothes. He is also not as rich as he seems.\nThe police finally track down the sniper by tracing the call the sniper made to Kelly, and Ramey tells Stu through a cryptic message that they have done so. Stu informs the sniper that the cops are coming to get him and the now enraged sniper chooses to take Kelly with him, seeing as she is the most important thing in his life. Panicked, Stu takes the planted gun, runs out of the booth and yells, \"it's me you want!\" Stu is shot and falls down just as police break into a hotel room, discovering a dead body, a phone, and a sniper rifle. It is then revealed that Stu had been hit by a rubber bullet from a police sniper, leaving him relatively unharmed. Kelly runs over and kisses Stu who is still on the ground. The police wheel the body they found in the hotel room down onto the street, and Kelly insists on seeing the sniper's body. Stu identifies the body as the pizza delivery man.Stu is recovering under morphine in an ambulance which makes him drowsy. A man carrying a large suitcase walks up to him, and compliments his shoes. The man says that he regrets killing the pizza deliverer and warns Stu that if his newfound honesty does not last, he will be hearing from him again. He walks away and smiles as he passes the phone booth, revealing himself to be the caller. Stu falls unconscious.The caller, now the narrator, says, \"Isn't it funny? You hear a phone ring, and it could be anybody...but a ringing phone has to be answered, doesn't it?\" The view goes from an aerial view of the city way into space with a satellite passing by turning to black with a ring once again, and the film ends with a man answering, \"Hello?\" The murderous caller has apparently resumed his crusade to rid the world of wrongdoers."
+}

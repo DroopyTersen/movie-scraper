@@ -1,0 +1,998 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/mRmRE4RknbL7qKALWQDz64hWKPa.jpg",
+  "id": 800158,
+  "title": "The Killer",
+  "poster_path": "https://image.tmdb.org/t/p/w500/e7Jvsry47JJQruuezjU2X1Z6J77.jpg",
+  "release_date": "2023-10-25",
+  "vote_average": 6.6,
+  "vote_count": 1554,
+  "popularity": 63.623,
+  "overview": "After a fateful near-miss, an assassin battles his employers, and himself, on an international manhunt he insists isn't personal.",
+  "imdb_id": "tt1136617",
+  "budget": 175000000,
+  "homepage": "https://www.netflix.com/title/80234448/",
+  "revenue": 362113,
+  "runtime": 118,
+  "tagline": "Execution is everything.",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Netflix"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Michael Fassbender",
+        "character": "The Killer"
+      },
+      {
+        "name": "Tilda Swinton",
+        "character": "The Expert"
+      },
+      {
+        "name": "Charles Parnell",
+        "character": "The Lawyer - Hodges"
+      },
+      {
+        "name": "Arliss Howard",
+        "character": "The Client - Claybourne"
+      },
+      {
+        "name": "Kerry O'Malley",
+        "character": "Dolores"
+      },
+      {
+        "name": "Sophie Charlotte",
+        "character": "Magdala"
+      },
+      {
+        "name": "Emiliano Pernia",
+        "character": "Marcus"
+      },
+      {
+        "name": "Gabriel Polanco",
+        "character": "Leo"
+      },
+      {
+        "name": "Sala Baker",
+        "character": "The Brute"
+      },
+      {
+        "name": "Endre Hules",
+        "character": "The Target"
+      },
+      {
+        "name": "Bernard Bygott",
+        "character": "Bodyguard 1"
+      },
+      {
+        "name": "Monique Ganderton",
+        "character": "The Dominatrix"
+      },
+      {
+        "name": "Daran Norris",
+        "character": "Deep South Lounge Greeter"
+      },
+      {
+        "name": "Nikki Dixon",
+        "character": "Airline Ticket Agent"
+      },
+      {
+        "name": "Paloma Palacio Colon",
+        "character": "Female Doctor"
+      },
+      {
+        "name": "Lía Lockhart",
+        "character": "Fedex Clerk"
+      },
+      {
+        "name": "Arturo Duvergé",
+        "character": "Taxi Dispatcher"
+      },
+      {
+        "name": "Génesis Estévez",
+        "character": "United Ticket Agent"
+      },
+      {
+        "name": "Leroy Edwards III",
+        "character": "Bodyguard 2"
+      },
+      {
+        "name": "Kellan Rhude",
+        "character": "Business Man"
+      },
+      {
+        "name": "Sacha Beaubier",
+        "character": "Slender Suited Man"
+      },
+      {
+        "name": "Branden Mitch",
+        "character": "Thug 1"
+      },
+      {
+        "name": "Brandon Morales",
+        "character": "Thug 2"
+      },
+      {
+        "name": "Kyrstal Ortiz",
+        "character": "Female Rental Agent"
+      },
+      {
+        "name": "Erik Hellman",
+        "character": "Handsome Waiter"
+      },
+      {
+        "name": "Carlos Rogelio Diaz",
+        "character": "Gym Janitor"
+      },
+      {
+        "name": "Ilyssa Fradin",
+        "character": "City National Bank Manager"
+      },
+      {
+        "name": "Julia Rowley",
+        "character": "Gym Greeter"
+      },
+      {
+        "name": "Jack Kesy",
+        "character": "Salesman"
+      },
+      {
+        "name": "Eric Tolzmann",
+        "character": "Maitre d'"
+      },
+      {
+        "name": "Jirus Tillman",
+        "character": "Fedex Man"
+      },
+      {
+        "name": "Kev Morris Sr.",
+        "character": "Trainer"
+      },
+      {
+        "name": "Brett C. Johnson",
+        "character": "Rental Car Agent"
+      },
+      {
+        "name": "Tariq Azikiue",
+        "character": "Male Doctor"
+      },
+      {
+        "name": "Jérôme Keen",
+        "character": "Day Doorman"
+      },
+      {
+        "name": "Stéphane Vasseur",
+        "character": "Night Doorman"
+      },
+      {
+        "name": "François Patissier",
+        "character": "Photocopy Shop Owner"
+      },
+      {
+        "name": "Dzianis Chpoutalau",
+        "character": "Man Shouting on Cell Phone"
+      },
+      {
+        "name": "Cécile Coves",
+        "character": "Air France Lounge Greeter"
+      },
+      {
+        "name": "Claire Patronikn",
+        "character": "Mother"
+      },
+      {
+        "name": "Lila Espinasse",
+        "character": "Child Crying"
+      },
+      {
+        "name": "Sara Mezouar",
+        "character": "Mother at McDonalds"
+      },
+      {
+        "name": "Zacharia Mezouar",
+        "character": "Child at McDonalds"
+      },
+      {
+        "name": "Marie Bessière",
+        "character": "Mother"
+      },
+      {
+        "name": "Nino Viard",
+        "character": "Child"
+      },
+      {
+        "name": "Antoine Matichard",
+        "character": "Small Child Playing"
+      },
+      {
+        "name": "Anna Cosmao",
+        "character": "Female Gallery Keeper"
+      },
+      {
+        "name": "Alexandra Holzhammer",
+        "character": "Female Bar Manager"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Trent Reznor",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "David Fincher",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ceán Chaffin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Laray Mayfield",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Ren Klyce",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Ren Klyce",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Ren Klyce",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Doc Kane",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Dee Selby",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Andrew Kevin Walker",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Donald Graham Burt",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Julie M. Anderson",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Scott Curtis",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Alexandra Milchan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Shelley Roden",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Steve Bissinger",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Aaron Crippen",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Atticus Ross",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Aaron Parker",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Alexis Nolent",
+        "department": "Writing",
+        "job": "Graphic Novel"
+      },
+      {
+        "name": "Sherri Hamilton",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Dominique Fouassier",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Charles-Axel Vollard",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Kirk Baxter",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Michael Primmer",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "John Roesch",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "William Doyle",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Erik F. Hill",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Andrew W. Bofinger",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Jill Broadfoot",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Sam Southwick",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Drew Kunin",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Matthew Gatlin",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Chris Cleek",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "James R. McAllister",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Giovanni Quéné",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Brice Liesveld",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "James Pastorius",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Catharine Fletcher Incaprera",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Alicia Accardo",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Richard Quinn",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Brian A. Waits",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jessica Stumpf",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Donnie Dean",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Malcolm Fife",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Nikolai Loveikis",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Jonathon Stevens",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Micky Froehlich",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Stephen Urata",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Wei Zheng",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Gigi Williams",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Lisa Chino",
+        "department": "Sound",
+        "job": "Assistant Dialogue Editor"
+      },
+      {
+        "name": "Tucker Korte",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Thom Brennan",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Alice Alward",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Matthew Brady Harris",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Erik Messerschmidt",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Flore Chandès",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "name": "Paul Luther Jackson",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Ken Van Duyne",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Sally Boldt",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Brian S. Osmond",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Matt Kutcher",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Peter Mavromates",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ben Insler",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "May Azzow",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Michele Woods",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Michelle Audrina Kim",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Brandi Kalish",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Jeremy Molod",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Sébastien Fouassier",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Diego Fabian Lozada Bocanegra",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Chelsea DeScenna",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Francesca Aiassa",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Josh Batista",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Morgan Lesné",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Lorenz Plassmann",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Milos Stojanovic",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Brett Voss",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Justin Eaton",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "James L. Eddy",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Danny Gonzalez",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Emily Kacere",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Richard Goodwin",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Luis Angel González",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Cindy Shute",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Eric Tolzmann",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Josselin Panchout",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Karla Torres",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Matt McKinnon",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Andrea Hachuel",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Katherine Feliz",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Elvis Mariñez",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Nicole Hernández Alvarado",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Steve Fine",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Federico Berón",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Andrea McKee",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Cate Adams",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Cammy Crochet",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Nicholas Bradford",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Lenaig Periot-Boulben",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Bryan Lane",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Hannah Scott",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Benjamin Darier",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Brendan O'Connor",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Justin Kane Miller",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Nicholas Emmanuele",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Jake Maymudes",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Casey Curtiss",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Elias Duhe Jr.",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Xany Mendez",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Russell August Anderson",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Andy Winderbaum",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Brendan Durand",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Yabin Morales",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Yann Tremblay",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Miles Crist",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Jennifer Chung",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Colin Sieburgh",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Keshawn Dixon",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Marie d'Hallivillée",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Tommy Rodriguez",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Brandon Jones",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Aura Faulkner",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Luis Alfaro",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "April Melerine Maness",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Joffrey Darel",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Monica Timmerman",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Dave Macomber",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Dave Macomber",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Dan Tappan",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Jaime Dawkins",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Alana J. Hogg",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jeff Moshell",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Luc Jacamon",
+        "department": "Crew",
+        "job": "Graphic Novel Illustrator"
+      },
+      {
+        "name": "Liam Hoppe",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Andrea Garcia",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Silvina Lesa Brown",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Tanguy Baudrier",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Justin Kell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Frédéric Houivet",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Nicholas Hava",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Derek A. James",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Garet Urban",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Victor Filiano Perez",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Monaris",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Guillaume Fournier",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      }
+    ]
+  },
+  "keywords": [
+    "sniper",
+    "new york city",
+    "assassin",
+    "airport",
+    "paris, france",
+    "hitman",
+    "new orleans, louisiana",
+    "dark comedy",
+    "client",
+    "product placement",
+    "sociopath",
+    "revenge",
+    "murder",
+    "fate",
+    "lawyer",
+    "brutality",
+    "based on graphic novel",
+    "character study",
+    "perfectionist",
+    "empathy",
+    "dominican republic",
+    "assassination attempt",
+    "cold blooded killer",
+    "tampa, florida",
+    "manhunt",
+    "international manhunt",
+    "precision",
+    "gig economy",
+    "secret",
+    "violence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "After a fateful near-miss, an assassin battles his employers and himself, on an international manhunt he insists isn't personal.",
+    "A man solitary and cold, methodical and unencumbered by scruples or regrets, the killer waits in the shadows, watching for his next target. And yet the longer he waits, the more he thinks he's losing his mind, if not his cool. A brutal, bloody and stylish noir story of a professional assassin lost in a world without a moral compass, this is a case study of a man alone, armed to the teeth and slowly losing his mind."
+  ],
+  "synopsis": "A professional assassin (Michael Fassbender) stakes out a Parisian hotel room. He prepares to use a sniper rifle to kill a target who will check into the hotel room at an unspecified time. While waiting for the target, he eats, practices yoga, listens to The Smiths, and talks on the phone with his handler, an attorney, and his former university law professor, Edward \"Eddie\" Hodges (Charles Parnell). The assassin has been waiting for 5 days for the target to arrive, and wants to leave, but Hodge insists that they don't get paid, unless the job is carried out.\nThe assassin is shown to be patient and methodical. He builds redundancies into his plans. He likes to observe the cities in which he operates and observes the people in these cities and their daily routines. His identity while he is on the road is of a German tourist.\nBut for 5 nights, the assassin has been waking up every hour to check if the target has arrived. He is sleep deprived and weary. Then on the 6th night, there is action in the middle of the night.The target arrives with a dominatrix and the Killer misses his target, accidentally shooting the dominatrix (Monique Ganderton). He flees on an e-scooter, evading the police and disposing of his rifle and gear. He then flies to the United States under fake identities such as Felix Unger, Archibald Bunker.\nThe killer informs Hodges about his failure. The window of opportunity to take out the target is closed now for a long period of time.The Killer returns to his home and hideout in the Dominican Republic to find it has been broken into and his girlfriend Magdala (Sophie Charlotte) has been attacked. He finds boot prints all around the hideout to indicate that the attackers staked the house for a while before making their move.\nShe is in an intensive care unit of a hospital, with her brother Marcus (Emiliano Pernía) watching over her. He says that Magdala was interrogated and tortured by two assassins (one of which was a woman) but managed to injure one of them and escape. The killers were not interested in disguising themselves. Marcus says that after they were done, Magdala saw them leave in a car with a green top, like a taxi.\nThe Killer tracks down the taxi driver (there is only one company that runs a green color taxi in Dominican Republic), Leo (Gabriel Polanco), who drove the assassins to the Killer's home. Leo identifies one of the assassins, a strong man with an injured leg; \"The Brute\" (Sala Baker), and a woman who \"resembled a Q-Tip\" (Tilda Swinton). Leo picked them up from a private airport, drove them according to their instructions, waited for them an hour at the Killer's property and then drove them back to the airport.\nThe Killer kills Leo, and he breaks his \"Fight only the battle you're paid to fight\" rule and seeks to track down the two assassins.The Killer travels to Hodges' office in New Orleans, Louisiana, and enters the building disguised as a custodial worker. It is revealed that Hodges used to teach law to the Killer, but then encouraged to venture out into contract killing.\nAfter forcing Dolores (Kerry O'Malley), Hodges' secretary, to restrain her boss and herself, the Killer destroys the records of their work. Hodges says that he had to make retributions to a very angry and powerful man, and he never thought that the Killer would return home.\nAs Hodges attempts to get the Killer to leave, the Killer shoots him in the chest with a nail gun to torture the names of the hit-men out of him.\nHowever, Hodges doesn't reveal the names and dies quicker than the Killer anticipated. Dolores offers to show the Killer the assassins' identities in her paper files in her home, asking in return that the Killer give her a non-suspicious death so her children can claim a life insurance payout. After receiving the names of the 2 assassins and the client who paid Hodges, at her home, the Killer breaks his rule not to show empathy; he snaps her neck and shoves her down a flight of stairs, making the fall look like an accident. He later disposes of Hodges' body on a ship.Afterward, the Killer drives to St. Petersburg, Florida, identifying the Brute by his limp. The Killer tracks the Brute through the day as he travels to a casino with his friends and returns late at night.\nAfter drugging his pit bull, the Killer enters his house to kill him, only to be blindsided and tackled. They engage in a fight, and the Brute recognizes the Killer. The Killer shoots him and runs from his reawakened dog, burning down his home with a Molotov cocktail.The Killer travels to Beacon, New York. He tracks the 2nd assassin from her home as she leaves in her car and confronts The expert \"Q-Tip\" assassin in a gourmet restaurant. Appearing to accept her fate, the Expert questions the Killer's motivations in continuing and lessening competency in his profession, as they partake in her \"last supper\" of whiskey. The Expert tries to argue that it was an address and a target and nothing personal and that she had nothing to do with what Brute did to Magdala.\nIn a park outside, the Expert appears to trip on the stairs and requests the Killer to give her a hand. The Killer, instead, kills her and notices she had a concealed knife in her hand.The Killer travels to Chicago, where the client (Arliss Howard), billionaire venture capitalist Henderson \"Clay\" Claybourne, lives in an upscale penthouse. The Killer transfers all of his finances to the Dominican Republic under the name Jefferson and observes Claybourne's routine. The Killer then uses tools purchased online to clone Claybourne's key-card and enter his penthouse.\nThe Killer confronts Claybourne at gunpoint in his penthouse, asking him why he ordered the retaliatory hit. Claybourne claims that he has no personal problem with him. After the miss in Paris, Claybourne claims that Hodges called him and informed him of the miss. Claybourne was OK as mistakes do happen, and it was Hodges who sold him on the idea of a cleanup to prevent any blow-back from his target.\nAs a first-time client of a hit-man, agreed to pay Hodges for \"the trail to be scrubbed\" for an additional $150,000.\nThe Killer spares Claybourne, though promising him a \"slow death\" if Claybourne ever comes for him. Later, The Killer returns to the Dominican Republic and sits next to a recovering Magdala."
+}

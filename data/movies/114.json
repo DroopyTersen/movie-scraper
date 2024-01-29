@@ -1,0 +1,796 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/3tuWpnCTe14zZZPt6sI1W9ByOXx.jpg",
+  "id": 114,
+  "title": "Pretty Woman",
+  "poster_path": "https://image.tmdb.org/t/p/w500/hVHUfT801LQATGd26VPzhorIYza.jpg",
+  "release_date": "1990-03-23",
+  "vote_average": 7.462,
+  "vote_count": 7687,
+  "popularity": 114.686,
+  "overview": "When a millionaire wheeler-dealer enters a business contract with a Hollywood hooker Vivian Ward, he loses his heart in the bargain.",
+  "imdb_id": "tt0100405",
+  "budget": 14000000,
+  "homepage": "",
+  "revenue": 463406268,
+  "runtime": 119,
+  "tagline": "She walked off the street, into his life and stole his heart.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    "Touchstone Pictures",
+    "Silver Screen Partners IV",
+    "Regency Enterprises",
+    "Arnon Milchan Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Richard Gere",
+        "character": "Edward Lewis"
+      },
+      {
+        "name": "Julia Roberts",
+        "character": "Vivian Ward"
+      },
+      {
+        "name": "Ralph Bellamy",
+        "character": "James Morse"
+      },
+      {
+        "name": "Jason Alexander",
+        "character": "Philip Stuckey"
+      },
+      {
+        "name": "Laura San Giacomo",
+        "character": "Kit De Luca"
+      },
+      {
+        "name": "Alex Hyde-White",
+        "character": "David Morse"
+      },
+      {
+        "name": "Amy Yasbeck",
+        "character": "Elizabeth Stuckey"
+      },
+      {
+        "name": "Elinor Donahue",
+        "character": "Bridget"
+      },
+      {
+        "name": "Hector Elizondo",
+        "character": "Barney Thompson"
+      },
+      {
+        "name": "Judith Baldwin",
+        "character": "Susan"
+      },
+      {
+        "name": "Jason Randal",
+        "character": "Magician"
+      },
+      {
+        "name": "Bill Applebaum",
+        "character": "Howard"
+      },
+      {
+        "name": "Tracy Bjork",
+        "character": "Female Guest"
+      },
+      {
+        "name": "Gary Greene",
+        "character": "Male Guest"
+      },
+      {
+        "name": "Billy Gallo",
+        "character": "Carlos"
+      },
+      {
+        "name": "Abdul Salaam El Razzac",
+        "character": "Happy Man"
+      },
+      {
+        "name": "Hank Azaria",
+        "character": "Detective"
+      },
+      {
+        "name": "Larry Hankin",
+        "character": "Landlord"
+      },
+      {
+        "name": "Julie Paris",
+        "character": "Rachel"
+      },
+      {
+        "name": "Rhonda Hansome",
+        "character": "Bermuda"
+      },
+      {
+        "name": "Harvey Keenan",
+        "character": "Man in Car"
+      },
+      {
+        "name": "Marty Nadler",
+        "character": "Tourist Man"
+      },
+      {
+        "name": "Lynda Goodfriend",
+        "character": "Tourist Woman"
+      },
+      {
+        "name": "Reed Anthony",
+        "character": "Cruiser"
+      },
+      {
+        "name": "Frank Campanella",
+        "character": "Pops"
+      },
+      {
+        "name": "Jackie O'Brien",
+        "character": "Artist"
+      },
+      {
+        "name": "Cheri Caspari",
+        "character": "Angel"
+      },
+      {
+        "name": "Scott Marshall",
+        "character": "Skateboard Kid"
+      },
+      {
+        "name": "Patrick Richwood",
+        "character": "Night Elevator Operator Dennis"
+      },
+      {
+        "name": "Kathleen Marshall",
+        "character": "Day Desk Clerk"
+      },
+      {
+        "name": "Laurelle Mehus",
+        "character": "Night Desk Clerk"
+      },
+      {
+        "name": "Don Feldstein",
+        "character": "Male Desk Clerk"
+      },
+      {
+        "name": "Marvin Braverman",
+        "character": "Room Service Waiter"
+      },
+      {
+        "name": "Al Sapienza",
+        "character": "Night Doorman"
+      },
+      {
+        "name": "Jeff Michalski",
+        "character": "Day Doorman"
+      },
+      {
+        "name": "James Patrick Stuart",
+        "character": "Day Bellhop"
+      },
+      {
+        "name": "Lloyd T. Williams",
+        "character": "Bellhop"
+      },
+      {
+        "name": "R. Darrell Hunter",
+        "character": "Darryl The Limo Driver"
+      },
+      {
+        "name": "James Patrick Dunne",
+        "character": "Lounge Pianist"
+      },
+      {
+        "name": "Valorie Armstrong",
+        "character": "Woman in Lobby"
+      },
+      {
+        "name": "Steve Restivo",
+        "character": "Italian Businessman"
+      },
+      {
+        "name": "Rodney Kageyama",
+        "character": "Japanese Businessman"
+      },
+      {
+        "name": "Douglas Stitzel",
+        "character": "American Businessman"
+      },
+      {
+        "name": "Larry Miller",
+        "character": "Mr. Hollister"
+      },
+      {
+        "name": "Dey Young",
+        "character": "Snobby Saleswoman"
+      },
+      {
+        "name": "Shane Ross",
+        "character": "Marie"
+      },
+      {
+        "name": "Carol Williard",
+        "character": "Saleswoman"
+      },
+      {
+        "name": "Minda Burr",
+        "character": "Saleswoman"
+      },
+      {
+        "name": "Robyn Peterson",
+        "character": "Saleswoman"
+      },
+      {
+        "name": "Mariann Aalda",
+        "character": "Saleswoman"
+      },
+      {
+        "name": "RC Everbeck",
+        "character": "Tie Salesman"
+      },
+      {
+        "name": "Michael French",
+        "character": "Maitre D'"
+      },
+      {
+        "name": "Allan Kent",
+        "character": "Waiter"
+      },
+      {
+        "name": "Stacy Keach, Sr.",
+        "character": "Senator Adams"
+      },
+      {
+        "name": "Lucinda Crosby",
+        "character": "Olsen Sister"
+      },
+      {
+        "name": "Nancy Locke",
+        "character": "Olsen Sister"
+      },
+      {
+        "name": "Calvin Remsberg",
+        "character": "Sod Stomping Announcer"
+      },
+      {
+        "name": "Lloyd Nelson",
+        "character": "Game Announcer"
+      },
+      {
+        "name": "Norman Large",
+        "character": "Polite Husband"
+      },
+      {
+        "name": "Tracy Reiner",
+        "character": "Woman at Car"
+      },
+      {
+        "name": "Tom Nolan",
+        "character": "Vance"
+      },
+      {
+        "name": "John David Carson",
+        "character": "Mark"
+      },
+      {
+        "name": "Daniel Bardol",
+        "character": "Jake"
+      },
+      {
+        "name": "Karin Calabro",
+        "character": "Violetta in \"La Traviata\""
+      },
+      {
+        "name": "Bruce Eckstut",
+        "character": "Alfredo in \"La Traviata\""
+      },
+      {
+        "name": "Amzie Strickland",
+        "character": "Matron"
+      },
+      {
+        "name": "Mychael Bates",
+        "character": "Usher"
+      },
+      {
+        "name": "Gary Bohn",
+        "character": "Hotel Desk Clerk (uncredited)"
+      },
+      {
+        "name": "Paul Bradley",
+        "character": "Man in Theatre Box (uncredited)"
+      },
+      {
+        "name": "Robert Buckingham",
+        "character": "Party Guest (uncredited)"
+      },
+      {
+        "name": "Selby Dessner",
+        "character": "Man with Newspaper (uncredited)"
+      },
+      {
+        "name": "Rio Hackford",
+        "character": "Street Junkie (uncredited)"
+      },
+      {
+        "name": "Robert Liguori",
+        "character": "Bar Patron (uncredited)"
+      },
+      {
+        "name": "Garry Marshall",
+        "character": "Bum Tour Guide (uncredited)"
+      },
+      {
+        "name": "Charles Minsky",
+        "character": "Janitor with Water Hose (uncredited)"
+      },
+      {
+        "name": "Blair Richwood",
+        "character": "Blair (uncredited)"
+      },
+      {
+        "name": "Randall Rutledge",
+        "character": "Security Guard (uncredited)"
+      },
+      {
+        "name": "John Simone",
+        "character": "Waiter (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Arnon Milchan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steven Reuther",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Garry Marshall",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "J.F. Lawton",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "James Newton Howard",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Charles Minsky",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Raja Gosnell",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Priscilla Nedd-Friendly",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Dianne Crittenden",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Albert Brenner",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Laura Ziskin",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Marilyn Vance",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Garrett Lewis",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Ellen Segal",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Ron Lambert",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Rick Young",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "David M. Haber",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Gary W. Goldstein",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "David Hoberman",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Daniel J. Lester",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Bettiann Fishman",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Michael Hilkene",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Mario Iscovich",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "name": "Ellen H. Schwartz",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Walter von Huene",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Walter von Huene",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Gary Isbell",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "Rick Avery",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Rick Avery",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Bob Mills",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Carol A. O'Connell",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Gary Zink",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Michael Kelem",
+        "department": "Camera",
+        "job": "Aerial Camera"
+      },
+      {
+        "name": "Troy Porter",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Jerry Trent",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Marty Paich",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Dori Zuckerman",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "name": "Carl Boles",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Adell Aldrich",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Ronald Batzdorff",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Mark Woods",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Robert 'Bobby Z' Zajonc",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Elinor Bardach",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Robert Fitzgerald",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Randall L. Johnson",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Randy Nolen",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "George Herthel",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Philip Caplan",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Tom Connole",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Thomas R. Bryant",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Antoinette J. Gordon",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Chris Jargo",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Joseph A. Mayer",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Carlane Passman",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Allen E. Taylor",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Mychael Bates",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Barbara Marshall",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "David Hagberg",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Elyse Katz",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Brad Dechter",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Maricella Ramirez",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Angel Pine",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Pat Chapman",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Anthony 'AJ' Leonardi Jr.",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "Robert Dawson",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Joni Avery",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Tom F. Thomas",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Roger Joseph Pugliese",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "James E. Webb",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Tom Briggs",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Diane Frazen",
+        "department": "Production",
+        "job": "Executive Assistant"
+      },
+      {
+        "name": "Harrison D. Marsh",
+        "department": "Crew",
+        "job": "Cableman"
+      },
+      {
+        "name": "Mike Schwake",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Ben Beaird",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Donald G. Helderle",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Wally Uchida",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Ken Scaife",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Gary C. Beaird",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Lennie Appelquist",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Katherine Ann Moore",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Anthony R. Collier",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Craig Conwell",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Frank Del Boccio",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Kim Wozniak",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Wendy S. Hallin",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "hotel",
+    "friendship",
+    "prostitute",
+    "sports car",
+    "capitalism",
+    "expensive restaurant",
+    "workaholic",
+    "fire escape",
+    "los angeles, california",
+    "beverly hills",
+    "piano",
+    "bubble bath"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.",
+    "Replete with extreme wealth and suave good looks, Edward Lewis could seemingly have any woman he wants, a committed significant other needed on his arm at social events to further how he makes his money as a corporate raider, but since he focuses more on his corporate-raiding pursuits with his lawyer of 10 years and partner-in-crime Philip Stuckey than any woman, every significant other he's had in his life has felt neglected and eventually left him, the fact of which he is just realizing. In Beverly Hills, still in need of a woman on his arm as he and Philip work toward taking over a company owned by the increasingly insolvent James Morse, he decides, from a chance encounter, to hire Hollywood Boulevard hooker Vivian Ward as his escort for the week. It makes sense: a professional who would be committed to the work without having any relationship issues after the week is done. Beyond their chance encounter, he also makes this decision because she surprises him about how unhookerish she is in certain respects. Vivian, relatively new to Los Angeles and the business, must still look and act the part, with Edward, beyond giving her money, leaving her largely to her own devices to do so. She finds a somewhat-unlikely Henry Higgins in Barney Thompson, manager of the Beverly Wilshire Hotel where Edward is staying. Barney draws that fine line of keeping the hotel's upscale clients happy while maintaining the posh decorum of the upper class, which does not include people to the hotel looking for rooms with hourly rates. As Barney and his associates are able to transform Vivian into a Cinderella, the questions become whether Vivian can go back to her Hollywood Boulevard life and whether she does have her Prince Charming beyond this week in the form of Edward (or anyone else) who truly does see her as Cinderella as opposed to a Hollywood Boulevard streetwalker.—Huggo",
+    "Young prostitute Vivian Ward dreams of a knight-like man who will rescue her. In an unexpected event, she meets handsome billionaire Edward Lewis, who's lost his way while driving his friend's sports car. She asked if he wants a date, but he asked her for the direction to his hotel instead. For $20, Vivian drives him to his hotel. As Edward is about to enter the hotel, he looks back. Seeing her sitting at the corner, he suddenly finds her beauty hard to let her go and asks her to accompany him to his penthouse suite. That night, they get acquainted and make love. The next morning, Edward surprises her with a lucrative business proposal: be with him for the next seven days. Delighted, Vivian accepts. Being with Edward for the whole week changes Vivian's world, far from her regular work as a Hollywood Boulevard prostitute. Though knowing professionals should never fall in love, each begins to question this rule.—judytrinidad",
+    "Having recently broken up, Edward Lewis, a successful out-of-town corporate raider and elegant bachelor with an impeccable sense of style, borrows his lawyer's silver 1990 Lotus Esprit SE, only to get lost on bustling Hollywood Boulevard. Looking for directions, Lewis has a chance encounter with beautiful Vivian Ward, a statuesque streetwalker with a heart of gold; and, as one thing leads to another, a mutually beneficial voluntary association commences. Now, to escort suave Edward for an entire week, gawky diamond-in-the-rough Vivian must endure a complete makeover; but, as personal secrets come to light, something starts to change. Both Vivian and Edward have already had their share of unhappiness and hurt, and they also come from different worlds. Is Vivian willing to break her rules and give love a second chance?—Nick Riganas",
+    "Edward is a rich, ruthless businessman who specializes in taking over companies before selling them off piece by piece. He travels to Los Angeles for a business trip and decides to hire a prostitute. They take a liking to each other and he offers her money if she'll stay with him for an entire week while he makes the \"rich and famous\" scene (since it doesn't do for a man of his stature to be alone at society parties and polo matches). Romantic comedy (and complications) ensue.—Afterburner <aburner@erols.com>"
+  ],
+  "synopsis": "A very successful, wealthy lawyer, Edward Lewis, hires a beautiful and unlikely prostitute, Vivian Ward (Julia Roberts), from Sunset Blvd to bring along to various business events. An attraction developes between the two, and Edward finds it harder and harder to let the infectious, kind-hearted Vivian go.Businessman Edward Lewis (Richard Gere) breaks up with his girlfriend, who doesn't want to be at his \"beck and call\" at a swanky party held by his partner Philip Stuckey, and cuts loose in Stuckey's Lotus. He gets lost and stops along Hollywood Boulevard for directions from hooker Vivenne Ward (Julia Roberts). She charges, gets in and ends up driving him to his hotel in Beverley Hills. He asks her up to his penthouse suite on a whim and pays her to stay all night, although seems uncomfortable at first.The following morning he asks her to stay all week for $3000. He also gives her money for clothes and says she needs to be at his \"beck and call\" with no strings attached. She calls her room-mate Kit (Laura San Giacomo) to leave her money for the rent, and goes shopping on Rodeo Drive for more appropriate clothes. However, snooty saleswomen won't serve her as she is still dressed like a hooker, and she returns to the hotel, where she gets stopped by the hotel manager, Barney (Hector Elizondo). He wants to make it clear that they are making an exception having her at the hotel as Edward is such a special guest. Vivienne gets upset as she still has no outfit for dinner, and Barney helps her, along with coaching her on dinner etiquette. When Edwards returns, he is amazed by Vivienne's new look. The business dinner goes well, but Edward is preoccupied with the deal afterwards.The next day, Vivienne tells him about the experience shoppingt the previous day, and Edward takes her back to spend an obscene amount of money on clothes, leaving her to go back to his work as she is transformed from hooker to lady. She goes back to the shop from the previous day to show them the big mistake they made! Back at hotel, she looks like a genuine guest, but when Edward gets home he is still busy with work, and they take a bath together and talk into the night about their pasts and how they ended up where they are today.The following day, Edward takes Vivienne to the polo. While Vivienne chats to David Morse, the grandson of the man involved in Edward's latest deal, Philip is worried she is a spy. Edward reassures him by telling him how they met, and Philip then comes on to Vivienne. When they return to the hotel, she is furious with Edward for telling him, and plans to leave, but he persuades her to see out the week. Edward leaves work early the next day and takes Vivienne on a date to the Opera in his private jet. She clearly is moved by the music, and says \"If I forget to tell you later, I had a wonderful time tonight\". On returning to the hotel, he falls asleep (the first time we have seen this) while she is getting ready for bed, and she kisses him on the lips - she doesn't do this with clients - and they make love as partners, rather than client and hooker. Over breakfast, Edward offers to put her up in an apartment so he can continue seeing her, but she feels insulted and says this is not the fairytale she wants. He then goes off to work without resolving the situation. Kit comes to the hotel and sees that she has fallen for him, but she denies it.Edward meets Morse, about to close the deal, and changes his mind at the last minute. His time with Vivienne has shown him another way of being - taking time off and enjoying life - and working. He wants to create things rather than just making money. Philip is livid, and goes to the hotel. Vivienne is there and he blames her for changing Edward - he comes onto her again, and then hits her before Edward returns and pulls him off and chucks him out.Vivienne leaves, and is seen back at home with Kit, packing up to leave for San Franscisco. Edward gets into the car with the chauffeur that took her home, and rather than going to the airport, he goes to her apartment and climbs up the fire escpae (despite being afraid of heights) with a rose in his mouth, to woo her like in a fairy-story."
+}

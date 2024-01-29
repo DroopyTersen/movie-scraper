@@ -1,0 +1,1294 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/n1Gh3MJAVvXmkgSDf3SOLlPCjag.jpg",
+  "id": 9390,
+  "title": "Jerry Maguire",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+  "release_date": "1996-12-13",
+  "vote_average": 7,
+  "vote_count": 3059,
+  "popularity": 31.107,
+  "overview": "Jerry Maguire used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, save Rod Tidwell, an egomaniacal football player.",
+  "imdb_id": "tt0116695",
+  "budget": 50000000,
+  "homepage": "",
+  "revenue": 273600000,
+  "runtime": 139,
+  "tagline": "Everybody loved him... Everybody disappeared. The journey is everything.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "TriStar Pictures",
+    "Gracie Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Jerry Maguire"
+      },
+      {
+        "name": "Renée Zellweger",
+        "character": "Dorothy Boyd"
+      },
+      {
+        "name": "Cuba Gooding Jr.",
+        "character": "Rod Tidwell"
+      },
+      {
+        "name": "Kelly Preston",
+        "character": "Avery Bishop"
+      },
+      {
+        "name": "Jerry O'Connell",
+        "character": "Frank Cushman"
+      },
+      {
+        "name": "Jay Mohr",
+        "character": "Bob Sugar"
+      },
+      {
+        "name": "Regina King",
+        "character": "Marcee Tidwell"
+      },
+      {
+        "name": "Bonnie Hunt",
+        "character": "Laurel Boyd"
+      },
+      {
+        "name": "Jonathan Lipnicki",
+        "character": "Ray Boyd"
+      },
+      {
+        "name": "Todd Louiso",
+        "character": "Chad the Nanny"
+      },
+      {
+        "name": "Mark Pellington",
+        "character": "Bill Dooler"
+      },
+      {
+        "name": "Jeremy Suarez",
+        "character": "Tyson Tidwell"
+      },
+      {
+        "name": "Jared Jussim",
+        "character": "Dicky Fox"
+      },
+      {
+        "name": "Benjamin Kimball Smith",
+        "character": "Keith Cushman"
+      },
+      {
+        "name": "Ingrid Beer",
+        "character": "Anne-Louise"
+      },
+      {
+        "name": "Jann Wenner",
+        "character": "Scully"
+      },
+      {
+        "name": "Nada Despotovich",
+        "character": "Wendy"
+      },
+      {
+        "name": "Ali Wentworth",
+        "character": "Bobbi Fallon"
+      },
+      {
+        "name": "Aries Spears",
+        "character": "Tee Pee"
+      },
+      {
+        "name": "Kelly Coffield Park",
+        "character": "Jan"
+      },
+      {
+        "name": "Alice Marie Crowe",
+        "character": "Alice"
+      },
+      {
+        "name": "Larina Adamson",
+        "character": "Women's Group Member"
+      },
+      {
+        "name": "Winnie Holzman",
+        "character": "Women's Group Member"
+      },
+      {
+        "name": "Diana Jordan",
+        "character": "Women's Group Member"
+      },
+      {
+        "name": "Susan Norfleet",
+        "character": "Women's Group Member"
+      },
+      {
+        "name": "Susan Pingleton",
+        "character": "Women's Group Member"
+      },
+      {
+        "name": "Cha Cha Sandoval-McMahon",
+        "character": "Women's Group Member"
+      },
+      {
+        "name": "Hynden Walch",
+        "character": "Women's Group Member"
+      },
+      {
+        "name": "Glenn Frey",
+        "character": "Dennis Wilburn"
+      },
+      {
+        "name": "Donal Logue",
+        "character": "Rick (Junior Agent)"
+      },
+      {
+        "name": "Tom Gallop",
+        "character": "Ben"
+      },
+      {
+        "name": "Beaumont Bacon",
+        "character": "Cleo"
+      },
+      {
+        "name": "Lisa Amsterdam",
+        "character": "Patricia Logan"
+      },
+      {
+        "name": "Angela Goethals",
+        "character": "Kathy Sanders"
+      },
+      {
+        "name": "Leslie Upson",
+        "character": "Flight Attendant"
+      },
+      {
+        "name": "Rick Johnson",
+        "character": "John Swenson"
+      },
+      {
+        "name": "Lightfield Lewis",
+        "character": "Room Service Waiter"
+      },
+      {
+        "name": "Jerry Cantrell",
+        "character": "Jesus of CopyMat"
+      },
+      {
+        "name": "Toby Huss",
+        "character": "Steve Remo"
+      },
+      {
+        "name": "Drake Bell",
+        "character": "Jesse Remo"
+      },
+      {
+        "name": "Christine Cavanaugh",
+        "character": "Mrs. Remo"
+      },
+      {
+        "name": "Russel Lunday",
+        "character": "Doctor"
+      },
+      {
+        "name": "Eric Stoltz",
+        "character": "Ethan Valhere"
+      },
+      {
+        "name": "Lamont Johnson",
+        "character": "Weepy Athlete"
+      },
+      {
+        "name": "Brent Barry",
+        "character": "Calvin Nack"
+      },
+      {
+        "name": "Charlie Cronin",
+        "character": "Hootie Fan"
+      },
+      {
+        "name": "Theo Greenly",
+        "character": "Hootie Fan"
+      },
+      {
+        "name": "Rod Tate",
+        "character": "'Baja' Brunard"
+      },
+      {
+        "name": "Danny Rimmer",
+        "character": "Sad Autograph Boy"
+      },
+      {
+        "name": "Michael James Johnson",
+        "character": "Clark Hodd"
+      },
+      {
+        "name": "Jordan Ross",
+        "character": "Art Stallings"
+      },
+      {
+        "name": "Brandon Christianson",
+        "character": "Young Golfer"
+      },
+      {
+        "name": "Jerry Ziesmer",
+        "character": "Trainer"
+      },
+      {
+        "name": "Kirsten Krueger",
+        "character": "Draft Reporter"
+      },
+      {
+        "name": "Shannon Thornton",
+        "character": "Pressbox Columnist"
+      },
+      {
+        "name": "Luis Damian",
+        "character": "Mariachi Band"
+      },
+      {
+        "name": "Jesus Alberto Guzman",
+        "character": "Mariachi Band"
+      },
+      {
+        "name": "Juan Arnoldo Morales",
+        "character": "Mariachi Band"
+      },
+      {
+        "name": "Alberto Alfavo",
+        "character": "Mariachi Band"
+      },
+      {
+        "name": "Andrea Ferrell",
+        "character": "Woman in Elevator"
+      },
+      {
+        "name": "Anthony Natale",
+        "character": "Man in Elevator"
+      },
+      {
+        "name": "David Ursin",
+        "character": "General Manager"
+      },
+      {
+        "name": "Thomas J. Reilly",
+        "character": "Reverend"
+      },
+      {
+        "name": "Reagan Gomez-Preston",
+        "character": "Tidwell's Cousin"
+      },
+      {
+        "name": "Jim Moffatt",
+        "character": "NFL Guest"
+      },
+      {
+        "name": "Leo Zick",
+        "character": "NFL Guest"
+      },
+      {
+        "name": "Klair Bybee",
+        "character": "NFL Guest"
+      },
+      {
+        "name": "Stan Sessoms",
+        "character": "Shower Man"
+      },
+      {
+        "name": "Gale Hillman",
+        "character": "Locker Room Athlete"
+      },
+      {
+        "name": "Heather Cheney",
+        "character": "Idealized Kissing Wife"
+      },
+      {
+        "name": "Dennis Fitzgerald",
+        "character": "Idealized Kissing Husband"
+      },
+      {
+        "name": "Lucy Liu",
+        "character": "Former girlfriend"
+      },
+      {
+        "name": "Stephanie Furst",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Justina Vail Evans",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Samantha Smith",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Ivana Miličević",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Lisa Rotondi",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Lisa Stahl",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Emily Procter",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Amaryllis Borrego",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Stacey A. Snyder",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Lauren Parker",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Lisa Ann Hadley",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Kymberly Kalil",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Alison Armitage",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Rebecca Rigg",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Golde Starger",
+        "character": "Former Girlfriend"
+      },
+      {
+        "name": "Roy Firestone",
+        "character": "Roy Firestone"
+      },
+      {
+        "name": "Al Michaels",
+        "character": "Al Michaels"
+      },
+      {
+        "name": "Dan Dierdorf",
+        "character": "Dan Dierdorf"
+      },
+      {
+        "name": "Frank Gifford",
+        "character": "Frank Gifford"
+      },
+      {
+        "name": "Mel Kiper",
+        "character": "Mel Kiper"
+      },
+      {
+        "name": "Jeffrey Lurie",
+        "character": "Jeffrey Lurie"
+      },
+      {
+        "name": "Drew Rosenhaus",
+        "character": "Drew Rosenhaus"
+      },
+      {
+        "name": "Richie Kotite",
+        "character": "Richie Kotite"
+      },
+      {
+        "name": "Tim McDonald",
+        "character": "Tim McDonald"
+      },
+      {
+        "name": "Mike Tirico",
+        "character": "Mike Tirico"
+      },
+      {
+        "name": "Wayne Fontes",
+        "character": "Wayne Fontes"
+      },
+      {
+        "name": "Evelyn Fontes",
+        "character": "Evelyn Fontes"
+      },
+      {
+        "name": "Mike White",
+        "character": "Mike White"
+      },
+      {
+        "name": "Johnnie Morton",
+        "character": "Johnnie Morton"
+      },
+      {
+        "name": "Rick Mirer",
+        "character": "Rick Mirer"
+      },
+      {
+        "name": "Drew Bledsoe",
+        "character": "Drew Bledsoe"
+      },
+      {
+        "name": "Rob Moore",
+        "character": "Rob Moore"
+      },
+      {
+        "name": "Ki-Jana Carter",
+        "character": "Ki-Jana Carter"
+      },
+      {
+        "name": "Herman Moore",
+        "character": "Herman Moore"
+      },
+      {
+        "name": "Art Monk",
+        "character": "Art Monk"
+      },
+      {
+        "name": "Troy Aikman",
+        "character": "Troy Aikman"
+      },
+      {
+        "name": "Katarina Witt",
+        "character": "Katarina Witt"
+      },
+      {
+        "name": "Dean Biasucci",
+        "character": "Dean Biasucci"
+      },
+      {
+        "name": "Warren Moon",
+        "character": "Warren Moon"
+      },
+      {
+        "name": "Kerry Collins",
+        "character": "Kerry Collins"
+      },
+      {
+        "name": "Erica Sorgi",
+        "character": "Erica Sorgi"
+      },
+      {
+        "name": "Tom Friend",
+        "character": "Tom Friend"
+      },
+      {
+        "name": "Dallas Malloy",
+        "character": "Dallas Malloy"
+      },
+      {
+        "name": "Jim Irsay",
+        "character": "Jim Irsay"
+      },
+      {
+        "name": "Meg Irsay",
+        "character": "Meg Irsay"
+      },
+      {
+        "name": "Beau Bridges",
+        "character": "Matt Cushman (uncredited)"
+      },
+      {
+        "name": "Greg Bronson",
+        "character": "Sports Agent (uncredited)"
+      },
+      {
+        "name": "Jacqueline Collen",
+        "character": "Girl (uncredited)"
+      },
+      {
+        "name": "Luanne Crawford",
+        "character": "Press Box Reporter (uncredited)"
+      },
+      {
+        "name": "Joanna Daniels",
+        "character": "Former Girlfriend (uncredited)"
+      },
+      {
+        "name": "Micki Duran",
+        "character": "Dancer (uncredited)"
+      },
+      {
+        "name": "Mia Korf",
+        "character": "Former Girlfriend (uncredited)"
+      },
+      {
+        "name": "Gina La Piana",
+        "character": "Former Girlfriend (uncredited)"
+      },
+      {
+        "name": "Valerie Richards",
+        "character": "Video Girl (uncredited)"
+      },
+      {
+        "name": "Summer Sanders",
+        "character": "Summer Sanders (uncredited)"
+      },
+      {
+        "name": "June Saruwatari",
+        "character": "Reporter (uncredited)"
+      },
+      {
+        "name": "Iva Franks-Singer",
+        "character": "Airplane Passenger (uncredited)"
+      },
+      {
+        "name": "Carolyn Renee Smith",
+        "character": "Airplane Passenger (uncredited)"
+      },
+      {
+        "name": "Lynnanne Zager",
+        "character": "Answering Machine (voice) (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jerry Ziesmer",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "James L. Brooks",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Janusz Kamiński",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Clay A. Griffith",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Joe Hutshing",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "David Moritz",
+        "department": "Editing",
+        "job": "Co-Editor"
+      },
+      {
+        "name": "Jack Johnson",
+        "department": "Art",
+        "job": "Production Illustrator"
+      },
+      {
+        "name": "Betsy Heimann",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Laurence Mark",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Bruce S. Pustin",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Cameron Crowe",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Cameron Crowe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Cameron Crowe",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Lisa Stewart",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Nancy Wilson",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Gail Levin",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Michèle Burke",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "name": "Dino DiMuro",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Tony Lamberti",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "John D. Schofield",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Paul H. Haines Jr.",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Keith Campbell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Allan Graf",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Allan Graf",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Virginia Randolph-Weaver",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Sally Thornton",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "James Lapidus",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Gabriel Wrye",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "name": "Stephen J. Lineweaver",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Clayton R. Hartley",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Paul Massey",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Bridget Johnson",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "name": "Richard Sakai",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Chuck Cohen",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Brana Rosenfeld",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Wendy Riva",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Michael Kehoe",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Al Whiting",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Douglas Jones",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Andrew Stone",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Don Coufal",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "John K. Adams",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "J. Michael Mendel",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Denise Fischer",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Joyce Kogut",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Linda Matthews",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Garet Reilly",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Paul Timothy Carden",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "John Rice",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Jon Title",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Wylie Stateman",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Mark Gordon",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "John Villarino",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Doug Hemphill",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Rick Kline",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Andrew Cooper",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "David Devlin",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Andrew L. Ullman",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Hope M. Parrish",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Gary Mundheim",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Randy Kelley",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Eric Rosenberg",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Mitch Dubin",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Carlton Kaller",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Mike Villarino",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Michael Singer",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Chris Hogan",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Chris Jargo",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Hector C. Gika",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Linda Arnold",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      },
+      {
+        "name": "Thomas O'Neil Younkman",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Michael D. Wilhoit",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Joanie Blum",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Michael White",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      },
+      {
+        "name": "Barbara J. Boguski",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Nava R. Sadan",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Brad Kuehn",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Danny Bramson",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Robert Batha",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Steven Meizler",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Lori Stilson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Philip D. Morrill",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Jeff Wexler",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Carrie Angland",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Dan M. Rich",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Stacye P. Branche",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Edward T. Hanley",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Charley Gilleran",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Brian Lukas",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Phil Hetos",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Thomas Vilardo",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Timothy P. Ryan",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Don Tardino",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Don Tardino",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Mary Ruth Smith",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Jim Kwiatkowski",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Todd Egan",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Mark Spath",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Zac Jackson",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Mike Revell",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Ofe Yi",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Susan Dukow",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "name": "Frawley Becker",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Craig S. Jaeger",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Steve Blalock",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Horace Knight Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kevin Erb",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Rod Basham",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Jim Stubblefield",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Larry J. Richardson",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Danny Wynands",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tim Ketzer",
+        "department": "Visual Effects",
+        "job": "3D Animator"
+      },
+      {
+        "name": "Jennifer Pray",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Dean Striepeke",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "John Maskovich",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Greg Wilkinson",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Cynthia Black",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Robyn B. Holmes",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Tory Reed",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Tricia Tomey",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Richard A. Benoit",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Ariana Lingenfelser",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Dwight Joseph Lavers",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "William D. Parrish",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Meg Matthews",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "John Hammer Maxwell",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Warren R. Turner",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Jesse Yoshimura",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Bryan Denegal",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Eva Eastman",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Beau Sessions",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Richard K. Chung",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Dain Turner",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Candace Robinson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James Michael Hold Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Jackson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bart C. Hubenthal",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Katherine Kallis",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "George Davis",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Suzanne Ziesmer",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Brendan Murphy",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Chris Palzis",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Chad Woelki",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "David Greditzer",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "career",
+    "sports",
+    "stadium",
+    "american football",
+    "single mother",
+    "sports agent"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test as an independent agent with the only athlete who stays with him and his former colleague.",
+    "Jerry Maguire (Tom Cruise) is a successful sports agent. The biggest clients, the respect, a beautiful fiancée, he has it all. Until one night he questions his purpose. His place in the world, and finally comes to terms with what's wrong with his career and life. Recording all of his thoughts in a mission statement, Jerry feels he has a new lease on life. Unfortunately his opinions aren't met with enthusiasm from his superiors and after dishonorably being stripped of his high earning clients and elite status within the agency, Jerry steps out into the sports business armed with only one volatile client, Rod Tidwell (Cuba Gooding, Jr.), and the only person with belief in his abilities, Dorothy Boyd (Renée Zellweger), with the impossible task of rebuilding what he once had. Along the way, he faces the harsh truth which he'd ignored in the past and a host of hardships that he'd never faced before.—Hax_9",
+    "Jerry Maguire (Tom Cruise) used to be a typical sports agent: willing to do just about anything he could to get the biggest possible contracts for his clients, plus a nice commission for himself. Then, one day, he suddenly has second thoughts about what he's really doing. When he voices these doubts, he ends up losing his job and all of his clients, except for Rod Tidwell (Cuba Gooding, Jr.), an egomaniacal football player. Can Jerry resurrect his career while still staying true to himself?—Jean-Marc Rocher <rocher@fiberbit.net>"
+  ],
+  "synopsis": "Jerry Maguire (Tom Cruise) is a glossy 35-year-old sports agent working for Sports Management International (SMI). After suffering a nervous breakdown as a result of stress and a guilty conscience, he writes a mission statement about perceived dishonesty in the sports management business and how he believes that it should be operated. He distributes copies of it, entitled \"The Things We Think and Do Not Say: The Future of Our Business\". His co-workers are touched by his honesty and greet him with applause, but the management sends Bob Sugar (Jay Mohr), Maguire's protege, to fire him. Jerry and Sugar call all of Jerry's clients to try to convince them not to hire the services of the other. Jerry speaks to Arizona Cardinals wide receiver Rod Tidwell (Cuba Gooding, Jr.), one of his clients who is disgruntled with his contract. Rod tests Jerry's resolve through a very long telephone conversation, which culminates in the famed \"Show Me the Money!\" scene.Meanwhile, Sugar secures most of Jerry's previous clients. Frank \"Cush\" Cushman (Jerry O'Connell), a superstar quarterback prospect from Southern Methodist University expected to be #1 in the NFL Draft, also stays with Jerry after he makes a visit to the Cushman home. Leaving the office, Jerry announces he will start his own agency and asks if anyone is willing to join him, to which only 26-year-old single mother Dorothy Boyd (Renée Zellweger) agrees. The two had previously bumped into each other in the airport and Boyd had told Maguire personally how inspiring she found his \"memo.\"Jerry travels to the NFL Draft with Cush and convinces Rod to come too, to meet representatives of other NFL teams. Though Rod at first feels neglected compared to the superstar Cush, Sugar contacts Matt Cushman (Beau Bridges), Cush's dad, while Jerry is in the lobby with Rod and re-signs Cush to SMI. Jerry is devastated and turns to his fiance Avery (Kelly Preston) for support, but she rebukes him and he breaks up with her. He then turns to Dorothy, becoming closer to her young son, Ray, and eventually starts a relationship with her. However, Dorothy contemplates moving to San Diego as she has a secure job offer there. Jerry concentrates all his efforts on Rod, now his only client, who turns out to be very difficult to satisfy. Over the next several months, the two direct harsh criticism towards each other with Rod claiming that Jerry is not trying hard enough to get him a contract while Jerry claims that Rod is not proving himself worthy of the money for which he asks. Jerry marries Dorothy to help them both stay afloat financially and to keep her from moving away. He is emotionally and physically distant during the marriage, but is clearly invested in becoming a father to Ray. Although Dorothy is in love, she breaks up with him because she believes he does not love her.Before the start of a Monday Night Football game between the Cardinals and the Dallas Cowboys, Sugar attempts to steal Rod, but is rebuked by Rod and Jerry. The two reconcile soon after. Rod plays well but appears to receive a serious injury when catching a touchdown. He recovers, however, and dances for the crowd, which cheers wildly. Afterwards, Jerry and Rod embrace in front of other athletes and sports agents and show how their relationship has progressed from a strictly business one to a close personal one, which was one of the points Jerry made in his mission statement.Jerry then flies back home to meet Dorothy. He walks in and, in front of her friends, says \"Hello.\" He then speaks for several minutes, telling her that he loves her and wants her in his life, ending with the statement, \"You complete me.\" Dorothy's reply to Jerry is, \"You had me at hello\". Rod later appears on Roy Firestone's sports show. Unbeknownst to him, Jerry has secured him an $11.2 million contract with the Cardinals that will allow him to finish his pro football career in Arizona. The visibly emotional Rod proceeds to thank everyone and extends warm gratitude to Jerry. Jerry speaks with several other pro athletes, some of whom have read his earlier mission statement and respect his work with Tidwell. The film ends with Jerry, Dorothy and Ray walking in the park and stumbling across a Little League baseball game. When the ball lands near them, Ray throws it back; a surprised Jerry then comments on his natural throwing ability (and possible future in sports), much to Dorothy's dismay."
+}

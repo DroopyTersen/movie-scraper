@@ -1,0 +1,906 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/A1CILmMtHpMobKvVSPWNAHd8Tey.jpg",
+  "id": 1648,
+  "title": "Bill & Ted's Excellent Adventure",
+  "poster_path": "https://image.tmdb.org/t/p/w500/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+  "release_date": "1989-02-17",
+  "vote_average": 6.862,
+  "vote_count": 1709,
+  "popularity": 24.631,
+  "overview": "Bill and Ted are high school buddies starting a band. They are also about to fail their history class—which means Ted would be sent to military school—but receive help from Rufus, a traveller from a future where their band is the foundation for a perfect society. With the use of Rufus' time machine, Bill and Ted travel to various points in history, returning with important figures to help them complete their final history presentation.",
+  "imdb_id": "tt0096928",
+  "budget": 10000000,
+  "homepage": "",
+  "revenue": 40500000,
+  "runtime": 90,
+  "tagline": "History is about to be rewritten by two guys who can't spell.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Orion Pictures",
+    "DEG",
+    "Nelson Entertainment",
+    "Interscope Communications",
+    "Soisson/Murphy Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Keanu Reeves",
+        "character": "Ted Logan"
+      },
+      {
+        "name": "Alex Winter",
+        "character": "Bill S. Preston"
+      },
+      {
+        "name": "George Carlin",
+        "character": "Rufus"
+      },
+      {
+        "name": "Robert V. Barron",
+        "character": "Abraham Lincoln"
+      },
+      {
+        "name": "Terry Camilleri",
+        "character": "Napoleon"
+      },
+      {
+        "name": "Clifford David",
+        "character": "Ludwig van Beethoven"
+      },
+      {
+        "name": "Al Leong",
+        "character": "Genghis Khan"
+      },
+      {
+        "name": "Rod Loomis",
+        "character": "Dr. Sigmund Freud"
+      },
+      {
+        "name": "Dan Shor",
+        "character": "Billy the Kid"
+      },
+      {
+        "name": "Tony Steedman",
+        "character": "Socrates"
+      },
+      {
+        "name": "Jane Wiedlin",
+        "character": "Joan of Arc"
+      },
+      {
+        "name": "Bernie Casey",
+        "character": "Mr. Ryan"
+      },
+      {
+        "name": "Hal Landon Jr.",
+        "character": "Captain Logan"
+      },
+      {
+        "name": "Amy Stoch",
+        "character": "Missy Preston / Mom"
+      },
+      {
+        "name": "J. Patrick McNamara",
+        "character": "Mr. Preston"
+      },
+      {
+        "name": "Frazier Bain",
+        "character": "Deacon Logan"
+      },
+      {
+        "name": "Diane Franklin",
+        "character": "Princess Joanna"
+      },
+      {
+        "name": "Kimberley Kates",
+        "character": "Princess Elizabeth"
+      },
+      {
+        "name": "William Robbins",
+        "character": "Ox"
+      },
+      {
+        "name": "Steve Shepherd",
+        "character": "Randolf"
+      },
+      {
+        "name": "Anne Machette",
+        "character": "Buffy"
+      },
+      {
+        "name": "Traci Dawn Davis",
+        "character": "Jody"
+      },
+      {
+        "name": "Duncan McLeod",
+        "character": "Bartender"
+      },
+      {
+        "name": "John Clure",
+        "character": "Tattooed Cowboy"
+      },
+      {
+        "name": "Jim Cody Williams",
+        "character": "Bearded Cowboy"
+      },
+      {
+        "name": "Dusty O'Dee",
+        "character": "Old West Ugly Dude"
+      },
+      {
+        "name": "Heather Pittman",
+        "character": "Kerry"
+      },
+      {
+        "name": "Ruth Pittman",
+        "character": "Daphne"
+      },
+      {
+        "name": "Richard Alexander",
+        "character": "Bowling Alley Manager"
+      },
+      {
+        "name": "James Bowbitch",
+        "character": "John the Serf"
+      },
+      {
+        "name": "John Karlsen",
+        "character": "Evil Duke"
+      },
+      {
+        "name": "Jeanne Hermine Herek",
+        "character": "Mother at Waterslides"
+      },
+      {
+        "name": "Jonathan Bond",
+        "character": "Waterslide Attendant"
+      },
+      {
+        "name": "Jeff S. Goodrich",
+        "character": "Music Store Salesman"
+      },
+      {
+        "name": "Lisa Rubin",
+        "character": "Girl at Mall"
+      },
+      {
+        "name": "Marjean Holden",
+        "character": "Student Speaker"
+      },
+      {
+        "name": "Claudia Templeton",
+        "character": "Aerobic Saleswoman"
+      },
+      {
+        "name": "Carol Gossler",
+        "character": "Aerobic Instructor"
+      },
+      {
+        "name": "James D. Nelson",
+        "character": "Mall Photographer"
+      },
+      {
+        "name": "Marcia Darroch",
+        "character": "Store Clerk"
+      },
+      {
+        "name": "Steven Rotblatt",
+        "character": "Police Psychiatrist"
+      },
+      {
+        "name": "Ed Solomon",
+        "character": "Stupid Waiter"
+      },
+      {
+        "name": "Chris Matheson",
+        "character": "Ugly Waiter"
+      },
+      {
+        "name": "Mark Ogden",
+        "character": "Neanderthal #1"
+      },
+      {
+        "name": "Tom Dugan",
+        "character": "Neanderthal #2"
+      },
+      {
+        "name": "Ron Althoff",
+        "character": "Security Guard"
+      },
+      {
+        "name": "Martha Davis",
+        "character": "The Three Most Important People In The World"
+      },
+      {
+        "name": "Fee Waybill",
+        "character": "The Three Most Important People In The World"
+      },
+      {
+        "name": "Clarence Clemons",
+        "character": "The Three Most Important People In The World"
+      },
+      {
+        "name": "Phillip V. Caruso",
+        "character": "Dance Photographer (uncredited)"
+      },
+      {
+        "name": "Lee Hollingsworth",
+        "character": "Student (uncredited)"
+      },
+      {
+        "name": "Greg Lutz",
+        "character": "Deputy (uncredited)"
+      },
+      {
+        "name": "Michael S. Murphey",
+        "character": "Mr. Ward (uncredited)"
+      },
+      {
+        "name": "Golan Ramraz",
+        "character": "Kid at Waterslides (uncredited)"
+      },
+      {
+        "name": "Darrell Redleaf-Fielder",
+        "character": "Mall Goer (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Stanzi Stokes",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "David Newman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Ray Lykins",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Patricia Whitcher",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Dan Bradley",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Ed Solomon",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Scott Kroopf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ted Field",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jennifer Williams",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Roy Forge Smith",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Tim Suhrstedt",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Al Jones",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Larry Bock",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Phillip V. Caruso",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Stephen Herek",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Patrick Rand",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Chris Matheson",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Michael S. Murphey",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Joel Soisson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert W. Cort",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Bruce Mink",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Jill M. Ohanneson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "W.K. Border",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Alicia Stevenson",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Rebekah Rudd",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Stephen Deutsch",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Kristine Peterson",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Scott D. Jackson",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Marvin Walowitz",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Eric Heffron",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Whitey Hughes",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeff Imada",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Randolph Sellars",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Glenn T. Morgan",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "David A. Whittaker",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "John H. Arrufat",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "John Escobar",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rick Rothen",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Glenis Wootton Gross",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Gary A. Hecker",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Steve Dubin",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Terry Kempf",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Don Ruffin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lori Lynn Ross",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John P. Fasal",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Hank Baumert",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Adrienne Hamalian-Mangine",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "David Linck",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "William 'Fleet' Eakland",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Gordon White",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Becky Sullivan",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Noon Orsatti",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Leveque",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Michael Jiron",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Richard E. Yawn",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Karen G. Wilson",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Florian Schereck",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Sara Markowitz",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Maureen Farley",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Jeffrey L. Sandler",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Dick Weaver",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Tim Boyle",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Michael S. Wren",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Dean Drabin",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Shawn Sykora",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Ed White",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Daniel Marc",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Daniel Marc",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Kyle T. MacDowell",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "George Fisher",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Allen L. Stone",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Ron Althoff",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Scott White",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "James D. Nelson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Scott Alan Cook",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Cindy Lagerstrom",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Scott Grusin",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Brad Jeffries",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Kristin Smith",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Shunil Borpujari",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Bob Field",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Robert A. Preston",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "David Kershenbaum",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "James G. Moriarty",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Larry Alexander",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Michael Hoskinson",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Thomas Loizeaux",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Robert Cota",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Glen Sanford",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Patti Brand",
+        "department": "Costume & Make-Up",
+        "job": "Hairdresser"
+      },
+      {
+        "name": "Claudia Santiago",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Marty Miller",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Scott Guthrie",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "George Ball",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Sam Perry",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Harold O'Neal",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Barry Nolan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Keith Johnson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Vaughn Shafer",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rodd Wolff",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Theresa Pedemonte",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Mark Karen",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Adrian Licciardi",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Rachel A. Flores",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "James Neilan",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Pat Peach",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Rick Spears",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Danny McCallum",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Elwin 'Bub' Greer",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Mike Pizutto",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Mary Ann Ahern",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "George 'Beco' Gerhart",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Kristine Kaspari",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Coby Jordan",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Connie Colbert",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Doug Hiserodt",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Bruce Simballa",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Jeanne Mascia",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Jim Lucas",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Mike Buck",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Beth Hoffman",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Steve Schemmel",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Sherry Serra",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Robin Monteiro",
+        "department": "Production",
+        "job": "Extras Casting"
+      }
+    ]
+  },
+  "keywords": [
+    "jealousy",
+    "school presentation",
+    "journey in the past",
+    "sigmund freud",
+    "time travel",
+    "heavy metal",
+    "socrates",
+    "past",
+    "napoleon bonaparte",
+    "rhinoceros",
+    "world peace",
+    "best friend"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Two rock-'n-rolling teens, on the verge of failing their class, set out on a quest to make the ultimate school history report after being presented with a time machine.",
+    "In the small town of San Dimas, a few miles away from Los Angeles, there are two nearly brain dead teenage boys going by the names of Bill S, Preston ESQ. and Ted Theodore Logan, they have a dream together of starting their own rock and roll band called the \"Wyld Stallyns\". Unfortunately, they are still in high school and on the verge of failing out of their school as well, and if they do not pass their upcoming history report, they will be separated as a result of Ted's father sending him to military school. But, what Bill and Ted do not know is that they must stay together to save the future. So, a man from the future named Rufus came to help them pass their report. So, both Bill and Ted decided to gather up historical figures which they need for their report. They are hoping that this will help them pass their report so they can stay together.—John Wiggins",
+    "Bill S. Preston, ESQ. and Ted Logan are in deep trouble. They have to complete an oral report for History, and if they don't get an A+, they will flunk History. And if they flunk History, Ted will be sent to military school in Alaska. Fortunately for them, they receive help in the form of a time machine that they borrowed from a time traveler named Rufus. They bring back many historical figures, including Billy the Kid, Napoleon, Socrates, Joan of Arc, Genghis Khan, and others. Sadly, problems arise and all of the historical figures are jailed. Bill and Ted must rescue them in order to complete their report.—frankiepenguin",
+    "San Dimas, California, 1988. While flirting with disaster, Bill and Ted, a pair of high school slackers and ambitious rock stars, have a life-saving encounter with the unexplained just when they needed it most: only a few hours before failing history. So, to nail their final presentation and get an A+ on the oral report the following morning, the lost boys have no choice but to follow an extraordinary benefactor to the edge of the world and beyond. This way, they'll learn first-hand everything about history. However, as Ted and Bill embark on the adventure of a lifetime, everyone's future is hanging by a thread. Can the clueless explorers of the unknown ace their project tomorrow?—Nick Riganas",
+    "Ted \"Theodore\" Logan and Bill S. Preston esquire won't graduate if they don't do well in their history presentation. This would be both bogus and uncool! A dude called Rufus comes from the future in a telephone box to help them, as their lives are apparently rather important to the future of mankind! They travel through time doing some interesting research for their history presentation, and generally being excellent to each other!—Colin Tinto <cst@imdb.com>"
+  ],
+  "synopsis": "In 2688, humanity exists as a utopian society due to the inspiration of the music and philosophy of the Two Great Ones: William \"Bill\" S. Preston, Esq., and Ted Theodore Logan. One of the citizens, Rufus, is tasked by the leaders to travel back to San Dimas, California, in 1988 using a phone booth-shaped time machine to ensure that the young Bill and Ted, two dim-witted high school students, successfully pass history class. If they fail, Ted's father, police Captain Logan, plans to ship Ted to a military school in Alaska, ending Bill and Ted's fledgling band, Wyld Stallyns, and altering history.Rufus finds the two teens at a Circle K convenience store, struggling to finish their history report, in which they must describe how historical figures would view the present San Dimas. Rufus offers his help before another phone-booth time machine arrives and future versions of Bill and Ted step out. After assuring the present-day Bill and Ted that Rufus's claims are true and that they can trust him, they disappear in the time booth.Rufus shows Bill and Ted how to operate the time booth, taking them back to 1805 where they find Napoleon Bonaparte leading his forces against Austria. As Rufus, Bill and Ted return to the present, Napoleon is thrown by a cannonball explosion into their wake, and is dragged through the Circuits of Time along with them. Rufus explains that time will continue to progress normally for Bill and Ted and that they cannot miss their class presentation the next day; he then departs, leaving the empty time booth for them. As they discuss where to go next, they discover Napoleon stuck in a nearby tree, inspiring them to abduct historical figures and take them to the present for their school presentation. They leave Napoleon with Ted's younger brother Deacon before they go.They befriend Billy the Kid in the Wild West, and Socrates in Ancient Greece, before stopping in 15th-century England, where they fall in love with princesses Joanna and Elizabeth. Their father, the king, tries to have them executed, but Billy and Socrates help them escape. The booth, which is slightly damaged in the process, takes them to the far future, where they find a society that reveres them and their future band. They are inspired to complete their report with \"extra credit\" by abducting Sigmund Freud, Ludwig van Beethoven, Joan of Arc, Genghis Khan and Abraham Lincoln. After a brief stop in prehistoric times to repair the booth, they program it to return to the present, but end up outside the Circle K the night before, where Rufus was first introducing himself. They convince their earlier selves of Rufus's trustworthiness before he explains to them how to get to the next day.When they arrive, they learn that Deacon has abandoned Napoleon at a bowling alley. They leave the other historical figures at the mall to learn about San Dimas while they seek out Napoleon at Waterloo, a local water park. The historical figures get into trouble at the mall and are arrested by Captain Logan.Bill and Ted execute an escape plan based on using the time booth in the future to set up what they need in the present. They break their historical friends out of jail, then present each of them to the assembled school using stage lighting effects and rousing music. Their \"report\" earns a standing ovation, and they pass the course.Some time later, Rufus returns, accompanied by the two princesses, whom he has rescued from pre-arranged marriages. He says that they will also be part of Wyld Stallyns, and that the four of them will change the world with their music. He asks to jam with them-but on hearing their fledgling attempts to play, he turns to the movie audience and assures them, \"They do get better.\""
+}

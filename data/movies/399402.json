@@ -1,0 +1,1862 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hE6Jh9FJiBrakHcT3vmWxM0GVpv.jpg",
+  "id": 399402,
+  "title": "Hunter Killer",
+  "poster_path": "https://image.tmdb.org/t/p/w500/a0j18XNVhP4RcW3wXwsqT0kVoQm.jpg",
+  "release_date": "2018-10-19",
+  "vote_average": 6.88,
+  "vote_count": 2026,
+  "popularity": 38.415,
+  "overview": "Captain Glass of the USS Arkansas discovers that a coup d'état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.",
+  "imdb_id": "tt1846589",
+  "budget": 40000000,
+  "homepage": "https://www.hunterkiller.movie",
+  "revenue": 31672678,
+  "runtime": 121,
+  "tagline": "Courage runs deep",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Original Film",
+    "G-BASE",
+    "Millennium Media",
+    "Hunter Killer Productions",
+    "Hishow Entertainment",
+    "SprocketHeads",
+    "Tucker Tooley Entertainment",
+    "Lionsgate",
+    "Davis Films",
+    "Summit Entertainment"
+  ],
+  "production_countries": [
+    "CN",
+    "FR",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Gerard Butler",
+        "character": "Captain Joe Glass"
+      },
+      {
+        "name": "Gary Oldman",
+        "character": "CJCS Charles Donnegan"
+      },
+      {
+        "name": "Toby Stephens",
+        "character": "Bill Beaman"
+      },
+      {
+        "name": "Common",
+        "character": "RA John Fisk"
+      },
+      {
+        "name": "Linda Cardellini",
+        "character": "Jane Norquist"
+      },
+      {
+        "name": "David Gyasi",
+        "character": "Cob Wallach"
+      },
+      {
+        "name": "Gabriel Chavarria",
+        "character": "Jimenez"
+      },
+      {
+        "name": "Ryan McPartlin",
+        "character": "Matt Johnstone"
+      },
+      {
+        "name": "Carter MacIntyre",
+        "character": "XO Brian Edwards"
+      },
+      {
+        "name": "Zane Holtz",
+        "character": "Paul Martinelli"
+      },
+      {
+        "name": "Taylor John Smith",
+        "character": "Belford"
+      },
+      {
+        "name": "Michael Trucco",
+        "character": "Devin Hall"
+      },
+      {
+        "name": "Mikhail Gorevoy",
+        "character": "Admiral Dmitri Durov"
+      },
+      {
+        "name": "Aleksandr Dyachenko",
+        "character": "President Zakarin"
+      },
+      {
+        "name": "Igor Jijikine",
+        "character": "Tretiak"
+      },
+      {
+        "name": "Yuri Kolokolnikov",
+        "character": "Oleg"
+      },
+      {
+        "name": "Ilia Volok",
+        "character": "Captain Vlade Sutrev"
+      },
+      {
+        "name": "Caroline Goodall",
+        "character": "President Dover"
+      },
+      {
+        "name": "Corey Johnson",
+        "character": "Captain"
+      },
+      {
+        "name": "Adam James",
+        "character": "Captain Forbes"
+      },
+      {
+        "name": "Will Attenborough",
+        "character": "Kaplan"
+      },
+      {
+        "name": "Michael Nyqvist",
+        "character": "Captain Andropov"
+      },
+      {
+        "name": "Sarah Middleton",
+        "character": "Liddy"
+      },
+      {
+        "name": "Christopher Goh",
+        "character": "Park"
+      },
+      {
+        "name": "Shane Taylor",
+        "character": "TMC Turner"
+      },
+      {
+        "name": "Henry Goodman",
+        "character": "Senator from Illinois"
+      },
+      {
+        "name": "Colin Stinton",
+        "character": "Senator from Iowa"
+      },
+      {
+        "name": "Kieron Bimpson",
+        "character": "Nichols"
+      },
+      {
+        "name": "Nathan Cooper",
+        "character": "Mess Crew (uncredited)"
+      },
+      {
+        "name": "Dempsey Bovell",
+        "character": "Sonar"
+      },
+      {
+        "name": "Jacob Scipio",
+        "character": "Sonar"
+      },
+      {
+        "name": "Ethan Baird",
+        "character": "Sonar"
+      },
+      {
+        "name": "Kola Bokinni",
+        "character": "McCaw"
+      },
+      {
+        "name": "Michael Jibson",
+        "character": "Reed"
+      },
+      {
+        "name": "Brian Kinney",
+        "character": "Officer on the Deck"
+      },
+      {
+        "name": "Cosmo Jarvis",
+        "character": "Fathometer Operator"
+      },
+      {
+        "name": "Hristo Mitzkov",
+        "character": "Volkov Sonarman"
+      },
+      {
+        "name": "Stefan Ivanov",
+        "character": "Volkov Captain"
+      },
+      {
+        "name": "David Yelland",
+        "character": "SECDEF"
+      },
+      {
+        "name": "Stuart Milligan",
+        "character": "Secretary of State"
+      },
+      {
+        "name": "Aleksandar Belovski",
+        "character": "Russian Navy (uncredited)"
+      },
+      {
+        "name": "Theo Barklem-Biggs",
+        "character": "Seaman Mackinnon (uncredited)"
+      },
+      {
+        "name": "Mikey Collins",
+        "character": "Brickowski"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Arne Schmidt",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "James H. Spencer",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Anne McCarthy",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Lynda Armstrong",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Mark Southworth",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Neal H. Moritz",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Boaz Davidson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jamie Moss",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Gerard Butler",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Pam Dixon",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Les Weldon",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Michael J. Duthie",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "John Thompson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tucker Tooley",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Toby Jaffe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jamie Edgell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Trevor Morris",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Marianne Stanicheva",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Mark Gill",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Christopher Kulikowski",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Sian Evans",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "David Forman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ina Damianova",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Chris Carey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Caroline Harris",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Alexander Bracq",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tom Marais",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Danko Jordanov",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Alan Siegel",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jon Henson",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Robert Wischhusen-Hayes",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Donovan Marsh",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ivan Ranghelov",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Matthew O'Toole",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ivailo Dimitrov",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ivo Kehayov",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary Baugh",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Georgi Raykov",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Christina Eunji Kim",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Hayley Lovitt",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Ilko Iliev",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kellie Roy",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Nick Chopping",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Krasimir Simeonov",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alena Garetovskaya",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "name": "Dominic Gibbs",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Jason Swanscott",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Yossif Mladenov",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Kiril Kaloyanov",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Vladimir Kaloyanov",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Glen Gathard",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Jeanette Haley",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Elizabeth Boller",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Dobrinka Stamenkova",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Orlin Grozdanov",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Nikolay Gachev",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Dian Hristov",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Mila Maslarova",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Adam McCreight",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Danail Hadzhiyski",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Vicki Stevenson",
+        "department": "Art",
+        "job": "Draughtsman"
+      },
+      {
+        "name": "Andrew Munro",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jack English",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Alexei Karagyaur",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Dirk Buchmann",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Mark Taylor",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Michael Buster",
+        "department": "Crew",
+        "job": "Dialogue Coach"
+      },
+      {
+        "name": "Ivo Peitchev",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Sean Farrow",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Diego Daniel Pardo",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Christopher Raphael",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Rob Farris",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Paul Herbert",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Beverly Winston",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Dimitrina Stoyanova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Sofi Hvarleva",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "name": "Ivon Ivanova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "name": "Neven Mihailova",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Nikolay Pachov",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Mihail Yanakiev",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Patrick Malone",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Maria Stankovich",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kiril Valchanov",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Georgi Manchev",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Milen Kaleichev",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Waldo Mason",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "Phil Jones",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Nelly Teova",
+        "department": "Costume & Make-Up",
+        "job": "Additional Hairstylist"
+      },
+      {
+        "name": "Michael Crowe",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Elena Baranova",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Desislava Lazarova",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Hristo Idakiev",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Mariana Popova",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "name": "Peter Bakalov",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Malcolm Roberts",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Antony Tanev",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Vladimir Petkov",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Georgi Dimitrov",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Vladislav Mateev",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Svetla Krasteva",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Peter Krumov",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Kaloyan Nedelchev",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Shaun Cobley",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Jon Baker",
+        "department": "Crew",
+        "job": "Supervising Armorer"
+      },
+      {
+        "name": "Aaron Sowd",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Tom Balogh",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Jason Curle",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gavin Digby",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "John Moredock",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Kayla Cabral",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Morgan Robbins",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Dimitar Krustev",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Oleg Mirochnikov",
+        "department": "Crew",
+        "job": "Dialogue Coach"
+      },
+      {
+        "name": "Ben Rothwell",
+        "department": "Crew",
+        "job": "Armory Coordinator"
+      },
+      {
+        "name": "Michael Pybus",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Emma Gunnery",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "George Wallace",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Don Keith",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Oli Novadnieks",
+        "department": "Art",
+        "job": "Property Buyer"
+      },
+      {
+        "name": "Ian Bird",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Svetoslav Mitev",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Stanislav Dragiev",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Anna Ivanova",
+        "department": "Costume & Make-Up",
+        "job": "Additional Hairstylist"
+      },
+      {
+        "name": "Liam McCartney",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Daniel Ivanov",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Daniel Lawson Johnston",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ivan Todorov Ivanov",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Tsvetan Ivanov",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Stefano Pepin",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Trayan Milenov-Troy",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Tsvetan Kostov",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Radoslav Petkov",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Zoe Freed",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Sofi Davidova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Maria Doicheva",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "Charlie Variyski",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Danny Burke",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Nic Pallace",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "William Willoughby",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Atanaska Popova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Shiri Lerner",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Luke Gentry",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Jeff Woodbridge",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Kye Mckee",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ivan Iliev",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Genko Ivanov",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Kiril Georgiev",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Kevin Penney",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Patrick D. Hurd",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Gareth Harfoot",
+        "department": "Camera",
+        "job": "Aerial Camera"
+      },
+      {
+        "name": "Theo Morton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Perunika Yorgova",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Katya Ivanova",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Ian Cunningham",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Tom Boney",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James O'Daly",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jason Hunjan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Zahari Grozdanov",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tihomir Vinchev",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mike Duffy",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Leo Woodruff",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Galina Kyuchukova",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Jim Philpott",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Harlon Haveland",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Borislav Hristov",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Dani Rose",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Karolina Dziwinska",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Lawrence Hook",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Philippa Broadhurst",
+        "department": "Art",
+        "job": "Standby Art Director"
+      },
+      {
+        "name": "Iain Thomson",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Kim Fouche-Tipton",
+        "department": "Production",
+        "job": "Travel Coordinator"
+      },
+      {
+        "name": "Jemma Riley-Tolch",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Borislav Dimitrov",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Stephanie Landriault",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Anny Lang",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Alex Hirtenstein",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Mitch Hounslow",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Vivek Sharma",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Erol Mehmet",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ian Creed",
+        "department": "Crew",
+        "job": "Marine Coordinator"
+      },
+      {
+        "name": "Nikolay Krastev",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Bhumika Mayer",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Mark Krentz",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Angela Oxley Evans",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Evgeni Vladimirov",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Mark 'Rocky' Evans",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Mike Soppit",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Lucy Robert",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Vasil Galabov",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Nevena Dragoshinova",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Andrey Hristozov",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Hrista Ilieva",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Iordan Borissov",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Brian Murray",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Jason Habelow",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Chris Peters",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Keith Weir",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Ivo Vuchkov",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Veselin Dimchov Hristov",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Maxim Penev",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Momchil Koev",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Laurens Nockels",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Brian Tong",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "name": "David Churchyard",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Joel Christopher",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "James Cox",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Graham Wyn Jones",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Adam Bourne",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Jason Evans",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Martin Naydenski",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Ryan Green",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ben Collins",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Tim Dean",
+        "department": "Camera",
+        "job": "Libra Head Technician"
+      },
+      {
+        "name": "Claudia Cimmino",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Simona Ilieva",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Ivailo Tzvetkov",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Vasil Paunov",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Milena Georgieva",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Alba Rodriguez del Rio",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Felipe Siem",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Kaiser Thomas",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Christine Pyle",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Isaac Heron",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Ivaylo Ivanov",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Hristo Dimitrov",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Yasen Denev",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Martin Genchev",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Jordann Aguon",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Petar Anev",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Ben Burt",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Oana Ene",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Michael Tanji",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Max Carrington",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "name": "Dean Southan",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "name": "Chris Dickinson",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Anton Ivanov",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Sergey Zhelezko",
+        "department": "Camera",
+        "job": "Epk Camera Operator"
+      },
+      {
+        "name": "Paula Nenova",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Alexandre Trenev",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Dimitar Dimitrov",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Nedyalko Georgiev",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Albert Nikolinski",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Borislav Belberov",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Steve Smith",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Gigi Dey",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Anita Hvarleva",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Yanka Doychinova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Yana Platnarova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kath Rayner",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Elena Melamed",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Ben Lanning",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Katerina Atanasova",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Dean McLeod",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Lizzie Osborne",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Stacy Boles",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Glen Young",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Ellie Shanks",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Joey Hodges",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "David Lovelock",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Steve Salmon",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Ryan Bradbury",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Ben Hopwood",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Krista Vacheva",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Jessica Ingram",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "James Shuttleworth",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Nadia Merabti",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Kaniez Braganza",
+        "department": "Art",
+        "job": "Textile Artist"
+      },
+      {
+        "name": "Lauren Wilkinson Kimball",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Stella Kamburova",
+        "department": "Visual Effects",
+        "job": "3D Artist"
+      },
+      {
+        "name": "Petko Ganev",
+        "department": "Visual Effects",
+        "job": "3D Artist"
+      },
+      {
+        "name": "Peter Gachev",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Eryn Thorsley",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Angel Ivanov",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Waheed Ahmed",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Joel Chambers",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Jaron Evans",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Michael J. Eves",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Daniel Pelc",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Rob Strickland",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Antonio Ribeiro",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Dimitar Bajalcaliev",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Remi Bitawi",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Denis Tomov",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Martin Kalev",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Lazarin Kushev",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Hestor Lichev",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Petar Lilkov",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Nino Stoyanov",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Asen Velkov",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Ivailo Petrov",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Kiril Altakov",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Michelle Ryan",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Hristo Velev",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Julia Manolova",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Desislava Pavlova",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Kajten Molnar",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Daryl Shail",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Finlay Reid",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Arthur Harrison",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "name": "Rebecca Gausnell",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Cristín Ruddy",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Ruba Kharuf",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Petar Yankov",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Ina Holevitch",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Jason Chiodo",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Steven Mullins",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Vasil Simeonov",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kostas Papadopoulos",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Liam Coote",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nathan Whatton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ivan Vodenicharov",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sam Stefan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Vasko Yordanov",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Simeon Spasov",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dobri Neichev",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Venko Mishev",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Wai Lun Leong",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "André Layne",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Lubo Grozdanov",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William Davey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Noah Bahnson",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Steve Cole",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Greg Murray",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Kevin Day",
+        "department": "Art",
+        "job": "Standby Property Master"
+      }
+    ]
+  },
+  "keywords": [
+    "sniper",
+    "washington dc, usa",
+    "submarine",
+    "pentagon",
+    "u.s. navy",
+    "special forces",
+    "russian army",
+    "naval base",
+    "russian president",
+    "post cold war"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president, who has been kidnapped by a rogue general.",
+    "A U.S. submarine, the USS Tampa Bay, vanishes while shadowing a Russian Akula-class submarine in the Arctic. Rear Admiral John Fisk sends a Virginia-class submarine, the USS Arkansas, under the command of newly-promoted and unorthodox Commander Joe Glass to investigate. At the same time, a Navy SEAL team under the command of Lieutenant Bill Beaman is sent in to discreetly observe a Russian naval base. When they arrive at the naval base, they witness defense minister Dmitri Durov conducting a coup d'etat and taking Russian President Zakarin prisoner, and swiftly realize that Durov intends to trigger a war..",
+    "When the USS Tampa Bay submarine that is navigating in Russian waters loses contact with the American base, Captain Joe Glass is assigned to command the USS Arkansas submarine to investigate. They discover the USS Tampa Bay and a Russian submarine sunk with survivors inside. However they are attacked by another Russian submarine hidden under an iceberg but they explode the enemy. Then they rescue the survivors, including the Russian Captain Andropov. Meanwhile a commando led by Lieutenant Bill Beaman is sent to observe a Russian base and they find that a coup d'état is in progress with the defense minister Dmitriy Durov overthrowing the Russian President Nikolai Zakarin. Now Beaman and Glass are assigned to try to rescue Zakarin to avoid a nuclear war, but the only chance to the USS Arkansas reach the Russian base waters is with the help of Captain Andropov. Will he collaborate with Glass?—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Pentagon and White House panic, first when their nuclear submarine the USS Tampa Bay vanishes while shadowing a Russian Akula-class one in the Arctic, which actually sinks. Newly-promoted maverick USNavy Commander Joe Glass is promoted captain of the Virginia-class submarine USS Arkansas, finds the truth and rescues the Russian captain, legendary admiral Andropov, with other survivors, who helps them overcome the hostile Russian vessels. Meanwhile Russian president Nikolai Zakarin, who was visiting the Moermansk base on Kola peninsula, has been taken hostage by his war-hungry minister of defense Dmitriy Durov. To avoid a nuclear war, Lieutenant Bill Beaman's SEAL commando, already parachuted -with a bad fall- to spy on the base, is ordered to rescue Zakarin, and Glass to pick them up, neither proving nearly easy, even if sensible Andropov cooperates sincerely.—KGF Vissers"
+  ],
+  "synopsis": "A U.S. submarine, the USS Tampa Bay, vanishes while shadowing a Russian Akula-class submarine in the Arctic. Rear Admiral John Fisk (Common) sends a Virginia-class submarine, the USS Arkansas, under the command of newly-promoted and unorthodox Commander Joe Glass (Gerard Butler) to investigate.Jayne Norquist (Linda Cardellini), National Security Agency senior analyst, analyzes this incident with the upcoming meeting of Russin Defence minister with Russin President Zakarin. She senses something is wrong with the timing of the attack on the US sub and recommends putting eyes and ears on the ground where the meeting is taking place.At the same time, a Navy SEAL team under the command of Lieutenant Bill Beaman (Toby Stephens) is sent in to discreetly observe a Russian naval base, but their mission is swiftly complicated when Martinelli (Zane Holtz), the team's new DM recruit, is rendered unconscious during the HALO drop. When they arrive at the naval base, they witness defense minister Dmitri Durov (Mikhail Gorevoy) conducting a coup and taking Russian President Zakarin (Alexander Diachenko) prisoner, and swiftly realize that Durov intends to trigger a war.Meanwhile, the Arkansas discovers the lost U.S. submarine (due to a torpedo attack), and also finds a sunken Russian submarine damaged in a manner that suggests internal sabotage rather than external attack. They are attacked by another Russian submarine that has been hiding under an iceberg, but Glass is able to destroy the ambush person and rescue Russian survivors from the wreck, including submarine captain Sergei Andropov (Michael Nyqvist).Back at base, the U.S. government learns about the coup. Admiral Charles Donnegan (Gary Oldman) recommends preparing for war, while Fisk (under advisement from Jayne that US is dealing with only a rouge general and the entire Russian military and hence deploying the fleet might play into Durov's hand by forcing a war) suggests that the Arkansas be sent to rendezvous with Beaman's team after they have rescued Zakarin. Glass manages to convince the reluctant Andropov to help, and with Andropov's knowledge of the minefield around the base, Glass navigates the Arkansas near the base undetected. Meanwhile, Beaman's team infiltrate the base and succeed in retrieving President Zakarin, but lose two teammates in the process. He delivers the injured president to the Arkansas's DSRV, then goes back alone for Martinelli, whom he was forced to leave behind due to prior injuries.As U.S. and Russian fleets face off for battle, the Arkansas sustains further damage when they are attacked by Andropov's old ship - a heavily armed destroyer now commanded by Sutrev (Ilia Volok), a member of Durov's conspiracy - but Andropov is able to communicate a message affirming that President Zakarin is aboard the submarine. When Durov orders his forces at the base to fire missiles at the surfaced Arkansas, Glass refuses to take action, recognizing that firing back at the Russians could start the war he is trying to stop. In the last seconds, Andropov's old crew-mates defy orders and destroy the incoming missiles with CIWS before they can strike the Arkansas, and subsequently destroy Durov's naval base headquarters with their missiles. With the war averted, Glass docks the Arkansas to the Russian naval base to return Zakarin and Andropov's surviving crew to their country. Glass and Andropov bid farewell and confirm their respect for each other. Beaman returns with an injured Martinelli, and the Arkansas crew travels to the U.S."
+}

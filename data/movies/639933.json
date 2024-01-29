@@ -1,0 +1,963 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/xOMLQ0NypqxlEge75I7prBRvRbc.jpg",
+  "id": 639933,
+  "title": "The Northman",
+  "poster_path": "https://image.tmdb.org/t/p/w500/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+  "release_date": "2022-04-07",
+  "vote_average": 7.1,
+  "vote_count": 3855,
+  "popularity": 61.538,
+  "overview": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+  "imdb_id": "tt11138512",
+  "budget": 80000000,
+  "homepage": "https://www.focusfeatures.com/the-northman",
+  "revenue": 69633110,
+  "runtime": 137,
+  "tagline": "Conquer your fate.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Focus Features",
+    "Regency Enterprises",
+    "Perfect World Pictures",
+    "New Regency Pictures",
+    "Square Peg"
+  ],
+  "production_countries": [
+    "CN",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Alexander Skarsgård",
+        "character": "Amleth"
+      },
+      {
+        "name": "Nicole Kidman",
+        "character": "Queen Gudrún"
+      },
+      {
+        "name": "Claes Bang",
+        "character": "Fjölnir the Brotherless"
+      },
+      {
+        "name": "Anya Taylor-Joy",
+        "character": "Olga of the Birch Forest"
+      },
+      {
+        "name": "Ethan Hawke",
+        "character": "King Aurvandil War-Raven"
+      },
+      {
+        "name": "Gustav Lindh",
+        "character": "Thórir the Proud"
+      },
+      {
+        "name": "Elliott Rose",
+        "character": "Gunnar"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Heimir the Fool"
+      },
+      {
+        "name": "Phill Martin",
+        "character": "Hallgrímr Half-Troll"
+      },
+      {
+        "name": "Eldar Skar",
+        "character": "Finnr the Nose-Stub"
+      },
+      {
+        "name": "Olwen Fouéré",
+        "character": "Áshildur Hofgythja"
+      },
+      {
+        "name": "Edgar Abram",
+        "character": "Hersveinn Battle-Hard"
+      },
+      {
+        "name": "Jack Gassmann",
+        "character": "Hjalti Battle Hasty"
+      },
+      {
+        "name": "Ingvar E. Sigurðsson",
+        "character": "He-Witch"
+      },
+      {
+        "name": "Oscar Novak",
+        "character": "Young Amleth"
+      },
+      {
+        "name": "Jack Walsh",
+        "character": "Hallur Freymundur"
+      },
+      {
+        "name": "Björk",
+        "character": "Seeress"
+      },
+      {
+        "name": "Ian Whyte",
+        "character": "The Mound Dweller"
+      },
+      {
+        "name": "Katie Pattinson",
+        "character": "Shield Maiden"
+      },
+      {
+        "name": "Andrea O’Neill",
+        "character": "Helga the Nanny"
+      },
+      {
+        "name": "Rebecca Ineson",
+        "character": "Halla the Maiden"
+      },
+      {
+        "name": "Kate Dickie",
+        "character": "Halldóra the Pict"
+      },
+      {
+        "name": "Ísadóra Bjarkardóttir Barney",
+        "character": "Melkorka"
+      },
+      {
+        "name": "Kevin Horsham",
+        "character": "Völundur the Smith"
+      },
+      {
+        "name": "Seamus O'Hara",
+        "character": "Audunn the Irish"
+      },
+      {
+        "name": "Scott Sinclair",
+        "character": "Grímr Skull-Hammer"
+      },
+      {
+        "name": "Tadhg Murphy",
+        "character": "Eiríkr Blaze-Eye"
+      },
+      {
+        "name": "James Yates",
+        "character": "Hrólfur Split-Lip"
+      },
+      {
+        "name": "Hafþór Júlíus Björnsson",
+        "character": "Thórfinnr Tooth-Gnasher"
+      },
+      {
+        "name": "Ian Gerard Whyte",
+        "character": "Thórvaldr Giant-Crusher"
+      },
+      {
+        "name": "Ralph Ineson",
+        "character": "Captain Volodymyr"
+      },
+      {
+        "name": "Murray McArthur",
+        "character": "Hákon Iron-Beard"
+      },
+      {
+        "name": "Nille Glæsel",
+        "character": "Gunnhildr Ship-Breasted"
+      },
+      {
+        "name": "Jonas Lorentzen",
+        "character": "Eysteinn"
+      },
+      {
+        "name": "Magne Osnes",
+        "character": "Berserker Priest"
+      },
+      {
+        "name": "Ineta Sliuzaite",
+        "character": "Valkyrja"
+      },
+      {
+        "name": "Finn Lafferty",
+        "character": "Fisherman’s Son"
+      },
+      {
+        "name": "Jon Campling",
+        "character": "Standard Bearer"
+      },
+      {
+        "name": "Helen Roche",
+        "character": "Hofgythja"
+      },
+      {
+        "name": "Faoileann Cunningham",
+        "character": "Kormlöth"
+      },
+      {
+        "name": "Gareth Parker",
+        "character": "The Hird Officer"
+      },
+      {
+        "name": "Mark Fitzgerald",
+        "character": "Hallucinating Guard"
+      },
+      {
+        "name": "Gavin Peden",
+        "character": "Burly Guard"
+      },
+      {
+        "name": "Joel Hicks",
+        "character": "Fengr Shield-Biter"
+      },
+      {
+        "name": "Chris Finlayson",
+        "character": "Grani Battle-Screamer"
+      },
+      {
+        "name": "Eric Higgins",
+        "character": "Ketill the Whale Sided"
+      },
+      {
+        "name": "Matt Symonds",
+        "character": "Ragnar Cold-Mouthed"
+      },
+      {
+        "name": "Luca Evans",
+        "character": "Ivan"
+      },
+      {
+        "name": "James Harper-Jones",
+        "character": "Vasill"
+      },
+      {
+        "name": "Thomas Harper-Jones",
+        "character": "Stanislav"
+      },
+      {
+        "name": "Sheila Fitton",
+        "character": "Lyudmila"
+      },
+      {
+        "name": "Lily Bird",
+        "character": "The Maiden King"
+      },
+      {
+        "name": "Sunil Beniwal",
+        "character": "Jacky (uncredited)"
+      },
+      {
+        "name": "Michael McGeown",
+        "character": "Rower (uncredited)"
+      },
+      {
+        "name": "Peter Vamos",
+        "character": "Slav Villager (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Arnon Milchan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mark Huffam",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "James Boyle",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Stuart Clark",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Sam Conway",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Sam Conway",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "James Harrison",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Robert Cowper",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Paul Ghirardani",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Michael Schaefer",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Alexander Skarsgård",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Alexander Skarsgård",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Alex Boyd",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Jón Viðar Arnþórsson",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Sjón",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Lars Knudsen",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert Eggers",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Robert Eggers",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert Eggers",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Thomas Benski",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Russell Balogh",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Craig Lathrop",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Niamh Coulter",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "C.C. Smiff",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Pancho Chamorro",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Jarin Blaschke",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Polly McKay",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Damian Volpe",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Paul Cotterell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Angela Barson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Mark Taylor",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Louise Ford",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Chris Plevin",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "John Marzano",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Emma Britton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Maralyn Sherman",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Maralyn Sherman",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Steve Little",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Kyra Panchenko",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Justin Cornish",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Brooke Lyndon-Stanford",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "name": "Beverley Crockard",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Aidan Monaghan",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Paolo Buzzetti",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Wendy Garfinkle",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Linda Muir",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Hauke Richter",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Rebecca West",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Darren Holland",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "John Merry",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Kharmel Cochrane",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Kharmel Cochrane",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "name": "Leifur B. Dagfinnsson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Carla Stronge",
+        "department": "Production",
+        "job": "Location Casting"
+      },
+      {
+        "name": "Claudio Del Gobbo",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Archie Campbell-Baldwin",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Sharon Watson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Francesca Cingolani",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Giulia Patanè",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Kevin Penney",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Kevin Penney",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "Daren Bailey",
+        "department": "Crew",
+        "job": "Marine Coordinator"
+      },
+      {
+        "name": "Catherine McNally",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Ashley Bond",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Robyn Wheeler",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Carlo Milillo",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "name": "Stephanie Kennedy",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Ian McGurrell",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jordan Coombes",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nichola Kerr",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Sam Eggers",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Christine McDonagh",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Ben Burt",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Oana Ene",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Elizabeth Donker Curtius",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chey Anich",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Darron Costello",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Martin White",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Greg Baldock",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Stewart David Hawthorne",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jessica Hooker",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Yariv Milchan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lemuel Black",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Waite",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Adam Basil",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Anna Stephenson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Phil Arntz",
+        "department": "Camera",
+        "job": "Aerial Camera"
+      },
+      {
+        "name": "Michael Hooley",
+        "department": "Production",
+        "job": "Location Casting"
+      },
+      {
+        "name": "Mark Slaughter",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Louise Cassettari",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Michael Eaton",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Sam Hanson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Therese Friel",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Chris McCormick",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Mylan Stepanovich",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Mylan Stepanovich",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "James Harris",
+        "department": "Directing",
+        "job": "Assistant Director Trainee"
+      },
+      {
+        "name": "Paul Moran",
+        "department": "Directing",
+        "job": "Assistant Director Trainee"
+      },
+      {
+        "name": "Darren Sutton",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Jack Longmate",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Ana McKillop",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Ramon Álvarez",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Donal O'Shea",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Stuart Flynn",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Donavan Gallagher",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "David Littlejohns",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Gavin Mckay",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "name": "Seamus Sharkey",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Samantha Corr",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Ryan Marshall",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Tom Boardman",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Nikki Chamberlin",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Megan Donnelly",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "name": "Sophie Donnelly",
+        "department": "Production",
+        "job": "Production Runner"
+      },
+      {
+        "name": "Rebecca Dougan",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Kathrine Fail",
+        "department": "Production",
+        "job": "Travel Coordinator"
+      },
+      {
+        "name": "Mark D. Houston",
+        "department": "Production",
+        "job": "Post Production Accountant"
+      },
+      {
+        "name": "Robyn Houston",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Caoilfhionn Maceoin-Manus",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jakub Malar",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Phillip McGonigle",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Caoimhe McNulty",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Amy Moore",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Marie-Gabrielle Rotie",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Roisin Stevenson",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Sam Fischer",
+        "department": "Editing",
+        "job": "Color Assistant"
+      },
+      {
+        "name": "Sam Murdock",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Sebastian Gainsborough",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Robin Carolan",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Derek Hehir",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Richard Leggett",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michelle O'Loughlin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lucy Fowl",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Matt Crook",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jennie Shea",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      }
+    ]
+  },
+  "keywords": [
+    "father murder",
+    "sword",
+    "prince",
+    "gore",
+    "viking",
+    "iceland",
+    "death of father",
+    "northern ireland",
+    "sword fight",
+    "revenge",
+    "fate",
+    "king",
+    "brutality",
+    "hamlet",
+    "based on myths, legends or folklore",
+    "nordic",
+    "10th century",
+    "viking age",
+    "muscular men",
+    "fantasy",
+    "graphic violence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A young Viking prince is on a quest to avenge his father's murder.",
+    "The Viking Age. With a mind aflame with hate and revenge, Prince Amleth, the wronged son of King Aurvandill War-Raven, heads to cold, windswept Iceland to retrieve what was stolen from him: a father, a mother, and a kingdom. And like a war dog picking up the enemy's scent, brutal Amleth embarks on a murderous quest to find the hateful adversary, whose life is forever woven together with his by the threads of fate. Now, in the name of Valhalla, no one can stop the Northman, not even God.—Nick Riganas"
+  ],
+  "synopsis": "In AD 895, King Aurvandill returns to the island of Hrafnsey after his overseas conquests, reuniting with his wife, Queen Gudrún, and his heir, Prince Amleth. To prepare Amleth for his eventual ascension, the two participate in a spiritual ceremony overseen by Aurvandill's jester, Heimir. The next morning, Aurvandill's bastard brother Fjölnir murders the king, raids his hillfort and carries away Gudrún. Amleth flees by boat swearing vengeance.Years later, Amleth lives as a berserker with a band of Vikings. After an attack in Gardariki, Amleth encounters a Seeress in the temple of Svetovit; the Seeress predicts that Amleth will soon take revenge on Fjölnir, and that his path is intertwined with a Maiden-King. Amleth learns that Fjölnir was overthrown by Harald of Norway and lives in exile in Iceland. Posing as a slave, Amleth sneaks aboard a ship. He encounters a Slavic woman named Olga, who claims to be a sorceress. They are taken to Fjölnir's farm, where he learns his mother has married and bore a son named Gunnar with Fjölnir.One night, Amleth encounters a He-witch, who facilitates a spiritual dialogue between Amleth and the late Heimir, revealed to have been murdered by Fjölnir. He then tells Amleth about Draugr, a magical sword at the Gates of Hel. Amleth enters a mound and obtains the blade after fighting the undead Mound Dweller. The next day, Amleth is selected to compete in a game of knattleikr against another farm. The game turns violent and Gunnar is almost killed, but Amleth saves him. As a reward, Fjölnir's adult son, Thorir, grants him overseer duties and allows him to choose a woman.During the evening celebrations, Amleth and Olga have sex; they promise to overcome Fjölnir together. Amleth kills several of Fjölnir's men, and Olga mixes their food with fly agaric, a potent hallucinogen. The ensuing chaos allows Amleth to enter Fjölnir's house. He meets his mother who reveals that she was originally taken into slavery, and that Amleth's conception was the result of rape. She reveals that she wanted Aurvandill and Amleth dead; she tries but fails to seduce Amleth. Enraged, Amleth kills Thorir and steals his heart.Gudrún reveals Amleth's true identity to Fjölnir, and calls for him to kill him. Fjölnir threatens to kill Olga, but Amleth offers to trade Olga's life for Thorir's heart. After a severe beating, Amleth is released from his restraints by a flock of ravens. Olga rescues Amleth and the two escape by boat. Amleth has a vision and discovers that Olga is pregnant with twins, one of whom will become the Maiden-King prophesied by the Seeress. Fearing that his children will never be safe, Amleth decides to kill his uncle and jumps overboard, despite Olga's pleas.Back at the farm, Amleth frees the slaves and kills most of Fjölnir's men. While searching for Fjölnir, Amleth is attacked by his mother and drives Draugr through her heart. Gunnar attacks Amleth, stabbing him repeatedly in the back before Amleth kills him. Fjölnir, discovering his wife and son dead, tells Amleth to meet him at the Gates of Hell-the crater of the volcano Hekla-to resolve the conflict via holmgang. At the volcano, Amleth and Fjölnir engage in a fierce swordfight; Fjölnir is decapitated, and Amleth is fatally wounded. As Amleth lies dying, he has a future vision of Olga embracing their twin children, before a valkyrie appears to carry him through the gates of Valhalla."
+}

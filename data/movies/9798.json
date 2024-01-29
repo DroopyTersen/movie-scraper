@@ -1,0 +1,985 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/vBnXMNsQA4DMWli2GR5oiAse7Qk.jpg",
+  "id": 9798,
+  "title": "Enemy of the State",
+  "poster_path": "https://image.tmdb.org/t/p/w500/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg",
+  "release_date": "1998-11-20",
+  "vote_average": 7.027,
+  "vote_count": 3592,
+  "popularity": 25.84,
+  "overview": "When the videotape of the murder of a congressman unknowingly ends up in the hands of labor lawyer and dedicated family man Robert Clayton Dean, he is framed for the murder. With the help of the mysterious Brill, Dean attempts to throw the NSA off his trail and prove his innocence.",
+  "imdb_id": "tt0120660",
+  "budget": 90000000,
+  "homepage": "",
+  "revenue": 250649836,
+  "runtime": 132,
+  "tagline": "It's not paranoia if they're really after you.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Touchstone Pictures",
+    "Jerry Bruckheimer Films",
+    "Don Simpson/Jerry Bruckheimer Films",
+    "Scott Free Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Will Smith",
+        "character": "Robert Clayton Dean"
+      },
+      {
+        "name": "Gene Hackman",
+        "character": "Brill"
+      },
+      {
+        "name": "Jon Voight",
+        "character": "Reynolds"
+      },
+      {
+        "name": "Regina King",
+        "character": "Carla Dean"
+      },
+      {
+        "name": "Loren Dean",
+        "character": "Hicks"
+      },
+      {
+        "name": "Jake Busey",
+        "character": "Krug"
+      },
+      {
+        "name": "Barry Pepper",
+        "character": "Pratt"
+      },
+      {
+        "name": "Jason Lee",
+        "character": "Daniel Zavitz"
+      },
+      {
+        "name": "Gabriel Byrne",
+        "character": "'Brill'"
+      },
+      {
+        "name": "Lisa Bonet",
+        "character": "Rachel Banks"
+      },
+      {
+        "name": "Stuart Wilson",
+        "character": "Congressman Albert"
+      },
+      {
+        "name": "Laura Cayouette",
+        "character": "Christa Hawkins"
+      },
+      {
+        "name": "Ian Hart",
+        "character": "Bingham"
+      },
+      {
+        "name": "Scott Caan",
+        "character": "Jones"
+      },
+      {
+        "name": "James Le Gros",
+        "character": "Jerry Miller"
+      },
+      {
+        "name": "Dan Butler",
+        "character": "Shaffer"
+      },
+      {
+        "name": "Jack Black",
+        "character": "Fiedler"
+      },
+      {
+        "name": "Jamie Kennedy",
+        "character": "Jamie"
+      },
+      {
+        "name": "Bodhi Elfman",
+        "character": "Van"
+      },
+      {
+        "name": "Jacob Chambers",
+        "character": "Davis"
+      },
+      {
+        "name": "Alexandra Balahoutis",
+        "character": "Martha"
+      },
+      {
+        "name": "Anna Gunn",
+        "character": "Emily Reynolds"
+      },
+      {
+        "name": "Jascha Washington",
+        "character": "Eric Dean"
+      },
+      {
+        "name": "Rebeca Silva",
+        "character": "Marie the Nanny"
+      },
+      {
+        "name": "Bobby Boriello",
+        "character": "Dylan"
+      },
+      {
+        "name": "Carl Mergenthaler",
+        "character": "Mike (Law Firm)"
+      },
+      {
+        "name": "Mattias Kraemer",
+        "character": "Gas Station Cashier"
+      },
+      {
+        "name": "Lillo Brancato",
+        "character": "Young Worker"
+      },
+      {
+        "name": "John Capodice",
+        "character": "Older Worker #1"
+      },
+      {
+        "name": "Vic Manni",
+        "character": "Vic (Old Mobster)"
+      },
+      {
+        "name": "T.R. Richards",
+        "character": "Cook"
+      },
+      {
+        "name": "Ivana Miličević",
+        "character": "Ruby's Sales Clerk"
+      },
+      {
+        "name": "Patsy Grady Abrams",
+        "character": "Accident Bystander"
+      },
+      {
+        "name": "Beatriz Mayoral",
+        "character": "Reynold's Nanny"
+      },
+      {
+        "name": "Kasey Lynn Quinn",
+        "character": "Reynold's Daughter"
+      },
+      {
+        "name": "Elizabeth Berman",
+        "character": "Ruthie"
+      },
+      {
+        "name": "Donna W. Scott",
+        "character": "Jenny"
+      },
+      {
+        "name": "Allison Sie",
+        "character": "Hotel Desk Clerk"
+      },
+      {
+        "name": "Michael Andolini",
+        "character": "Sal"
+      },
+      {
+        "name": "Arthur J. Nascarella",
+        "character": "Frankie"
+      },
+      {
+        "name": "Grant Heslov",
+        "character": "Lenny"
+      },
+      {
+        "name": "John Cenatiempo",
+        "character": "Young Mobster #1"
+      },
+      {
+        "name": "Joyce Flick Wendl",
+        "character": "Waitress"
+      },
+      {
+        "name": "Frank Medrano",
+        "character": "Bartender"
+      },
+      {
+        "name": "Dennis Sean Fahey",
+        "character": "Cop with Ambulance"
+      },
+      {
+        "name": "Albert Wong",
+        "character": "Mr. Wu"
+      },
+      {
+        "name": "Christopher Lawrence",
+        "character": "Paramedic"
+      },
+      {
+        "name": "John Haynes Walker",
+        "character": "Fireman #1"
+      },
+      {
+        "name": "Joseph Patrick Kelly",
+        "character": "Fireman #2"
+      },
+      {
+        "name": "Lennox Brown",
+        "character": "Tunnel Maintenance Worker"
+      },
+      {
+        "name": "Martin Bosworth",
+        "character": "Bike Messenger"
+      },
+      {
+        "name": "Nancy Yee",
+        "character": "Mrs. Wu"
+      },
+      {
+        "name": "Troy A. Cephers",
+        "character": "ANA Hotel Security"
+      },
+      {
+        "name": "Carlos Gómez",
+        "character": "FBI Agent"
+      },
+      {
+        "name": "Robert Gersicoff",
+        "character": "FBI Agent"
+      },
+      {
+        "name": "Arnie Alpert",
+        "character": "FBI Agent"
+      },
+      {
+        "name": "Greg Collins",
+        "character": "FBI Supervisor"
+      },
+      {
+        "name": "Doug Roberts",
+        "character": "Hijacked Car Driver"
+      },
+      {
+        "name": "Larry King",
+        "character": "Larry King"
+      },
+      {
+        "name": "Warren Olney",
+        "character": "TV Anchor #1"
+      },
+      {
+        "name": "Penny Griego",
+        "character": "TV Anchor #2"
+      },
+      {
+        "name": "Eric Keung",
+        "character": "Mambo Kitchen Worker #1"
+      },
+      {
+        "name": "David Han",
+        "character": "Mambo Kitchen Worker #2"
+      },
+      {
+        "name": "Mandy Kriss",
+        "character": "Reporter #1"
+      },
+      {
+        "name": "Noel Werking",
+        "character": "Reporter #2"
+      },
+      {
+        "name": "Sam De Crispino",
+        "character": "Reporter #3"
+      },
+      {
+        "name": "Wayne A. Larrivey",
+        "character": "Doorman"
+      },
+      {
+        "name": "Rhonda Overby",
+        "character": "Field Reporter #1"
+      },
+      {
+        "name": "Lillie Shaw Hamer",
+        "character": "Field Reporter #2"
+      },
+      {
+        "name": "Brenna McDonough",
+        "character": "Field Reporter #3"
+      },
+      {
+        "name": "Callison Slater",
+        "character": "Child #1"
+      },
+      {
+        "name": "Colin Brodie",
+        "character": "Child #2"
+      },
+      {
+        "name": "Daniel Cano",
+        "character": "Hallway Lawyer"
+      },
+      {
+        "name": "Joy Ehrlich",
+        "character": "Mom In Diner"
+      },
+      {
+        "name": "Eric Olson",
+        "character": "Aide #1"
+      },
+      {
+        "name": "Marcus Troy",
+        "character": "Aide #2"
+      },
+      {
+        "name": "Adam Karkowsky",
+        "character": "Aide #3"
+      },
+      {
+        "name": "Steve Uhrig",
+        "character": "Electronics Store Employee"
+      },
+      {
+        "name": "Robyn Killian",
+        "character": "Model #1"
+      },
+      {
+        "name": "Laura Eizenia Wood",
+        "character": "Model #2"
+      },
+      {
+        "name": "Angelica Pamintuan",
+        "character": "Model #3"
+      },
+      {
+        "name": "Vené L. Arcoraci",
+        "character": "Model #4"
+      },
+      {
+        "name": "Charlie Curtis",
+        "character": "Model #5"
+      },
+      {
+        "name": "Raichle Watt",
+        "character": "Becky"
+      },
+      {
+        "name": "Michael James Walker",
+        "character": "Union Official"
+      },
+      {
+        "name": "Jackilyn Ward",
+        "character": "Pintero's Sister"
+      },
+      {
+        "name": "Jason Welch",
+        "character": "Pintero Kid #1"
+      },
+      {
+        "name": "Joshua Ward",
+        "character": "Pintero Kid #2"
+      },
+      {
+        "name": "Pete Sutton",
+        "character": "Dean House Cop"
+      },
+      {
+        "name": "Tom Quinn",
+        "character": "Tunnel Technician"
+      },
+      {
+        "name": "Robert O'Rourke",
+        "character": "FBI Observer #1"
+      },
+      {
+        "name": "John Allendorfer",
+        "character": "FBI Observer #2"
+      },
+      {
+        "name": "Henry Sandler",
+        "character": "FBI Observer #3"
+      },
+      {
+        "name": "Chris Holt",
+        "character": "Chris Holt"
+      },
+      {
+        "name": "Andre Blair",
+        "character": "Stand-In for Mr. Smith"
+      },
+      {
+        "name": "Greg Goossen",
+        "character": "Stand-In for Mr. Hackman"
+      },
+      {
+        "name": "Seth Green",
+        "character": "Selby (uncredited)"
+      },
+      {
+        "name": "Tom Sizemore",
+        "character": "Boss Paulie Pintero (uncredited)"
+      },
+      {
+        "name": "Brian Markinson",
+        "character": "Brian Blake (uncredited)"
+      },
+      {
+        "name": "Philip Baker Hall",
+        "character": "Mark Silverberg (uncredited)"
+      },
+      {
+        "name": "Jason Robards",
+        "character": "Congressman Phillip Hammersley (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jerry Bruckheimer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Eric McLeod",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Chad Oman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Pat Sandston",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Chris Lebenzon",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Victoria Thomas",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "James J. Murakami",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Trevor Rabin",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Tony Scott",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Donald B. Woodruff",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Marlene Stewart",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "James W. Skotchdopole",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Benjamín Fernández",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Bob Badami",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Harry Gregson-Williams",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Michael Papajohn",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Garrett Lewis",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Erik Stabenau",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dan Mindel",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "David Marconi",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Greg P. Russell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Kane Hodder",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Patrick M. Sullivan",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Jeffrey J. Dashnaw",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Henry Kingi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christopher Lawrence",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Joe Bucaro III",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Claudio Miranda",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Pete Antico",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William B. Kaplan",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Earl Sampson",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Pierce Austin",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Andrew Z. Davis",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Johnny Martin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Artist W. Robinson",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Jason Sweers",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Alan Oliney",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Felipe Savahge",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chuck Zito",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jimmy N. Roberts",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Charlie Picerni",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Francisco X. Pérez",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Devon Jenkin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Phil Adams",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary McLarty",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Troy Brown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Doc Duhame",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Bob Brown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Cheryl Lawson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeff Imada",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dan Bell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Justin De Rosa",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John C. Meier",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Billy D. Lucas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eddie Perez",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brett A. Jones",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Victor Paul",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Elle Alexander",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Julie Pitkanen",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "George Watters II",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Kevin O’Connell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jennifer A. Davis",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Gabriela Gutentag",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Paul A. Edwards",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Steve Picerni",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Janice Polley",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Laini Thompson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Michael Papac",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Chuck Picerni Jr.",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Jill Brown",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sandy Berumen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Pat Romano",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael Meinardus",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Manny Perry",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Carnel",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Santosusso",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kathy Nelson",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Rex Reddick",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Linda R. Chen",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Ellen Wong",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Shane Dixon",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dino Ganziano",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Al Goto",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael Endoso",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kenny Endoso",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sammy Maloof",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bob Arnold",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tom Bergman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jack Carpenter",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christopher J. Tuck",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Frederic Roth",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Janet Brady",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "J. Michael Popovich",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Richie Gaona",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Tamburro",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Thomas J. O'Connell",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Randolph LeRoi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Agalsoff Jr.",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Philip Romano",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Paul V. Picerni Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Anna Greene",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "B.L. Richmond",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "helicopter",
+    "washington dc, usa",
+    "corruption",
+    "espionage",
+    "politics",
+    "identity",
+    "falsely accused",
+    "mexican standoff",
+    "baltimore, usa",
+    "wiretap",
+    "satellite",
+    "national security agency (nsa)",
+    "exploding building",
+    "mafia",
+    "conspiracy",
+    "lawyer",
+    "privacy",
+    "surveillance",
+    "voyeur",
+    "secret hideout"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A lawyer becomes targeted by a corrupt politician and his N.S.A. goons when he accidentally receives key evidence to a politically motivated crime.",
+    "Robert Clayton Dean (Will Smith) is a mild-mannered lawyer who works in Washington, D.C. He is on the trail of a kingpin named Paulie Pintero (Tom Sizemore). Meanwhile, a politician named Thomas Brian Reynolds (Jon Voight) is negotiating with Representative Phillip Hammersley (Jason Robards, Jr.) about a new surveillance system with satellites. But, Hammersley declines; Reynolds has Hammersley killed, but the murder is caught on tape, and the taper is chased by Reynolds' team of N.S.A. Agents. The guy must ditch the tape, so he plants it on Dean (unbeknownst to Dean). Then, the N.S.A. decides to get into Dean's life. That is when Dean's life began to fall apart all around him, with his wife and job both gone. Dean wants to find out what is going on. Then, he meets a man named \"Brill\" (Gene Hackman), who tells him that Dean has something that the government wants. Dean and Brill formulate a plan to get Dean's life back and turn the tables on Reynolds.—John Wiggins",
+    "Robert Clayton Dean (Will Smith) is just a successful and gutsy labor lawyer when he runs into an old college friend who was a big hurry. Unbeknownst to him, that friend secretly drops a disc and viewer containing footage of a political assassination overseen by the senior advisor to the National Security Agency. Unfortunately, that politician soon learns what Dean has in his possession and secretly uses the vast resources of the N.S.A. to find, investigate and stop him before he goes public. Soon, Dean finds himself on the run, with his assests frozen, his loved ones watched and actively hunted by N.S.A. Agents using all the survellience technology they have available. Not knowing what is going, Dean must stay one step ahead while trying to figure out the cause of this mess.—Kenneth Chisholm <kchishol@execulink.com>"
+  ],
+  "synopsis": "As the U.S. Congress moves to pass new legislation that dramatically expands the surveillance powers of intelligence agencies, Congressman Phil Hammersley remains firmly opposed to its passage. To ensure the bill's passage, National Security Agency official Thomas Reynolds (Jon Voight) kills Hammersley, but he is unaware of a video camera set up by wildlife researcher Daniel Zavitz that has captured the entire incident.Zavitz discovers the murder, and alerts an underground journalist, at the same time transferring the video to an innocuous computer disc. Reynolds learns of Zavitz's footage and sends a team to recover the video. While fleeing, Zavitz runs into an old college friend, labor lawyer Robert Clayton Dean (Will Smith). Zavitz secretly passes the computer disc into Dean's shopping bag without his knowledge. Zavitz flees and is killed when hit by a fire truck. Reynolds soon has the underground journalist killed.When the NSA discovers that Dean may have the video, a team raids his house and plants surveillance devices. Unable to find the video, the NSA proceeds to falsely implicate Dean of passing classified information to Rachel Banks, a former girlfriend. The subterfuge destroys Dean's life: he is dismissed from his job, his bank accounts are frozen, and his wife throws him out of the house. Trailed by the NSA, Dean meets with Banks, who sets up a meeting with \"Brill\", one of her secret contacts. After meeting an NSA agent posing as Brill, Dean realizes his error, only to have the real Brill, retired NSA agent Edward Lyle (Gene Hackman), ferry him to temporary safety and help rid Dean of most of the tracking devices he is unwittingly carrying. Dean ultimately rids himself of the final device and, fleeing his pursuers, escapes.With Dean and Lyle in hiding, the NSA agents kill Banks and frame Dean for the murder. Lyle is able to find evidence that the NSA executed Hammersley's murder, but it is destroyed during an escape from an NSA raid.It is then revealed that Lyle was an expert in communications for the NSA; he was stationed in Iran before the Iranian Revolution. When the revolution occurred, Lyle made it out of the country, but his partner, Rachel's father, was killed. Since then, he has been in hiding. Lyle tries to coax Dean into trying to run away, but Dean is adamant about clearing his name.Dean and Lyle blackmail another supporter of the surveillance bill, Congressman Sam Albert, by videotaping him having an affair with his aide. Dean and Lyle \"hide\" bugs that Reynolds had used on Dean in Albert's room so Albert will find them and have the NSA start an investigation. Lyle also deposits $140,000 into Reynolds' bank account to make it appear that he is taking bribes.Lyle contacts Reynolds to tell him he has the video of the Hammersley murder and asks to meet. Dean tells them that the Hammersley murder footage is in the hands of Mafia boss Paulie Pintero, whose office is under FBI surveillance. Dean, Reynolds, and the NSA team head into Pintero's restaurant, precipitating a gunfight that kills the mobsters, Reynolds, and several of his NSA team.Dean and Lyle escape, with Lyle quickly disappearing from the authorities. The FBI discovers the plot behind the legislation, causing it to fail, though they cover up the NSA's involvement. Dean is cleared of all charges and is reunited with his wife. Lyle escapes to a tropical location but sends a \"goodbye\" message to Dean."
+}

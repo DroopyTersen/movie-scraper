@@ -1,0 +1,861 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/a2Aj5ksEo2HOUH3FbGyZCtaJM4C.jpg",
+  "id": 3131,
+  "title": "Gangs of New York",
+  "poster_path": "https://image.tmdb.org/t/p/w500/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+  "release_date": "2002-12-14",
+  "vote_average": 7.32,
+  "vote_count": 6248,
+  "popularity": 37.21,
+  "overview": "In 1863, Amsterdam Vallon returns to the Five Points of America to seek vengeance against the psychotic gangland kingpin, Bill the Butcher, who murdered his father years earlier. With an eager pickpocket by his side and a whole new army, Vallon fights his way to seek vengeance on the Butcher and restore peace in the area.",
+  "imdb_id": "tt0217505",
+  "budget": 100000000,
+  "homepage": "https://www.miramax.com/movie/gangs-of-new-york/",
+  "revenue": 193800000,
+  "runtime": 168,
+  "tagline": "America was born in the streets.",
+  "genres": [
+    "Drama",
+    "History",
+    "Crime"
+  ],
+  "production_companies": [
+    "Miramax",
+    "Touchstone Pictures",
+    "Initial Entertainment Group",
+    "Alberto Grimaldi Productions"
+  ],
+  "production_countries": [
+    "IT",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Leonardo DiCaprio",
+        "character": "Amsterdam Vallon"
+      },
+      {
+        "name": "Daniel Day-Lewis",
+        "character": "William \"Bill the Butcher\" Cutting"
+      },
+      {
+        "name": "Cameron Diaz",
+        "character": "Jenny Everdeane"
+      },
+      {
+        "name": "Jim Broadbent",
+        "character": "William \"Boss\" Tweed"
+      },
+      {
+        "name": "John C. Reilly",
+        "character": "Happy Jack Mulraney"
+      },
+      {
+        "name": "Henry Thomas",
+        "character": "Johnny Sirocco"
+      },
+      {
+        "name": "Liam Neeson",
+        "character": "\"Priest\" Vallon"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "Walter \"Monk\" McGinn"
+      },
+      {
+        "name": "Gary Lewis",
+        "character": "McGloin"
+      },
+      {
+        "name": "Stephen Graham",
+        "character": "Shang"
+      },
+      {
+        "name": "Eddie Marsan",
+        "character": "Killoran"
+      },
+      {
+        "name": "Alec McCowen",
+        "character": "Reverend Raleigh"
+      },
+      {
+        "name": "David Hemmings",
+        "character": "Mr. Schermerhorn"
+      },
+      {
+        "name": "Lawrence Gilliard Jr.",
+        "character": "Jimmy Spoils"
+      },
+      {
+        "name": "Cara Seymour",
+        "character": "Hell-Cat Maggie"
+      },
+      {
+        "name": "Roger Ashton-Griffiths",
+        "character": "P.T. Barnum"
+      },
+      {
+        "name": "Peter-Hugo Daly",
+        "character": "One-Armed Priest"
+      },
+      {
+        "name": "Cian McCormack",
+        "character": "Young Amsterdam"
+      },
+      {
+        "name": "Andrew Gallagher",
+        "character": "Young Johnny"
+      },
+      {
+        "name": "Philip Kirk",
+        "character": "O'Connell Guard Leader"
+      },
+      {
+        "name": "Rab Affleck",
+        "character": "Plug Uglies Leader"
+      },
+      {
+        "name": "Bill Barclay",
+        "character": "Shirt Tails Leader"
+      },
+      {
+        "name": "Nick Bartlett",
+        "character": "Chichesters Leader"
+      },
+      {
+        "name": "Robert Goodman",
+        "character": "Forty Thieves Leader"
+      },
+      {
+        "name": "Tim Pigott-Smith",
+        "character": "Calvinist Minister"
+      },
+      {
+        "name": "Liam Carney",
+        "character": "Bill The Butcher's Gang #1"
+      },
+      {
+        "name": "Gary McCormack",
+        "character": "Bill The Butcher's Gang #2"
+      },
+      {
+        "name": "David McBlain",
+        "character": "The Butcher's Gang #3"
+      },
+      {
+        "name": "Dick Holland",
+        "character": "True Blue American Speaker"
+      },
+      {
+        "name": "Katherine Wallach",
+        "character": "Jenny's Girl"
+      },
+      {
+        "name": "Carmen Hanlon",
+        "character": "Jenny's Girl"
+      },
+      {
+        "name": "Ilaria D'Elia",
+        "character": "Jenny's Girl"
+      },
+      {
+        "name": "Laurie Ventry",
+        "character": "Resident Woman"
+      },
+      {
+        "name": "Ford Kiernan",
+        "character": "Black Joke Chief"
+      },
+      {
+        "name": "Alec McMahon",
+        "character": "Resident Man"
+      },
+      {
+        "name": "Nevan Finegan",
+        "character": "Dead Rabbit Gang Member"
+      },
+      {
+        "name": "Dominique Vandenberg",
+        "character": "Dead Rabbit Gang Member"
+      },
+      {
+        "name": "Stuart Yung Sai-Kit",
+        "character": "Chinese at Sparrow's Pagoda"
+      },
+      {
+        "name": "Basil Chung",
+        "character": "Elderly Chinese at Pagoda"
+      },
+      {
+        "name": "Finbar Furey",
+        "character": "Satan's Circus Singer"
+      },
+      {
+        "name": "Sean Gilder",
+        "character": "Rat Pit Game Master"
+      },
+      {
+        "name": "Richard Graham",
+        "character": "Harvey - Card Player"
+      },
+      {
+        "name": "Richard Strange",
+        "character": "Undertaker"
+      },
+      {
+        "name": "Douglas Plasse",
+        "character": "Medical Student"
+      },
+      {
+        "name": "R. Bruce Steinheimer",
+        "character": "Army Recruiter"
+      },
+      {
+        "name": "David Bamber",
+        "character": "Passenger on Omnibus"
+      },
+      {
+        "name": "Barbara Bouchet",
+        "character": "Mrs. Schermerhorn"
+      },
+      {
+        "name": "Michael Byrne",
+        "character": "Horace Greeley"
+      },
+      {
+        "name": "Lucy Davenport",
+        "character": "Miss Schermerhorn"
+      },
+      {
+        "name": "Maura O'Connell",
+        "character": "Street Singer"
+      },
+      {
+        "name": "Alex Howden",
+        "character": "Assistant Hangman"
+      },
+      {
+        "name": "James Ramsay",
+        "character": "Arthur - Condemned Man"
+      },
+      {
+        "name": "Iain McColl",
+        "character": "Seamus - Condemned Man"
+      },
+      {
+        "name": "Louie Brownsell",
+        "character": "Legless Soldier"
+      },
+      {
+        "name": "Gennaro Condemi",
+        "character": "She-He"
+      },
+      {
+        "name": "Kieran Hurley",
+        "character": "Recruiter"
+      },
+      {
+        "name": "John Sessions",
+        "character": "Harry Watkins - Lincoln"
+      },
+      {
+        "name": "Michael Billingsley",
+        "character": "Uncle Tom"
+      },
+      {
+        "name": "Steven Blake",
+        "character": "Mr. Shelby"
+      },
+      {
+        "name": "Giovanni Lombardo Radice",
+        "character": "Mr. Legree"
+      },
+      {
+        "name": "Alexia Murray",
+        "character": "Topsy"
+      },
+      {
+        "name": "Flaminia Fegarotti",
+        "character": "Miss Eliza"
+      },
+      {
+        "name": "Bronco McLoughlin",
+        "character": "Assassin"
+      },
+      {
+        "name": "Channing C. Holmes",
+        "character": "Tap Dancer"
+      },
+      {
+        "name": "Eliane Chappuis",
+        "character": "Chinese Whore"
+      },
+      {
+        "name": "Roberta Quaresima",
+        "character": "Whore #1"
+      },
+      {
+        "name": "Marta Pilato",
+        "character": "Whore #2"
+      },
+      {
+        "name": "Jian Su",
+        "character": "Chinese Acrobat"
+      },
+      {
+        "name": "Man Cao",
+        "character": "Chinese General"
+      },
+      {
+        "name": "Kathy Shao-Lin Lee",
+        "character": "Chinese Dancer"
+      },
+      {
+        "name": "Alexander Deng",
+        "character": "Chinese Boy Singer"
+      },
+      {
+        "name": "Peter Berling",
+        "character": "Knife Act Caller"
+      },
+      {
+        "name": "Patrick Gordon",
+        "character": "Surgeon"
+      },
+      {
+        "name": "Brendan White",
+        "character": "Archbishop"
+      },
+      {
+        "name": "Brendan Dempsey",
+        "character": "Provost Marshal Registrar"
+      },
+      {
+        "name": "Taddeo Harbutt",
+        "character": "Unruly Man"
+      },
+      {
+        "name": "Nazzareno Natale",
+        "character": "Don Whiskerandos"
+      },
+      {
+        "name": "Colin Hill",
+        "character": "Nativist Candidate"
+      },
+      {
+        "name": "Robert Linge",
+        "character": "One-Armed Veteran"
+      },
+      {
+        "name": "Richard Syms",
+        "character": "Drunken Repeater"
+      },
+      {
+        "name": "Christian Burgess",
+        "character": "The Mayor"
+      },
+      {
+        "name": "Gerry Robert Byrne",
+        "character": "Draft Official"
+      },
+      {
+        "name": "David J. Nicholls",
+        "character": "O'Connell Guard Leader"
+      },
+      {
+        "name": "Tim Faraday",
+        "character": "Plug Uglies Leader"
+      },
+      {
+        "name": "Sean McGinley",
+        "character": "Forty Thieves Leader"
+      },
+      {
+        "name": "John Anthony Murphy",
+        "character": "Kerryonians Leader"
+      },
+      {
+        "name": "Terry O'Neill",
+        "character": "Chichesters Leader"
+      },
+      {
+        "name": "Vincent Pickering",
+        "character": "American Guard Leader"
+      },
+      {
+        "name": "Nick Miles",
+        "character": "Atlantic Guard Leader"
+      },
+      {
+        "name": "Ian Pirie",
+        "character": "Slaughter Housers Leader"
+      },
+      {
+        "name": "John McGlynn",
+        "character": "Bowery Boys Leader"
+      },
+      {
+        "name": "Larry Kaplan",
+        "character": "Bloodied Bureaucrat"
+      },
+      {
+        "name": "Leo Burmester",
+        "character": "Telegraph Operator #1 (voice)"
+      },
+      {
+        "name": "Justin Brennan",
+        "character": "Telegraph Operator #2 (voice)"
+      },
+      {
+        "name": "Brian Mallon",
+        "character": "Telegraph Operator #3 (voice)"
+      },
+      {
+        "name": "Joseph P. Reidy",
+        "character": "Police Chief"
+      },
+      {
+        "name": "Joel Strachan",
+        "character": "Telegraph Operator"
+      },
+      {
+        "name": "Bill Murdoch",
+        "character": "Robber on Dock"
+      },
+      {
+        "name": "Angela Pleasence",
+        "character": "Woman Accomplice"
+      },
+      {
+        "name": "Iain Agnew",
+        "character": "General Wool"
+      },
+      {
+        "name": "Michael Hausman",
+        "character": "Gunboat Captain"
+      },
+      {
+        "name": "Bob Colletti",
+        "character": "Soldier in Mist"
+      },
+      {
+        "name": "Martin Scorsese",
+        "character": "Wealthy Homeowner (uncredited)"
+      },
+      {
+        "name": "Trevor Cooper",
+        "character": "Man in Tweed's Office (uncredited)"
+      },
+      {
+        "name": "Massimo Vanni",
+        "character": "Bar Bouncer (uncredited)"
+      },
+      {
+        "name": "Salvatore Billa",
+        "character": "Native (uncredited)"
+      },
+      {
+        "name": "Marcello Fonte",
+        "character": "Citizen (uncredited)"
+      },
+      {
+        "name": "Vincenzo Tanassi",
+        "character": "Fireman (uncredited)"
+      },
+      {
+        "name": "Paolo Lorimer",
+        "character": "Tammany Man (uncredited)"
+      },
+      {
+        "name": "Michele Bevilacqua",
+        "character": "Middle Class Man (uncredited)"
+      },
+      {
+        "name": "Franco Venditti",
+        "character": "Coach (uncredited)"
+      },
+      {
+        "name": "Katy Monique Cuomo",
+        "character": "Tweed's Whore (uncredited)"
+      },
+      {
+        "name": "Pietro Torrisi",
+        "character": "Priest's Gang Member (uncredited)"
+      },
+      {
+        "name": "Corrado Scalia",
+        "character": "Rapist (uncredited)"
+      },
+      {
+        "name": "Loretta Rossi Stuart",
+        "character": "Dead Rabbit Gang Member (uncredited)"
+      },
+      {
+        "name": "Mauro Cremonini",
+        "character": "Internee (uncredited)"
+      },
+      {
+        "name": "Ottaviano Dell'Acqua",
+        "character": "Bill the Butcher's Gang Member (uncredited)"
+      },
+      {
+        "name": "Arnaldo Dell'Acqua",
+        "character": "Bill the Butcher's Gang Member (uncredited)"
+      },
+      {
+        "name": "Alberto Dell'Acqua",
+        "character": "Bill the Butcher's Gang Member (uncredited)"
+      },
+      {
+        "name": "Franco Daddi",
+        "character": "Bill the Butcher's Gang Member (uncredited)"
+      },
+      {
+        "name": "Virgilio Ponti",
+        "character": "Bill the Butcher's Gang Member (uncredited)"
+      },
+      {
+        "name": "Clemente Ukmar",
+        "character": "Priest's Gang Member (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Gerry Robert Byrne",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Howard Shore",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Martin Scorsese",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Bob Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Harvey Weinstein",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Eugene Gearty",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Ellen Lewis",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Steven Zaillian",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Dante Ferretti",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Thelma Schoonmaker",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Michael Ballhaus",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Michael Hausman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jay Cocks",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Jay Cocks",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Stefano Maria Ortolani",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Alberto Grimaldi",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Joseph P. Reidy",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Joseph P. Reidy",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Daniele Massaccesi",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Francesca Lo Schiavo",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Sandy Powell",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Ivan Sharrock",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Kathy Durning",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Vic Armstrong",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Graham King",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Dimitri Capuani",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Maria Teresa Barbasso",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Luca Tranchino",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Colin Vaines",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Kenneth Lonergan",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Maurizio Grimaldi",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Michael Ovitz",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Rick Yorn",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Laura Fattori",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Randi Feinberg",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Michael Jackman",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Barbara Phillips Marco",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Rick Schwartz",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Massimo Vanni",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robbie Robertson",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "name": "Pietro Torrisi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "G. A. Aguilar",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Katia Crispino",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Arnaldo Dell'Acqua",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Philip Stockton",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Patricia Carlin",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Gianluca Petrazzi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tom Fleischman",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Andrew Rowlands",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Jennifer Dunnington",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Mark Mottram",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Alessandro Alberti",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Tass Filipos",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Rachel Griffiths",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Brigitte Lacombe",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Mario Tursi",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Nazzareno Piana",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Dan Perri",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Paolo Antonini",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Clemente Ukmar",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Emiliano Novelli",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Valentina Rossi Stuart",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "rescue",
+    "immigrant",
+    "ship",
+    "fire",
+    "army",
+    "pickpocket",
+    "pig",
+    "irish-american",
+    "gang war",
+    "gang of thieves",
+    "butcher",
+    "gang",
+    "19th century",
+    "american history"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In 1862, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher, his father's killer.",
+    "In the god-forsaken district of early-1860s Lower Manhattan known as the Five Points, the vicious Nativist, Bill \"The Butcher\" Cutting, is the supreme overlord of an area riddled with crime, prostitution, theft and murder, as the American Civil War still rages on. Sixteen whole years after the brutal murder of his father from Bill's blood-stained hands, an orphaned Irish-American, Amsterdam Vallon, returns to this melting pot of corruption to avenge his untimely death; however, a lot has changed since then. Who can remember the once-innocent boy and now a young man bent on revenge, who works his way up to the hierarchy of Five Points? Will Amsterdam ever taste the dangerous but sweet fruit of retribution?—Nick Riganas",
+    "As waves of immigrants swell the population of 1860s New York, lawlessness and corruption thrive in Manhattan's Five Points section. After years of incarceration, young Irish immigrant Amsterdam Vallon returns, seeking revenge against the rival gang leader who killed his father, William Cutting aka 'Bill the Butcher' .",
+    "Having seen his father killed in a major gang fight in New York, young Amsterdam Vallon is spirited away for his own safety. Some years later, he returns to the scene of his father's death, the notorious Five Points district in New York. It's 1863 and lower Manhattan is run by gangs, the most powerful of which is the Natives, headed by Bill \"The Butcher\" Cutting. He believes that America should belong to native-born Americans and opposes the waves of immigrants, mostly Irish, entering the city. It's also the time of the Civil War and forced conscription leads to the worst riots in US history. Amid the violence and corruption, young Vallon tries to establish himself in the area and also seek revenge over his father's death.—garykmcd",
+    "When his father is killed in New York City, Amsterdam Vallon returns in 1863 to hunt down his father's killer, the ruthless, Bill 'The Butcher' Cutting. It's not easy for Amsterdam as gangs roam a corrupt New York City, with Bill Cutting ruling over everyone.—FilmFanUk"
+  ],
+  "synopsis": "In 1846, in Lower Manhattan's Five Points, a territorial war between the \"Natives\" (those born in the United States) and recently arrived Irish Catholic immigrants, is coming to a head in Paradise Square. The Natives are led by \"Bill the Butcher\" Cutting (Daniel Day-Lewis), a Protestant who campaigns for the rights of the natives. The leader of the Irish gang, the Dead Rabbits, is known as \"Priest\" Vallon (Liam Neeson). The gangs meet in a bloody battle, concluding when Bill kills Vallon, which Vallon's son Amsterdam (Cian McCormack) witnesses. Cutting declares the Dead Rabbits outlawed and orders Vallon's body be buried with honor. Amsterdam seizes the knife used to kill his father, races off, and buries it. He is found and taken to the orphanage at Hellgate.In September 1862, Amsterdam (Leonardo DiCaprio) returns to New York. Arriving in Five Points, he reunites with an old friend, Johnny Sirocco (Thomas), who introduces Amsterdam to Bill the Butcher. Amsterdam finds many of his father's old loyalists are now under Bill's control, including Happy Jack Mulraney (Reilly), a corrupt city constable, and McGloin (Lewis), now one of Bill's lieutenants. Amsterdam works his way into Bill's inner circle, and learns that each year, on the anniversary of the Five Points battle (February 16), Bill leads the city in saluting the victory over the Dead Rabbits. He makes plans to kill Bill during this ceremony, in order to exact public revenge. Amsterdam meets Jenny Everdeane (Cameron Diaz), a very successful and discreet pickpocket and grifter, to whom he is attracted. His interest is dampened when he discovers she was once Bill's ward and still enjoys Bill's affections. Amsterdam becomes involved in the semi-criminal empire of Boss Tweed (Broadbent), the leader of Tammany Hall.During a performance of Uncle Tom's Cabin, Amsterdam thwarts an assassination attempt that leaves Bill wounded. Amsterdam realizes he acted more out of honest devotion to Bill than from his own plan of revenge. Both retire to a brothel, where Jenny nurses Bill. Amsterdam confronts Jenny over Bill, and they have an argument that dissolves into lovemaking. Late that night, Amsterdam wakes to find Bill sitting by his bed in a rocking chair, draped in a tattered American flag. Bill says \"Priest\" Vallon was the last enemy he ever fought who was worthy of real respect, and \"Priest\" once beat Bill soundly and then let him live in shame rather than kill him. Bill credits the incident with giving him strength of will and character to return and fight for his own authority. Bill admits he has come to look upon Amsterdam as the son he never had.The evening of the ceremony arrives. Johnny reveals Amsterdam's identity and his plot to kill Bill. During a knife-throwing act involving Jenny, Bill baits Amsterdam when he throws the knife to leave a superficial cut on her throat. Amsterdam throws a knife at Bill, which Bill deflects, and counters with a knife throw of his own, hitting Amsterdam in the abdomen. Bill then repeatedly beats him as the crowd cheers. Bill proclaims he will let Amsterdam live as \"[a] freak, worthy of Barnum's museum of wonders\".\nAfterwards, in hiding, Jenny nurses Amsterdam back to health, and implores him to leave New York. They are visited by \"Monk\" McGinn (Gleeson), who was a mercenary for Vallon in the battle of the Five Points. He gives Amsterdam a straight razor that belonged to Vallon. Amsterdam places a dead rabbit on a fence in Paradise Square. The rabbit finds its way to Bill, who sends Happy Jack to find out who sent the message.Amsterdam ambushes Jack in the catacombs, strangles him, and hangs his body in Paradise Square. In retaliation, Bill has Johnny beaten nearly to death and run through with an iron pike. When McGloin goes to pray at a Catholic church, and sees Amsterdam's friend, Jimmy Spoils (Gilliard), he objects to letting a colored person in the church. Amsterdam and his friends respond by beating McGloin. The Nativists march to the Catholic Church, where the Irish stand on the steps in defense. Bill promises to return when they are ready. \"Boss\" Tweed approaches Amsterdam with a plan to defeat Bill: Tweed will back the candidacy of \"Monk\" McGinn for sheriff in return for the Irish vote. On election day, Bill and Amsterdam force people to the polls, some of them several times, with the result that \"Monk\" wins by more votes than there are voters. Bill confronts \"Monk\", who does not respond to Bill's challenge, suggesting they discuss the matter democratically. Bill then throws a meat cleaver into \"Monk's\" back and kills him with his own shillelagh. During \"Monk's\" funeral, Amsterdam issues a traditional challenge to fight, which Bill accepts.The New York City draft riots break out, and many upper-class citizens and African-Americans are attacked by the rioters. Union soldiers enter the city to put down the riots. As the gangs meet, they are hit by shells from naval ships in the harbor firing directly into Paradise Square. Many are killed, and an enormous cloud of dust and debris covers the area. Union soldiers then fire into the square, killing numerous people, including McGloin. Amsterdam and Bill exchange blows in the haze, then are thrown to the ground by another shell blast. When the smoke clears, Bill discovers he has been hit by a piece of shrapnel. He declares, \"Thank God, I die a true American.\". Amsterdam stabs him, and Bill dies with his hand locked in Amsterdam's.Bill is buried in Brooklyn, in view of the smoke-filled Manhattan skyline, next to the grave of \"Priest\" Vallon. Amsterdam narrates New York would be rebuilt, but they are no longer remembered, as if \"we were never here\". The scene then shifts, as modern New York City is built, from the Brooklyn Bridge to the Empire State Building to the World Trade Center, and the graves of Bill and \"Priest\" gradually deteriorate."
+}

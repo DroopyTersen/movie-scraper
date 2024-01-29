@@ -1,0 +1,926 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/d7JUXVvjvVCXWs1mlpyO5ESdWdT.jpg",
+  "id": 587792,
+  "title": "Palm Springs",
+  "poster_path": "https://image.tmdb.org/t/p/w500/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg",
+  "release_date": "2020-07-10",
+  "vote_average": 7.3,
+  "vote_count": 2814,
+  "popularity": 24.61,
+  "overview": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
+  "imdb_id": "tt9484998",
+  "budget": 5000000,
+  "homepage": "https://www.hulu.com/movie/palm-springs-f70dfd4d-dbfb-46b8-abb3-136c841bba11?",
+  "revenue": 164000,
+  "runtime": 90,
+  "tagline": "Live like there's no tomorrow",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Limelight",
+    "The Lonely Island",
+    "Sun Entertainment Culture Los Angeles"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Andy Samberg",
+        "character": "Nyles"
+      },
+      {
+        "name": "Cristin Milioti",
+        "character": "Sarah"
+      },
+      {
+        "name": "J.K. Simmons",
+        "character": "Roy"
+      },
+      {
+        "name": "Peter Gallagher",
+        "character": "Howard"
+      },
+      {
+        "name": "Meredith Hagner",
+        "character": "Misty"
+      },
+      {
+        "name": "Camila Mendes",
+        "character": "Tala"
+      },
+      {
+        "name": "Tyler Hoechlin",
+        "character": "Abe"
+      },
+      {
+        "name": "Chris Pang",
+        "character": "Trevor"
+      },
+      {
+        "name": "Jacqueline Obradors",
+        "character": "Pia"
+      },
+      {
+        "name": "June Squibb",
+        "character": "Nana Schlieffen"
+      },
+      {
+        "name": "Tongayi Chirisa",
+        "character": "Jerry"
+      },
+      {
+        "name": "Dale Dickey",
+        "character": "Darla"
+      },
+      {
+        "name": "Conner O'Malley",
+        "character": "Randy"
+      },
+      {
+        "name": "Jena Friedman",
+        "character": "Daisy the Bartender"
+      },
+      {
+        "name": "Brian Duffy",
+        "character": "Spuds"
+      },
+      {
+        "name": "Martin Kildare",
+        "character": "Ted the Bartender"
+      },
+      {
+        "name": "Lilli Birdsell",
+        "character": "Jamie"
+      },
+      {
+        "name": "Ryan Sturtz",
+        "character": "Cop"
+      },
+      {
+        "name": "Clifford V. Johnson",
+        "character": "Professor"
+      },
+      {
+        "name": "Calki Garcia",
+        "character": "DJ Nice Height"
+      },
+      {
+        "name": "Michelle Johnston",
+        "character": "Nosy Neighbor"
+      },
+      {
+        "name": "Isla Sellers",
+        "character": "Roy's Daughter"
+      },
+      {
+        "name": "Matt Smith",
+        "character": "Out of Town Dad"
+      },
+      {
+        "name": "Rebecca Smith",
+        "character": "Out of Town Mom"
+      },
+      {
+        "name": "Jake Smith",
+        "character": "Out of Town Older Son"
+      },
+      {
+        "name": "Noah Smith",
+        "character": "Out of Town Younger Son"
+      },
+      {
+        "name": "Rocky Bonifield",
+        "character": "Wedding Guest (uncredited)"
+      },
+      {
+        "name": "Erin Flannery",
+        "character": "Wedding Guest (uncredited)"
+      },
+      {
+        "name": "David Hutchison",
+        "character": "Biker (uncredited)"
+      },
+      {
+        "name": "Mark Kubr",
+        "character": "Biker (uncredited)"
+      },
+      {
+        "name": "David Philip Reed",
+        "character": "Truck Driver (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Andrew Dickler",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Allison Jones",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Matthew Friedman",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Akiva Schaffer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Andy Samberg",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jorma Taccone",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dylan Sellers",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "T.J. White",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Rene Mousseux",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Kubr",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Quyen Tran",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Patrick Cyccone Jr.",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Kevan Tucker",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Peter Kukla",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Cory Milano",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Colin Wilkes",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Stephan Dalyai",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Galaxy San Juan",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Ray Siegle",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Becky Sloviter",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tim Tuchrello",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "Paul Pirola",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "David Hutchison",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tim LeDoux",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Craig Fikse",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Laura Jean Bransky",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Julia Tasker",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Anne Kemmeter",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Kimberley Spiteri",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Robert Chen",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Robert Chen",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Susan Purkhiser",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robert Settlemire",
+        "department": "Camera",
+        "job": "Underwater Director of Photography"
+      },
+      {
+        "name": "Brad McLaughlin",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "name": "Gabriela Revilla Lugo",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Tim Ford",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Chris Carnel",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Henry Kingi Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James Zahnd",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robin Urdang",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Terry James",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Brubaker",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Alexandra Cason",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Adam Pere",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Patricia Vecchio",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Safowa Bright-Asare",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jason Kisvarday",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Kelsi Ephraim",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Mark Webb",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Max Barbakow",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Max Barbakow",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Ben Harris",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Louie Schultz",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Kim Barnard",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Tim James",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Vanessa Portillo",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Jay Golden",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Pete Escobar",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Rene Diamante",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Teresa Aguilera",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Robyn Simms",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Seth Duhame",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jon Wakeham",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Tom Ceglia",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Sandra Waesche",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Emily Buntyn",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Brian Fortune",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Tesa Diaz",
+        "department": "Costume & Make-Up",
+        "job": "Tailor"
+      },
+      {
+        "name": "Kevin Beebe",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Matthew Compton",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Miluette Nalin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chad Bennett",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Corey Askins",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Alicia Pharris",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Chad Persons",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Brendan Hill",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Renni Pollock",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Chelsea Orduno",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Tomohiko Fukuda",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Megan Drayton",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Tom Scott-Toft",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Matthew Berner",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Edward C. Peters",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "S. Dylan Kirkland",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Bill Lynch",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Alex Dong",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ryan Salisbury",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Andy Siara",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Andy Siara",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Marcy Silver",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Ndosi Anyabwile",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Rachael Hranka",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Peggy Yen",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Joseph Suarez",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "name": "Dylan Acio",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Armando Macias",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Chris Parker",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Carlos Lugo",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Jay Schwartz",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Ilyana Eberhardt",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ken Fournier",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jason Tubbs",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "C.J. Barbato",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Jessica Olthof",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Brandi Benkert",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jonas Madden-Connor",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Mike Fisher",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Alex Nawrocki",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Kristin Elshout",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Erin Thiele",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Katie Mamie",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Max Duck",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Fernando Acosta",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Taylor Bentley",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Grant Cdebaca",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Gabriel DeMonte-Finn",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Ellen Nielsen",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Ellie O'Neill",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Kieran Roberts",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Mario Gonzalez",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Chris De La Riva",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Shane Carlson",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Brian Wells",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Chris Willard",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Michael Romano",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Patrick H. McGinness",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Anthony Ceglia",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Karrel Graves",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Bridget Chapman",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Dana Carr",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Catherine Charpentier",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Margo Rombough",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Kirsti Schroder",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Lisa Wax",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Justin Olthof",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Willie Berumen",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Chris Wienckowski",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Sarah Schueler",
+        "department": "Crew",
+        "job": "Picture Car Coordinator"
+      },
+      {
+        "name": "Cory Hart",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Scenery Samundra",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Jack Van Nuis",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Nicholas Daniels",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Daniel Dupre",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Andrew Kalicki",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Jasper M. Baltzersen",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Joshua Bailor",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Joshua Little",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Sam Winkler",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      }
+    ]
+  },
+  "keywords": [
+    "alcohol",
+    "cave",
+    "time travel",
+    "earthquake",
+    "swimming pool",
+    "drug use",
+    "palm springs",
+    "time loop",
+    "nemesis",
+    "wedding",
+    "maid of honor",
+    "carefree",
+    "older sister",
+    "groundhog day",
+    "stuck",
+    "sister's wedding",
+    "chance encounter"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Stuck in a time loop, two wedding guests develop a budding romance while living the same day over and over again.",
+    "While stuck at a wedding in Palm Springs, Nyles (Andy Samberg) meets Sarah (Cristin Milioti), the maid of honor and family black sheep. After he rescues her from a disastrous toast, Sarah becomes drawn to Nyles and his offbeat nihilism. But when their impromptu tryst is thwarted by a surreal interruption, Sarah must join Nyles in embracing the idea that nothing really matters, and they begin wreaking spirited havoc on the wedding celebration.",
+    "Trapped in a perpetual time loop, Nyles has been living the same day over and over again for a very long time. Against the backdrop of sunny Palm Springs, Nyles must wake up with a woman he doesn't much like, relive the wedding day of Tala and Abe, and prevent gloomy Sarah, the bride's chronically bored sister, from making a humbling, booze-addled mistake. However, how do you spend eternity reliving a day you would rather forget?—Nick Riganas"
+  ],
+  "synopsis": "On November 9, Nyles wakes up next to his girlfriend Misty on the wedding day of Tala and Abe. At the reception, he delivers a seemingly impromptu speech, to the relief of Tala's sister, the drunk and unprepared maid-of-honor Sarah. Nyles and Sarah bond and, after discovering Misty cheating on Nyles, are about to have sex when Nyles is abruptly shot in the shoulder with an arrow by an older man named Roy. Wounded, he crawls toward a mysterious amber light in a nearby cave, warning Sarah not to follow. Sarah, curious, is sucked into a vortex in the cave.Sarah wakes up, again, on November 9. After she confronts Nyles, he explains that she has become stuck in the same time loop as him. Sarah unsuccessfully attempts many escape methods, such as driving back to her hometown or suicide. Nyles and Sarah spend many days together, often relaxing in the pool of a nearby home whose occupants are away on vacation. Nyles reveals that Roy is a family man who lives in Irvine, whom Nyles also trapped in the time loop. A flashback shows how Nyles and Roy meet, party, and do drugs, which they get from Trevor; Roy wishes that the night would never end, and an inebriated Nyles introduces him to the cave. Roy, unaware of the time loop, goes in. Nyles explains to Sarah that Roy blames him for getting stuck in the time loop and occasionally comes to Palm Springs to hunt Nyles for revenge.After many more loops, Nyles and Sarah camp out in the desert, where they hallucinate about dinosaurs, and eventually have sex. The next day, it is revealed that Sarah has been waking up in Abe's room having spent the nights of November 8 with him, and he advises her to leave before she's seen. A guilt-ridden Sarah refuses to talk to Nyles about their previous night, expressing that everything they do is meaningless. They are pulled over by a police officer, who turns out to be Roy. Sarah runs into Roy in his police car, and after an argument, Nyles admits that he had sex with Sarah numerous times before she entered the time loop, something that he had lied about before. A disgusted Sarah runs in front of an oncoming truck, killing herself and restarting the day.After the next reset, Nyles goes looking for Sarah to apologize, but he cannot find her. Lying in Abe's bed while the groomsmen take drugs, Nyles smells Sarah's hair mist on his pillow and realizes that Sarah and Abe had sex the night before the wedding. He confronts Abe during the wedding, and a fight breaks out between Nyles and Abe. Multiple resets later, Nyles realizes that he loves Sarah. He travels to Irvine to talk to Roy, who has given up on killing Nyles. Roy explains that his life is perfect but also imperfect, as he lives in the perfect day forever, but will never get to see the future or his children grow up. Roy says that they should never speak again, and Nyles asks Roy to murder him one last time to jump-start the \"reset\".The time loops where Sarah was gone are then shown, Sarah confronts Abe over their affair, and both express their regret and remorse. Sarah then resolves to escape the time loop, spending many days in a diner studying quantum physics, general relativity, talking with professors, and finally coming to a solution. She tests her theory by sending a goat into the cave with explosives. In the next reset, the goat has disappeared. Sarah wakes Nyles up and tells him she believes she knows how to escape the time loop by blowing themselves up in the cave before they restart the day. Nyles admits he loves Sarah but wants to stay in the time loop forever, where he knows how everything will work precisely. She leaves him in the room alone, and a frustrated Nyles breaks up with Misty.Sarah attends the wedding, gives a heartfelt speech for Tala, makes a phone call, and goes to the cave with explosives. Drinking alone in a bar, Nyles decides to leave with her and rushes to the cave, professing he would rather die with her than remain in the loop alone. Sarah reciprocates his feelings, and they kiss while she presses the detonator. It then cuts to Nyles and Sarah again lounging in the vacant pool when the house owners show up, revealing it is November 10, and the plan worked.In a mid-credits scene, Roy approaches Nyles at the wedding, asking about Sarah's plan to escape the loop. When Nyles does not recognize Roy, Roy realizes the plan has worked and smiles."
+}

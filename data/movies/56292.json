@@ -1,0 +1,959 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ih4lZkUpmSE7AP3maymiO72xJ1z.jpg",
+  "id": 56292,
+  "title": "Mission: Impossible - Ghost Protocol",
+  "poster_path": "https://image.tmdb.org/t/p/w500/psiWp3VTjznfokmGQG9uqiiknQQ.jpg",
+  "release_date": "2011-12-07",
+  "vote_average": 7.076,
+  "vote_count": 9428,
+  "popularity": 70.969,
+  "overview": "Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster.",
+  "imdb_id": "tt1229238",
+  "budget": 145000000,
+  "homepage": "",
+  "revenue": 694700000,
+  "runtime": 133,
+  "tagline": "No plan. No backup. No choice.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Bad Robot",
+    "TC Productions",
+    "Skydance Media"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Cruise",
+        "character": "Ethan Hunt"
+      },
+      {
+        "name": "Paula Patton",
+        "character": "Jane Carter"
+      },
+      {
+        "name": "Simon Pegg",
+        "character": "Benjamin 'Benji' Dunn"
+      },
+      {
+        "name": "Jeremy Renner",
+        "character": "William Brandt"
+      },
+      {
+        "name": "Michael Nyqvist",
+        "character": "Kurt Hendricks"
+      },
+      {
+        "name": "Vladimir Mashkov",
+        "character": "Anatoly Sidorov"
+      },
+      {
+        "name": "Samuli Edelmann",
+        "character": "Marius Wistrom"
+      },
+      {
+        "name": "Ivan Shvedoff",
+        "character": "Leonid Lisenker"
+      },
+      {
+        "name": "Anil Kapoor",
+        "character": "Brij Nath"
+      },
+      {
+        "name": "Léa Seydoux",
+        "character": "Sabine Moreau"
+      },
+      {
+        "name": "Josh Holloway",
+        "character": "Trevor Hanaway"
+      },
+      {
+        "name": "Pavel Kříž",
+        "character": "Marek Stefanski"
+      },
+      {
+        "name": "Miraj Grbić",
+        "character": "Bogdan"
+      },
+      {
+        "name": "Ilia Volok",
+        "character": "Fog"
+      },
+      {
+        "name": "Goran Navojec",
+        "character": "Burly Russian Prisoner"
+      },
+      {
+        "name": "Pavel Bezděk",
+        "character": "Prison Guard"
+      },
+      {
+        "name": "Ladislav Beran",
+        "character": "Control Room Guard"
+      },
+      {
+        "name": "Jan Filipenský",
+        "character": "Control Room Guard"
+      },
+      {
+        "name": "Jiří Kraus",
+        "character": "Control Room Guard"
+      },
+      {
+        "name": "Ales Putik",
+        "character": "Control Room Guard"
+      },
+      {
+        "name": "Tomáš Valík",
+        "character": "Control Room Guard"
+      },
+      {
+        "name": "Pavel Cajzl",
+        "character": "Prisoner"
+      },
+      {
+        "name": "Randy Hall",
+        "character": "Prisoner"
+      },
+      {
+        "name": "Vitaly Kravchenko",
+        "character": "Scraggy Tooth"
+      },
+      {
+        "name": "Andrej Bestcastnyj",
+        "character": "Kremlin Senate Building Desk Guard"
+      },
+      {
+        "name": "Mike Dopud",
+        "character": "Kremlin Subcellar Hallway Guard"
+      },
+      {
+        "name": "Martin Hub",
+        "character": "Kremlin Gate Security Guard"
+      },
+      {
+        "name": "Ivo Novák",
+        "character": "Russian Agent"
+      },
+      {
+        "name": "Anastasiya Novikova",
+        "character": "Russian Hospital Nurse"
+      },
+      {
+        "name": "Marek Dobeš",
+        "character": "Russian News Anchor"
+      },
+      {
+        "name": "Claudia Vašeková",
+        "character": "Russian News Anchor"
+      },
+      {
+        "name": "Brian Caspe",
+        "character": "British News Anchor"
+      },
+      {
+        "name": "Petra Lustigová",
+        "character": "Anna Lisenker"
+      },
+      {
+        "name": "Daniel Clarke",
+        "character": "Alex Lisenker"
+      },
+      {
+        "name": "April Stewart",
+        "character": "Swedish Translator (voice)"
+      },
+      {
+        "name": "Gina Hirsch",
+        "character": "IMF Operator"
+      },
+      {
+        "name": "Ghaleb El Saadi",
+        "character": "Dock Worker"
+      },
+      {
+        "name": "Andreas Wisniewski",
+        "character": "The Fog's Contact"
+      },
+      {
+        "name": "Mustafa Alyassri",
+        "character": "Doctor Setting Sidorov's Nose"
+      },
+      {
+        "name": "Michael Rys",
+        "character": "Russian Sub Captain"
+      },
+      {
+        "name": "Dmitry Chepovetsky",
+        "character": "Russian Sub Ensign"
+      },
+      {
+        "name": "Dawn Chubai",
+        "character": "San Francisco News Anchor"
+      },
+      {
+        "name": "Nicola Anderson",
+        "character": "Julia's Friend"
+      },
+      {
+        "name": "Keith Dallas",
+        "character": "Julia's Friend"
+      },
+      {
+        "name": "Tammy Hui",
+        "character": "Julia's Friend"
+      },
+      {
+        "name": "David Stuart",
+        "character": "Julia's Friend"
+      },
+      {
+        "name": "Sabrina Morris",
+        "character": "Julia's Friend"
+      },
+      {
+        "name": "Michelle Monaghan",
+        "character": "Julia Meade-Hunt (uncredited)"
+      },
+      {
+        "name": "Ving Rhames",
+        "character": "Luther Stickell (uncredited)"
+      },
+      {
+        "name": "Tom Wilkinson",
+        "character": "IMF Secretary (uncredited)"
+      },
+      {
+        "name": "Jessica Belkin",
+        "character": "Girl on the Red Square (voice) (uncredited)"
+      },
+      {
+        "name": "Paul Lazenby",
+        "character": "Kremlin Guard (uncredited)"
+      },
+      {
+        "name": "Stephen Lobo",
+        "character": "SINGH Security Guard (uncredited)"
+      },
+      {
+        "name": "Roger Narayan",
+        "character": "Engineer, Various (uncredited)"
+      },
+      {
+        "name": "Ali Olomi",
+        "character": "Sheikh (uncredited)"
+      },
+      {
+        "name": "Mihály Szabados",
+        "character": "Conductor (uncredited)"
+      },
+      {
+        "name": "Darren Shahlavi",
+        "character": "Sabine Moreau's Bodyguard (uncredited)"
+      },
+      {
+        "name": "Teddy Newton",
+        "character": "Mission Brief (voice) (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tom Cruise",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Michael Kaplan",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Gary Rydstrom",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Gary Rydstrom",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Robert Elswit",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "David Minkowski",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Matthew Stillman",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "April Webster",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "James D. Bissell",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Dan Bradley",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Lalo Schifrin",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "name": "Rosemary Brandenburg",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Bruce Geller",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "name": "Paul Hirsch",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "J.J. Abrams",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Michael Giacchino",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Geoffrey Hansen",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Brad Bird",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Garvin Cross",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Helen Jarvis",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Elizabeth Wilcox",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Dana Goldberg",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jeffrey Chernov",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Paul Schwake",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Bryan Burk",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Chris Daniels",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dave Lane",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Ellison",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Krista Bell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Casey O'Neill",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Tabrez Noorani",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Pravesh Sahni",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Sham Kaushal",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Randy Hall",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Josh Appelbaum",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Josh Appelbaum",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Markos Rounthwaite",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Russell Solberg",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Chris Beach",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Sanjay Kumar",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Alyssa Weisberg",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "André Nemec",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "André Nemec",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Scott Thaler",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Tom C. Peitzman",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Tommy Harper",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Tommy Harper",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Mickey Giacomazzi",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Leigh Clarke",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Jeffrey Lynch",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "David Hugghins",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Owen Walstrom",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "David Schultz",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Janene Carleton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Keii Johnston",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kimi Webber",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "John Knoll",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Pavel Cajzl",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Scott Sproule",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Geoff Dibben",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Silvie Janculová",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Gregg Smrz",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Joecy Shepherd",
+        "department": "Crew",
+        "job": "Additional Script Supervisor"
+      },
+      {
+        "name": "Robert Alonzo",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Jakub Dvorak",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Jakub Dvorak",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Michael Queen",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Patricia Isaac",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Castaldi",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Mike Marcuzzi",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Luca Paracels",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "name": "Lucie Burianová",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Stewart Bethune",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Richard Stirling",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "David Lištván",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Craig Kuehne",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Lynn Andrews",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Jana Hrbková",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "William Morts",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Misha Bukowski",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Tommy Gormley",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Jason Roberts",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Mihir Lath",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Mark Bunting",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Richard Epper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ana Oparnica Sebal",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Bonnie Benwick",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Manjari Makijany",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Brian Sepanzyk",
+        "department": "Directing",
+        "job": "Assistant Director Trainee"
+      },
+      {
+        "name": "Brandon Lambdin",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Emma Day",
+        "department": "Directing",
+        "job": "Assistant Director Trainee"
+      },
+      {
+        "name": "Michael Salven",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Ian Robinson",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Nilo Ghajar",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Todd Vaziri",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Eddy Santos",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Evan Godfrey",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Chad Belair",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Shelly Ward",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gordon Piper",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Rhonda Taylor",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Martina Götthansova",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Raj Acharya",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Sachin Agarwal",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "David Strangmüller",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Dmitriy Shutko",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Udayan Baijal",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Manish Chajlane",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Pavel Boušek",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jan Ciboch",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Andrew Del Rosario",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Samarth Sahni",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Kirby Adams",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Pavel Douvidzon",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Ali Sadoon",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Aleksandr Samokhvalov",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Baris Cangokce",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Gauri Chadha",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Mimi Crowe",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Carl De Villiers",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Kubhaer T. Jethwani",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Jiří Kolárský",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Kevin O'Neil",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Shelraj Patel",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Aditya Tendulkar",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Sunny Tiku",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Kasia Trojak",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "David Heffler",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Prince Shah",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Anna Dvorscik",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "assassin",
+    "budapest, hungary",
+    "skyscraper",
+    "secret intelligence service",
+    "sandstorm",
+    "seattle, washington",
+    "satellite",
+    "mumbai (bombay), india",
+    "secret agent",
+    "car crash",
+    "sequel",
+    "prison escape",
+    "dubai",
+    "billionaire",
+    "terrorism",
+    "disguise",
+    "bombing",
+    "jet",
+    "nuclear threat",
+    "moscow, russia",
+    "field agent",
+    "analyst",
+    "nuclear submarine",
+    "kremlin",
+    "disavowed",
+    "based on tv series",
+    "nuclear launch codes",
+    "burj khalifa",
+    "scaling a building"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The IMF is shut down when it's implicated in the bombing of the Kremlin, causing Ethan Hunt and his new team to go rogue to clear their organization's name.",
+    "In the fourth installment of the Mission Impossible series, Ethan Hunt and a new team race against time to track down Hendricks, a dangerous terrorist who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt by the team to stop him at the Kremlin ends in a disaster, with an explosion causing severe damage to the Kremlin and the IMF being implicated in the bombing, forcing the President to invoke Ghost Protocol, under which the IMF is disavowed, and will be offered no help or backup in any form. Undaunted, Ethan and his team chase Hendricks to Dubai, and from there to Mumbai, but several spectacular action sequences later, they might still be too late to stop a disaster.—shreesha bhat",
+    "IMF agent Ethan Hunt, who's been out for sometime, is given another mission. He has to break into the Kremlin to obtain some information. He gets in but when he gets to where he is suppose to go, the information is not there. And at the same moment, in another part of the building someone kills some people and takes some sensitive material. He then taps into Ethan's frequency, pretending to be part of his team. Ethan then calls an abort and just as he was leaving, the Kremlin explodes. Ethan is knocked out and wakes up in a hospital handcuffed to a bed and questioned by a Russian agent who thinks he's responsible for what happened. Ethan escapes and calls the Secretary who meets him with an aide named Brandt. Ethan gives them a description of the man he thinks is responsible and is told he's a rogue scientist. Ethan is told that IMF is being shut down. And since he's wanted, he is told by the Secretary that he can either turn himself in or go out and find the man responsible. That's when they're attacked by the Russian who thinks Ethan is the one responsible. The Secretary is killed, Ethan and Brandt escape and join two other agents and they set out to find the man and clear the IMF.—rcs0411@yahoo.com",
+    "The terrorist Kurt Hendricks, a.k.a. Cobalt, plans to begin a Nuclear War and he hires the killer Sabine Moreau to steal the Russian launch codes in Budapest while he erases his records in the Kremlin. Ethan Hunt is assigned with his team to retrieve Hendricks's identity in the Kremlin, but the terrorist arrives first and bomb the Kremlin. The IMF is blamed for the bombing and the President of USA invokes the Ghost Protocol, shutting down the organization. Ethan Hunt and his team travel to Dubai first and to Mumbai later trying to clear the name of IMF and avoid Hendricks from bombing USA and begin the war.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Ethan Hunt is broken out of a Russian prison by IMF team members and begins his search for an international terrorist who has successfully stolen Russian arming codes for their nuclear missiles. They must first identify him and the only way to do so is to break into the Kremlin archives. The end result is that much of the Kremlin is destroyed and now Russian agents are after the IMF. They track the thief, now identified as Kurt Hendricks, to Dubai where an attempt to con him out of the codes fail. They then follow him to Mumbai where it's believed he will transmit the signals to launch the Russian missiles at the USA.—garykmcd"
+  ],
+  "synopsis": "On assignment in Budapest to intercept a courier working for a person of interest code-named \"Cobalt\", IMF agent Trevor Hanaway is killed by an assassin named Moreau. Hanaway's team leader, Jane Carter, and newly promoted field agent Benji Dunn extract Ethan Hunt and Hunt's source Bogdan from a Moscow prison. Hunt is recruited to lead Carter and Dunn to infiltrate the secret Moscow Kremlin archives and locate files identifying Cobalt. Halfways through the mission, someone broadcasts across the IMF frequency, alerting the Russians to Hunt's team. Although Hunt, Dunn and Carter escape, a bomb destroys the Kremlin and Russian agent Sidorov accuses Hunt of masterminding the attack.The IMF extracts Hunt from Moscow. The Russians have called the attack an undeclared act of war and the US president activates \"Ghost Protocol\", a black operation contingency that disavows the entire IMF. Hunt and team are to take the blame for the attack, but will be allowed to escape from government custody so that they may operate to track down Cobalt. Before Hunt can escape, the IMF's secretary is killed by Russian security forces led by Sidorov, leaving Hunt and intelligence analyst William Brandt to find their own way out. The team identifies Cobalt as Kurt Hendricks, a Swedish-born Russian nuclear strategist who believes the weak must die for the strong to survive, and so plans to start a nuclear war to start the next stage of human evolution. Hendricks bombed the Kremlin and acquired a Russian nuclear launch-control device, and now needs its codes from the Budapest courier in order to launch a nuclear missile at America.The exchange between Moreau and Hendricks's right-hand man, Wistrom, is due to take place at the Burj Khalifa in Dubai. There, Hunt's team-members separately convince Moreau and Wistrom that they have made the exchange with one another. However, Moreau identifies Brandt as an agent. While Hunt chases Wistrom only to realize Wistrom is actually Hendricks in disguise as Hendricks escapes with the codes Carter detains Moreau. Moreau attempts to kill the inexperienced Dunn, and Carter throws her out a window to her death. Brandt accuses Carter of compromising the mission for revenge against Moreau, but Hunt accuses Brandt of keeping secrets from them, as he has displayed fighting skills atypical of an analyst. While Hunt seeks more information from Bogdan, Brandt admits he was assigned as security detail to Hunt and his wife Julia while on assignment. Julia was killed by a Serbian hit squad, prompting Ethan to pursue and kill them before he was caught by the Russians and sent to prison.Bogdan and his arms-dealer cousin inform Hunt that Hendricks will be in Mumbai. Hendricks facilitated the sale of a defunct Soviet military satellite to Indian telecommunications entrepreneur Brij Nath (Anil Kapoor), which could be used to transmit the order to fire a missile. While Brandt and Dunn infiltrate the server room to take the satellite offline, Carter gets Nath to reveal the satellite override code. But Hendricks has anticipated Hunt's plan and takes Nath's servers offline before sending a signal from a television broadcasting tower to a Russian nuclear submarine in the Pacific. The submarine fires on San Francisco. Hunt pursues Hendricks and the launch device while the other team-members attempt to bring the broadcast station back online. Hunt and Hendricks fight over the launch-control device before Hendricks jumps to his death with it to ensure the launch. Dunn kills Wistrom, allowing Brandt to restore power to the station and enabling Hunt to deactivate the missile. He is confronted by Sidorov, who sees Hunt has stopped the missile, proving the IMF is innocent in the Kremlin bombing.The team reconvenes weeks later. Hunt issues them new assignments. Brandt refuses to accept the mission, but Hunt reveals that Julia's death was staged, as he knew he could not protect her and used her death as a pretext to infiltrate a Russian prison and get close to Bogdan, an IMF source on Hendricks. Relieved of his guilt, Brandt accepts his mission while Hunt watches Julia from afar. They share a smile before he goes off on his next mission."
+}

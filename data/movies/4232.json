@@ -1,0 +1,808 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+  "id": 4232,
+  "title": "Scream",
+  "poster_path": "https://image.tmdb.org/t/p/w500/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg",
+  "release_date": "1996-12-20",
+  "vote_average": 7.4,
+  "vote_count": 6464,
+  "popularity": 51.082,
+  "overview": "A year after the murder of her mother, Sidney Prescott is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+  "imdb_id": "tt0117571",
+  "budget": 15000000,
+  "homepage": "https://www.miramax.com/movie/scream/",
+  "revenue": 173100000,
+  "runtime": 112,
+  "tagline": "Someone has taken their love of scary movies one step too far.",
+  "genres": [
+    "Crime",
+    "Horror",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Dimension Films",
+    "Woods Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "David Arquette",
+        "character": "Dewey Riley"
+      },
+      {
+        "name": "Neve Campbell",
+        "character": "Sidney Prescott"
+      },
+      {
+        "name": "Courteney Cox",
+        "character": "Gale Weathers"
+      },
+      {
+        "name": "Matthew Lillard",
+        "character": "Stu Macher"
+      },
+      {
+        "name": "Rose McGowan",
+        "character": "Tatum Riley"
+      },
+      {
+        "name": "Skeet Ulrich",
+        "character": "Billy Loomis"
+      },
+      {
+        "name": "Jamie Kennedy",
+        "character": "Randy Meeks"
+      },
+      {
+        "name": "W. Earl Brown",
+        "character": "Kenny Brown"
+      },
+      {
+        "name": "Joseph Whipp",
+        "character": "Sheriff Burke"
+      },
+      {
+        "name": "Liev Schreiber",
+        "character": "Cotton Weary"
+      },
+      {
+        "name": "Drew Barrymore",
+        "character": "Casey Becker"
+      },
+      {
+        "name": "Roger L. Jackson",
+        "character": "Ghostface (voice)"
+      },
+      {
+        "name": "Kevin Patrick Walls",
+        "character": "Steven Orth"
+      },
+      {
+        "name": "David Booth",
+        "character": "Casey's Father"
+      },
+      {
+        "name": "Carla Hatley",
+        "character": "Casey's Mother"
+      },
+      {
+        "name": "Lawrence Hecht",
+        "character": "Neil Prescott"
+      },
+      {
+        "name": "Lois Saunders",
+        "character": "Mrs. Tate"
+      },
+      {
+        "name": "Lisa Beach",
+        "character": "TV Reporter #1"
+      },
+      {
+        "name": "Tony Kilbert",
+        "character": "TV Reporter #2"
+      },
+      {
+        "name": "C.W. Morgan",
+        "character": "Hank Loomis"
+      },
+      {
+        "name": "Frances Lee McCain",
+        "character": "Mrs. Riley"
+      },
+      {
+        "name": "Troy Bishop",
+        "character": "Expelled Teen #1"
+      },
+      {
+        "name": "Ryan Kennedy",
+        "character": "Expelled Teen #2"
+      },
+      {
+        "name": "Leonora Scelfo",
+        "character": "Cheerleader in Bathroom"
+      },
+      {
+        "name": "Nancy Anne Ridder",
+        "character": "Girl in Bathroom"
+      },
+      {
+        "name": "Lisa Canning",
+        "character": "Reporter with Mask"
+      },
+      {
+        "name": "Bonnie Wood",
+        "character": "Young Girl in Video Store"
+      },
+      {
+        "name": "Aurora Draper",
+        "character": "Party Teen #1"
+      },
+      {
+        "name": "Kenny Kwong",
+        "character": "Party Teen #2"
+      },
+      {
+        "name": "Justin Sullivan",
+        "character": "Teen on Couch"
+      },
+      {
+        "name": "Kurtis Bedford",
+        "character": "Bored Teen"
+      },
+      {
+        "name": "Angela Miller",
+        "character": "Girl on Couch"
+      },
+      {
+        "name": "Henry Winkler",
+        "character": "Principal Arthur Himbry (uncredited)"
+      },
+      {
+        "name": "Linda Blair",
+        "character": "Obnoxious Reporter (uncredited)"
+      },
+      {
+        "name": "Wes Craven",
+        "character": "Fred the Janitor (uncredited)"
+      },
+      {
+        "name": "Matt McDonald",
+        "character": "Video Customer (uncredited)"
+      },
+      {
+        "name": "Freddy W. Smith",
+        "character": "Hall Monitor (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Cathy Konrad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Lisa Beach",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Sarah Katzman",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Rick Alexander",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Sam Gemette",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Bob Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Harvey Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "David Lubin",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Marco Beltrami",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Marco Beltrami",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Wes Craven",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Cary Woods",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Mark Irwin",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Bruce Alan Miller",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Bruce Alan Miller",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Scott Andrew Ressler",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Peter Deming",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "name": "Michele Poulik",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Karen Bradley",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Frank Ceglia",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "David Crockett",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Leslie Shatz",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Stuart M. Besser",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Stuart M. Besser",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Dixie J. Capp",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Kevin Williamson",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Marianne Maddalena",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Nicholas Mastandrea",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Nicholas Mastandrea",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Patrick Lussier",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Cynthia Bergstrom",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Peter Devaney Flanagan",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Cary Granat",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Lynn Salvatori",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard Bryce Goodman",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Bob Goold",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Roy Baker",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "James Marlowe",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Christine Anne Baur",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John K. Adams",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Andrew Durham",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "David Moir",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Paul B. Clay",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "name": "Gerald Lehtola",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Derek Raser",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Annie Welles",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Robert J. Carlyle",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Kirk R. Gardner",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Vic Radulich",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "J.P. Jones",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Jay W. Yowler",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Dan Kneece",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Tom E. Dahl",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "John 'Skip' Weaver",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Claire Raskind",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Barbara Olvera",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Eric Klosterman",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Stan Fiferman",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Joseph J. Allen",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Daniel K. Arredondo",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Daniel K. Arredondo",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Lynn Marie Curreri",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Mathew Hooey",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Gary J. Saldutti",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Ed Gerrard",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "name": "Anthony Cecere",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Pete Anthony",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Ricki Fournier",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Mark Van Loon",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Victoria Carlson",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "E. Gedney Webb",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Tim Boyle",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Dean Wright",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "name": "James Burke",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Michael D. Gillis",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Moore Brian",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Scott A. Tinsley",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Marla McGuire",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "John O. Wilde",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Sean Rush",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Jeff Rabhan",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Dane Farwell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Kohler",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Jeffrey N. Civa",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Mike Mertens",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Kevin Ball",
+        "department": "Camera",
+        "job": "Second Company Grip"
+      },
+      {
+        "name": "Melanie Levitt",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Robert Burg",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Lori Harrison",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "Lori Harrison",
+        "department": "Art",
+        "job": "Property Buyer"
+      },
+      {
+        "name": "Craig Braginsky",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Braxton Bragg",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Mary Ellen Leonard",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Egor Davidoff",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Ryan Krayser",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Theresa Donahoe",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "J.T. Thayer",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Doug Hunt",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Jason Boccaleoni",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Ron Diggory",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Tom Ketterer",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "name": "Charles M. Smallwood",
+        "department": "Camera",
+        "job": "First Company Grip"
+      },
+      {
+        "name": "Lee Tinkham",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Kris Ravetto",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Pat Somerset",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Lucille OuYang",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Beau Biggart",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Scott Medcalf",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Thomas M. Harrigan",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Paul Benedici",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Deborah Alexander-Lee",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Don Starnes",
+        "department": "Camera",
+        "job": "BTS Videographer"
+      },
+      {
+        "name": "Charles J. Schray",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Paul Kieran",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Charlene Barr",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "name": "Paul Boettiger",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Katherine Zilavy",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Kathy Marshall",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "high school",
+    "small town",
+    "riddle",
+    "killing",
+    "halloween",
+    "house party",
+    "serial killer",
+    "school",
+    "slasher",
+    "whodunit",
+    "killing spree",
+    "phone",
+    "tabloid",
+    "news reporter",
+    "self-referential",
+    "crime spree",
+    "halloween costume",
+    "young adult",
+    "teenager"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+    "A year after her mother's death, Sidney Prescott (Neve Campbell) and her friends started experiencing some strange phone calls. They later learned the calls were coming from a crazed serial killer, in a white faced mask and a large black robe, looking for revenge. His phone calls usually consist of many questions, the main one being: What's your favorite scary movie? Along with much scary movie trivia, ending with bloody pieces of innocent lives scattered around the small town of Woodsboro.—Joss Oran",
+    "A teenage girl becomes the target of a killer who has stalked and killed one of her classmates. A tabloid news reporter (insisting that the man who raped and killed Campbell's mother one year earlier is innocent) is determined to uncover the truth. Campbell's boyfriend becomes the prime suspect.—Robert B. DeSalvo <rdesalvo@earthlink.net>",
+    "A peaceful town in California turns into a bloodbath when a masked killer haunts the town. Sidney Prescott, a young teenage girl, whose mother was killed a year before, becomes the target of the mask killer! Her boyfriend Billy Loomis becomes the main suspect along with Sidney's father. Local Tabloid News Reporter Gail Weathers and Woodsbroro's Deputy Dwight \"Dewey\" Riley investigate and try to figure out who the killer is and if it's the same person who killed Sid's mom the year before!—Momoseeko12",
+    "One year after Sidney's moms death, more killings start to occur. Their only clue is a ghost mask. A local tabloid reporter, Gale Weathers is on the case to find out who the killer is. She tells Sidney that it could possibly be the same man that killed her mom one year earlier. When the night comes, she will see who the person is behind the mask.—Kyle <Kyleshivers@aol.com>"
+  ],
+  "synopsis": "The film opens with young Casey Becker (Drew Barrymore) recieving phone calls from an unidentified caller. At first it seems as if he has gotten a wrong number, but it soon becomes clear he is toying with her, and his voice gets more and more threatening. Casey becomes frightened when she realizes her caller can see her. She begins to panic when the caller threatens to kill her, and forces her to answer movie trivia in exchange for her life and the life of her boyfriend, Steve, who she sees tied up on her back patio. After killing Steve, the caller torments Casey until finally breaking into the house and chasing her; he is dressed in a black costume with a white ghost mask over his face. He chases her across her lawn just as her parents pull up into the driveway. They do not see her, and Casey is stabbed in the chest, unable to scream. After killing Casey, the murderer strings up her body in the back yard for the parents to discover.We then meet Sidney Prescott (Neve Campbell) and her boyfriend Billy Loomis (Skeet Ulrich). Billy sneaks into her bedroom window and attempts to have sex with her, but Sidney is unsure and wants to remain a virgin for now. They are almost discovered by Sidney's father, Neil (Lawrence Hecht), and he comes into Sidney's room to discuss the fact that he is going out of town. We learn that Sidney's mother was killed almost one year before, and that Sidney and her father are alone. Sidney's testimony identified Cotton Weary (Liev Schreiber) as the killer, although Cotton swears that he is innocent.The next day, Sidney's school is abuzz with news of the murder, and classes are temporarily cancelled. Sidney decides that since her father is gone and she is alone, she is going to stay with her her best friend Tatum (Rose McGowan). Sidney, Tatum, and BIlly sit with their group of friends, which includes Randy (Jamie Kennedy), who is obsessed with horror movies, and Stu (Matthew Lilliard), a class clown type who used to date Casey Becker.Sidney goes home to wait for Tatum to pick her up. The phone rings and she hears a strange voice, the same one that was on the phone with Casey. At first she thinks it is Randy joking around, but the caller turns abusive and brings up Sidney's mother. \"Do you wanna die, Sidney? Your mother sure didn't!\" The killer emerges from a closet in Sidney's house and a chase starts through out the house and Sidney locks herself in her bedroom and dials 911. Then Billy arrives, climbing through Sidney's window again, and a cell phone falls out of his pocket. Sidney realizes that it may have been him phoning her and she runs downs stairs and out of the house only to be greeted by the police.She is taken to the police station along with Billy, where he is questioned. At the police station, Sidney meets Dewey (David Arquette), Tatum's older brother and the town deputy, who is considered a dolt. Outside the police station, she is confronted by nosy reporter Gail Weathers (Courtney Cox), the writer of an expose about the murder of Sidney's mother. Gail feels that Cotton Weary was wrongfully convicted, and now Gail is following up a story about the murder of Casey Becker; she feels the murders are connected.Tatum takes Sidney to her house, where she recieves another phone call from the killer, who tells her \"You got the wrong guy, Sidney...again.\" The next day at school, Sidney is threatened by the killer while she is in the bathroom, but she escapes.School is over and a curfew is in place, so the group of friends decide to throw a party. Gail Weathers takes a cameraman to the party in an attempt to talk to Sidney, but Dewey intercepts her. The two of them talk and seem to have a mutual affection for one another. They enter the party and Dewey chooses not to bust the partygoers for underage drinking. During the party Billy and Sidney go upstairs and Sidney has sex with him. Meanwhile, Tatum is murdered in the garage by the killer, who has infiltrated the party after all.After the interlude between Sidney and Billy, the door opens and in walks the killer, who stabs Billy in the back. Another chase starts. Dewey is stabbed. Gale, in her newsvan, swerves to avoid hitting Sidney and runs her car down a hill, striking a tree and appearing to be killed.Sidney ends up in the house facing Randy and Stu, both claiming the other is the killer. Stu is vying to come inside and obtain the gun, while Randy wants to leave. Eventually Billy stumbles down the stairs, bloodied, and lets Randy and Stu into the house, shooting Randy and turning to reveal that the blood is fake; Billy was only pretending to be stabbed. He was aided by his accomplice, Stu; both of them are the killers. Billy also reveals that he was responsible for killing Sidney's mother, who had an affair with his father. Billy blamed Mrs. Prescott for the dissolution of his parents' marriage, and murdered Mrs. Prescott out of revenge. Billy and Stu also reveal that they have kidnapped Mr. Prescott, who is tied up in a closet. They have framed Mr. Prescott for the murders, and intend to wound themselves to make it look as if Mr. Prescott attacked them, at which point they will kill both him and Sidney.Billy and Stu inflict flesh wounds on one another with the knife, but they are interrupted by Gail Weathers, who returns, armed with Dewey's gun. Gail forgets to switch off the gun's safety, and a struggle ensues. Sidney strikes back at her tormenters, killing Stu with a television and shooting Billy in the head with the gun. Dewey is revealed to be alive, as is Randy. All ends well as Gale reports that the Macher house has been the scene of what seemed to be some real-life scary movie."
+}

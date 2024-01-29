@@ -1,0 +1,856 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/huZZBPyYUnMPCnrAFyJhnwYsQx9.jpg",
+  "id": 7299,
+  "title": "Equilibrium",
+  "poster_path": "https://image.tmdb.org/t/p/w500/eW3YrxOh3rd6PnRgMSftYoflvfe.jpg",
+  "release_date": "2002-12-06",
+  "vote_average": 7.031,
+  "vote_count": 4256,
+  "popularity": 26.927,
+  "overview": "In a dystopian future, a totalitarian regime maintains peace by subduing the populace with a drug, and displays of emotion are punishable by death. A man in charge of enforcing the law rises to overthrow the system.",
+  "imdb_id": "tt0238380",
+  "budget": 20000000,
+  "homepage": "",
+  "revenue": 5400000,
+  "runtime": 107,
+  "tagline": "In a future where freedom is outlawed, outlaws will become heroes.",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Blue Tulip Productions",
+    "Dimension Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Christian Bale",
+        "character": "John Preston"
+      },
+      {
+        "name": "Taye Diggs",
+        "character": "Brandt"
+      },
+      {
+        "name": "Angus Macfadyen",
+        "character": "Dupont"
+      },
+      {
+        "name": "Matthew Harbour",
+        "character": "Robbie Preston"
+      },
+      {
+        "name": "Sean Bean",
+        "character": "Errol Partridge"
+      },
+      {
+        "name": "Emily Watson",
+        "character": "Mary O'Brien"
+      },
+      {
+        "name": "Sean Pertwee",
+        "character": "Father"
+      },
+      {
+        "name": "Emily Siewert",
+        "character": "Lisa Preston"
+      },
+      {
+        "name": "Maria Pia Calzone",
+        "character": "Preston's Wife"
+      },
+      {
+        "name": "Dominic Purcell",
+        "character": "Seamus"
+      },
+      {
+        "name": "William Fichtner",
+        "character": "Jürgen"
+      },
+      {
+        "name": "David Hemmings",
+        "character": "Proctor"
+      },
+      {
+        "name": "David Barrash",
+        "character": "Evidentiary Storage Officer"
+      },
+      {
+        "name": "Christian Kahrmann",
+        "character": "Officer in Charge"
+      },
+      {
+        "name": "John Keogh",
+        "character": "Chemist"
+      },
+      {
+        "name": "Dirk Martens",
+        "character": "Gate Guard"
+      },
+      {
+        "name": "Florian Fitz",
+        "character": "Guard"
+      },
+      {
+        "name": "Francesco Cabras",
+        "character": "Rebel Leader"
+      },
+      {
+        "name": "Brian Conley",
+        "character": "Reading Room Proprietor"
+      },
+      {
+        "name": "Anatole Taubman",
+        "character": "Crematory Technician"
+      },
+      {
+        "name": "Kurt Wimmer",
+        "character": "Rebel Victim"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Lucinda Syson",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Klaus Badelt",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Jeanne McCarthy",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Dion Beebe",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Tom Rolf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Bob Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Harvey Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jan de Bont",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Peter Brown",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Brian W. Cook",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Anne Kuljian",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Dean Beville",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "name": "Wolf Kroeger",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Daniele Massaccesi",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Joseph A. Porro",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Carlo Gervasi",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Tomas Jester",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Udo Lüttich",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mike Luft",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ralf Tillmann",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Harvey Harrison",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Stephan O. Gessler",
+        "department": "Art",
+        "job": "Draughtsman"
+      },
+      {
+        "name": "Roxy Konrad",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Christian Scheibe",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Iris Müller",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Lucas Foster",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Juel Bestrop",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Harry B. Miller III",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Kurt Wimmer",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Kurt Wimmer",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Romulo Adriano Jr.",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Geoff Zanelli",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Barbara Jäger",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Stefano Maria Mioni",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Luigi Rocchetti",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ramin Djawadi",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Frank Kruse",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Bryce Brecheisen",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Kevin Hyman",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "name": "Joe Gareri",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "William Yeh",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Andrew Rona",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Sue Baden-Powell",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Byron Brisco",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeffrey Perkins",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jennifer Law-Stump",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Stephen Hunter Flick",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Valeska Schitthelm",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ute Bergk",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Rodney Montague",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Samuel Lehmer",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Gary A. Hecker",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Martin Lopez",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jean Rosone",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Justin Warburton-Brown",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Annette Borgmann",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Donald Flick",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Fred Judkins",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Pamela Alch",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Joseph Conenna",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Richard Blanshard",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Sally Eccleston",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Sebastian Meuschel",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Sebastian Meuschel",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Edward M. Steidele",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Jamie Hardt",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "Peter Taylor",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Howard Samuelsohn",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Alessandro Borgese",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tim McGovern",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "David Sosalla",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Björn Rehbein",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Ronald Schwarz",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Stephanie Lowry",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Marco Giacalone",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Michael J. Benavente",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Stella D'Onofrio",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Cameron Steenhagen",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Hasso von Hugo",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Hasso von Hugo",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Erik Olson",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Mauro Tamagnini",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Tanja Drewitz",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Carolin Spill",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Paul J. Hayes",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Matthew Dettmann",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Byron Miller",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Charlie Ajar Jr.",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Dana Gustafson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "William Jacobs",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jon Mete",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Greg ten Bosch",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Kim Lavery",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Erin May",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Maureen O'Connor",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jim Vickers",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Jim Vickers",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Gianmaria Majorana",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Peter Kosel",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Reinhard Stöckl",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Nina Hess",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Douglas Kunin",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Vicki Hiatt",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Richie Nieto",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Daniel Mattig",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Stephan Schröter",
+        "department": "Crew",
+        "job": "Picture Car Coordinator"
+      },
+      {
+        "name": "Mark Stehli",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Tess Malone",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Mike Smith",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Mike Smith",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Dieter Bähr",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Dieter Stempnierwsky",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Stefano Marino",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Joe Rangel",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Michael Hatzer",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Shawn Kennelly",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Lane Burch",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Ken Dackermann",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Keith Splinter Davis",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Inti Carboni",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Imke Sommerkamp",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Ninon Tantet",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Jan Brun",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Markus Maria Thormann",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Ryan Juggler",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Paolo Antonini",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Glenn König",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Andrew M. Robinson",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Emiliano Novelli",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rob 'Sluggo' Boyce",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kenny Lam",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Rocco Russo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brian Ruberg",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Howard Baral",
+        "department": "Production",
+        "job": "Post Production Accountant"
+      },
+      {
+        "name": "Mark Taylor",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Anna Schmigalla",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Heather Hoyland",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Bruno Verdirosi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nic Milner",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Luca Lachin",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Michael Degtjarewsky",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Tonja Schürmann",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Chris Britton",
+        "department": "Crew",
+        "job": "Loader"
+      }
+    ]
+  },
+  "keywords": [
+    "martial arts",
+    "resistance",
+    "dystopia",
+    "fascism",
+    "anti hero",
+    "totalitarian regime",
+    "destroy",
+    "phasing",
+    "book burning",
+    "outlaw",
+    "urban setting",
+    "government agent"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In an oppressive future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system and state.",
+    "In a futuristic world, a strict regime has eliminated war by suppressing emotions: books, art and music are strictly forbidden and feeling is a crime punishable by death. Cleric John Preston (Bale) is a top ranking government agent responsible for destroying those who resist the rules. When he misses a dose of Prozium, a mind-altering drug that hinders emotion, Preston, who has been trained to enforce the strict laws of the new regime, suddenly becomes the only person capable of overthrowing it.—Anonymous",
+    "At the end of World War III, the world fell under the control of Father and the Tetragrammaton: a government that outlaws all forms of art and emotion. Citizens are forced to take drugs that eliminate emotions. However, \"Sense Offenders\": citizens who resist the laws and operate underground are continually at war with the Tetragrammaton. John Preston is a Cleric, an elite super-soldier who's mission is to hunt down and eliminate Sense Offenders with the help of a ruthless police force. One day, Preston accidentally breaks his morning dose of emotion suppressant drug and begins to feel. Soon, he begins sympathizing with the Sense Offenders and begins to understand the beauty of feeling... A beauty that the government, in which Preston spent his life serving, would like to see destroyed.—redcommander27",
+    "In the future, after the Third World War, the world is ruled by a totalitarian and fascist society with the leadership of 'The Father'. Arts, music, books, luxury and feelings are not acceptable, and persons uses a drug called 'Prozium' in a daily basis to repress their feelings and feel happy. The opponents to this new world are called offenders and they form the underground resistance to the system, who are destroyed by very-well trained and powerful agents called 'The Clericks'. John Preston is one of this agents, and his life changes when he misses his daily dose of 'Prozium'.—Claudio Carvalho, Rio de Janeiro, Brazil"
+  ],
+  "synopsis": "Equilibrium is set in the futuristic, and dystopian city-state of Libria. The film explains how, in the early years of the 21st century, a devastating Third World War breaks out, the impact of which brings civilizations across the planet to their knees. After the war ends, world leaders fear that the human race cannot possibly survive a Fourth World War, and so set about building a new society which is free of conflict.Believing that human emotion is responsible for man's inhumanity to man, the new leaders ban all materials deemed likely to stimulate strong emotions, including art, music, and literature. These materials are rated \"EC-10\" for \"emotional content\" (a reference to the MPAA film rating system), and are typically destroyed by immediate incineration. Furthermore, all citizens of Libria are required to take regular injections, called \"intervals,\" of a liquid drug called Prozium, collected at the distribution centers known as \"Equilibrium\".Libria is governed by the Tetragrammaton Council, which is led by a reclusive figurehead known as \"Father\". Father never interacts with anyone outside the ruling council, but his image is omnipresent throughout the city in a strong cult of personality. The Tetragrammaton Council strives to create identical lives for all Librians and uses its police state apparatus to enforce unity and conformity. At the pinnacle of Librian law enforcement are the Grammaton Clerics, who are trained in the deadly martial art of Gun Kata, an art which teaches users to predict the actions of opponents during firearm combat. The Clerics exist for the purpose of locating and destroying EC-10 materials and for pursuing, apprehending, and, if necessary, terminating \"sense-offenders\" - people guilty of feeling emotions.Despite the efforts of the police and Clerics, a resistance movement exists in Libria, known as \"The Underground\". Members of this movement are responsible for terrorist activity against Libria, specifically against the Prozium factories. The leaders of the Underground believe that if they can disrupt the production and distribution of Prozium for a short period of time, even a single day, then the Librians will rise up and destroy the Tetragrammaton Council. The Underground operates within Libria itself, but also has contact with resistance groups residing in \"The Nethers\", the ruins of cities destroyed during World War III. These outsiders hoard objects and artefacts from the old society before World War III, including art and literature. Subsequently, they are the targets of Librian death squads composed of police and Clerics.The film's protagonist, Grammaton Cleric First Class John Preston (Christian Bale), is Libria's highest ranking cleric. He is a widower whose wife (Maria Pia Calzone) was executed after being revealed to be a sense offender, leaving him with two children, Robbie (Matthew Harbour) and Lisa (Emily Siewert). After a raid on a group of resistance members in The Nethers, Preston notices that his partner, Grammaton Cleric First Class Errol Partridge (Sean Bean), has personally taken a copy of the poems of Yeats under false pretenses. Preston discovers that Partridge has not turned the book over for destruction and follows him to a ruined cathedral in The Nethers, where Partridge speaks of emotion and forces Preston to aid him in suicide by cop. Shortly afterwards, Preston accidentally breaks the vial of his morning dose of Prozium, and begins to experience emotions.Preston is assigned a new partner, the career-conscious Brandt (Taye Diggs). Following a standard police raid on a Librian woman, Mary O'Brien (Emily Watson), who has stopped taking Prozium, his emotional confusion is exacerbated during her interrogation. He first acts out of emotion when he makes an excuse not to execute a puppy in The Nethers. Preston has by now ceased taking Prozium and is forced to try and maintain his monotone and emotionless façade in front of his son and the increasingly suspicious Brandt. Over the course of the film, Preston's behavior increasingly mirrors that of Partridge in the beginning, even to the point of repeated dialogue.Soon, Preston is involved in illegal activities. During one visit to the Nethers, he is forced to kill several Librian policemen who find the rescued puppy in his car. Brandt, having seen Preston re-arranging his desk (signaling a dislike of conformity) and refusing to personally execute resistance members during a raid in the Nethers, becomes more suspicious. In consequence, Preston is summoned before Vice-Counsel DuPont (Angus Macfadyen), and explains that he is attempting to infiltrate the Resistance in order to destroy it. DuPont tells him that he has heard rumors of a cleric attempting to join the Resistance, and Preston promises to find this traitor. Preston soon makes contact with the Resistance. He agrees to assassinate Father (Sean Pertwee), an act which will create enough confusion for the Underground to detonate bombs in Libria's Prozium factories and hopefully bring down the Tetragrammaton Council. However, watching Mary O'Brien's execution in Libria's furnaces causes Preston to weep uncontrollably, and Brandt arrests him.Brandt brings Preston before DuPont; Preston, however, tricks DuPont into believing Brandt was the criminal. Apparently cleared, Preston is released. He returns home to destroy his stashed Prozium before police find it, and is confronted by his young son, who reveals to Preston that he and his sister have not taken Prozium for some time, and have hidden his cache of Prozium. As part of an elaborate plot formed with the Underground, the leaders of the Resistance turn themselves in to Preston, who persuades DuPont to grant him an audience with Father.Preston arrives for his audience with Father, and is confronted by Father in a sudden reversal. Via a telescreen, Father speaks to Preston, revealing that he has been aware of Preston's sense-offense, and has staged Brandt's arrest in order to lull Preston into a false sense of security and allow him to think that his assassination scheme can go ahead. The face on the telescreen changes, revealing the face of Vice-Council DuPont, who explains that the real Father died years before, and that the Tetragrammaton Council elected DuPont as the new Head of State.Preston, however, embarks on a rampage using concealed pistols that he uses in order to reach Brandt and DuPont. Preston and Brandt face each other using paired short swords (similar in size and shape to the Japanese wakizashi), but Preston easily dispatches Brandt. Preston and DuPont then confront each other with handguns in a battle of Gun Kata masters, during which Preston manages to get the upper hand and kills DuPont. Preston then destroys the propaganda machines which broadcast across Libria, and the device which projects holographic images of Father. Realizing that the Tetragrammaton Council is faced with a crisis, the Underground detonates their bombs and the prisoners are released.The film ends with a riot signaling the destruction of the Librian government."
+}

@@ -1,0 +1,1181 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/lt1rGQSqhk2T2T4lHo6CTQYvoWP.jpg",
+  "id": 187,
+  "title": "Sin City",
+  "poster_path": "https://image.tmdb.org/t/p/w500/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+  "release_date": "2005-04-01",
+  "vote_average": 7.451,
+  "vote_count": 7719,
+  "popularity": 29.862,
+  "overview": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark… Hard-boiled. Then there are those who call it home — Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+  "imdb_id": "tt0401792",
+  "budget": 40000000,
+  "homepage": "http://www.miramax.com/movie/sin-city/",
+  "revenue": 158700000,
+  "runtime": 124,
+  "tagline": "Walk down the right back alley in Sin City and you can find anything...",
+  "genres": [
+    "Thriller",
+    "Action",
+    "Crime"
+  ],
+  "production_companies": [
+    "Dimension Films",
+    "Troublemaker Studios",
+    "Miramax"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Bruce Willis",
+        "character": "Det. John Hartigan"
+      },
+      {
+        "name": "Jessica Alba",
+        "character": "Nancy Callahan"
+      },
+      {
+        "name": "Clive Owen",
+        "character": "Dwight McCarthy"
+      },
+      {
+        "name": "Mickey Rourke",
+        "character": "Marv"
+      },
+      {
+        "name": "Rutger Hauer",
+        "character": "Cardinal Patrick Henry Roark"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Det. Lt. Jack \"Jackie Boy\" Rafferty"
+      },
+      {
+        "name": "Alexis Bledel",
+        "character": "Becky"
+      },
+      {
+        "name": "Michael Madsen",
+        "character": "Bob"
+      },
+      {
+        "name": "Powers Boothe",
+        "character": "Senator Roark"
+      },
+      {
+        "name": "Nick Stahl",
+        "character": "Roark Jr./The Yellow Bastard"
+      },
+      {
+        "name": "Devon Aoki",
+        "character": "Miho"
+      },
+      {
+        "name": "Michael Clarke Duncan",
+        "character": "Manute"
+      },
+      {
+        "name": "Rosario Dawson",
+        "character": "Gail"
+      },
+      {
+        "name": "Carla Gugino",
+        "character": "Lucille"
+      },
+      {
+        "name": "Josh Hartnett",
+        "character": "The Salesman"
+      },
+      {
+        "name": "Jaime King",
+        "character": "Goldie/Wendy"
+      },
+      {
+        "name": "Brittany Murphy",
+        "character": "Shellie"
+      },
+      {
+        "name": "Elijah Wood",
+        "character": "Kevin"
+      },
+      {
+        "name": "Jude Ciccolella",
+        "character": "Liebowitz"
+      },
+      {
+        "name": "Jeffrey J. Dashnaw",
+        "character": "Motorcycle Cop"
+      },
+      {
+        "name": "Jesse De Luna",
+        "character": "Corporal Rivera"
+      },
+      {
+        "name": "Jason Douglas",
+        "character": "Hitman"
+      },
+      {
+        "name": "Tommy Flanagan",
+        "character": "Brian"
+      },
+      {
+        "name": "Rick Gomez",
+        "character": "Douglas Klump"
+      },
+      {
+        "name": "David H. Hickey",
+        "character": "Juicer"
+      },
+      {
+        "name": "Greg Ingram",
+        "character": "Bouncer"
+      },
+      {
+        "name": "Nicky Katt",
+        "character": "Stuka"
+      },
+      {
+        "name": "Helen Kirk",
+        "character": "Maeve"
+      },
+      {
+        "name": "John McLeod",
+        "character": "Mercenary"
+      },
+      {
+        "name": "Lisa Marie Newmyer",
+        "character": "Tammy"
+      },
+      {
+        "name": "Tommy Nix",
+        "character": "Weevil"
+      },
+      {
+        "name": "Nick Offerman",
+        "character": "Burt Shlubb"
+      },
+      {
+        "name": "Marco Perella",
+        "character": "Skinny Dude"
+      },
+      {
+        "name": "Randal Reeder",
+        "character": "Man w/ Hitman"
+      },
+      {
+        "name": "Jeff Schwan",
+        "character": "Louie"
+      },
+      {
+        "name": "Marley Shelton",
+        "character": "The Customer"
+      },
+      {
+        "name": "Frank Miller",
+        "character": "Priest"
+      },
+      {
+        "name": "Korey Simeone",
+        "character": "Priest #2"
+      },
+      {
+        "name": "Paul T. Taylor",
+        "character": "Assistant DA"
+      },
+      {
+        "name": "Rico Torres",
+        "character": "Cop #2"
+      },
+      {
+        "name": "Makenzie Vega",
+        "character": "Nancy (11 Years)"
+      },
+      {
+        "name": "Arie Verveen",
+        "character": "Murphy"
+      },
+      {
+        "name": "Patricia Vonne",
+        "character": "Dallas"
+      },
+      {
+        "name": "Ethan Maniquis",
+        "character": "Bozo #1"
+      },
+      {
+        "name": "Ken Thomas",
+        "character": "Bozo #2"
+      },
+      {
+        "name": "Chris Warner",
+        "character": "Bozo #3"
+      },
+      {
+        "name": "Ethan Rains",
+        "character": "Bozo #4"
+      },
+      {
+        "name": "Cara D. Briggs",
+        "character": "Hearing Panel Person"
+      },
+      {
+        "name": "Christina Frankenfield",
+        "character": "Judge"
+      },
+      {
+        "name": "Evelyn Hurley",
+        "character": "Josie"
+      },
+      {
+        "name": "Jason McDonald",
+        "character": "Ronnie"
+      },
+      {
+        "name": "Clark Middleton",
+        "character": "Schutz"
+      },
+      {
+        "name": "Charissa Allen",
+        "character": "Old Town Waitress"
+      },
+      {
+        "name": "Jessica Hale",
+        "character": "Good Time Girl"
+      },
+      {
+        "name": "Samantha Inoue Harte",
+        "character": "Waitress"
+      },
+      {
+        "name": "Ashley Moore",
+        "character": "Old Town Girl"
+      },
+      {
+        "name": " Amanda Phillips",
+        "character": "Girl"
+      },
+      {
+        "name": "Emmy Robbin",
+        "character": "Old Town Girl"
+      },
+      {
+        "name": "Lauren-Elaine Powell",
+        "character": "Old Town Girl"
+      },
+      {
+        "name": "Kelley Robins Hicks",
+        "character": "Old Town Girl"
+      },
+      {
+        "name": "Penny Vital",
+        "character": "Old Town Girl"
+      },
+      {
+        "name": "Monika Spruch",
+        "character": "Old Town Girl"
+      },
+      {
+        "name": "Katherine Willis",
+        "character": "Nurse"
+      },
+      {
+        "name": "Texas Presley",
+        "character": "Old Town Girl (uncredited)"
+      },
+      {
+        "name": "Robert Rodriguez",
+        "character": "SWAT Member (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Robert Rodriguez",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Robert Rodriguez",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Robert Rodriguez",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Robert Rodriguez",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Robert Rodriguez",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Robert Rodriguez",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Robert Rodriguez",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Robert Rodriguez",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Quentin Tarantino",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Quentin Tarantino",
+        "department": "Directing",
+        "job": "Special Guest Director"
+      },
+      {
+        "name": "Quentin Tarantino",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "name": "Bob Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Harvey Weinstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Frank Miller",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Frank Miller",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Frank Miller",
+        "department": "Crew",
+        "job": "Graphic Novel Illustrator"
+      },
+      {
+        "name": "Frank Miller",
+        "department": "Writing",
+        "job": "Graphic Novel"
+      },
+      {
+        "name": "Elizabeth Avellan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "John Debney",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "John Debney",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Graeme Revell",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Beth Sepko",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Mary Vernieu",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Erwin H. Kupitz",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Jordan Ford",
+        "department": "Editing",
+        "job": "Digital Intermediate Assistant"
+      },
+      {
+        "name": "Curtis Lindersmith",
+        "department": "Editing",
+        "job": "Digital Intermediate Editor"
+      },
+      {
+        "name": "Jim Passon",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Mic Rodgers",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christopher Stull",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Steve Joyner",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Steve Joyner",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Nina Proctor",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jeffrey J. Dashnaw",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeffrey J. Dashnaw",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Chris Palermo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joe Bucaro III",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Shalimar Reodica",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Bill Scott",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Ethan Maniquis",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "name": "Ron Schmidt",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Jeanette Scott",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jeanette Scott",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Norman Howell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Everett Burrell",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Paula Fairfield",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Linda A. Borgeson",
+        "department": "Production",
+        "job": "Executive In Charge Of Post Production"
+      },
+      {
+        "name": "Bruce Nyznik",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Jeremy Fitzgerald",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ermahn Ospina",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Rich McDonald",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joe Rivera",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Joe Rivera",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Rebekah Del Rio",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Peter Weireter",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Billy D. Lucas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sandra Condito",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "name": "Garrett Warren",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jimmy Lindsey",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "David Hack",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "John F.K. Parenteau",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Annette Hoffman",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Scott Patton",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "John McLeod",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Larry Rippenkroeger",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Emmanuel Shiu",
+        "department": "Art",
+        "job": "Conceptual Design"
+      },
+      {
+        "name": "Craig Henighan",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "David M. Roberts",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Edward M. Steidele",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Tommy J. Huff",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Oakley Lehman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mike Justus",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sergio Reyes",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Eric W. Shamlin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Bart Brown",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Tim Rakoczy",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Tim Rakoczy",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Rico Torres",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Monika Petrillo",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Dick Hancock",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joe McCusker",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Jill McCullough",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Lorene Simpson",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Debbie Cortez Haber",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "John 'Fest' Sandau",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Brenda J. Chambers",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Vanessa Nirode",
+        "department": "Costume & Make-Up",
+        "job": "Key Set Costumer"
+      },
+      {
+        "name": "Cecil D. Evans",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Dawn M. Baker",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Sheila Steele",
+        "department": "Production",
+        "job": "Extras Casting Assistant"
+      },
+      {
+        "name": "Dana Reed",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michael Cozens",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "name": "Rob Simons",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Mauricio Baiocchi",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "name": "Cynthia Streit",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "John Pritchett",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Frank Bennett",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Charles Ewing Smith",
+        "department": "Editing",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Chris Trent",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Brian Dunlop",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Keefe Boerner",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Keefe Boerner",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Greg Smith",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris LeDoux",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Natasha Leonnet",
+        "department": "Editing",
+        "job": "Digital Color Timer"
+      },
+      {
+        "name": "Virginia Capobianco",
+        "department": "Art",
+        "job": "Property Buyer"
+      },
+      {
+        "name": "Johnny Gidcomb",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Brian Bettwy",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Juan Bronson",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "Paul Sadeghi",
+        "department": "Editing",
+        "job": "Editorial Coordinator"
+      },
+      {
+        "name": "Mo Henry",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Jay Mahavier",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "James Ryan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joaquin Gonzalo Avellán",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Gabriela Ostos",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gabriela Ostos",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Chris Telles",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Laura O'Keefe",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Bill Dunagin",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Tom Christopher",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "Rodney Brown",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Ferrell A. Shinnick",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "David Michael Abelman",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Sebastian Vega",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Donis Rhoden",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Rebecca M. Skelton",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Kenny Anderson",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Scott Duncan",
+        "department": "Crew",
+        "job": "Chef"
+      },
+      {
+        "name": "Joe Fiske",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Roy Burger",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Paul Beach",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Romy Stevenson",
+        "department": "Production",
+        "job": "Key Set Production Assistant"
+      },
+      {
+        "name": "Luai Abou-Emara",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Joe Llanes",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Kevin LaNeave",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Henry Ball",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Timothy E. Cole",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Christopher Abeyta",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Steve Arguello",
+        "department": "Visual Effects",
+        "job": "3D Animator"
+      },
+      {
+        "name": "Alaina Goetz",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "David Heron",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Thadd Day",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Shawn Robinson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eric Thompson",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Peter Madamba",
+        "department": "Production",
+        "job": "Script Researcher"
+      },
+      {
+        "name": "Allison Baker",
+        "department": "Production",
+        "job": "Executive Assistant"
+      },
+      {
+        "name": "Frank Robbins",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Amanda Curry",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Margo Kornemann",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "name": "Tim Dobbert",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "Olivier Beaulieu",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jeff Barnes",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "name": "Susan Jasso",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Aaron Burns",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Michael Dudash",
+        "department": "Art",
+        "job": "Set Painter"
+      },
+      {
+        "name": "Eric Pham",
+        "department": "Visual Effects",
+        "job": "2D Supervisor"
+      },
+      {
+        "name": "Tim Amyx",
+        "department": "Visual Effects",
+        "job": "Visual Effects Assistant Editor"
+      },
+      {
+        "name": "Maxine Jurgens",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Kurt Kornemann",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Kelly Bogdan",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Mike Sheeren",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Robert Rendon",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Mark Norrie",
+        "department": "Visual Effects",
+        "job": "CG Animator"
+      },
+      {
+        "name": "Amanda Peeples",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Lucinda Hinton",
+        "department": "Production",
+        "job": "Additional Production Assistant"
+      },
+      {
+        "name": "David Ackerman",
+        "department": "Crew",
+        "job": "Assistant Chef"
+      },
+      {
+        "name": "Todd Smiley",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Todd Green",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Sandy Gilzow",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Peter Baustaedter",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Dawn Robinette",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Deepa Agarwal",
+        "department": "Visual Effects",
+        "job": "Rotoscoping Artist"
+      },
+      {
+        "name": "Joshua LaCross",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "name": "Ali Q. Brown",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      }
+    ]
+  },
+  "keywords": [
+    "dystopia",
+    "based on comic",
+    "held captive",
+    "based on graphic novel",
+    "mysterious killer",
+    "doing the right thing",
+    "silhouette",
+    "neo-noir",
+    "short stories"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An exploration of the dark and miserable Basin City and three of its residents, all of whom are caught up in violent corruption.",
+    "Four tales of crime adapted from Frank Miller's popular comics, focusing around a muscular brute who's looking for the person responsible for the death of his beloved Goldie (Jaime King), a man fed up with Sin City's corrupt law enforcement who takes the law into his own hands after a horrible mistake, a cop who risks his life to protect a girl from a deformed pedophile and a hitman looking to make a little cash.—Tom Benton",
+    "Pivoting around four stories from Frank Miller's Sin City universe, three tainted anti-heroes of Basin City, the cradle of crime and corruption, cross paths in their search of redemption. On the brink of retirement, Detective John Hartigan, the vile city's last honest cop, breaks every rule in the book in his crusade to save the innocent eleven-year-old girl, Nancy Callahan, from the clutches of the well-connected child molester, Roark Junior. Meanwhile, in another part of the town, bearing the deep scars of endless fights, Marv, the hulking ex-convict and grotesque brute with the killer fists, finds himself framed for a crime he didn't commit, hell-bent on revenge and murder. Finally, as a bloody act of justice in the Old Town, the city's red-light district, threatens the already delicate truce between the local prostitute community and the police, the taciturn private eye, Dwight McCarthy, becomes a protector after helping their cause. Can there be justice without sin?—Nick Riganas",
+    "Walk down the right back alley in Sin City, and you can find anything. This lousy town is as black-and-white as the men and women living in it, and they're all the same: true to themselves until the grimy hands of the law try to corrupt their upstanding ways. Leaping from the pages of Frank Miller's comic books, Sin City is film noir like you've never seen it before.—Johnny",
+    "\"Sin City\" is infested with criminals, crooked cops and sexy dames, some searching for vengeance, some for redemption and others, both. This movie incorporates storylines from three of Miller's graphic novels including \"Sin City\", which launched the long-running, critically acclaimed series, as well as \"That Yellow Bastard\" and \"The Big Fat Kill\". Where Hartigan (Bruce Willis), a cop with a bum ticker and a vow to protect stripper Nancy (Jessica Alba). Marv (Mickey Rourke), the outcast misanthrope, is on a mission to avenge the death of his one true love, Goldie). There's also Dwight (Clive Owen), the clandestine love of Shellie (Brittany Murphy), who spends his nights defending Gail (Rosario Dawson) and her Old Towne girls from Jackie Boy (Benicio Del Toro), a dirty cop with a penchant for violence.—Austin4577@aol.com"
+  ],
+  "synopsis": "The Customer Is Always Right (Part 1)\nThe Salesman (Josh Hartnett) walks onto a penthouse balcony where The Customer (Marley Shelton) looks out over Basin City. He offers her a cigarette and says that she looks like someone who is tired of running and that he will save her. The two share a kiss and he shoots her; she dies in his arms. He says he'll never know what she was running from but that he'll cash her check in the morning.That Yellow Bastard (Part 1)\nOn the docks of Sin City, aging police officer John Hartigan (Bruce Willis) tries to stop serial child-killer Roark Junior (Nick Stahl) from sexually assaulting and killing eleven-year-old Nancy Callahan (Makenzie Vega). Junior is the son of Senator Roark (Powers Boothe), who has bribed the police to cover up his son's crimes. Hartigan's partner, Bob (Michael Madsen) tries to convince Hartigan to walk away. Hartigan knocks him out.Hartigan heads into the warehouse where Junior is holding Nancy, fighting off the pain caused by his bad heart, as well as several henchmen. Junior shoots Hartigan in the shoulder and tries to escape. Hartigan catches up and shoots off Junior's ear, hand, and genitals. Bob, now recovered, shoots Hartigan in the back; he has been paid off by Roark Sr. As the sirens approach, Bob leaves and Nancy lies down in Hartigan's lap. Hartigan passes out, reasoning his death is a fair trade for the girl's life.The Hard Goodbye\nAfter a one-night stand, Marv (Mickey Rourke) awakens to find Goldie (Jaime King) has been killed while he slept. He flees the frame-up as the police arrive, vowing to avenge her death. His parole officer, Lucille (Carla Gugino), warns him to give up on this mission. Marv interrogates several informants, working up to a corrupt priest (Frank Miller), who reveals that the Roark family was behind the murder. Marv kills the priest after he insults Goldie but is attacked by a woman who looks like Goldie, which he dismisses as a hallucination.Marv goes to the Roark family farm and is subdued by the silent stalker who killed Goldie. He awakens in the basement to find Lucille has been captured after looking into his story. She tells Marv that the killer is a cannibal, and that Goldie was a prostitute. He learns that the killer's name is Kevin (Elijah Wood) and escapes. Lucille is gunned down by the leader of an arriving squad of cops, who, after the squad is killed, is interrogated by Marv. Marv finds out that Cardinal Patrick Henry Roark (Rutger Hauer) arranged for Goldie's murder.Marv goes to Old Town, Sin City's prostitute-run red-light district, to learn more about Goldie and is captured by her twin sister, Wendy, who had been stalking him and was the attacker Marv previously dismissed as a hallucination. He eventually convinces her that he is not the killer. She and Marv return to the farm where Marv kills Kevin. He confronts Cardinal Roark, who confesses his part in the murders. Kevin was the cardinal's ward; the two men ate the prostitutes to 'consume their souls'. Marv kills the cardinal but is then shot and captured by his guards.\nMarv is taken to a hospital where cops threaten to kill his mother to get him to confess to killing Roark, Kevin, and their victims. He is sentenced to death in the electric chair. Wendy visits him on death row and thanks him for avenging her sister. Marv is executed the next day.The Big Fat Kill\nShellie (Brittany Murphy) is being harassed by her abusive ex-boyfriend Jackie Boy (Benicio Del Toro). Her current boyfriend, Dwight (Clive Owen) violently warns him to leave Shellie alone. Jackie Boy flees to Old Town. Dwight follows and sees them harass Becky (Alexis Bledel), a young prostitute. Gail (Rosario Dawson), the prostitutes' leader and Dwight's on-and-off lover, also witnesses the scene. When Jackie Boy threatens Becky with a gun, Miho (Devon Aoki), a martial arts expert, kills Jackie Boy and his friends. They realize Jackie Boy is actually Detective Lieutenant Jonathan \"Iron Jack\" Rafferty of the Basin City police, considered a \"hero cop\" by the press. If the cops learn how he died, their truce with the prostitutes would end and the mob would be free to wage war on Old Town.Dwight takes the bodies to a tar pit, where he is attacked by an ex-IRA mercenary hired by mob boss Wallenquist. He nearly drowns in the tar before Miho saves him. The mercenary runs away in the sewer with Jackie Boy's severed head, but Dwight and Miho are able to retrieve it and return to Old Town. Meanwhile, the head mercenary, Manute (Michael Clarke Duncan), kidnaps Gail. Becky has been threatened with the death of her mother by the mob and has betrayed the prostitutes. The mob is moving to invade with Manute leading. Dwight trades Jackie Boy's head in exchange for Gail, but activates an explosive he placed inside the head, destroying it before it can be taken to the cops for evidence. The other prostitutes gun down the mercenaries while an injured Becky escapes.That Yellow Bastard (Part 2)\nHartigan is recovering in a hospital when Senator Roark informs him that Junior is in a coma and the Roark legacy is in serious jeopardy. Hartigan will be framed for Junior's crimes; if he tells anyone the truth, they will die. A grateful Nancy promises to write letters every week while he is in prison. Hartigan goes to jail, though he refuses to confess. He receives a weekly letter from Nancy, as promised. After eight years, the letters stop, and he receives a severed finger instead. Hartigan confesses to all charges leading to his parole and searches for an adult Nancy (Jessica Alba), not knowing he is being followed by a deformed, yellow man. He eventually finds her at Kadie's Bar, where she has become an erotic dancer.He realizes he was set up to lead the yellow man to Nancy and the two escape in Nancy's car. Hiding at a hotel, the deformed man returns, revealing himself as Junior Roark, disfigured by years of surgery to regenerate his body parts. Junior attacks Hartigan and takes Nancy to the Roark farm to finish what he started eight years before. Hartigan follows and fakes a heart attack, giving him a chance to kill Junior. Knowing that Senator Roark will never stop hunting them, Hartigan commits suicide to ensure Nancy's safety. Again, he justifies his life for Nancy's as a fair trade.The Customer Is Always Right (Part 2)\nAn injured Becky departs from a hospital, talking on a cell phone with her mother. In the elevator she encounters The Salesman, dressed as a doctor. He offers her a cigarette, calling her by name, as she abruptly ends the call with her mother. Her fate is never revealed."
+}

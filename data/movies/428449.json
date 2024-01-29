@@ -1,0 +1,523 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/8kiPIqPWJaeTNQlHvGyHodeh9lU.jpg",
+  "id": 428449,
+  "title": "A Ghost Story",
+  "poster_path": "https://image.tmdb.org/t/p/w500/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
+  "release_date": "2017-04-24",
+  "vote_average": 7.111,
+  "vote_count": 2190,
+  "popularity": 19.794,
+  "overview": "Recently deceased, a white-sheeted ghost returns to his suburban home to console his bereft wife, only to find that in his spectral state he has become unstuck in time, forced to watch passively as the life he knew and the woman he loves slowly slip away.",
+  "imdb_id": "tt6265828",
+  "budget": 100000,
+  "homepage": "https://a24films.com/films/a-ghost-story",
+  "revenue": 1929659,
+  "runtime": 93,
+  "tagline": "",
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Sailor Bear",
+    "Zero Trans Fat Productions",
+    "Ideaman Studios",
+    "A24",
+    "Universal Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Casey Affleck",
+        "character": "C"
+      },
+      {
+        "name": "Rooney Mara",
+        "character": "M"
+      },
+      {
+        "name": "Liz Cardenas",
+        "character": "Linda"
+      },
+      {
+        "name": "Sonia Acevedo",
+        "character": "Maria"
+      },
+      {
+        "name": "Carlos Bermudez",
+        "character": "Carlos"
+      },
+      {
+        "name": "Yasmina Gutierrez",
+        "character": "Yasmina"
+      },
+      {
+        "name": "Brea Grant",
+        "character": "Clara"
+      },
+      {
+        "name": "Augustine Frizzell",
+        "character": "Clara's Wife Who is Writing a Book"
+      },
+      {
+        "name": "Will Oldham",
+        "character": "Prognosticator"
+      },
+      {
+        "name": "Kesha",
+        "character": "Spirit Girl"
+      },
+      {
+        "name": "Kenneisha Thompson",
+        "character": "Doctor"
+      },
+      {
+        "name": "McColm Kona Cephas Jr.",
+        "character": "Little Boy"
+      },
+      {
+        "name": "Grover Coulson",
+        "character": "Man in Wheelchair"
+      },
+      {
+        "name": "Barlow Jacobs",
+        "character": "Gentleman Caller"
+      },
+      {
+        "name": "Bryan Pitts",
+        "character": "Chairman"
+      },
+      {
+        "name": "Richard Krause",
+        "character": "Mover"
+      },
+      {
+        "name": "Dagger Salazar",
+        "character": "Mover"
+      },
+      {
+        "name": "Kimberly Fiddes",
+        "character": "Making Out"
+      },
+      {
+        "name": "Daniel Escudero",
+        "character": "Making Out"
+      },
+      {
+        "name": "Jared Kopf",
+        "character": "Magician"
+      },
+      {
+        "name": "Afomia Hailemeskel",
+        "character": "Just Wants to Dance"
+      },
+      {
+        "name": "Jonny Mars",
+        "character": "Oversharing Man"
+      },
+      {
+        "name": "Rachel Ballard",
+        "character": "Patient Woman"
+      },
+      {
+        "name": "Rob Zabrecky",
+        "character": "Pioneer Man"
+      },
+      {
+        "name": "Sara Tomerlin",
+        "character": "Pioneer Woman"
+      },
+      {
+        "name": "Margot Tomerlin",
+        "character": "Pioneer Children"
+      },
+      {
+        "name": "Sylvie Tomerlin",
+        "character": "Pioneer Children"
+      },
+      {
+        "name": "Savanna Walsh",
+        "character": "Pioneer Children"
+      },
+      {
+        "name": "Derrick Halverston",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "David Miller",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Hector Escalante",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Randy E. Aguebor",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Joel David Taylor",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Monalisa Amidar",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Phillip Amidar",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Stan Sanders",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Marcella Langdon",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "CG. Lewis III",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Alvis Lewis",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "David Fraga",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Kimberly Gail Williams",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Tanya Foster",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Giovannie Cruz",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Paulie Killgore",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Otis Harris",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Kathy Jordan",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "Scooter Walsh",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "William Sydney",
+        "character": "At the Hospital"
+      },
+      {
+        "name": "David Helms",
+        "character": "At the Party"
+      },
+      {
+        "name": "Jordan Jett Raines",
+        "character": "At the Party"
+      },
+      {
+        "name": "Kelli Holdridge",
+        "character": "At the Party"
+      },
+      {
+        "name": "Taylor Anne Ramsey",
+        "character": "At the Party"
+      },
+      {
+        "name": "Alexis Fleisig",
+        "character": "At the Party"
+      },
+      {
+        "name": "Kris Youmans",
+        "character": "At the Party"
+      },
+      {
+        "name": "Da-Voncia Hendricks",
+        "character": "At the Party"
+      },
+      {
+        "name": "Neken Williams",
+        "character": "At the Party"
+      },
+      {
+        "name": "Kevin Jacobs",
+        "character": "At the Party"
+      },
+      {
+        "name": "Chris Gardner",
+        "character": "At the Party"
+      },
+      {
+        "name": "Nainoa McKeague",
+        "character": "At the Party"
+      },
+      {
+        "name": "Savanna Sears",
+        "character": "At the Party"
+      },
+      {
+        "name": "Andrew Tinker",
+        "character": "At the Party"
+      },
+      {
+        "name": "Juan Fiol",
+        "character": "In the Boardroom"
+      },
+      {
+        "name": "Constance Jones",
+        "character": "In the Boardroom"
+      },
+      {
+        "name": "Rachel Chambers",
+        "character": "In the Boardroom"
+      },
+      {
+        "name": "Jacie Scott",
+        "character": "In the Boardroom"
+      },
+      {
+        "name": "Nikita Patel",
+        "character": "In the Boardroom"
+      },
+      {
+        "name": "Brandi Price",
+        "character": "In the Boardroom"
+      },
+      {
+        "name": "David Keller",
+        "character": "In the Boardroom"
+      },
+      {
+        "name": "Jim Johnson",
+        "character": "In the Boardroom"
+      },
+      {
+        "name": "Aaron Roberts",
+        "character": "In the Boardroom"
+      },
+      {
+        "name": "Branton Ellerbee",
+        "character": "In the Boardroom"
+      },
+      {
+        "name": "David Pink",
+        "character": "Ghost Stage 2"
+      },
+      {
+        "name": "David Lowery",
+        "character": "Neighbor's Ghost (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Johnny Marshall",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Johnny Marshall",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Shane Carruth",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "name": "Alexi Wasser",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jade Healy",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Daniel Hart",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "David Lowery",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "David Lowery",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "David Lowery",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Tisha Blood",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Adam Donaghey",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Adam Willis",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "James M. Johnston",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Andrew Droz Palermo",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Toby Halbrooks",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Liz Cardenas",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Richard Krause",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Matthew West Taylor",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Annell Brodeur",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Ron Gonzalez",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Jonathan Aldrich",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Amy L. Forsythe",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Judd Myers",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Tom Walker",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "David Maddox",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Angie Meyer",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Lucy Bird",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Steve Franke",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jay Pink",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Scooter Walsh",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "David Pink",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Meagan D'Von",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "LouAnn Wu",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Tiffany Felts",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Gabriel Gutierrez",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "sadness",
+    "house",
+    "loss",
+    "grief",
+    "morality",
+    "construction",
+    "death",
+    "ghost",
+    "piano"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In this singular exploration of legacy, love, loss, and the enormity of existence, a recently deceased, white-sheeted ghost returns to his suburban home to try to reconnect with his bereft wife.",
+    "Resonating with vibrant memories and silent echoes of a shared life, the old house is somehow connected to \"C\", a sensitive composer who is hesitant of leaving it, while his loving wife \"M\", on the other hand, is keen on moving out, having an indecipherable but grim premonition of danger. Sadly, disaster soon strikes, and C's untethered spectre which detaches from the lifeless body, rises from the mortician's table, and in a swift decision, decides to linger in this dimension to faithfully follow the grieving M back to the old house. As silent as a shadow and as invisible as the air, C's unappeasable phantom observes M's denial and depression gradually turn to acceptance and even hope, as time unravels, moving forward through the decades. In this earth, man struggles to leave his legacy behind. Is this the way to immortality?—Nick Riganas",
+    "A musician lives with his wife in a small house in Dallas, Texas. She wants to move, but he does not. One night, they hear a bang on their piano but cannot find the cause. The husband is killed in a car accident in front of their house. At the hospital, his wife views his body and covers it with a sheet. The man awakens as a ghost covered in the sheet, and wanders through the hospital, invisible. He comes to a door of light, but turns away, and it closes. He returns to his house and watches his wife grieve as time passes. He sees another sheet-ed ghost inside the house next door; wordlessly, the ghost tells him that she is waiting for someone, but cannot remember who..",
+    "Recently deceased, a white-sheeted ghost returns to his suburban home to console his bereft wife, only to find that in his spectral state he has become unstuck in time, forced to watch passively as the life he knew and the woman he loves slowly slip away.—yusufpiskin"
+  ],
+  "synopsis": "A musician lives with his wife in a small house in the Dallas/Fort Worth area. She wants to move, but he does not. One night, they hear a bang on their piano but cannot find the cause.The man is killed in a car accident. At the hospital, his wife views his body and covers it with a sheet. The man awakens as a ghost covered in the sheet, and wanders through the hospital, invisible. He comes to a door of light, but turns away, and it closes. He returns to his house and watches his wife grieve over days and weeks. He sees another ghost inside the house next door; wordlessly, the ghost tells him that she is waiting for someone, but cannot remember who.When the wife comes home with a man, the ghost hurls books from the shelf and turns lights on and off. The wife listens to a song written by the man when he was alive. She decides to move out; before she leaves, she writes a note and hides it in a gap in a wall. The ghost picks at the wall but cannot retrieve the note.A family moves in. The ghost watches them eat dinner, play piano, and celebrate Christmas. The children are bothered by his presence, and the family move out after he hurls plates from the kitchen cabinet. At a party thrown by the next occupants, the ghost listens to a man describe how humans try to create a legacy, but everything is ultimately destroyed. The partygoers notice the lights flicker.The house becomes abandoned and derelict. As the ghost manages to remove a piece of the wall concealing the note, bulldozers level it and the house next door. The second ghost says she no longer thinks whoever she is waiting for is coming, and vanishes.The man's ghost watches as a skyscraper is built on the land. On the roof, he views a futuristic cityscape. He jumps from the edge and is transported to the 19th century, where a family of settlers are building a house. He watches as the family's young daughter writes a note and hides it under a rock. After the family is killed by Native Americans, the ghost watches the daughter become a skeleton enveloped by grass.Decades later, the ghost watches as his past self and wife move into the house. They argue about moving out. After the man tells his wife that he is ready to move out, the ghost sits at the piano, striking the keys and causing the noise that wakes the couple. As the wife moves out, the ghost sees his earlier ghost watching her leave. He manages to retrieve the note from the wall, reads it, and vanishes."
+}

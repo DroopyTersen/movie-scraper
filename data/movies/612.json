@@ -1,0 +1,1737 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/titl6uMe5u974sLAA2Zy1kFi4sC.jpg",
+  "id": 612,
+  "title": "Munich",
+  "poster_path": "https://image.tmdb.org/t/p/w500/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
+  "release_date": "2005-12-23",
+  "vote_average": 7.148,
+  "vote_count": 2438,
+  "popularity": 21.702,
+  "overview": "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.",
+  "imdb_id": "tt0408306",
+  "budget": 70000000,
+  "homepage": "",
+  "revenue": 130982129,
+  "runtime": 164,
+  "tagline": "The world was watching in 1972 as 11 Israeli athletes were murdered at the Munich Olympics. This is the story of what happened next.",
+  "genres": [
+    "Drama",
+    "Action",
+    "History",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "DreamWorks Pictures",
+    "Alliance Atlantis",
+    "Amblin Entertainment",
+    "The Kennedy/Marshall Company",
+    "Barry Mendel Productions"
+  ],
+  "production_countries": [
+    "CA",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Eric Bana",
+        "character": "Avner"
+      },
+      {
+        "name": "Daniel Craig",
+        "character": "Steve"
+      },
+      {
+        "name": "Ciarán Hinds",
+        "character": "Carl"
+      },
+      {
+        "name": "Mathieu Kassovitz",
+        "character": "Robert"
+      },
+      {
+        "name": "Hanns Zischler",
+        "character": "Hans"
+      },
+      {
+        "name": "Ayelet Zurer",
+        "character": "Daphna"
+      },
+      {
+        "name": "Geoffrey Rush",
+        "character": "Ephraim"
+      },
+      {
+        "name": "Gila Almagor",
+        "character": "Avner's Mother"
+      },
+      {
+        "name": "Michael Lonsdale",
+        "character": "Papa"
+      },
+      {
+        "name": "Mathieu Amalric",
+        "character": "Louis"
+      },
+      {
+        "name": "Moritz Bleibtreu",
+        "character": "Andreas"
+      },
+      {
+        "name": "Valeria Bruni Tedeschi",
+        "character": "Sylvie"
+      },
+      {
+        "name": "Meret Becker",
+        "character": "Yvonne"
+      },
+      {
+        "name": "Marie-Josée Croze",
+        "character": "Jeanette the Dutch Assassin"
+      },
+      {
+        "name": "Yvan Attal",
+        "character": "Tony"
+      },
+      {
+        "name": "Ami Weinberg",
+        "character": "General Zamir"
+      },
+      {
+        "name": "Lynn Cohen",
+        "character": "Golda Meir"
+      },
+      {
+        "name": "Amos Lavi",
+        "character": "General Yariv"
+      },
+      {
+        "name": "Moshe Ivgy",
+        "character": "Mike Harari"
+      },
+      {
+        "name": "Raffi Tavor",
+        "character": "Minister"
+      },
+      {
+        "name": "Sharon Alexander",
+        "character": "General Nadev"
+      },
+      {
+        "name": "Samuel Calderon",
+        "character": "General Hofi"
+      },
+      {
+        "name": "Oded Teomi",
+        "character": "Mossad Accountant"
+      },
+      {
+        "name": "Igal Naor",
+        "character": "Mahmoud Hamshari"
+      },
+      {
+        "name": "Mostefa Djadjam",
+        "character": "Hussein Abad Al-Chir"
+      },
+      {
+        "name": "Abdelhafid Metalsi",
+        "character": "Palestinian in 30s"
+      },
+      {
+        "name": "Lisa Werlinder",
+        "character": "Newlywed Bride"
+      },
+      {
+        "name": "Hiam Abbass",
+        "character": "Marie Claude Hamshari"
+      },
+      {
+        "name": "Sasha Spielberg",
+        "character": "Young Israeli Woman Watching TV"
+      },
+      {
+        "name": "Mouna Soualem",
+        "character": "Amina Hamshari"
+      },
+      {
+        "name": "Djemel Barek",
+        "character": "Zaid Muchassi"
+      },
+      {
+        "name": "Dirar Suleiman",
+        "character": "Abu Youssef"
+      },
+      {
+        "name": "Ziad Adwan",
+        "character": "Kemal Adwan"
+      },
+      {
+        "name": "Bijan Daneshmand",
+        "character": "Kamal Nasser"
+      },
+      {
+        "name": "Rim Turki",
+        "character": "Adwan's Wife"
+      },
+      {
+        "name": "Yonatan Rozen",
+        "character": "Ehud Barak"
+      },
+      {
+        "name": "Jonathan Uziel",
+        "character": "Commando"
+      },
+      {
+        "name": "Guy Zo-Aretz",
+        "character": "Commando"
+      },
+      {
+        "name": "Yossi Sagi-Bizawi",
+        "character": "Commando"
+      },
+      {
+        "name": "Liron Levo",
+        "character": "Commando"
+      },
+      {
+        "name": "Ohad Knoller",
+        "character": "Commando"
+      },
+      {
+        "name": "Charley Gilleran",
+        "character": "Commando / Arab Guard"
+      },
+      {
+        "name": "Lyes Salem",
+        "character": "Arab Guard"
+      },
+      {
+        "name": "Carim Messalti",
+        "character": "Arab Guard"
+      },
+      {
+        "name": "Hichem Yacoubi",
+        "character": "Arab Guard"
+      },
+      {
+        "name": "Omar Mostafa",
+        "character": "Arab Guard"
+      },
+      {
+        "name": "Mahmoud Zemmouri",
+        "character": "Older Lebanese Man"
+      },
+      {
+        "name": "Souad Amidou",
+        "character": "Yussef's Wife"
+      },
+      {
+        "name": "Amrou Al-Kadhi",
+        "character": "Yussef's Son"
+      },
+      {
+        "name": "Omar Metwally",
+        "character": "Ali"
+      },
+      {
+        "name": "Nasser Memarzia",
+        "character": "Older Palestinian"
+      },
+      {
+        "name": "Karim Quayouh",
+        "character": "Young Palestinian"
+      },
+      {
+        "name": "Mihalis Giannatos",
+        "character": "Hotel Aristides Porter"
+      },
+      {
+        "name": "Faruk Pruti",
+        "character": "KGB Liaison"
+      },
+      {
+        "name": "Rad Lazar",
+        "character": "KGB Liaison"
+      },
+      {
+        "name": "Laurence Février",
+        "character": "Papa's Wife"
+      },
+      {
+        "name": "Habir Yahya",
+        "character": "Girl with Papa"
+      },
+      {
+        "name": "Mehdi Nebbou",
+        "character": "Ali Hassan Salameh"
+      },
+      {
+        "name": "Hicham Nazzal",
+        "character": "Salameh Guard"
+      },
+      {
+        "name": "Lemir Guerfa",
+        "character": "Salameh Guard"
+      },
+      {
+        "name": "Hisham Suliman",
+        "character": "Salameh Guard"
+      },
+      {
+        "name": "Brian Goodman",
+        "character": "Belligerent American"
+      },
+      {
+        "name": "Richard Brake",
+        "character": "Belligerent American"
+      },
+      {
+        "name": "Robert John Burke",
+        "character": "Belligerent American"
+      },
+      {
+        "name": "Yehuda Levi",
+        "character": "Tel Aviv Airport Soldier"
+      },
+      {
+        "name": "Danny Zahavi",
+        "character": "Tel Aviv Airport Soldier"
+      },
+      {
+        "name": "Itay Barnea",
+        "character": "Israeli Deputy Consul NY"
+      },
+      {
+        "name": "Elyse Klaits",
+        "character": "Israeli Consulate Secretary"
+      },
+      {
+        "name": "Nabil Yajjou",
+        "character": "Young Tarifa Guard"
+      },
+      {
+        "name": "Karim Saleh",
+        "character": "Issa - Luttif Afif / Mohammed Massalha"
+      },
+      {
+        "name": "Merik Tadros",
+        "character": "Tony 'The Cowboy' - Yusuf Nazzal"
+      },
+      {
+        "name": "Mousa Kraish",
+        "character": "Badran - Mohammed Safady"
+      },
+      {
+        "name": "Karim Saidi",
+        "character": "Denawi - Adnan Al-Gashey"
+      },
+      {
+        "name": "Moa Khouas",
+        "character": "Samir - Jamal Al-Gashey"
+      },
+      {
+        "name": "David A. Hamade",
+        "character": "Paulo - Afif Ahmed Hamid"
+      },
+      {
+        "name": "Ben Youcef",
+        "character": "Salah - Khalid Jawad"
+      },
+      {
+        "name": "Sami Samir",
+        "character": "Abu Halla - Ahmed Chic Thaa"
+      },
+      {
+        "name": "Guri Weinberg",
+        "character": "Moshe Weinberg"
+      },
+      {
+        "name": "Sam Feuer",
+        "character": "Yossef Romano"
+      },
+      {
+        "name": "Sabi Dorr",
+        "character": "Yossef Gutfreund"
+      },
+      {
+        "name": "Wojciech Machnicki",
+        "character": "Tuvia Sokolovsky"
+      },
+      {
+        "name": "David Feldman",
+        "character": "Kehat Shorr"
+      },
+      {
+        "name": "Ori Pfeffer",
+        "character": "Andre Spitzer"
+      },
+      {
+        "name": "Shmuel Edelman",
+        "character": "Yacov Springer"
+      },
+      {
+        "name": "Joseph Sokolsky",
+        "character": "Amitzur Shapira"
+      },
+      {
+        "name": "Lior Perel",
+        "character": "David Berger"
+      },
+      {
+        "name": "Ossie Beck",
+        "character": "Eliezer Halfin"
+      },
+      {
+        "name": "Guy Amir",
+        "character": "Mark Slavin"
+      },
+      {
+        "name": "Haguy Wigdor",
+        "character": "Ze'ev Friedman"
+      },
+      {
+        "name": "Jonathan Avigdori",
+        "character": "Gad Tsabari"
+      },
+      {
+        "name": "Kevin Collins",
+        "character": "American Athlete"
+      },
+      {
+        "name": "Daniel Bess",
+        "character": "American Athlete"
+      },
+      {
+        "name": "Baya Belal",
+        "character": "Palestinian Woman Watching TV"
+      },
+      {
+        "name": "Ula Tabari",
+        "character": "Palestinian Woman Watching TV"
+      },
+      {
+        "name": "Saïda Bekkouche",
+        "character": "Aida Refugee Camp Woman"
+      },
+      {
+        "name": "Fettouma Ousliha-Bouamari",
+        "character": "Aida Refugee Camp Woman"
+      },
+      {
+        "name": "Alexander Beyer",
+        "character": "German Reporter in Munich Underground"
+      },
+      {
+        "name": "Amos Shoov",
+        "character": "Male Israeli News Anchor"
+      },
+      {
+        "name": "Rana Werbin",
+        "character": "Female Israeli News Anchor"
+      },
+      {
+        "name": "Jane Garioni",
+        "character": "Italian Girl in Car"
+      },
+      {
+        "name": "Félicité Du Jeu",
+        "character": "Young Swiss Bank Official"
+      },
+      {
+        "name": "Gil Soriano",
+        "character": "Younger Man in Haifa Bar"
+      },
+      {
+        "name": "Mordechai Ben-Shachar",
+        "character": "Older Man in Haifa Bar"
+      },
+      {
+        "name": "Amani Zain",
+        "character": "Palestinian Teacher"
+      },
+      {
+        "name": "Leda Mansour",
+        "character": "Palestinian Teacher"
+      },
+      {
+        "name": "Renana Raz",
+        "character": "Israeli Woman Watching TV"
+      },
+      {
+        "name": "Hagit Dasberg",
+        "character": "Israeli Woman Watching TV"
+      },
+      {
+        "name": "Patrick Kennedy",
+        "character": "English Reporter in Munich Underground"
+      },
+      {
+        "name": "Stéphane Freiss",
+        "character": "French Reporter in Munich Underground"
+      },
+      {
+        "name": "Arturo Arribas",
+        "character": "Spanish Reporter in Munich Underground"
+      },
+      {
+        "name": "Yaron Motola",
+        "character": "Israeli Reporter in Munich Underground"
+      },
+      {
+        "name": "Jalil Naciri",
+        "character": "Arab Reporter in Munich Underground"
+      },
+      {
+        "name": "Martin Ontrop",
+        "character": "Camera Crew at Munich"
+      },
+      {
+        "name": "Joram Voelklein",
+        "character": "Camera Crew at Munich"
+      },
+      {
+        "name": "Michael Schenk",
+        "character": "Photographer at Munich"
+      },
+      {
+        "name": "Andreas Lust",
+        "character": "News Crew at Fürstenfeldbruck"
+      },
+      {
+        "name": "Tom Wlaschiha",
+        "character": "News Crew at Fürstenfeldbruck"
+      },
+      {
+        "name": "Lili Bordán",
+        "character": "Bartender (uncredited)"
+      },
+      {
+        "name": "María Casal",
+        "character": ""
+      },
+      {
+        "name": "Sonia Hell",
+        "character": "Passer-by in Paris (uncredited)"
+      },
+      {
+        "name": "Amelia Jacob",
+        "character": "Young Girl (uncredited)"
+      },
+      {
+        "name": "Sarah Mennell",
+        "character": "Caroline Smith (uncredited)"
+      },
+      {
+        "name": "Dianne Zaremba",
+        "character": "Girlfriend (uncredited)"
+      },
+      {
+        "name": "Jim McKay",
+        "character": "Self (archive Footage)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Williams",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Eric Roth",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Jina Jay",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Steven Spielberg",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Steven Spielberg",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kathleen Kennedy",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Colin Wilson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Janusz Kamiński",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Michael Kahn",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Terri Taylor",
+        "department": "Production",
+        "job": "Casting Consultant"
+      },
+      {
+        "name": "Rick Carter",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Joanna Johnston",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Ben Burtt",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Ben Burtt",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Mark Berger",
+        "department": "Sound",
+        "job": "Additional Sound Re-Recording Mixer"
+      },
+      {
+        "name": "John Bernard",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Anne Seibel",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Barry Mendel",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Adam Kirley",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Richard Hymns",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Tony Fanning",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Dennie Thorpe",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Jana Vance",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Daniele Massaccesi",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Tony Kushner",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Paul Engelen",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Ellen Heuer",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Hilary Haines",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "David Stephenson",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Jeremy Woodhead",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Grégoire Delage",
+        "department": "Crew",
+        "job": "Key Special Effects"
+      },
+      {
+        "name": "Robert Cowper",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "George DeTitta Jr.",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "John Nutt",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Ramiro Belgardt",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Rod McLean",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Scott Herbertson",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "David Swayze",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Peter Gleaves",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "David Lucarelli",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Erin Michael Rettig",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "name": "Lindsay Pugh",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "John Bush",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Shawn Murphy",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Faycal Attougui",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary Rizzo",
+        "department": "Sound",
+        "job": "Additional Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Joy Ellison",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Mike Phillips",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "János Szabolcs",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jean-Charles Venet",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Paul Kirby",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Sophie Newman",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Jean-Yves Rabier",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Lucky Englander",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Adam Somner",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Dixie Chassay",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Simon Atherton",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Marcelle Genovese",
+        "department": "Costume & Make-Up",
+        "job": "Hairdresser"
+      },
+      {
+        "name": "Gilles Castera",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Patricia Colin",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Gyula Herjeczki",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Gabe Cronnelly",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Fritz Fleischhacker",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Charlotte Finlay",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Marion Weise",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Michael Trent",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "name": "Susan J. Wright",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Samantha MacIvor",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Michael Dawson",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Andy Nelson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Sean England",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Addison Teague",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Mark Robert Taylor",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "name": "Jeffrey Wisniewski",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Gwendolyn Yates Whittle",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Pablo Helman",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Richard Quinn",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Tom Still",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Slemer Karolina",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Ildikó Fogt",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Steve Rosenzweig",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Bill Almeida",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Gene Radzik",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "name": "Ewa Sztompke",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Chris Scarabosio",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Chris Scarabosio",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Andy Garner",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Deborah Wuliger",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Pam Aaron",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Maxime Couteret",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "name": "Romain Courtine",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Luke Dunn Gielmuda",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Connie Brink",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Barbara McBane",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Marilyn McCoppen",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Anthony Pitone",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Yvonne Zarb Cousin",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "George Jonas",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "Craig Lindberg",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Brendan Handscombe",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Karen Ballard",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Al Nelson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Alan Bailey",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Dale E. Grahn",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Derek Casari",
+        "department": "Sound",
+        "job": "ADR Engineer"
+      },
+      {
+        "name": "Andrew Blustain",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Michael Bauman",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Melissa Lackersteen",
+        "department": "Costume & Make-Up",
+        "job": "First Assistant Makeup Artist"
+      },
+      {
+        "name": "Marcia Patten",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Iain McFadyen",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Colin Azzopardi",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Neal Scanlan",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "name": "Topaz Adizes",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Sheena Wichary",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Gyula Krasnyánszky",
+        "department": "Crew",
+        "job": "Pyrotechnician"
+      },
+      {
+        "name": "Edward Karam",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "David M. Gray",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Peter White",
+        "department": "Costume & Make-Up",
+        "job": "Key Set Costumer"
+      },
+      {
+        "name": "Greg Addison",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Patrick Crane",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "name": "Erin D. O'Connor",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "William Sarokin",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Katalin Baranyi",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Pierre Ellul",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Sally Crees",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Geoffrey Dowell",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Joel Sill",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "name": "Géza Kerti",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Ino Bonello",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Sunita Parmar",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "name": "Bruce Lacey",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Andrew Lee",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Jim Kwiatkowski",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Frank Rinella",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Balázs Novák",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Krisztina Vavrinecz",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Ferenc Deák",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Judit Csák",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Peter Gantner",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Karen Brocco",
+        "department": "Sound",
+        "job": "Assistant Dialogue Editor"
+      },
+      {
+        "name": "Françoise Fourcade",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Pat Garrett",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Marek Bojsza",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Mark Spath",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Vanessa Baker",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "David Elwell",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Brendon 'Moose' Boyd",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Béla Vaszary",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Thomas M. Dangcil",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Johanna Muench",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "John Casali",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Gina Bonello",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Gina Bonello",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Ian Hickinbotham",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Aneta Cebula-Hickinbotham",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "name": "Timothy Joliat",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Gretchen Libby",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Csaba Benedek",
+        "department": "Crew",
+        "job": "Security Coordinator"
+      },
+      {
+        "name": "Gary Burritt",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Gabriella Schwarz",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Terrence Laron Burke",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Bradford Ralston",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Éva Vass",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Charlotte Child",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Carla Raygoza",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Kevin Sellers",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Jan Kwieciński",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "name": "Stephanie Ito",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Csongor Fazekas",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "name": "Frédéric Greene",
+        "department": "Crew",
+        "job": "Production Controller"
+      },
+      {
+        "name": "Julia Wilson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Florian Augereau",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Kyle Salvatore",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Brian K. Barnes",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Ian Duncan",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Frédéric Cantin",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Nigel Boyd",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Mary Gierczak",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Joseph DeStefano",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "Tokaji Zoltán",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Christophe Thomas",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Tibor Bodor",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Robin Borden",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Henry Dray",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Gabor Gelegonya",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Imre Balázs",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Steve Caldwell",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "James Bennett",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Noyan Cosarer",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Linda Lashley",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Krisztina Szilágyi",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Kenyon Noble",
+        "department": "Production",
+        "job": "Key Production Assistant"
+      },
+      {
+        "name": "Marty Elfalan",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Magdi Kondorosi",
+        "department": "Art",
+        "job": "Assistant Set Dresser"
+      },
+      {
+        "name": "Marton Szalay",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "James Parsons",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "name": "Carlo Pratto",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Jessica Scott-Reed",
+        "department": "Art",
+        "job": "Textile Artist"
+      },
+      {
+        "name": "Liz Colbert",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Robin Demetriou",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "name": "Rebecca Anastasi",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Bonello Gordon",
+        "department": "Production",
+        "job": "Assistant Extras Casting"
+      },
+      {
+        "name": "Adrien Debackere",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Gary S. Rake",
+        "department": "Directing",
+        "job": "Additional Second Assistant Director"
+      },
+      {
+        "name": "Samantha Becker",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Frank Gallacher",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Mathieu Hennion",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Alain Luzy",
+        "department": "Costume & Make-Up",
+        "job": "Key Hairdresser"
+      },
+      {
+        "name": "Alexandra Maugrion",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Raymond Ellul",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Adrienn Baranyai",
+        "department": "Art",
+        "job": "Assistant Set Dresser"
+      },
+      {
+        "name": "Philip Babbage",
+        "department": "Art",
+        "job": "Head Carpenter"
+      },
+      {
+        "name": "Alen Petkovic",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Robert Bonello",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "name": "Frederick Buhagiar",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Giulio Magnolia",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Frank Cattano",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Tia Adrián",
+        "department": "Production",
+        "job": "Location Coordinator"
+      },
+      {
+        "name": "Nick Carr",
+        "department": "Production",
+        "job": "Location Production Assistant"
+      },
+      {
+        "name": "Edit Blaumann",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "name": "Alex Gorodetsky",
+        "department": "Crew",
+        "job": "Charge Scenic Artist"
+      },
+      {
+        "name": "Evy Figliolini",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Norbert Kroó",
+        "department": "Crew",
+        "job": "Generator Operator"
+      },
+      {
+        "name": "Octave Raspail",
+        "department": "Production",
+        "job": "Production Driver"
+      },
+      {
+        "name": "Deborah Becker",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "name": "Laura Sewrey",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Rossana Parker",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Zsolt Sajgó",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Gabe Gerber",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Peter Regnier",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Luca Crepelle",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Péter Palotás",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "name": "Vanraaj Padhaal",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Carolyn Handscombe",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      }
+    ]
+  },
+  "keywords": [
+    "hotel room",
+    "israel",
+    "mossad",
+    "assassination",
+    "paris, france",
+    "hostage",
+    "olympic games",
+    "1970s",
+    "intelligence",
+    "munich, germany",
+    "ailul al aswad",
+    "plo terrorist group",
+    "bomb constructor",
+    "baader-meinhof group",
+    "olympian village",
+    "revenge",
+    "terrorism",
+    "terrorist group",
+    "graphic violence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "After the Black September capture and massacre of Israeli athletes at the 1972 Olympics, five men are chosen to eliminate the people responsible for that fateful day.",
+    "After Black September's assassination of Israeli athletes at the Munich Olympics in 1972, Prime Minister Golda Meir okays a covert operation to hunt down and kill all involved. A team of five gathers in Switzerland led by Avner, a low-level Mossad techie whose father was a war hero and whose wife is pregnant. It's an expendable team, but relying on paid informants, they track and kill several in Europe and Lebanon. They must constantly look over their shoulders for the CIA, KGB, PLO, and their own sources. As the body count mounts -- with retribution following retribution -- so do questions, doubts, and sleepless nights. Loyalties blur. What does it mean to be a Jew?—<jhailey@hotmail.com>",
+    "In September 1972, Palestinian terrorists, posing as athletes, are able to infiltrate the relatively unsecured athlete's village at the Summer Olympic Games in Munich, where they take Israeli athletes and coaches hostages, the release of who they consider illegally held Arab prisoners in Israel the requested ransom. Because the Israeli government refuses to negotiate, the terrorists, who end up being referred to as Black September, end up killing eleven of those hostages. Beyond the official Israeli response to the massacre, the Israeli government forms a covert team whose mission is to assassinate those eleven they see as responsible that are living in the western world. This team will have no official ties to the government or Mossad, including to their official unofficial handler, Ephraim. Although not an obvious choice on the surface, they choose as as head of this disparate five man team Avner Kaufman, a Mossad agent, former bodyguard to Prime Minister Golda Meir and son of a respected Israeli military leader. As the team goes about their mission, they agree to disagree about many aspects of what they are doing, including its purpose and what collateral damage is considered acceptable. They also have to alter plans based on the reaction by the Arab to their killings. Avner and the team will learn that the lines between who is considered a friend and an enemy can often be blurred.—Huggo",
+    "During the 1972 Olympic Games in Munich, eleven Israeli athletes are taken hostage and murdered by a Palestinian terrorist group known as Black September. In retaliation, the Israeli government recruits a group of Mossad agents to track down and execute those responsible for the attack.—Anonymous",
+    "In the wake of 1972 Munich Olympic tragedy, the Mossad retaliates by deploying a team of agents (led by Avner) in Europe to assassinate Palestinian terrorist leaders suspected of planning the attack, which left eleven Israeli athletes dead.—Anonymous"
+  ],
+  "synopsis": "The film begins with a depiction of the events of the 1972 Munich Olympics. After the killings, the Israeli government devises an eye for an eye retaliation; and a target list of 11 names is drawn up.Avner Kaufman (Eric Bana), an Israeli-born Mossad agent of German-Hebrew descent, is chosen to lead the assassination squad and is given the assignment over tea at the home of Prime Minister of Israel Golda Meir. To give the Israeli government plausible deniability and, at the direction of his handler Ephraim (Geoffrey Rush), Avner resigns from Mossad; and the squad operates with no official ties to Israel. Avner is given a team of four Hebrew men: Steve (Daniel Craig), a South African driver; Hans (Hanns Zischler), a document forger; Robert (Mathieu Kassovitz), a Belgian toy-maker trained in defusing explosives; and Carl (Ciarán Hinds), a former Israeli soldier who \"cleans up\" after the assassinations. Avner and his team set about tracking down the 11 targets with the help of a shadowy French informant, Louis (Mathieu Amalric).In Rome, the group tracks down their first target, Abdel Wael Zwaiter, who is broke and living as a poet. The group follows him to his apartment building, and Avner and Robert shoot him dead. In Paris, Robert pretends to be a journalist interviewing their second target, Mahmoud Hamshari, about the Munich massacre. He plants a bomb in Hamshari's phone that is set to be detonated by a remote key. Carl is to dial Hamshari's number from a public telephone booth after Hamshari's wife and daughter have left. However, while a large truck obscures their view, the daughter runs back inside to retrieve something. Carl calls the number, and the girl picks up; but Avner aborts the mission before Robert, who cannot see what is going on, triggers the explosion. When the girl leaves, Carl telephones the number, asks the man who answers if he's Hamshari; and, upon affirmation of name, Robert detonates the bomb. In Cyprus, the team kills the next target, Hussein Al Bashir (Hussein Abd Al Chir), by planting a bomb in his hotel room beneath his bed. Avner gets a room next to Al Bashir and turns off his bedroom light, the signal to proceed. When Robert detonates the bomb, the explosives almost kill Avner and injures a newlywed couple next door. The group meet later aboard a boat in the Cyprus harbor to discuss the errors in the mission. Robert insists that the explosives he used were far more powerful than what he expected. It is revealed at this juncture that Louis provided the explosives and that he is also helping with the logistics of the hits through Avner.Avner then meets with Louis in Paris and he gives the team information on three Palestinians in Beirut: Muhammad Youssef Al-Najjar (Abu Youssef); Kamal Adwan; and Kamal Nasser, a Palestine Liberation Organization (PLO) spokesman. Ephraim refuses to let them handle the mission themselves. Avner insists that he will lose Louis' trust if the operation is carried out by the Israel Defense Forces (IDF). Ephraim relents, allowing the team to accompany the IDF commandos. In Beirut, Steve, Robert, and Avner meet up with a group of Sayeret Matkal IDF soldiers. They penetrate the Palestinians' guarded compound and kill all three.In Athens, Louis has provided the team with an apartment. During the night, four PLO members, who have rented the same apartment as a safe house, enter the dwelling. After a tense confrontation with guns drawn, Robert defuses the situation by claiming that his squad are members of the Basque separatist Euskadi Ta Askatasuna (ETA), Red Army Faction (RAF), and the African National Congress (ANC). Avner discusses Middle East politics with the group's leader. Avner's group carries out their next assassination, that of Zaiad Muchasi, by installing a remote-controlled bomb in Muchasi's TV set. However, the bomb does not detonate. Hans walks into the hotel, forces his way and throws a grenade that sets off the bomb, killing Muchasi. The squad exchanges gunfire with Muchasi's bodyguards. In the chaos, they are forced to take the hotel manager hostage; and Robert reveals that he doesn't actually build bombs, but just defuses them.Louis provides the squad with information on Ali Hassan Salameh, the organizer of the Munich Massacre. Avner learns from Louis that the CIA have a deal with Salameh wherein they protect and fund him in exchange for his promise not to attack US diplomats. The squad moves to London to track down Salameh, but they are not able to accomplish the assassination when Avner is suddenly approached by several drunken Americans. It is implied the said Americans are actually CIA agents. Avner is propositioned by a woman (Marie-Josée Croze) in the hotel but declines. Afterward, Carl is killed by the same woman, who Avner learns is an independent Dutch contract killer.Robert questions the morality of the entire mission; Avner listens to him and asks him to take a break. The remaining squad tracks the Dutch assassin to the Netherlands and kills her without a glitch. Afterwards Avner, Steve and Hans discuss the futility of the mission. Later, Hans is found stabbed to death and left on a park bench while Robert is killed in an explosion in his workshop. Avner and Steve finally locate Salameh in Spain; however, their assassination attempt is thwarted by Salameh's guards.\nA disillusioned Avner flies to Israel and then to his new home in New York City to reunite with his wife and their child. In a fit of paranoia, he storms into the Israeli consulate and screams at an employee whom he believes to be a Mossad agent to leave him and his family alone. Ephraim comes to New York to urge Avner to rejoin Mossad.In the final scene, Avner openly questions the basis and effectiveness of the operation, and Ephraim admits that there was no evidence linking any of the targets to the Munich massacre. In a show of respect, Avner asks Ephraim to break bread with him, but because he has refused to return to Israel, Ephraim rejects him and leaves. Avner leaves as well.\nDuring the last scene, the camera pans across the New York City skyline and stops with the Twin Towers in the center of the scene. A postscript notes that 9 of the 11 men targeted by Mossad were eventually assassinated, including Salameh in 1979."
+}

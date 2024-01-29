@@ -1,0 +1,1676 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
+  "id": 400535,
+  "title": "Sicario: Day of the Soldado",
+  "poster_path": "https://image.tmdb.org/t/p/w500/msqWSQkU403cQKjQHnWLnugv7EY.jpg",
+  "release_date": "2018-06-27",
+  "vote_average": 6.904,
+  "vote_count": 3299,
+  "popularity": 56.557,
+  "overview": "Agent Matt Graver teams up with operative Alejandro Gillick to prevent Mexican drug cartels from smuggling terrorists across the United States border.",
+  "imdb_id": "tt5052474",
+  "budget": 35000000,
+  "homepage": "https://www.soldado.movie/",
+  "revenue": 75836683,
+  "runtime": 122,
+  "tagline": "Some missions need a hitman...others need a soldier.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Thunder Road",
+    "Black Label Media",
+    "Columbia Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Benicio del Toro",
+        "character": "Alejandro Gillick"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Matt Graver"
+      },
+      {
+        "name": "Isabela Merced",
+        "character": "Isabel Reyes"
+      },
+      {
+        "name": "Jeffrey Donovan",
+        "character": "Steve Forsing"
+      },
+      {
+        "name": "Manuel Garcia-Rulfo",
+        "character": "Gallo"
+      },
+      {
+        "name": "Catherine Keener",
+        "character": "Cynthia Foards"
+      },
+      {
+        "name": "Matthew Modine",
+        "character": "Secretary of Defense James Riley"
+      },
+      {
+        "name": "Shea Whigham",
+        "character": "Andy Wheeldon"
+      },
+      {
+        "name": "Elijah Rodriguez",
+        "character": "Miguel Hernandez"
+      },
+      {
+        "name": "Howard Ferguson Jr.",
+        "character": "Troy"
+      },
+      {
+        "name": "David Castañeda",
+        "character": "Hector"
+      },
+      {
+        "name": "Jacqueline Torres",
+        "character": "Blandina"
+      },
+      {
+        "name": "Raoul Max Trujillo",
+        "character": "Rafael"
+      },
+      {
+        "name": "Bruno Bichir",
+        "character": "Angel"
+      },
+      {
+        "name": "Jake Picking",
+        "character": "Shawn"
+      },
+      {
+        "name": "Arturo Maese Bernal",
+        "character": "Mexican Lookout #1"
+      },
+      {
+        "name": "Faysal  Ahmed",
+        "character": "Bashiir"
+      },
+      {
+        "name": "Graham Beckel",
+        "character": "Dale Hammonds"
+      },
+      {
+        "name": "Tenzin Marco-Taylor",
+        "character": "José"
+      },
+      {
+        "name": "Dan Davidson",
+        "character": "Col. Kenneth Walter"
+      },
+      {
+        "name": "Sherman Allen",
+        "character": "Gen. Arno McCullough"
+      },
+      {
+        "name": "Lourdes del Rio Garcia",
+        "character": "Miranda"
+      },
+      {
+        "name": "Christopher Heyerdahl",
+        "character": "Headmaster Deats"
+      },
+      {
+        "name": "Ian Bohen",
+        "character": "Carson Wills"
+      },
+      {
+        "name": "J.D. Garfield",
+        "character": "Alberto"
+      },
+      {
+        "name": "Ryan Begay",
+        "character": "Javier"
+      },
+      {
+        "name": "Diane Villegas",
+        "character": "Ida"
+      },
+      {
+        "name": "Ibrahim Renno",
+        "character": "Sakher"
+      },
+      {
+        "name": "Alejandro de la Peña",
+        "character": "Balding Man"
+      },
+      {
+        "name": "Brian Reynolds",
+        "character": "Blackhawk Pilot #1"
+      },
+      {
+        "name": "Frédéric North",
+        "character": "Blackhawk Pilot #2"
+      },
+      {
+        "name": "Joseph A. Garcia",
+        "character": "Border Agent #1"
+      },
+      {
+        "name": "J.D. Marmion",
+        "character": "Border Agent #2"
+      },
+      {
+        "name": "Hector Dez",
+        "character": "Border Agent #3"
+      },
+      {
+        "name": "Jon Kristian Moore",
+        "character": "Border Agent #4"
+      },
+      {
+        "name": "Thang Khan Gin",
+        "character": "Burmese Migrant #1"
+      },
+      {
+        "name": "Mang Khai",
+        "character": "Burmese Migrant #2"
+      },
+      {
+        "name": "Zaw Tan",
+        "character": "Burmese Migrant #3"
+      },
+      {
+        "name": "Mickey Dolan",
+        "character": "Bus Stop Teen"
+      },
+      {
+        "name": "Alex Cacho",
+        "character": "Costco Terrorist #2"
+      },
+      {
+        "name": "Rick Vargas",
+        "character": "49ers Man"
+      },
+      {
+        "name": "Lloyd Voights",
+        "character": "Gulfstream Pilot"
+      },
+      {
+        "name": "Rob Franco",
+        "character": "K-9 Agent"
+      },
+      {
+        "name": "Oscar Avila",
+        "character": "Mexican Border Guard"
+      },
+      {
+        "name": "Billy R. Sanchez",
+        "character": "Mexican Migrant #1"
+      },
+      {
+        "name": "Gary Anthony Castro",
+        "character": "Mexican Migrant #2"
+      },
+      {
+        "name": "Iliana Donatlán",
+        "character": "Mexican News Reporter"
+      },
+      {
+        "name": "Beth Bailey",
+        "character": "Mother Victim"
+      },
+      {
+        "name": "Stafford Douglas",
+        "character": "Naval Intelligence Officer"
+      },
+      {
+        "name": "Nick Shakoour",
+        "character": "Rocking Man"
+      },
+      {
+        "name": "Sakariya Ali",
+        "character": "Somali Militiaman"
+      },
+      {
+        "name": "Alfredo Quiroz",
+        "character": "Teenage Soldier"
+      },
+      {
+        "name": "Fernando Urquides",
+        "character": "Tattooed Gangster"
+      },
+      {
+        "name": "Tasha Ames",
+        "character": "Young Blonde Woman"
+      },
+      {
+        "name": "David Manzanares",
+        "character": "Arturo Hernandez (uncredited)"
+      },
+      {
+        "name": "Connor Skific",
+        "character": "Black Hawk Contractor (uncredited)"
+      },
+      {
+        "name": "Jackamoe Buzzell",
+        "character": "Commander Willett (uncredited)"
+      },
+      {
+        "name": "Christian Pedersen",
+        "character": "DEA Agent (uncredited)"
+      },
+      {
+        "name": "Ryan Jason Cook",
+        "character": "DEA Agent Ed Ramirez (uncredited)"
+      },
+      {
+        "name": "Chris Adams",
+        "character": "K-9 Agent (uncredited)"
+      },
+      {
+        "name": "Catherine Haun",
+        "character": "Middle School Teacher (uncredited)"
+      },
+      {
+        "name": "Barrett James",
+        "character": "Military Contractor (uncredited)"
+      },
+      {
+        "name": "Gonzalo Robles",
+        "character": "Military Contractor (uncredited)"
+      },
+      {
+        "name": "Cassandra Rochelle Fetters",
+        "character": "Parent (uncredited)"
+      },
+      {
+        "name": "Tim Aydelott",
+        "character": "FBI Agent, US Marshall (uncredited)"
+      },
+      {
+        "name": "Ruben Bugayong",
+        "character": "Border Patrol Agent (uncredited)"
+      },
+      {
+        "name": "Cruz Castillo",
+        "character": "Bus Stop Student (uncredited)"
+      },
+      {
+        "name": "Narupornkamol Chaisang",
+        "character": "ZomZom (uncredited)"
+      },
+      {
+        "name": "Leedy Corbin",
+        "character": "Junior High Student (uncredited)"
+      },
+      {
+        "name": "James Devoti",
+        "character": "Captain James (uncredited)"
+      },
+      {
+        "name": "Lawrence Gilligan",
+        "character": "Border Patrol (uncredited)"
+      },
+      {
+        "name": "Andrea Good",
+        "character": "Migrant (uncredited)"
+      },
+      {
+        "name": "Alison Grainger",
+        "character": "US Marshall (uncredited)"
+      },
+      {
+        "name": "Johnnie Hector",
+        "character": "River Border Agent (uncredited)"
+      },
+      {
+        "name": "DezBaa'",
+        "character": "Immigrant (uncredited)"
+      },
+      {
+        "name": "Alan Humphrey",
+        "character": "Guard (uncredited)"
+      },
+      {
+        "name": "Jose B. Martinez",
+        "character": "Miguels Migrant #1 (uncredited)"
+      },
+      {
+        "name": "Aaron Mastriani",
+        "character": "Bomb Victim in Store (uncredited)"
+      },
+      {
+        "name": "Manny Rubio",
+        "character": "Santiago (uncredited)"
+      },
+      {
+        "name": "Lyle Sandoval",
+        "character": "Mid-Level Thug (uncredited)"
+      },
+      {
+        "name": "Michael Slusher",
+        "character": "Pickup Truck Driver (uncredited)"
+      },
+      {
+        "name": "Michael E. Stogner",
+        "character": "Van Driver at Border Crossing (uncredited)"
+      },
+      {
+        "name": "Cheo Tapia",
+        "character": "Bar Bouncer (uncredited)"
+      },
+      {
+        "name": "Sandra L. Velez",
+        "character": "Border Crossing Driver (uncredited)"
+      },
+      {
+        "name": "Tsailii Rogers",
+        "character": "Classy Restaurant Patron"
+      },
+      {
+        "name": "Jay Moore",
+        "character": "Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "Gregory Paul Valdez",
+        "character": "Migrant"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Dariusz Wolski",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Mary Vernieu",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jimmy Ortega",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Edward McDonnell",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Meg Everist",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Deborah Lynn Scott",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Erik Feig",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "name": "John Caglione Jr.",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Kevin Kavanaugh",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Roland N. Thai",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Lee Scott",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Chris Palermo",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Ellen H. Schwartz",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Marisa Frantz",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Molly Smith",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Joe Bucaro III",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Basil Iwanyk",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Thomas Rosales Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Thad Luckinbill",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jo Edna Boldin",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Richard Middleton",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Gary Archer",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "David Brownlow",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Dean A. Zupancic",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mitch Toles",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Amos Carver",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Doug Coleman",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Doug Coleman",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Peter Epstein",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Justice Whitaker",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Shone Taylor",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Stefano Sollima",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Andrejs Prokopenko",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Alejandro Reza",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Matthew Newman",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Omar Ayala",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mickey Giacomazzi",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Bobby Burns",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Hildur Guðnadóttir",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Hildur Guðnadóttir",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Mamie Mitchell",
+        "department": "Crew",
+        "job": "Additional Script Supervisor"
+      },
+      {
+        "name": "Dustin DellaVecchia",
+        "department": "Art",
+        "job": "Set Decorating Coordinator"
+      },
+      {
+        "name": "Taylor Sheridan",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Paul E. Short",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bren Cook",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "Ed Duran",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ed Duran",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Dan O'Connell",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "John T. Reitz",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "John T. Cucci",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Steve Gehrke",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Alan Robert Murray",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Carlos Muñoz Portal",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Willard Overstreet",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Bill Holmquist",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Orlando Hernandez",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Richard Foreman Jr.",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Hans Bjerno",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Brad Arensman",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Stacey Butterworth",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Lori McCoy-Bell",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Emily Egge",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Darryl Garcia Jr.",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "David B. Nowell",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "name": "Saleem Watley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Corey Welk",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Sara M. Pennington",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Jennifer Gingery",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Wolf Schneider",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Brian Austin Wenrich",
+        "department": "Production",
+        "job": "Travel Coordinator"
+      },
+      {
+        "name": "Ernest M. Sanchez",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Kevin Murray",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Juan Pablo Noval",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Anthony Simonaitis",
+        "department": "Visual Effects",
+        "job": "Pyrotechnic Supervisor"
+      },
+      {
+        "name": "Eva Jensen",
+        "department": "Crew",
+        "job": "Studio Teacher"
+      },
+      {
+        "name": "Derek Wentworth",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Keith Walters",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Patrick A. Reynolds Jr.",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Carlos Y. Jacques",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Bonnie Masoner",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Michelle Kelly",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Katy Wood",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Katy Wood",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Bradford Bell",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Lawrence Decker",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Michael Meinardus",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Whitney Coleman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James Goldman",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Jennifer Josephson",
+        "department": "Crew",
+        "job": "Additional Script Supervisor"
+      },
+      {
+        "name": "John Trejo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Erik Messerschmidt",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Trent Luckinbill",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Emma McGill",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Marie A. Kohl",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Al Goto",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Elissa Kannon",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Michael Miller",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Christopher Flick",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Russell Cannon",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Arthur Kirk Martin",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Guillaume Poulin",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "name": "Jonathan Watkins",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Donald Murphy",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "James Ashwill",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Alexandre Lafortune",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Annie Johnson",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Brenda Yanez",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Samuli Kosminen",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Damon Marcellino",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Marisol Roncali",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Nancy Lamontagne",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "name": "Luis Yañez Jacques",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Christopher Walsh",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Raphael Letertre",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "name": "Céline Zapater",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Louis-Charles Lapointe",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Nick Jimenez",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Brian Barela",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Maeve Wilson",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Stephen Nakamura",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Lawrence L. Commans",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Melanie La Rue",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jared Slater",
+        "department": "Camera",
+        "job": "Aerial Camera Technician"
+      },
+      {
+        "name": "Frédéric North",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Frédéric North",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Louis Delavenne",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Wynema Chavez",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "John D. Miller",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Dan Ming",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Jack Taggart",
+        "department": "Costume & Make-Up",
+        "job": "Ager/Dyer"
+      },
+      {
+        "name": "Doug Uttecht",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Peter Graf",
+        "department": "Camera",
+        "job": "Aerial Camera Technician"
+      },
+      {
+        "name": "Jason Oliver",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Michael Gaspar",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Bob Riggs",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Ethan Scroggins",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Sean McClellan",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Genica Lee",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Matthew R. Williams",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Jonathan Lheureux",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Skylar Gorrell",
+        "department": "Crew",
+        "job": "Pyrotechnician"
+      },
+      {
+        "name": "Phyllis Corcoran-Woods",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Jovany Garcia",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Olivier Blanchet",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "William Cote",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Etienne Deshaies",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Rene Morel",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Adam Harrison",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "No-e Gomez",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Jeremy Chiordi",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Etienne Poulin St-Laurent",
+        "department": "Visual Effects",
+        "job": "Matchmove Supervisor"
+      },
+      {
+        "name": "Erica Lee",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ryan Nguyen",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Patricia Leblanc",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "John Tripp",
+        "department": "Editing",
+        "job": "Digital Intermediate Assistant"
+      },
+      {
+        "name": "Heather Martini",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Rebecca Hill Casey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Raylin Sabo",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Giovanni DiGiorgio",
+        "department": "Editing",
+        "job": "Digital Intermediate Assistant"
+      },
+      {
+        "name": "Josh Fapp",
+        "department": "Editing",
+        "job": "Digital Intermediate Assistant"
+      },
+      {
+        "name": "Eboni Price",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "name": "Elizabeth Gabel",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "David Bishop Noriega",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Moïse Charest",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Stéphane Keller",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Mai-Anh Tran",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Matthieu Veillette",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Alexandra Robert",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "John C. Cameron",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Rodney Sandoval",
+        "department": "Camera",
+        "job": "Libra Head Technician"
+      },
+      {
+        "name": "Ester Kim",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Jonathan Gesinski",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Dee Schuka",
+        "department": "Production",
+        "job": "Post Production Accountant"
+      },
+      {
+        "name": "Christian Wenger",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Olafur Bjorn Olafsson",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Jonathan Grégoire",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Dawid Borkiewicz",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Jean-Michel Cristofaro",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Samuel Jacques",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Vincent Vezina",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Romain Hubert",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Lee Brunet",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Todd Geritz",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Georgia Tornai Packard",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Jacob Cottrell",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Robert Chase Derian",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "James McCray",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "David Ochoa",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Michael Neal",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Daniel Remillard",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Patrick Toohey",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Arlen Cooke",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Justin Gonzales",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Steven Maes",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Justin Meriwether",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Bryan Chapman",
+        "department": "Art",
+        "job": "Construction Buyer"
+      },
+      {
+        "name": "JoAnna Maes-Corlew",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Carma Harvey",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Emmanuelle John",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Lisa Ward",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Lonam Fogleman",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "John Laing",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Laila Weeks",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Mary Bowman",
+        "department": "Production",
+        "job": "Extras Casting Assistant"
+      },
+      {
+        "name": "Diana Navarrete",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Paulina Reyes",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Sarah Everest",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Shawn Roberts",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Stéphane Rioux",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "name": "Karen Arredondo Lopez",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Francesco Cadoni",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Marcin Charlicki",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Juan Fermin Maldonado",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Karthic Ramesh",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Rosi Ruiz",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Jean-Michel St-Pierre Lapierre",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Felix Vallieres",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Tim Blake",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Philip Harris-Genois",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Colin McBain",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Lucy Cooke",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Sarah Elizabeth Howe",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Frederique Gollain",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "Widy Haral",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "Emmanuelle Ngan Sing",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "Jessica Toucoula",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "name": "Jozelle Anderson",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Adriana Enriquez",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Juan Salvador Melgoza",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Susan Murphy",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Sarah Mummey",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jacob Swanson",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Josh Mason",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Stephanie 'Tuty' Correa",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Zac Pitre",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Carrie Leonard de Aguirre",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "name": "Tabata Gasse Estrada",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "J. Alexander Douglas",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Daniel James Chavez",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Daniel James Chavez",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Andy Ochoa",
+        "department": "Production",
+        "job": "Travel Coordinator"
+      },
+      {
+        "name": "Mario 'Pikachu' Rojas",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Viktor Orri Árnason",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Viktor Orri Árnason",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Kjartan Hólm",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Roman Vinuesa",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Ben Roe",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Ruben Portal",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Elizabeth Storm Dwyer",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Shani Orona",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Miranda Rivera",
+        "department": "Production",
+        "job": "Location Production Assistant"
+      },
+      {
+        "name": "Vanessa Zamarripa",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Þórarinn Guðnason",
+        "department": "Sound",
+        "job": "Musician"
+      }
+    ]
+  },
+  "keywords": [
+    "rescue",
+    "cia",
+    "corruption",
+    "usa–mexico border",
+    "sequel",
+    "shootout",
+    "explosion",
+    "brutality",
+    "drugs",
+    "sign languages",
+    "cartel",
+    "neo-noir",
+    "mexican cartel"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+    "In this adventure/drama, CIA agent Matt Graver (Josh Brolin) enlists a mysterious operative to help investigate a Mexican drug cartel that has been smuggling terrorists into the U.S. Things escalate when the daughter of a top kingpin is abducted, forcing Graver and his partner to re-evaluate their mission.—ahmetkozan",
+    "A suicide bombing in a Kansas City grocery store kills fifteen people. The United States government responds by authorizing CIA agent Matt Graver to apply extreme measures to combat Mexican drug cartels, who are suspected of smuggling the terrorists across the border. Graver and the Department of Defense decide the best option is to instigate a war between the major cartels, and Graver recruits black operative Alejandro Gillick for the mission. Gillick assassinates a high-profile lawyer of the Matamoros cartel in Mexico City while Graver and his team kidnap Isabel Reyes, the daughter of the kingpin of their rival, in a false flag operation. Graver, Gillick, and their team take Isabel to Texas and stage a \"rescue\" with the DEA and local police to make her think she was kidnapped by her father's enemies. Gillick bonds with Isabel and the team makes plans to transport her back to Mexico, intending to leave her in territory controlled by her father's rivals in order to further escalate the conflict. However, the Mexican police escort for their trip back across the border double-cross them and attack the American vehicles. Graver and his team kill dozens of Mexican policemen to escape the ambush."
+  ],
+  "synopsis": "A suicide bombing in a Kansas City retail shop kills fifteen people. The Mexican cartels control the border crossings completely. The US Border Patrol had apprehended several terrorists during crossings, who blew themselves up rather than allow themselves to be captured by US Authorities.Grave interrogates African pirate Bashir (Faysal Ahmed). Graver knows that the terrorists are from Yemen who crossed over from Mexico. So, the terrorists went from Yemen to Mexico via ship, as they could not fly in. He wants to know who paid Bashir not to attack the ship carrying the terrorists. Bashir confirms that the money came from cartel leader named Reymi.The United States government (represented by Secretary of Defense James Riley (Matthew Modine) & CIA Director Cynthia Foards (Catherine Keener)) responds by authorizing CIA agent Matt Graver (Josh Brolin) to apply extreme measures to combat Mexican drug cartels, who are suspected of smuggling the terrorists across the border.Graver and the Department of Defense decide the best option is to instigate a war between the major cartels. Graver rules out killing the head of a cartel as that would split one cartel into 50. Graver says that to start a war, kidnap a prince, and the King will start the war for you.\nGraver recruits black operative Alejandro Gillick (Benicio Del Toro) for the mission. Graver also meets with PMC official Andy Wheeldon (Shea Whigham) to secure mercenaries, helicopters, and encrypted communication equipment in order for the U.S. to maintain plausible deniability while combating the Mexican cartels. Wheeldon charges $10 million a month for payroll and supplies, plus $150,000 for himself and immunity for his participation in the operation.Gillick assassinates a high-profile lawyer of the Matamoros cartel in Mexico City while Graver and his team kidnap Isabel Reyes (Isabela Moner), the daughter of the kingpin of their rival, in a false flag operation.Graver, Gillick, and their team take Isabel to Texas and stage a \"rescue\" with the DEA and local police to make her think she was kidnapped by her father's enemies. Gillick bonds with Isabel and the team makes plans to transport her back to Mexico, intending to leave her in territory controlled by her father's rivals in order to further escalate the conflict. However, the Mexican police escort for their trip back across the border double-cross them and attack the American vehicles after they have entered Mexican territory. Graver and his team kill 25 Mexican policemen to escape the ambush. Graver's team was also protected by a predator drone, which helps eliminate the threats to the US convoy.\nIsabel flees the scene in the middle of the chaos and Gillick goes after her alone. Graver orders Gillick to bring Isabel to the border. Graver and his remaining men have to retreat as back up Mexican police contingent was starting to move towards their position.Gillick finds Isabel on the side of the Highway, where she was going to be sexually assaulted by a random person.\nMeanwhile, the American government determines that at least two of the suicide bombers in Kansas City were actually domestic terrorists, not foreign nationals and thus were not smuggled into the United States by the cartels. Plus, the American citizens from Mexico can see bodies of dozens of Mexican policemen on Fox News, claiming to be shot in a US special operation.\nIn order to quell tensions with Mexico, the President orders the CIA to abandon the mission and erase all proof of American involvement by having Isabel & Gillick killed as part of the cover-up.Graver in turn orders Gillick to kill Isabel, but he refuses and turns rogue to keep her alive. Graver assembles his team to hunt them down in Mexico. Meanwhile, Isabel recognizes Gillick as the attorney, whose family was killed on orders of her father.Gillick and Isabel move to enter the United States disguised as illegal immigrants, as it would be illegal for the CIA to execute Isabel on American soil. Gillick inserts a GPS tracker inside Isabel's shoe. They reach a border cross point, where the transfers are executed by cartel agents who take people across the border.Miguel (Elijah Rodriguez), a Mexican American \"coyote\" who is the cartel person taking the people across the border, recognizes Gillick from a previous encounter, in a parking lot in Texas. Miguel knew that Gillick was with the US security agencies.\nHe alerts his boss and Gillick and Isabel are captured. Miguel is forced to execute Gillick. He shoots Gillick and the gang leaves him for dead. Miguel is disappointed with the gang and abandons them shortly.Graver and his team track down the Mexican gang and Isabel with the help of a GPS transmitter inserted into her shoe. Graver comes inside Mexican territory via helicopter and his team kill all the gang members. Graver takes pity on Isabel and decides to bring her back to the United States and put her in witness protection rather than following his orders to kill her.\nMeanwhile, Gillick wakes up finding the bullet went through his cheek, takes one of the gang members' cars and drives for the border. One year later, Gillick has recovered from his injuries. He finds Miguel and asks him if he wants to become a Sicario."
+}

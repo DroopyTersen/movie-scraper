@@ -1,0 +1,2049 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
+  "id": 9806,
+  "title": "The Incredibles",
+  "poster_path": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+  "release_date": "2004-10-27",
+  "vote_average": 7.702,
+  "vote_count": 16893,
+  "popularity": 78.403,
+  "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+  "imdb_id": "tt0317705",
+  "budget": 92000000,
+  "homepage": "http://disney.go.com/disneyvideos/animatedfilms/incredibles/main.html",
+  "revenue": 631442092,
+  "runtime": 115,
+  "tagline": "Meet the Parrs, a family of superheroes.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Family"
+  ],
+  "production_companies": [
+    "Walt Disney Pictures",
+    "Pixar"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Craig T. Nelson",
+        "character": "Bob Parr / Mr. Incredible (voice)"
+      },
+      {
+        "name": "Holly Hunter",
+        "character": "Helen Parr / Elastigirl (voice)"
+      },
+      {
+        "name": "Sarah Vowell",
+        "character": "Violet Parr (voice)"
+      },
+      {
+        "name": "Spencer Fox",
+        "character": "Dashiell 'Dash' Parr (voice)"
+      },
+      {
+        "name": "Jason Lee",
+        "character": "Buddy Pine / IncrediBoy / Syndrome (voice)"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "character": "Lucius Best / Frozone (voice)"
+      },
+      {
+        "name": "Elizabeth Peña",
+        "character": "Mirage (voice)"
+      },
+      {
+        "name": "Eli Fucile",
+        "character": "Jack-Jack Parr (voice)"
+      },
+      {
+        "name": "Maeve Andrews",
+        "character": "Jack-Jack Parr (voice)"
+      },
+      {
+        "name": "Brad Bird",
+        "character": "Edna \"E\" Mode (voice)"
+      },
+      {
+        "name": "Teddy Newton",
+        "character": "Newsreel Narrator (voice)"
+      },
+      {
+        "name": "Jean Sincere",
+        "character": "Mrs. Hogenson (voice)"
+      },
+      {
+        "name": "Bud Luckey",
+        "character": "Rick Dicker (voice)"
+      },
+      {
+        "name": "Wallace Shawn",
+        "character": "Gilbert Huph (voice)"
+      },
+      {
+        "name": "Lou Romano",
+        "character": "Bernie Kropp (voice)"
+      },
+      {
+        "name": "Michael Bird",
+        "character": "Tony Rydinger (voice)"
+      },
+      {
+        "name": "Dominique Louis",
+        "character": "Bomb Voyage (voice)"
+      },
+      {
+        "name": "Bret Parker",
+        "character": "Kari (voice)"
+      },
+      {
+        "name": "Kimberly Adair Clark",
+        "character": "Honey (voice)"
+      },
+      {
+        "name": "John Ratzenberger",
+        "character": "Underminer (voice)"
+      },
+      {
+        "name": "Wayne Canney",
+        "character": "Principal (voice)"
+      },
+      {
+        "name": "Mark Andrews",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Nicholas Bird",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Louis Martin Braga III",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Emmy Clarke",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Pete Docter",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Louis Gonzales",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Elizabeth Greenberg",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Juliet Greenberg",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Billy Guardino",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Dennis 'D.J.' Jennings",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Ollie Johnston",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Brad Lewis",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Ted Mathot",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Jazzie Mahannah",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Randy Nelson",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Bob Peterson",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Jeff Pidgeon",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Juliet Pokorny",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Joe Ranft",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Lori Richardson",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "A.J. Riebli III",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Katherine Ringgold",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Stephen Schaffer",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Bob Scott",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Peter Sohn",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Andrew Stanton",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Frank Thomas",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Pamela Gaye Walker",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Patrick Walker",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Deirdre Warin",
+        "character": "Additional Voices (voice)"
+      },
+      {
+        "name": "Jack Angel",
+        "character": "Guard #2 / Firefighters (voice) (uncredited)"
+      },
+      {
+        "name": "Bob Bergen",
+        "character": "Firefighters (voice) (uncredited)"
+      },
+      {
+        "name": "Rodger Bumpass",
+        "character": "Firefighters (voice) (uncredited)"
+      },
+      {
+        "name": "Philip L. Clarke",
+        "character": "Firefighters (voice) (uncredited)"
+      },
+      {
+        "name": "Bill Farmer",
+        "character": "Oliver Sansweet's Lawyer / Firefighters (voice) (uncredited)"
+      },
+      {
+        "name": "Mickie McGowan",
+        "character": "Citizen Mother (voice) (uncredited)"
+      },
+      {
+        "name": "Patrick Pinney",
+        "character": "Oliver Sansweet / Firefighters (voice) (uncredited)"
+      },
+      {
+        "name": "Phil Proctor",
+        "character": "Guard #1 / Firefighters (voice) (uncredited)"
+      },
+      {
+        "name": "John Walker",
+        "character": "Reverend (voice) (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "John Lasseter",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Matthew Ferraro",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Kyrsten Mate",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Kori Rae",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Ralph Eggleston",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Rich Quade",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Rick Sayre",
+        "department": "Crew",
+        "job": "Supervising Technical Director"
+      },
+      {
+        "name": "Katherine Sarafian",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Katherine Sarafian",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Mary Hidalgo",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Samuel Lord Black",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Geefwee Boedoe",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Angus MacLane",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bryn Imagire",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Bryn Imagire",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Glenn Kim",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "Mark Cordell Holmes",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "Randy Berrett",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Albert Lozano",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "Lou Romano",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Patrick Lin",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Shawn Brennan",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Derek Williams",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "name": "Louis Gonzales",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Louis Gonzales",
+        "department": "Art",
+        "job": "Digital Storyboarding"
+      },
+      {
+        "name": "Billy Merritt",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Brett Pulliam",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bret Parker",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Gini Cruz Santos",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ellen Moon Lee",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "David Eisenmann",
+        "department": "Art",
+        "job": "Additional Set Dresser"
+      },
+      {
+        "name": "Jessica Hutchison",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Doug Sweetland",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Scott Clark",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Alan Barillaro",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Andrew Gordon",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Shawn Krause",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "David DeVan",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Stephen Gregory",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "John Kahrs",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bobby Podesta",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Michael Berenstein",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Brett Coderre",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ricardo Curtis",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "name": "Doug Dooley",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Nancy Kato",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bobby Beck",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Tim Crawfurd",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ike Feldman",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Karen Kiser",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Wendell Lee",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Daniel Mason",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Amy McNamara",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "James Ford Murphy",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Victor Navone",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Robert H. Russ",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Andrew L. Schmidt",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Patty Kihm Stevenson",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Jon Mead",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Dave Mullins",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Sanjay Patel",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ross Stevenson",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "J. Warren Trezevant",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Michael Venturini",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Kureha Yokoo",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ron Zorman",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Paul Mendoza",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Kathleen Relyea",
+        "department": "Visual Effects",
+        "job": "Animation Department Coordinator"
+      },
+      {
+        "name": "Robert Grahamjones",
+        "department": "Crew",
+        "job": "Second Film Editor"
+      },
+      {
+        "name": "Mark Yeager",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "E.J. Holowicki",
+        "department": "Crew",
+        "job": "Additional Dialogue"
+      },
+      {
+        "name": "Renee Steen",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Jason Bickerstaff",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Ben Jordan",
+        "department": "Crew",
+        "job": "Sequence Leads"
+      },
+      {
+        "name": "David Batte",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Gina Trbovich-Malewicz",
+        "department": "Art",
+        "job": "Art Department Manager"
+      },
+      {
+        "name": "Janet Lucroy",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Tim Best",
+        "department": "Lighting",
+        "job": "Master Lighting Artist"
+      },
+      {
+        "name": "Bahram Hooshmand",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Brad Andalman",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Bena Currin",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Thomas Hahn",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Tom Duff",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Brad West",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Tricia Andres",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "name": "Arik Ehle",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Erik Forman",
+        "department": "Crew",
+        "job": "Information Systems Manager"
+      },
+      {
+        "name": "Paul Cichocki",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "John Hazelton",
+        "department": "Crew",
+        "job": "Projection"
+      },
+      {
+        "name": "Doc Kane",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Michael Silvers",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Dennie Thorpe",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Jana Vance",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Juan Peralta",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Ellen Heuer",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Matthew Robbins",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Teresa Eckton",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "David Munier",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Guido Quaroni",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Michael Giacchino",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Stephen M. Davis",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Brad Bird",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Brad Bird",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Peter Sohn",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Peter Sohn",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "Randy Thom",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Randy Thom",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Randy Thom",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Tim Simonec",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Tim Simonec",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Kevin Reher",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Teddy Newton",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "name": "John Walker",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Andrew Jimenez",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Andrew Jimenez",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Stephen Schaffer",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Jen Rudin",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Matthew Jon Beck",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Frank Thomas",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Dan Wallin",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Jordan Wilby",
+        "department": "Crew",
+        "job": "Intern"
+      },
+      {
+        "name": "Ronald G. Roumas",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Rodrigo Blaas",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Mark Andrews",
+        "department": "Writing",
+        "job": "Head of Story"
+      },
+      {
+        "name": "Gary Rizzo",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Ollie Johnston",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Ted Mathot",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "Raymond Wong",
+        "department": "Visual Effects",
+        "job": "Visual Effects Technical Director"
+      },
+      {
+        "name": "Dylan Brown",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bob Scott",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bill Reichenbach",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Bruce White",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "George Doering",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Mark A. Walsh",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Cameron Patrick",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Osnat Shurer",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Michael Parks",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Michel Gagné",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Timothy Hittle",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Greg Dykstra",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Don Shank",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Kevin O'Brien",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Ricardo F. Delgado",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Tony Fucile",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Tony Fucile",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "name": "Andrew Beall",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Tom MacDougall",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Anthony Christov",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "name": "Will Files",
+        "department": "Crew",
+        "job": "Sound Design Assistant"
+      },
+      {
+        "name": "Steven Clay Hunter",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Steven Clay Hunter",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "name": "Sue Fox",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Al Nelson",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Derek Casari",
+        "department": "Sound",
+        "job": "ADR Engineer"
+      },
+      {
+        "name": "Sandra Ford Karpman",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Laura Leganza Reynolds",
+        "department": "Crew",
+        "job": "Technical Supervisor"
+      },
+      {
+        "name": "Mike Cachuela",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Erik Smitt",
+        "department": "Lighting",
+        "job": "Master Lighting Artist"
+      },
+      {
+        "name": "Doug Nichols",
+        "department": "Lighting",
+        "job": "Lighting Manager"
+      },
+      {
+        "name": "Vince Caro",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Nelson 'Rey' Bohol",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Norman Ludwin",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Nicole Paradis Grindle",
+        "department": "Visual Effects",
+        "job": "Simulation & Effects Artist"
+      },
+      {
+        "name": "Bert Berry",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Jack Hayes",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Kent Melton",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Terry Claborn",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Steve Slanec",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Jurgen Scharpf",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Michal Makarewicz",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Frank 'Pepe' Merel",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Mach Tony Kobayashi",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Marc Sondheimer",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Michael Stocker",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Luigi Passalacqua",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Gerald E. Hackett III",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Nigel Hardwidge",
+        "department": "Crew",
+        "job": "Sequence Supervisor"
+      },
+      {
+        "name": "Gennie Rim",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "John R. Anderson",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Jan Hessens",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "David Sotnick",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Camille Leganza",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Lloyd Bernberg",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Sungyeon Joh",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Chris DiGiovanni",
+        "department": "Visual Effects",
+        "job": "Animation Manager"
+      },
+      {
+        "name": "Joshua Hollander",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Esther Pearl",
+        "department": "Art",
+        "job": "Art Department Manager"
+      },
+      {
+        "name": "Esther Pearl",
+        "department": "Writing",
+        "job": "Story Manager"
+      },
+      {
+        "name": "Juliet Pokorny",
+        "department": "Editing",
+        "job": "Editorial Manager"
+      },
+      {
+        "name": "Glenn Kasprzycki",
+        "department": "Editing",
+        "job": "Editorial Services"
+      },
+      {
+        "name": "Brian Christian",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Belinda van Valkenburg",
+        "department": "Visual Effects",
+        "job": "CG Painter"
+      },
+      {
+        "name": "Tom Boyd",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "James Thatcher",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Josh Anon",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "M.B. Gordy",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Doug Sheppeck",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Oren Jacob",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Mitch Prater",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Brian M. Rosen",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Peter Davies",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Alex Orrelle",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Charles Paley",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "David Richard Nelson",
+        "department": "Visual Effects",
+        "job": "Creature Technical Director"
+      },
+      {
+        "name": "David Baraff",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Dale Ruffolo",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Carlos Baena",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Sanjay Bakshi",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Jeremy Birn",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Airton Dittz Jr.",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Travis Hathaway",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Rob Jensen",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Matt Majers",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Cameron Miyasaki",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Andrew Pienaar",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Peter Sumanaseni",
+        "department": "Lighting",
+        "job": "Master Lighting Artist"
+      },
+      {
+        "name": "Kurt Fleischer",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Michael Kass",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Mark Meyer",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Tony DeRose",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "F. Sebastian Grassia",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Eric Gregory",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Michael B. Johnson",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Brett Levin",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Arun Rao",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Sarah Shen",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Dirk Van Gelder",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Adam Woodbury",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Cory Knox",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Chris Lasell",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Matthew Lindahl",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Terry Lee Moseley",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Ian Westcott",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Brian Boyd",
+        "department": "Lighting",
+        "job": "Master Lighting Artist"
+      },
+      {
+        "name": "Lars R. Damerow",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Patrick Guenette",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Steven James",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Kristifir Klein",
+        "department": "Crew",
+        "job": "Sequence Leads"
+      },
+      {
+        "name": "Ken Lao",
+        "department": "Crew",
+        "job": "Sequence Leads"
+      },
+      {
+        "name": "Ken Lao",
+        "department": "Lighting",
+        "job": "Master Lighting Artist"
+      },
+      {
+        "name": "Josh Minor",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Keith Olenick",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Jennifer Becker",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Gabriel Benveniste",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Bethany Jane Hanson",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Ling Hsu",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jason 'Jayfish' Hull",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Chris King",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Gary Monheit",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Peter Nye",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Sudeep Rangaswamy",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Michael Shantzis",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Nelson Siu",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Brian Smits",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Heidi Stettner",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Elle Yoko Suzuki",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Andy Thomas",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jay Weiland",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Andy Witkin",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Audrey Wong",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Wayne Wooten",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "David Yu",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Karl Vincent",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Jeff Bunnell",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Mark Gasbarro",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Anna Noakes",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Dan Nguyen",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "BoB 'Naked BoB' Morgan",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jose Ignacio",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "James G. Dashe",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Bryan Bird",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Sheri Patterson",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Jonathan Pytko",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "David Ryu",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Michael O'Brien",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Kevin Edwards",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Benjamin Andersen",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Bolhem Bouchiba",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Adam Burke",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Doug Frankel",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "David Earl Smith",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Michael Wu",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Clayton Haslop",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Richard Todd",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Kenneth Sullivan",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Miriam Mayer",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "John Van Houten",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Alexander Iles",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Jane Yen",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Jim Atkinson",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Michael Chann",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Alex Mohr",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Martin Reddy",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Kiril Vidimce",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Gordon D.B. Cameron",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Meagan Miller",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Ross Dickinson",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "James Handelin",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Will Phan",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Auburn C. 'Aubie' Schmidt",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Rick Baptist",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Loren Carpenter",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Malcolm Blanchard",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Eric Lebel",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Tommy Johnson",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Dale McBeath",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Ted Blackman",
+        "department": "Visual Effects",
+        "job": "Visual Effects Designer"
+      },
+      {
+        "name": "Kim Collins",
+        "department": "Lighting",
+        "job": "Lighting Manager"
+      },
+      {
+        "name": "Lucas Ives",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Mark Leone",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Zachariah Baum",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Christopher Colby",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Marco da Silva",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Pete Demoreuille",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Brendan Donohoe",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Max Drukman",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Mark Harrison",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Ralph Hill",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Tom Lokovic",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Fabio Pellacini",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Rudrajit Samanta",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Chris Schoeneman",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Paul Strauss",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Gareth Davis",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Jerremy Holland",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Karon Weber",
+        "department": "Crew",
+        "job": "Software Team Lead"
+      },
+      {
+        "name": "Joe Meyer",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Diane Mueller",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Brian O'Connor",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Kurt Snyder",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Alan Kaplan",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Richard Nash",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Wayne Bergeron",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Maurice Murphy",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Susan Fisher Fong",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "John V. Graziano",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Sabine Magdelena Koch",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "name": "Sabine Magdelena Koch",
+        "department": "Writing",
+        "job": "Story Coordinator"
+      },
+      {
+        "name": "Ziah Sarah Fogel",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "name": "Jake Walker",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Chris Tilton",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Daniel Holland",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Meg McWhinney",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Sywa Sung",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Simon Dunsdon",
+        "department": "Visual Effects",
+        "job": "CG Artist"
+      },
+      {
+        "name": "Melissa Wegman",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "George Peterson Jr.",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Paul Topolos",
+        "department": "Visual Effects",
+        "job": "Matte Painter"
+      },
+      {
+        "name": "Renee Adams",
+        "department": "Editing",
+        "job": "Project Manager"
+      },
+      {
+        "name": "Nick Berry",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "island",
+    "hero",
+    "secret identity",
+    "superhero",
+    "wretch",
+    "cartoon",
+    "lawsuit",
+    "family relationships",
+    "super power",
+    "1950s",
+    "1960s",
+    "superhero family"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+    "Bob Parr (A.K.A. Mr. Incredible), and his wife Helen (A.K.A. Elastigirl), are the world's greatest famous crime-fighting superheroes in Metroville, always saving lives and battling evil on a daily basis. But 15 years later, they have been forced to adopt civilian identities and retreat to the suburbs where they have no choice but to retire as superheroes to live a \"normal life\" with their three children Violet, Dash and Jack-Jack, who were born with secret superpowers. Itching to get back into action, Bob gets his chance when a mysterious communication summons him to a remote island for a top-secret assignment. He soon discovers that it will take a super family effort to rescue the world from total destruction.—Anthony Pereyra {hypersonic91@yahoo.com}",
+    "In this lauded Pixar animated film, married superheroes Mr. Incredible and Elastigirl are forced to assume mundane lives as Bob and Helen Parr after all super-powered activities have been banned by the government. While Mr. Incredible loves his wife and kids, he longs to return to a life of adventure, and he gets a chance when summoned to an island to battle an out-of-control robot. Soon, Mr. Incredible is in trouble and it's up to his family to save him.—Jwelch5742",
+    "Fed up with the local masked crime fighters and superheroes, the people of Metroville have decided they can do without them. As a result, fifteen long years and several lawsuits later, once-popular super-strong defender Bob Parr and his exceptional elastomer-limbed wife Helen now lead an ordinary suburban life as civilians with their equally extraordinary three kids. However, a mysterious invitation jolts Bob into action. At last, for the first time in a long while, Mr Parr feels useful, free to do what he does best. But once more, the Earth is in danger. Can the long-forgotten Incredibles save the day?—Nick Riganas",
+    "Superheroes are no longer a secret to the world; their identities are known to the US Government and they've become model citizens in a conforming world. But heroes know no limits to persistence. Retired superhero Mr. Incredible receives a mysterious message from a mysterious woman on a seemingly deserted island. Little does Mr. Incredible realize that he'll soon be in the cross-hairs of a conspiracy involving all the world's superheroes.—Johnny"
+  ],
+  "synopsis": "In a retro-futuristic version of the 1960s, a superhuman named Robert \"Bob\" Parr (better known by his superhero alias \"Mr Incredible\") fights crime as an undercover superhero using his powers of super-strength in the city of Metroville (a parody of Metropolis). one afternoon while on the way to his wedding, Bob helps an elderly woman with her cat, stops a police car chase, prevents the suicide of the local bank president Oliver Sansweet and attempts to prevent a French clown-like super-villain named Bomb Voyage from robbing the Metroville Bank. whilst attempting to save the bank, a 10-year-old fan boy named Buddy Pine wants to be Mr Incredible's sidekick, and unintentionally interferes, causing Bomb Voyage to get away and blow up part of a monorail system. Bob makes it to his wedding late and marries his longtime girlfriend Helena Truax (better known by her super-heroine alias \"Elastagirl\", who is also a superhuman and is capable of changing the shape and size of her body via stretching). shortly after their marriage, Mr Incredible is sued in Superior Court by Oliver Sansweet and the injured train passengers, leading to the government eventually banning all super-humans from using their superpowers in public.15 years later, Bob and Helen are now living a quiet suburban life with their three new children, Violet Parr (a 15-year-old social outcast who has the powers of invisibility and force fields), Dashiell Robert \"Dash\" Parr (a 10-year-old sporty troublemaker who has the power of super-speed) and Jacob \"Jack-Jack\" Parr (an infant capable of multiple superpowers unknown to the family). the family is often now struggling with everyday life problems and is sometimes dysfunctional, and Bob is bored with his new job as a clerk for the business company Insuricare, thus secretly trying to sneak out at night as a masked vigilante with his longtime best friend Lucious Best (better known by his superhero alias \"Frozone\", who is also a superhuman and has the power of freezing things). one day, Bob loses his temper with his grumpy boss Mr Gilbert Huph who refuses to let him stop a nearby mugging during a private meeting, and Bob angrily smashes him through the office and is fired. when he arrives home, worrying what Helen will think, Bob finds a message from an overseas scientist named Mirage who tells him she is working for a base on a remote island and they need his help to shut down an out-of-control AI-controlled robot known as the \"Omnidroid\" which is terrorising their laboratory. Bob sees this as an opportunity to become a superhero again, and leaves, telling Helen that he has been sent to a conference.as Mr Incredible, Bob is flown overseas to a tropical jungle island. Mirage warns him that the Omnidroid has an advanced artificial intelligence and is designed to teach itself, so that Bob should not fight it too much. Bob lands in the jungle, and the Omnidroid appears, revealing its appearance as a gigantic octopus-like droid. Bob battles with the machine, finding it almost invincible, but eventually manages to destroy it in a volcano. after he is sent home, Bob notices a tear in his costume and seeks the help of his fashion designer, Edna \"E\" Mode. Edna tells Bob that he cannot use a cape during battles, due to many superheroes in the past dying from cape-related accidents, and she designs him a new red and yellow suit to replace his old blue and red suit. incorrectly assuming he has told his family about going back into superhero business, Edna decides to design new suits for the entire family.Bob is sent back to the island to have a meeting with Mirage, but when he arrives, he discovers that Mirage is really a secret agent who is the second-in-command for a crime lord and cereal killer known as \"Syndrome\", and his mission was only a test for the Omnidroid's abilities. Bob is attacked again by the now-updated Ominidroid and Syndrome appears. Syndrome reveals himself to really be an adult Buddy Pine who now seeks revenge on Bob for rejecting him as a sidekick. Syndrome throws Bob into a lake and attempts to kill Bob with a miniature bomb, but Bob escapes via swimming through a cave, though Syndrome assumes him to be dead.at nightfall, Bob sneaks into Syndrome's secret base lair and looks into his computer files. Bob finds that Syndrome has been secretly planning and thus far succeeding in a mass genocide scheme known as \"Operation: Kronos\", and has been testing previous Omnidroid replicas via killing past superheroes and has plans already to kill Helen. suddenly, Mirage catches Bob and Syndrome has him imprisoned.meanwhile, Helen notices the tear in Bob's costume and visits Edna to have it mended. Edna, assuming she knows what Bob has been up to, shows Helen all the suits she has made for the family. Helen, now confused and concerned, calls Insuricare to make sure she knows where he is, but is surprised to discover he has been fired. using Edna suit-tracking device, Helen finds that Bob has travelled to a tropical remote island. she takes the new suits home and borrows a jet from her longtime pilot friend, Snug Porter, and uses it to pursue Bob. Helen soon realises that Violet and Dash have snuck into the plane, angering her but also prompting her to fear for their safety. Syndrome tracks them down and attempts to kill them with missiles, but Helen manages to save her kids as the plane explodes, although Syndrome assumes them to be dead.Helen shifts her body into speedboat-shape, and manages to bring her children to the island. over night, they camp in a cave, and Helen leaves to find Bob, telling the kids that they must use their powers in case of emergency. the kids eventually escape the cave by morning, after realising it was part of a volcano. they are picked up by Syndrome's henchmen who they battle with. after Bob is freed by Helen and Mirage (although Helen becomes suspicious about Bob having a relationship with Mirage), they join their kids into the battle. this is all eventually broken up by Syndrome, who imprisons them all.Syndrome reveals his evil plan to the family, that he will become the hero he dreamed of being by pretending to save the world from his own creations, and selling superhero inventions so that everyone will have fake superpowers of their own and mutant super-humans will no longer have a place in the world. Syndrome unleashes his most biggest and powerful Omnidroid replica on Metroville, and pretends to battle with it by remote-controlling it and using his gadgets on it. but, due its artificial intelligence, manages to outsmart him and knocks away his controller and knocks him unconscious. the family are broken out by Violet (with help from the reformed Mirage) and use one of Syndrome's jets to fly to Metroville. with the help of Frozone, and Syndrome's remote, they manage to destroy the Omnidroid by smashing one of its claws through its power source. when Syndrome awakens, he is jealous to find that the \"Incredibles\" are now accepted by the public as superheroes despite the law, and he vows revenge. after they are transported home, the family find Syndrome attempting to kidnap Jack-Jack. when Jack-Jack awakens, Syndrome threatens him, and Jack-Jack manages to use his own powers to traumatise him and force him to let go. a traumatised Syndrome attempts to escape in his plane, but is sucked cape-first into the jet's engine, killing him and causing the plane to crash on their house.months later, the family have moved to a motel. Dash is a champion at the school athletics, and Violet asks out her boyfriend Tony \"Anthony\" Rydinger. as the family head home, a gigantic drilling war machine appears, driven by a miner-like super-villain with a mole-like face. the criminal gives him name as the \"Underminer\" and declares war, as the family grin in their suits and know they must save the world."
+}

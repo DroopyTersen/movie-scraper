@@ -1,0 +1,568 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/zONM403tEJuSi0kZhA3TxkUoS22.jpg",
+  "id": 1535,
+  "title": "Spy Game",
+  "poster_path": "https://image.tmdb.org/t/p/w500/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg",
+  "release_date": "2001-11-18",
+  "vote_average": 6.912,
+  "vote_count": 1939,
+  "popularity": 22.498,
+  "overview": "On the day of his retirement, a veteran CIA agent learns that his former protégé has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal.",
+  "imdb_id": "tt0266987",
+  "budget": 115000000,
+  "homepage": "",
+  "revenue": 143049560,
+  "runtime": 126,
+  "tagline": "It's not how you play the game. It's how the game plays you.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Universal Pictures",
+    "TOHO-TOWA",
+    "Beacon Communications",
+    "Kalima Productions",
+    "Red Wagon Productions",
+    "Metropolitan Filmexport",
+    "October Pictures"
+  ],
+  "production_countries": [
+    "FR",
+    "DE",
+    "HK",
+    "JP",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Robert Redford",
+        "character": "Nathan D. Muir"
+      },
+      {
+        "name": "Brad Pitt",
+        "character": "Tom Bishop"
+      },
+      {
+        "name": "Catherine McCormack",
+        "character": "Elizabeth Hadley"
+      },
+      {
+        "name": "Stephen Dillane",
+        "character": "Charles Harker"
+      },
+      {
+        "name": "Larry Bryggman",
+        "character": "Troy Folger"
+      },
+      {
+        "name": "Marianne Jean-Baptiste",
+        "character": "Gladys Jennip"
+      },
+      {
+        "name": "Matthew Marsh",
+        "character": "Dr. William Byars"
+      },
+      {
+        "name": "Todd Boyce",
+        "character": "Robert Aiken"
+      },
+      {
+        "name": "Michael Paul Chan",
+        "character": "Vincent Vy Ngo"
+      },
+      {
+        "name": "Garrick Hagon",
+        "character": "CIA Director Cy Wilson"
+      },
+      {
+        "name": "Andrew Grainger",
+        "character": "Andrew Unger"
+      },
+      {
+        "name": "Bill Buell",
+        "character": "Fred Kappler"
+      },
+      {
+        "name": "Colin Stinton",
+        "character": "Henry Pollard"
+      },
+      {
+        "name": "Ted Maynard",
+        "character": "CIA Administrator"
+      },
+      {
+        "name": "Tom Hodgkins",
+        "character": "CIA Lobby Guard"
+      },
+      {
+        "name": "Rufus Wright",
+        "character": "Folger's Secretary"
+      },
+      {
+        "name": "Demetri Goritsas",
+        "character": "Billy Hyland"
+      },
+      {
+        "name": "Quinn Collins",
+        "character": "Ops Centre Security Officer"
+      },
+      {
+        "name": "Sam Scudder",
+        "character": "Back Bencher"
+      },
+      {
+        "name": "Yann Johnson",
+        "character": "CIA Back Bencher"
+      },
+      {
+        "name": "Pat McGrath",
+        "character": "Cleaner"
+      },
+      {
+        "name": "Shane Rimmer",
+        "character": "Estate Agent"
+      },
+      {
+        "name": "David Hemmings",
+        "character": "Harry Duncan"
+      },
+      {
+        "name": "James Aubrey",
+        "character": "Mitch Alford"
+      },
+      {
+        "name": "In-sook Chappell",
+        "character": "Receptionist"
+      },
+      {
+        "name": "Benedict Wong",
+        "character": "Tran"
+      },
+      {
+        "name": "Ken Leung",
+        "character": "Li"
+      },
+      {
+        "name": "Adrian Pang",
+        "character": "Jiang"
+      },
+      {
+        "name": "Ho Yi",
+        "character": "Prison Warden"
+      },
+      {
+        "name": "David Y. Cheung",
+        "character": "Down's Prisoner"
+      },
+      {
+        "name": "Tony Xu",
+        "character": "Interrogator"
+      },
+      {
+        "name": "Mark Sung",
+        "character": "Ambulance Driver"
+      },
+      {
+        "name": "David K.S. Tse",
+        "character": "Prison Doctor"
+      },
+      {
+        "name": "Logan Wong",
+        "character": "Prison Guard"
+      },
+      {
+        "name": "Hon Ping Tang",
+        "character": "Prison Guard"
+      },
+      {
+        "name": "Dan Tse",
+        "character": "Warden's Lieutenant"
+      },
+      {
+        "name": "Vincent Wang",
+        "character": "Outer Gate Guard"
+      },
+      {
+        "name": "Stuart Milligan",
+        "character": "Captain"
+      },
+      {
+        "name": "Joseph Chanet",
+        "character": "VC General"
+      },
+      {
+        "name": "Eddie Yeoh",
+        "character": "General Hun Chea"
+      },
+      {
+        "name": "Freddie Joe Farnsworth",
+        "character": "Radioman"
+      },
+      {
+        "name": "Joerg Stadler",
+        "character": "Schmidt"
+      },
+      {
+        "name": "Zsolt Zágoni",
+        "character": "West German Businessman"
+      },
+      {
+        "name": "Balázs Tardy",
+        "character": "VOPO No.1"
+      },
+      {
+        "name": "Pál Oberfrank",
+        "character": "VOPO No. 2"
+      },
+      {
+        "name": "Géza Schramek",
+        "character": "East German Refugee"
+      },
+      {
+        "name": "Imre Csuja",
+        "character": "Bar Owner"
+      },
+      {
+        "name": "Melinda Völgyi",
+        "character": "Bar Owner's Wife"
+      },
+      {
+        "name": "Károly Rékasi",
+        "character": "East German Border Guard"
+      },
+      {
+        "name": "Kimberly Tufo",
+        "character": "Sandy"
+      },
+      {
+        "name": "Iain Smith",
+        "character": "Ambassador Cathcart"
+      },
+      {
+        "name": "Gregory Groth",
+        "character": "CIA Training Instructor"
+      },
+      {
+        "name": "Peter Linka",
+        "character": "CIA Polygraph"
+      },
+      {
+        "name": "Omid Djalili",
+        "character": "Doumet"
+      },
+      {
+        "name": "Amidou",
+        "character": "Dr. Ahmed"
+      },
+      {
+        "name": "Nabil Massad",
+        "character": "Sheik Salameh"
+      },
+      {
+        "name": "Mohamed Picasso",
+        "character": "Colonel Ajami"
+      },
+      {
+        "name": "Aziz Ait Essahmi",
+        "character": "Checkpoint Guard"
+      },
+      {
+        "name": "Moustapha Moulay",
+        "character": "Arab Businessman"
+      },
+      {
+        "name": "Mohamed Quatib",
+        "character": "Motorcyclist/Decoy Man"
+      },
+      {
+        "name": "Farid Regragui",
+        "character": "Suicide Van Driver"
+      },
+      {
+        "name": "Dale Dye",
+        "character": "Commander Wiley"
+      },
+      {
+        "name": "Tim Briggs",
+        "character": "Heli Pilot"
+      },
+      {
+        "name": "Frank Nall",
+        "character": "CNN Reporter"
+      },
+      {
+        "name": "Ian Porter",
+        "character": "US-China Reporter"
+      },
+      {
+        "name": "Charlotte Rampling",
+        "character": "Anne Cathcart"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Lucinda Syson",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Bonnie Timmermann",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Tony Scott",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Douglas Wick",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steven Rosenblum",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "name": "Louise Frogley",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Christian Wagner",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Harry Gregson-Williams",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Andy Nicholson",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Alan Gilmore",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "David Leitch",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Leitch",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Rob Inch",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marc Abraham",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dan Mindel",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Robert Cowper",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Michael Frost Beckner",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "David Arata",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Norris Spencer",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Jille Azis",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Greg Campbell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Theo Kypri",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Katona",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lizz Wolf",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "C.C. Smiff",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jean Ann Black",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Steve Dent",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Gary Liddiard",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Anna Worley",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Carmila Gittens",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Ray De-Haan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Karin Anderson",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "name": "Fríða Aradóttir",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Graham Johnston",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Tena Parker",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Charles Bodycomb",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Ben Ansell",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Dominic Ackland-Snow",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Saïd Raïs",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Ferenc Ormos",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Trevor Wood",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Andy Merchant",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Reg Wayment",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bradley Farmer",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Levente Lezsák",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kelly Dent",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Dominic Preece",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard Wu",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "vietnam war",
+    "palestinian-israeli conflict",
+    "cia",
+    "china",
+    "espionage",
+    "spy",
+    "cold war",
+    "flashback",
+    "terrorism"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Retiring CIA agent Nathan Muir recalls his training of Tom Bishop while working against agency politics to free him from his Chinese captors.",
+    "CIA operative Nathan Muir (Redford) is on the brink of retirement when he finds out that his protege Tom Bishop (Pitt) has been arrested in China for espionage. No stranger to the machinations of the CIA's top echelon, Muir hones all his skills and irreverent manner in order to find a way to free Bishop. As he embarks on his mission to free Bishop, Muir recalls how he recruited and trained the young rookie, at that time a sergeant in Vietnam, their turbulent times together as operatives and the woman who threatened their friendship.—ck",
+    "It's April 14, 1991, the final day of work for CIA case agent Nathan Muir before he retires. It has been a job that has not made him opulently wealthy, he planning on using his life savings of $282,000 to purchase a retirement property in the Bahamas. This day, he is called by a task force led by Charles Harker and Troy Folger to provide any personal information on Tom Bishop, a CIA undercover field agent who has just been apprehended by the Chinese government in China, and who will be executed in twenty-four hours by the Chinese on charges of espionage unless the US government claims him, which if they do means answering to what was Bishop's unauthorized operation in China. Bishop, a former US Army sharpshooter, was recruited into the CIA as a contract agent by Muir, who acted as his trainer, mentor and case agent in his early CIA career, hence the reason for Muir being called by the task force to provide personal information which may not be in Bishop's official file. What Muir does not tell the task force is that he had heard about Bishop's predicament earlier by one of his CIA colleagues, Harry Duncan, who is currently working an operation in Hong Kong. Although the task force members do not come right out and say so, Muir knows they are working on a different agenda than him, they whose main goal is to protect an imminent trade negotiation between the US and China which means possibly sacrificing Bishop as collateral damage, while Muir is determined to stop the execution and ensure Bishop's safe return as one of CIA's own and as his friend. Muir spends much of the day with the task force, which takes up much of his time to achieve his goal, but which also allows him to feed the task force information or misinformation which may assist his own cause while gleaning information from the task force which he may not know. Assisting Muir outside the war room is his faithful assistant, Gladys Jennip. Getting Bishop back to safety also means that Muir has to figure out what was Bishop's operation in China.—Huggo",
+    "Brad Pitt is reunited as a co-star with his A River Runs Through It (1992) director Robert Redford for this espionage thriller from Tony Scott. On the verge of retirement from the Central Intelligence Agency, veteran spy Nathan Muir (Redford) learns that his one-time protege Tom Bishop (Pitt) has gone rogue and been taken prisoner after attempting to smuggle a prisoner out of China. Although Muir and Bishop had once been close friends, sharing adventures from Vietnam to Berlin, bad blood and resentment developed between them, and the two men haven't seen each other in years. As his memories of their friendship come flooding back, Muir sets about arranging the rescue of his old friend from a Communist jail.",
+    "On the day of his retirement, a veteran CIA agent (Redford) learns that his former protégé (Pitt) has been arrested in China, is sentenced to die the next morning in Beijing, and that the CIA is considering letting that happen to avoid an international scandal."
+  ],
+  "synopsis": "Set in 1991, the film depicts the U.S. and Chinese Governments on the verge of a major trade agreement, with the American President due to pay a visit to China to seal the deal. The Central Intelligence Agency gets word that their Special Activities Division operative Tom Bishop (Brad Pitt) has been captured trying to free an Englishwoman, Elizabeth Hadley (Catherine McCormack), from a Chinese prison near Su Chou (Suzhou). Bishop is being questioned under torture and will be executed within twenty-four hours unless he is claimed by the U.S. Government, so they scramble to decide what to doif they claim Bishop as an agent, they risk destroying the trade agreement. Exacerbating the situation is the fact that Bishop was operating in a \"rogue\" capacity without permission from the Agency.In an attempt to quickly deal with the situation, CIA executives call in Nathan Muir (Robert Redford), an aging mid-level case officer on his last day before retirement, and the man who recruited Bishop. Although they tell Muir that they simply need him to act as a \"stop gap\" to fill in some holes in their background files, the officials are in reality hoping that what he gives them is the smoking gun they need to justify letting Bishop die. Realizing as much, Muir attempts to save Bishop by leaking the story to CNN through a contact in Hong Kong, believing that the CIA will rescue Tom once a public outcry puts pressure on them to do so. Unfortunately for Muir, the tactic only stalls them, as a phone call to the FCC from a high ranking executive results in CNN retracting the story.During the debriefing, referred to above, Muir describes how he recruited Bishop into the MACV-SOG while the latter was an Marine Corps sniper in Vietnam. Muir also discusses their tour of duty in Berlin in 1975. Both sub-plots are given extensive time in the film. Considerable time is also devoted to Muir and Bishop's spy work in Lebanon that culminated to a plot similar to that of the 1985 Beirut car bombing the aftermath of which led to the last time the two saw each other face to face.With his plan quashed, Muir resorts to far more dangerous tactics, secretly creating a forged urgent operational directive from the CIA Director to commence Operation Dinner Out: a daring rescue mission spearheaded by U.S. Navy SEALs which Bishop laid the groundwork for as a 'Plan B' to his own rescue attempt. Using US$282,000 of his life savings and a misappropriated file on Chinese coastline satellite imagery, Muir bribes a Chinese energy official to cut power to the prison for thirty minutes, during which time the SEAL rescue team retrieves Bishop and Hadley.Hadley, who fled the UK after carrying out a bombing of the Chinese Embassy, met Bishop in Lebanon. She was in the Chinese prison after being kidnapped and exchanged for an arrested US diplomat. It was in fact Muir himself who had arranged the kidnapping, believing she could possibly expose Bishop's true identity as a CIA paramilitary operative. After realizing that Hadley was the target of Bishop's daring rescue attempt, Muir finally learns that he greatly underestimated Bishop's feelings for her. It is this guilt which prompts him to part with his life savings in order to save her and Bishop, going against his warning to Bishop years previously in Berlin that he would not go after him if he went \"off the reservation.\"Bishop, who is rescued at the end of the film nearly 15 minutes prior to his scheduled execution, realizes Muir was behind his rescue since the name of the plan to rescue him, \"Operation Dinner Out,\" was a reference to a birthday gift that Bishop gave Muir while they were in Lebanon."
+}

@@ -1,0 +1,667 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ogKegWajhtkFUmDbCqsa2rJLwbn.jpg",
+  "id": 4476,
+  "title": "Legends of the Fall",
+  "poster_path": "https://image.tmdb.org/t/p/w500/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg",
+  "release_date": "1994-12-16",
+  "vote_average": 7.4,
+  "vote_count": 2406,
+  "popularity": 32.758,
+  "overview": "An epic tale of three brothers and their father living in the remote wilderness of 1900s USA and how their lives are affected by nature, history, war, and love.",
+  "imdb_id": "tt0110322",
+  "budget": 30000000,
+  "homepage": "",
+  "revenue": 160638883,
+  "runtime": 133,
+  "tagline": "After the Fall from Innocence the Legend begins.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Romance",
+    "War",
+    "Western"
+  ],
+  "production_companies": [
+    "Bedford Falls Productions",
+    "TriStar Pictures",
+    "Pangaea"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Brad Pitt",
+        "character": "Tristan Ludlow"
+      },
+      {
+        "name": "Anthony Hopkins",
+        "character": "Col. William Ludlow"
+      },
+      {
+        "name": "Aidan Quinn",
+        "character": "Alfred Ludlow"
+      },
+      {
+        "name": "Julia Ormond",
+        "character": "Susannah Fincannon Ludlow"
+      },
+      {
+        "name": "Henry Thomas",
+        "character": "Samuel Ludlow"
+      },
+      {
+        "name": "Karina Lombard",
+        "character": "Isabel Two Decker Ludlow"
+      },
+      {
+        "name": "Gordon Tootoosis",
+        "character": "One Stab"
+      },
+      {
+        "name": "John Novak",
+        "character": "James O'Banion"
+      },
+      {
+        "name": "Robert Wisden",
+        "character": "John T. O'Banion"
+      },
+      {
+        "name": "Tantoo Cardinal",
+        "character": "Pet"
+      },
+      {
+        "name": "Paul Desmond",
+        "character": "Decker"
+      },
+      {
+        "name": "Christina Pickles",
+        "character": "Isabel Ludlow"
+      },
+      {
+        "name": "Kenneth Welsh",
+        "character": "Sheriff Tynert"
+      },
+      {
+        "name": "Bill Dow",
+        "character": "Longley"
+      },
+      {
+        "name": "Sam Sarkar",
+        "character": "Rodriguez"
+      },
+      {
+        "name": "Nigel Bennett",
+        "character": "Asgaard"
+      },
+      {
+        "name": "Keegan MacIntosh",
+        "character": "Boy Tristan"
+      },
+      {
+        "name": "Eric Johnson",
+        "character": "Teen Tristan"
+      },
+      {
+        "name": "Randall Slavin",
+        "character": "Teen Alfred"
+      },
+      {
+        "name": "Doug Hughes",
+        "character": "Teen Samuel"
+      },
+      {
+        "name": "Sekwan Auger",
+        "character": "Young Isabel Two"
+      },
+      {
+        "name": "Christine Harder",
+        "character": "Isabel Three"
+      },
+      {
+        "name": "Charles Andre",
+        "character": "Federal Officer"
+      },
+      {
+        "name": "Weston McMillan",
+        "character": "Noel"
+      },
+      {
+        "name": "David Kaye",
+        "character": "Samuel Decker"
+      },
+      {
+        "name": "Bart the Bear",
+        "character": "Bear"
+      },
+      {
+        "name": "Ken Kirzinger",
+        "character": "O'Banion Thug"
+      }
+    ],
+    "crew": [
+      {
+        "name": "James Horner",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "John Toll",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Steven Rosenblum",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Lilly Kilvert",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Christine Beveridge",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Deborah Lynn Scott",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Edward Zwick",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Edward Zwick",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Marshall Herskovitz",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Gilbert B. Combs",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dino DiMuro",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jane Bartelme",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Christopher Assells",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Per Hallberg",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Lon Bender",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Mary Colquhoun",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "William D. Wittliff",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "William D. Wittliff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Patrick Crowley",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jim Harrison",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Susan Shilliday",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Andrew Precht",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Dorree Cooper",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Paul Massey",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Guy Bews",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tony Morelli",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Melissa R. Stubbs",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John M. Eckert",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Robert Frazen",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "name": "Lewin Webb",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "David Holden",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "name": "Shawn Murphy",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Bobby Huber",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Mike Mitchell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Iloe Flewelling",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Brent Woolsey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brent Woolsey",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Tom Eirikson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rick Roberts",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Murray Ord",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Gary Combs",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "J.J. Makaro",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary A. Hecker",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Baylis Glascock",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Kerry Hayes",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "James Plannette",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Tom Glass",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sarah Caplan",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Fred Perron",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Randy Singer",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Jean Ann Black",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "David E. Campbell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "John T. Cucci",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Mark Gordon",
+        "department": "Sound",
+        "job": "Foley Supervisor"
+      },
+      {
+        "name": "Jay B. Richardson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Gail Kennedy",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Randy Kelley",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Patrick J. Foley",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "John Clothier",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Jim Henrikson",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Lara Fox",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Mark Larry",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Tony Guerin",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Richard Dwan Jr.",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Karen Baker Landers",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Joseph A. Mayer",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Cynthia E. Thornton",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Harry Cheney",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Willy Allen",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Jan Kobylka",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Lorelei Kuchera",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Jim Dunn",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Carey Toner",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "David Le Vey",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Caroline Hardon",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Nilo Otero",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Wendi Laski",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Kirk Chiswell",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Jeff Gomillion",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Suzanne Stokes-Munton",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Valerie Davidson",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Mike Vézina",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Joe Dodds",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Donah Bassett",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Douglas Ganton",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Reynald Trudel",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Armin Matter",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Mark R. La Pointe",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Frank Mejerski",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Catt LeBaigue",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Jason Glass",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Fred Peck III",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Ciaran Copelin",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Greg Schlosser",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jimmy Chow",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Ani Baravyan",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "John Scott",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jim Finkbeiner",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brian Aebly",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Gavin B. Craig",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Ariel Nachmann",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      }
+    ]
+  },
+  "keywords": [
+    "sibling relationship",
+    "based on novel or book",
+    "world war i",
+    "journey around the world",
+    "montana",
+    "1900s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "In the early 1900s, three brothers and their father living in the remote wilderness of Montana are affected by betrayal, history, love, nature, and war.",
+    "In early twentieth century Montana, Colonel William Ludlow (Sir Anthony Hopkins) lives in the wilderness with his sons, Tristan (Brad Pitt), Alfred (Aidan Quinn), and Samuel (Henry Thomas). Eventually, the unconventional, but close-knit, family encounters tragedy when Samuel is killed in World War I. Tristan and Alfred survive their tours of duty, but, soon after they return home, both men fall for Samuel's gorgeous fiancée, Susannah (Julia Ormond), and their intense rivalry begins to destroy the family.—Jwelch5742",
+    "Set in the Rocky Mountains of Montana in the early 1900s, this is a tale of love, betrayal, and brotherhood. After being discharged, Colonel William Ludlow (Sir Anthony Hopkins) decides to raise his three sons in the wilds of Montana, where they can grow up away from the government and society he has learned to despise. The three brothers mature and seem to have an unbreakable bond, until Susannah (Julia Ormond) enters their lives. When Samuel (Henry Thomas), the youngest of the three, returns from college he brings with him his beautiful fiancée, Susannah. The eldest son, Alfred (Aidan Quinn), soon finds himself in love with his brother's fiancée, and things get worse when he discovers a growing passion between Susannah and Tristan (Brad Pitt). Colonel William Ludlow's favorite son, Tristan is willful and as wild as the mountains. As the brothers set out to fight a war in Europe, suspicion and jealousy threatens to tear apart their once indestructible bond.—saunders11@yahoo.com",
+    "Colonel William Ludlow (Sir Anthony Hopkins) and his three sons Samuel (Henry Thomas), Tristan (Brad Pitt), and Alfred (Aidan Quinn) live in the Rocky Mountains of Montana at the beginning of the twentieth century. When Samuel brings his fiancée Susannah with him, the fellowship of the three brothers is about to be broken. The eldest son, Alfred, falls in love with Susannah, and she falls in love with Tristan. Thing becomes worse when the three brothers decide to join World War I in Europe in 1914, despite their father's objections. The bond of the brothers is about to be broken forever, and so is Colonel William's heart.—rsilberman"
+  ],
+  "synopsis": "Sick of betrayals the United States government perpetrated on the Native Americans, Colonel William Ludlow leaves the Army and moves to a remote part of Montana. Along with One Stab, a Cree friend, he builds a ranch and raises his family. Accompanying them are hired hand and former outlaw Decker, Decker's Cree wife Pet, and daughter Isabel Two. William has three sons: Alfred, the eldest, is responsible and cautious; Tristan, the middle son, is wild and well-versed in Native American traditions; Samuel, the youngest, is educated and ambitious but naive and constantly watched over by his brothers.William's wife Isabel does not adapt to the harsh Montana winters and moves to the East Coast; Tristan vows never to speak of her again. At age 12, Tristan touches a sleeping grizzly bear. The bear awakens and injures him, but he stabs at the bear's paw and cuts off a claw.Years later, Samuel returns from Harvard University with his fiancée, Susannah. Susannah talks with Isabel Two and learns of her fondness for Tristan. Susannah finds Tristan captivating but loves Samuel. Before they can marry, Samuel announces his intention to join the Canadian Expeditionary Force and aid Britain in the fight against Germany. Much to their father's displeasure, Alfred also joins. Although Tristan does not want to join, he does so, after swearing to Susannah to protect Samuel in an intense and intimate moment.During World War I, the brothers find themselves in the 10th Battalion, CEF. Alfred, commissioned as an officer, leads a charge into no man's land. The attack results in heavy casualties and Alfred is wounded. While visiting Alfred in the field hospital, Tristan learns that Samuel has volunteered for a dangerous reconnaissance mission. He rushes off to protect his brother but arrives too late. A devastated Tristan holds Samuel until he dies, then cuts out his brother's heart and sends it home to be buried at the ranch. Tristan single-handedly raids the German lines and returns to camp with the scalps of German soldiers hanging around his neck, horrifying his fellow soldiers. He is discharged but does not go home. Alfred returns to Montana and proposes to Susannah, but she declines.Tristan returns home, where Susannah finds him weeping over Samuel's grave. She comforts him, and they become lovers. A jealous Alfred confronts Tristan and leaves to make his name in Helena. Tristan is plagued with guilt over Samuel's death and feels responsible for driving Alfred away; he leaves Montana for several years. Susannah waits for him, only to receive a letter telling her to marry someone else. Alfred comforts Susannah and William finds them together, which leads to a falling out between him and Alfred. William later suffers a stroke. He does not speak for years and the ranch deteriorates. Susannah marries Alfred, now a congressman. Alfred's business and politics cause him to get involved with the O'Banion brothers, bootleggers and gangsters.Tristan returns during Prohibition, bringing life back to the ranch and his father. He falls in love with Isabel Two and they marry. They have two children, the elder being a boy named Samuel Decker. Tristan becomes involved in small-scale rum-running, finding himself at odds with the O'Banion brothers. Isabel is accidentally killed by a police officer working for the O'Banions. In a fit of grief, Tristan beats the officer nearly to death and is jailed. Susannah visits Tristan, still having feelings for him, but he refuses her advances. After his release, Tristan and Decker kill those responsible for Isabel's death, including one of the O'Banion brothers.Realizing she cannot live without Tristan, Susannah commits suicide. The remaining O'Banion brother, along with the corrupt sheriff and another police officer, comes after Tristan for revenge. At the ranch, William and Alfred kill the attackers. Alfred reconciles with his father and brother. The family realizes that Tristan is likely to be blamed for the deaths, which prompts Tristan to ask Alfred to take care of his children. One Stab's narration explains that later during the night, they bury the bodies and dump the car in the Missouri River. He reflects that rather than dying young as One Stab had expected, Tristan lived to watch his children and grandchildren grow. One Stab observes that it was the people Tristan loved and wanted to protect most that died young.The last scene takes place in 1963. Tristan, now an old man living in the North Country, investigates an animal carcass and is confronted by a grizzly bear. He draws his knife and fights it. As they struggle, the image freeze-frames as One Stab narrates, \"It was a good death\"."
+}

@@ -1,0 +1,991 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/fgKEdhRw9IgI9KGjLe4w5ghIjA3.jpg",
+  "id": 9737,
+  "title": "Bad Boys",
+  "poster_path": "https://image.tmdb.org/t/p/w500/qKiLKvJaT6rRmd3IBsoVV58luXH.jpg",
+  "release_date": "1995-04-07",
+  "vote_average": 6.793,
+  "vote_count": 5883,
+  "popularity": 38.443,
+  "overview": "Marcus Burnett is a henpecked family man. Mike Lowry is a footloose and fancy free ladies' man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.",
+  "imdb_id": "tt0112442",
+  "budget": 19000000,
+  "homepage": "https://www.sonypictures.com/movies/badboys",
+  "revenue": 141400000,
+  "runtime": 119,
+  "tagline": "Whatcha gonna do?",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Columbia Pictures",
+    "Don Simpson/Jerry Bruckheimer Films"
+  ],
+  "production_countries": [
+    "US",
+    "SG",
+    "MX"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Will Smith",
+        "character": "Mike Lowrey"
+      },
+      {
+        "name": "Martin Lawrence",
+        "character": "Marcus Burnett"
+      },
+      {
+        "name": "Téa Leoni",
+        "character": "Julie Mott"
+      },
+      {
+        "name": "Tchéky Karyo",
+        "character": "Fouchet"
+      },
+      {
+        "name": "Joe Pantoliano",
+        "character": "Captain Howard"
+      },
+      {
+        "name": "Theresa Randle",
+        "character": "Theresa Burnett"
+      },
+      {
+        "name": "Marg Helgenberger",
+        "character": "Alison Sinclair"
+      },
+      {
+        "name": "Nestor Serrano",
+        "character": "Detective Sanchez"
+      },
+      {
+        "name": "Julio Oscar Mechoso",
+        "character": "Detective Ruiz"
+      },
+      {
+        "name": "Saverio Guerra",
+        "character": "Chet The Doorman"
+      },
+      {
+        "name": "Anna Thomson",
+        "character": "Francine Donne"
+      },
+      {
+        "name": "Kevin Corrigan",
+        "character": "Elliot"
+      },
+      {
+        "name": "Michael Imperioli",
+        "character": "Jojo"
+      },
+      {
+        "name": "Lisa Boyle",
+        "character": "Girl Decoy"
+      },
+      {
+        "name": "Michael Taliferro",
+        "character": "Carjacker"
+      },
+      {
+        "name": "Emmanuel Xuereb",
+        "character": "Eddie Dominguez"
+      },
+      {
+        "name": "Marc Macaulay",
+        "character": "Noah Trafficante"
+      },
+      {
+        "name": "Ralph Gonzalez",
+        "character": "Kuni"
+      },
+      {
+        "name": "Vic Manni",
+        "character": "Ferguson"
+      },
+      {
+        "name": "Frank John Hughes",
+        "character": "Casper"
+      },
+      {
+        "name": "Mike Kirton",
+        "character": "Andy"
+      },
+      {
+        "name": "Will Knickerbocker",
+        "character": "Officer Bill O'Fee"
+      },
+      {
+        "name": "Tiffany Samuels",
+        "character": "Megan Burnett"
+      },
+      {
+        "name": "Cory Hodges",
+        "character": "James Burnett"
+      },
+      {
+        "name": "Scott Cumberbatch",
+        "character": "Quincy Burnett"
+      },
+      {
+        "name": "Joey Romano",
+        "character": "Detective"
+      },
+      {
+        "name": "Sam Ayers",
+        "character": "Detective"
+      },
+      {
+        "name": "Karen Alexander",
+        "character": "Max Logan"
+      },
+      {
+        "name": "Fawn Reed",
+        "character": "Women at Boxing Gym"
+      },
+      {
+        "name": "Heather Davis",
+        "character": "Lois Fields"
+      },
+      {
+        "name": "Maureen Gallagher",
+        "character": "Yvette"
+      },
+      {
+        "name": "Juan F. Cejas",
+        "character": "Ether Van Driver"
+      },
+      {
+        "name": "Ed Amatrudo",
+        "character": "Ether Van Boss"
+      },
+      {
+        "name": "Jimmy Franzo",
+        "character": "Club Bartender"
+      },
+      {
+        "name": "Tony Bolano",
+        "character": "Drunk Guy at Urinal"
+      },
+      {
+        "name": "Shaun Toub",
+        "character": "Store Clerk"
+      },
+      {
+        "name": "Marty McSorley",
+        "character": "Henchman"
+      },
+      {
+        "name": "Norman Max Maxwell",
+        "character": "Henchman"
+      },
+      {
+        "name": "Buddy Bolton",
+        "character": "Wally"
+      },
+      {
+        "name": "Stan Miller",
+        "character": "News Anchor"
+      },
+      {
+        "name": "Dug Jones",
+        "character": "Man #1"
+      },
+      {
+        "name": "John Salley",
+        "character": "Hacker \"Fletcher\""
+      },
+      {
+        "name": "Dana Mark",
+        "character": "Police Technician"
+      },
+      {
+        "name": "Mario Ernesto Sánchez",
+        "character": "Drug Buyer"
+      },
+      {
+        "name": "Kim Coates",
+        "character": "White Carjacker (uncredited)"
+      },
+      {
+        "name": "Manny Perry",
+        "character": "Drug Buyer Gunmen (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jerry Bruckheimer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Francine Maisler",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Don Simpson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Michael Bay",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "John Vallone",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Christian Wagner",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Virginia Cook-McGowan",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Rhona Meyers",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "David M. O'Dell",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Mark Mancina",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Kenny Bates",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Kenny Bates",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Barry H. Waldman",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Bruce S. Pustin",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lucas Foster",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Bruce Moriarty",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Lynn Kressel",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jeffrey T. Barabe",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Peter Lyons Collister",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Doug Richardson",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "George Gallo",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Happy Walters",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Henry Kingi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Howard Atherton",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Kate J. Sullivan",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Michael Barrie",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Jim Mulholland",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Pamella D'Pella",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "name": "Michael Dilbeck",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Bobbie Read",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Eric Weiler",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Glenn R. Wilder",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William C. Carruth",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Butch Brickell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marc Mercury",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Dylan Goss",
+        "department": "Camera",
+        "job": "Aerial Camera"
+      },
+      {
+        "name": "Donna Keegan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Orr",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "William H. Burton Sr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gene Hartline",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jay Amor",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard L. Duran",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jonathan Watson",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Bruce Fowler",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Craig Haagensen",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Peter Politanoff",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Nelson Oramas",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "Ken Waters",
+        "department": "Production",
+        "job": "Extras Casting Assistant"
+      },
+      {
+        "name": "Michael M. Vendrell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jeni Lee Dinkel",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Viki Cacciatore",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Maria Newman",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Carlos A. Menéndez",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Troy Robinson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Tors",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Andrew Fisher",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Robert G. Henderson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Frank Torres",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Manno",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Steve Picerni",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jon Baronn Farmer",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Curtis Roush",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Willy Allen",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Jerry Blohm",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "James Simcik",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Ken Glassing",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Chuck Picerni Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kent Demaine",
+        "department": "Art",
+        "job": "Creative Director"
+      },
+      {
+        "name": "Robair Sims",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Charles Guanci Jr.",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Christopher Cronyn",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Manny Perry",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Henry Kingi Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Caridad Collazo",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Corey B. Yugler",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Valarie Wise",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Josué D. Aguilar",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Larry Crenshaw",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Sam Tedesco",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Peter J. Devlin",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Nick Brett",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lois Walker",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "James Ashwill",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Kenny Endoso",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Shane D. Kelly",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Chick Bernhard",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alessandro Checcacci",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Robert Dawson",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Clark Campbell",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Robert Crowley",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Leigh Hennessy",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Leigh Hennessy",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Scotty Gallin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Dane",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "John Patteson",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Bruno Roussel",
+        "department": "Sound",
+        "job": "Assistant Sound Engineer"
+      },
+      {
+        "name": "Alex Edlin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Janine Mitchell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Scott Genkinger",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Diane Bandolas",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Fred Schwendel",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Ronald Ross",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Megan Forste",
+        "department": "Camera",
+        "job": "Additional Second Assistant Camera"
+      },
+      {
+        "name": "Fred Peck III",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Yvette Ammon",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Randolph LeRoi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Arturo Mendez",
+        "department": "Art",
+        "job": "Sign Painter"
+      },
+      {
+        "name": "John Burns",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Gregory Shummon",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Michele Tedlis Sorbo",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Carl Ritz",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Cary Whittaker",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Jamie Klein",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Jack Sander",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Jack Sander",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Richard Lee Jones",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Pirty Lee Jackson",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Carol Green",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Herbert Dwight Raymond IV",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Owen Stephens",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Ali Derakhshan",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "James J. Green",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Steve Rodriguez",
+        "department": "Editing",
+        "job": "Digital Colorist"
+      },
+      {
+        "name": "Jeffrey Pollack",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "name": "Christine Onesky",
+        "department": "Crew",
+        "job": "Pyrotechnician"
+      },
+      {
+        "name": "Nigel Arscott",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Kristy Aitken Hernandez",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Curtis Carlin",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "David Wayne Campbell",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Biff Delany",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Gene Moffat",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Jennifer Cook",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Diane DiPrima",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Stan Lee Rice",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michelle Marx",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Norb Phillips",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James Hooks Reynolds",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lisandra Soto",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Danny Rogers",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Amy Stephen Wilder",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lisa Vanderpool",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gar Stephen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "J.C. Robaina",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Buddy Reynolds",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Hayes",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Filmore",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tony De Leon",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": [
+    "miami, florida",
+    "mexican standoff",
+    "male friendship",
+    "witness protection",
+    "stripper",
+    "car crash",
+    "strip club",
+    "internal affairs",
+    "police corruption",
+    "gunfight",
+    "foot chase",
+    "drug lord",
+    "murder investigation",
+    "hangar",
+    "loose cannon",
+    "buddy cop",
+    "male camaraderie",
+    "narcotics detective",
+    "action hero",
+    "buddy movie",
+    "murder witness",
+    "buddy detective duo",
+    "stolen drugs",
+    "police partners"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct.",
+    "Marcus Burnett is a hen-pecked family man. Mike Lowry is a foot-loose and fancy free ladies' man. Both are Miami policemen, and both have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.—James Hastie <jdh1000@cus.cam.ac.uk>",
+    "Marcus Burnett is a hen-pecked family man. Mike Lowrey is more of a loose cannon. They are partners on the Miami Police Department, and they are about to take on a highly dangerous case. 100 million dollars in heroin, from the biggest drug bust of their careers, is stolen from police headquarters. Now, they have 72 hours to reclaim the heroin before the Internal Affairs Division gets involved. This puts Mike and Marcus hot on the trail of a French drug kingpin named Fouchet. Mike asks Maxine Logan, a hooker he knows, to keep an eye open for high rollers. Later, she gets a call from a guy who's high on drugs and wants to spend $2000. Maxine asks her best friend Julie Mott to tag along with her to the home of former cop Eddie Dominguez. Julie is not a hooker but the guy's so out of it that they'll be out of there with the money in just minutes. But at Dominguez's house, Fouchet kills Maxine. Julie witnessed the murder, so she contacts the police. But Julie, who doesn't know what Mike looks like, is willing to talk only to Mike. Mike is not around, so Marcus is forced to pretend to be Mike, and when Mike returns, he's forced to pretend to be Marcus. Marcus is a family man who has a wife named Theresa and three kids named James, Megan, and Quincy, while Mike is not, so this is not a very close fit. Mike and Marcus's pursuit of Fouchet kicks into overdrive when Fouchet's henchmen kidnap Julie right out from under their noses.—Todd Baldridge",
+    "Detectives Mike Lowery and Marcus Brunette have 72 hours to find $100 million worth of heroin before Internal Affairs shuts them down. Lowery becomes more involved after a friend is murdered by the drug dealers. Matters become complicated when Lowery and Brunette have to switch places to convince a witness to the murder to cooperate.—Nate Dogg <holtslander@hotmail.com>"
+  ],
+  "synopsis": "Marcus Burnett (Martin Lawrence) and Mike Lowrey (Will Smith) are best friends and detectives in the narcotics division of the Miami-Dade Police Department. One night, $100 million of seized heroin is stolen from a secure police vault. This is a major blow to Burnett and Lowrey, because it was the biggest drug bust of their careers. Internal Affairs warns Miami PD that if they do not recover the drugs in five days the narcotics division will be shut down.One thief, a former cop named Eddie Domínguez, is found dead at a hotel suite, shot to death by his boss, French drug kingpin Fouchet. Fouchet also kills an escort, Maxine \"Max\" Logan, who was hired by Eddie. It is revealed that she is also one of Lowrey's ex-girlfriends and one of his major informants. The only witness to the crime is Max's best friend Julie Mott (Téa Leoni), who watched the crime from the upper balcony of the suite.Although she has not met Mike, because of Max's relationship with him Julie will only trust and deal with Lowrey. However, he is away when she contacts the police about the murders, threatening to run if she does not speak to Mike. Captain Conrad Howard (Joe Pantoliano) forces Burnett to impersonate Lowrey to get Julie to cooperate. In order to continue the deception, Burnett and Lowrey switch lives. Burnett tells his family he is going to Cleveland for a case, leaving Mike to stay with them. Burnett then moves into Lowrey's apartment with Julie and her dogs. In Julie's presence, Burnett poses as Lowrey while Mike poses as Burnett.The investigation proceeds with Lowrey and Burnett calling in on their old informants, including Jojo (Michael Imperioli), a former chemist who now works at a tire store. Later, Julie identifies one of Max's killers, Noah Trafficante, while looking through mug shots. The two cops then head off to Club Hell, one of his known hangouts. Unbeknownst to them, Julie has followed, eager to dish out revenge on Max's killers. Her presence alerts the criminals, resulting in Noah fleeing. After a brief fight and car chase, Noah is killed. The incident is caught on camera by a news helicopter. The subsequent report is later seen by Burnett's family.Lowrey and Burnett decide to visit Jojo again. After an aggressive and convincing good cop-bad cop act from Lowrey and Burnett, Jojo tells them the location of the chemist who is cutting the stolen drugs. After staking out his house, they follow him to where Fouchet is hiding the drugs. They return to Mike's apartment with Julie, where they are confronted by Marcus' wife who blows their cover, causing Julie to try to run. Fouchet and his gang arrive at Lowrey's apartment and kidnap Julie. Because of this, Internal Affairs reassigns all members of the narcotics division, effectively shutting them down, but Captain Howard delays the order to give Lowrey and Burnett a chance to get Julie and the drugs back.Burnett, Lowrey and two other members of the Miami P.D. (Sanchez and Ruiz) organize a plan to stop the criminals from killing Julie and selling the drugs. A final shoot-out erupts between the group of cops and the drug dealers at an abandoned air field. Burnett is shot in the leg after saving Julie from Fouchet. Fouchet also shoots Lowrey while escaping the building, which is now on fire, but he is rescued by Burnett and Julie who left to get Lowrey's car.The cops and Julie chase Fouchet's Shelby Cobra AC 427 in Mike's Porsche 911 Turbo. After Burnett bumps him off the road, Fouchet crashes but manages to escape the wreckage. Attempting to run, Fouchet is shot in the leg by Lowrey. Fouchet, knowing he is beaten, tries to goad Lowrey into killing him, which he almost does as revenge for Max's murder, until Burnett prevents it. While on the ground Fouchet then pulls out a concealed weapon and aims at Burnett, but seeing the reflection on his partner's forehead, Lowrey spins and shoots Fouchet numerous times, killing him.Later, after Marcus and Mike profess their mutual platonic love for one another and their relief in surviving the gun fight, Marcus handcuffs Julie and Mike's hands together and hobbles away hoping for some much needed \"quality time\" with his wife. Julie and Mike wonder if he has the keys to the handcuffs."
+}

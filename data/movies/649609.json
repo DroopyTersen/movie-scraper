@@ -1,0 +1,967 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/nBEFrdcVhwceGSFw83RksxY9Blg.jpg",
+  "id": 649609,
+  "title": "Renfield",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jG83l0tDwoQj3hBAioIsJ5rTPHw.jpg",
+  "release_date": "2023-04-07",
+  "vote_average": 6.62,
+  "vote_count": 1306,
+  "popularity": 59.952,
+  "overview": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+  "imdb_id": "tt11358390",
+  "budget": 65000000,
+  "homepage": "https://www.renfieldmovie.com",
+  "revenue": 26400000,
+  "runtime": 93,
+  "tagline": "Sucks to be him.",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Skybound Entertainment",
+    "Universal Pictures",
+    "Giant Wildcat"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Nicholas Hoult",
+        "character": "Renfield"
+      },
+      {
+        "name": "Nicolas Cage",
+        "character": "Dracula"
+      },
+      {
+        "name": "Awkwafina",
+        "character": "Rebecca"
+      },
+      {
+        "name": "Ben Schwartz",
+        "character": "Teddy Lobo"
+      },
+      {
+        "name": "Shohreh Aghdashloo",
+        "character": "Bellafrancesca Lobo"
+      },
+      {
+        "name": "Brandon Scott Jones",
+        "character": "Mark"
+      },
+      {
+        "name": "Adrian Martinez",
+        "character": "Chris"
+      },
+      {
+        "name": "Camille Chen",
+        "character": "Kate"
+      },
+      {
+        "name": "Bess Rous",
+        "character": "Caitlyn"
+      },
+      {
+        "name": "Jenna Kanell",
+        "character": "Carol"
+      },
+      {
+        "name": "Danya LaBelle",
+        "character": "Karla"
+      },
+      {
+        "name": "Rhonda Johnson Dents",
+        "character": "Sharon"
+      },
+      {
+        "name": "Christopher Matthew Cook",
+        "character": "Bob"
+      },
+      {
+        "name": "Michael P. Sullivan",
+        "character": "Weird Kevin"
+      },
+      {
+        "name": "Rosha Washington",
+        "character": "Trevante"
+      },
+      {
+        "name": "James Moses Black",
+        "character": "Captain Browning"
+      },
+      {
+        "name": "T.C. Matherne",
+        "character": "Kyle"
+      },
+      {
+        "name": "Caroline Williams",
+        "character": "Vanessa"
+      },
+      {
+        "name": "Marcus Lewis",
+        "character": "Apache Joe"
+      },
+      {
+        "name": "Derek Russo",
+        "character": "Brice"
+      },
+      {
+        "name": "Marvin Ross",
+        "character": "Sal"
+      },
+      {
+        "name": "Gabriel 'G-Rod' Rodriguez",
+        "character": "Ronnie"
+      },
+      {
+        "name": "Dave Davis",
+        "character": "Mitch"
+      },
+      {
+        "name": "Keith Brooks",
+        "character": "Doug"
+      },
+      {
+        "name": "Joshua Mikel",
+        "character": "Phil"
+      },
+      {
+        "name": "Chloe Adona",
+        "character": "Mandy"
+      },
+      {
+        "name": "Stephen Louis Grush",
+        "character": "Cliff"
+      },
+      {
+        "name": "Christopher Winchester",
+        "character": "Jones"
+      },
+      {
+        "name": "John Cihangir",
+        "character": "Jeffrey"
+      },
+      {
+        "name": "Brian Egland",
+        "character": "IT Guy"
+      },
+      {
+        "name": "Christopher Clarke",
+        "character": "Creepy Teenage Kid"
+      },
+      {
+        "name": "Lena Clark",
+        "character": "Annoyed Customer"
+      },
+      {
+        "name": "Brianna Quinn Lewis",
+        "character": "Rainn"
+      },
+      {
+        "name": "Lacey Dover",
+        "character": "Blonde Cheerleader"
+      },
+      {
+        "name": "Shelby Bradley",
+        "character": "Cheerleader"
+      },
+      {
+        "name": "Stefany Almendinger",
+        "character": "Nun"
+      },
+      {
+        "name": "Krystal Tomlin",
+        "character": "Ant Kid's Mom"
+      },
+      {
+        "name": "Camden McKinnon",
+        "character": "Ant Kid"
+      },
+      {
+        "name": "William Ragsdale",
+        "character": "Older Priest"
+      },
+      {
+        "name": "Miles Doleac",
+        "character": "Vampire Hunter"
+      },
+      {
+        "name": "Lucy Faust",
+        "character": "Dracula Victim"
+      },
+      {
+        "name": "Mike Harkins",
+        "character": "Sad Man"
+      },
+      {
+        "name": "Oren Michaeli",
+        "character": "Street Tough"
+      },
+      {
+        "name": "Betsy Borrego",
+        "character": "Nervous Woman"
+      },
+      {
+        "name": "Sarah Durn",
+        "character": "Terrified Customer"
+      },
+      {
+        "name": "Anil Bajaj",
+        "character": "Nervous Man"
+      },
+      {
+        "name": "Susan McPhail",
+        "character": "Chaperone"
+      },
+      {
+        "name": "LeConté Banks",
+        "character": "Dancer"
+      },
+      {
+        "name": "Javonte Carney",
+        "character": "Dancer"
+      },
+      {
+        "name": "Jordan Harris",
+        "character": "Dancer"
+      },
+      {
+        "name": "Asiel Hardison",
+        "character": "Dancer"
+      },
+      {
+        "name": "Hannah Hawkins",
+        "character": "Dancer"
+      },
+      {
+        "name": "Tamika Jett",
+        "character": "Dancer"
+      },
+      {
+        "name": "George Lawrence II",
+        "character": "Dancer"
+      },
+      {
+        "name": "Cody E. Olsen",
+        "character": "Dancer / Workshop Dancer"
+      },
+      {
+        "name": "Victoria Pizzo",
+        "character": "Dancer"
+      },
+      {
+        "name": "Maya Taylor",
+        "character": "Dancer"
+      },
+      {
+        "name": "Will Thomas",
+        "character": "Dancer"
+      },
+      {
+        "name": "Michaela Todaro",
+        "character": "Dancer"
+      },
+      {
+        "name": "Raymond Turner",
+        "character": "Dancer"
+      },
+      {
+        "name": "Victoria Walls",
+        "character": "Dancer"
+      },
+      {
+        "name": "Isabel Lacon",
+        "character": "Fly Dancer"
+      },
+      {
+        "name": "Ahmari Vaughn",
+        "character": "Fly Dancer"
+      },
+      {
+        "name": "Natalie Allen",
+        "character": "Maggot Dancer"
+      },
+      {
+        "name": "Alain German",
+        "character": "Roach Dancer"
+      },
+      {
+        "name": "Juan Guzman",
+        "character": "Roach Dancer"
+      },
+      {
+        "name": "Nick Drago",
+        "character": "Drunk Dancer"
+      },
+      {
+        "name": "Meagan Kong",
+        "character": "Drunk Dancer"
+      },
+      {
+        "name": "James Chavarria",
+        "character": "Street Tough Dancer"
+      },
+      {
+        "name": "Jonathon Hannah",
+        "character": "Street Tough Dancer"
+      },
+      {
+        "name": "Hugo Perez",
+        "character": "Street Tough Dancer"
+      },
+      {
+        "name": "Joshua P. Bell",
+        "character": "Workshop Dancer"
+      },
+      {
+        "name": "Christian Deshautelle",
+        "character": "Workshop Dancer"
+      },
+      {
+        "name": "Meghan Manning",
+        "character": "Workshop Dancer"
+      },
+      {
+        "name": "Ahmed Zakzouk",
+        "character": "Workshop Dancer"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Marco Beltrami",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Alec Hammond",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Mitchell Amundsen",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Nancy Au",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Bryan Furst",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Sean Furst",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Christien Tinsley",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Frank Trigg",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Julie Berghoff",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Chris McKay",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Chris McKay",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Sean Paul Braud",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Todd Lewis",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Rich Delia",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Dean Wolcott",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Robert Kirkman",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Robert Kirkman",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "name": "Cynthia Anne Slagter",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Jerry Gilbert",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "David Alpert",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Lisa Lovaas",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Nancy Nugent",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "John Marquis",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "John Marquis",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Salar Ghajar",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Tim Walston",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Ryan Ridley",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Andy Ryan",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Mako Kamitsuna",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Shane B. Scott",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Dena Matranga",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "D. Chris Smith",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Michele K. Short",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "James E. Price",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Jules Holdren",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Anthony Rivera Jr.",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Denise Davis",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Monique Younger",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Maarten Hofmeijer",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Greg ten Bosch",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Krystal Kershaw",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kevin Reid",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gretchen Gattuso",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Eric Stratemeier",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Craine",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Brian Sipe",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Aja Frary",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Matt Kutcher",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Steve Costanza",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "David Wyman",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Isabelle Fretheim",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Adam Richards",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Jade Quon",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Reece Fleetwood",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Carla Brenholtz",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Lizzy Jane Klein",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "name": "Eric Linden",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Aaron Matthews",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Richard Clegg",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Holland Diaz",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Amelia Chen Miley",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Michael Yahn",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jeffrey Roy",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Ryan Chamberlain",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Kevin Luster",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Charles Barden",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Craig A. Miller",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Dan Crawley",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Courtney Jarrell",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Dan Mast",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Louis Normandin",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Jill Blackledge",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Samantha Nisenboim",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Sandra Beerenbrock",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Miranda Middlewood",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Zack Earl Edwards",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Joshwa Walton",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Andrew Byrne",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Preston Schrag",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kristina M. Peterson",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "William Spataro",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Chris Brewster",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Chris Brewster",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Tess Laeh",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Rachel C. Wilson",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Alan Breton",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "name": "Erick Ocampo",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Betsy Lindell",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "James Newman",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jason Inman",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Eric DePoorter",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Ryan Fosley",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Casey Ann Zeller",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ilyana Eberhardt",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Josh Foster",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Dallas Hollomon",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Nathan Siebring",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bobby James",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ray Anthony Rodriguez",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Robert Shavers",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Chantelle Calmes",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Ty Abrahams",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Terez Ordon",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Ava Amundsen",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Stephen Renney",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tayari Edwards",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Claire Hoogenboom",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Michelle Stumpf",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jereme Gelske",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Brian Krainson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Davaughn Williams II",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Giancarlo Ganziano",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Lea Nikki Denson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Alexandra Beeler",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Darla Edin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Oscar Gale",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Alex Rondon",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Chance C Morris",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Courtney Chelsey Jones",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Deborah Arrieta",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Emma Higueros",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Madison Tavernier",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      }
+    ]
+  },
+  "keywords": [
+    "police",
+    "vampire",
+    "gore",
+    "bugs",
+    "mob family",
+    "crooked cops",
+    "horror comedy",
+    "immortal",
+    "dracula",
+    "abusive relationship",
+    "bloody death",
+    "violence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Renfield, Dracula's henchman and inmate at the lunatic asylum for decades, longs for a life away from the Count, his various demands, and all of the bloodshed that comes with them.",
+    "In this modern monster tale of Dracula's loyal servant, Renfield, the tortured aide to history's most narcissistic boss is forced to procure his master's prey and do his every bidding, no matter how debased. But now, after centuries of servitude, Renfield is ready to see if there's a life outside the shadow of The Prince of Darkness. If only he can figure out how to end his codependency.—Universal Pictures",
+    "Present-day New Orleans. Trapped in a toxic relationship for centuries, fanatically committed Renfield, Count Dracula's conflicted assistant, suddenly wants out. However, this is easier said than done--no one walks away from darkness and lives to tell the tale. Above all else, the long-suffering servant wants more out of life, and nothing can stop him. After all, nobody wants to be a villain. But evil is cunning, indefatigable, eternal. Poor Renfield, what have you got yourself into?—Nick Riganas"
+  ],
+  "synopsis": "In the early 20th century, Transylvanian vampire Count Dracula met English lawyer R. M. Renfield, who was hoping to broker a deal for some land but ended up becoming Dracula's familiar.For decades, Renfield has relied on supernatural powers that are initiated by eating bugs. Dracula has recently had a close call with some vampire hunters who almost killed him, so the duo move to New Orleans to recuperate. There, Renfield discovers a 12-step self-help group for persons in co-dependent relationships, and he plans to use the crowd there to hunt out abusive lovers whom he can kill and give to Dracula to feast on without feeling remorse. He follows a narcissistic boyfriend to a warehouse with stolen drugs, and as he batters some lower-level criminals, they are all attacked by an assassin hired by the Lobo crime family who are pushing drugs into the city.Renfield kills the assassin and attempts to hunt down the man who hired him, Teddy Lobo, but Teddy drives off in a hurry, and a weakened Renfield drags the corpses back to Dracula's lair in the basement of a dilapidated hospital. Lobo runs into a sobriety checkpoint that is run by Rebecca Quincy, a second-generation police officer who sees the opportunity to take a high-level criminal off the streets and arrests Teddy after he speeds through the checkpoint and hurls bricks of cocaine at the police. At the police station, Teddy easily gets out of custody since the feds cooperate with the Lobos. Meanwhile, Quincy has a confrontation with her sister Kate, who has also dedicated herself to police work but is gathering a large-scale case with the FBI, frustrating Rebecca, who wants answers and justice immediately.Dracula tells Renfield that the criminals he has brought as food are insufficient, and the vampire desires the blood of someone pure and innocent instead. Renfield goes to a restaurant to abduct commoners while Quincy is also led there with clues at the crime scene. The two are caught in an attack on Quincy's life that Teddy has been pressured into making so that the fierce reputation of the Lobos will be reestablished. Instead, Renfield and Quincy defend themselves, killing several gang members and leading Teddy to escape.Teddy's mother, Bellafrancesca, orders him to hunt down the man who killed her foot soldiers, and he ends up encountering Dracula when Renfield is away. The two agree to form an alliance while Renfield has taken to heart the teachings of his self-help group and decides to make a life for himself apart from his master. Setting up an apartment and changing his attitude to one of helpfulness, he gives a statement to the police to help them try to finally stop the Lobo Crime Family. Dracula learns of Renfield's betrayal and slaughters the support group members in front of his former minion.Quincy appears and finds Renfield surrounded by dead bodies, causing her to arrest him until she is immediately swarmed by police officers and the Lobos, who also want revenge on Renfield. Quincy refuses to hand him over, and she barely escapes with Renfield. Quincy wakes up the next morning to find that Renfield has saved her life, and he explains his true origin while confirming that he wants to reform himself. The two fight through a group of corrupt police officers and decide to storm the Lobos headquarters, only to find that Dracula has empowered over a half-dozen gang members to have all of Renfield's supernatural abilities, including Teddy. After a fight, Renfield kills Teddy.Quincy heads to stop Dracula and finds that her sister is beaten to near-death and only the healing properties of Dracula's blood can save her, which he will offer in exchange for Rebecca's loyalty. She tricks Dracula, leading to him having a final standoff with Renfield and Quincy that ends with the two collaborating to capture him in a magical circle.Renfield and Quincy beat Dracula into pieces, capture loads of his healing blood, and divide up the bits of his corpse into pieces of concrete that they scatter across the water system, either finally destroying the vampire or at least making it very hard for him to reform his body. Renfield later resurrects his self-help group friends with him feeling empowered to make a new life for himself."
+}

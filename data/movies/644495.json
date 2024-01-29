@@ -1,0 +1,623 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/d9cfPuZzai6d4ZaKNnicEUgXVjS.jpg",
+  "id": 644495,
+  "title": "House of Gucci",
+  "poster_path": "https://image.tmdb.org/t/p/w500/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+  "release_date": "2021-11-24",
+  "vote_average": 6.622,
+  "vote_count": 2903,
+  "popularity": 37.082,
+  "overview": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately… murder.",
+  "imdb_id": "tt11214590",
+  "budget": 75000000,
+  "homepage": "https://www.mgm.com/movies/gucci",
+  "revenue": 153235995,
+  "runtime": 158,
+  "tagline": "A legacy worth killing for.",
+  "genres": [
+    "Drama",
+    "History",
+    "Crime"
+  ],
+  "production_companies": [
+    "Scott Free Productions",
+    "Metro-Goldwyn-Mayer",
+    "Bron Studios"
+  ],
+  "production_countries": [
+    "CA",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Lady Gaga",
+        "character": "Patrizia Reggiani"
+      },
+      {
+        "name": "Adam Driver",
+        "character": "Maurizio Gucci"
+      },
+      {
+        "name": "Al Pacino",
+        "character": "Aldo Gucci"
+      },
+      {
+        "name": "Jeremy Irons",
+        "character": "Rodolfo Gucci"
+      },
+      {
+        "name": "Jared Leto",
+        "character": "Paolo Gucci"
+      },
+      {
+        "name": "Jack Huston",
+        "character": "Domenico De Sole"
+      },
+      {
+        "name": "Salma Hayek Pinault",
+        "character": "Giuseppina 'Pina' Auriemma"
+      },
+      {
+        "name": "Alexia Murray",
+        "character": "Silvana Reggiani"
+      },
+      {
+        "name": "Vincent Riotta",
+        "character": "Fernando Reggiani"
+      },
+      {
+        "name": "Gaetano Bruno",
+        "character": "Franco"
+      },
+      {
+        "name": "Camille Cottin",
+        "character": "Paola Franchi"
+      },
+      {
+        "name": "Youssef Kerkour",
+        "character": "Nemir Kirdar"
+      },
+      {
+        "name": "Reeve Carney",
+        "character": "Tom Ford"
+      },
+      {
+        "name": "Florence Andrews",
+        "character": "Jenny Gucci"
+      },
+      {
+        "name": "Mehdi Nebbou",
+        "character": "Saïd"
+      },
+      {
+        "name": "Miloud Mourad Benamara",
+        "character": "Omar"
+      },
+      {
+        "name": "Andrea Piedimonte Bodini",
+        "character": "Ivano Savioni"
+      },
+      {
+        "name": "Vincenzo Tanassi",
+        "character": "Benedetto Ceraulo"
+      },
+      {
+        "name": "Mauro Lamantia",
+        "character": "Max"
+      },
+      {
+        "name": "Nicole Bani Sarkute",
+        "character": "Alessandra (3 Years Old)"
+      },
+      {
+        "name": "Mia McGovern Zaini",
+        "character": "Alessandra (9 Years Old)"
+      },
+      {
+        "name": "Clelia Rossi Marcelli",
+        "character": "Alessandra (Teenager)"
+      },
+      {
+        "name": "Pietro Ragusa",
+        "character": "Count Sarzana"
+      },
+      {
+        "name": "Alessandro Pess",
+        "character": "Reggiani Trucker"
+      },
+      {
+        "name": "Al Mariotti",
+        "character": "Reggiani Trucker"
+      },
+      {
+        "name": "Monica Nappo",
+        "character": "Reggiani Trucker Secretary"
+      },
+      {
+        "name": "Alessandro Piavani",
+        "character": "Upper Crust Stiff"
+      },
+      {
+        "name": "Marina Occhionero",
+        "character": "Upper Crust Stiff"
+      },
+      {
+        "name": "Pierpaolo Palladino",
+        "character": "Priest at Wedding"
+      },
+      {
+        "name": "Jun Ichikawa",
+        "character": "Masseuse"
+      },
+      {
+        "name": "Daphne Morelli",
+        "character": "Aldo's French Model"
+      },
+      {
+        "name": "Mãdãlina Ghenea",
+        "character": "Sophia Loren"
+      },
+      {
+        "name": "Gjergj Lala",
+        "character": "Chief Tanner"
+      },
+      {
+        "name": "Alessandra Borgia",
+        "character": "Elderly Female Worker"
+      },
+      {
+        "name": "Havana Alfarano",
+        "character": "Pretty Young Worker at Tannery"
+      },
+      {
+        "name": "Philippe Boa",
+        "character": "Bobby Short"
+      },
+      {
+        "name": "Ira Fronten",
+        "character": "Maybeline"
+      },
+      {
+        "name": "Marika De Chiara",
+        "character": "Maternity Ward Nurse"
+      },
+      {
+        "name": "Antonello Annunziata",
+        "character": "Karl Lagerfield"
+      },
+      {
+        "name": "Edouard Philipponnat",
+        "character": "Walter"
+      },
+      {
+        "name": "Nicola Garofalo",
+        "character": "IRS Man"
+      },
+      {
+        "name": "Daniele De Martino",
+        "character": "IRS Man"
+      },
+      {
+        "name": "Beatrice Pelliccia",
+        "character": "Paolo's Assistant"
+      },
+      {
+        "name": "Beppe Rosso",
+        "character": "Aldo's Lawyer"
+      },
+      {
+        "name": "Jay Natelle",
+        "character": "Federal Court Judge"
+      },
+      {
+        "name": "Johanna Santos",
+        "character": "Paolo's Model"
+      },
+      {
+        "name": "Larry Kapust",
+        "character": "Aldo's Squash Opponent"
+      },
+      {
+        "name": "Livio Beshir",
+        "character": "Stall Street Holder NYC"
+      },
+      {
+        "name": "Pietro Pace",
+        "character": "Waiter at Aldo's Party"
+      },
+      {
+        "name": "Bianca Nappi",
+        "character": "Clerk"
+      },
+      {
+        "name": "Paolo De Giorgio",
+        "character": "Judge Milan Court"
+      },
+      {
+        "name": "Mario Opinato",
+        "character": "Patrizia's Father"
+      },
+      {
+        "name": "Gianpiero Pumo",
+        "character": "Waiter (Boeucc)"
+      },
+      {
+        "name": "Stefano Moretti",
+        "character": "Fashion Show Director"
+      },
+      {
+        "name": "Catherine Walker",
+        "character": "Anna Wintour"
+      },
+      {
+        "name": "Martino Palmisano",
+        "character": "Richard Avedon"
+      },
+      {
+        "name": "Eva Moore",
+        "character": "Chalet Guest"
+      },
+      {
+        "name": "Filippo De Carli",
+        "character": "Chalet Guest"
+      },
+      {
+        "name": "Marco Sincini",
+        "character": "Handwriting Specialist"
+      },
+      {
+        "name": "Daniele Monterosi",
+        "character": "Tax Cop"
+      },
+      {
+        "name": "Daniela Macaluso",
+        "character": "St. Moritz Housekeeper"
+      },
+      {
+        "name": "Alfredo Pea",
+        "character": "St. Moritz Housekeeper"
+      },
+      {
+        "name": "Dirk Plönissen",
+        "character": "Swiss Border Guard"
+      },
+      {
+        "name": "Mimmo Mancini",
+        "character": "Galleria Porter"
+      },
+      {
+        "name": "Eric Alexander",
+        "character": "Cop"
+      },
+      {
+        "name": "Beniamino Marcone",
+        "character": "Paolo's Accountant"
+      },
+      {
+        "name": "Simone Spinazzè",
+        "character": "Chief Police Officer"
+      },
+      {
+        "name": "Fausto Caroli",
+        "character": "Anna Wintour's Assistant"
+      },
+      {
+        "name": "Bruce McGuire",
+        "character": "Judge"
+      },
+      {
+        "name": "Loris Loddi",
+        "character": "Judge"
+      },
+      {
+        "name": "Luca Chikovani",
+        "character": "Fashionista"
+      },
+      {
+        "name": "Alessandro Egger",
+        "character": "Fashionista"
+      },
+      {
+        "name": "Roger Garth",
+        "character": "Fashionista"
+      },
+      {
+        "name": "Andrea Bruschi",
+        "character": "Porter (uncredited)"
+      },
+      {
+        "name": "Dante Alba",
+        "character": "Fashionista (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Dariusz Wolski",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Ridley Scott",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ridley Scott",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Janty Yates",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Arthur Max",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Harry Gregson-Williams",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Mark Huffam",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "James Mather",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Claire Simpson",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Becky Johnston",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Becky Johnston",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Paul Massey",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Giannina Facio",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Marco Valerio Pugini",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Saverio Sammali",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Stéphane Bucher",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Megan Ellison",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Roberto Bentivegna",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Aaron L. Gilbert",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Kevin J. Walsh",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jed Loughran",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Niv Adiri",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jason Cloth",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Christoph Roth",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Teresa Razzauti",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "name": "Aidan Elliott",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Gianpaolo Rifino",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Massimo Pauletto",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Marco Alzari",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Sophia Hardman",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Daniel Lawson Johnston",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Letizia Santucci",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Andrea Pugini",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "name": "Jérôme Rabu",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Cristina Onori",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Sabrina Manna",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "name": "Maria Gnecchi",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Lidia Minì",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Xena Kirby",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Tomas Blazukas",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Sara Gay Forden",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "Diego Cavallo",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Fabiana Rizzi",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Stefania Pellegrini",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Sarah Tanno",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Victoria Freund",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Silvia Colafranceschi",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Aurora Gambelli",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Dario Nolé",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Claudia Granucci",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Roberta D'Alessio",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Virginia Smorra",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "name": "Lorenzo Marconi",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      }
+    ]
+  },
+  "keywords": [
+    "marriage crisis",
+    "italy",
+    "biography",
+    "fashion designer",
+    "murder",
+    "fashion",
+    "failing marriage",
+    "1980s",
+    "1990s",
+    "rich family",
+    "gucci"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel their legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder.",
+    "House of Gucci is inspired by the family empire behind the Italian fashion house of Gucci. When Patrizia Reggiani (Lady Gaga), an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder.",
+    "Milan, 1978. Over the protests of his ailing, haughty father, Maurizio D'Ancora, handsome heir and law student Maurizio Gucci embarks on a whirlwind romance with Patrizia Reggiani, an assertive middle-class arriviste. As the young couple builds a future together, Patrizia immediately gains an unexpected ally in the shape of sly Uncle Aldo and, little by little, gets her hooks into the Gucci fashion empire. Now, whoever is not with Patrizia is against her. But couples should stay together for richer or for poorer, in sickness and in health. However, can the glamorous House of Gucci survive Patrizia's subtle machinations?—Nick Riganas"
+  ],
+  "synopsis": "In 1978, Patrizia Reggiani is a young, attractive Italian woman working as an office manager within her father's small trucking firm. At a party, Patrizia meets Maurizio Gucci, a law student and heir to a 50% interest in the Gucci fashion house through his father Rodolfo. Patrizia aggressively pursues the awkward Maurizio, charming him into love. Rodolfo warns Maurizio that Patrizia is only after wealth and tells Maurizio that he will disinherit him if he marries Patrizia. Maurizio chooses Patrizia over his connection to Gucci, leaving the family. Patrizia and Maurizio marry, and Maurizio takes a job at the Reggiani trucking company. When Patrizia becomes pregnant, she sees her child as an avenue for familial reconciliation. She lets it slip to Maurizio's uncle Aldo that she is pregnant; Aldo is delighted by the news and takes the couple under his wing. Aldo introduces Patrizia to his unintelligent son Paolo, who aspires to be a designer within Gucci despite his lack of talent. Thanks to Aldo, Maurizio and a terminally ill Rodolfo reconcile shortly before the latter's death. Rodolfo writes Maurizio back into his will, but fails to sign a document transferring the Gucci shares to him before he dies. Patrizia fakes Rodolfo's signature, giving Maurizio a 50% interest in Gucci. Patrizia starts to devise a plot to obtain a controlling interest in Gucci by acquiring some of Aldo and Paolo's shares (the two hold the other 50% interest). She clashes with Aldo over the firm's clandestine sale of cheap \"fake\" Gucci products on the black market, and begins to consult Giuseppina, a psychic, for guidance. She manipulates Maurizio, who has little real interest in Gucci, into taking a more active role within the company. Paolo acquires proof that Aldo has been evading taxes in the United States; he gives the proof to Patrizia in exchange for her promise that he will be allowed to design his own line. Aldo is arrested by the IRS and sentenced to a year and a day in prison. Patrizia lies to the Italian police and tells them that Paolo is not authorized to use the Gucci trademark; the police stop the fashion show by force. Patrizia and Maurizio ask Paolo to sell them his shares, but he rebuffs them and cuts ties between them. Italian police ransack Maurizio's house and attempt to arrest Maurizio for forging Rodolfo's signature. Maurizio and Patrizia flee to Switzerland, where Maurizio meets his old friend Paola Franchi. After an argument between Maurizio and Patrizia, Maurizio decides that he is tired of his wife's influence on himself and the company. He orders his wife and daughter to return to Italy and begins an affair with Paola. When Maurizio's business plans harm the company, he seeks assistance from equity company Investcorp, through which he hatches a scheme to acquire shares of the company from a now-impoverished Paolo. Aldo returns from prison and immediately realizes what Paolo has done. When Investcorp offers to buy Aldo out, he refuses until Maurizio reveals himself as the deal's instigator. Dejected, Aldo sells the shares and cuts contact with Maurizio. Patrizia attempts a reconciliation with Maurizio, but he flatly ignores her. Later, he asks Patrizia for a divorce through his long-time assistant Domenico De Sole, which Patrizia refuses. Maurizio recruits up-and-coming designer Tom Ford to revitalize the company's image through a new line. Ford's products are successful, but Maurizio has so thoroughly mismanaged the company that Investcorp's leaders feel compelled to buy him out, replacing him with Ford and De Sole. Patrizia eventually grows so furious with Maurizio that she asks Giuseppina to help her kill him. Giuseppina puts Patrizia in contact with some hitmen \"from Sicily.\" A few days later, the hitmen shoot Maurizio to death in broad daylight outside his residence. Closing title cards to describe the fate of the remaining characters: Aldo dies of prostate cancer and Paolo died in poverty shortly following the sale of their shares to Maurizio. Patrizia, Giuseppina, and the hitmen are sentenced to long prison terms following their arrest for murder. Gucci is fully acquired by Investcorp and successfully managed into the present; no Gucci family members remain at the company."
+}

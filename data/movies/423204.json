@@ -1,0 +1,1321 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/sGqqnvOqJg2HDHrjtCPIlCwF4Mu.jpg",
+  "id": 423204,
+  "title": "Angel Has Fallen",
+  "poster_path": "https://image.tmdb.org/t/p/w500/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg",
+  "release_date": "2019-08-21",
+  "vote_average": 6.574,
+  "vote_count": 3267,
+  "popularity": 54.041,
+  "overview": "After a treacherous attack, Secret Service agent Mike Banning is charged with attempting to assassinate President Trumbull. Chased by his own colleagues and the FBI, Banning begins a race against the clock to clear his name.",
+  "imdb_id": "tt6189022",
+  "budget": 40000000,
+  "homepage": "https://angelhasfallen.movie",
+  "revenue": 146661977,
+  "runtime": 122,
+  "tagline": "Loyalty is under fire",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Campbell Grobman Films",
+    "Eclectic Pictures",
+    "G-BASE",
+    "Millennium Media"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Gerard Butler",
+        "character": "Mike Banning"
+      },
+      {
+        "name": "Morgan Freeman",
+        "character": "Alan Trumbull"
+      },
+      {
+        "name": "Jada Pinkett Smith",
+        "character": "Agent Thompson"
+      },
+      {
+        "name": "Nick Nolte",
+        "character": "Clay Banning"
+      },
+      {
+        "name": "Danny Huston",
+        "character": "Wade Jennings"
+      },
+      {
+        "name": "Tim Blake Nelson",
+        "character": "VP Kirby"
+      },
+      {
+        "name": "Lance Reddick",
+        "character": "David Gentry"
+      },
+      {
+        "name": "Frederick Schmidt",
+        "character": "Travis Cole"
+      },
+      {
+        "name": "Michael Landes",
+        "character": "Sam Wilcox"
+      },
+      {
+        "name": "Ori Pfeffer",
+        "character": "Agent Murphy"
+      },
+      {
+        "name": "Rocci Williams",
+        "character": "Bruno"
+      },
+      {
+        "name": "Piper Perabo",
+        "character": "Leah Banning"
+      },
+      {
+        "name": "Harry Ditson",
+        "character": "Neurologist"
+      },
+      {
+        "name": "Linda John-Pierre",
+        "character": "Receptionist"
+      },
+      {
+        "name": "Jasmine Hyde",
+        "character": "CNN Reporter"
+      },
+      {
+        "name": "Ian Porter",
+        "character": "Fox Reporter"
+      },
+      {
+        "name": "Laurel Lefkow",
+        "character": "MSNBC Reporter"
+      },
+      {
+        "name": "Mark Arnold",
+        "character": "James Haskell"
+      },
+      {
+        "name": "Kerry Shale",
+        "character": "Ad. Paul Sebring"
+      },
+      {
+        "name": "John Strong",
+        "character": "US Senator"
+      },
+      {
+        "name": "Mark Basnight",
+        "character": "Senator"
+      },
+      {
+        "name": "Jessica Cobley",
+        "character": "Lynne Banning"
+      },
+      {
+        "name": "Maisie Cobley",
+        "character": "Lynne Banning"
+      },
+      {
+        "name": "James Grogan",
+        "character": "Secret Service Agent #1"
+      },
+      {
+        "name": "Stuart McQuarrie",
+        "character": "Doctor Siebertz"
+      },
+      {
+        "name": "Katya Bakat",
+        "character": "Dr. Cara"
+      },
+      {
+        "name": "Joseph Millson",
+        "character": "Agent Ramirez"
+      },
+      {
+        "name": "Sapir Azulay",
+        "character": "Agent Peterson"
+      },
+      {
+        "name": "Buffy Davis",
+        "character": "Judge Spire"
+      },
+      {
+        "name": "Mickey Nelson",
+        "character": "Senior Agent at Hospital"
+      },
+      {
+        "name": "Andrew Brooke",
+        "character": "US Marshal Reyes"
+      },
+      {
+        "name": "Mark Rhino Smith",
+        "character": "US Marshal Driver"
+      },
+      {
+        "name": "Martin Behrman",
+        "character": "FBI Agent"
+      },
+      {
+        "name": "Ryan Oliva",
+        "character": "Merc Truck Driver"
+      },
+      {
+        "name": "Liam Coote",
+        "character": "Sub Merc"
+      },
+      {
+        "name": "Derek Siow",
+        "character": "Salient Tech #1"
+      },
+      {
+        "name": "Derek Morse",
+        "character": "Salient Tech #2"
+      },
+      {
+        "name": "Chris Browning",
+        "character": "Militia Man #1"
+      },
+      {
+        "name": "Greg Orvis",
+        "character": "Militia Man #2"
+      },
+      {
+        "name": "Brendan Kelly",
+        "character": "Trucker"
+      },
+      {
+        "name": "Conor Boru",
+        "character": "State Police"
+      },
+      {
+        "name": "Haley Bishop",
+        "character": "Main Aide"
+      },
+      {
+        "name": "Wayne Gordon",
+        "character": "Merc #1"
+      },
+      {
+        "name": "Antonio Bustorff",
+        "character": "Merc #2"
+      },
+      {
+        "name": "Stacee Vatanapan",
+        "character": "Lady in Car"
+      },
+      {
+        "name": "Mike Broomley",
+        "character": "State Trooper"
+      },
+      {
+        "name": "Osi Okerafor",
+        "character": "Billy"
+      },
+      {
+        "name": "Daniel Singh",
+        "character": "CAT Agent #1"
+      },
+      {
+        "name": "Georgia Goodman",
+        "character": "ICU Nurse"
+      },
+      {
+        "name": "Chris Rogers",
+        "character": "ICU Colleague"
+      },
+      {
+        "name": "Mike Bodie",
+        "character": "Cyber Tech"
+      },
+      {
+        "name": "Clayton Adams",
+        "character": "Bellhop Nine"
+      },
+      {
+        "name": "Erol Mehmet",
+        "character": "Agent Sims"
+      },
+      {
+        "name": "Charlotte Statham",
+        "character": "Panicked Woman"
+      },
+      {
+        "name": "Hadrian Howard",
+        "character": "CAT Agent #2 - Agent Stevens"
+      },
+      {
+        "name": "Atanas Srebrev",
+        "character": "CAT Agent #3"
+      },
+      {
+        "name": "Fahradin Fahradinov",
+        "character": "CAT Agent #4"
+      },
+      {
+        "name": "Martin Geraskov",
+        "character": "CAT Agent #5"
+      },
+      {
+        "name": "Nathan Cooper",
+        "character": "CAT Agent #6"
+      },
+      {
+        "name": "Nadia Konakchieva",
+        "character": "Crying Woman"
+      },
+      {
+        "name": "Sophia Del Pizzo",
+        "character": "New Age Instructor"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Robert Mark Kamen",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Dan Hubbard",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Greg Powell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Lynda Armstrong",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Lynda Armstrong",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Richard Pryke",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Vic Armstrong",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Boaz Davidson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Gerard Butler",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Les Weldon",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Avi Lerner",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "John Thompson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Laura Schalker",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      },
+      {
+        "name": "Stephanie Collie",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "name": "Trevor Short",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jules O'Loughlin",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Jules O'Loughlin",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "David Bernardi",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Russell De Rozario",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Lati Grobman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Heidi Jo Markel",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mark Gill",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Ric Roman Waugh",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Ric Roman Waugh",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Mark DeSimone",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Christa Campbell",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Marc Massicotte",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "David Buckley",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Stephen Shiu Jr.",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Alan Siegel",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Danielle Robinson",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Matthew O'Toole",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Linda Brenon",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Katrin Benedikt",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Katrin Benedikt",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Creighton Rothenberger",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Creighton Rothenberger",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Gisella Marengo",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Matt Cook",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Tim Blake",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Lily Beckett",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Michael Pentney",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Dominic Gibbs",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "name": "Yossif Mladenov",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Glen Gathard",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Peter Hanson",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Dobrinka Stamenkova",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Georgi Petrov Yakimov",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Orlin Grozdanov",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Anna Gelinova",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Vyarka Sirkova",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Jack English",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Konstantin Vladimirov",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Veselin Karadjov",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Ivo Peitchev",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Peter Wignall",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Tania Chant",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jeffrey Greenstein",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jonathan Yunger",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Beverly Winston",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Dave Isern",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Robert Binnall",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Jonathan Spencer",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Dimitrina Stoyanova",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Daniela Avramova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Sofi Hvarleva",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Ivon Ivanova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Deena Adair",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Maria Stankovich",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Alexander Valev",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Luca Saccuman",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Yariv Lerner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Waldo Mason",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "Holly Smart",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Petya Simeonova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Nelly Teova",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Tatyana 'Tita' Sleptsova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Hannah Boyton",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Ben Gooder",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jason Martin",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Michael Hancock",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Hristo Idakiev",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Cathie Valdovino",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Adam Scrivener",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Lonnie Ramati",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Daniel Rose",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Gabriel Fleming",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Melissa Anchondo",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Evgeni Yordanov",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Svetla Krasteva",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Ivan Vatsov",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Peter Krumov",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Kaloyan Nedelchev",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Ivo Jivkov",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Adam Horley",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Paul Wheeldon",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Brad Larner",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Cheryl Goodbody",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Terry Glass",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Alex Fenn",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "name": "Darren Holland",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Dimitar Krustev",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Ivan Chertov",
+        "department": "Camera",
+        "job": "Second Assistant \"C\" Camera"
+      },
+      {
+        "name": "Simon Diggins",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Ian Bird",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Violeta Lazarova",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Anna Ivanova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Johanna Elf",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Georgi Petkov",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Stacee Vatanapan",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Zoe Freed",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Mark Birmingham",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Marina Proykova",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Atanaska Popova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Mitchell Holder",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Simon Mills",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "James Grogan",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Gareth Harfoot",
+        "department": "Camera",
+        "job": "Aerial Camera"
+      },
+      {
+        "name": "Paul Oatway",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Sebastian Serrell-Watts",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Kimberley McBeath",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Jonathan Dennis",
+        "department": "Camera",
+        "job": "Russian Arm Operator"
+      },
+      {
+        "name": "Adam Sculthorp",
+        "department": "Camera",
+        "job": "Drone Cinematographer"
+      },
+      {
+        "name": "Angus Benson-Blair",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "name": "Matthew Waving",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Jemma Riley-Tolch",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Louise Lannen",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Harry Gay",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Oliver Poole",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "William Sheffield",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Oliver Whickman",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Iva Slavova",
+        "department": "Camera",
+        "job": "Drone Cinematographer"
+      },
+      {
+        "name": "Atanas Stoyanov",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Daniel Kaslow",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Borislav Bogdanov",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Lora Velikova",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Rebecca Heathcote",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Keith Weir",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Rob Marshall",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Maxim Penev",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Andy Welker",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Kat Spencer",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Paul Bowring",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Alex Van Heerden",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Conor Charles",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Simona Ilieva",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Ivailo Tzvetkov",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Ivelin Metodiev",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Ivaylo Ivanov",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Ben Burt",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Ben Burt",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Sergey Zhelezko",
+        "department": "Camera",
+        "job": "Epk Camera Operator"
+      },
+      {
+        "name": "Paula Nenova",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Borislav Belberov",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Gigi Dey",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Anita Hvarleva",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ruth Ingamells",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Gareth John",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Andrey Georgiev",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jack Bentley",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Ivan Rangelov",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Ivo Hristov",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Martin Nazlamov",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Cem Gürsel",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "John Yarincik",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Louise Vogel",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Alexei Karaghyaur",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Yosif Mladenov",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Desislav Dimitrov",
+        "department": "Crew",
+        "job": "Techno Crane Operator"
+      },
+      {
+        "name": "Jason Sharrow",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Tom Knight",
+        "department": "Art",
+        "job": "Standby Art Director"
+      },
+      {
+        "name": "Marc Bee",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Rosen Georgiev Georgiev",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Daniel Valentine",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Daniel Gibson",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Lauren Perry",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Declan O'Brien",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Peter Dibden",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Roger Kiff",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Alan Maul",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Georgi Aleksandrov",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Jamie Ferguson",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Giannis Skafidas",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Paul Jesper",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Rumen Doychinov",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "James Sams",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Josselin Cornillon",
+        "department": "Camera",
+        "job": "Data Wrangler"
+      },
+      {
+        "name": "Alexander Georgiev",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Kaloyan Pehlivanski",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Petar Stoianov",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Boris Mitrev",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Kristina Topalova",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kristina Zlateva",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Vera Boyadzhieva",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Maria Kelly",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Oleg Belogorsky",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Kelly Allum",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Monika Radwanska",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Dilek Osman",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "George Lee",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Joe Watts",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Inga Fabian",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Maya Markova",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      }
+    ]
+  },
+  "keywords": [
+    "usa president",
+    "sequel",
+    "secret service",
+    "framed for a crime",
+    "terrorist plot",
+    "assassination attempt",
+    "survivalism",
+    "u.s. secret service agent",
+    "manhunt",
+    "father son relationship"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Mike Banning is framed for the attempted assassination of the President and must evade his own agency and the FBI as he tries to uncover the real threat.",
+    "After the events in the previous movies, Secret Service agent Mike Banning is framed for the attempted assassination of the U.S. President Alan Turnbull. Using all his strength and skill, Mike Banning must locate the real threat lurking and uncover the deep political connections and ties to the White House.—nimhandiyagubadu",
+    "After training in the facility of his friend Wade Jennings, Mike Banning travels with his team to protect President Trumbull in a fishing trip. However they are attacked by drones that kills eighteen agents and only the wounded Mike and Trumbull in coma survive. When Mike awakes in the hospital, he is cuffed to the bed, accused of attempting the assassination of Trumbull and treason. Soon he learns that he was framed and now he has to prove his innocence and to protect the life of Trumbull.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "Secret Service Agent Mike Banning is framed for an attempted assassination on the president. After escaping the authorities he makes unlike allies and must now race against time to find the real threat and save the president and the country from imminent danger.—alonzovillafra",
+    "While on a fishing trip with the president, Secret Service Agent Mike Banning is framed for an attempted assassination on the president. After escaping the authorities he makes unlike allies with his estranged father and must race against time find the real threat to the president and save him and the country from imminent danger.—alonzovillafra"
+  ],
+  "synopsis": "Secret Service agent Mike Banning (Gerard Butler) undergoes training at a private military facility owned by his friend Wade Jennings (Danny Huston), a former fellow Army Ranger who is currently the CEO of the paramilitary company Salient Global, and is recommended for the position of Secret Service Director by the President of the United States, Allan Trumbull (Morgan Freeman), to replace retiring Director David Gentry (Lance Reddick). Banning hides the fact that he is suffering from migraines and insomnia with regular visits to several doctors, and begins taking medication to cope with recurring back pain.While the President is on a rural fishing trip, armed drones attack his protection detail, with only Banning surviving and saving the President; both are incapacitated, with Trumbull in a coma. FBI Agent Helen Thompson (Jada Pinkett Smith) finds substantial evidence that Banning may be responsible for the attack, with the van used to carry out the attack containing Banning's hair and DNA & $10 MM transferred into his accounts mysteriously from a state owned bank in Moscow. Banning is subsequently arrested.En route to a detention facility, Banning and his transport are ambushed. He escapes after killing the assailants, revealed to be agents who took part in his training exercise; Banning realizes that Jennings has betrayed and framed him. Banning calls his wife Leah (Piper Perabo), letting her know he is alive. The call alerts Thompson to Banning's location, leading to a car chase. However, Banning escapes again before heading to his father's home in the woods.With Trumbull still comatose, Vice President Martin Kirby (Tim Blake Nelson) is sworn in as Acting President. Via surveillance cameras, Banning and his father Clay (Nick Nolte) observe Jennings' men approaching the house; Clay detonates explosives around the perimeter, killing the would-be attackers as he and Banning escape, and Banning reveals to his father that he has a wife and daughter. Leah and her daughter are on the verge of being kidnapped by Jennings' men when Clay saves them. Kirby reveals to the press that Banning is responsible for the assassination attempt with support from the Russian government.Finding the bodies around Clay's cabin, Thompson deduces that Banning was set up. Trumbull awakens from his coma, and Kirby is revealed to be involved with Jennings. Kirby plans to retaliate for the President's \"attempted assassination\" by attacking Russia. Thompson and another agent meet Jennings, who kills them both.Banning reaches Trumbull's hospital and is captured, but Trumbull orders his release. Banning leads Trumbull to safety with help from Gentry and other loyal agents, as Jennings destroys the hospital's Intensive Care Unit by increasing the oxygen and nitrogen supply to unstable levels, causing an explosion.\nBanning hides Trumbull and Gentry as Jennings' men pursue them. After a long gun battle, Jennings attempts to escape via helicopter, which Banning destroys. They face off hand-to-hand, and Banning mortally stabs Jennings. Banning is exonerated while Trumbull and Gentry arrest Kirby for treason due to the evidence uncovered by Jennings to deploy as an insurance policy.Clay decides to live with Banning and his family. Feeling guilty over his failure to protect Trumbull, as well as his undisclosed ailments, Banning offers his resignation, but Trumbull forgives his mistakes and offers Banning the promotion to Director of the Secret Service, which he accepts."
+}

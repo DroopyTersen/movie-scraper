@@ -1,0 +1,807 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/3Nn5BOM1EVw1IYrv6MsbOS6N1Ol.jpg",
+  "id": 162,
+  "title": "Edward Scissorhands",
+  "poster_path": "https://image.tmdb.org/t/p/w500/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg",
+  "release_date": "1990-12-07",
+  "vote_average": 7.715,
+  "vote_count": 12317,
+  "popularity": 47.465,
+  "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+  "imdb_id": "tt0099487",
+  "budget": 20000000,
+  "homepage": "",
+  "revenue": 53000000,
+  "runtime": 105,
+  "tagline": "Innocence is what he knows. Beauty is what she sees.",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "20th Century Fox"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Johnny Depp",
+        "character": "Edward Scissorhands"
+      },
+      {
+        "name": "Winona Ryder",
+        "character": "Kim"
+      },
+      {
+        "name": "Dianne Wiest",
+        "character": "Peg"
+      },
+      {
+        "name": "Alan Arkin",
+        "character": "Bill"
+      },
+      {
+        "name": "Anthony Michael Hall",
+        "character": "Jim"
+      },
+      {
+        "name": "Vincent Price",
+        "character": "The Inventor"
+      },
+      {
+        "name": "Kathy Baker",
+        "character": "Joyce"
+      },
+      {
+        "name": "Robert Oliveri",
+        "character": "Kevin"
+      },
+      {
+        "name": "Conchata Ferrell",
+        "character": "Helen"
+      },
+      {
+        "name": "Caroline Aaron",
+        "character": "Marge"
+      },
+      {
+        "name": "Dick Anthony Williams",
+        "character": "Officer Allen"
+      },
+      {
+        "name": "O-Lan Jones",
+        "character": "Esmeralda"
+      },
+      {
+        "name": "Susan Blommaert",
+        "character": "Tinka"
+      },
+      {
+        "name": "Linda Perri",
+        "character": "Cissy"
+      },
+      {
+        "name": "John Davidson",
+        "character": "Host TV"
+      },
+      {
+        "name": "Biff Yeager",
+        "character": "George"
+      },
+      {
+        "name": "Donna Pieroni",
+        "character": "Blonde / TV"
+      },
+      {
+        "name": "Alan Fudge",
+        "character": "Loan Officer"
+      },
+      {
+        "name": "Brett Rice",
+        "character": "Reporter"
+      },
+      {
+        "name": "Marc Macaulay",
+        "character": "Reporter"
+      },
+      {
+        "name": "Stuart Lancaster",
+        "character": "Retired Man"
+      },
+      {
+        "name": "Steven Brill",
+        "character": "Dishwasher Man"
+      },
+      {
+        "name": "Gina Gallagher",
+        "character": "Granddaughter"
+      },
+      {
+        "name": "Aaron Lustig",
+        "character": "Psychologist"
+      },
+      {
+        "name": "Peter Palmer",
+        "character": "Editor"
+      },
+      {
+        "name": "Kathy Lockwood",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Linda Jean Hess",
+        "character": "Older Woman / TV"
+      },
+      {
+        "name": "Andrew B. Clark",
+        "character": "Beefy Man"
+      },
+      {
+        "name": "Bea Albano",
+        "character": "Rich Widow / TV"
+      },
+      {
+        "name": "Marti Greenberg",
+        "character": "Suzanne"
+      },
+      {
+        "name": "Kelli Crofton",
+        "character": "Pink Girl"
+      },
+      {
+        "name": "Gary Clark",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Joe Sheldon",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Doyle Anderson",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Carol D. Klasek",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Harvey Bellman",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Cecil Hawkins",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Jack W. Kapfhamer",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "James Spicer",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Jackie Carson",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Carol Crumrine",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Jalaine Gallion",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Dianne L. Green",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Ellin Dennis",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Rex Fox",
+        "character": "Police Sergeant"
+      },
+      {
+        "name": "Miriam Goodspeed",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Russell E. Green",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Laura Nader",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Mary Jane Heath",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Phil Olson",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Roland Douville",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Tammy Boalo",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Suzanne Chrosniak",
+        "character": "Neighborhood Extra"
+      },
+      {
+        "name": "Bryan Larkin",
+        "character": "Max"
+      },
+      {
+        "name": "Tim Rerucha",
+        "character": "Van Friend (uncredited)"
+      },
+      {
+        "name": "Nick Carter",
+        "character": "Neighborhood Extra (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rick Heinrichs",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Tim Burton",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Tim Burton",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tim Burton",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Danny Elfman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Victoria Thomas",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Colleen Atwood",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Richard L. Anderson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Denise Di Novi",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Caroline Thompson",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Caroline Thompson",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Caroline Thompson",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Colleen Halsey",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Richard Halsey",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Stefan Czapsky",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Todd Bryant",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Cheryl Carasik",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Bob Badami",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Bo Welch",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Tom Duffield",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Glenn Williamson",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Rick Stratton",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Robert Deschaine",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Richard Hashimoto",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Matthew W. Mungle",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Steve Bartek",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Bill Scott",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Glenn R. Wilder",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Jonathan Chibnall",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Paul Sonski",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "John R. Elliott",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Ann Harris",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Peter Kuran",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Stanley Kastner",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Shawn Murphy",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Mary Andrews",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Stephen I. Erdberg",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Rob Whitehurst",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Ve Neill",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Steve Maslow",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jory Weitz",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Jay Sedrish",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Frank Miller",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Warren Hamilton Jr.",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Rick Provenzano",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Gary Price",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ray Summers",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Mike Chock",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "William A. Petrotta",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Michael J. Burmeister",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Brad Wilder",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Chuck McSorley",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "John Villarino",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Lori Lynn Ross",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mary Ann Valdes",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Hairstylist"
+      },
+      {
+        "name": "Zade Rosenthal",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Yolanda Toussieng",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Michael J. Benavente",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Dennis J. Lootens",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "David E. Stone",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Stanley R. Webber",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "John Pospisil",
+        "department": "Crew",
+        "job": "Special Sound Effects"
+      },
+      {
+        "name": "Gary Ritchie",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Kathy McCart",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Dan Pemberton",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Robert Ulland",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Mary Cay Hollander",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Lynda Kyle Walker",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Selena Evans-Miller",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Marilyn Bailey",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Zoran Veselic",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Scott Wilder",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Petur Hliddal",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Dennis McNeill",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Jacqueline A. Shea",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Francis J. Conway",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Oscar Mitt",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "James Christopher",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "David A. Cook",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Greg Anderson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Burton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sonny Pettijohn",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Michael Wood",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Kevin Murphy",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "John F. Cassidy",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Daniel E. Teaze",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Ralph Stuart",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Dan Anglin",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Tom Keefer",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "John Carney",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Doris Hellmann",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Kenny Davis",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Tammy Brady Conrad",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Irene Aparicio",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Jerry Fleck",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Warner R. Wacha",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Gar Stephen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Zimmerman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bill Suiter",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Liz Spang",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Jon Curtis Price",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "name": "Jon Curtis Price",
+        "department": "Visual Effects",
+        "job": "Mechanical Designer"
+      }
+    ]
+  },
+  "keywords": [
+    "underdog",
+    "small town",
+    "unsociability",
+    "inventor",
+    "hairdresser",
+    "isolation",
+    "scissors",
+    "burglar",
+    "love at first sight",
+    "fairy tale",
+    "sadness",
+    "symbolism",
+    "castle",
+    "alone",
+    "flashback",
+    "tragic love",
+    "snow",
+    "gothic",
+    "told in flashback",
+    "christmas horror",
+    "christmas",
+    "artificial",
+    "hair salon",
+    "signs & wonders",
+    "love story",
+    "goth",
+    "frankenstein",
+    "topiary"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The solitary life of an artificial man - who was incompletely constructed and has scissors for hands - is upended when he is taken in by a suburban family.",
+    "In a castle high on top of a hill lives an inventor's greatest creation - Edward, a near-complete person. The creator died before he could finish Edward's hands; instead, he is left with metal scissors for hands. Since then, he has lived alone, until a kind lady called Peg discovers him and welcomes him into her home. At first, everyone welcomes him into the community, but soon things begin to take a change for the worse.—FilmFanUK",
+    "Edward has all the essential ingredients for today's standard body, with the exception of a pair of hands. For what is initially thought to be a temporary period, he is fitted with long, scissor-like extremities that, while able to trim a mean hedge, are hardly conducive to day-to-day life. When the kindly inventor dies, however, Edward is left lonely and cursed with some very heavy metal for hands. He is eventually taken in by Peg Boggs (Dianne Weist), an Avon lady who takes pity on him after seeing his bleak existence. Edward, in spite of his inherent ability to slay anyone he comes across, is a gentle soul whose only wish is to be loved. His impromptu family has, at best, a limited understanding of Edward, but he finds himself drawn to Peg's weary but sympathetic daughter, Kim (Winona Ryder), who is dating Jim (Anthony Michael Hall), the neighborhood bully. Meanwhile, Edward finds himself a local celebrity after the town realizes that his talents include creative hedge trimming and an unrivaled ability to cut hair. His so-called friends are proven fair-weather when Edward is accused of a crime, after which his only supporters are Peg and Kim.—ahmetkozan",
+    "A modern day fairy tale which tells the story of Edward, a man created by an inventor who died before finishing him and left him with scissors where he should have hands. One day when the local Avon representative calls at the historic mansion where he has been living alone, she takes him home to stay with her family. He has to adapt to the new life and environment that he isn't used to. Soon he shows a talent in cutting hair and hedges and wins every body's heart. But life isn't always so sweet.—Sami Al-Taher <staher2000@yahoo.com>",
+    "When Peg Bogs, the local Avon lady, attempts one last stop to sell her products, she wanders off to a mansion on top of a large hill in the suburb. Finding a unique and alone man named Edward with scissors for hands, she decides to bring him back with her into society. He makes a good impression and even falls in love with her daughter, Kim, but after a robbery with a framed Edward as the culprit, things in his life begin to go downhill and Kim finally understands his feelings.—commanderblue"
+  ],
+  "synopsis": "One evening, an elderly woman tells her granddaughter a bedtime story of where snow comes from, by telling her the story of a young man named Edward (Johnny Depp), who has scissors for hands. Edward is the man-made creation of an old Inventor (Vincent Price). The Inventor's final result was a human-like young boy who had everything except for hands. The Inventor suffered a heart attack and died while in the act of giving a pair of real hands to Edward leaving him \"unfinished\" forever.Many years after Edward was created, local Avon saleswoman Peg Boggs (Dianne Wiest) visits the decrepit Gothic mansion on the hill where Edward lives. There, she finds Edward alone. Upon realizing he is virtually harmless, she decides to take him to her home. Edward becomes friends with Peg's young son Kevin (Robert Oliveri) and her husband Bill (Alan Arkin). He later falls in love with the Boggs' beautiful teenage daughter Kim (Winona Ryder) despite her initial fear of him.Peg's neighbors are impressed by Edward's adept hedge-trimming and hair-cutting skills (both of which he does with his scissor-hands), but two of the townspeople, a religious fanatic named Esmeralda (O-Lan Jones) and Kim's boyfriend Jim (Anthony Michael Hall), are not impressed. Joyce, one of the housewives in the neighborhood (Kathy Baker), an aging seductress, suggests that Edward open a hair-cutting salon with her. While examining a proposed site, she attempts to seduce him in the back room, causing Edward to leave in a state of panic.Wanting money for a van, Jim takes advantage of Edward's ability to pick locks, and uses this as an attempt to break into his parents' house. The burglar alarm sounds and everyone except Edward flees, despite Kim's angry insistence that they return for him. Edward is arrested and released when a psychological examination reveals that his isolation allowed him to live without a sense of reality and common sense. Meanwhile, infuriated by Edward's rejection, Joyce exacts revenge by claiming that he tried to \"rape\" her. This, added to the \"break-in\", causes many of the neighbors to question his personality and ruin his popular reputation. During the Christmas season, Edward is feared and cast out by almost everyone around him except the Boggs family, resulting in the family becoming outcasts as well.While the family is setting up Christmas decorations, Edward creates an angel ice sculpture. The shavings create an effect of falling snow, which Kim dances under. Jim calls out to Kim, distracting her, and Edward accidentally cuts her hand. Jim says that Edward had intentionally harmed her and attacks him. Edward runs away tearing off the clothes Peg gave him and wanders the neighborhood in a rage. Kim, fed up with Jim's behavior towards Edward, breaks up with him and he goes to his friend's van to get drunk. While Peg and Bill search for Edward, he returns and Kim greets him with a hug. When Kevin is almost run over by Jim's drunk friend, Edward pushes him out of the way, but cuts his arm causing witnesses to think he was attacking him. When the police arrive, Edward flees to his hilltop mansion and the vengeful neighbors follow.Kim runs to the mansion and reunites with Edward. Jim follows her, attacks Edward, then brutally assaults Kim. Edward stabs Jim in the stomach and pushes him out a window to his death. Kim confesses her love for Edward and shares a kiss with him as they say goodbye. Returning downstairs, Kim lies to the townspeople saying that Edward and Jim fought each other to the death. She tells them that the roof caved in on them and shows them a disembodied scissor-hand similar to that of Edward's. The neighbors return home, with Joyce having a guilty look on her face and feeling responsible for Edward's death and for being the one who framed him in the eyes of the whole neighborhood.The elderly woman (who is actually revealed to be Kim in her old age) finishes telling her granddaughter the story, saying that she never saw Edward again. She chose not to visit him because she wanted him to remember her the way she was in her youth. She also mentions that Edward is still alive, seemingly immortal since he is artificial and can never age, and he \"creates snow\" from his ice sculptures which falls upon the neighborhood below, which has never had snow before. She tells her granddaughter that \"Sometimes you can still catch me dancing in it.\" While Edward creates more ice sculptures, a flashback of a young Kim is shown dancing under the snow falling from the angel ice sculpture above her."
+}

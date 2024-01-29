@@ -1,0 +1,1029 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/8hSjOHRY4OUEpqxszYbMdem8z9C.jpg",
+  "id": 116745,
+  "title": "The Secret Life of Walter Mitty",
+  "poster_path": "https://image.tmdb.org/t/p/w500/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg",
+  "release_date": "2013-12-18",
+  "vote_average": 7.178,
+  "vote_count": 7228,
+  "popularity": 45.977,
+  "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+  "imdb_id": "tt0359950",
+  "budget": 90000000,
+  "homepage": "https://www.20thcenturystudios.com/movies/the-secret-life-of-walter-mitty",
+  "revenue": 188133322,
+  "runtime": 114,
+  "tagline": "Stop dreaming. Start living.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "20th Century Fox",
+    "TSG Entertainment",
+    "Samuel Goldwyn Films",
+    "Red Hour",
+    "New Line Cinema",
+    "Big Screen Productions",
+    "Down Productions",
+    "Ingenious Media"
+  ],
+  "production_countries": [
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Ben Stiller",
+        "character": "Walter Mitty"
+      },
+      {
+        "name": "Kristen Wiig",
+        "character": "Cheryl Melhoff"
+      },
+      {
+        "name": "Sean Penn",
+        "character": "Sean O'Connell"
+      },
+      {
+        "name": "Shirley MacLaine",
+        "character": "Edna Mitty"
+      },
+      {
+        "name": "Adam Scott",
+        "character": "Ted Hendricks"
+      },
+      {
+        "name": "Kathryn Hahn",
+        "character": "Odessa Mitty"
+      },
+      {
+        "name": "Patton Oswalt",
+        "character": "Todd Maher"
+      },
+      {
+        "name": "Adrian Martinez",
+        "character": "Hernando"
+      },
+      {
+        "name": "Ólafur Darri Ólafsson",
+        "character": "Helicopter Pilot"
+      },
+      {
+        "name": "Gunnar Helgason",
+        "character": "Hotel Keeper"
+      },
+      {
+        "name": "Terence Bernie Hines",
+        "character": "Gary Mannheim"
+      },
+      {
+        "name": "Alex Anfanger",
+        "character": "Ted's Toner Box Associate"
+      },
+      {
+        "name": "Gary Wilmes",
+        "character": "Walter's Dad"
+      },
+      {
+        "name": "Jon Daly",
+        "character": "Tim Naughton"
+      },
+      {
+        "name": "Gurdeep Singh",
+        "character": "Cab Driver"
+      },
+      {
+        "name": "Paul Fitzgerald",
+        "character": "Don Proctor"
+      },
+      {
+        "name": "Grace Rex",
+        "character": "Cheryl's Co-Worker"
+      },
+      {
+        "name": "Amanda Naughton",
+        "character": "Female Editor"
+      },
+      {
+        "name": "Nolan Carley",
+        "character": "Western Union Employee"
+      },
+      {
+        "name": "Joey Slotnick",
+        "character": "Retirement Home Administrator"
+      },
+      {
+        "name": "Marcus Antturi",
+        "character": "Rich Melhoff"
+      },
+      {
+        "name": "Amy Stiller",
+        "character": "Rich's Friend's Mom"
+      },
+      {
+        "name": "Rosamund Gundmundsdottir",
+        "character": "Ticket Agent"
+      },
+      {
+        "name": "Stuart Cornfeld",
+        "character": "Greeland Air Passenger"
+      },
+      {
+        "name": "Maariu Olsen",
+        "character": "Rental Car Agent"
+      },
+      {
+        "name": "Makka Kleist",
+        "character": "Bartender"
+      },
+      {
+        "name": "Þórhallur Sigurðsson",
+        "character": "Trawler Captain"
+      },
+      {
+        "name": "Ari Matthíasson",
+        "character": "Trawler 1st Mate"
+      },
+      {
+        "name": "Hendrikus Schraven",
+        "character": "Trawler 2nd Mate"
+      },
+      {
+        "name": "Finni Johannsson",
+        "character": "Trawler 3rd Mate"
+      },
+      {
+        "name": "Eysteinn Gardarsson",
+        "character": "Zodiac Shark Resucer"
+      },
+      {
+        "name": "José Alcántara",
+        "character": "Chilean Sailor"
+      },
+      {
+        "name": "Rodrigo Espinosa",
+        "character": "Chilean Sailor"
+      },
+      {
+        "name": "Seba Alón",
+        "character": "Chilean Sailor"
+      },
+      {
+        "name": "Miguel Baez-Olavarria",
+        "character": "Chilean Sailor"
+      },
+      {
+        "name": "Daniel Orellana",
+        "character": "Chilean Sailor"
+      },
+      {
+        "name": "Antonio Molina",
+        "character": "Chilean Sailor"
+      },
+      {
+        "name": "Martin Lagos",
+        "character": "Chilean Sailor"
+      },
+      {
+        "name": "Andres Quezada",
+        "character": "Chilean Sailor"
+      },
+      {
+        "name": "Valur Snaer Hilmarsson",
+        "character": "Skateboard Kid #1"
+      },
+      {
+        "name": "Eythor Atli Hilmarsson",
+        "character": "Skateboard Kid #2"
+      },
+      {
+        "name": "Birgir Jarl Runarsson",
+        "character": "Skateboard Kid #3"
+      },
+      {
+        "name": "Kai Lennox",
+        "character": "Phil Melhoff"
+      },
+      {
+        "name": "Conan O'Brien",
+        "character": "Conan O'Brien"
+      },
+      {
+        "name": "Andy Richter",
+        "character": "Andy Richter"
+      },
+      {
+        "name": "Anthony Desio",
+        "character": "Mover"
+      },
+      {
+        "name": "Losang Thonden",
+        "character": "Older Rajqawee"
+      },
+      {
+        "name": "Rinjee Sherpa",
+        "character": "Younger Rajqawee"
+      },
+      {
+        "name": "Haroon Nawabi",
+        "character": "Afghan Warlord"
+      },
+      {
+        "name": "Stefan B. Onundarson",
+        "character": "Afghan"
+      },
+      {
+        "name": "Mohammed Arif Baser",
+        "character": "Afghan"
+      },
+      {
+        "name": "Mohammed Pancherri",
+        "character": "Afghan"
+      },
+      {
+        "name": "Ehsan Nawroz",
+        "character": "Afghan"
+      },
+      {
+        "name": "Steve Assil",
+        "character": "Afghan"
+      },
+      {
+        "name": "Ang Babu Sherpa",
+        "character": "Soccer Playing Sherpa"
+      },
+      {
+        "name": "Ang Gelu Sherpa",
+        "character": "Soccer Playing Sherpa"
+      },
+      {
+        "name": "Dawa Sherpa",
+        "character": "Soccer Playing Sherpa"
+      },
+      {
+        "name": "Ngima T. Sherpa",
+        "character": "Soccer Playing Sherpa"
+      },
+      {
+        "name": "Nuri Chhiri Sherpa",
+        "character": "Soccer Playing Sherpa"
+      },
+      {
+        "name": "Lhakpa Sonam Sherpa",
+        "character": "Soccer Playing Sherpa"
+      },
+      {
+        "name": "Phurba Tashi Sherpa",
+        "character": "Soccer Playing Sherpa"
+      },
+      {
+        "name": "Walter Mudu",
+        "character": "TSA Skeleton #1"
+      },
+      {
+        "name": "Liz Mikel",
+        "character": "TSA Skeleton #2"
+      },
+      {
+        "name": "Brian Scott McFadden",
+        "character": "TSA Officer #1"
+      },
+      {
+        "name": "Dion Graham",
+        "character": "TSA Officer #2"
+      },
+      {
+        "name": "Richard DeDomenico",
+        "character": "Piano Wholesaler"
+      },
+      {
+        "name": "Matt Levin",
+        "character": "Board Meeting Guy"
+      },
+      {
+        "name": "Craig 'Radioman' Castaldo",
+        "character": "News Stand Guy"
+      },
+      {
+        "name": "George Aloi",
+        "character": "Life Magazine Employee (uncredited)"
+      },
+      {
+        "name": "Paul Bosche",
+        "character": "Office Worker (uncredited)"
+      },
+      {
+        "name": "Jerome Brooks Jr.",
+        "character": "Business Man (uncredited)"
+      },
+      {
+        "name": "Brady Bryson",
+        "character": "Boy in Park (uncredited)"
+      },
+      {
+        "name": "Greg Cipes",
+        "character": "Time Life Employee (uncredited)"
+      },
+      {
+        "name": "Marmee Regine Cosico",
+        "character": "NYC Pedestrian (uncredited)"
+      },
+      {
+        "name": "Jay Ferraro",
+        "character": "Time Life Employee (uncredited)"
+      },
+      {
+        "name": "Gary Ferster",
+        "character": "Time Life Employee (uncredited)"
+      },
+      {
+        "name": "Samantha Gelnaw",
+        "character": "Pedestrian (uncredited)"
+      },
+      {
+        "name": "Efraiem Hanna",
+        "character": "Airline Ticket Agent (uncredited)"
+      },
+      {
+        "name": "Rosemary Howard",
+        "character": "1940s Winter Pedestrian (uncredited)"
+      },
+      {
+        "name": "Ilan Krigsfeld",
+        "character": "Blue Collar Worker (uncredited)"
+      },
+      {
+        "name": "Alex Kruz",
+        "character": "Time Life Employee (uncredited)"
+      },
+      {
+        "name": "Anna Kuchma",
+        "character": "Business Pedestrian (uncredited)"
+      },
+      {
+        "name": "Dennis Lauricella",
+        "character": "NYPD Officer (uncredited)"
+      },
+      {
+        "name": "Raymond Mamrak",
+        "character": "Office Worker (uncredited)"
+      },
+      {
+        "name": "Jennifer Leigh Mann",
+        "character": "Time Life Editor (uncredited)"
+      },
+      {
+        "name": "Ryan McBride",
+        "character": "Movie Poster Boy (uncredited)"
+      },
+      {
+        "name": "Ryan Nicolls",
+        "character": "Pedestrian (uncredited)"
+      },
+      {
+        "name": "Hal Panchansky",
+        "character": "Time Life Employee (uncredited)"
+      },
+      {
+        "name": "Roy Pollack",
+        "character": "Time-Life Employee (uncredited)"
+      },
+      {
+        "name": "Wes Pope",
+        "character": "Time Life Employee (uncredited)"
+      },
+      {
+        "name": "Lil Rhee",
+        "character": "New Yorker (uncredited)"
+      },
+      {
+        "name": "Bennie Road",
+        "character": "Construction Worker (uncredited)"
+      },
+      {
+        "name": "Shade Rupe",
+        "character": "Pedestrian (uncredited)"
+      },
+      {
+        "name": "Stephen Sapienza",
+        "character": "Businessman (uncredited)"
+      },
+      {
+        "name": "Chloe Elaine Scharf",
+        "character": "Businessman's Daughter (uncredited)"
+      },
+      {
+        "name": "Joshua Schubart",
+        "character": "Mover (uncredited)"
+      },
+      {
+        "name": "Tara Strong",
+        "character": "Airport Passenger (uncredited)"
+      },
+      {
+        "name": "Rob Tode",
+        "character": "Cheryl's Neighbor (uncredited)"
+      },
+      {
+        "name": "Marco Torriani",
+        "character": "Tourist (uncredited)"
+      },
+      {
+        "name": "Barbara Vincent",
+        "character": "Businesswoman (uncredited)"
+      },
+      {
+        "name": "Hynden Walch",
+        "character": "Time Life Employee (uncredited)"
+      },
+      {
+        "name": "Kelsey Wang",
+        "character": "Time Life Employee (uncredited)"
+      },
+      {
+        "name": "Christopher Watts",
+        "character": "Time Life Building Pedestrian (uncredited)"
+      },
+      {
+        "name": "William Henderson White",
+        "character": "Time Life Employee (uncredited)"
+      },
+      {
+        "name": "Nicole Neuman",
+        "character": "Rachel  (uncredited)"
+      },
+      {
+        "name": "Dennis Rees",
+        "character": "International Traveler (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jeff Mann",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Theodore Shapiro",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Stuart Dryburgh",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Ben Stiller",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ben Stiller",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Skip Lievsay",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Greg Hayden",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Rodney Mullen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steven Conrad",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Stuart Cornfeld",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "G. Mac Brown",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Paul Gebbia",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "David Swayze",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "John Goldwyn",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Chris Palermo",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sarah Edwards",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Samuel Goldwyn Jr.",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Clay Cullen",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Tom Reta",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Keith Woulard",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jalil Jay Lynch",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David H. Venghaus Jr.",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Carla Raij",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Danny Michael",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Nils Johnson",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Bernadette Mazur",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Peter Epstein",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Matt Levin",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Tim Trella",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Roel Failma",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Billy D. Lucas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Thomas Johnston",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Rachel Tenner",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Craig Haagensen",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Regina Graves",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Kevin Scott",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "James Thurber",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "name": "James Thurber",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "name": "Aaron Vexler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Aaron Vexler",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Tom Elliott",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dixie Chassay",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "George Drakoulias",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Jim Ford",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peewee Piemonte",
+        "department": "Crew",
+        "job": "Utility Stunts"
+      },
+      {
+        "name": "Evelyne Noraz",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "David Davenport",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Nancy Allen",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Craig Henighan",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Craig Henighan",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Dan DiPrima",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Greg Fitzpatrick",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kira Smith",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Jason Farrar",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Roy Farfel",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Phil Neilson",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Scott Workman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kenton Jakub",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Kenton Jakub",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Suzy Mazzarese-Allison",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Frances Fiore",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Mark Edward Wright",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Brian Smyj",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kristín Kristjánsdóttir",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Wilson Webb",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Jimmy P. Wong",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Michael Queen",
+        "department": "Crew",
+        "job": "Compositors"
+      },
+      {
+        "name": "Mandy Lyons",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Gregg Swiatlowski",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Gregg Swiatlowski",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Paul Urmson",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Lori Guidroz",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Eliza Paley",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Eliza Paley",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Igor Nikolic",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Aja Frary",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Fichera",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rick Chefalas",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Steven Visscher",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Chris Cenatiempo",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Nicole Callender",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dina L. Margolin",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Shawnna Thibodeau",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Caroline Vexler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Cort Hessler",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Peter Thorell",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Mark Aaron Wagner",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Áslaug Dröfn Sigurdardóttir",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "John Lyke",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Max",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Harpa Haraldsdóttir",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Don Kozma",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Henry Antonacchio",
+        "department": "Art",
+        "job": "Head Carpenter"
+      },
+      {
+        "name": "Daniel May Wong",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dina Sliwiak",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Hugh Aodh O'Brien",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William O'Leary",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Angela Organ",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Larry Zipf",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "John Ashton Thomas",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Grant Wilfley",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "David Cunningham",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Jim Stephan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Valisa Tate",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Scott Cosgrove",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joseph S. Alfieri",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Ethan Shapanka",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Ainslie Thomas",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      }
+    ]
+  },
+  "keywords": [
+    "himalaya mountain range",
+    "photographer",
+    "iceland",
+    "daydream",
+    "magazine",
+    "photograph",
+    "shark",
+    "fired from the job",
+    "dreamer",
+    "online dating",
+    "daydreaming"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "When both he and a colleague are about to lose their job, Walter takes action by embarking on an adventure more extraordinary than anything he ever imagined.",
+    "The manager of the negative-assets sector of Life magazine, Walter Mitty, has been working for 16 years for the magazine and has a tedious life, not going anywhere but to and from work. He is an escapist, daydreaming into a fantasy world many times a day. Walter has a crush on recently-hired Cheryl Melhoff but he is too shy to invite her out and he is trying to contact her via online dating. The magazine is preparing to release its last printed edition and the loathsome manager of transition Ted Hendricks is preparing an inevitable downsizing over the next few days. Walter has been the liaison between the magazine and the mysterious independent photographer Sean O'Connell, who has sent to him a package of negatives and a wallet as a gift for his work. Sean also suggests to the senior management the use of negative 25 for the cover of the last edition. However, Walter cannot find the missing negative. Walter has no means to contact Sean and finds a clue that he might be in Greenland. He decides to travel to Greenland to track Sean down in the beginning of an unbelievable adventure.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "In this comedic adaptation of James Thurber's short story, Ben Stiller stars as Walter, a milquetoast proofreader for a magazine-publishing firm. Walter is constitutionally incapable of standing up for himself, so he retreats into his fantasy world, where he is heroic, poised, self-assured, and the master of his fate..",
+    "All good things must come to an end, and, sadly--as the popular American magazine, Life, ceases publication to focus exclusively on the online market--suddenly, quiet daydreamer and the organisation's negative-asset manager, Walter Mitty, faces unemployment. To make matters worse, for the final print issue's cover image, the famed globe-trotting photographer, Sean O'Connell, entrusts Mitty with the epitome of his life's work captured in a single frame that is, however, nowhere to be found. As a result, the mousy and utterly unadventurous Walter must step out of his comfort zone to venture into the unknown at the edge of the world, trying to save what's left of his reputation; nevertheless, is he prepared to live up to the company's inspiring motto? Above all, life is a gift. What was captured inside Sean's quintessential but missing photograph?—Nick Riganas",
+    "Unhappy with the dull, lonely direction his life has taken, socially-awkward Walter Mitty (Ben Stiller) has a chance to change that when he's tasked with finding a missing photo that could save his company from being downsized. In a wild and unexpected turn of events, Walter's adventure takes him to all corners of the world as he attempts to track down the mysterious, elusive photographer who took the photo.—geometrydashbroham"
+  ],
+  "synopsis": "Walter Mitty is a negative assets manager at 'Life' magazine who daydreams of adventures to get away out of the tedium of his boring job. Mitty also has a crush on a co-worker named Cheryl, but never has the nerve to tell her his feelings towards her. Mitty works with photojournalist Sean O'Connell, whose images are highly regarded. O'Connell has sent Mitty his latest negatives and a wallet as a gift in appreciation of Mitty's work. O'Connell believes negative #25 captures the \"quintessence\" of Life and that it should be used for the cover of the magazine's final print issue as it converts to online status. The negative is missing, however, and Walter is forced to stall for time with corporate transition manager Ted Hendricks, who is handling the downsizing. While viewing the other negatives outside Life's offices, Cheryl approaches Mitty and suggests that he think of the negatives as clues to Sean's location. They look at three of them, including one of a person's thumb with a unique ring on it, and another of a curved piece of wood. A third picture of a boat leads Mitty to determine that O'Connell is in Greenland. Mitty promptly flies there to find him.After arriving in the Greenland capital city of Nuuk, Mitty meets with a local bartender who explains that O'Connell left on a ship. To find him, Mitty would need to go on the postal helicopter that delivers mail to the various towns and outposts along the coast, and the pilot is drunk. Mitty recognizes the pilot's thumb with the unique ring and realizes he is on the right track. He at first declines to fly with the intoxicated pilot, but imagines Cheryl singing \"Space Oddity\", gains a new confidence and boards the helicopter. Nearing the ship, Mitty learns the helicopter cannot land upon it. Misunderstanding the pilot, instead of jumping into a dinghy boat nearing to catch him, Mitty aims for the main vessel and misses and falls in the ocean. He splashes down into ice-cold, shark-infested waters, losing a box of ship-to-shore radio components before being brought aboard.Mitty learns that O'Connell departed the ship earlier. The crew offers him some clementine cake O'Connell left behind; Mitty discovers O'Connell's destinations in the wrapping paper. The itinerary directs Mitty to Iceland, where O'Connell is photographing the volcano Eyjafjallajökull, and he arrives at the local village of Skógar near the volcano using a longboard, and notices O'Connell on the plane flying near the volcano. An eruption forces Mitty to flee, and as there is nothing left for him to do, he obeys a text message recalling him to New York.For failing to recover the negative, his first failure in a long career with the magazine, Mitty is fired by Hendricks. He learns that Cheryl, who was let go earlier, seems to have reconciled with her estranged husband. Mitty returns home discouraged and visits his mother, throwing away the wallet he received from O'Connell. To his surprise, Mitty recognizes the curve of the piano in his mother's house while looking at the last photograph. When asked, Mitty's mom mentions having met O'Connell. She had told Mitty before but he was daydreaming and failed to hear her.Mitty discovers O'Connell is in the Himalayas, and finds him photographing a rare snow leopard. When asked about the negative, O'Connell explains that the message on the gift wrapping to \"look inside\" was literal; the negative was in the wallet. Unfortunately, Mitty had interpreted this message as a direction to look inside the tissue paper in the box containing the wallet, and it could also be interpreted as referring to the inscription stamped into the leather inside the wallet. When pressed to reveal the image on the negative, O'Connell dismisses the question and joins in a high-altitude football game with some locals. Mitty flies to Los Angeles but is detained by airport security during a misunderstanding (mainly stemming from his having traveled through Yemen to Afghanistan). Mitty calls the only person he knows in Los Angeles: Todd Maher, a representative at eHarmony who has kept in contact during Mitty's adventures.While helping his mother sell her piano, Mitty recounts his story but mentions he does not have the wallet anymore. His mother says she always keeps his knickknacks and gives him the wallet that she retrieved from the trash. Finding inside the wallet a small manila envelope the size of a single-frame 35mm negative, an emboldened Mitty delivers it to Life magazine, tells management that it was the photograph O'Connell wanted for the final issue, and berates Hendricks for disrespecting the staff that made the magazine so honored before walking away from the office, humiliating him in front of his recently hired staff.Mitty reunites with Cheryl, emboldens himself enough to tell her outright that he has been thinking about and inspired by her, and learns that Cheryl's ex-husband was only at her house to repair the refrigerator. Mitty tells Cheryl of his adventures and admits that he still does not know what negative #25 shows. Mitty and Cheryl see the final issue of Life at a newsstand, with its cover dedicated to the staff. It is accompanied by the photograph from negative #25, showing Mitty sitting outside of the Life building, examining a contact sheet. Mitty and Cheryl continue their walk down the street holding hands."
+}

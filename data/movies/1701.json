@@ -1,0 +1,921 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/4iUuOIYBBy12N21AAcEbHr5LQJr.jpg",
+  "id": 1701,
+  "title": "Con Air",
+  "poster_path": "https://image.tmdb.org/t/p/w500/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg",
+  "release_date": "1997-06-05",
+  "vote_average": 6.734,
+  "vote_count": 3870,
+  "popularity": 50.151,
+  "overview": "Newly-paroled former US Army ranger Cameron Poe is headed back to his wife, but must fly home aboard a prison transport flight dubbed \"Jailbird\" taking the “worst of the worst” prisoners, a group described as “pure predators”, to a new super-prison. Poe faces impossible odds when the transport plane is skyjacked mid-flight by the most vicious criminals in the country led by the mastermind — genius serial killer Cyrus \"The Virus\" Grissom, and backed by black militant Diamond Dog and psychopath Billy Bedlam.",
+  "imdb_id": "tt0118880",
+  "budget": 75000000,
+  "homepage": "",
+  "revenue": 224012234,
+  "runtime": 116,
+  "tagline": "They were deadly on the ground. Now they have wings.",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    "Touchstone Pictures",
+    "Jerry Bruckheimer Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Nicolas Cage",
+        "character": "Cameron Poe"
+      },
+      {
+        "name": "John Malkovich",
+        "character": "Cyrus \"The Virus\" Grissom"
+      },
+      {
+        "name": "John Cusack",
+        "character": "Agent Vince Larkin"
+      },
+      {
+        "name": "Ving Rhames",
+        "character": "Nathan \"Diamond Dog\" Jones"
+      },
+      {
+        "name": "Mykelti Williamson",
+        "character": "\"Baby-O\" O'Dell"
+      },
+      {
+        "name": "Dave Chappelle",
+        "character": "\"Pinball\" Parker"
+      },
+      {
+        "name": "Colm Meaney",
+        "character": "Agent Duncan Malloy"
+      },
+      {
+        "name": "Monica Potter",
+        "character": "Tricia Poe"
+      },
+      {
+        "name": "Landry Allbright",
+        "character": "Casey Poe"
+      },
+      {
+        "name": "Rachel Ticotin",
+        "character": "Guard Sally Bishop"
+      },
+      {
+        "name": "Steve Buscemi",
+        "character": "Garland Greene - \"The Marietta Mangler\""
+      },
+      {
+        "name": "Nick Chinlund",
+        "character": "William \"Billy Bedlam\" Bedford"
+      },
+      {
+        "name": "M.C. Gainey",
+        "character": "\"Swamp Thing\""
+      },
+      {
+        "name": "Danny Trejo",
+        "character": "\"Johnny-23\""
+      },
+      {
+        "name": "Renoly Santiago",
+        "character": "\"Sally-Can't Dance\""
+      },
+      {
+        "name": "Steve Eastin",
+        "character": "Guard Falzon"
+      },
+      {
+        "name": "Brendan Kelly",
+        "character": "Conrad"
+      },
+      {
+        "name": "Jesse Borrego",
+        "character": "Francisco Cindino"
+      },
+      {
+        "name": "Carl Ciarfalio",
+        "character": "Con #1"
+      },
+      {
+        "name": "Mongo Brownlee",
+        "character": "Ajax"
+      },
+      {
+        "name": "José Zúñiga",
+        "character": "Sims"
+      },
+      {
+        "name": "Ned Bellamy",
+        "character": "Chopper Pilot"
+      },
+      {
+        "name": "John Marshall Jones",
+        "character": "Gator"
+      },
+      {
+        "name": "John Roselius",
+        "character": "Devers"
+      },
+      {
+        "name": "Fredric Lehne",
+        "character": "Pilot"
+      },
+      {
+        "name": "Martin McSorley",
+        "character": "Co-Pilot"
+      },
+      {
+        "name": "Dylan Haggerty",
+        "character": "Starkey"
+      },
+      {
+        "name": "Dan Bell",
+        "character": "Fuel Jockey"
+      },
+      {
+        "name": "Bob Stephenson",
+        "character": "Ted, the Pilot"
+      },
+      {
+        "name": "Scott Ditty",
+        "character": "Bus Guard"
+      },
+      {
+        "name": "Tommy Bush",
+        "character": "Sheriff"
+      },
+      {
+        "name": "Lauren Pratt",
+        "character": "Debbie (6 Yrs Old)"
+      },
+      {
+        "name": "Steve Hulin",
+        "character": "Ronnie"
+      },
+      {
+        "name": "Don Charles McGovern",
+        "character": "Smoke"
+      },
+      {
+        "name": "Angela Featherstone",
+        "character": "Ginny"
+      },
+      {
+        "name": "Doug Hutchison",
+        "character": "Donald"
+      },
+      {
+        "name": "Jeris Poindexter",
+        "character": "Watts"
+      },
+      {
+        "name": "David Ramsey",
+        "character": "Londell"
+      },
+      {
+        "name": "Conrad Goode",
+        "character": "Viking"
+      },
+      {
+        "name": "Emilio Rivera",
+        "character": "Carlos"
+      },
+      {
+        "name": "Mario Roberts",
+        "character": "Mongoose (Stunt)"
+      },
+      {
+        "name": "Ty Granderson Jones",
+        "character": "Blade"
+      },
+      {
+        "name": "Earl Billings",
+        "character": "Guard"
+      },
+      {
+        "name": "Greg Collins",
+        "character": "Guard"
+      },
+      {
+        "name": "Billy Devlin",
+        "character": "Guard"
+      },
+      {
+        "name": "Mark Ginther",
+        "character": "Guard"
+      },
+      {
+        "name": "Joseph Patrick Kelly",
+        "character": "Guard"
+      },
+      {
+        "name": "Jeff Olson",
+        "character": "Uncle Bob"
+      },
+      {
+        "name": "Dawn Bluford",
+        "character": "Female Baggage Handler"
+      },
+      {
+        "name": "Charlie Paddock",
+        "character": "Transportation Officer #1"
+      },
+      {
+        "name": "Randee Barnes",
+        "character": "Stickman"
+      },
+      {
+        "name": "Don S. Davis",
+        "character": "Man In Car"
+      },
+      {
+        "name": "Barbara Sharma",
+        "character": "Woman In Car"
+      },
+      {
+        "name": "Thomas Rosales Jr.",
+        "character": "Cindino Gunman (Stunts)"
+      },
+      {
+        "name": "Eddie Perez",
+        "character": "Cindino Gunman (Stunts)"
+      },
+      {
+        "name": "Scott McCoy",
+        "character": "Cindino Gunman (Stunts)"
+      },
+      {
+        "name": "Brian Hayes Currie",
+        "character": "Cop In Vegas"
+      },
+      {
+        "name": "Ashley Smock",
+        "character": "Huey Pilot"
+      },
+      {
+        "name": "Charles Lynn Frost",
+        "character": "DEA Agent"
+      },
+      {
+        "name": "Joey Miyashima",
+        "character": "Tech Guy"
+      },
+      {
+        "name": "Scott Burkholder",
+        "character": "Air Traffic Controller"
+      },
+      {
+        "name": "Kevin Cooney",
+        "character": "Judge"
+      },
+      {
+        "name": "Gérard L'Heureux",
+        "character": "Guard Renfro"
+      },
+      {
+        "name": "Pete Antico",
+        "character": "Guard Garner"
+      },
+      {
+        "name": "John Robotham",
+        "character": "Guard Ryan"
+      },
+      {
+        "name": "Gilbert Rosales",
+        "character": "Ramirez (Stunt)"
+      },
+      {
+        "name": "Richard L. Duran",
+        "character": "Warlock (Stunt)"
+      },
+      {
+        "name": "George Randall",
+        "character": "Old Con on Plane"
+      },
+      {
+        "name": "Jamie Bozian",
+        "character": "Con"
+      },
+      {
+        "name": "Harley Zumbrum",
+        "character": "Con"
+      },
+      {
+        "name": "Doug Dearth",
+        "character": "Con"
+      },
+      {
+        "name": "David Roberson",
+        "character": "Supervisor"
+      },
+      {
+        "name": "Alexandra Balahoutis",
+        "character": "Waitress"
+      },
+      {
+        "name": "Dick 'Skip' Evans",
+        "character": "Airplane Pilot"
+      },
+      {
+        "name": "Sheldon Worthington",
+        "character": "Co-Pilot"
+      },
+      {
+        "name": "Robert Taft",
+        "character": "Soldier"
+      },
+      {
+        "name": "Robert White",
+        "character": "Soldier"
+      },
+      {
+        "name": "Chris Ellis",
+        "character": "BOP Official Grant"
+      },
+      {
+        "name": "John Campbell",
+        "character": "BOP Bus Driver"
+      },
+      {
+        "name": "Brian Willems",
+        "character": "Paramedic"
+      },
+      {
+        "name": "Bill Cusack",
+        "character": "Paramedic"
+      },
+      {
+        "name": "Dabbs Greer",
+        "character": "Old Man Under Truck"
+      },
+      {
+        "name": "Marco Kyris",
+        "character": "Cindino's Pilot"
+      },
+      {
+        "name": "Kevin Gage",
+        "character": "Billy Joe (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jerry Bruckheimer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Chad Oman",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Pat Sandston",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Chris Lebenzon",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Matthew Barry",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jeanne McCarthy",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Victoria Thomas",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jonathan Hensleigh",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Trevor Rabin",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Glen Scantlebury",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Scott Rosenberg",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Bob Badami",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "name": "Jack Gill",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Tattersall",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Edward T. McAvoy",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Richard E. Butler",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Zigmund Gron",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Steve Mirkovich",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Mark Mancina",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Kenny Bates",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Kenny Bates",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Simon West",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Joel Negron",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Denise Horta",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Mike Topoozian",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Debra Echard",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Jim Kouf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Chas. Butcher",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Michael St. Hilaire",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Mark Hofeling",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Lynn Kouf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Thomas Rosales Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bobbie Read",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Timothy Alverson",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Juno J. Ellis",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Casey O'Neill",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Art Rochester",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Jeannie Epper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Erik Cord",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Kelso",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Randall Huber",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Tony Epper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kurt Bryant",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Eddie Yansick",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jay Amor",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Meyers",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Peter Bogart",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Peter Bogart",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Cosmas A. Demetriou",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Daniel R. Jennings",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Mark Indig",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Randall L. Johnson",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "George Watters II",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Barbara Mesney",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Frank Masi",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Will Kaplan",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Karin Anderson",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "name": "Kathy Chasen-Hay",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "David Emmerichs",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Steve Picerni",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Erma Kent",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Marc Messenger",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Michael Papac",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "P.R. Tooke",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Hugo Peña",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Nicholas Korda",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "David Goldberg",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Matsune Suzuki",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Matsune Suzuki",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "name": "Alex Hillkurtz",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Sandra Lee Gimpel",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Manny Perry",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "KristieAnne Reed",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Kathy Nelson",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Carl S. Griffin",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Jacqui Popelka",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Allen Kupetsky",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Donna Glasser-Hancock",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Gary Trentham",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Greg T. Moon",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Eurlyne Epper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mike Blaze",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Bob Wagner",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Chuck E. Stewart",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "LaFaye Baker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Stephen Janisz",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Janet Brady",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Richard Villa",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "J. Michael Popovich",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Thomas J. Ruffner",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Edward R. Nedin",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Mike Bonnaud",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Ivan Bates",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Barbara Anne Klein",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alanna McManus",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jason Fetchik",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Ric Morelli",
+        "department": "Production",
+        "job": "Post Production Accountant"
+      },
+      {
+        "name": "Ray D. Chase",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Alesia Walser",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Jennifer Ritchey",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Lindey L. Crow",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  },
+  "keywords": [
+    "prison",
+    "helicopter",
+    "airplane",
+    "escape",
+    "undercover",
+    "ambush",
+    "war veteran",
+    "gas station",
+    "psychopath",
+    "bravery",
+    "mexican standoff",
+    "sandstorm",
+    "hijacking",
+    "us army",
+    "prison guard",
+    "u.s. marshal",
+    "serial killer",
+    "shootout",
+    "las vegas",
+    "explosion",
+    "brutality",
+    "convict",
+    "desert",
+    "war hero",
+    "diabetic",
+    "dea agent",
+    "hostile takeover",
+    "skyjacker",
+    "motorcycle chase",
+    "disguises",
+    "action hero",
+    "army veteran",
+    "prisoner transport",
+    "transport plane"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Newly-paroled ex-con and former U.S. Ranger Cameron Poe finds himself trapped in a prisoner-transport plane when the passengers seize control.",
+    "Cameron Poe, a highly decorated Army Ranger, comes home to Alabama to his wife Tricia, only to run into a few drunken regulars at the bar where she works. Cameron accidentally kills one of the drunks, and is sent to a federal penitentiary for involuntary manslaughter for seven years. He becomes eligible for parole and can now go home to his wife and daughter. Unfortunately, Cameron has to share a prison airplane with some of the country's most dangerous criminals, who take control of the plane and are now planning to escape the country. Cameron has to find a way to stop them while playing along. Meanwhile, United States Marshal Vince Larkin is trying to help Cameron get free and stop the criminals, led by Cyrus \"The Virus\" Grissom.—John Wiggins",
+    "Cameron Poe, a highly decorated US ranger, is convicted of manslaughter after protecting his wife in a drunken brawl. Finally, after eight years, he's being paroled and going home to his wife and daughter. His ride home: the Jailbird, which is also transporting society's vicious murderers to Feltham Penitentiary, Lousiana's toughest maximum security prison. A surprising escape is made on board the plane as the cons seize control of the plane, and head it towards Las Vegas. The officials on the ground want to blow it out of the sky, but three people know an alternative... US Marshal Vince Larkin, Cameron Poe's wife, and his daughter.—Cameron Poe <sprintcs@idirect.com>",
+    "Cameron Poe is a highly decorated military officer who is sent to prison because of killing a man while defending his wife. Seven years later, he is granted a parole. He is put on a plane with many other convicts. Everything looks smooth until one of the convicts, Cyrus \"The Virus\" Grissom breaks out of his restraints and takes control of the plane. The D.E.A quickly learns of the event and plans on shooting the plane down, but U.S. Marshall Vince Larkin sees Poe as an ally and tries to work with him before his superiors shoot down the plane.—Ridley Lavine",
+    "When Cameron Poe, of the US Army, is found guilty of manslaughter after killing a drunk man while protecting his wife outside a bar, he is sent to jail for eight years. During that time his daughter is born, but he waits patiently in his cell until his release date. He is flown home on board the Jailbird, which also transports some very dangerous convicts to a maximum-security prison in Louisiana. The convicts manage to escape directed by Cyrus \"The Virus\", who also leads the plane's take-over and re-routes it to an abandoned airfield to catch another plane which will take them to a foreign country. With Poe's help, the authorities learn where the convicts are headed for and manage to get there before they take off again. After the police and army are killed in an ambush at the airfield, the convicts take off again toward Las Vegas, but a US Marshal, Vince Larkin, with the help of Poe on board gets there again in time to finally stop the convicts.—Marcos Eduardo Acosta Aldrete"
+  ],
+  "synopsis": "Cameron Poe (Nicholas Cage), a honorably discharged United States Army Ranger, is found guilty of manslaughter in the death of an innocent but drunk bar customer while trying to defend his pregnant wife Tricia (Monica Potter) from him, and sentenced to seven to ten years by a bias judge. During his time in prison, he communicates with his wife and daughter while taking time to better himself.Eight years later, Poe is released on parole, and is scheduled to be flown back to Alabama on the same day as his daughter Casey's seventh birthday. Poe is arranged transport on the \"Jailbird\", a C-123 airplane, along with a fellow prisoner Mike \"Baby-O\" O'Dell (Mykelti Williamson). This prison transfer flight is being used by U.S. Marshal Vince Larkin (John Cusack) to transport a number of notorious violent criminals to a new supermax prison. These include William \"Billy Bedlam\" Bedford (Nick Chinlund), convicted of murdering his wife's entire family after he caught her in bed with another man; Nathan \"Diamond Dog\" Jones (Ving Rhames), a black supremacist who bombed an NRA meeting claiming that \"they represented the basest negativity of the white race,\" then wrote a New York Times bestseller from prison that apparently is getting a movie adaptation starring Denzel Washington; Johnny \"23\" Baca (Danny Trejo), a serial rapist; Joe \"Pinball\" Parker (Dave Chappelle); and perhaps the most violent criminal in the prison system, Cyrus \"The Virus\" Grissom (John Malkovich), who's served time for kidnapping, robbery, murder, and extortion, shanked 11 inmates, incited three prison riots, and escaped from prison twice, and likes to brag that he's killed more men than cancer.Prior to the flight, Larkin is approached by DEA agent Duncan Malloy (Colm Meaney), who asks to put undercover agent Willie Sims (José Zúñiga) on board the plane to get more information out of drug lord Francisco Cindino, before he is incarcerated in the new prison. Larkin acquiesces but insists the agent go aboard unarmed, but Malloy is able to sneak Sims a gun during the boarding pat-down.Shortly after the flight takes off, Jones and Grissom are able to free themselves with the help of a distraction by another prisoner, Pinball Parker (Dave Chappelle) setting the inmate next to him on fire. The prisoners quickly subdue the guards and Cyrus heads up to the cockpit and quickly kills the co-pilot who came out to settle the riot. Cyrus seizes the copilot's pistol, then quickly takes control of the cockpit to prevent the pilot from reporting the riot and telling the next control center that a small disturbance occurred but is under control. As Pinball is uncuffing the prisoners, Sims attempts to threaten Grissom with Pinball as his hostage, but Poe, recognizing that Sims is at a disadvantage since his hostage is a worthless prisoner like Pinball, attempts to talk the agent out of it; Sims ignores the advice and is killed.As Cyrus organizes the other prisoners to prepare for a scheduled landing in Carson City in order to meet the required number of prisoners being transferred, Pinball informs Cyrus that some of the prisoners that were scheduled to get off were killed during the takeover. Poe initially decides to get off hoping to expose the takeover, but reconsiders when he discovers they are placing tape over the mouths of the transferees who are getting off as a precaution and the pilot is transferred off in his place. His main reason for staying is that O'Dell is a diabetic and the injection needles for his insulin were damaged in the takeover and are unusable so he needs to find a way to help him. Also, Johnny 23 is after the only female guard on the plane, Sally Bishop, despite the fact that Cyrus (who also shares a strong disgust towards rapists) has threatened to kill Johnny if he attempts to rape her. Poe spots a recording device on Sims' body; he transfers it to one the guards that are being substituted for dead prisoners hoping it would attract the attention of the guards on the prison bus.Upon landing to refuel and pick up more prisoners to take them to freedom, Cyrus ensures that the prison transfer goes smoothly. Among the new prisoners boarding are drug lord Francisco Cindino (Jesse Borrego), the mastermind of the escape (and who Sims was sent to interrogate), transvestite serial killer Ramon 'Sally Can't Dance' Martinez (Renoly Santiago), their new pilot, \"Swamp Thing\" Williams (M. C. Gainey) and cannibal serial killer Garland Greene (Steve Buscemi) known as \"The Marietta Mangler\". Grissom instructs Pinball to hide the plane's transponder, and despite Poe's efforts, the plane leaves Carson City without problems even though the guards on the prison bus discover the true identity of the prisoners on the bus and backup arrives too late because the prisoners spotted their vehicles approaching the runway. Around that time Larkin discovers the plans for the plane's takeover in Cyrus's old jail cell and narrowly avoids getting killed on his way out when one of the guards disregards his advice and opens a small cigar box that has a bomb hidden inside it.After Larkin and Malloy discover what happened, Larkin having heard about Poe from one of their guards suspects Poe is on their side. Malloy, against Larkin's advice, immediately takes off to follow the plane's transponder, which unknown to him was snuck aboard a sightseeing plane. Poe, along with Jones, go into the hull to determine the cause of the plane's slow speed and find that Pinball's body is lodged in the landing wheel compartment, having missed the plane taking off. Poe takes the opportunity to write a message on Parker's shirt to Larkin and pushes the body out of the plane, where it lands in the middle of traffic in Fresno, California.Larkin has a meeting with Trisha and Casey to determine why Poe chose to stay on the plane, when a call comes in from Fresno police and Larkin is quickly made aware of the message. Larkin recognizes that the prisoners' plane is headed in the opposite direction to the disused Lerner Airfield. Unable to convince Malloy of this information over the radio, he borrows Malloy's Corvette to make it to the field before the plane can land, calling in the National Guard and other forces to help secure the airfield.Aboard the plane, Poe attempts to keep his identity secret, killing Bedford when he discovers Poe's parole letter in the personal belongings in the hull. Poe learns from Grissom that Cindino is promising that once they land at Lerner, another plane will be waiting for them to help them gain asylum in \"non-extradition territory\".The plane lands at the airfield, running aground, but no plane seems to be waiting for them; while the rest of the prisoners are forced by Grissom to dig out the plane (after Poe warns him about trusting Cindino, based on what he heard about Cindino's past treachery), Poe explores the field to try to find an injection needle for O'Dell's insulin whom is going into diabetic shock. Larkin, also on the field, happens upon the plane that Cindino promised, finding that Cindino has double-crossed Grissom and trying to flee on his own and helps rescue Poe from Cindino's henchmen who are there waiting for their boss. Larkin and Poe briefly meet and discuss the situation before Poe leaves to find an injection needle. Cindino slips away from the other prisoners to board his plane and has his pilot take off. Larkin is able to disable the plane, and the crash alerts Grissom, who throws a lit match at the fuel leaking from Cindino's plane, starting a fire and burning Cindino alive.The prisoners observe that armed forces are advancing on the field, and upon Cyrus discovering the small arsenal hidden in the bottom of the plane (and Bedford's body), they set up an ambush trap for the forces. Larkin goes off to help stop the troops from being massacred by reactivating an old unused plow and using it to create a makeshift bulletproof shield, while Poe manages to find an injection needle and returns to the plane to give O'Dell his insulin and manages to stop Johnny from raping Bishop. As the troops overrun the trap, Grissom and the remaining prisoners return to the plane and take off, despite damage to the plane and before Poe could escape with O'Dell and Bishop.Grissom soon discovers Poe's true identity after Jones found Poe's parole letter. After shooting O'Dell in the stomach who tried to take the blame, Cyrus prepares to kill Poe. Malloy, having recognized that Larkin was telling the truth earlier upon encountering the sightseeing plane has tracked down the Jailbird. He has his helicopter pilot open fire on it and disables one of the engines, causing the plane to lose fuel. With Grissom and the others distracted, shooting from the aircraft's ramp at the helicopters, Poe gains control of the cockpit after hand-to-hand combat with prisoners in his path and orders not to fire. When Larkin in a second helicopter, tells Malloy about Poe's identity as a parolee, Malloy orders \"hold fire\" and joins forces. Attempting to land the aircraft at McCarran International Airport in Las Vegas, the crippled Jailbird is forced to crash land on \"The Strip\".The landing causes injuries and fatalities among the inmates while also causing massive destruction along \"The Strip\" until it comes to a halt in the lobby of the Sands Hotel. Amid the chaos, Poe is thanked by both O'Dell and Bishop for his help as the police arrest the surviving prisoners. Grissom, Jones, and \"Swamp Thing\" escape on a fire truck. Larkin and Poe see them trying to flee, pursue them on motorcycles, eventually killing all three escapees; Jones being hit by Poe's motorbike, Swamp Thing hurtling through the windshield and being run over after Larkin floods the inside of the fire truck with water from the fire hose, and Cyrus, being beaten by Poe, handcuffed to the fire ladder, and then sent flying after the truck crashes leaving Cyrus to be crushed by a pile driver in a nearby construction site. Poe is finally able to reunite with his loving wife and daughter, who have been brought by Larkin to meet him.In the final scene, a croupier at a craps table in one of the Vegas casinos asks a new shooter if he feels lucky. The shooter, Garland Greene (whom is the only prisoner who escaped), takes the dice, sips a margarita and replies without a smile."
+}

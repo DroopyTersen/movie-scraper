@@ -1,0 +1,837 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/uzvT6tYrU5SxfHe1ieimIGAqyFm.jpg",
+  "id": 473033,
+  "title": "Uncut Gems",
+  "poster_path": "https://image.tmdb.org/t/p/w500/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+  "release_date": "2019-08-30",
+  "vote_average": 7.148,
+  "vote_count": 4404,
+  "popularity": 28.506,
+  "overview": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+  "imdb_id": "tt5727208",
+  "budget": 19000000,
+  "homepage": "https://a24films.com/films/uncut-gems",
+  "revenue": 50000000,
+  "runtime": 136,
+  "tagline": "This is how I win.",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "production_companies": [
+    "A24",
+    "Elara Pictures",
+    "IAC Films",
+    "Sikelia Productions",
+    "Scott Rudin Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Adam Sandler",
+        "character": "Howard Ratner"
+      },
+      {
+        "name": "LaKeith Stanfield",
+        "character": "Demany"
+      },
+      {
+        "name": "Julia Fox",
+        "character": "Julia De Flore"
+      },
+      {
+        "name": "Kevin Garnett",
+        "character": "Kevin Garnett"
+      },
+      {
+        "name": "Idina Menzel",
+        "character": "Dinah Ratner"
+      },
+      {
+        "name": "Eric Bogosian",
+        "character": "Arno Moradian"
+      },
+      {
+        "name": "Judd Hirsch",
+        "character": "Gooey"
+      },
+      {
+        "name": "Keith William Richards",
+        "character": "Phil"
+      },
+      {
+        "name": "Mike Francesa",
+        "character": "Gary"
+      },
+      {
+        "name": "Jonathan Aranbayev",
+        "character": "Eddie Ratner"
+      },
+      {
+        "name": "Noa Fisher",
+        "character": "Marcel Ratner"
+      },
+      {
+        "name": "The Weeknd",
+        "character": "The Weeknd"
+      },
+      {
+        "name": "Mesfin Lamengo",
+        "character": "Wounded Miner"
+      },
+      {
+        "name": "Sun Zhi Hua-Hilton",
+        "character": "Mine Foreman"
+      },
+      {
+        "name": "Liang Wei-Hui-Duncan",
+        "character": "Mine Management 1"
+      },
+      {
+        "name": "Deneke Muhugeta",
+        "character": "Lead Miner 1"
+      },
+      {
+        "name": "Habtunu Africho",
+        "character": "Lead Miner 2"
+      },
+      {
+        "name": "Warren Finkelstein",
+        "character": "Dr. Blauman"
+      },
+      {
+        "name": "Tommy Kominik",
+        "character": "Nico"
+      },
+      {
+        "name": "Maksud Agadjani",
+        "character": "Yussi"
+      },
+      {
+        "name": "Ca$h Out",
+        "character": "Ca$h Out"
+      },
+      {
+        "name": "Andrea Linsky",
+        "character": "Joani"
+      },
+      {
+        "name": "Roman Persits",
+        "character": "Roman"
+      },
+      {
+        "name": "Pom Klementieff",
+        "character": "Lexis"
+      },
+      {
+        "name": "Paloma Elsesser",
+        "character": "Kat"
+      },
+      {
+        "name": "Sean Ringgold",
+        "character": "KG Bodyguard 1"
+      },
+      {
+        "name": "Jeremy Sample",
+        "character": "KG Bodyguard 2"
+      },
+      {
+        "name": "Todd Vulpio",
+        "character": "David the Jeweler"
+      },
+      {
+        "name": "Damany Eastman",
+        "character": "KG Friend 1"
+      },
+      {
+        "name": "Gerard \"Dash\" McQuiller",
+        "character": "KG Friend 2"
+      },
+      {
+        "name": "Arthur Borukhov",
+        "character": "Elan"
+      },
+      {
+        "name": "Darien Howard",
+        "character": "TDS Delivery Man"
+      },
+      {
+        "name": "Ronald Greenberg",
+        "character": "Rodney Bronstein"
+      },
+      {
+        "name": "Marshall Greenberg",
+        "character": "Steve Bronstein"
+      },
+      {
+        "name": "Michael A. Sollecito",
+        "character": "Waiter"
+      },
+      {
+        "name": "Shemsi Selimaj",
+        "character": "Nino"
+      },
+      {
+        "name": "Jacob Dylan Igielski",
+        "character": "Beni Ratner"
+      },
+      {
+        "name": "Hailey Gates",
+        "character": "Adley's Receptionist"
+      },
+      {
+        "name": "Mitchell Wenig",
+        "character": "Larry"
+      },
+      {
+        "name": "Stuart Wenig",
+        "character": "Larry's Brother"
+      },
+      {
+        "name": "Raleem Moses",
+        "character": "Sixers Security Guard"
+      },
+      {
+        "name": "Keren Shemel",
+        "character": "Eiline Goldfarb"
+      },
+      {
+        "name": "Aren Topian",
+        "character": "Eric Goldfarb"
+      },
+      {
+        "name": "Louis Anthony Arias",
+        "character": "Buddy"
+      },
+      {
+        "name": "Marcia DeBonis",
+        "character": "Drama Teacher"
+      },
+      {
+        "name": "Anthony Mecca",
+        "character": "Michael"
+      },
+      {
+        "name": "Max Bartos",
+        "character": "\"Dwarf 1\""
+      },
+      {
+        "name": "Jake Ryan",
+        "character": "\"Dwarf 2\""
+      },
+      {
+        "name": "Shiv Pai",
+        "character": "\"Dwarf 3\""
+      },
+      {
+        "name": "Lino Eisenberg",
+        "character": "Danny \"The Woodsman\""
+      },
+      {
+        "name": "Kerwin Frost",
+        "character": "DJ at 10 OAK (voice)"
+      },
+      {
+        "name": "La Mar Taylor",
+        "character": "Friend of The Weeknd"
+      },
+      {
+        "name": "Trinidad James",
+        "character": "Trinidad James"
+      },
+      {
+        "name": "William Sappe",
+        "character": "Nightclub Security Guard"
+      },
+      {
+        "name": "Greg Yuna",
+        "character": "Flawless"
+      },
+      {
+        "name": "Victor Plajas",
+        "character": "Abel's Bodyguard 1"
+      },
+      {
+        "name": "Ricky Barksdale",
+        "character": "Abel's Bodyguard 2"
+      },
+      {
+        "name": "Tilda Swinton",
+        "character": "Anne \"Adley's Auction Manager\" (voice)"
+      },
+      {
+        "name": "Jennifer Venditti",
+        "character": "KG's Agent (voice)"
+      },
+      {
+        "name": "Natasha Lyonne",
+        "character": "Boston Player Personnel (voice)"
+      },
+      {
+        "name": "Larry Sloman",
+        "character": "Man on Street"
+      },
+      {
+        "name": "Benjy Kleiner",
+        "character": "Aaron"
+      },
+      {
+        "name": "Svetlana B. Levitin",
+        "character": "Ruth"
+      },
+      {
+        "name": "Roza Babekova",
+        "character": "Rachel"
+      },
+      {
+        "name": "Josh Ostrovsky",
+        "character": "Noah"
+      },
+      {
+        "name": "Jessica Mullayev",
+        "character": "Natalie"
+      },
+      {
+        "name": "Izra Malakov",
+        "character": "Izra"
+      },
+      {
+        "name": "Sahar Bibiyan",
+        "character": "Ida"
+      },
+      {
+        "name": "Brad Davidorf",
+        "character": "Radio DJ (voice)"
+      },
+      {
+        "name": "Ralph Colucci",
+        "character": "Night Doorman"
+      },
+      {
+        "name": "Marty Tendler",
+        "character": "Concierge"
+      },
+      {
+        "name": "John Amos",
+        "character": "Neighbor 33F"
+      },
+      {
+        "name": "Conor Coyne",
+        "character": "Neighbor 33H"
+      },
+      {
+        "name": "Alexander Gilkes",
+        "character": "Adley's Auctioneer"
+      },
+      {
+        "name": "Jennifer Sacks",
+        "character": "Kevin Garnett's Manager"
+      },
+      {
+        "name": "Wayne Diamond",
+        "character": "High Roller"
+      },
+      {
+        "name": "Debbie DeLisi",
+        "character": "Mohegan Sun Teller"
+      },
+      {
+        "name": "Chad Neves",
+        "character": "Supervisor"
+      },
+      {
+        "name": "Ara Daglian",
+        "character": "Gambler in Sports Book"
+      },
+      {
+        "name": "Glenn 'Doc' Rivers",
+        "character": "Glenn 'Doc' Rivers (voice)"
+      },
+      {
+        "name": "Erika Wachter",
+        "character": "Post Game Interview"
+      },
+      {
+        "name": "Sunny Wu Jin Zahao",
+        "character": "Mine Management 2"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Francine Maisler",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Martin Scorsese",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Darius Khondji",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Scott Rudin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Skip Lievsay",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Skip Lievsay",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Emma Tillinger Koskoff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Eléonore Hendricks",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Anthony Katagas",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Gary Archer",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "Jay Peck",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Mark DeSimone",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Josh Safdie",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Josh Safdie",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Blaise Corrigan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Peter Epstein",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Stephen A. Pope",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "David Koplan",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Benny Safdie",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Benny Safdie",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Benny Safdie",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Ronald Bronstein",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Ronald Bronstein",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Jennifer Venditti",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Eli Bush",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jacob Jaffke",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Daniel Lopatin",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Rocio Gimenez",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Tom Fleischman",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Kyra Panchenko",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Sam Lisenco",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Eran Dinur",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Scott Cannizzaro",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Jeremy Sample",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sebastian Bear-McClard",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Chris Navarro",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Oscar Boyson",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Warren Shaw",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Warren Shaw",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mia Neal",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Anton Gold",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Josh Lakatos",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Jessica Zavala",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Lucien Harriot",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Eric J Carlson",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Amy Lauritsen",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Mark Sean Haynes",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Michael Sterkin",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Miyako Bellizzi",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Chris Chae",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Kristin Catuogno",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Anthony Mecca",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jason Oliver",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Olga Abramson",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Victor Plajas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Fangge Chen",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Kendall Anderson",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Tim Elder",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Aaron David Ross",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "John St. Denis",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Nawaal Hendriks",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Gavin Hecker",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Eric Dean",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Scott Bowers",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Irfaan Fredericks",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Alex Noble",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Luke Lesko",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Aaron Worman",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Ricky Barksdale",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robert Ludemann",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Michael Bartol",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Catherine Farrell",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Valentia Fisher",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Nick Notte",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Caleb P. Johnson",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Stefan Puente",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Allison Imoto-Suh",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Jillian Daidone",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Christopher Carcich",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "Mary Caprari",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Sabana Majeed",
+        "department": "Costume & Make-Up",
+        "job": "Additional Hairstylist"
+      },
+      {
+        "name": "Jimmy Hays",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Meriam Rodriguez",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Dale Butler",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Marquis Sheppard",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Douglas Van Rooy",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Jason Palisi",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Clara Peterson",
+        "department": "Production",
+        "job": "Extras Casting Assistant"
+      }
+    ]
+  },
+  "keywords": [
+    "bet",
+    "infidelity",
+    "new york city",
+    "gambling",
+    "auction",
+    "ethiopia",
+    "dark comedy",
+    "basketball",
+    "money",
+    "art house",
+    "debt",
+    "apartment building",
+    "opal",
+    "pawnshop",
+    "character study",
+    "jeweler",
+    "city life",
+    "neo-noir",
+    "independent film",
+    "black opal"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.",
+    "Howard Ratner (Adam Sandler) is a once successful New York gems dealer whose gambling addiction has left his family and career in shambles, and him hundreds of thousands in debt. Always looking for the next big bet, Howard thinks he finally hit it big when he discovers a rare uncut Opal from Ethiopia, with a very interested high-profile buyer. But the closer Howard gets to finally winning big, the more he is forced to realize he can't keep running from the consequences of his actions.",
+    "In New York City's chaotic and corrupt diamond market, the gemstone dealer and gambling addict, Howard Ratner, is owing money to almost everyone, including his brother-in-law, Arno. A serial adulterer, incorrigible gambler, and all-around con artist, Howard thinks he can finally get out of the tight spot when he gets his hands on a block of rare Ethiopian black opal--the means to clear his ever-rising debts. But, the star Boston Celtics player, Kevin Garnett, has already taken a shine to the precious uncut gem. Can Ratner juggle his family, a pair of thuggish collectors, his work, and his master plan before things get nasty?—Nick Riganas",
+    "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+    "From acclaimed filmmakers Josh and Benny Safdie comes an electrifying crime thriller about Howard Ratner (Adam Sandler), a charismatic New York City jeweler always on the lookout for the next big score. When he makes a series of high-stakes bets that could lead to the windfall of a lifetime, Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides, in his relentless pursuit of the ultimate win."
+  ],
+  "synopsis": "In 2010, Ethiopian Jewish miners retrieve a rare black opal from the Welo mine in Africa. 2012, gambling addict Howard Ratner runs KMH, a jewelry store in New York City's Diamond District. Howard struggles to pay off gambling debts, including $100,000 he owes to Arno, his loan shark brother-in-law. His domestic life is split between Dinah, his estranged wife who has agreed to a divorce after Passover, and his girlfriend Julia, a KMH employee.Howard's business associate Demany brings basketball star Kevin Garnett to KMH. While Garnett is in the store, the rare Ethiopian black opal Howard has ordered arrives. Garnett becomes obsessed with it, insisting on holding onto it for good luck at his game that night. Howard reluctantly agrees, accepting Garnett's 2008 NBA Championship ring as collateral.Immediately after Garnett leaves, Howard pawns the ring and places a six-way parlay on Garnett playing extraordinarily well in that night's game. Howard wins $600,000, but is ambushed at his daughter's school play by Arno and his bodyguards Phil and Nico. Arno reveals that he placed a stop on Howard's bet as it was made with money owed to him. Phil and Nico strip Howard naked and lock him in the trunk of his car, forcing him to call Dinah for help.Howard tracks down Demany at a party hosted by the Weeknd. Demany says that Garnett still has the opal, angering Howard. Howard discovers Julia and the Weeknd snorting cocaine together in a bathroom, and gets into a fight with him. Feeling betrayed, Howard demands that Julia move out of his apartment. After an awkward Passover dinner, Dinah rejects Howard's plea to give their marriage another chance.Garnett returns the opal before the auction and offers to purchase it for $175,000, but Howard refuses, given the substantially larger appraisal. Just before the auction starts, Howard discovers the opal has been appraised for significantly less than his initial estimate of $1 million. He convinces his father-in-law Gooey to bid on the gem to drive up the price, but the plan backfires when Garnett fails to top Gooey's final bid. A furious Gooey gives Howard the opal before Arno, Phil, and Nico assault Howard outside the auction house. Howard returns to KMH, bloody and in tears. Julia comforts him and they reconcile.Howard learns that Garnett is still willing to purchase the opal; as soon as the sale is made, Howard bets the proceeds on a three-way parlay on Garnett having a strong performance. He tells Julia to travel by helicopter to Mohegan Sun to place the bet for him. Julia narrowly escapes as Arno, Phil and Nico arrive at KMH. The thugs find Howard in his office and threaten him, but he refuses to call Julia and cancel the bet. Furious, the three attempt to pursue her, but Howard locks them in between the store's security doors. Howard watches the game on TV while Arno, Phil and Nico remain trapped.Garnett's Boston Celtics win the game, winning Howard $1.2 million. An ecstatic Howard frees Arno, Phil and Nico, but Phil, enraged, shoots and kills Howard. Arno protests and tries to escape, but Phil kills him as well. Julia leaves the casino with Howard's winnings. Phil and Nico loot the store as the police are called."
+}

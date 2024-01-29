@@ -1,0 +1,694 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/42gqGeyXh4caHP19Tqf8DMRgc7r.jpg",
+  "id": 556678,
+  "title": "Emma.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
+  "release_date": "2020-02-13",
+  "vote_average": 7,
+  "vote_count": 1610,
+  "popularity": 23.946,
+  "overview": "In 1800s England, a well-meaning but selfish young woman meddles in the love lives of her friends.",
+  "imdb_id": "tt9214832",
+  "budget": 10000000,
+  "homepage": "https://www.focusfeatures.com/emma",
+  "revenue": 25155355,
+  "runtime": 125,
+  "tagline": "Love knows best.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "production_companies": [
+    "Working Title Films",
+    "Perfect World Pictures",
+    "Blueprint Pictures"
+  ],
+  "production_countries": [
+    "GB"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Anya Taylor-Joy",
+        "character": "Emma Woodhouse"
+      },
+      {
+        "name": "Johnny Flynn",
+        "character": "George Knightley"
+      },
+      {
+        "name": "Josh O'Connor",
+        "character": "Mr. Elton"
+      },
+      {
+        "name": "Callum Turner",
+        "character": "Frank Churchill"
+      },
+      {
+        "name": "Mia Goth",
+        "character": "Harriet Smith"
+      },
+      {
+        "name": "Miranda Hart",
+        "character": "Miss Bates"
+      },
+      {
+        "name": "Bill Nighy",
+        "character": "Mr. Woodhouse"
+      },
+      {
+        "name": "Rupert Graves",
+        "character": "Mr. Weston"
+      },
+      {
+        "name": "Gemma Whelan",
+        "character": "Miss Taylor / Mrs. Weston"
+      },
+      {
+        "name": "Amber Anderson",
+        "character": "Jane Fairfax"
+      },
+      {
+        "name": "Tanya Reynolds",
+        "character": "Mrs. Elton"
+      },
+      {
+        "name": "Connor Swindells",
+        "character": "Robert Martin"
+      },
+      {
+        "name": "Angus Imrie",
+        "character": "Bartholomew"
+      },
+      {
+        "name": "Letty Thomas",
+        "character": "Biddy"
+      },
+      {
+        "name": "Aidan White",
+        "character": "Hartfield Butler"
+      },
+      {
+        "name": "Edward Davis",
+        "character": "Charles"
+      },
+      {
+        "name": "Chris White",
+        "character": "James, Hartfield Coachman"
+      },
+      {
+        "name": "Myra McFadyen",
+        "character": "Mrs. Bates"
+      },
+      {
+        "name": "Esther Coles",
+        "character": "Mrs. Cox"
+      },
+      {
+        "name": "Suzy Bloom",
+        "character": "Miss Gilbert"
+      },
+      {
+        "name": "Suzie Toase",
+        "character": "Mrs. Coles"
+      },
+      {
+        "name": "Nicholas Burns",
+        "character": "Mr. Coles"
+      },
+      {
+        "name": "Connor Dalton",
+        "character": "Donwell Footman"
+      },
+      {
+        "name": "Lucy Briers",
+        "character": "Mrs. Reynolds"
+      },
+      {
+        "name": "Anna Francolini",
+        "character": "Mrs. Goddard"
+      },
+      {
+        "name": "Christopher Godwin",
+        "character": "Mr. Perrie"
+      },
+      {
+        "name": "Vanessa Owen",
+        "character": "Catherine Martin"
+      },
+      {
+        "name": "Isis Hainsworth",
+        "character": "Elizabeth Martin"
+      },
+      {
+        "name": "Hannah Stokely",
+        "character": "Mrs. Martin"
+      },
+      {
+        "name": "Charlotte Weston",
+        "character": "Mrs. Ford"
+      },
+      {
+        "name": "Max Toovey",
+        "character": "Henry Knightley"
+      },
+      {
+        "name": "Cecelia Jacob",
+        "character": "Bella Knightley"
+      },
+      {
+        "name": "Cody Gipson",
+        "character": "John Knightley Jnr."
+      },
+      {
+        "name": "Tabitha Coop",
+        "character": "Emma Knightley"
+      },
+      {
+        "name": "Juno Coop",
+        "character": "Emma Knightley"
+      },
+      {
+        "name": "Chloe Pirrie",
+        "character": "Isabella Knightley"
+      },
+      {
+        "name": "Oliver Chris",
+        "character": "John Knightley"
+      },
+      {
+        "name": "Rose Shalloo",
+        "character": "Hannah"
+      },
+      {
+        "name": "Janine Craig",
+        "character": "Dancer"
+      },
+      {
+        "name": "Cris Penfold",
+        "character": "Dancer"
+      },
+      {
+        "name": "Nike Van Shie",
+        "character": "Dancer"
+      },
+      {
+        "name": "Leigh Daniels",
+        "character": "Dancer"
+      },
+      {
+        "name": "Alastair Postlethwaite",
+        "character": "Dancer"
+      },
+      {
+        "name": "Shaun Walters",
+        "character": "Dancer"
+      },
+      {
+        "name": "Zachary Trevitt",
+        "character": "Dancer"
+      },
+      {
+        "name": "Philippe Barnes",
+        "character": "Musician - Flute"
+      },
+      {
+        "name": "Alexis Bennett",
+        "character": "Musician - Viola"
+      },
+      {
+        "name": "Giles Lewin",
+        "character": "Musician - Violin"
+      },
+      {
+        "name": "Edmund George Taylor",
+        "character": "Musician - Violin"
+      },
+      {
+        "name": "Joe Zeitlin",
+        "character": "Musician - Cello"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Tim Bevan",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Eric Fellner",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kave Quinn",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Glenn Freemantle",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Ben Barker",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Alexandra Byrne",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Graham Broadbent",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jane Austen",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Peter Czernin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Iain Mackay",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Iain Mackay",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Andrew Caller",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Autumn de Wilde",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Christopher Blauvelt",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Nick Emerson",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "David Schweitzer",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Mary Buri",
+        "department": "Art",
+        "job": "Standby Art Director"
+      },
+      {
+        "name": "Jessica Ronane",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Marese Langan",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Marese Langan",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Elo Soode",
+        "department": "Art",
+        "job": "Conceptual Design"
+      },
+      {
+        "name": "Elo Soode",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Danny Freemantle",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Ian Tapp",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Emilie O'Connor",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Neal Champion",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Jo Wallett",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Stacy Mann",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Rachel Neale",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Liam Daniel",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Zoe Morgan",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Paul McGeachan",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Eleanor Catton",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "William Lyons",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "name": "Andrea Matheson",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Alastair King",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Alastair King",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "name": "Alice Sutton",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "James Wichall",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Giles Gale",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Becky Bentham",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Mark Willsher",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Amelia Granger",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Sally Turner",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "John Casali",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Nick Freemantle",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Zoe Freed",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Robert Malone",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Zach Cowie",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "name": "Deborah Saban",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Laura Smith",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Sally Hill",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Stella Fox",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Dayo James",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Zafar Janjua",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Jemma Riley-Tolch",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Will Kendal",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Alex Mott",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Shana Bah",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Anna Cavaliere",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Denise Stocker",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Ben Knight",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Frances Bennett",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Owen Harrison",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Dan Marsden",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Dillan Nicholls",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Isobel Waller-Bridge",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Charlotte Hutchings",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Jannika Öberg",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Elliot Mander",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Charlie Thorne",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Mark Lavis",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Adam Oakley",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Aislinn Tudhope",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Erin Shien Smith",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Michael Wacker",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Alice Bambridge",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Claudia Stolze",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Tünde Kiss-Benke",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Chelsea Bulloch",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Lindani Ndabandaba",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Sophia Vas-Jones",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Louise Sinclair",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Samantha Beddoe",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Christopher Worrall",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Jamie Matthewman",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Ollie Birmingham",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Lisa Collins",
+        "department": "Art",
+        "job": "Painter"
+      }
+    ]
+  },
+  "keywords": [
+    "based on novel or book",
+    "matchmaking",
+    "english countryside",
+    "19th century",
+    "georgian or regency era",
+    "matchmaker"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "In 1800s England, a well meaning but selfish young woman meddles in the love lives of her friends.",
+    "Jane Austen's beloved comedy about finding your equal and earning your happy ending, is reimagined in this. Handsome, clever, and rich, Emma Woodhouse is a restless queen bee without rivals in her sleepy little town. In this glittering satire of social class and the pain of growing up, Emma must adventure through misguided matches and romantic missteps to find the love that has been there all along.—Focus Features"
+  ],
+  "synopsis": "After her governess, Miss Taylor, marries and becomes Mrs. Weston (Gemma Whelan), Emma Woodhouse (Anya Taylor-Joy) (her father Mr. Woodhouse (Bill Nighy)) searches about for a new companion. She settles on Harriet Smith (Mia Goth), a girl slightly younger than herself whom Emma supposes is the unclaimed child of a gentleman as her parents are unknown, but Harriet's education has been provided for. Emma learns that Mr. Robert Martin (Connor Swindells), a tenant farmer of her brother-in-law, Mr. Knightley (Oliver Chris), has proposed to Harriet. Though she claims she will not interfere, Emma manipulates Harriet into declining Mr. Martin's offer of marriage, much to Harriet's distress. In the meantime, Emma believes that Mr. Elton (Josh O'Connor), the local vicar, is in love with Harriet and encourages Harriet to transfer her hopes to him.Mr. Knightly is not happy with the influence Emma has over Harriet. He had encouraged Robert to propose to Harriet and is enraged when he finds that Emma intervened to have Harriet refuse Robert. He cautions Emma against trying to get Harriet's hopes up by pairing her with Elton. He knows that Elton will never \"settle\" for someone as low as Harriet is in her station. Knightley also knows that Emma pines for Mr. Weston's first son Frank Churchill, and always maintains that he considers Frank as a charlatan and a liar.At Christmas time Emma's older sister Isabella (Chloe Pirrie) and Mr. Knightley's younger brother George (Johnny Flynn, Esabella's hubby) arrive to spend time with their family. After the family leaves dinner with the Westons early Emma finds herself travelling home alone in a carriage with Mr. Elton who declares his love for her. Emma promptly refuses him, and Mr. Elton disappears for six weeks and eventually returns with a wife. Emma has the unpleasant task of telling Harriet that Elton never loved her.After Christmas two much talked about members in Emma's social circle appear. Jane Fairfax (Amber Anderson), the governess niece of Mrs. Bates arrives for a visit and Emma grows jealous of her as she is multi-talented and can run circles around Emma in gaining attention. Meanwhile Mr. Weston's son from his first marriage, Frank Churchill (Callum Turner), also appears and Emma finds herself entranced by him. Frank's arrival prompts the Westons to hold a ball. At the ball Mr. Elton embarrasses Harriet by pointedly refusing to dance with her. She is rescued by Mr. Knightley who asks her to dance. Later on Emma and Mr. Knightley also dance together and romantic feelings are awakened on both sides. Though Emma leaves before Mr. Knightley can speak to her he runs to her home only for their meeting to be interrupted by Frank Churchill who has rescued Harriet after she was set upon by gypsies. Harriet intimates to Emma that she has fallen in love again which leads Emma to believe that she is in love with Frank. Emma vows not to interfere but once again finds herself trying to manipulate circumstances so that Harriet and Frank may spend more time together.Meanwhile Emma tries to spend more time with Mr. Knightley and is surprised when he repeatedly ignores her.\nWhen the entire party of their social acquaintance goes on a picnic, Frank Churchill urges them to play a game to amuse Emma. Emma unthinkingly insults Miss Bates (Miranda Hart) during the course of the game leading the entire party to disband in discomfort. Mr. Knightley later rebukes Emma for her behavior. A humiliated Emma later goes to apologize to Miss Bates who accepts her apology without question.Frank Churchill's wealthy aunt finally dies, so that he is no longer required to be at her beck and call. The Westons reveal that he has actually been secretly engaged to Jane Fairfax and was waiting for the death of his aunt, who was opposed to the match, to break the news. The Westons had hoped he would marry Emma, but Emma is only distressed on account of Harriet. However, when she breaks the news to Harriet she discovers that Harriet is in love with Mr. Knightley. An astute Harriet realizes that Emma herself is in love with Mr. Knightley.Mr. Knightley goes to Emma to comfort her about the news of Frank Churchill and to reveal to her that he is in love with her and hopes to marry her. Initially pleased with the offer of marriage, Emma develops a nosebleed when she realizes how upset Harriet will be. She decides to interfere one last time and goes to Mr. Martin to make amends, offering him a portrait of Harriet she drew herself.Harriet goes to Emma and tells her she has accepted Mr. Martin's offer of marriage and that her father has revealed himself now that she is of age and is not a gentleman at all, but a tradesman who makes galoshes. Emma congratulates Harriet and invites her and her father to her home.\nThough Emma and Mr. Knightley are very much in love Emma is distressed at the thought of leaving her father all alone. To accommodate her wishes Mr. Knightley suggests that rather than having Emma quit her father's home he joins it. Emma happily agrees and the two are married."
+}

@@ -1,0 +1,963 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/5kCmdJVhox9vFjhL9wTN9VgER5.jpg",
+  "id": 462,
+  "title": "Erin Brockovich",
+  "poster_path": "https://image.tmdb.org/t/p/w500/xbMEHLu36LyptPD29FxVTndpYZ1.jpg",
+  "release_date": "2000-03-17",
+  "vote_average": 7.432,
+  "vote_count": 2954,
+  "popularity": 32.071,
+  "overview": "A twice-divorced mother of three who sees an injustice, takes on the bad guy and wins -- with a little help from her push-up bra. Erin goes to work for an attorney and comes across medical records describing illnesses clustered in one nearby town. She starts investigating and soon exposes a monumental cover-up.",
+  "imdb_id": "tt0195685",
+  "budget": 52000000,
+  "homepage": "",
+  "revenue": 256271286,
+  "runtime": 131,
+  "tagline": "She brought a small town to its feet and a huge company to its knees.",
+  "genres": [
+    "Drama"
+  ],
+  "production_companies": [
+    "Jersey Films"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Julia Roberts",
+        "character": "Erin Brockovich"
+      },
+      {
+        "name": "Albert Finney",
+        "character": "Ed Masry"
+      },
+      {
+        "name": "Aaron Eckhart",
+        "character": "George"
+      },
+      {
+        "name": "Marg Helgenberger",
+        "character": "Donna Jensen"
+      },
+      {
+        "name": "Cherry Jones",
+        "character": "Pamela Duncan"
+      },
+      {
+        "name": "Veanne Cox",
+        "character": "Theresa Dallavale"
+      },
+      {
+        "name": "Conchata Ferrell",
+        "character": "Brenda"
+      },
+      {
+        "name": "Tracey Walter",
+        "character": "Charles Embry"
+      },
+      {
+        "name": "Peter Coyote",
+        "character": "Kurt Potter"
+      },
+      {
+        "name": "Michael Harney",
+        "character": "Pete Jensen"
+      },
+      {
+        "name": "Scarlett Pomers",
+        "character": "Shanna Jensen"
+      },
+      {
+        "name": "Scotty Leavenworth",
+        "character": "Matthew Brown"
+      },
+      {
+        "name": "Gina Gallego",
+        "character": "Ms. Sanchez"
+      },
+      {
+        "name": "T.J. Thyne",
+        "character": "David Foil (1st PG&E Rep)"
+      },
+      {
+        "name": "Valente Rodriguez",
+        "character": "Donald"
+      },
+      {
+        "name": "Erin Brockovich",
+        "character": "Waitress"
+      },
+      {
+        "name": "David Brisbin",
+        "character": "Dr. Jaffe"
+      },
+      {
+        "name": "Dawn Didawick",
+        "character": "Rosalind"
+      },
+      {
+        "name": "George Rocky Sullivan",
+        "character": "Los Angeles Judge"
+      },
+      {
+        "name": "Pat Skipper",
+        "character": "Defending Lawyer"
+      },
+      {
+        "name": "Jack Gill",
+        "character": "Defendant"
+      },
+      {
+        "name": "Irene Olga López",
+        "character": "Mrs. Morales"
+      },
+      {
+        "name": "Emily Marks",
+        "character": "Beth (8 months)"
+      },
+      {
+        "name": "Julie Marks",
+        "character": "Beth (8 months)"
+      },
+      {
+        "name": "Gemmenne de la Peña",
+        "character": "Katie"
+      },
+      {
+        "name": "Adilah Barnes",
+        "character": "Anna"
+      },
+      {
+        "name": "Irina V. Passmoore",
+        "character": "Babysitter"
+      },
+      {
+        "name": "Ron Altomare",
+        "character": "Biker Friend"
+      },
+      {
+        "name": "Charles John Bukey",
+        "character": "Biker Friend"
+      },
+      {
+        "name": "Randy Lowell",
+        "character": "Brian Frankel"
+      },
+      {
+        "name": "Jamie Harrold",
+        "character": "Scott"
+      },
+      {
+        "name": "Sarah Ashley",
+        "character": "Ashley Jensen"
+      },
+      {
+        "name": "Joe Chrest",
+        "character": "Tom Robinson"
+      },
+      {
+        "name": "Meredith Zinner",
+        "character": "Mandy Robinson"
+      },
+      {
+        "name": "William Lucking",
+        "character": "Bob Linwood"
+      },
+      {
+        "name": "Mimi Kennedy",
+        "character": "Laura Ambrosino"
+      },
+      {
+        "name": "Scott Sowers",
+        "character": "Mike Ambrosino"
+      },
+      {
+        "name": "Kristina Malota",
+        "character": "Annabelle Daniels"
+      },
+      {
+        "name": "Wade Williams",
+        "character": "Ted Daniels"
+      },
+      {
+        "name": "Cordelia Richards",
+        "character": "Rita Daniels"
+      },
+      {
+        "name": "Ashley Pimental",
+        "character": "Beth (18 months)"
+      },
+      {
+        "name": "Brittany Pimental",
+        "character": "Beth (18 months)"
+      },
+      {
+        "name": "Larry Martinez",
+        "character": "Nelson Perez"
+      },
+      {
+        "name": "LeRoy A. Simmons",
+        "character": "Self"
+      },
+      {
+        "name": "Don Snell",
+        "character": "PG&E Lawyer"
+      },
+      {
+        "name": "Michael Shamberg",
+        "character": "PG&E Lawyer"
+      },
+      {
+        "name": "Ronald E. Hairston",
+        "character": "Car Messenger"
+      },
+      {
+        "name": "Scott Allen",
+        "character": "Town Meeting Plaintiff"
+      },
+      {
+        "name": "Sheila Shaw",
+        "character": "Ruth Linwood"
+      },
+      {
+        "name": "Matthew Kimbrough",
+        "character": "Bartender"
+      },
+      {
+        "name": "Jason Cervantes",
+        "character": "Check Messenger"
+      },
+      {
+        "name": "Spencer Kayden",
+        "character": "Tearful Courtroom Spectator (uncredited)"
+      },
+      {
+        "name": "Norma Maldonado",
+        "character": "Woman #1 (uncredited)"
+      },
+      {
+        "name": "Mike Malone",
+        "character": "Baxter (uncredited)"
+      },
+      {
+        "name": "Tom Tangen",
+        "character": "Ned (uncredited)"
+      },
+      {
+        "name": "Julie Wagner",
+        "character": "E.R. Admitting Nurse (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Thomas Newman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Danny DeVito",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steven Soderbergh",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Philip Messina",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Michael Shamberg",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Stacey Sher",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Susannah Grant",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "John Hardy",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Gail Lyon",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Carla Santos Shamberg",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Edward Lachman",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Anne V. Coates",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Margery Simkin",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jeffrey Kurland",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Christa Munro",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Bill Bernstein",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Randy Berrett",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Ken Diaz",
+        "department": "Costume & Make-Up",
+        "job": "Tattoo Designer"
+      },
+      {
+        "name": "Robb Sullivan",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Keith P. Cunningham",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Kristen Toscano Messina",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "John Axelrad",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Carmen Cuba",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Buck Damon",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "name": "David Betancourt",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Dawn Fintor",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Dawn Fintor",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Alicia Stevenson",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Gary Archer",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "Richard Boris",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Tabby Hanson",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Rick Avery",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Gavin J. Behrman",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Joseph F. Brennan",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Richard Kite",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Steve Kelso",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "name": "Gregory Jacobs",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Carla Meyer",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "John Robotham",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Michael Keller",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Richard Dean",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Brian Basham",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Ron Bedrosian",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Eric Flickinger",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Chris Lombardi",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Shoshana Rubin",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Frederic W. Brost",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Mark Kenna",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "name": "Mike Malone",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Erin Boyd",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "name": "Elaine Ramires",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Kevin Hannigan",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Shane Greedy",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Larry Blake",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Larry Blake",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Chris Snyder",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Corey Bronson",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Jason Bedig",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Patricia Klawonn",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jon Carpenter",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Annie Welles",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Masako Masuda",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Bob Marshak",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Thomas J. Smith",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jon Vogl",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Rich Bennetti",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Karen Jarnecke",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Aaron Glascock",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Barry Idoine",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Robin Le Chanu",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Spooky Stevens",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "James Morioka",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Dennis S. Sands",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Bonnie Clevering",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Ken Lavet",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Deborah Mills-Whitlock",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Roydon Clark",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Keri Bruno",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Amanda Scheer-Demme",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "James W. Apted",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Carole Cowley",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Werner Hahnlein",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Thomas Causey",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "John Bullard",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Emily Wyss",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Blair Huizingh",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Fran Vega-Buck",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Thomas Pasatieri",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Peter Bankins",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Richard Hartley",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Michelle Weiss",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Thomas S. Dickson",
+        "department": "Crew",
+        "job": "Projection"
+      },
+      {
+        "name": "Caleb Duffy",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Joseph Keideth",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Joni Avery",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Antoine Mascaro",
+        "department": "Crew",
+        "job": "Chef"
+      },
+      {
+        "name": "Caitlin Maloney",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Dana Ross",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Charles John Bukey",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Bernard Gough",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Anthony Wilson",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Monica de Armond",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Steven Kissick",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Gary Burritt",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Stacy De La Motte",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Loren Bess",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Russ Caldwell",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Michael Risoli",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Sarah Bullion",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Scott Shordon",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Francis N. 'Lucky' Costello",
+        "department": "Art",
+        "job": "Standby Painter"
+      },
+      {
+        "name": "Dale E. Anderson",
+        "department": "Costume & Make-Up",
+        "job": "Set Dressing Artist"
+      },
+      {
+        "name": "Charles Drake",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Taina Mirach",
+        "department": "Crew",
+        "job": "Production Intern"
+      },
+      {
+        "name": "Harold Fowler",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Marc C. Geschwind",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Frank Endewardt",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Gary M. Lang",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Ricki L. Stein",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "James C. Taylor",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Mark Tait Lewis",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "Thomas John McGowan",
+        "department": "Crew",
+        "job": "Studio Teachers"
+      },
+      {
+        "name": "Rich King",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Paul Threlkeld",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Rodney Veto",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "John Owens",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Cheri Hall",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Niamh Murphy",
+        "department": "Art",
+        "job": "Textile Artist"
+      },
+      {
+        "name": "Thomas Moffitt",
+        "department": "Art",
+        "job": "Set Painter"
+      },
+      {
+        "name": "Jim Swidarski",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Janis Mekaelian",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Nicholas Wolfert",
+        "department": "Directing",
+        "job": "Additional Second Assistant Director"
+      },
+      {
+        "name": "Alberto Christiano Lombardo",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Isaac Friedman",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Brumby Broussard",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Brett Brown",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "J. Larsen Jay",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Thomas A. Curran",
+        "department": "Camera",
+        "job": "Grip"
+      }
+    ]
+  },
+  "keywords": [
+    "biography",
+    "based on true story",
+    "single mother",
+    "water pollution",
+    "environmental law",
+    "legal drama",
+    "corporate negligence"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "An unemployed single mother becomes a legal assistant and almost single-handedly brings down a California power company accused of polluting a city's water supply.",
+    "Erin Brockovich-Ellis is an unemployed single mother, desperate to find a job, but is having no luck. This losing streak even extends to a failed lawsuit against a doctor in a car accident she was in. With no alternative, she successfully browbeats her lawyer to give her a job in compensation for the loss. While no one takes her seriously, with her trashy clothes and earthy manners, that soon changes when she begins to investigate a suspicious real estate case involving the Pacific Gas & Electric Company. What she discovers is that the company is trying quietly to buy land that was contaminated by hexavalent chromium, a deadly toxic waste that the company is improperly and illegally dumping and, in turn, poisoning the residents in the area. As she digs deeper, Erin finds herself leading point in a series of events that would involve her law firm in one of the biggest class action lawsuits in American history against a multi-billion dollar corporation.—Kenneth Chisholm <kchishol@execulink.com>",
+    "Erin Brockovich-Ellis is a woman in a tight spot. Following a car accident in which Erin is not at fault, Erin pleads with her attorney Ed Masry to hire her at his law firm. Erin stumbles upon some medical records placed in real estate files. She convinces Ed to allow her to investigate, where she discovers a cover-up involving contaminated water in a local community which is causing devastating illnesses among its residents.—Jwelch5742",
+    "Julia Roberts stars in this legal drama based on the story of a woman who helped win the largest settlement ever paid in a direct-action lawsuit. Erin Brockovich (Roberts) is a single mother of three who, after losing a personal injury lawsuit, asks her lawyer, Ed Masry (Albert Finney), if he can help her find a job. Ed gives her work as a file clerk in his office, and she runs across some information on a little-known case filed against Pacific Gas and Electric. Erin begins digging into the particulars of the case, convinced that the facts simply don't add up, and persuades Ed to allow her to do further research; in time, she discovers a systematic cover-up of the industrial poisoning of a city's water supply, which threatens the health of the entire community."
+  ],
+  "synopsis": "Desperate for work, unskilled Erin Brockovich (Julia Roberts), single parent of three, takes a relatively inconsequential job as a legal assistant in a California law firm for low wages. While organizing some paperwork pertaining to real estate cases, she is puzzled when she notices medical records in one of the files. On a whim, she does a little investigating of her own, and comes to suspect that land purchased by Pacific Gas and Electric (PG&E) is the same land on which chromium contamination resulted from PG&E's environmentally irresponsible actions.Examination of local water records and interviews with residents ill from exposure to poisonous chromium confirm Erin's suspicions, but pursuit of legal proceedings against PG&E would seem beyond the capabilities of the small law firm she works at. Still, Erin succeeds in making her boss, Ed Masry (Albert Finney), as passionate about the case as she is, and he takes it on. Both Ed and Erin must make great sacrifices in their lives, as the legal costs spread Ed very thin, and the round-the-clock work takes Erin out of touch with both her boyfriend and her kids.Erin's kids resent the lack of attention from her, and her attempts to explain the merits of what she is doing to her eldest son are futile ..... but, one day her eldest son happens across one of the many documents pertaining to the PG&E case. He reads of a child his own age who is very ill, and knowing that Erin's work will help this child, asks her why the child's mother cannot provide the needed help. When Erin explains that it is because the child's mother is very ill, too, her son, for the first time, appreciates the nature and importance of Erin's work.In the end, Erin's special ability to bond with the victims of chromium contaminaton and their families and Ed's legal and administrative prowess are the key ingredients to making the case against PG&E. As a team, they manage to successfully lay the groundwork for the payment of legal damages by PG&E to those harmed."
+}

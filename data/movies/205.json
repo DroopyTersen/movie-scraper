@@ -1,0 +1,554 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/ljEdpkceJ9b3TEcTVQISS0Goft0.jpg",
+  "id": 205,
+  "title": "Hotel Rwanda",
+  "poster_path": "https://image.tmdb.org/t/p/w500/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+  "release_date": "2004-12-22",
+  "vote_average": 7.715,
+  "vote_count": 2696,
+  "popularity": 23.376,
+  "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+  "imdb_id": "tt0395169",
+  "budget": 17500000,
+  "homepage": "http://www.metrofilms.com/films/hotel-rwanda",
+  "revenue": 38000000,
+  "runtime": 121,
+  "tagline": "When the world closed its eyes, he opened his arms.",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "production_companies": [
+    "Lionsgate",
+    "United Artists",
+    "The Department of Trade and Industry of South Africa",
+    "Miracle Pictures",
+    "Seamus",
+    "Inside Track",
+    "Kiagli Releasing"
+  ],
+  "production_countries": [
+    "IT",
+    "ZA",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Don Cheadle",
+        "character": "Paul Rusesabagina"
+      },
+      {
+        "name": "Sophie Okonedo",
+        "character": "Tatiana Rusesabagina"
+      },
+      {
+        "name": "Nick Nolte",
+        "character": "Colonel Oliver"
+      },
+      {
+        "name": "Fana Mokoena",
+        "character": "General Bizimungu"
+      },
+      {
+        "name": "Joaquin Phoenix",
+        "character": "Jack Daglish"
+      },
+      {
+        "name": "Jean Reno",
+        "character": "Sabena Airlines President, Mr. Tillens"
+      },
+      {
+        "name": "Desmond Dube",
+        "character": "Dube"
+      },
+      {
+        "name": "Ofentse Modiselle",
+        "character": "Roger Rusesabagina"
+      },
+      {
+        "name": "Mathabo Pieterson",
+        "character": "Diane Rusesabagina"
+      },
+      {
+        "name": "Hakeem Kae-Kazim",
+        "character": "George Rutaganda"
+      },
+      {
+        "name": "Tony Kgoroge",
+        "character": "Gregoire"
+      },
+      {
+        "name": "Lebo Mashile",
+        "character": "Odette"
+      },
+      {
+        "name": "Antonio David Lyons",
+        "character": "Thomas Mirama"
+      },
+      {
+        "name": "Leleti Khumalo",
+        "character": "Fedens"
+      },
+      {
+        "name": "Neil McCarthy",
+        "character": "Jean Jacques"
+      },
+      {
+        "name": "Mabutho 'Kid' Sithole",
+        "character": "Head Chef"
+      },
+      {
+        "name": "Jeremiah Ndlovu",
+        "character": "Old Guard"
+      },
+      {
+        "name": "Mosa Kaiser",
+        "character": "Elys Rusesabagina"
+      },
+      {
+        "name": "David O'Hara",
+        "character": "David"
+      },
+      {
+        "name": "Lennox Mathabathe",
+        "character": "Peter"
+      },
+      {
+        "name": "Mothusi Magano",
+        "character": "Benedict"
+      },
+      {
+        "name": "Simo Mogwaza",
+        "character": "Hutu Captain"
+      },
+      {
+        "name": "Cara Seymour",
+        "character": "Pat Archer"
+      },
+      {
+        "name": "Roberto Citran",
+        "character": "Priest"
+      },
+      {
+        "name": "Mduduzi Mabaso",
+        "character": "Hutu Lieutenant"
+      },
+      {
+        "name": "Harriet Lenabe",
+        "character": "Alice the Waitress"
+      },
+      {
+        "name": "Xolani Mali",
+        "character": "Policeman"
+      },
+      {
+        "name": "Rosie Motene",
+        "character": "Receptionist"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Terry George",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Terry George",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Terry George",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Terry George",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "name": "Keir Pearson",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Keir Pearson",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "name": "Keir Pearson",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Izidore Codron",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Rupert Gregson-Williams",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Robert Fraisse",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Naomi Geraghty",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "A. Kitman Ho",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "A. Kitman Ho",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "A. Kitman Ho",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Martin Russell",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Moonyeenn Lee",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Richard Pagano",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Johnny Breedt",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Tony Burrough",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Tom Johnson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Andie Derrick",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Peter Burgis",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Andrea Guerra",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Tania Brooke",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Sarah Trevis",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Luigi Musini",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Brendan Donnison",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Duncan Reid",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Martin Katz",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Hal Sadoff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Emma MacDevitt",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Alistair Hopkins",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Alex Oakley",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Guy Fletcher",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Lionel Steketee",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Ruy Filipe",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Andy Kennedy",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Roberto Cicutto",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Paula Jalfon",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Sally French",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "name": "Vincent G. Cox",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Graham Press",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Nigel Stone",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Lisa Vick",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Doug Cooper",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mark Paterson",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "John Midgley",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Nick Lowe",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Michael Connell",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Paul Carr",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Kenny Becker",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Kevin Jewison",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Bridget Pickering",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Mike Wood",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Suzanne Belcher",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Conor Mackey",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "June Prinz",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Vanessa Baker",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Belinda Kruger",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Blid Alsbirk",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Nicci Van Niekerk",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Suzanne Stokes-Munton",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Elaine Burt",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "David Mahlangu",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Gavin Meadon",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Charl Phyfer",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "David Sutton",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Bruce Thomas",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Francesco Melzi d'Eril",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Alistair Thompson",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Jane Trower",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Nicolas Meyer",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "name": "Sam Bhembe",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Deon Vermeulen",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Deon Vermeulen",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      }
+    ]
+  },
+  "keywords": [
+    "rwanda",
+    "refugee",
+    "refugee camp",
+    "militia",
+    "rwandan genocide",
+    "murder",
+    "slaughter",
+    "dead body",
+    "atrocity",
+    "african",
+    "cruelty",
+    "genocide",
+    "united nations",
+    "death"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+    "1994. In Rwanda, the classification of the native population into Hutus and Tutsis, arbitrarily done by the colonial Belgians, is now ingrained within Rwandan mentality despite the Rwandan independence. Despite the Belgians having placed the Tutsis in a higher position during the Belgian rule, they have placed the majority Hutus in power after independence. Paul Rusesabagina, a Hutu married to a Tutsi, Tatiana Rusesabagina, is the House Manager of the Hotel Des Milles Collines in Kigali. The Milles Collines, owned by Sabena (the national airline of Belgium), is a four-star hotel catering primarily to wealthy white westerners. Paul, who knows how to work the system to run the hotel effectively for its guests and for Sabena, is proud that most of the Caucasians who he meets in this professional capacity treat him with respect. After a specific incident, the relative calm between the Tutsi guerrillas and government-backed Hutu militia takes a turn. Paul's thought that the native population as a whole who are not directly involved in the conflict will be protected as the UN peacekeeping forces and thus the world is watching doesn't happen as the western world largely evacuates from Rwanda and abandons the natives. Such begins what will become a genocide of the Tutsi population. Paul, who is able to get his immediate family to the hotel which is still largely seen as a place of sanctuary, will have to use the considerable skills he has used to run the hotel as well as he has instead to keep himself, his family and any others taking refuge at the hotel alive, whether they be Hutu or Tutsi. Meanwhile, Colonel Oliver, a Canadian heading the UN peacekeeping forces, and Pat Archer with the Red Cross do what they can to assist Paul and to get people to safety first to the hotel then out of the country, while field journalists, like photographer Jack Daglish, try to bring the genocide back into the global media to have the world once again care about what is going on.—Huggo",
+    "The true story of a hotel worker sheltering multiple people from the danger of the war that takes over their country. Doing everything that he possibly can, with the support of his family, the hotel worker helps both the people who are affected and fight back to protect his country.—RECB3",
+    "During 1994, some of the worst atrocities in the history of mankind took place in the country of Rwanda--and in an era of high-speed communication and round the clock news, the events went almost unnoticed by the rest of the world. In only three months, one million people were brutally murdered. In the face of these unspeakable actions, inspired by his love for his family, an ordinary man summons extraordinary courage to save the lives of over a thousand helpless refugees, by granting them shelter in the hotel he manages.—Sujit R. Varma"
+  ],
+  "synopsis": "Tensions between the Hutu and Tutsi peoples lead to a civil war, in a country where corruption and bribes are routine. Paul Rusesabagina (Don Cheadle), the manager of Sabena Hôtel des Mille Collines, is Hutu but his wife, Tatiana (Sophie Okonedo), is Tutsi. His marriage is a source of friction with Hutu extremists, most prominently George Rutaganda, a friendly supplier to the hotel who also is the local leader of Interahamwe, a brutal anti-Tutsi militia.As the political situation in the country deteriorates, Paul and his family observe neighbors being dragged from their homes and openly beaten in the streets. Paul curries favor with people of influence, bribing them with money and alcohol, seeking to maintain sufficient influence to keep his family safe. When civil war erupts and a Rwandan Army officer threatens Paul and his neighbors, Paul barely negotiates their safety, and brings everyone to the hotel. More refugees come to the hotel from the overburdened United Nations camp, the Red Cross, and orphanages. Paul must divert the Hutu soldiers, care for the refugees, be a source of strength to his family, and maintain the appearance of a functioning high-class hotel, as the situation becomes more and more violent, with mobs in the streets just outside the gates.The UN Peacekeeping forces, led by Colonel Oliver (Nick Nolte), are unable to take assertive action against the Interhamwe since they are forbidden to intervene in the genocide. The foreign nationals are evacuated, but the Rwandans are left behind. When the UN forces attempt to evacuate a group of refugees, including Paul's family, they are ambushed and must turn back. In a last-ditch effort to save the refugees, Paul speaks to the Rwandan Army General, Augustin Bizimungu (Fana Mokoena) and when the bribes no longer work, he blackmails him with threats of being tried as a war criminal. The family and the hotel refugees finally leave the besieged hotel in a UN convoy, and they travel through retreating masses of refugees and militia to reach safety behind Tutsi rebel lines.limited details only"
+}

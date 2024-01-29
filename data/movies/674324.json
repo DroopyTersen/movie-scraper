@@ -1,0 +1,691 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/1vXD5HXqkhvsXFHE7KmCPZGPR1e.jpg",
+  "id": 674324,
+  "title": "The Banshees of Inisherin",
+  "poster_path": "https://image.tmdb.org/t/p/w500/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+  "release_date": "2022-10-20",
+  "vote_average": 7.463,
+  "vote_count": 2350,
+  "popularity": 38.741,
+  "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+  "imdb_id": "tt11813216",
+  "budget": 20000000,
+  "homepage": "https://searchlightpictures.com/films/the-banshees-of-inisherin",
+  "revenue": 49300000,
+  "runtime": 114,
+  "tagline": "Everything was fine yesterday.",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "production_companies": [
+    "Searchlight Pictures",
+    "Blueprint Pictures",
+    "Film4 Productions",
+    "Metropolitan Films International",
+    "TSG Entertainment"
+  ],
+  "production_countries": [
+    "IE",
+    "GB",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Colin Farrell",
+        "character": "Pádraic Súilleabháin"
+      },
+      {
+        "name": "Brendan Gleeson",
+        "character": "Colm Doherty"
+      },
+      {
+        "name": "Kerry Condon",
+        "character": "Siobhán Súilleabháin"
+      },
+      {
+        "name": "Barry Keoghan",
+        "character": "Dominic Kearney"
+      },
+      {
+        "name": "Gary Lydon",
+        "character": "Peadar Kearney"
+      },
+      {
+        "name": "Pat Shortt",
+        "character": "Jonjo Devine"
+      },
+      {
+        "name": "Jon Kenny",
+        "character": "Gerry"
+      },
+      {
+        "name": "Sheila Flitton",
+        "character": "Mrs. McCormick"
+      },
+      {
+        "name": "David Pearse",
+        "character": "Priest"
+      },
+      {
+        "name": "Bríd Ní Neachtain",
+        "character": "Mrs. O'Riordan"
+      },
+      {
+        "name": "Aaron Monaghan",
+        "character": "Declan"
+      },
+      {
+        "name": "Lasairfhíona Ní Chonaola",
+        "character": "Female Singer"
+      },
+      {
+        "name": "James Carty",
+        "character": "Student Musician #1"
+      },
+      {
+        "name": "Conor Connolly",
+        "character": "Student Musician #2"
+      },
+      {
+        "name": "Ryan Owens",
+        "character": "Student Musician #3"
+      },
+      {
+        "name": "John Carty",
+        "character": "Older Musician #1"
+      },
+      {
+        "name": "Oliver Farrelly",
+        "character": "Older Musician #2"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Patrick Ghislain",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Peter Kohn",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Peter Kohn",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Carter Burwell",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Mark Tildesley",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Ben Davis",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Paul Ghirardani",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Graham Broadbent",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Eimer Ní Mhaoldomhnaigh",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Martin McDonagh",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Martin McDonagh",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Martin McDonagh",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Peter Czernin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ollie Madden",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mikkel E.G. Nielsen",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Alistair Hopkins",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Louise Kiely",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Christer Melén",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Diarmuid McKeown",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Julien Naudin",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Jo Homewood",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "James Flynn",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Dan Martin",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "name": "Neil Stemp",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Simon J. Willis",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Joakim Sundström",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Johnathan Rush",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Chris Burdon",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Orla Carrol",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Lynn Johnson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Des Whelan",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Simon Chase",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Simon Chase",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Simon Hughes",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Daniel McNicoll",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Aidan Monaghan",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Jonathan Hession",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Mohit Varde",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Karen Rigg",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Jeanette McGrath",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Michael Standish",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Christine Fitzgerald",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Cameron Lawther",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "name": "Guillaume Beauron",
+        "department": "Sound",
+        "job": "First Assistant Sound Editor"
+      },
+      {
+        "name": "Thomas Evan Jones",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Eoin Holohan",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Paul Byrne",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Andrew McArthur",
+        "department": "Sound",
+        "job": "Second Assistant Sound"
+      },
+      {
+        "name": "Judith Devlin",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "James Roberts",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Mark Forbes",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Chris Whiteside",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Osman Baloglu",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Daniel Battsek",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jenny Wan",
+        "department": "Visual Effects",
+        "job": "Visual Effects Compositor"
+      },
+      {
+        "name": "Dolores McGinley",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Mark McGowan",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Duane Chard",
+        "department": "Art",
+        "job": "Property Builder"
+      },
+      {
+        "name": "Fiona Hogan",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Bethany Spence",
+        "department": "Art",
+        "job": "Other"
+      },
+      {
+        "name": "Eric Jacobo",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Sean Miller",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Timothy P. Jones",
+        "department": "Visual Effects",
+        "job": "Digital Film Recording"
+      },
+      {
+        "name": "Ben Knight",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Anita Dhillon",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Tim Morris",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Darren Rae",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Howard Jones",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Dillan Nicholls",
+        "department": "Visual Effects",
+        "job": "2D Supervisor"
+      },
+      {
+        "name": "Kevin Norris",
+        "department": "Visual Effects",
+        "job": "Roto Supervisor"
+      },
+      {
+        "name": "Ivaylo Marinov",
+        "department": "Visual Effects",
+        "job": "Visual Effects Compositor"
+      },
+      {
+        "name": "Michelle Ryan",
+        "department": "Camera",
+        "job": "BTS Videographer"
+      },
+      {
+        "name": "Eimear O'Grady",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Ignacio Barbe",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Pouria Koushki",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Aislinn Ní Chuinneagain",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Keith Smith",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Connor Dalton",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Maria Peralta Ramos",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Kevin Fraser",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Art Skehan",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Jacob Green",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Patrick Moran",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Robert Kiernan",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Fionnuala O'Shea",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Anthony Brannigan",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Aoife Maher",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Valentina Rutigliano",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "name": "Charine Bederar",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Onx Narang",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Elaine Hopkins",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Joe Doherty",
+        "department": "Art",
+        "job": "Supervising Carpenter"
+      },
+      {
+        "name": "Rebecca Glover",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Samuel Hayes",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "George Oulton",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Virginia Reina",
+        "department": "Art",
+        "job": "Standby Art Director"
+      },
+      {
+        "name": "Louise MacEllin",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Nicola Matiwone",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Erin Coutts",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Tim Devine",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Charlie Cobb",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Ronan Kennedy",
+        "department": "Art",
+        "job": "Standby Property Master"
+      },
+      {
+        "name": "Julie O'Connor",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "name": "Alex Jason",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Colin McNally",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "David Qualter",
+        "department": "Crew",
+        "job": "Drone Operator"
+      },
+      {
+        "name": "Dave Flynn",
+        "department": "Art",
+        "job": "Other"
+      },
+      {
+        "name": "Ciara Scannell",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Supervisor"
+      },
+      {
+        "name": "Guilhem Coulibaly",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "name": "Isabella Ippolito",
+        "department": "Visual Effects",
+        "job": "Pipeline Technical Director"
+      },
+      {
+        "name": "Alex Metliss",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Jamie Rochford",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      }
+    ]
+  },
+  "keywords": [
+    "friendship",
+    "island",
+    "donkey",
+    "dark comedy",
+    "irish civil war (1922-23)",
+    "church",
+    "ireland",
+    "drinking",
+    "former best friend",
+    "self mutilation",
+    "fiddle",
+    "1920s",
+    "brother sister relationship",
+    "pub"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+    "Set on a remote island off the west coast of Ireland, THE BANSHEES OF INISHERIN follows lifelong friends Padraic (Colin Farrell) and Colm (Brendan Gleeson), who find themselves at an impasse when Colm unexpectedly puts an end to their friendship. A stunned Padraic, aided by his sister Siobhan (Kerry Condon) and troubled young islander Dominic (Barry Keoghan), endeavours to repair the relationship, refusing to take no for an answer. But Padraic's repeated efforts only strengthen his former friend's resolve and when Colm delivers a desperate ultimatum, events swiftly escalate, with shocking consequences.",
+    "In 1923 on the fictional Isle of Inisherin off the Irish Coast, two mates, Pádraic (Colin Farrell) and Colm (Brendan Gleeson) engage in a row when Colm tells Pádraic \"I just don't like you anymore.\" Baffled by the proclamation, Pádraic persists in trying to make amends, meeting resistance from Colm at every turn. The row escalates under the watchful eyes of the entire village as Colm makes good on a gruesome promise. The threat of death-as if brought by a banshee-falls over the village as no one knows just how far the feud will go.—KS at ClassicCoupleAcademy.com",
+    "Isle of Inisherin, Ireland, April 1923. They say all good things must come to an end. And unable to believe his ears, Pádraic, a good-natured dairy farmer living with his unmarried sister Siobhán, has no choice but to swallow his pride and deal with the sudden, bitter, irreversible reality: his closest friend Colm wants nothing to do with him anymore. But with adamant Colm determined never to speak with his former bosom buddy for the rest of his life, confused Pádraic teeters on the brink of collapse, trying to figure out what he did wrong. Meanwhile, as Colm gives Pádraic the cold shoulder and the silent treatment, pressing questions arise. Why has Colm so abruptly cut off his lifelong friend? In the end, what triggered Colm's unpredictable behavioural shift?—Nick Riganas"
+  ],
+  "synopsis": ""
+}

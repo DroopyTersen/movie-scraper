@@ -1,0 +1,808 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/yrjFk8OVnwOQ5qUxbHZJYobxQra.jpg",
+  "id": 2758,
+  "title": "Addams Family Values",
+  "poster_path": "https://image.tmdb.org/t/p/w500/8znyj20O3EYLD2EzWnZQMnkE4zH.jpg",
+  "release_date": "1993-11-19",
+  "vote_average": 6.948,
+  "vote_count": 2752,
+  "popularity": 33.391,
+  "overview": "Siblings Wednesday and Pugsley Addams will stop at nothing to get rid of Pubert, the new baby boy adored by parents Gomez and Morticia. Things go from bad to worse when the new \"black widow\" nanny, Debbie Jellinsky, launches her plan to add Fester to her collection of dead husbands.",
+  "imdb_id": "tt0106220",
+  "budget": 47000000,
+  "homepage": "",
+  "revenue": 48919043,
+  "runtime": 94,
+  "tagline": "The family just got a little stranger.",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Scott Rudin Productions",
+    "Paramount"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Joan Cusack",
+        "character": "Debbie Jellinsky"
+      },
+      {
+        "name": "Raúl Juliá",
+        "character": "Gomez Addams"
+      },
+      {
+        "name": "Christopher Lloyd",
+        "character": "Uncle Fester Addams"
+      },
+      {
+        "name": "Christina Ricci",
+        "character": "Wednesday Addams"
+      },
+      {
+        "name": "Anjelica Huston",
+        "character": "Morticia Addams"
+      },
+      {
+        "name": "Jimmy Workman",
+        "character": "Pugsley Addams"
+      },
+      {
+        "name": "David Krumholtz",
+        "character": "Joel Glicker"
+      },
+      {
+        "name": "Peter MacNicol",
+        "character": "Gary Granger"
+      },
+      {
+        "name": "Christine Baranski",
+        "character": "Becky Martin-Granger"
+      },
+      {
+        "name": "Carel Struycken",
+        "character": "Lurch"
+      },
+      {
+        "name": "Carol Kane",
+        "character": "Granny"
+      },
+      {
+        "name": "Christopher Hart",
+        "character": "Thing"
+      },
+      {
+        "name": "Dana Ivey",
+        "character": "Margaret Addams"
+      },
+      {
+        "name": "Kaitlyn Hooper",
+        "character": "Pubert Addams"
+      },
+      {
+        "name": "Kristen Hooper",
+        "character": "Pubert Addams"
+      },
+      {
+        "name": "Mercedes McNab",
+        "character": "Amanda Buckman"
+      },
+      {
+        "name": "Sam McMurray",
+        "character": "Don Buckman"
+      },
+      {
+        "name": "Harriet Sansom Harris",
+        "character": "Ellen Buckman"
+      },
+      {
+        "name": "Julie Halston",
+        "character": "Mrs. Glicker"
+      },
+      {
+        "name": "Barry Sonnenfeld",
+        "character": "Mr. Glicker"
+      },
+      {
+        "name": "Nathan Lane",
+        "character": "Desk Sergeant"
+      },
+      {
+        "name": "John Franklin",
+        "character": "Cousin Itt"
+      },
+      {
+        "name": "Charles Busch",
+        "character": "Countess Cousin Aphasia du Berry"
+      },
+      {
+        "name": "Laura Esterman",
+        "character": "Cousin Ophelia"
+      },
+      {
+        "name": "Maureen Sue Levin",
+        "character": "Flora Amor"
+      },
+      {
+        "name": "Darlene Levin",
+        "character": "Fauna Amor"
+      },
+      {
+        "name": "Carol Hankins",
+        "character": "Dementia"
+      },
+      {
+        "name": "Steven M. Martin",
+        "character": "Donald"
+      },
+      {
+        "name": "Douglas Brian Martin",
+        "character": "Dexter"
+      },
+      {
+        "name": "Ryan Holihan",
+        "character": "Lumpy Addams"
+      },
+      {
+        "name": "Lois de Banzie",
+        "character": "Delivery Nurse"
+      },
+      {
+        "name": "Vickilyn Reynolds",
+        "character": "Forceps Nurse"
+      },
+      {
+        "name": "Cynthia Nixon",
+        "character": "Heather"
+      },
+      {
+        "name": "Eyde Byrde",
+        "character": "Mrs. Montgomery"
+      },
+      {
+        "name": "David Hyde Pierce",
+        "character": "Delivery Room Doctor"
+      },
+      {
+        "name": "Andreana Weiner",
+        "character": "Obnoxious Girl"
+      },
+      {
+        "name": "Peter Graves",
+        "character": "Host"
+      },
+      {
+        "name": "Rick Scarry",
+        "character": "Lawyer"
+      },
+      {
+        "name": "Monet Mazur",
+        "character": "Flirting Woman"
+      },
+      {
+        "name": "Francis Coady",
+        "character": "Flirting Man"
+      },
+      {
+        "name": "Ian Abercrombie",
+        "character": "Driver"
+      },
+      {
+        "name": "Chris Ellis",
+        "character": "Moving Man"
+      },
+      {
+        "name": "Camille Saviola",
+        "character": "Concetta"
+      },
+      {
+        "name": "Zack Phifer",
+        "character": "Passport Clerk"
+      },
+      {
+        "name": "Tony Shalhoub",
+        "character": "Jorge"
+      },
+      {
+        "name": "Jeffrey Van Hoose",
+        "character": "Irwin"
+      },
+      {
+        "name": "Micah Winkelspecht",
+        "character": "Mordecai"
+      },
+      {
+        "name": "Matthew Beebe",
+        "character": "Wheelchair Camper"
+      },
+      {
+        "name": "Kristy Shirvani",
+        "character": "Consuela"
+      },
+      {
+        "name": "Jamie Gordon",
+        "character": "Esther"
+      },
+      {
+        "name": "Micah Hata",
+        "character": "Yang"
+      },
+      {
+        "name": "Joey Wilcots",
+        "character": "Jamal"
+      },
+      {
+        "name": "Jason Fife",
+        "character": "Camper #1"
+      },
+      {
+        "name": "Karl David-Djerf",
+        "character": "Camper #2"
+      },
+      {
+        "name": "Haley Peel",
+        "character": "Young Debbie"
+      },
+      {
+        "name": "Cheryl Chase",
+        "character": "Pubert (voice)"
+      },
+      {
+        "name": "Matthew Bartilson",
+        "character": "Dancing Camper (uncredited)"
+      },
+      {
+        "name": "Adena Bjork",
+        "character": "Girl Camper (uncredited)"
+      },
+      {
+        "name": "Alex Gaona",
+        "character": "Indian Boy (uncredited)"
+      },
+      {
+        "name": "Nichole McAuley",
+        "character": "Snobby Mom (uncredited)"
+      },
+      {
+        "name": "Zack Milan",
+        "character": "Singing Sailor (uncredited)"
+      },
+      {
+        "name": "Rob Sanchez",
+        "character": "Sailor (uncredited)"
+      },
+      {
+        "name": "Lenny Wilson",
+        "character": "Extra (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Arthur Schmidt",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Fred C. Blau Jr.",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Scott Rudin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Burtt Harris",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Barry Sonnenfeld",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "David Rubin",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Donald Peterman",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Marvin March",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Jim Miller",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Katherine James",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Theoni V. Aldredge",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Marc Shaiman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Ken Adam",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Fern Buchner",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Patricia Tallman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William J. Durrell Jr.",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Michael Tadross",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "name": "Greg P. Russell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Adam Shankman",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Charles William Breen",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Cheri Minns",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Jeremiah O'Driscoll",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Carin-Anne Strohmaier",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Albert Delgado",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Ken Pepiot",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Paul Rudnick",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Paul Rudnick",
+        "department": "Writing",
+        "job": "Scenario Writer"
+      },
+      {
+        "name": "David Nicksay",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Susan Ringo",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Juno J. Ellis",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Gary Hymes",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Charles Addams",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Ralph Sall",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "D. Scott Easton",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "D. Scott Easton",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Noah Blough",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Scott Stambler",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Peter F. Kurland",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Mark McGann",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Robin Harlan",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Linda Matthews",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Mitchell Ray Kenney",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Melinda Sue Gordon",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Beth Sterner",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Sarah Monat",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "John Leimanis",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Cecelia Hall",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "name": "Randy Peters",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Rhona Gordon",
+        "department": "Crew",
+        "job": "Studio Teacher"
+      },
+      {
+        "name": "Pablo Ferro",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Lauren Cory",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Lauren Cory",
+        "department": "Art",
+        "job": "Art Department Manager"
+      },
+      {
+        "name": "David E. Diano",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Frank A. Montaño",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Emily Ferry",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Robert J. Litt",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Kim Santantonio",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Steve Mann",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Suhail Kafity",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Judi Townsend",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Mychael Bates",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Nancy Fogarty",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Douglas Greenfield",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "name": "Gerald Quist",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Nava R. Sadan",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Frank Howard",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Joseph A. Ippolito",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Kathy Orloff",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "name": "Susan Schuler-Page",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Kelly Porter (costumer)",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Jim Ondrejko",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Karen Rasch",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Ian Woolf",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Hugo Cortina",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Scott Forbes",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Jay Peterman",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Anne Couk",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Brad Peterman",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Tim Boyle",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Joni Avery",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Fred Apolito",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Bob Putynkowski",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Susan Towner",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Thomas W. Small",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Mickey Cassidy",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Daril Alder",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Calvin Sterry",
+        "department": "Camera",
+        "job": "First Company Grip"
+      },
+      {
+        "name": "Richie Gaona",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Theresa Repola Mohammed",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Donald L. Hartley",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Michael W. Blymyer",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Candace Wells",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "James M. McCann",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Bob Baron",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Bob Baron",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Jeff Pepiot",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Francis X. Valdez III",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Joy Taylor",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Gary L. Karas",
+        "department": "Crew",
+        "job": "Special Effects"
+      }
+    ]
+  },
+  "keywords": [
+    "dancing",
+    "jealousy",
+    "baby",
+    "sibling relationship",
+    "summer camp",
+    "yuppie",
+    "butler",
+    "nanny",
+    "thanksgiving",
+    "guillotine",
+    "uncle",
+    "mansion",
+    "wedding",
+    "macabre",
+    "disembodied hand"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "The Addams Family try to rescue their beloved Uncle Fester from his gold-digging new love, a black widow named Debbie.",
+    "When an adorable baby boy is added to the Addams household, Wednesday and Pugsley do not hate him, they just aren't necessarily excited about his existence. OK...yeah, they do hate him. So they plot to get rid of him one way or another. Meanwhile, their parents hire a nanny for him and she charms Fester, but has evil intentions for him. The Addamses must stop her, but how?",
+    "The members of the odd Addams Family are up to more macabre antics in this sequel. This time around, Gomez Addams and his wife Morticia are celebrating the arrival of a new baby boy. But his siblings Wednesday and Pugsley are none too happy about the new addition and try their best to eliminate him. Their parents hire a nanny, Debbie Jellinsky, whose presence leads to a treacherous twist.",
+    "On any day of the week, you could expect a newborn baby to be nurtured and loved by his older sister. Except, of course, if she's Wednesday Addams. Pubert is the Addams family's latest addition, and to prevent sibling rivalry from escalating to fratricide, Gomez and Morticia send Wednesday and Pugsley to summer camp and hire a nanny. Debbie Jellinsky is great with wrinkly baldies, which makes her the perfect nanny for Pubert...and it looks like she's got her eye on Uncle Fester. But is she gold-digging or grave-digging?—Tim McSmythurs <Tim.McSmythurs@swindon.ericsson.se>",
+    "Uncle Fester falls for Debbie, the nanny the Addamses have hired for their new addition, Pubert. Debbie has her eye on Fester's money, but first she must separate him from his family. Meanwhile, Wednesday and Pugsley are sent to summer camp.—Rob Hartill"
+  ],
+  "synopsis": "Gomez (Raul Julia) and Morticia Addams (Anjelica Huston) welcome their third child: a mustachioed baby boy named Pubert. Older siblings Wednesday (Christina Ricci) and Pugsley (Jimmy Workman) openly loathe their new brother, and repeatedly attempt to eliminate him by tossing him from the roof of the house, dropping an anvil on him, and decapitating him with a guillotine. Alas, in true Addams style, little Pubert cheats death and mutilation time and time again. He also amuses himself by shooting flaming arrows from his cradle.With the house a shambles, Morticia and Gomez opt to hire a nanny to keep the children in check. Wednesday and Pusgly make short work of every new applicant until the arrival of Debbie Jelinsky (Joan Cusack), a seemingly sweet, chipper, and innocent woman who is hired on the spot. Hapless Uncle Fester (Christopher Lloyd), who had been pining for a romantic relationship, immediately becomes infatuated with the beautiful newcomer.It is revealed that Debbie, unbeknownst to her new employers, is a serial killer who preys on wealthy and lonely men. Knowing of the vast Addams fortune, she had selected Fester as her next victim. She coyly flirts with him, toying with his naive emotions, hoping to marry him and then murder him for his wealth. Debbie's ruse does not fool Wednesday and Pugsly, who make no secret of their suspicions. To remove them from the picture, Debbie persuades Gomez and Morticia to send them to summer camp.\nTo their confusion and horror, Pugsley and Wednesday are sent to the bland and WASP-y Camp Chippewa. Lost in a sea of blond, preppy children, they quickly make enemies with the snobby Amanda Buckman (Mercedes McNab), and the disturbingly cheerful camp owners, Gary and Becky Granger (Peter MacNicol and Christine Baranski). They befriend another misfit, the nerdy Joel Glicker (David Krumholtz), who develops a crush on Wednesday. The three are often sent to the Harmony Hut, a tiny cottage decorated with flowers and inspirational posters, and forced to watch sappy musicals and Disney films as a twisted form of punishment.Though overwhelmed with desire for Debbie, Fester is too shy to speak to her. He recruits Gomez and Morticia to accompany them on a double date for moral support. Fester makes a typical slob of himself on the dinner outing, but Debbie, with the fortune in mind, pretends to return his affections and the two are engaged by the end of the night.Wednesday and Pugsley receive the news of Fester's impending wedding, and resolve to stop him from marrying the two-faced Debbie. Along with Joel, they attempt to sneak out of the camp at night but are caught. They later confirm Debbie's sinister true identity from a pack of Joel's, \"Schitzos and Serial Killers\" trading cards.\nThe children briefly visit home to attend Fester and Debbie's wedding, which takes place in a graveyard. The newlyweds leave for their Hawaiian honeymoon.While Fester bathes in their hotel room, Debbie attempts to kill him by dropping a radio into the bathtub. She is shocked to find, of course, that Fester is impervious to death and actually seems to enjoy the experience. A frustrated Debbie bribes the (virgin) Fester with sex, telling him that if they make love he can never see his family again. Fester is reluctant to agree, but is soon seduced. He informs Gomez that they can never meet again, and Gomez spirals into depression.Debbie and Fester move into a lavish mansion, where Gomez and Morticia attempt to visit. Fester is still enslaved by Debbie, who banishes her in-laws from the house. Soon after, baby Pubert goes through dramatic emotional and physical changes: he becomes a blond-haired, rosy-cheeked giggling cherub. Morticia and Gomez are horrified. Grandmama (Carol Kane), Morticia's witch mother, determined that the changes were brought on by anxiety due to Fester's departure, and may become permanent if not addressed quickly. The family resolves to win Fester back.Meanwhile, Gary and Becky have arranged the end-of-camp play, an incredibly inaccurate and prejudiced musical about the first Thanksgiving. Amanda Buckman is given the lead role of the Pilgrim heroine Sarah Miller, while Wednesday is cast in the \"secondary, but still compellingly written\" role of Pocahontas. Pugsley, Joel, and the other misfit campers become even more at odds with the rest of the camp, but Wednesday becomes inexplicably cooperative (and even cracks a smile). At the performance, however, the kids get their revenge. Wednesday, who had been faking her sweet behavior, leads the misfits (dressed as Indians) on a rebellion, burning the stage and tying up other campers. She, Joel, and Pugsley escape by canoe as Gary and Becky are tied to a spit over an open fire. Joel and Wednesday have their first kiss, while Pugsley hijacks a camp van to take them home.For their three-week anniversary, Fester is preparing a fancy dinner for himself and Debbie. Debbie hides a massive bomb in a gift box, leaving it with Fester while she goes out to get champagne. She returns home later to watch the explosion, but is foiled again when an intact Fester emerges intact from the rubble. Debbie then pulls a gun on Fester and prepares to shoot him, but Fester is saved by Thing, the family's loyal disembodied hand, who is driving Debbie's car.They speed off towards the Addams' mansion, with Debbie in hot pursuit. The Addams family has a brief, happy reunion before they are interrupted and captured by a vengeful Debbie who is wielding a shotgun. Debbie straps the family into electric chairs, then explains her life via a slide show, citing an incident on her tenth birthday as the catalyst for her life of crime (her parents bought her Malibu Barbie instead of Ballerina Barbie).Mercifully, baby Pubert manages to get to the attic and splice two loose wires together, reversing the current so that when Debbie throws the switch, she is reduced to a pile of dust and credit cards. Her tombstone is shown to be inscribed: \"Debbie Addams, Wife and Psycho\".Months later, the family celebrates Pubert's first birthday. After the party, Wednesday and Joel (whom she had invited) visit Debbie's grave. Wednesday claims that Debbie was sloppy for allowing herself to be caught, and that if she herself were to ever marry she would scare her husband to death. Joel scoffs it off, but is suddenly grabbed by a bloody hand that shoots from the ground, as Wednesday gives a knowing smirk."
+}

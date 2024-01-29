@@ -1,0 +1,717 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+  "id": 703,
+  "title": "Annie Hall",
+  "poster_path": "https://image.tmdb.org/t/p/w500/jj46Biz1WYQZoVZfXxeT9u4XRrS.jpg",
+  "release_date": "1977-04-19",
+  "vote_average": 7.756,
+  "vote_count": 3655,
+  "popularity": 22.44,
+  "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+  "imdb_id": "tt0075686",
+  "budget": 4000000,
+  "homepage": "",
+  "revenue": 38288028,
+  "runtime": 93,
+  "tagline": "A nervous romance.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "production_companies": [
+    "United Artists",
+    "Rollins-Joffe Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Woody Allen",
+        "character": "Alvy Singer"
+      },
+      {
+        "name": "Diane Keaton",
+        "character": "Annie Hall"
+      },
+      {
+        "name": "Tony Roberts",
+        "character": "Rob"
+      },
+      {
+        "name": "Carol Kane",
+        "character": "Allison"
+      },
+      {
+        "name": "Paul Simon",
+        "character": "Tony Lacey"
+      },
+      {
+        "name": "Shelley Duvall",
+        "character": "Pam"
+      },
+      {
+        "name": "Janet Margolin",
+        "character": "Robin"
+      },
+      {
+        "name": "Colleen Dewhurst",
+        "character": "Mrs. Hall"
+      },
+      {
+        "name": "Christopher Walken",
+        "character": "Duane Hall"
+      },
+      {
+        "name": "Donald Symington",
+        "character": "Dad Hall"
+      },
+      {
+        "name": "Helen Ludlam",
+        "character": "Grammy Hall"
+      },
+      {
+        "name": "Mordecai Lawner",
+        "character": "Alvy's Dad"
+      },
+      {
+        "name": "Joan Neuman",
+        "character": "Alvy's Mom (as Joan Newman)"
+      },
+      {
+        "name": "Jonathan Munk",
+        "character": "Alvy - Age 9"
+      },
+      {
+        "name": "Ruth Volner",
+        "character": "Alvy's Aunt"
+      },
+      {
+        "name": "Martin Rosenblatt",
+        "character": "Alvy's Uncle"
+      },
+      {
+        "name": "Hy Anzell",
+        "character": "Joey Nichols (as Hy Ansel)"
+      },
+      {
+        "name": "Rashel Novikoff",
+        "character": "Aunt Tessie"
+      },
+      {
+        "name": "Russell Horton",
+        "character": "Man in Theatre Line"
+      },
+      {
+        "name": "Marshall McLuhan",
+        "character": "Marshall McLuhan"
+      },
+      {
+        "name": "Christine Jones",
+        "character": "Dorrie"
+      },
+      {
+        "name": "Mary Boylan",
+        "character": "Miss Reed"
+      },
+      {
+        "name": "Wendy Girard",
+        "character": "Janet"
+      },
+      {
+        "name": "John Doumanian",
+        "character": "Coke Fiend"
+      },
+      {
+        "name": "Bob Maroff",
+        "character": "Man #1 Outside Theatre"
+      },
+      {
+        "name": "Rick Petrucelli",
+        "character": "Man #2 Outside Theatre"
+      },
+      {
+        "name": "Lee Callahan",
+        "character": "Ticket Seller at Theatre"
+      },
+      {
+        "name": "Chris Gampel",
+        "character": "Doctor"
+      },
+      {
+        "name": "Dick Cavett",
+        "character": "Dick Cavett"
+      },
+      {
+        "name": "Mark Lenard",
+        "character": "Navy Officer"
+      },
+      {
+        "name": "Dan Ruskin",
+        "character": "Comedian at Rally"
+      },
+      {
+        "name": "John Glover",
+        "character": "Actor Boy Friend"
+      },
+      {
+        "name": "Bernie Styles",
+        "character": "Comic's Agent"
+      },
+      {
+        "name": "Johnny Haymer",
+        "character": "Comic"
+      },
+      {
+        "name": "Ved Bandhu",
+        "character": "Maharishi"
+      },
+      {
+        "name": "John Dennis Johnston",
+        "character": "L.A. Policeman"
+      },
+      {
+        "name": "Laurie Bird",
+        "character": "Tony Lacey's Girlfriend"
+      },
+      {
+        "name": "Jim McKrell",
+        "character": "Lacey Party Guest"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "character": "Lacey Party Guest"
+      },
+      {
+        "name": "William Callaway",
+        "character": "Lacey Party Guest"
+      },
+      {
+        "name": "Roger Newman",
+        "character": "Lacy Party Guest"
+      },
+      {
+        "name": "Alan Landers",
+        "character": "Lacey Party Guest"
+      },
+      {
+        "name": "Jean Sarah Frost",
+        "character": "Lacey Party Guest"
+      },
+      {
+        "name": "Vince O'Brien",
+        "character": "Hotel Doctor"
+      },
+      {
+        "name": "Humphrey Davis",
+        "character": "Alvy's Psychiatrist"
+      },
+      {
+        "name": "Veronica Radburn",
+        "character": "Annie's Psychiatrist"
+      },
+      {
+        "name": "Robin Mary Paris",
+        "character": "Actress in Rehearsal"
+      },
+      {
+        "name": "Charles Levin",
+        "character": "Actor in Rehearsal"
+      },
+      {
+        "name": "Wayne Carson",
+        "character": "Rehearsal Stage Manager"
+      },
+      {
+        "name": "Michael Karm",
+        "character": "Rehearsal Director"
+      },
+      {
+        "name": "Petronia Johnson",
+        "character": "Tony's Date at Nightclub"
+      },
+      {
+        "name": "Shaun Casey",
+        "character": "Tony's Date at Nightclub"
+      },
+      {
+        "name": "Riccardo Bertoni",
+        "character": "Waiter #1 at Nightclub"
+      },
+      {
+        "name": "Michael Aronin",
+        "character": "Waiter #2 at Nightclub"
+      },
+      {
+        "name": "Lou Picetti",
+        "character": "Street Stranger"
+      },
+      {
+        "name": "Loretta Tupper",
+        "character": "Street Stranger"
+      },
+      {
+        "name": "James Burge",
+        "character": "Street Stranger"
+      },
+      {
+        "name": "Shelley Hack",
+        "character": "Street Stranger"
+      },
+      {
+        "name": "Albert M. Ottenheimer",
+        "character": "Street Stranger"
+      },
+      {
+        "name": "Paula Trueman",
+        "character": "Street Stranger"
+      },
+      {
+        "name": "Beverly D'Angelo",
+        "character": "Actress in Rob's TV Show"
+      },
+      {
+        "name": "Tracey Walter",
+        "character": "Actor in Rob's TV Show"
+      },
+      {
+        "name": "David Wier",
+        "character": "Alvy's Classmate"
+      },
+      {
+        "name": "Keith Dentice",
+        "character": "Alvy's Classmate"
+      },
+      {
+        "name": "Susan Mellinger",
+        "character": "Alvy's Classmate"
+      },
+      {
+        "name": "Hamit Perezic",
+        "character": "Alvy's Classmate"
+      },
+      {
+        "name": "James Balter",
+        "character": "Alvy's Classmate"
+      },
+      {
+        "name": "Eric Bear",
+        "character": "Alvy's Classmate"
+      },
+      {
+        "name": "Amy Levitan",
+        "character": "Alvy's Classmate"
+      },
+      {
+        "name": "Gary Allen",
+        "character": "School Teacher"
+      },
+      {
+        "name": "Frank Vohs",
+        "character": "School Teacher"
+      },
+      {
+        "name": "Sybil Bowan",
+        "character": "School Teacher"
+      },
+      {
+        "name": "Margaretta Warwick",
+        "character": "School Teacher"
+      },
+      {
+        "name": "Lucy Lee Flippin",
+        "character": "Waitress at Health Food Restaurant"
+      },
+      {
+        "name": "Gary Mule Deer",
+        "character": "Man at Health Food Restaurant"
+      },
+      {
+        "name": "Sigourney Weaver",
+        "character": "Alvy's Date Outside Theatre"
+      },
+      {
+        "name": "Walter Bernstein",
+        "character": "Annie's Date Outside Theatre"
+      },
+      {
+        "name": "Truman Capote",
+        "character": "Truman Capote Look-Alike (uncredited)"
+      },
+      {
+        "name": "Gregory Doucette",
+        "character": "Usher (uncredited)"
+      },
+      {
+        "name": "Harrison Ressler",
+        "character": "Restaurant Patron (uncredited)"
+      },
+      {
+        "name": "Billie Perkins",
+        "character": "Nightclub Customer (uncredited)"
+      },
+      {
+        "name": "Kathryn Janssen",
+        "character": "Lacey Party Guest"
+      },
+      {
+        "name": "Juliet Graham",
+        "character": "Blonde Woman in Bookstore"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Juliet Taylor",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Ruth Morley",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Woody Allen",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Woody Allen",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Gordon Willis",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Chris Newman",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Robert Greenhut",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Robert Greenhut",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Fred Schuler",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Donald E. Thorin",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Ralph Rosenblum",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Charles H. Joffe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jack Rollins",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Marshall Brickman",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Susan E. Morse",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Mel Bourne",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Robert Drumheller",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Fern Buchner",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Romaine Greene",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Martin Danzig",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Frederic B. Blankfein",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Fred T. Gallo",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Fred T. Gallo",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Wendy Greene Bricmont",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Justin Scoppa Jr.",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Tom Priestley Jr.",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Dan Sable",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "James Sabat",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Marcel Ophüls",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "William S. Scharf",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Artie Butler",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "George Newman",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "George Newman",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Marilyn Putnam",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Marilyn Putnam",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Joseph Badalucco Jr.",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "name": "Aaron Beckwith",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Lois Kramer Hartwick",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "name": "Pat O'Connor",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Barbara Krieger",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Brian Hamill",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Nancy McArdle",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "name": "Daisy Gerber",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "John Inzerella",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Thomas Saccio",
+        "department": "Crew",
+        "job": "Property Master"
+      },
+      {
+        "name": "Cosmo Sorice",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "name": "Vivienne Walker",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Steve Johnson",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Kay Chapin",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Sonya Polonsky",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Christopher Cronyn",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Robert Ward",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Robert Ward",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "James Pilcher",
+        "department": "Sound",
+        "job": "Sound mixer"
+      },
+      {
+        "name": "Larry D. Howard",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Jack Higgins",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Joe Williams Sr.",
+        "department": "Art",
+        "job": "Construction Grip"
+      },
+      {
+        "name": "Carl Gibson",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Dusty Wallace",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "William Curry",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "James E. Foote",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Scott MacDonough",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Beth Rudin",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Stuart Smiley",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Donald S. Rugoff",
+        "department": "Crew",
+        "job": "Thanks"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "sports",
+    "tennis",
+    "narration",
+    "job interview",
+    "cocaine",
+    "neurosis",
+    "comedian",
+    "romantic comedy",
+    "love",
+    "singer",
+    "breaking the fourth wall",
+    "volkswagen beetle",
+    "lobster"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "Alvy Singer, a divorced Jewish comedian, reflects on his relationship with ex-lover Annie Hall, an aspiring nightclub singer, which ended abruptly just like his previous marriages.",
+    "Alvy Singer, a forty year old twice divorced, neurotic, intellectual Jewish New York City stand-up comic, reflects on the demise of his latest relationship, to Annie Hall, an insecure, flighty, Midwestern WASP aspiring nightclub singer. Unlike his previous relationships, Alvy believed he may have worked out all the issues in his life through fifteen years of therapy to make this relationship with Annie last, among those issues being not wanting to date any woman that would want to date him, and thus subconsciously pushing those women away. Alvy not only reviews the many ups and many downs of their relationship, but also reviews the many facets of his makeup that led to him starting to date Annie. Those facets include growing up next to Coney Island in Brooklyn, being attracted to the opposite sex for as long as he can remember, and enduring years of Jewish guilt with his constantly arguing parents.—Huggo",
+    "Comedian Alvy Singer examines the rise and fall of his relationship with struggling nightclub singer Annie Hall. Speaking directly to the audience in front of a bare background, Singer reflects briefly on his childhood and his early adult years before settling in to tell the story of how he and Annie met, fell in love, and struggled with the obstacles of modern romance, mixing surreal fantasy sequences with small moments of emotional drama.—Jwelch5742",
+    "The story of comedian Alvy Singer is recounted through a series of flashbacks that examines where his relationship with the titular lady all went wrong. Annie Hall is a aspiring nightclub singer and Alvy is a struggling writer and one day the two meet, hit it off together and eventually fall in love. The trial and tribulations of this modern romance highlights the comedy, emotion and sadness the two go through.—Kyle Perez",
+    "Romantic adventures of neurotic New York City comedian Alvy Singer and his equally neurotic girlfriend Annie Hall. The film traces the course of their relationship from their first meeting, and serves as an interesting historical document about love in the 1970s.—Scott Renshaw <as.idc@forsythe.stanford.edu>"
+  ],
+  "synopsis": "Annie Hall is a film about a comedian, Alvy Singer (Woody Allen), who falls in love with Annie Hall (Diane Keaton). Both of the characters are completely different but both strikingly entertaining and unusual. Alvy is an extreme pessimist that obsesses over the subject of death and has very sarcastic and cynical views about the world and the people around him. Annie is a ditsy and clumsy talented singer and photographer. When Alvy and Annie meet for the first time they are instantly attracted to each other and as a result their conversations are awkward but never the less adorable. The film takes you through the couple's love lives, before and after their relationship. Alvy often comes out of the scene he is in to talk directly to the audience about his views on whatever situation he is in.Alvy Singer is a neurotic comedian who desperately wants to analyze his relationship with his former girlfriend Annie Hall. The beginning is romantic. Then problems arise. He is not too enthusiastic about her idea of moving in with him, and leaving her apartment. He dislikes her habit of smoking weed before having sex and her lack of education. After she enrolls in adult education classes, she soon gets attracted to a professor. Alvy and Annie break up in a fight. He tries to calm down and starts a new relationship but with no success. After a while she calls him and they start again, convinced they will make it this time. Everything looks wonderful. But soon they both reveal to their shrinks that the relationship has gone sour again. After visiting California they break up, peacefully this time.Alvy is proud about their calm transition from relationship to friendship. He tries to date another woman but again with no success. He gets a panic attack and flies to California where Annie is in a happy relationship. She rejects him. He gets so upset that he ends up in jail. After coming back to New York he writes a play about their relationship, but with a happy ending. He meets her again later in New York with some other guy. They go for lunch as friends, remembering their good times. At the end he realizes that although relationships are absurd and irrational, we still need to go through them. We need to believe they are not what they are."
+}

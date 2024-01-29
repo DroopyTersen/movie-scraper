@@ -1,0 +1,1804 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+  "id": 9487,
+  "title": "A Bug's Life",
+  "poster_path": "https://image.tmdb.org/t/p/w500/czHRQD9GW7jzhErm0YhRPYd0orr.jpg",
+  "release_date": "1998-11-25",
+  "vote_average": 6.968,
+  "vote_count": 8707,
+  "popularity": 72.469,
+  "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
+  "imdb_id": "tt0120623",
+  "budget": 80000000,
+  "homepage": "http://movies.disney.com/a-bugs-life",
+  "revenue": 363258859,
+  "runtime": 95,
+  "tagline": "An epic presentation of miniature proportions.",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Fantasy"
+  ],
+  "production_companies": [
+    "Walt Disney Pictures",
+    "Pixar"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Dave Foley",
+        "character": "Flik (voice)"
+      },
+      {
+        "name": "Kevin Spacey",
+        "character": "Hopper (voice)"
+      },
+      {
+        "name": "Julia Louis-Dreyfus",
+        "character": "Atta (voice)"
+      },
+      {
+        "name": "Hayden Panettiere",
+        "character": "Dot (voice)"
+      },
+      {
+        "name": "Phyllis Diller",
+        "character": "Queen (voice)"
+      },
+      {
+        "name": "Richard Kind",
+        "character": "Molt (voice)"
+      },
+      {
+        "name": "David Hyde Pierce",
+        "character": "Slim (voice)"
+      },
+      {
+        "name": "Joe Ranft",
+        "character": "Heimlich (voice)"
+      },
+      {
+        "name": "Denis Leary",
+        "character": "Francis (voice)"
+      },
+      {
+        "name": "Jonathan Harris",
+        "character": "Manny (voice)"
+      },
+      {
+        "name": "Madeline Kahn",
+        "character": "Gypsy Moth (voice)"
+      },
+      {
+        "name": "Bonnie Hunt",
+        "character": "Rosie (voice)"
+      },
+      {
+        "name": "Michael McShane",
+        "character": "Tuck / Roll (voice)"
+      },
+      {
+        "name": "John Ratzenberger",
+        "character": "P.T. Flea (voice)"
+      },
+      {
+        "name": "Brad Garrett",
+        "character": "Dim (voice)"
+      },
+      {
+        "name": "Roddy McDowall",
+        "character": "Mr. Soil (voice)"
+      },
+      {
+        "name": "Edie McClurg",
+        "character": "Dr. Flora (voice)"
+      },
+      {
+        "name": "Alex Rocco",
+        "character": "Thorny (voice)"
+      },
+      {
+        "name": "David Ossman",
+        "character": "Cornelius (voice)"
+      },
+      {
+        "name": "Carlos Alazraqui",
+        "character": "Loco (voice)"
+      },
+      {
+        "name": "Jack Angel",
+        "character": "Thud (voice)"
+      },
+      {
+        "name": "Bob Bergen",
+        "character": "Aphie / Male Ants (voice)"
+      },
+      {
+        "name": "Kimberly J. Brown",
+        "character": "(voice)"
+      },
+      {
+        "name": "Rodger Bumpass",
+        "character": "Harry Mosquito (voice)"
+      },
+      {
+        "name": "Anthony Burch",
+        "character": "Ant Boys (voice)"
+      },
+      {
+        "name": "Jennifer Darling",
+        "character": "Female Ants (voice)"
+      },
+      {
+        "name": "Rachel Davey",
+        "character": "Grasshoppers (voice)"
+      },
+      {
+        "name": "Debi Derryberry",
+        "character": "Baby Maggots (voice)"
+      },
+      {
+        "name": "Paul Eiding",
+        "character": "Male Ants (voice)"
+      },
+      {
+        "name": "Jessica Evans",
+        "character": "Female Ants (voice)"
+      },
+      {
+        "name": "Bill Farmer",
+        "character": "Male Ants (voice)"
+      },
+      {
+        "name": "Sam Gifaldi",
+        "character": "Ants (voice)"
+      },
+      {
+        "name": "Brad Hall",
+        "character": "Grasshopper (voice)"
+      },
+      {
+        "name": "Jess Harnell",
+        "character": "Bus Bettle (voice)"
+      },
+      {
+        "name": "Brenden Hickey",
+        "character": "Ants (voice)"
+      },
+      {
+        "name": "Kate Charlotte Hodges",
+        "character": "Female Ants (voice)"
+      },
+      {
+        "name": "Denise Johnson",
+        "character": "Bug (voice)"
+      },
+      {
+        "name": "David L. Lander",
+        "character": "Thumper (voice)"
+      },
+      {
+        "name": "John Lasseter",
+        "character": "Bug Zapper Bug #1 (voice)"
+      },
+      {
+        "name": "Sherry Lynn",
+        "character": "Female Ants (voice)"
+      },
+      {
+        "name": "Mickie McGowan",
+        "character": "Cockroach Waitress (voice)"
+      },
+      {
+        "name": "Courtland Mead",
+        "character": "Fly (voice)"
+      },
+      {
+        "name": "Christina Milian",
+        "character": "Female Ants (voice)"
+      },
+      {
+        "name": "Kelsey Mulrooney",
+        "character": "Female Ants (voice)"
+      },
+      {
+        "name": "Ryan O'Donohue",
+        "character": "Grub (voice)"
+      },
+      {
+        "name": "Jeff Pidgeon",
+        "character": "Grasshopper (voice)"
+      },
+      {
+        "name": "Phil Proctor",
+        "character": "Slick (voice)"
+      },
+      {
+        "name": "Jan Rabson",
+        "character": "Axel (voice)"
+      },
+      {
+        "name": "Jordan Ranft",
+        "character": "Ant Boys (voice)"
+      },
+      {
+        "name": "Brian M. Rosen",
+        "character": "Fly Brothers (voice)"
+      },
+      {
+        "name": "Rebecca Schneider",
+        "character": "Female Ants (voice)"
+      },
+      {
+        "name": "Francesca Marie Smith",
+        "character": "Female Ants (voice)"
+      },
+      {
+        "name": "Andrew Stanton",
+        "character": "Bug Zapper Bug #2 (voice)"
+      },
+      {
+        "name": "Hannah Swanson",
+        "character": "Female Ants (voice)"
+      },
+      {
+        "name": "Russi Taylor",
+        "character": "Female Ants (voice)"
+      },
+      {
+        "name": "Travis Tedford",
+        "character": "Ant Kids (voice)"
+      },
+      {
+        "name": "Ashley Tisdale",
+        "character": "Lead Blueberry Scout (voice)"
+      },
+      {
+        "name": "Lee Unkrich",
+        "character": "Ant #1 (voice)"
+      },
+      {
+        "name": "Jordan Warkol",
+        "character": "Ant #2 (voice)"
+      },
+      {
+        "name": "Pat Fry",
+        "character": "Grasshoppers (uncredited)"
+      },
+      {
+        "name": "Kath Soucie",
+        "character": "Ants (uncredited)"
+      },
+      {
+        "name": "Jess Harnell",
+        "character": "Additional Voices (voice)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Andrew Stanton",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Andrew Stanton",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Andrew Stanton",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "name": "Lee Unkrich",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "John Lasseter",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "John Lasseter",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "David Ian Salter",
+        "department": "Crew",
+        "job": "Second Film Editor"
+      },
+      {
+        "name": "Gary Rydstrom",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Gary Rydstrom",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Don Davis",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Pat Jackson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Darla K. Anderson",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kori Rae",
+        "department": "Visual Effects",
+        "job": "Animation Manager"
+      },
+      {
+        "name": "Randy Newman",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Randy Newman",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Bob Pauley",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Bob Pauley",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "name": "Tia W. Kratter",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Glenn McQueen",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Rich Quade",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Jean-Claude Kalache",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Eben Ostby",
+        "department": "Crew",
+        "job": "Supervising Technical Director"
+      },
+      {
+        "name": "Sophie Vincelette",
+        "department": "Art",
+        "job": "Lead Set Dresser"
+      },
+      {
+        "name": "Katherine Sarafian",
+        "department": "Art",
+        "job": "Art Department Manager"
+      },
+      {
+        "name": "Katherine Sarafian",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Ruth Lambert",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Mary Hidalgo",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Samuel Lord Black",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Joe Ranft",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Jonas Rivera",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Jonas Rivera",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Bryn Imagire",
+        "department": "Visual Effects",
+        "job": "CG Painter"
+      },
+      {
+        "name": "Glenn Kim",
+        "department": "Visual Effects",
+        "job": "CG Painter"
+      },
+      {
+        "name": "Yvonne Herbst",
+        "department": "Visual Effects",
+        "job": "CG Painter"
+      },
+      {
+        "name": "Jerome Ranft",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Norm DeCarlo",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "name": "Peter DeSève",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Andrea Warren",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Billy Merritt",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bret Parker",
+        "department": "Visual Effects",
+        "job": "Fix Animator"
+      },
+      {
+        "name": "Bret Parker",
+        "department": "Visual Effects",
+        "job": "Animation Fix Coordinator"
+      },
+      {
+        "name": "David Eisenmann",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Sarah Jo Helton",
+        "department": "Crew",
+        "job": "Schedule Coordinator"
+      },
+      {
+        "name": "Doug Sweetland",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Scott Clark",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Andrew Gordon",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Shawn Krause",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Jeff Pratt",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "David DeVan",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "John Kahrs",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Bobby Podesta",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Kyle Balda",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Michael Berenstein",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Brett Coderre",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Karen Kiser",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Daniel Mason",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "David Tart",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Alan Sperling",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "J. Warren Trezevant",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Hoon H. Kim",
+        "department": "Crew",
+        "job": "Production Intern"
+      },
+      {
+        "name": "Eliot Smyrl",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Brian Green",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Brian Green",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Mark Adams",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "James Bancroft",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Jason Bickerstaff",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Andrew Schmidt",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Andrew Schmidt",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Kim White",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Sue Maatouk-Kalache",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Daniel McCoy",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Daniel McCoy",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Ben Jordan",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "David Batte",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Janet Lucroy",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Joyce Powell",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Lauren Alpert",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Brad Andalman",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Brad Andalman",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Bena Currin",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Bena Currin",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Thomas Hahn",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Ronen Barzel",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Louis Rivera",
+        "department": "Camera",
+        "job": "Camera Supervisor"
+      },
+      {
+        "name": "Drew Rogge",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Don Conway",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "name": "David DiFrancesco",
+        "department": "Crew",
+        "job": "Photoscience Manager"
+      },
+      {
+        "name": "Erik Forman",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Doc Kane",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "name": "Michael Silvers",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Shannon Mills",
+        "department": "Crew",
+        "job": "Sound Design Assistant"
+      },
+      {
+        "name": "Dennie Thorpe",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Jana Vance",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "name": "Robert Taylor",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Tim Holland",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Sharon Calahan",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "William Cone",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Ira Hearshen",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Don McEnery",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Bob Shaw",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Kevin Reher",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "William Joyce",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Fred Warter",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Lindsey Collins",
+        "department": "Lighting",
+        "job": "Lighting Manager"
+      },
+      {
+        "name": "John K. Carr",
+        "department": "Crew",
+        "job": "Temp Sound Editor"
+      },
+      {
+        "name": "Mickie McGowan",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Tony Sereno",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Gary Rizzo",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "name": "Karen Prell",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Reid Gershbein",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Reid Gershbein",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Chris Perry",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Dylan Brown",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Anthony Scott",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Mark Oftedal",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Chris Montan",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "name": "Bruce White",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Mark A. Walsh",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Meredith Layne",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "David Slusser",
+        "department": "Crew",
+        "job": "Temp Music Editor"
+      },
+      {
+        "name": "Michael Parks",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Armen Ksajikian",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Timothy Hittle",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Stephen King",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Brian McNulty",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Mark Thomas Henne",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Steven Clay Hunter",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Kristina Perez",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Marian Wilde",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Steve Johnson",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Steve Johnson",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Gary Summers",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Dale E. Grahn",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Adrian Ochoa",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Sonoko Konishi",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Justin Oliphant",
+        "department": "Crew",
+        "job": "Production Intern"
+      },
+      {
+        "name": "Rick Maki",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Jean Gillmore",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "M.T. Silvia",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Bruce Zick",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Susan Bradley",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Bruce Perens",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Steve Segal",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Lori L. Eschler",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "name": "Kitt Hirasaki",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Mary Helen Leasman",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "James W. Williams",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "John Hee Soo Lee",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "James Burgess",
+        "department": "Camera",
+        "job": "Camera Department Manager"
+      },
+      {
+        "name": "David Lomax",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Jonathan Sacks",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Patsy Bouge",
+        "department": "Crew",
+        "job": "Post Production Consulting"
+      },
+      {
+        "name": "Mark Berrow",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Tom Boyd",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Mary Beth Smith",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "James Thatcher",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Jeff Wan",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "name": "William Reeves",
+        "department": "Crew",
+        "job": "Supervising Technical Director"
+      },
+      {
+        "name": "Les Major",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Doug Sheppeck",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Mitch Prater",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Brian M. Rosen",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Brian M. Rosen",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Kelly O'Connell",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Tom Freeman",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Craig McGillivray",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Peter Davies",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Charles Paley",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Danielle Feinberg",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Miguel Ángel Poveda",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "John B. Anderson",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "B.Z. Petroff",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Ian Evans",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Rachel Bolt",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Dale Ruffolo",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Hana Yoon",
+        "department": "Editing",
+        "job": "Editorial Coordinator"
+      },
+      {
+        "name": "Andrew Page",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Kurt Fleischer",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Michael Kass",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Tony DeRose",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Michael B. Johnson",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Arun Rao",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Dirk Van Gelder",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Patrick Wilson",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Lars R. Damerow",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Cynthia Dueltgen",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Patrick Guenette",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Thomas Jordan",
+        "department": "Crew",
+        "job": "Production Intern"
+      },
+      {
+        "name": "Ana Lacaze",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Ken Lao",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Ken Lao",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Eileen O'Neill",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Keith Olenick",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "John Singh Pottebaum",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "John Singh Pottebaum",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "John Warren",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Bill Wise",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Bill Wise",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Timothy Sorensen",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Don Williams",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Lisa Forssell",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Lisa Forssell",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Lisa Forssell",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Ling Hsu",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jason 'Jayfish' Hull",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Tom Kim",
+        "department": "Lighting",
+        "job": "Lighting Coordinator"
+      },
+      {
+        "name": "Chris King",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Peter Nye",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Sudeep Rangaswamy",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Sudeep Rangaswamy",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Don Schreiter",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Michael Shantzis",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Nelson Siu",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Heidi Stettner",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Andy Thomas",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Tien Truong",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Mark T. VandeWettering",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Christopher C. Walker",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Wayne Wooten",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Wayne Wooten",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Andrew Findon",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Paul Clarvis",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Lisa Ellis",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Deborah R. Fowler",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Damir Frkovic",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "David R. Haumann",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Keith B.C. Gordon",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Ken Huey",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Alisa Gilden",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "May Pon",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Edgar Quinones",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Bryan Bird",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Peter Kaldis",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Michael O'Brien",
+        "department": "Crew",
+        "job": "Information Systems Manager"
+      },
+      {
+        "name": "Auburn C. 'Aubie' Schmidt",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jonathan Williams",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Debbie L. O'Keeffe",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Paul Kegg",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Skaila Kanga",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Dennis 'D.J.' Jennings",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Bill Polson",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Phil Beffrey",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Loren Carpenter",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Dan Lyke",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Shaun Oborn",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Matt Pharr",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Ruieta DaSilva",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Jun Han Cho",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Jason B. Hendrix",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Nathan Ardaiz",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "George Bagtas",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Adam Beeman",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Gregory Yong Paik",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Edilberto A. Soriano Jr.",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Alex Stahl",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Dallas Wisehaupt",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "David Gordon",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Lance Martin",
+        "department": "Visual Effects",
+        "job": "Animation Production Assistant"
+      },
+      {
+        "name": "Eric Lebel",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Rona Michele",
+        "department": "Crew",
+        "job": "Temp Sound Editor"
+      },
+      {
+        "name": "Anne Pia",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Kirk Bowers",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "David Valdez",
+        "department": "Visual Effects",
+        "job": "Shading"
+      },
+      {
+        "name": "Warren Hays",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Duncan Keefe",
+        "department": "Crew",
+        "job": "Information Systems Manager"
+      },
+      {
+        "name": "Tom Carlisle",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Kenny Condit",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Amy Ellenwood",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Ellen Fair",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Lianna Kelley",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "John Lansberry",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Milan Parikh",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Craig Payne",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Clay Welch",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Eric A. Wood",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Lee Ozer",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Michael Griffin Kelly",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Maneesh Agrawala",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Dana Batali",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "David M. Laur",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "rendering software engineer",
+        "department": "Crew",
+        "job": "Software Engineer"
+      },
+      {
+        "name": "Sandra Christiansen",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "James Walker",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Tommy Johnson",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "name": "Dale McBeath",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "name": "Jeff 'Heffe' Millhollen",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Adam Bronstein",
+        "department": "Crew",
+        "job": "Production Intern"
+      },
+      {
+        "name": "Crystal Jones",
+        "department": "Crew",
+        "job": "Production Intern"
+      },
+      {
+        "name": "Maneli Keshavarzi",
+        "department": "Crew",
+        "job": "Production Intern"
+      },
+      {
+        "name": "Josh Morsell",
+        "department": "Crew",
+        "job": "Production Intern"
+      },
+      {
+        "name": "Stephanie Andrews",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "name": "Donna Cipriani",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Susan Tatsuno Hamana",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "name": "Bankole Lasekan",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Roger Rose",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Tomoko Harada Ferguson",
+        "department": "Visual Effects",
+        "job": "Animation Production Assistant"
+      },
+      {
+        "name": "Wei-Chung Chang",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Lou Fancher",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Paul Kratter",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "name": "Bob Baron",
+        "department": "Sound",
+        "job": "Additional Sound Re-Recordist"
+      }
+    ]
+  },
+  "keywords": [
+    "fight",
+    "winter",
+    "ant-hill",
+    "ant",
+    "invention",
+    "collector",
+    "anthropomorphism",
+    "grass",
+    "duringcreditsstinger"
+  ],
+  "mpaa": "G",
+  "summaries": [
+    "A misfit ant, looking for \"warriors\" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+    "At an annual pace, a huge colony of ants is forced to collect every piece of food that grows on their island for a group of menacing grasshoppers. But that all changes when a misfit inventor ant named Flik accidentally knocks over the offering pile thus forcing the grasshoppers' devious leader Hopper to force the ants to redo their gathering of food. Despite the fact that his friends don't believe him and desperate to help save the colony, Flik volunteers to go out into the world and search for a group of 'warrior' bugs. Instead, what he got was a talented group of circus performers. But when the grasshoppers return and take control of the island, Flik must prove himself a true hero before it's too late.—Blazer346",
+    "In every season, greedy grasshoppers demand a share of food from a colony of ants. But one day, their annual offering is inadvertently destroyed, and the grasshoppers demand twice as much food as compensation. So the ants send a misfit ant named Flik to seek for \"warrior bugs\" to battle the grasshoppers, only to discover that the group of bugs he recruited are an inept circus troupe. But the bugs are the ants' only hope to fight off their enemies.—MadMovieManiac",
+    "Sadly, the good Queen of Ant Island and her gracious daughter, Princess Atta, are absolutely helpless against the absurd annual demands of the ruthless Hopper and his hordes of ferocious grasshoppers. However, this year, things are bound to get from bad to worse, as an embarrassing and terrible catastrophe threatens to disrupt the already frail balance between the two species. Now, only Flik--a resourceful young ant and a hopeful inventor--a mighty army, and a genuine miracle can save the defenceless colony from the rapacious predators; however, this is easier said than done. Undoubtedly, it's a hard life for a bug out there; nevertheless, can Flik manage to save the day?—Nick Riganas",
+    "A colony of ants is under the thumb of the grasshoppers, who extort food from the ants. One ant, Flik, decides to do something about this. He sets out to the city to find some warrior bugs to fight the grasshoppers. Hew returns with an assortment of characters he believes will be enough to battle the ant's oppressors, only to find that they're a troupe of circus performers.—grantss"
+  ],
+  "synopsis": "On a small island with a large tree, a colony of ants is preparing food for the arrival of a band of grasshoppers. Of the ants that are working, one of them that stands out is an industrious one named Flik. Flik is constantly inventing new things for the colony to reduce labor, but his ideas are often shouted down and shunned by the colony, who feel the old-fashioned way of preparing the grasshoppers' \"offering\" is the only way to do things. The only one who seems to believe in Flik is the young Princess of the colony named Dot. Secretly, Flik is attracted to her older sister, Atta, who is next in line for the throne.As the time for the grasshoppers to arrive approach, the colony heads down into the anthill, intent to wait for the grasshoppers to eat the offering, and leave. Unfortunately, Flik is the last one to put his items on the offering stone, and ends up causing the platform to collapse with his piece of machinery. All the food they've gathered spills into the stream.When the grasshoppers finally arrive and find nothing, they break into the anthill to terrorize the ants. The leader of the grasshoppers, Hopper, demands that the offering be replenished by the Fall season, and terrorizes Dot, before Flik comes forward to try and defend her. Hopper then commands that the offering be doubled, due to Flik's speaking up against them. During the meeting, Hopper's dimwitted brother, Molt, lets it slip that Hopper is afraid of birds. Hopper silences his brother and the grasshoppers leave, promising to return when the last leaf of Autumn falls.The colony is now in trouble, as there isn't enough food to fulfill Hopper's request and provide sustenance for the colony. Flik is brought before a tribunal in regards to his causing the trouble. As the group convenes, Flik then thinks up a new idea: if the colony could find bigger bugs to help them defend the colony, they could be instrumental in scaring off the grasshoppers from ever returning. The others think this is a bad idea, until Flik volunteers to look. Thinking that his search will take a long time, the council decides to accept Flik's request, figuring he'll be away from them long enough to keep from causing further trouble.In another part of the region, a motley crew of bugs are performing in a circus led by a flea, PT Flea. The circus isn't well-attended, most of the audience being flies who jeer and cajole the performers, especially when their acts fail. PT, desperate to keep the flies from leaving, announces a new act call \"Flaming Death\" where his crew will work together to keep him from being burned. The act fails miserable because the bugs can't coordinate their efforts and PT is burned anyway. He fires them all on the spot.Flik sets off the next day to head for the big city, eventually finding his way into a 'bug bar,' asking around for tough 'warrior bugs.' His attention is suddenly drawn to a group of bugs in a corner, who it seems are preparing to take on a small gang of flies and their huge member, Thud. They make a valiant effort, posing as medieval knights but their ruse fails and the 'bug bar' ends up being wrecked, and Flik misses much of the fight. However, in the aftermath, Flik thinks he's found the perfect guardians to help his colony.He pleads his case to the group, saying how he's been looking for bugs with their talent, and asking for their help regarding the incoming group of grasshoppers. The group eagerly accepts, thinking Flik wants them to perform at a dinner theatre and, hoping to avoid trouble from the bar's owner & the flies they fought with, they head off for Ant Island.When Flik returns, Atta and the elders are shocked that Flik actually found 'warrior bugs.' Atta is at first unsure, but the ladybug of the group. Francis (Dennis Leary), promises that they will knock the grasshoppers 'dead' when they come.A party is then held in honor of the group, including a tribute and art showing the warriors fighting off the grasshoppers. The group then grows leery, realizing they're meant to fight a war for the ants instead of merely performing. Rosie whispers to Flik that they're actually just circus bugs and Flik is horrified, accusing the group of tricking them. When Atta appears, Flik convinces her that the circus bugs will fight for them.Discovering their mutual misunderstanding, the circus bugs attempt to leave, but are forced back by a bird. They work together to save Princess Dot, the Queen's daughter and Atta's sister, from the bird as they flee, gaining the ants' trust in the process. They continue the ruse of being \"warriors\" so the troupe can continue to enjoy the attention and hospitality of the ants. The bird encounter inspires Flik into creating an artificial bird to scare away Hopper, leader of the grasshoppers. The bird is constructed from sticks and leaves, but the circus bugs are exposed by their former ringmaster, P.T. Flea, when he arrives searching for them. Angered at Flik's deception, the ants exile him and desperately try to pull together enough food for a new offering to the grasshoppers, but fail to do so.When the grasshoppers discover a meager offering upon their arrival, they take control of the entire colony and begin eating the ants' winter store of food. After overhearing Hopper's plan to kill the queen, Dot leaves in search of Flik and the warrior bugs and convinces them to return and save the colony with his original plan. The plan nearly works, but P.T. Flea lights the artificial bird on fire, causing it to crash and be revealed as a fake. Hopper has Flik beaten by his thug, Thumper, in retaliation, but Flik defies Hopper and inspires the entire colony and the warriors to stand up to the grasshoppers and drive them out of the colony.Before Hopper can be disposed of, it begins to rain where the drops of water are like large bombs. In the chaos, Hopper viciously pursues Flik, who leads him to the actual bird's nest. Hopper mistakes the real bird for another fake bird, and taunts it, attracting its attention. The grasshopper is eaten by the bird and its chicks.Some time later, Flik has been welcomed back to the colony, and he and Atta are now a couple. As the troupe departs with the last grasshopper, Molt, as an employee, Atta is crowned the new Queen, while Dot gets the princess' crown. The circus troupe then departs as Flik, Atta and Dot watch and wave farewell in a tree branch."
+}

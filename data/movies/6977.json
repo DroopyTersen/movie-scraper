@@ -1,0 +1,825 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/bQeuzbFtizthHztHpWW0Yw0ntHO.jpg",
+  "id": 6977,
+  "title": "No Country for Old Men",
+  "poster_path": "https://image.tmdb.org/t/p/w500/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg",
+  "release_date": "2007-06-13",
+  "vote_average": 7.937,
+  "vote_count": 11265,
+  "popularity": 45.074,
+  "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+  "imdb_id": "tt0477348",
+  "budget": 25000000,
+  "homepage": "",
+  "revenue": 171627166,
+  "runtime": 122,
+  "tagline": "There are no clean getaways.",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "production_companies": [
+    "Miramax",
+    "Scott Rudin Productions",
+    "Mike Zoss Productions",
+    "Paramount Vantage"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Josh Brolin",
+        "character": "Llewelyn Moss"
+      },
+      {
+        "name": "Javier Bardem",
+        "character": "Anton Chigurh"
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "character": "Ed Tom Bell"
+      },
+      {
+        "name": "Kelly Macdonald",
+        "character": "Carla Jean Moss"
+      },
+      {
+        "name": "Woody Harrelson",
+        "character": "Carson Wells"
+      },
+      {
+        "name": "Garret Dillahunt",
+        "character": "Wendell"
+      },
+      {
+        "name": "Tess Harper",
+        "character": "Loretta Bell"
+      },
+      {
+        "name": "Barry Corbin",
+        "character": "Ellis"
+      },
+      {
+        "name": "Stephen Root",
+        "character": "Man Who Hires Wells"
+      },
+      {
+        "name": "Rodger Boyce",
+        "character": "El Paso Sheriff"
+      },
+      {
+        "name": "Beth Grant",
+        "character": "Carla Jean's Mother"
+      },
+      {
+        "name": "Ana Reeder",
+        "character": "Poolside Woman"
+      },
+      {
+        "name": "Kit Gwin",
+        "character": "Sheriff Bell's Secretary"
+      },
+      {
+        "name": "Zach Hopkins",
+        "character": "Strangled Deputy"
+      },
+      {
+        "name": "Chip Love",
+        "character": "Man in Ford"
+      },
+      {
+        "name": "Eduardo Antonio Garcia",
+        "character": "\"Agua\" Man"
+      },
+      {
+        "name": "Gene Jones",
+        "character": "Gas Station Proprietor"
+      },
+      {
+        "name": "Myk Watford",
+        "character": "\"Managerial\" Victim"
+      },
+      {
+        "name": "Boots Southerland",
+        "character": "\"Managerial\" Victim"
+      },
+      {
+        "name": "Kathy Lamkin",
+        "character": "Desert Aire Manager"
+      },
+      {
+        "name": "Johnnie Hector",
+        "character": "Cabbie at Bus Station"
+      },
+      {
+        "name": "Margaret Bowman",
+        "character": "Del Rio Motel Clerk"
+      },
+      {
+        "name": "Thomas Kopache",
+        "character": "Boot Salesman"
+      },
+      {
+        "name": "Jason Douglas",
+        "character": "Cabbie at Motel"
+      },
+      {
+        "name": "Doris Hargrave",
+        "character": "Waitress"
+      },
+      {
+        "name": "Rutherford Cravens",
+        "character": "Gun Store Clerk"
+      },
+      {
+        "name": "Matthew Posey",
+        "character": "Sporting Goods Clerk"
+      },
+      {
+        "name": "George Adelo",
+        "character": "Mexican in Bathtub"
+      },
+      {
+        "name": "Mathew Greer",
+        "character": "Hitchhiking Driver"
+      },
+      {
+        "name": "Trent Moore",
+        "character": "Nervous Accountant"
+      },
+      {
+        "name": "Marc Miles",
+        "character": "Hotel Eagle Clerk"
+      },
+      {
+        "name": "Luce Rains",
+        "character": "Pickup Driver"
+      },
+      {
+        "name": "Philip Bentham",
+        "character": "Border Bridge Youth"
+      },
+      {
+        "name": "Eric Reeves",
+        "character": "Border Bridge Youth"
+      },
+      {
+        "name": "Josh Meyer",
+        "character": "Border Bridge Youth"
+      },
+      {
+        "name": "Chris Warner",
+        "character": "Flatbed Driver"
+      },
+      {
+        "name": "Brandon Smith",
+        "character": "INS Official"
+      },
+      {
+        "name": "Roland Uribe",
+        "character": "Well Dressed Mexican"
+      },
+      {
+        "name": "Richard Jackson",
+        "character": "Chicken Farmer"
+      },
+      {
+        "name": "Josh Blaylock",
+        "character": "Boy on Bike"
+      },
+      {
+        "name": "Caleb Landry Jones",
+        "character": "Boy on Bike"
+      },
+      {
+        "name": "Dorsey Ray",
+        "character": "Odessa Cabbie"
+      },
+      {
+        "name": "Angel H. Alvarado Jr.",
+        "character": "Norteño Band"
+      },
+      {
+        "name": "David A. Gomez",
+        "character": "Norteño Band"
+      },
+      {
+        "name": "Milton Hernandez",
+        "character": "Norteño Band"
+      },
+      {
+        "name": "John Mancha",
+        "character": "Norteño Band"
+      },
+      {
+        "name": "Scott Flick",
+        "character": "Cab Driver (uncredited)"
+      },
+      {
+        "name": "Albert Fry Jr.",
+        "character": "El Paso Deputy (uncredited)"
+      },
+      {
+        "name": "Angelo Martinez",
+        "character": "Bus Passenger (uncredited)"
+      },
+      {
+        "name": "James Rishe",
+        "character": "Coffee Shop Customer (uncredited)"
+      },
+      {
+        "name": "Elizabeth Slagsvol",
+        "character": "Nurse (uncredited)"
+      },
+      {
+        "name": "Rachel Manera",
+        "character": "Pharmacy Driver (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Roger Deakins",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Roger Deakins",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Nancy Haigh",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Joel Coen",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Joel Coen",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Joel Coen",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Joel Coen",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Ethan Coen",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Ethan Coen",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ethan Coen",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Ethan Coen",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Carter Burwell",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Ellen Chenoweth",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Scott Rudin",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Jess Gonchor",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Mark Roybal",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Mary Zophres",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Skip Lievsay",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Skip Lievsay",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Peter Chesney",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Craig Berkey",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Craig Berkey",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Dave Childers",
+        "department": "Camera",
+        "job": "First Company Grip"
+      },
+      {
+        "name": "Bruce Goodman",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "name": "Todd Kasow",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Paul Elliott",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Robert Graf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Cormac McCarthy",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "David Diliberto",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Thomas Rosales Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jo Edna Boldin",
+        "department": "Production",
+        "job": "Location Casting"
+      },
+      {
+        "name": "Peter F. Kurland",
+        "department": "Sound",
+        "job": "Sound mixer"
+      },
+      {
+        "name": "Cheryl Kurk",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Thomas Johnston",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Bruce Hamme",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Rachel Tenner",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Katie McQuerrey",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Deborah Jensen",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Tracy Kilpatrick",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "name": "Jenny Eagan",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Mamie Mitchell",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Peter Dress",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Roberta Marquez Seret",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "John P. Goldsmith",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Mark Norby",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jery Hewitt",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Jery Hewitt",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Lori DeLapp",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Jean Ann Black",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Vincent Cirelli",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Lisanne Scafine",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Greg Orloff",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Richard Foreman Jr.",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Chris Napolitano",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Louise Spencer",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Aleah Ames",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Glenn Morris",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Paul LeBlanc",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Todd Spears",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "Joel Dougherty",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Quentin Matthys",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Teresa Valenzuela",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Bryan Booth",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Marie A. Kohl",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Karen Ruth Getchell",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Josh Blakeslee",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Amelia Rasche McCarthy",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Rachael Lin Gallaghan",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Byron Wilson",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Charley Gilleran",
+        "department": "Lighting",
+        "job": "Key Rigging Grip"
+      },
+      {
+        "name": "Andy Graham",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Timothy P. Ryan",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Edward Lassak",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Michael Hatzer",
+        "department": "Editing",
+        "job": "Digital Color Timer"
+      },
+      {
+        "name": "Betsy Magruder",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Andy Harris",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Mitchell Andrew Lillian",
+        "department": "Camera",
+        "job": "First Company Grip"
+      },
+      {
+        "name": "Scott Kidner",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Gary Kangrga",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Rick Marroquin",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Ron Alexus",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Christine Hawes",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Hank Herrera",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Thomas Bango",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Jeff Lomaglio",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Louis Nelson",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Bac DeLorme",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Liza Bambenek",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Narges Takesh",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "name": "Delia Hauser",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Paul Candrilli",
+        "department": "Camera",
+        "job": "Second Company Grip"
+      },
+      {
+        "name": "Mimi N. McGreal",
+        "department": "Production",
+        "job": "Travel Coordinator"
+      },
+      {
+        "name": "Jennifer Mancuso",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Karen Yokomizo",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Sage Emmett Connell",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Michael Kennedy",
+        "department": "Editing",
+        "job": "Digital Intermediate Producer"
+      },
+      {
+        "name": "Debra Clair",
+        "department": "Costume & Make-Up",
+        "job": "Additional Hairstylist"
+      },
+      {
+        "name": "Jamie Garcia",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "George Greene",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Tommy Kelii",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Chris Mack",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Asa-Luke Twocrow",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Peter Weidenfeller",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Daniel 'Lee' Andres",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Jim Threadgill",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Kathryn Schuetze",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Gabriel Pérez",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Melissa Wiseman",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      }
+    ]
+  },
+  "keywords": [
+    "vietnam veteran",
+    "sheriff",
+    "trailer park",
+    "based on novel or book",
+    "hitman",
+    "psychopath",
+    "drug trafficking",
+    "texas",
+    "motel",
+    "usa–mexico border",
+    "drug cartel",
+    "fate",
+    "desert",
+    "modern-day western",
+    "neo-western",
+    "tracking device",
+    "cold blooded killer",
+    "motel room",
+    "cartel",
+    "neo-noir",
+    "1980s",
+    "mexican cartel",
+    "drug deal",
+    "coin toss",
+    "human nature",
+    "captive bolt gun",
+    "western noir",
+    "horror western",
+    "faithful adaptation"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "While out hunting, Llewelyn finds the grisly aftermath of a drug deal. Though he knows better, he cannot resist the cash left behind and takes it. The hunter becomes the hunted when a merciless killer named Chigurh picks up his trail.",
+    "In rural Texas, welder and hunter Llewelyn Moss (Josh Brolin) discovers the remains of several drug runners who have all killed each other in an exchange gone violently wrong. Rather than report the discovery to the police, Moss decides to simply take the two million dollars present for himself. This puts the psychopathic killer, Anton Chigurh (Javier Bardem), on his trail as he dispassionately murders nearly every rival, bystander and even employer in his pursuit of his quarry and the money. As Moss desperately attempts to keep one step ahead, the blood from this hunt begins to flow behind him with relentlessly growing intensity as Chigurh closes in. Meanwhile, the laconic Sheriff Ed Tom Bell (Tommy Lee Jones) blithely oversees the investigation even as he struggles to face the sheer enormity of the crimes he is attempting to thwart.—Kenneth Chisholm (kchishol@rogers.com)",
+    "1980, West Texas. While out hunting down by the US-Mexico border, good ol' Texas boy Llewelyn Moss, a welder by day who lives in a trailer park in Sanderson with his wife Carla Jean, comes across what is a drug deal gone wrong. What he finds are all the players left at the scene dead or near death and a satchel filled with $2 million which he takes, despite knowing that someone will be looking for the money and is probably willing to kill for it. As such, he not only tries to protect himself in the process of trying to find out who will be after the money, but also Carla Jean by sending her away. A person hired to retrieve the money is Anton Chigurh, who indeed will kill anyone, including innocent bystanders, necessary to get to his end goal, with a high pressure air pistol his weapon of choice especially as it leaves no bullet as evidence. Chigurh, in deciding who should live or die in his day to day life, also uses his own psychopathic set of principles. Chirgurh quickly learns that Moss has the money and is on the run. Also on both their trails is Terrell County Sheriff Ed Tom Bell and his naive deputy Wendell. Bell, a third generation sheriff, has of late contemplated his professional future solely because of the notion that he and his like have not been able to do anything to control the increasing violence of the region. Bell finds evidence that Moss has the money and that someone, who has left a trail of carnage behind him, is after Moss and the money. As such, Bell tries to find Moss solely to protect him from whoever is after him. One other person added to the mix is Carson Wells, hired by the same person that hired Chigurh also to retrieve the money, as their employer feels that Chigurh has gotten out of control. Wells knows Chigurh well and knows that he will not take too kindly to anyone else brought in on his job.—Huggo",
+    "While out poaching on the barren desert plains of 1980 West Texas, Vietnam War veteran Llewelyn Moss stumbles upon the aftermath of a bloody shoot-out and an unexpected finding: a heavy leather satchel crammed with $2 million in drug cash. And having chosen to risk life and limb to escape his miserable existence, Moss decides to get away from the gruesome site with the money, unaware that he has already set a violent cat-and-mouse game in motion. As a result, Anton Chigurh, an unfeeling, eerily efficient contract killer devoid of compassion, and old-school Sheriff Ed Tom Bell are hot on Llewelyn's trail. On the one hand, the grizzled lawman hopes to break the cycle of violence and bring Moss in before Anton finds him first. On the other hand, the vicious assassin is hell-bent on retrieving the money at all costs. As deadly mistakes pile up, can Moss stop what's coming?—Nick Riganas",
+    "Hunting in 1980 in he West Texas desert plains as usual, local welder Lewelyn Moss, a Vietnam War veteran who lives in a trailer park in Sanderson with his wife Carla Jean, accidentally discovers the site of a drug trade shootout. Rather than seeking help for the survivor or reporting the crime, he dodges the roaming killers and after a nocturnal return, he brings home to hide $2 million in dirty cash and moves out, hoping for the good life. But his trail is found by the psychopathic killer Anton Chigurh, who was hired to retrieve the money at all cost and enjoys going over corpses. After both of them are Terrell County's third-generation sheriff Ed Tom Bell and his naive deputy Wendell, who follow the trail of blood and destruction. Chigurh's employer now hires Carson Wells, feeling that uncontrollable Anton attracted too much police attention.—KGF Vissers"
+  ],
+  "synopsis": "West Texas in June 1980 is desolate, wide-open country, and Ed Tom Bell (Tommy Lee Jones) laments the increasing violence in a region where he, like his father and grandfather before him, has risen to the office of sheriff.Llewelyn Moss (Josh Brolin), hunting pronghorn, comes across the aftermath of a drug deal gone awry: several dead men and dogs, a wounded Mexican begging for water, and two million dollars in a satchel that he takes to his trailer home. Late that night, he returns with water for the dying man, but is chased away by two men in a truck and loses his vehicle. Moss escapes due to his extensive knowledge of the area which his pursuers lack. When he gets back home, he grabs the cash, sends his wife Carla Jean (Kelly Macdonald) to her mother's, and makes his way to a motel in the next county where he hides the satchel in the air vent of his room.Anton Chigurh (Javier Bardem) is a hit-man who has been hired to recover the money. He has already strangled a sheriff's deputy to escape custody and stolen a car by using a captive bolt pistol to kill the driver. Chigurh is a vicious killer but does not kill indiscriminately. His peculiar habit is that he tosses a coin & asks his victim to guess heads or tail. If they guess correctly, he spares their life.Bell is on the trail of the killings as well. In the meantime, Chigurh arrives at the scene of the drug deal & finds Moss's abandoned truck. He has been employed by the buyers to recover their money & they hand over the tracking device to him. Chigurh shoots them dead & starts tracing Moss.Now he carries a receiver that traces the money via a tracking device concealed inside the satchel. Bursting into Moss's hideout at night, Chigurh surprises a group of Mexicans set to ambush Moss and murders them all. Moss, who has rented the connecting room on the other side, is one step ahead. By the time Chigurh removes the vent cover with a dime, Moss is already back on the road with the cash.In a border town hotel, Moss finally finds the electronic bug, but not before Chigurh is upon him. A firefight between them spills onto the streets, leaving both men wounded. Moss flees across the border & hides the money in a ditch near the border & collapses from his injuries before he is taken to a Mexican hospital. There, Carson Wells (Woody Harrelson), another hired operative (hired to track & killed Chigurh by the boss of the 2 buyers killed by Chigurh), offers protection in return for the money.Meanwhile Bell visits Carla Jean & informs her that Moss has tangled himself with some bad people who won't stop till they kill him & asks her to call him as soon as she hears from Moss, so that Bell can protect him.After Chigurh cleans and stitches his own wounds with stolen supplies, he gets the drop on Wells back at his hotel and kills him just as Moss calls the room. Picking up the call and casually raising his feet to avoid the spreading blood, Chigurh promises Moss that Carla Jean will go untouched if he gives up the money. Moss remains defiant. Moss re-enters US & retrieves the money.Moss arranges to rendezvous with his wife at a motel in El Paso to give her the money and send her out of harm's way. When Carla Jean boards the bus to El Paso, the Mexicans (who have also been hired by the buyer boss who hired Chigurh). She reluctantly accepts Bell's offer to save her husband & tells him on phone where Moss is headed, but Bell arrives only in time to see a pickup carrying several men speeding away from the motel and Moss lying dead in his room. That night, Bell returns to the crime scene and finds the lock blown out in his suspect's familiar style.Chigurh hides behind the door of a motel room, observing the shifting light through an empty lock hole. His gun drawn, Bell enters Moss's room and notices that the vent cover has been removed with a dime and the vent is empty. Moss had hidden the money & Chigurh has retrieved it.Bell visits his Uncle Ellis (Barry Corbin), an ex-lawman. Bell plans to retire because he feels \"overmatched,\" but Ellis points out that the region has always been violent. For Ellis, thinking it is \"all waiting on you, that's vanity.\"\nCarla Jean returns from her mother's funeral (mother was suffering from cancer) to find Chigurh waiting in the bedroom. When she tells him she does not have the money, he recalls the pledge he made to her husband that could have spared her, had Moss accepted Chigurh's offer to return the money. The best he will offer Carla is a coin toss for her life, but she says that the choice is his. Chigurh leaves the house alone and carefully checks the soles of his boots, suggesting he killed Carla Jean. As he drives away, he is injured in a car accident and abandons the damaged vehicle.Now retired, Bell shares two dreams with his wife (Tess Harper), both involving his deceased father. In the first dream he lost \"some money\" that his father had given him; in the second, he and his father were riding horses through a snowy mountain pass. His father, who was carrying fire in a horn, quietly passed by with his head down, \"going on ahead, and fixing' to make a fire\" in the surrounding dark and cold. Bell knew that when he got there his father would be waiting."
+}

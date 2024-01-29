@@ -1,0 +1,612 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/nJ0jz1J3zNja31UEMeklhgFeMw5.jpg",
+  "id": 1090,
+  "title": "The Thirteenth Floor",
+  "poster_path": "https://image.tmdb.org/t/p/w500/7oaie3ZBc9UuWZLF24crro1pone.jpg",
+  "release_date": "1999-04-16",
+  "vote_average": 7.031,
+  "vote_count": 1207,
+  "popularity": 22.087,
+  "overview": "Los Angeles. A wealthy man, known as Mr. Fuller, discovers a shocking secret about the world he lives in. Fearing for his life, he leaves a desperate message for a friend of his in the most unexpected place.",
+  "imdb_id": "tt0139809",
+  "budget": 16000000,
+  "homepage": "",
+  "revenue": 18564088,
+  "runtime": 101,
+  "tagline": "Question reality.",
+  "genres": [
+    "Thriller",
+    "Science Fiction",
+    "Mystery"
+  ],
+  "production_companies": [
+    "Centropolis Film Productions",
+    "Columbia Pictures"
+  ],
+  "production_countries": [
+    "DE",
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Craig Bierko",
+        "character": "Douglas Hall"
+      },
+      {
+        "name": "Armin Mueller-Stahl",
+        "character": "Hannon Fuller"
+      },
+      {
+        "name": "Gretchen Mol",
+        "character": "Jane Fuller"
+      },
+      {
+        "name": "Vincent D'Onofrio",
+        "character": "Whitney"
+      },
+      {
+        "name": "Dennis Haysbert",
+        "character": "Det. Larry McBain"
+      },
+      {
+        "name": "Steven Schub",
+        "character": "Det. Zev Bernstein"
+      },
+      {
+        "name": "Jeremy Roberts",
+        "character": "Tom Jones"
+      },
+      {
+        "name": "Rif Hutton",
+        "character": "Joe"
+      },
+      {
+        "name": "Leon Rippy",
+        "character": "Jane's Lawyer"
+      },
+      {
+        "name": "Janet MacLachlan",
+        "character": "Ellen"
+      },
+      {
+        "name": "Brad William Henke",
+        "character": "Cop"
+      },
+      {
+        "name": "Burt Bulos",
+        "character": "Bellhop"
+      },
+      {
+        "name": "Venessia Valentino",
+        "character": "Concierge"
+      },
+      {
+        "name": "Howard S. Miller",
+        "character": "Chauffeur"
+      },
+      {
+        "name": "Tia Texada",
+        "character": "Natasha's Roommate"
+      },
+      {
+        "name": "Shiri Appleby",
+        "character": "Bridget Manilla"
+      },
+      {
+        "name": "Bob Clendenin",
+        "character": "Bank Manager"
+      },
+      {
+        "name": "Rachel Winfree",
+        "character": "Woman Bank Customer"
+      },
+      {
+        "name": "Meghan Ivey",
+        "character": "Chanteuse"
+      },
+      {
+        "name": "Alison Lohman",
+        "character": "Honey Bear Girl"
+      },
+      {
+        "name": "Hadda Brooks",
+        "character": "Lounge Piano Player"
+      },
+      {
+        "name": "Ron Boussom",
+        "character": "Maitre D'"
+      },
+      {
+        "name": "Ernie Lively",
+        "character": "30's Cop"
+      },
+      {
+        "name": "Toni Sawyer",
+        "character": "Grierson's Wife"
+      },
+      {
+        "name": "Brooks Almy",
+        "character": "Bridget's Mom"
+      },
+      {
+        "name": "Darryl Henriques",
+        "character": "Cab Driver"
+      },
+      {
+        "name": "Suzanne Harrer",
+        "character": "Dance Contest Partner"
+      },
+      {
+        "name": "Lee Weaver",
+        "character": "30's Limo Driver"
+      },
+      {
+        "name": "Geoffrey Rivas",
+        "character": "Security Guard"
+      },
+      {
+        "name": "Travis Tedford",
+        "character": "Newspaper Boy"
+      },
+      {
+        "name": "Jeff Blumenkrantz",
+        "character": "Choreographer"
+      },
+      {
+        "name": "Andrew Alden",
+        "character": "Doorman"
+      },
+      {
+        "name": "Johnny Crawford",
+        "character": "Singer"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Michael Ballhaus",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Harald Kloser",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Roland Emmerich",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Thomas Wanker",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "April Webster",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Victor J. Zolfo",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Joseph A. Porro",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "name": "Helga Ballhaus",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Henry Richardson",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "José Antonio García",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Jonathan Fuh",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Erwin H. Kupitz",
+        "department": "Costume & Make-Up",
+        "job": "Wig Designer"
+      },
+      {
+        "name": "Dino DiMuro",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "David Bloch",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "John S. Baker",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "R. A. Rondell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Josef Rusnak",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Josef Rusnak",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Daniel F. Galouye",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Ravel Centeno-Rodriguez",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Ute Emmerich",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Kelly Van Horn",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Kelly Van Horn",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Marco Weber",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Wedigo von Schultzendorff",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Kirk M. Petruccelli",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Frank Bollinger",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Barry Chusid",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Freddie Hice",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Henry Kingi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Hubert Bartholomae",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Hubert Bartholomae",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "A. Leslie Thomas",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Peter Afterman",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Kim H. Winther",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Fran Lucci",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Annie Dunn",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Kevin LaRosa",
+        "department": "Crew",
+        "job": "Aerial Coordinator"
+      },
+      {
+        "name": "Billy D. Lucas",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lisa Lynn Kearsley",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Claudette Barius",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Chris Squires",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Chris Squires",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "David Frutos",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Thomas Nellen",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Jean Rosone",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Lars P. Winther",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Margit Pfeiffer",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Max Neal",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Steven Melton",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Tommy J. Huff",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Pit Kuhlmann",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Robert A. Blackburn",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Joe Bauer",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Kosta Saric",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Evelyne Barbier",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jon R. Tower",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Kim Berner",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Jörn Poetzl",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Katherine Rees",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Michael Bauman",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Dave McMoyler",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Christian Haas",
+        "department": "Visual Effects",
+        "job": "CG Animator"
+      },
+      {
+        "name": "Chris Wagganer",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Randy Gerston",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Tim Ryan",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Mary Ruth Smith",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Dana Ross",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Andreas Musolff",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Brian W. Nordheim",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Cindy Franke",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Robert J. Anderson Jr.",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Rick Downey",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Virginia Kearns",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Bobbi Baird",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Mitchell Lookabaugh",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Deborah Slate",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Alexander Garcia",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Haggi Floeser",
+        "department": "Visual Effects",
+        "job": "CG Animator"
+      },
+      {
+        "name": "Carolin Quis",
+        "department": "Crew",
+        "job": "CGI Supervisor"
+      },
+      {
+        "name": "Christian Middelberg",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Henning Raedlein",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Kim Clever",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Melissa Bargar",
+        "department": "Production",
+        "job": "Production Secretary"
+      }
+    ]
+  },
+  "keywords": [
+    "artificial intelligence (a.i.)",
+    "based on novel or book",
+    "computer program",
+    "virtual reality",
+    "dystopia",
+    "simulation",
+    "surrealism",
+    "remake",
+    "los angeles, california",
+    "parallel world",
+    "alternate reality",
+    "existentialism",
+    "mind transfer",
+    "neo-noir",
+    "1990s",
+    "1930s"
+  ],
+  "mpaa": "R",
+  "summaries": [
+    "A computer scientist running a virtual reality simulation of 1937 becomes the primary suspect when his colleague and mentor is murdered.",
+    "Computer scientist Hannon Fuller has discovered something extremely important. He's about to tell the discovery to his colleague, Douglas Hall, but knowing someone is after him, the old man leaves a letter in the computer generated parallel world his company has created (which looks like the 30's with seemingly real people with real emotions). Fuller is murdered in our real world the same night, and his colleague is suspected. Douglas discovers a bloody shirt in his bathroom and he cannot recall what he was doing the night Fuller was murdered. He logs into the system in order to find the letter, but has to confront the unexpected. The truth is harsher than he could ever imagine...—Danny Rosenbluth"
+  ],
+  "synopsis": "In late 1990's Los Angeles, Hannon Fuller (Armin Mueller-Stahl) is the owner of a multi-billion dollar computer enterprise and the inventor of a newly completed virtual reality simulation (VR) of 1937 Los Angeles. When Fuller is murdered just as he begins premature testing of the system, his friend and protégé Douglas Hall (Craig Bierko) finds himself the primary suspect, and begins to doubt his own innocence.Between questioning by LAPD Detective Larry McBain (Dennis Haysbert), Hall meets Jane Fuller (Gretchen Mol), who he is surprised to learn is Fuller's estranged daughter. Hall develops a romance with Jane, who we soon find out is attempting to shut down the new VR system. When a local bartender who witnessed a meeting between Hall and Fuller on the night of the murder is himself found murdered, Hall is imprisoned. He is soon released though, after Jane provides him with an alibi.Seeking answers, Hall attempts to track down a message left by Fuller inside the simulation. Within the system, Hall learns that Jerry Ashton, a bartender (Vincent D'Onofrio) has stumbled upon the truth about his artificial nature by reading the message intended for Hall. Frightened and angry, Ashton attempts to kill Hall, who barely escapes the system in time.Now unable to find Jane, Hall discovers her double, Natasha Molinaro (also Gretchen Mol), working as a grocery store clerk but Molinaro seems not to recognize Hall. This leads Hall to perform an experiment outside the VR system, something that Fuller had instructed him to try in his letter: He tried to drive to a place where he never would have considered going otherwise. When he arrived, he saw that the area and everything within it didn't exist, and was instead replaced by wire frame models.Finally understanding the meaning of Fuller's message, Hall realizes the truth that his own world of 1990's Los Angeles is itself a fabricated simulation.Several revelations follow: Hall's virtual world is one of thousands, but is also the only one that developed a virtual world of their own. Jane actually lives in the \"real world\", and only participated in the 1990s simulation in order to assume the identity of Fuller's daughter, gain control of the company, and shutdown the simulated 1937 reality. Hall himself is modeled after Jane's real-world husband David, who has begun to seek pleasure by murdering people in the 1990s simulation. It was David who had performed the murders, while controlling Hall's body, because he had become jealous when his wife Jane fell in love with Hall within the simulation.Whitney (also Vincent D'Onofrio), Hall's associate, enters the simulated 1937 and assumes the role of Ashton, who has kidnapped Ferguson and bound him in the trunk of his vehicle. When Whitney is killed in an automobile accident, Ashton's consciousness is released into Whitney's body (in the 1990's). Ashton kills a security guard, David (Bierko yet again) assumes control of Hall, kills Ashton, and attempts to rape and murder Jane. She is saved by Detective McBain, who shoots and kills David.The death causes Hall's consciousness to be released into David's body, and he wakes to find himself in 2024, connected to a VR system. He disconnects the system and finds Jane and her father, who looks very much like the man he was accused of killing in his original reality, Hannon Fuller."
+}

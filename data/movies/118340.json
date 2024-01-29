@@ -1,0 +1,1683 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/i34ijHY5hr52uYcKZ48wq7K6yUs.jpg",
+  "id": 118340,
+  "title": "Guardians of the Galaxy",
+  "poster_path": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+  "release_date": "2014-07-30",
+  "vote_average": 7.9,
+  "vote_count": 27069,
+  "popularity": 41.581,
+  "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+  "imdb_id": "tt2015381",
+  "budget": 170000000,
+  "homepage": "http://marvel.com/guardians",
+  "revenue": 772776600,
+  "runtime": 121,
+  "tagline": "All heroes start somewhere.",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "production_companies": [
+    "Marvel Studios"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Chris Pratt",
+        "character": "Peter Quill / Star-Lord"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "character": "Gamora"
+      },
+      {
+        "name": "Dave Bautista",
+        "character": "Drax the Destroyer"
+      },
+      {
+        "name": "Vin Diesel",
+        "character": "Groot (voice)"
+      },
+      {
+        "name": "Bradley Cooper",
+        "character": "Rocket (voice)"
+      },
+      {
+        "name": "Lee Pace",
+        "character": "Ronan the Accuser"
+      },
+      {
+        "name": "Michael Rooker",
+        "character": "Yondu Udonta"
+      },
+      {
+        "name": "Karen Gillan",
+        "character": "Nebula"
+      },
+      {
+        "name": "Djimon Hounsou",
+        "character": "Korath"
+      },
+      {
+        "name": "John C. Reilly",
+        "character": "Corpsman Dey"
+      },
+      {
+        "name": "Glenn Close",
+        "character": "Nova Prime"
+      },
+      {
+        "name": "Benicio del Toro",
+        "character": "Taneleer Tivan / The Collector"
+      },
+      {
+        "name": "Laura Haddock",
+        "character": "Meredith Quill"
+      },
+      {
+        "name": "Sean Gunn",
+        "character": "Kraglin / On Set Rocket"
+      },
+      {
+        "name": "Peter Serafinowicz",
+        "character": "Denarian Saal"
+      },
+      {
+        "name": "Christopher Fairbank",
+        "character": "The Broker"
+      },
+      {
+        "name": "Krystian Godlewski",
+        "character": "On Set Groot"
+      },
+      {
+        "name": "Wyatt Oleff",
+        "character": "Young Quill"
+      },
+      {
+        "name": "Gregg Henry",
+        "character": "Grandpa"
+      },
+      {
+        "name": "Janis Ahern",
+        "character": "Meredith's Mother"
+      },
+      {
+        "name": "Solomon Mousley",
+        "character": "Meredith's Brother"
+      },
+      {
+        "name": "Lindsay Morton",
+        "character": "Meredith's Best Friend"
+      },
+      {
+        "name": "Robert Firth",
+        "character": "Dr. Fitzgibbon"
+      },
+      {
+        "name": "Melia Kreiling",
+        "character": "Bereet"
+      },
+      {
+        "name": "Tom Proctor",
+        "character": "Horuz"
+      },
+      {
+        "name": "Nick Holmes",
+        "character": "Horuz' Mate"
+      },
+      {
+        "name": "Max Wrottesley",
+        "character": "Sacrificed Nova Corpsman"
+      },
+      {
+        "name": "Stan Lee",
+        "character": "Xandarian Ladies' Man"
+      },
+      {
+        "name": "Nicole Alexandra Shipley",
+        "character": "Pretty Xandarian"
+      },
+      {
+        "name": "Sharif Atkins",
+        "character": "Nova Arresting Pilot"
+      },
+      {
+        "name": "Brendan Fehr",
+        "character": "Corpsman Dey's Partner"
+      },
+      {
+        "name": "Tomas Arana",
+        "character": "Kree Ambassador"
+      },
+      {
+        "name": "Mikaela Hoover",
+        "character": "Nova Prime's Assistant"
+      },
+      {
+        "name": "Emmett Scanlan",
+        "character": "Head Riot Guard"
+      },
+      {
+        "name": "Dominic Grant",
+        "character": "Angry Guard"
+      },
+      {
+        "name": "Spencer Wilding",
+        "character": "Mean Guard"
+      },
+      {
+        "name": "Alison Lintott",
+        "character": "Sad Woman with Horns"
+      },
+      {
+        "name": "Alexis Rodney",
+        "character": "Moloka Dar"
+      },
+      {
+        "name": "Nathan Fillion",
+        "character": "Monstrous Inmate"
+      },
+      {
+        "name": "Keeley Forsyth",
+        "character": "Mottled Prisoner"
+      },
+      {
+        "name": "Frank Gilhooley",
+        "character": "Burly Prisoner"
+      },
+      {
+        "name": "Alexis Denisof",
+        "character": "The Other"
+      },
+      {
+        "name": "Enzo Cilenti",
+        "character": "Watchtower Guard"
+      },
+      {
+        "name": "Richard Katz",
+        "character": "One Legged Prisoner"
+      },
+      {
+        "name": "Ene Frost",
+        "character": "Rifle Guard"
+      },
+      {
+        "name": "Ronan Summers",
+        "character": "\"Drop the Leg\" Guard"
+      },
+      {
+        "name": "Ophelia Lovibond",
+        "character": "Carina"
+      },
+      {
+        "name": "Laura Ortiz",
+        "character": "Tortured Pink Girl"
+      },
+      {
+        "name": "Marama Corlett",
+        "character": "Pit Boss"
+      },
+      {
+        "name": "Rosie Jones",
+        "character": "Lady of the Boot of Jemiah"
+      },
+      {
+        "name": "Abidemi Sobande",
+        "character": "Lady of the Boot of Jemiah"
+      },
+      {
+        "name": "Alex Rose",
+        "character": "Lady of the Boot of Jemiah"
+      },
+      {
+        "name": "Ekaterina Zalitko",
+        "character": "Lady of the Boot of Jemiah"
+      },
+      {
+        "name": "Emily Redding",
+        "character": "Lady of the Boot of Jemiah"
+      },
+      {
+        "name": "Stephen Blackehart",
+        "character": "Knowhere Dispatcher"
+      },
+      {
+        "name": "Jennifer Moylan-Taylor",
+        "character": "Sad Krylorian Girl"
+      },
+      {
+        "name": "Bruce Mackinnon",
+        "character": "One-Eyed Ravager"
+      },
+      {
+        "name": "Ralph Ineson",
+        "character": "Ravager Pilot"
+      },
+      {
+        "name": "Rob Zombie",
+        "character": "Ravager Navigator (voice)"
+      },
+      {
+        "name": "Naomi Ryan",
+        "character": "Nova Centurion"
+      },
+      {
+        "name": "John Brotherton",
+        "character": "Nova Starblaster Pilot"
+      },
+      {
+        "name": "Graham Shiels",
+        "character": "Alien Nova Pilot"
+      },
+      {
+        "name": "James Gunn",
+        "character": "Maskless Sakaaran"
+      },
+      {
+        "name": "Douglas Robson",
+        "character": "Maskless Sakaaran"
+      },
+      {
+        "name": "Rachel Cullen",
+        "character": "Corpsman Dey's Wife"
+      },
+      {
+        "name": "Isabella Poynton",
+        "character": "Corpsman Dey's Daughter"
+      },
+      {
+        "name": "Imogen Poynton",
+        "character": "Corpsman Dey's Daughter"
+      },
+      {
+        "name": "David Yarovesky",
+        "character": "Goth Ravager"
+      },
+      {
+        "name": "Miriam Lucia",
+        "character": "Crying Xandarian Citizen"
+      },
+      {
+        "name": "Josh Brolin",
+        "character": "Thanos (uncredited)"
+      },
+      {
+        "name": "Lloyd Kaufman",
+        "character": "Prisoner (uncredited)"
+      },
+      {
+        "name": "Tyler Bates",
+        "character": "Ravager Pilot (uncredited)"
+      },
+      {
+        "name": "Seth Green",
+        "character": "Howard the Duck (voice) (uncredited)"
+      },
+      {
+        "name": "Jozef Aoki",
+        "character": "Kyln Prisoner (uncredited)"
+      },
+      {
+        "name": "Erica Melargo",
+        "character": "Xandar Resident (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Craig Wood",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Christopher Boyes",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Christopher Boyes",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Christopher Boyes",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Kim McGarrity",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "name": "Sarah Halley Finn",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Elizabeth Yianni-Georgiou",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "name": "Elizabeth Yianni-Georgiou",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "name": "Kyrsten Mate",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Stan Lee",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Stan Lee",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Kevin Feige",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Doc Kane",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Dennie Thorpe",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Jana Vance",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Dee Selby",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Richard Roberts",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Alexandra Byrne",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "James Gunn",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "James Gunn",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Tyler Bates",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Darrell Hall",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Peter MacDonald",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Hughes Winborne",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Ben Davis",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Jack Kirby",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Don Heck",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Dave Jordan",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Paul Corbould",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Charles Wood",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Kathleen Chopin",
+        "department": "Production",
+        "job": "Casting Consultant"
+      },
+      {
+        "name": "William B. Kaplan",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Alison Mitchell",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Louis D'Esposito",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Fred Raskin",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Alan Fine",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Victoria Alonso",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jeremy Latcham",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Casey O'Neill",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Matthew Wood",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Matthew Wood",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Jeanette Browning",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Steve Gerber",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Monique Ganderton",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Tony Sereno",
+        "department": "Sound",
+        "job": "Sound Re-Recording Assistant"
+      },
+      {
+        "name": "Paul Howell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marv Wolfman",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Dan Abnett",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "name": "Zack Duhame",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Barbara Harris",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Arnold Drake",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Tara Macken",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Mike Stallion",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Reg Poerscout-Edgerton",
+        "department": "Production",
+        "job": "Local Casting"
+      },
+      {
+        "name": "David Krentz",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Tamara Hunter",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Ray Chan",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Caitlin Dechelle",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gene Colan",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "John Buscema",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jonathan Schwartz",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Nicole Perlman",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Matt Leonard",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rashid Phoenix",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Reid Harper",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bryan Andrews",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Keith Giffen",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "David Hugghins",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Acord",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "David Acord",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Sal Buscema",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Clay Donahue Fontenot",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kofi Yiadom",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Hector Padilla",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Dan Grace",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Thomas Brown",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jordan Crockett",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Mark Swain",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Stephane Ceretti",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Nicolas Aithadi",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Jonathan Fawkner",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Simon Hayes",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Lora Hirschberg",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Peter James",
+        "department": "Art",
+        "job": "Standby Art Director"
+      },
+      {
+        "name": "Phil Sims",
+        "department": "Crew",
+        "job": "Visual Effects Art Director"
+      },
+      {
+        "name": "Barry Gibbs",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Jennifer Bowes",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Paula Casarin",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Thomas Robinson Harper",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Andy Lanning",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "name": "Richard Sale",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Steve Englehart",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Stephen Swain",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Cheryl Nardi",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Cheryl Nardi",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Jay Maidment",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Jim Barr",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Peter Dorme",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Oliver Goodier",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Brad Semenoff",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Brad Semenoff",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "David Chrastka",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Susan Pickett",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Christoph Roth",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Peter G. Travers",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Steve Dent",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Rowley Irlam",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Will Kaplan",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Peter Devlin",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Mitul Patel",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "name": "Dan Blacklock",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Amanda Cox",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Stephanie Paul",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Julian Morson",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Sam Renton",
+        "department": "Camera",
+        "job": "\"C\" Camera Operator"
+      },
+      {
+        "name": "Gary Spratling",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Steve Hart",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Jennifer Bergman",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "John Breinholt",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "James Wright",
+        "department": "Sound",
+        "job": "Dolby Consultant"
+      },
+      {
+        "name": "Gui DaSilva-Greene",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Durkee",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "name": "Douglas Robson",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Stacy Mann",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "name": "Emma McCleave",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Nicholas Roche-Gordon",
+        "department": "Costume & Make-Up",
+        "job": "Key Set Costumer"
+      },
+      {
+        "name": "Debbi Salmon",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Warren Evans",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Luke Dunn Gielmuda",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "David Smith",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Val Mayerik",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Hermione Ninnim",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Derek Burgess",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "name": "Emma Harding",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Dani Biernat",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jonathan Taylor",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "Jonathan Taylor",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Helen Steinway Bailey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jerad Marantz",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Jessica Brooks",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Corbin Mehl",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "name": "Stephen Urata",
+        "department": "Sound",
+        "job": "Sound Re-Recording Assistant"
+      },
+      {
+        "name": "Nico Woulard",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Manning",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Chris Manning",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Tim Williams",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Tim Williams",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Chris Tonick",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Daniel Stevens",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jamie Christopher",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Jamie Christopher",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Sharon Long",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "David J. Grant",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Nicky Knowles",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Jason B. Stamey",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "name": "Jane O'Kane",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Andrew Simonin",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      },
+      {
+        "name": "Jonathan Borland",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "Vera Steimberg",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Charlie Hounslow",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Maurice Lee",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dylan Quirt",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Meagan Costello",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Oliver Carroll",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Nik Korda",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Nik Korda",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Simon Morgan",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Danielle Dupre",
+        "department": "Sound",
+        "job": "Sound Re-Recording Assistant"
+      },
+      {
+        "name": "Rory Mulroe",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David White",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "name": "Tim Divar",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Jeff Gersh",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Terry Archer",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Jim Starlin",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Perry Goyen",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Holland Diaz",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "John Bohan",
+        "department": "Art",
+        "job": "Construction Manager"
+      },
+      {
+        "name": "Danny Euston",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nelly Guimaras",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Andy Park",
+        "department": "Art",
+        "job": "Conceptual Illustrator"
+      },
+      {
+        "name": "Catriona Johnstone",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Bill Mantlo",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Darrell Warner",
+        "department": "Costume & Make-Up",
+        "job": "Costume Illustrator"
+      },
+      {
+        "name": "Kate Chadderton",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Jesse Torres",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "name": "Lucy Eyre",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Mens-Sana Tamakloe",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Roger Stern",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Brandon Melendy",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lucy Donowho",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Rob de Groot",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Alicia Davies",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Sian Milne",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Thomas A. Nelson",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Kevin Sellers",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Elizabeth Small",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Leo Woodruff",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Valentina Visintin",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Todd Felderstein",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Tracy Low",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Darryl Paterson",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Diarmuid Coghlan",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Jan Petřina",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jason Solberg",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "name": "Peter Gray",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Willis Chung",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Shawn Robinson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Warren Holder",
+        "department": "Costume & Make-Up",
+        "job": "Costume Illustrator"
+      },
+      {
+        "name": "John Ferguson",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Victoria Bancroft",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Susie Redfern",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Susie Redfern",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "name": "Matthew Sharp",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Leigh Gold",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Elliot Purvis",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "Max Glickman",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Tom Gough",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Heather Mullen",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Nolan Reese",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "name": "Esther Bailey",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "name": "Zoë Bower",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "name": "Arely Talamante",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "name": "Ryan Newberry",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "name": "Michela Marini",
+        "department": "Production",
+        "job": "Key Set Production Assistant"
+      },
+      {
+        "name": "Brittany Smith",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Arthur Shepherd",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Lebo \"Boo\" Motjuoadi",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Gemma Todd",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Jackie Gilbey",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "name": "John Fleming",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Paul Harvey",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "name": "Claire Burgess",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Helena Card",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Trainee"
+      },
+      {
+        "name": "Carol Waugh",
+        "department": "Costume & Make-Up",
+        "job": "Wigmaker"
+      },
+      {
+        "name": "Claire Shakespeare",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Jessica Goodall",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Daisy Meyer",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "Daniel Andrews",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Guy Mount",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "name": "Alan Payne",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Neil Floyd",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Jeremy Emerman",
+        "department": "Camera",
+        "job": "Epk Camera Operator"
+      },
+      {
+        "name": "Dieter Hartmann",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "name": "Drew Krassowski",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Margaret Gardner",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "name": "Chloé Bruce",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Annabel Wood",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Oliver Gough",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Rick James",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "name": "David R. Grant",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Dominic Preece",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Robert Hladik",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Chris Brewster",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Weston Middleton",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Maciej Kuciara",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "name": "Ben Wright",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Maria Dent",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steve Gan",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Mike Friedrich",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jane Wu",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Timothy Green II",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Marko Djurdjevic",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Paul Pelletier",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Sam Dent",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ryan Dent",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lisa Wong",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      }
+    ]
+  },
+  "keywords": [
+    "spacecraft",
+    "based on comic",
+    "space",
+    "orphan",
+    "adventurer",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "marvel cinematic universe (mcu)"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+    "After stealing a mysterious orb in the far reaches of outer space, Peter Quill from Earth is now the main target of a manhunt led by the villain known as Ronan the Accuser. To help fight Ronan and his team and save the galaxy from his power, Quill creates a team of space heroes known as the \"Guardians of the Galaxy\" to save the galaxy.—James Hake",
+    "After discovering a mysterious orb in another part of the galaxy, Peter Quill from Earth, is now the main target of a manhunt led by the genocidal villain Ronan the Accuser. Being hunted across the galaxy, Quill gets lumped together with a group of misfits that need to learn how to get along before they can become the \"Guardians of the Galaxy\".—ahmetkozan",
+    "Kidnapped by aliens when he was young, Peter Quill now travels the galaxy salvaging anything of value for resale. When he comes across a silver orb however, he gets more than he's bargained for. The orb is highly desired many but by none so powerful as Ronan. When Ronan finally acquires it, it's left to Peter and his newfound friends Gamora, Drax, Groot and Rocket to stop him.—garykmcd",
+    "Scarred for life after surviving a life-altering close encounter of the fourth kind, Peter Quill, aka Star-Lord, now leads a dangerous life as an intergalactic outlaw. And bent on striking it rich, Quill steals the Orb: an alien stone of immense power. But first, Peter will have to sell it. As a result, the notorious scavenger forms an uneasy alliance with a team of misfits: Gamora, Thanos' adopted daughter; former criminal Drax the Destroyer; the genetically enhanced Rocket Raccoon; and Groot, a plant-like organism. However, thwarting the evil plans of Ronan the Accuser, an unstoppable Kree warlord and space terrorist, is easier said than done. Are the mismatched Guardians of the Galaxy the last hope of the universe?—Nick Riganas"
+  ],
+  "synopsis": "Earth, 1988:Young Peter Quill (Wyatt Oleff) sits in the waiting room of a hospital, listening with headphones to \"Awesome Mix Tape no. 1\" on his Walkman. His grandpa (Gregg Henry) comes out and gets him so he can say goodbye to his mom, who is dying from a brain tumor. His mom gives him a present and tells him his father was an angel, and that Peter is just like him. She asks for his hand, but he's too scared to take it. Just then, she dies. The distraught Peter runs outside and is abducted by a spaceship.\nMorag, 2014:On the planet Morag, an adult Peter Quill, a.k.a. Star-lord (Chris Pratt), is searching for a mysterious Orb whilst listening to Awesome Mix Tape no. 1. He finds the Orb and takes it out of a laser enclosure. Almost immediately, he is ambushed by Korath the Pursuer (Djimon Hounsou) and his henchmen. After a shootout, Peter makes it to his ship, the Milano, and escapes.His father figure, Yondu Udonta, (Michael Rooker) who heads the Ravager platoon that raised Peter, calls and tells Peter to give him the Orb. Peter decides he's going to sell it on his own. After Peter hangs up, Yondu's men reprimand him for always being soft on Peter despite his constant betrayals, which Yondu brushes off, being more interested in finding out who else is interested in the Orb.Korath returns to the Dark Aster, a Kree warship led by a genocidal tyrant, Ronan the Accuser (Lee Pace), who seeks to destroy the planet of Xandar after their people killed his father and grandfather. Korath reports that he failed in getting the Orb and that it's in the hands of Peter. Ronan wants the Orb because he can trade it to Thanos in exchange for Thanos destroying Xandar. Ronan decides to send Thanos' daughter Nebula (Karen Gillan) after Peter, but her sister Gamora (Zoe Saldana) volunteers. Over Nebula's complaints, Ronan sends Gamora.On the planet Xandar, Peter takes the Orb to a broker (Christopher Fairbank) and asks what it is, because Ronan's goons are after it too. On hearing Ronan's name, the broker immediately backs out, not wanting anything to do with the orb, and removes Peter from the shop. Outside, Gamora jumps Peter and tries to retrieve the Orb herself. As they fight, they are ambushed by Rocket Raccoon (Bradley Cooper) and Groot ( Vin Diesel), seeking to claim a bounty on Peter. (Stan Lee has a cameo appearance as an old man on Xandar, chatting up a young lady. Rocket calls him a pervert.). Its not too long before Peter, Gamora, Rocket, and Groot are arrested by the Nova Corps, and after processing, are sent to a space prison called the Kyln.Pretty much everyone in prison wants to kill Gamora because she's the daughter of Thanos. One of the inmates, Drax the Destroyer (Dave Bautista), has a vendetta against her because Ronan killed his wife and daughter, so he wants to avenge them by taking the life of one of Ronan's family members in return. Gamora explains that she's not related to Ronan and she was planning on double crossing him. Peter argues in Gamora's favor.Meanwhile, Ronan is summoned to meet Thanos at his at his domain in an asteroid field. Ronan reports to Thanos (Josh Brolin) that Gamora is a traitor, and kills one of Thanos's underlings for showing disrespect to him. Thanos tells him to take care of her and get the Orb, threatening to kill him if he doesn't. He also notes that Gamora is his favorite daughter, which angers Nebula.Back a the Kyln, Gamora has a plan to sell the Orb to someone else. Peter, Rocket, and Groot agree to help and split the reward. Rocket has a plan to escape the prison. He needs one of the guard's wrist devices, a prisoner's prosthetic leg and a battery from a tall column in the prison. As he explains that it's very important to take the battery last, Groot grabs it first. The alarms go off and security droids fly in. Gamora goes to get a wrist device as Peter negotiates for the prisoner's leg. Drax decides to join in the escape, realizing that eventually Ronan will go after Gamora and then he can kill Ronan himself.Everyone gets the item they agreed to get, and they all make it to a guard station near the top of the prison. Rocket is surprised that Peter actually got the leg and says that he (Rocket) was only kidding, and he didn't really need it. Just as it seems that they have run out of time, Rocket rigs up the stuff to turn off the gravity in the prison and to use the security droids as jets to fly the guard station out of the prison. They escape, but Peter leaves the others, telling Rocket that he left something behind. It turns out that he is retrieving his Walkman with the Awesome Mix Tape from one of the guards.Yondu goes to his broker and finds out Peter still has the Orb. Threatening the broker with his arrow, he gets the man to reveal where Peter might have traveled.Everyone on Peter's ship gets to know one another better. They don't like each other at all. Soon they arrive at Knowhere (a space station built in the severed head of a Celestial) to meet with the Collector. While they wait for their appointment, Drax, Rocket, and Groot get drunk and gamble. Gamora and Peter bond over music. He explains that his mom made him the mix tape of her favorite songs. She listens and likes it. He asks her to dance, but she doesn't trust him. He says it reminds him of an old fable about other people who didn't dance, called Footloose. He makes a pass at her, but she says she's not one of the doe-eyed girls he's used to and she won't fall for his pelvic sorcery.Before they can meet with the Collector, Drax, Rocket, and Groot (all drunk) get into a big fight. Drax thinks Groot is dumb and Rocket is tired of people calling him a rodent. Peter talks them out of fighting. The Collector's assistant fetches them and they all go to meet him. Drax goes off on his own and makes a call to Ronan.The Collector (Benicio Del Toro) has a giant assortment of collectibles from all over the galaxy, including Howard the Duck and Cosmo the Soviet space dog. The Collector puts the orb into a kind of lathe, which unscrews the two halves of the Orb to reveal that it's a capsule for an Infinity Stone. The Collector explains that the Infinity Stones are six singularities created during the Big Bang. There are more of them and they can destroy planets. The Collector's assistant suddenly grabs the stone, trying to kill him. The Infinity Stone is poisoning her, and then she and everything in the area blow up. Most of the people survive, along with Cosmo. Peter and the others manage to escape with the Orb holding the Infinity Stone. They decide the safest place to take the stone is Nova Headquarters. It's too dangerous to be anywhere else.Suddenly the group is ambushed by Ronan and his crew, responding to Drax's call. Yondu's Ravager platoon also shows up, having tracked Peter down from the broker. Gamora, Rocket and Quill take off in single passenger ships while Nebula and some of Ronan's goons chase after them. Drax tries to fight Ronan, but gets beaten up badly.Nebula chases Gamora's ship above the atmosphere and blows it up. Nebula gets the Infinity Stone and leaves Gamora floating in space to die. Peter realizes that he can't allow Gamora to die, so he calls Yondu to tell him where he is, then exits his ship, and floats to Gamora, where he gives her his gas mask to keep her alive.Yondu arrives and collects Peter and Gamora with a tractor beam right before they can freeze to death. This is where we see that Yondu's ship is the same ship that abducted Peter as a child.Meanwhile, onboard the Dark Aster, Ronan tells Thanos that now that he (Ronan) has the Infinity Stone, he can cut Thanos out of the deal. Instead, he will destroy Xandar himself and then go after Thanos. He puts the Infinity Stone into his hammer.Back on Yondu's ship, Yondu is going to kill Peter for double-crossing him, but he reconsiders when Peter says that he has a plan to get the Orb back. Meanwhile on Knowhere, Drax, Groot, and Rocket decide to join forces and save Peter and Gamora from Yondu. They fly the Milano to Yondu's ship and threaten to blow it up with a special weapon Rocket built unless Yondu releases Peter and Gamora. Peter emerges from the crowd aboard Yondu's ship, and persuades Rocket that he doesn't need to be rescued.Now on board the Milano, Peter explains that they must prevent Ronan from touching the Infinity Stone to the ground of Xandar, which will wipe out the planet, and that he has a plan to stop Ronan. The others ask Peter if he really has a plan, or if he was lying. He says he has part of a plan. After much discussion, he says that he has 12% of a plan. Everyone scoffs, except Groot who says (translated by Rocket) that this is more than 11% of a plan. Rocket says that they will most likely die if they try to stop Ronan. Peter points out that they've already lost so much, that at this point they have nothing to lose. Slowly, each of them stands up and announces that he will join the fight against Ronan.Peter warns the Nova Corps that Ronan is coming to destroy them and they should get ready, telling them that they should believe his message, because he's not 100% a dick.Rocket's idea is to blow a hole in Ronan's ship so Peter, Groot, Drax and Gamora can board it. Gamora is going to cut the power for Ronan's security and then they're going to blow him up with a cannon that Rocket made.They start the plan. Rocket blows a hole in the Dark Aster and then helps Yondu and his men defend Xandar against Ronan's fighter ships. Yondu is shot down. On the ground, told to surrender, he instead uses his arrow to take out an entire platoon of goons.On the Dark Aster, Gamora and Nebula get into a big fight, while Drax, Peter and Groot go to the bridge of the ship.Dozens of Nova ships link together to form a giant net and slow the descent of the Dark Aster. Gamora finally beats Nebula, who falls, landing on a Ravager ship and commandeers it, throwing the Pilot of the ship out the window and flying away. Ronan orders his ships to kamikaze into Xandar. Rocket and Yondu's men shoot as many of the ships down as they can.Almost to the bridge, Drax kills Korath. Groot grows a long thin branch and thrashes a large number of Ronan's men. Eventually, everyone makes it to the bridge to fight Ronan. Again, he's too strong for them, but Peter manages to shoot Ronan with Rocket's super cannon, to no avail. Rocket crashes the Milano into the bridge and seems to have destroyed Ronan. The entire ship is plummeting towards Xandar, so Groot forms a giant nest around all of them for safety. Rocket is upset because he knows that what Groot is doing will end up killing him. Groot, who up to this point has only said \"I Am Groot,\" responds with \"We are Groot.\"The ship crashes. Everyone except Groot is okay. Groot is a pile of twigs strewn all about. The battle is not over though, because Ronan is still alive and well. He sarcastically calls Peter and his crew the Guardians of the Galaxy. As he raises his hammer for a final blow, Quill stands up and starts to dance to the song \"Ooh-ooh Child,\" and challenges Ronan to a dance-off. Ronan is confused, until Peter reveals it was all one big distraction, as Drax and Rocket shoot Ronan's hammer at Ronan, releasing the Infinity Stone. Peter grabs the stone before Ronan can. Peter starts to be affected in the same way as the Collector's assistant. Holding the stone is going to kill him, but Gamora tells him to take her hand. He flashes back to when he didn't have the courage to take his mom's hand, and he now grabs Gamora's. Drax and Rocket hold hands with the others, and the power from the Infinity Stone is spread among the four of them, causing a burst of energy that vaporizes Ronan. Rocket collects one of the sticks that was once Groot.Yondu appears and demands the Stone as per his original deal with Peter. Peter hands him the Orb. As Yondu and his men take off, one of them notes that he likes Peter and he's glad they didn't take him back to his dad like they were supposed to all those years ago.Gamora is upset that Peter gave up the stone. Peter reveals that he switched the Orbs, and he still has the one with the stone.At Nova HQ, they turn over the Orb that contains the Infinity Stone and Peter learns he's only half human and half something ancient and unknown. They speculate that his nonhuman genes allowed him to hold the Infinity Stone without dying.There is a party on Yondu's ship. His crew is celebrating but Yondu looks suspiciously at the Orb and then decides to open it. In it is a troll doll. He smiles.Peter finally opens the present his mom gave him before she died. It's a cassette labeled \"Awesome Mix Tape no. 2.\" He asks the Guardians where they want to go. Gamora says, \"You lead, Star-lord.\" He asks if they want something good or something bad. He then decides they should do something that is both. Rocket holds a pot in which he has stuck the stick that he retrieved after Groot's sacrifice. We can see the face of a tiny Groot on the stick.End CreditsDuring the credits, the baby Groot (slightly larger than in the previous scene) dances in his pot to Quill's 1980s music, with Drax in the background. The baby Groot stops when Drax looks at him, but he starts again when Drax looks away.After the credits: The Collector is sitting on the wreckage, drinking, when Cosmo the Soviet space dog comes up and licks his face. We hear a voice that says that's gross. The camera turns to reveal Howard the Duck sitting on a broken cage, drinking as well."
+}

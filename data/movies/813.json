@@ -1,0 +1,858 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/qOS1GpVfRxSqHmtUglt8yisBc4v.jpg",
+  "id": 813,
+  "title": "Airplane!",
+  "poster_path": "https://image.tmdb.org/t/p/w500/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+  "release_date": "1980-07-02",
+  "vote_average": 7.291,
+  "vote_count": 4190,
+  "popularity": 38.95,
+  "overview": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+  "imdb_id": "tt0080339",
+  "budget": 3500000,
+  "homepage": "",
+  "revenue": 83453539,
+  "runtime": 88,
+  "tagline": "What's slower than a speeding bullet, and able to hit tall buildings at a single bound?",
+  "genres": [
+    "Comedy"
+  ],
+  "production_companies": [
+    "Paramount",
+    "Howard W. Koch Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Robert Hays",
+        "character": "Ted Striker"
+      },
+      {
+        "name": "Julie Hagerty",
+        "character": "Elaine Dickinson"
+      },
+      {
+        "name": "Leslie Nielsen",
+        "character": "Dr. Rumack"
+      },
+      {
+        "name": "Kareem Abdul-Jabbar",
+        "character": "Roger Murdock"
+      },
+      {
+        "name": "Lloyd Bridges",
+        "character": "Steve McCroskey"
+      },
+      {
+        "name": "Peter Graves",
+        "character": "Captain Clarence Oveur"
+      },
+      {
+        "name": "Lorna Patterson",
+        "character": "Randy"
+      },
+      {
+        "name": "Robert Stack",
+        "character": "Captain Rex Kramer"
+      },
+      {
+        "name": "Jim Abrahams",
+        "character": "Religious Zealot #6"
+      },
+      {
+        "name": "Jonathan Banks",
+        "character": "Gunderson"
+      },
+      {
+        "name": "Stephen Stucker",
+        "character": "Johnny Henshaw-Jacobs"
+      },
+      {
+        "name": "Frank Ashmore",
+        "character": "Victor Basta"
+      },
+      {
+        "name": "Craig Berenson",
+        "character": "Paul Carey"
+      },
+      {
+        "name": "Barbara Billingsley",
+        "character": "Jive Lady"
+      },
+      {
+        "name": "Lee Bryant",
+        "character": "Mrs. Hammen"
+      },
+      {
+        "name": "Joyce Bulifant",
+        "character": "Mrs. Davis"
+      },
+      {
+        "name": "Mae E. Campbell",
+        "character": "Security Lady"
+      },
+      {
+        "name": "Ethel Merman",
+        "character": "Lieutenant Hurwitz"
+      },
+      {
+        "name": "Jimmie Walker",
+        "character": "Windshield Wiper Man"
+      },
+      {
+        "name": "Jill Whelan",
+        "character": "Lisa Davis"
+      },
+      {
+        "name": "Nora Meerbaum",
+        "character": "Cocaine Lady"
+      },
+      {
+        "name": "Kenneth Tobey",
+        "character": "Air Controller Neubauer"
+      },
+      {
+        "name": "James Hong",
+        "character": "Japanese General"
+      },
+      {
+        "name": "Michelle Stacy",
+        "character": "Young Girl with Coffee"
+      },
+      {
+        "name": "David Leisure",
+        "character": "First Krishna"
+      },
+      {
+        "name": "Ann Nelson",
+        "character": "Hanging Lady"
+      },
+      {
+        "name": "Al White",
+        "character": "Second Jive Dude"
+      },
+      {
+        "name": "Nicholas Pryor",
+        "character": "Mr. Hammen"
+      },
+      {
+        "name": "Cyril O'Reilly",
+        "character": "Soldier"
+      },
+      {
+        "name": "Ted Chapman",
+        "character": "Airport Steward"
+      },
+      {
+        "name": "Jesse Emmett",
+        "character": "Man from India"
+      },
+      {
+        "name": "Norman Alexander Gibbs",
+        "character": "First Jive Dude"
+      },
+      {
+        "name": "Amy Gibson",
+        "character": "Soldier's Girl"
+      },
+      {
+        "name": "Marcy Goldman",
+        "character": "Mrs. Geline"
+      },
+      {
+        "name": "Bob Gorman",
+        "character": "Striped Controller"
+      },
+      {
+        "name": "Rossie Harris",
+        "character": "Joey"
+      },
+      {
+        "name": "Maurice Hill",
+        "character": "Reporter #3"
+      },
+      {
+        "name": "David Hollander",
+        "character": "Young Boy with Coffee"
+      },
+      {
+        "name": "Howard Honig",
+        "character": "Jack"
+      },
+      {
+        "name": "Gregory Itzin",
+        "character": "Religious Zealot #1"
+      },
+      {
+        "name": "Howard Jarvis",
+        "character": "Man in Taxi"
+      },
+      {
+        "name": "Michael Laurence",
+        "character": "Newscaster"
+      },
+      {
+        "name": "Zachary Lewis",
+        "character": "Religious Zealot #3"
+      },
+      {
+        "name": "Barbara Mallory",
+        "character": "Religious Zealot #2"
+      },
+      {
+        "name": "Maureen McGovern",
+        "character": "Nun"
+      },
+      {
+        "name": "Mary Mercier",
+        "character": "Shirley"
+      },
+      {
+        "name": "Len Mooy",
+        "character": "Reporter #1"
+      },
+      {
+        "name": "Laura Nix",
+        "character": "Mrs. Hurwitz"
+      },
+      {
+        "name": "John O'Leary",
+        "character": "Reporter #2"
+      },
+      {
+        "name": "Bill Porter",
+        "character": "Hospital Contortionist"
+      },
+      {
+        "name": "Conrad E. Palmisano",
+        "character": "Religious Zealot #4"
+      },
+      {
+        "name": "Mallory Sandler",
+        "character": "L.A. Ticket Agent"
+      },
+      {
+        "name": "Robert Starr",
+        "character": "Religious Zealot #5"
+      },
+      {
+        "name": "Barbara Stuart",
+        "character": "Mrs. Kramer"
+      },
+      {
+        "name": "Lee Terri",
+        "character": "Mrs. Oveur"
+      },
+      {
+        "name": "William Tregoe",
+        "character": "Jack Kirkpatrick"
+      },
+      {
+        "name": "Hatsuo Uda",
+        "character": "Japanese Newscaster"
+      },
+      {
+        "name": "Herb Voland",
+        "character": "Air Controller Macias"
+      },
+      {
+        "name": "John David Wilder",
+        "character": "Second Krishna"
+      },
+      {
+        "name": "Windy",
+        "character": "Horse"
+      },
+      {
+        "name": "Jason Wingreen",
+        "character": "Dr. Brody"
+      },
+      {
+        "name": "Louise Yaffe",
+        "character": "Mrs. Jaffe"
+      },
+      {
+        "name": "Charlotte Zucker",
+        "character": "Make-up Lady"
+      },
+      {
+        "name": "David Zucker",
+        "character": "Ground Crewman #2"
+      },
+      {
+        "name": "Jerry Zucker",
+        "character": "Ground Crewman #1"
+      },
+      {
+        "name": "Kitten Natividad",
+        "character": "Bouncy Topless Woman on Plane (uncredited)"
+      },
+      {
+        "name": "Larry Blake",
+        "character": "Upside-Down Man (uncredited)"
+      },
+      {
+        "name": "Paula Moody",
+        "character": "Girl Scout In Bar (uncredited)"
+      },
+      {
+        "name": "Sandra Lee Gimpel",
+        "character": "Girl Scout In Bar (uncredited)"
+      },
+      {
+        "name": "Henry Wills",
+        "character": "Commuter on Baggage Carousel (uncredited)"
+      },
+      {
+        "name": "Joyce Mandel",
+        "character": "Woman on Flight (uncredited)"
+      },
+      {
+        "name": "Gene LeBell",
+        "character": "Religious Zealot (uncredited)"
+      },
+      {
+        "name": "Susan Breslau",
+        "character": "Ticket Agent (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Rosanna Norton",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Jerry Zucker",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Jerry Zucker",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jerry Zucker",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "John Frazier",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "name": "Elmer Bernstein",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Gretchen Rennell",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "name": "Jon Davison",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "James Troutman",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Arne Schmidt",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Joel Thurm",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Bruce Paul Barbour",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rick Seaman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jim Abrahams",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Jim Abrahams",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Jim Abrahams",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "David Zucker",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "David Zucker",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "David Zucker",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Joseph F. Biroc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Ward Preston",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Anne D. McCulley",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Edwin Butterworth",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Joan Phillips",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Maurice Vaccarino",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Mike Higelmire",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Mike Higelmire",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Clancy T. Troutman",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Jeff Carson",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Robert Blalack",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Conrad E. Palmisano",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Leigh Walsh",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Wallis Nicita",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "name": "Jamie Anderson",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Susan Arnold",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "name": "Kathy Durning",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Gene LeBell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Hunt Lowry",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Pat Proft",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Scott K. Wallace",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Dennis Jones",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Jeff Clark",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "David J. Hudson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Peter Kuran",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Rob Bottin",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Chuck Hayward",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Diane Peterson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Greg Walker",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Roger Creed",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Huey Redwine",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "name": "Dar Robinson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Paula Moody",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Patrick Kennedy",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "David Spear",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Debbie Evans",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jamie Shourt",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Frederic J. Smith",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Steven M. Levine",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "David E. Campbell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Victoria Snow",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "John T. Reitz",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "M. Todd Henry",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Sandra Lee Gimpel",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Leslie Hoffman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nancy Hansen",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Larry Gilhooly",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Jesse Wayne",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tom Overton",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Dan Perri",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "name": "Chris Casady",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Bob Stein",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Joseph E. Hubbard",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "David LeBell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Janet Brady",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nick Papanickolas",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Art Sarno",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "John Monte",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Kenneth D. Collins",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Russell Saunders",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William E. Fitch",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jeff Clark",
+        "department": "Art",
+        "job": "Sign Painter"
+      },
+      {
+        "name": "Mary Peters",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Wally Graham",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Nick Palmisano",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Aggie Lyon",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Paula Dell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tom Crowl",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Max W. Anderson",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Bill Hedge",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "C.D. Smith",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brink Brydon",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "Jerry Deats",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Bill Decker",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Norman Lang",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Edmond Wright",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Adam Culunga",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Tom Mahoney",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Sam Mattingly",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "J.L. Mitchell",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "name": "Dick Webb",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      }
+    ]
+  },
+  "keywords": [
+    "chicago, illinois",
+    "post-traumatic stress disorder (ptsd)",
+    "airplane",
+    "cataclysm",
+    "guitar",
+    "alcohol",
+    "stewardess",
+    "taxi driver",
+    "passenger",
+    "fear of flying",
+    "pilot",
+    "medicine",
+    "air controller",
+    "landing",
+    "saxophone",
+    "autopilot",
+    "parody",
+    "spoof",
+    "food poisoning",
+    "los angeles, california",
+    "alcohol abuse",
+    "aftercreditsstinger",
+    "inflatable life raft",
+    "anarchic comedy"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "After the crew becomes sick with food poisoning, a neurotic ex-fighter pilot must land a commercial airplane full of passengers safely.",
+    "Drowning his sorrows after that botched mission during World War II, the traumatized ex-fighter pilot with a neurotic fear of flying, Ted Striker, still has not got over his old flame and flight attendant, Elaine Dickinson. Determined to win her back, Ted boards a domestic flight from Los Angeles to Chicago, only to come face-to-face with a severe case of in-flight food poisoning that is threatening everyone's lives. Now, with most of the passengers and the entire cockpit crew down with the food-borne illness, Striker has no other choice but to confront his inner demons and take over the control of the ungovernable aircraft with the help of a gruff air-traffic controller and his former commander. Can Ted Striker land the airplane and save the passengers?—Nick Riganas",
+    "Ted Striker just got dumped by his long-time girlfriend Elaine Dickinson, who works as a stewardess at Trans American Airlines. In his wish to get her back, he follows her aboard the plane, although he has had a deep aversion against anything winged since he lost several men in the war. During flight, he tries to contact her again and again, but as the crew and many passengers get seriously ill due to a bad fish meal, he has no chance to get to her. In fact, Ted Striker seems to be the only healthy person aboard that has piloting experience. Now, it is up to him to get the bird down in Chicago safely, before the poisoning starts causing casualties. But Ted Striker's aversion really is a serious psychosis, which breaks open and needs to be cured - right now.—Julian Reischl <julianreischl@mac.com>"
+  ],
+  "synopsis": "Ex-fighter pilot Ted Striker (Robert Hays) is a traumatized war veteran turned taxi driver. Because of his neurotic fear of flying and his drinking problem - he splashes beverages anywhere but into his mouth - Ted has been unable to hold down a responsible job. His wartime girlfriend, Elaine Dickinson (Julie Hagerty), now a stewardess at Trans American Airlines, breaks off her relationship with him before her rostered flight from Los Angeles to Chicago. In order to regain her love, Ted overcomes his fear of flying, abandons his taxicab and buys a ticket on the same flight. However, once on board, Elaine continues to reject him, causing to drive several other passengers to suicide by accident as he reminisces with sorrow and regret.After the in-flight meal is served, many of the passengers fall sick, and Dr. Rumack (Leslie Nielsen) quickly discovers that the fish served during meal service gave the passengers food poisoning. The stewards discover that the entire flight crew, including Captain Clarence Oveur (Peter Graves) and Roger Murdock (Kareem Abdul-Jabbar), have all come down with food poisoning, leaving no one aboard to fly the airplane. Elaine contacts the Chicago control tower and is instructed by tower supervisor Steve McCroskey (Lloyd Bridges) to activate the airplane's autopilot, a large blow-up dummy named \"Otto\", which will get them to Chicago but will not be able to land the airplane. Elaine realizes that Striker is their only chance, and he is convinced to fly the airplane, though he still feels his trauma will prevent him from landing the airplane safely.After hearing Striker's name on the radio, McCroskey sends for Striker's former commander, Captain Rex Kramer (Robert Stack) - now serving as a commercial pilot - to help talk him down. As the plane nears Chicago, Striker neglects to check the oil temperature which damages one of the engines while a bad thunderstorm reduces visibility, making the landing even more difficult. Thanks to Kramer's endless stream of advice, Striker is able to overcome his fears and land the plane safely, despite the landing gear shearing off, with only minor injuries to some passengers. Impressed by Striker's display of courage, Elaine embraces and kisses him, rekindling their relationship. The lovers watch as Otto takes control of the evacuated airplane and takes off after inflating a female companion."
+}

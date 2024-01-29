@@ -1,0 +1,1034 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+  "id": 634649,
+  "title": "Spider-Man: No Way Home",
+  "poster_path": "https://image.tmdb.org/t/p/w500/5weKu49pzJCt06OPpjvT80efnQj.jpg",
+  "release_date": "2021-12-15",
+  "vote_average": 7.976,
+  "vote_count": 18921,
+  "popularity": 229.537,
+  "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+  "imdb_id": "tt10872600",
+  "budget": 200000000,
+  "homepage": "https://www.spidermannowayhome.movie",
+  "revenue": 1921847111,
+  "runtime": 148,
+  "tagline": "The Multiverse unleashed.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "production_companies": [
+    "Marvel Studios",
+    "Pascal Pictures",
+    "Columbia Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Holland",
+        "character": "Peter Parker / Spider-Man"
+      },
+      {
+        "name": "Zendaya",
+        "character": "Michelle 'MJ' Jones"
+      },
+      {
+        "name": "Benedict Cumberbatch",
+        "character": "Stephen Strange / Doctor Strange"
+      },
+      {
+        "name": "Jacob Batalon",
+        "character": "Ned Leeds"
+      },
+      {
+        "name": "Jon Favreau",
+        "character": "Harold 'Happy' Hogan"
+      },
+      {
+        "name": "Jamie Foxx",
+        "character": "Max Dillon / Electro"
+      },
+      {
+        "name": "Willem Dafoe",
+        "character": "Norman Osborn / Green Goblin"
+      },
+      {
+        "name": "Alfred Molina",
+        "character": "Dr. Otto Octavius / Doctor Octopus"
+      },
+      {
+        "name": "Benedict Wong",
+        "character": "Wong"
+      },
+      {
+        "name": "Tony Revolori",
+        "character": "Eugene 'Flash' Thompson"
+      },
+      {
+        "name": "Marisa Tomei",
+        "character": "May Parker"
+      },
+      {
+        "name": "Andrew Garfield",
+        "character": "Peter Parker / Spider-Man"
+      },
+      {
+        "name": "Tobey Maguire",
+        "character": "Peter Parker / Spider-Man"
+      },
+      {
+        "name": "Angourie Rice",
+        "character": "Betty Brant"
+      },
+      {
+        "name": "Arian Moayed",
+        "character": "Agent Cleary"
+      },
+      {
+        "name": "Paula Newsome",
+        "character": "MIT Assistant Vice Chancellor"
+      },
+      {
+        "name": "Hannibal Buress",
+        "character": "Coach Wilson"
+      },
+      {
+        "name": "Martin Starr",
+        "character": "Mr. Harrington"
+      },
+      {
+        "name": "J.B. Smoove",
+        "character": "Mr. Dell"
+      },
+      {
+        "name": "J.K. Simmons",
+        "character": "J. Jonah Jameson"
+      },
+      {
+        "name": "Rhys Ifans",
+        "character": "Dr. Curt Connors / The Lizard"
+      },
+      {
+        "name": "Charlie Cox",
+        "character": "Matt Murdock"
+      },
+      {
+        "name": "Thomas Haden Church",
+        "character": "Flint Marko / Sandman"
+      },
+      {
+        "name": "Emily Fong",
+        "character": "Apprentice"
+      },
+      {
+        "name": "Mary Rivera",
+        "character": "Ned's Lola"
+      },
+      {
+        "name": "Rudy Eisenzopf",
+        "character": "Arena Bystander"
+      },
+      {
+        "name": "Kathleen Cardoso",
+        "character": "Arena Bystander"
+      },
+      {
+        "name": "Jonathan Sam",
+        "character": "Arena Bystander"
+      },
+      {
+        "name": "Andrew Dunlap",
+        "character": "Dad in Car"
+      },
+      {
+        "name": "Ben VanderMey",
+        "character": "Man in Car"
+      },
+      {
+        "name": "Zany Dunlap",
+        "character": "Mom in Car"
+      },
+      {
+        "name": "B. Clutch Dunlap",
+        "character": "Kid in Car"
+      },
+      {
+        "name": "Minnah Dunlap",
+        "character": "Kid in Car"
+      },
+      {
+        "name": "Gary Weeks",
+        "character": "Agent Foster"
+      },
+      {
+        "name": "Gregory Konow",
+        "character": "Donut Shop Boss"
+      },
+      {
+        "name": "Carol Anne Dines",
+        "character": "Donut Shop Waitress"
+      },
+      {
+        "name": "Anisa Nyell Johnson",
+        "character": "School Security Guard"
+      },
+      {
+        "name": "Willie Burton",
+        "character": "May's Neighbor"
+      },
+      {
+        "name": "Mallory Hoff",
+        "character": "Reporter"
+      },
+      {
+        "name": "Greg Clarkson",
+        "character": "Reporter"
+      },
+      {
+        "name": "Regina Ting Chen",
+        "character": "Reporter"
+      },
+      {
+        "name": "Robert Mitchel Owenby",
+        "character": "Daily Bugle Lackey"
+      },
+      {
+        "name": "Glenn Keogh",
+        "character": "British Reporter"
+      },
+      {
+        "name": "Paris Benjamin",
+        "character": "British Anchor"
+      },
+      {
+        "name": "Jwaundace Candece",
+        "character": "Damage Control Agent"
+      },
+      {
+        "name": "Taylor St. Clair",
+        "character": "Protestor"
+      },
+      {
+        "name": "Gabriella Cila",
+        "character": "Crowd Member"
+      },
+      {
+        "name": "Darnell Appling",
+        "character": "Crowd Member"
+      },
+      {
+        "name": "Rolando Fernandez",
+        "character": "Crowd Member"
+      },
+      {
+        "name": "Edward Force",
+        "character": "Donut Shop Patron"
+      },
+      {
+        "name": "Michael Le",
+        "character": "Guy with Phone"
+      },
+      {
+        "name": "Dean Meminger",
+        "character": "NY1 Reporter"
+      },
+      {
+        "name": "Frederick A. Brown",
+        "character": "Fred the Janitor"
+      },
+      {
+        "name": "Cristo Fernández",
+        "character": "Bartender"
+      },
+      {
+        "name": "Clay Savage",
+        "character": "Suit Voice (voice)"
+      },
+      {
+        "name": "Tom Hardy",
+        "character": "Eddie Brock / Venom (uncredited)"
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "character": "Mysterio / Quentin Beck (archive footage) (uncredited)"
+      },
+      {
+        "name": "Jay Karales",
+        "character": "Bodega Customer (uncredited)"
+      },
+      {
+        "name": "Gina Aponte",
+        "character": "Media Reporter (uncredited)"
+      },
+      {
+        "name": "John Barnes",
+        "character": "School Protester (uncredited)"
+      },
+      {
+        "name": "Harry Holland",
+        "character": "Shaker Kid (uncredited)"
+      },
+      {
+        "name": "Haroon Khan",
+        "character": "Apprentice"
+      },
+      {
+        "name": "John M. Maiers",
+        "character": "Paparazzi"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Sanja Milković Hays",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Sarah Halley Finn",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Stan Lee",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Stan Lee",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "name": "Steve Ditko",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "name": "Steve Ditko",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "name": "Avi Arad",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Kevin Feige",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tony Lamberti",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Rosemary Brandenburg",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Michael Giacchino",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Jeffrey Ford",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Mauro Fiore",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Don Heck",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Dave Jordan",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "J. Michael Straczynski",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Louis D'Esposito",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "JoAnn Perritano",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Victoria Alonso",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Gary Archer",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "David H. Venghaus Jr.",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "David H. Venghaus Jr.",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Dwayne McDuffie",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "John Romita Jr.",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Greg Townley",
+        "department": "Crew",
+        "job": "Acting Double"
+      },
+      {
+        "name": "Darren Gilford",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Matt Tolmach",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Russell Bobbitt",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Lloyd Pitts",
+        "department": "Crew",
+        "job": "Acting Double"
+      },
+      {
+        "name": "Brian Stultz",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "George Cottle",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "George Cottle",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Joe Quesada",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Ben Jenkin",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Leigh Folsom Boyd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Chris McKenna",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Luke Scott",
+        "department": "Crew",
+        "job": "Acting Double"
+      },
+      {
+        "name": "Jon Watts",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Anne Porter",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Erik Sommers",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Tammy S. Lee",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Ed Bruce",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Timothy Eulich",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kevin O’Connell",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Brian Michael Bendis",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Nick S. Cross",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jamie Hardt",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Steven Ticknor",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "George Lee",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Linda D. Flowers",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Yeşim \"Shimmy\" Osman",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "David Butler",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Pamela Waggoner",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Amy Pascal",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Rachael Speke",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Rachael Speke",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Nava R. Sadan",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Martin De Boer",
+        "department": "Crew",
+        "job": "Acting Double"
+      },
+      {
+        "name": "Marian Green",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kelly Port",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Kate Abraham",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Samantha Avila",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Kristen Maloney",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Eric Stratemeier",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Anne Morgan",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Nancy Cummings",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Scott Edelstein",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Sergio Garcia",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Lali Peer",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "name": "Bryan Haines",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Jessica Pazdernik",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Duffy Gaver",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brendan Seals",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Molly Doyle",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Ken McGill",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Takako Ishikawa",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Vasilios Tanis",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Frances Lynn Hernandez",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Bill Everett",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Rachel O'Connor",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Brian Avery Galligan",
+        "department": "Directing",
+        "job": "Second Unit First Assistant Director"
+      },
+      {
+        "name": "Nicholas Murphy",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Michael Killoren",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Marie Fink",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Patrick Dunn-Baker",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Chris Sanford",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Justin M. Davey",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Justin Trudeau",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Chris Waegner",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Tim Muir",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Kevin Boyett",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Kristen Jenkins",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Richard Bennett",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Andrew Campbell",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "name": "Addy Steigerwalt",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Robert Bernstein",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Cody Stoof",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Carla Wallace",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "David Elson",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Sam Fan",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Shawn Janifer",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Robert Smithson",
+        "department": "Costume & Make-Up",
+        "job": "Contact Lens Technician"
+      },
+      {
+        "name": "Bridgit Crider",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Sally Ledger",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "name": "Dan Slott",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Steven S. Shapiro",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "name": "Olivier Coipel",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Diana Cobo",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Reetu Aggarwal",
+        "department": "Visual Effects",
+        "job": "3D Artist"
+      },
+      {
+        "name": "Emmanuelle Hoessly",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Darla Wigley",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "William R. Spencer",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Lane Friedman",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Lane Friedman",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Nicanor Mendoza III",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Eric Mancha",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Silvia Mahapatra",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Heather Benson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Ellen Arden",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Daniel Hazeltine",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Yvonne Eagle",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Chiranjiv Makwana",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "name": "Sheika Daley",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Lahiru Jay",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "Satoshi Takazawa",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "name": "David Scott",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Clint Wallace",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "name": "Ali Safdari",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Kat Connelly",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Donald McInnes",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Donald McInnes",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Dominic Mombrun",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "name": "Shuayb Naimo",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Lali Peer",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Emily Fong",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Ernie Colon",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Giuseppe Camuncoli",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Jennie Shea",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Sara Pichelli",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Paolo Rivera",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "James Henry Benton",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Vinii Khullar",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      }
+    ]
+  },
+  "keywords": [
+    "new york city",
+    "hero",
+    "showdown",
+    "magic",
+    "loss of loved one",
+    "secret identity",
+    "superhero",
+    "dangerous",
+    "villain",
+    "portal",
+    "sequel",
+    "vigilante",
+    "superhero team",
+    "alternate reality",
+    "masked vigilante",
+    "spider web",
+    "aftercreditsstinger",
+    "duringcreditsstinger",
+    "marvel cinematic universe (mcu)",
+    "teenage hero",
+    "fight for justice",
+    "superhero teamup",
+    "returning hero",
+    "crossover",
+    "teamwork"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+    "Peter Parker's secret identity is revealed to the entire world. Desperate for help, Peter turns to Doctor Strange to make the world forget that he is Spider-Man. The spell goes horribly wrong and shatters the multiverse, bringing in monstrous villains that could destroy the world.",
+    "Picking up where Far From Home left off, Peter Parker's whole world is turned upside down when his old enemy Mysterio posthumously reveals his identity to the public. Wanting to make his identity a secret, Peter turns to Doctor Strange for help. But when Strange's spell goes haywire, Peter must go up against five deadly new enemies--the Green Goblin, Dr. Octopus, Electro, the Lizard and Sandman--all while discovering what it truly means to be Spider-Man.—Blazer346",
+    "\"With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.—krmanirethnam",
+    "With his identity compromised, right after the spectacular confrontation with super-hero charlatan Mysterio in Spider-Man: Far from Home (2019), Peter Parker is now with his back to the wall. On the run and having no one to turn to for advice, desperate Peter seeks a radical and equally dangerous solution to right a wrong, utterly unaware of the grave consequences of his ill-advised decision. And, as the unfathomable Multiverse expands with a vengeance, formidable adversaries from a not-so-distant past, too, seek closure, demanding the Spider's head on a platter. But when there's no way home and nowhere to hide, who can Parker trust?—Nick Riganas"
+  ],
+  "synopsis": "J. Jonah Jameson of The Daily Bugle has exposed Peter Parker's identity as Spider-Man to the world, while simultaneously framing him as the individual responsible for Mysterio's death and an alleged mass casualty event in London. Numerous civilians nearby begin to surround him and Michelle Jones, forcing them to flee from the media and the police. They hide in Parker's apartment and reunite with May Parker and Happy Hogan, who reveal that they have broken up. Not long after, the United States Department of Damage Control take them along with Ned Leeds in their custody for interrogation. Parker hires Matt Murdock to represent him, who manages to get his criminal charges dropped. However, as Parker, Jones, and Leeds return to Midtown High for their senior year, the intense controversy causes them to be rejected from every college they apply to, including MIT.Parker visits the New York Sanctum and asks Doctor Strange to make the identity of Spider-Man a secret once more to get his friends into MIT. Despite being warned by Wong not to, Strange attempts to cast the spell with the Runes of Kof-Kol. However, Parker incessantly alters the spell when requesting various individuals close to him to be exempt from its effects. As a result, the spell becomes unstable, forcing Strange to contain it. For not consulting with college administrators before meeting with him, Strange furiously kicks Parker out of the Sanctum. Contacting Flash Thompson, who was admitted to MIT, Parker is led to an administrator heading to the Alexander Hamilton Bridge in an attempt to appeal his, Jones' and Leeds' applications.Parker is suddenly ambushed by Doctor Octopus, who seems to know him personally. Doctor Octopus grabs him and rips out a piece of the Iron Spider Armor, transferring its nanites onto his tentacles. He goes for another strike, but Spider-Man reveals his face, which is unfamiliar to Doctor Octopus. Spider-Man then takes control of Doctor Octopus' tentacles with the suit's nanites and rescues the MIT admin from falling off the bridge, who decides to help get him and his friends admitted out of gratitude.Green Goblin arrives and attempts to attack Spider-Man, but he and Doctor Octopus are transported into the Sanctum, where Strange imprisons Doctor Octopus and Lizard. He informs Parker that Doctor Octopus, Lizard, and Green Goblin are not of this universe, but from parallel realities within the Multiverse, who were pulled into this reality by the failed spell since they know Spider-Man's identity. To contain this spell, Strange locks it in the Macchina di Kadavus, a mystical containment unit.Parker is recruited to help find and capture these \"visitors\", receiving a magic-based upgrade to his suit. With assistance from Jones and Leeds, Spider-Man locates Electro outside the city. Startled, he attacks Spider-Man and gains the upper hand, but Sandman intervenes to shield the hero. The two work together to cut the power lines, which fully restores Electro's body. When he is sent to the Sanctum, Sandman believes Spider-Man killed him, but is also captured before he can retaliate. Elsewhere, Norman Osborn attempts to escape from his Green Goblin persona, breaking his mask before fleeing to a F.E.A.S.T. facility seeking refuge. Spider-Man locates Osborn thanks to May and brings him to the Sanctum as well. Osborn, Doctor Octopus, and Electro soon realise that they died and were resurrected by the spell, meaning that if they were to return home then they would perish.Strange explains to Spider-Man that these three are doomed to die fighting their own Spider-Men. He intends to use the Macchina to reverse the spell and send them back to their fates for the sake of the greater Multiverse. Convinced that they can be cured of their antagonistic natures and be spared from death, Spider-Man steals the Macchina before Strange can use it and flees. Strange gives chase, takes Spider-Man's magic back, and sends him into the Mirror Dimension to retrieve the Macchina, while also trying to implore him of the Multiversal stakes relying on the visitors being sent back. Unfazed, Spider-Man entangles Strange in a web matrix and steals his Sling Ring before returning to the Earthly Plane. He passes the ring to Leeds and the Macchina to Jones before releasing the prisoners from confinement.Taking them to Hogan's condominium, Spider-Man attempts to administer cures for the Multiversal refugees. He starts with Doctor Octopus, using a Stark Industries Fabricator to engineer a replacement inhibitor chip for his tentacles and restore his higher brain function. In addition, Electro has an energy siphon installed into him which is designed to extract his powers. But before he could affect Osborn, the Green Goblin persona takes over his body, who persuades Electro to remove the siphon before it can fully take away his abilities. He steals an Arc Reactor and, drawing its power, blasts Octavius out of the building. Lizard, Sandman, and Electro escape, while Green Goblin attacks Spider-Man, sending him to the ground floor. Running outside, May injects an antidote into Green Goblin, which doesn't work. After striking May with his Goblin Glider, Green Goblin tosses two Pumpkin Bombs, which Spider-Man fails to block and explodes in their proximity. Spider-Man manages to locate May in the rubble. Unaware that she had been gravely injured, May tells her nephew not to give up helping others despite all odds, lecturing him that with great power comes great responsibility. As DODC officers surround them, Spider-Man tries to save May, to no avail, as she dies in front of him. Hogan arrives on the scene and is immediately apprehended by authorities.Grief-stricken, Spider-Man flees, his guilt worsening with Jameson's gaslighting coverage of the attack. Growing worrisome after Spider-Man's silence, Jones prepares to activate the Macchina, but Leeds manages to open a portal with the Sling Ring by accident. Attempting to find Spider-Man, they see what seems to be their Spider-Man on the other side of the portal, calling him over. However, they soon realize that this Spider-Man is not theirs, but rather one from another universe that previously fought the Lizard and Electro. Leeds tries again, but summons yet another alternate Peter Parker, who previously fought Green Goblin, Octavius, and Sandman. The group finally manage to find their Spider-Man alone on top of Midtown and attempt to console him about May, but he is too distraught about his mistakes to even care. Before he can use the Macchina to send the Multiversal travellers home, the other two Parkers begin sharing their own personal experiences of loss and bitterness to help him cope and realise that he is not alone.A cheered up Spider-Man then decides to do what he planned to do: heal the villains. The Parkers, Jones, and Leeds then retreat to a classroom laboratory in Midtown to create the cure for the villains. Osborn's Parker engineers an anti-serum for Green Goblin as Electro's Parker recreates the Lizard antidote to return him back to normal, while Spider-Man prepares the cures for Sandman and Electro. Afterwards, Leeds brings them to the Statue of Liberty via portal as he and Jones remain in the lab.Spider-Man calls into The Daily Bugle to broadcast a message, using the Macchina as a lure while announcing his presence to Lizard, Electro, and Sandman. They arrive and attack the three Spider-Men on the scaffolding. The web-slingers are unable to coordinate effectively, which leads them to be easily overpowered by their enemies. Grouping up, Spider-Man assumes command of the trio due to his experience as part of the Avengers; the three adopt code-names: Spider-Man as Peter-One, Osborn's Spider-Man as Peter-Two, and Electro's Spider-Man as Peter-Three. They decide to engage and cure one enemy at a time, with Sandman first. After restraining Lizard, Peter-Three retrieves Sandman's cure and passes the device to Peter-One, who then delivers the cure to Peter-Two, allowing Marko to be neutralised.The three Spider-Men attempt to take the Arc Reactor from Electro, but he proves to be too much of a match for them due to his increased power from the energy source. Lizard breaks free and attacks Jones and Leeds in the lab, forcing Peter-One to leave and fight him. With the help of Leeds and his Sling Ring, Peter-One forces Lizard to break open a bottle containing the antidote which reverts him back to his human form, Curt Connors. Leeds accidentally summons Strange to the battlefield who, upon seeing Connors, realizes Peter-One's pacifist plan is working. Strange grabs back the Macchina and his Sling Ring from Leeds. Peter-Two and Peter-Three are overpowered by Electro, until Octavius arrives to extract the Arc Reactor himself and render him powerless with the finished neutralizer. Peter-Three reconciles with Dillon while Peter-Two warmly reunites with Octavius.Peter-One returns to Strange as he prepares to use the Macchina to send everyone home. Suddenly, Green Goblin ambushes the group and takes the Macchina, but Octavius and Strange grab it back. Unbeknownst to them, Green Goblin had snuck a Pumpkin Bomb inside the object. It detonates and releases the unstable contained spell, tearing the fabric of the universe and opens it up to the Multiverse. The blast also causes Jones to fall from the Statue of Liberty. Peter-One dives to rescue her, but is knocked aside by Green Goblin - Peter-Three saves her, and begins to tear up as it reminded him of the night Gwen Stacy died. As dawn breaks, Peter-One confronts Green Goblin alone. Ravaged with vengeance, he viciously beats him down and attempts to finish him off with his glider, but is stopped by Peter-Two. This however leaves him open to get stabbed in the back by Green Goblin.Peter-Three provides Peter-One with the anti-serum, allowing him to cure Osborn from Green Goblin. He notices Peter-Two's injury, which is non-fatal, and realizes the extent of the damage he had caused. Strange struggles to hold the rifts in the universe together, in which intruders are already preparing to invade this reality. However, Peter-One has him enact a new spell to make everyone forget who he is to fix it. Afterwards, Peter-One embraces his alternate selves, who encourage him to continue on as Spider-Man. Strange repairs the rifts with the new spell and successfully transports Peter-Two, Peter-Three, Dillon, Octavius, Osborn, Marko and Connors back to their origin universes. Spider-Man embraces Leeds and Jones for a final time, while promising to return someday and help them remember him. He then departs as Strange unleashes the spell, leaving the entire world completely oblivious to Parker's existence.A few weeks later, it is now the holidays. Parker tries to reconnect with his MIT-bound friends, but after being reminded of Jones' wounds, he decides not to. He visits May's grave to pay his respects and is joined by Hogan, who is also now a stranger to him. Contending to carry on with his new life, Parker moves into a new apartment alone and begins studying to earn his GED. Alerted to criminal activity on his phone, he stitches together a simpler suit and resumes his heroics undisturbed as Spider-Man, honoring May's mantra of community service and responsibility.In a mid-credits scene: the universe-displaced Eddie Brock and his symbiote companion Venom sit at a bar and talk with the bartender about other super-humans and the Blip. While pondering how to \"protect\" this new world, the duo is swiftly transported back to their universe by Strange's spell, unknowingly leaving a part of the symbiote on the counter."
+}

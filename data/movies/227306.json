@@ -1,0 +1,866 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/8gGbfySRbrYf8fhJOMUzlvsrUPN.jpg",
+  "id": 227306,
+  "title": "Unbroken",
+  "poster_path": "https://image.tmdb.org/t/p/w500/djETrCXW11Fb5hEl7vvc3bfs3oc.jpg",
+  "release_date": "2014-12-25",
+  "vote_average": 7.44,
+  "vote_count": 3929,
+  "popularity": 23.303,
+  "overview": "A chronicle of the life of Louis Zamperini, an Olympic runner who was taken prisoner by Japanese forces during World War II.",
+  "imdb_id": "tt1809398",
+  "budget": 65000000,
+  "homepage": "",
+  "revenue": 163400000,
+  "runtime": 137,
+  "tagline": "Survival. Resilience. Redemption.",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "production_companies": [
+    "Legendary Pictures",
+    "Jolie Pas",
+    "3 Arts Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Jack O'Connell",
+        "character": "Louis Zamperini"
+      },
+      {
+        "name": "Alex Russell",
+        "character": "Pete Zamperini"
+      },
+      {
+        "name": "Domhnall Gleeson",
+        "character": "Russel Allen 'Phil' Phillips"
+      },
+      {
+        "name": "Garrett Hedlund",
+        "character": "John Fitzgerald"
+      },
+      {
+        "name": "MIYAVI",
+        "character": "Mutsuhiro 'The Bird' Watanabe"
+      },
+      {
+        "name": "Finn Wittrock",
+        "character": "Francis 'Mac' McNamara"
+      },
+      {
+        "name": "Jai Courtney",
+        "character": "Hugh 'Cup' Cuppernell"
+      },
+      {
+        "name": "Maddalena Ischiale",
+        "character": "Louise Zamperini"
+      },
+      {
+        "name": "Vincenzo Amato",
+        "character": "Anthony Zamperini"
+      },
+      {
+        "name": "Sophie Dalah",
+        "character": "Virginia"
+      },
+      {
+        "name": "Morgan Griffin",
+        "character": "Cynthia Applewhite"
+      },
+      {
+        "name": "Savannah Lamble",
+        "character": "Sylvia Zamperini"
+      },
+      {
+        "name": "Luke Treadaway",
+        "character": "Miller"
+      },
+      {
+        "name": "John Magaro",
+        "character": "Frank A. Tinker"
+      },
+      {
+        "name": "Louis McIntosh",
+        "character": "Lt. William Harris"
+      },
+      {
+        "name": "Ross Anderson",
+        "character": "Blackie"
+      },
+      {
+        "name": "C.J. Valleroy",
+        "character": "Young Louis"
+      },
+      {
+        "name": "John D'Leo",
+        "character": "Young Pete"
+      },
+      {
+        "name": "Jordan Patrick Smith",
+        "character": "Cliff"
+      },
+      {
+        "name": "Spencer Lofranco",
+        "character": "Harry Brooks"
+      },
+      {
+        "name": "Stephen J. Douglas",
+        "character": "Clarence Douglas"
+      },
+      {
+        "name": "Marcus Vanco",
+        "character": "Lambert"
+      },
+      {
+        "name": "Dylan James Watson",
+        "character": "Green Hornet Engineer"
+      },
+      {
+        "name": "Ryan Ahern",
+        "character": "Glassman"
+      },
+      {
+        "name": "Ross Langley",
+        "character": "Mitchell"
+      },
+      {
+        "name": "Michael Whalley",
+        "character": "Stanley Pillsbury"
+      },
+      {
+        "name": "Sean O'Donnell",
+        "character": "Boy(s) (voice)"
+      },
+      {
+        "name": "Travis Jeffery",
+        "character": "Jimmy"
+      },
+      {
+        "name": "James McEnery",
+        "character": "Marine at Airbase"
+      },
+      {
+        "name": "Stephen Stanton",
+        "character": "Berlin Olympics Radio Announcer (voice)"
+      },
+      {
+        "name": "Talia Mano",
+        "character": "Young Sylvia"
+      },
+      {
+        "name": "Yutaka Izumihara",
+        "character": "Radio Tokyo Man"
+      },
+      {
+        "name": "Hisa Goto",
+        "character": "Omori guard"
+      },
+      {
+        "name": "Hiroshi Kasuga",
+        "character": "Naoetsu Guard 1"
+      },
+      {
+        "name": "Akira Fujii",
+        "character": "Japanese Athlete"
+      },
+      {
+        "name": "Chris Proctor",
+        "character": "James"
+      },
+      {
+        "name": "Shinji Ikefuji",
+        "character": "Japanese Translator"
+      },
+      {
+        "name": "Brodie Henson",
+        "character": "British p.o.w"
+      },
+      {
+        "name": "Shingo Usami",
+        "character": "Corporal Kono"
+      },
+      {
+        "name": "Stefan Mogel",
+        "character": "SS Guard"
+      },
+      {
+        "name": "Clay Zamperini",
+        "character": "Torch Bearer"
+      },
+      {
+        "name": "Jess Terrell",
+        "character": "American POW"
+      },
+      {
+        "name": "Sean-Ryan Petersen",
+        "character": "Boy"
+      },
+      {
+        "name": "Toby Fuller",
+        "character": "Spike Runner"
+      },
+      {
+        "name": "Conor Fogarty",
+        "character": "American POW"
+      },
+      {
+        "name": "Jack Marshall",
+        "character": "Bully"
+      },
+      {
+        "name": "Taki Abe",
+        "character": "Radio Tokyo Man"
+      },
+      {
+        "name": "Keiichi Enomoto",
+        "character": "Omori Guard"
+      },
+      {
+        "name": "Taka Uematsu",
+        "character": "Kwajalein Guard"
+      },
+      {
+        "name": "Yoji Tatsuta",
+        "character": "Naoetsu Guard 2"
+      },
+      {
+        "name": "John Michael Burdon",
+        "character": "Man in Stadium"
+      },
+      {
+        "name": "Ben Rossberg",
+        "character": "British POW Officer"
+      },
+      {
+        "name": "Sean Edward Frazer",
+        "character": "US Officer p.o.w"
+      },
+      {
+        "name": "Yoshinao Aonuma",
+        "character": "Kwajalein Guard"
+      },
+      {
+        "name": "James Storer",
+        "character": "American P.O.W."
+      },
+      {
+        "name": "Joel Knights",
+        "character": "British POW Officer"
+      },
+      {
+        "name": "Kristopher Bos",
+        "character": "U.S. Officer P.O.W."
+      },
+      {
+        "name": "Katsu Nojiri",
+        "character": "Omori Guard"
+      },
+      {
+        "name": "Matt Hurley",
+        "character": "US Officer P.O.W"
+      },
+      {
+        "name": "Shane Leckenby",
+        "character": "British POW"
+      },
+      {
+        "name": "Connor Clarke",
+        "character": "American P.O.W"
+      },
+      {
+        "name": "Steven Carnuccio",
+        "character": "Church Attendee"
+      },
+      {
+        "name": "Matthew Crocker",
+        "character": "Australian P.O.W"
+      },
+      {
+        "name": "Connor Zegenhagen",
+        "character": "British Soldier"
+      },
+      {
+        "name": "Nicholas Farris",
+        "character": "Olympic Race Starter"
+      },
+      {
+        "name": "Sarah Alison",
+        "character": "Virginia"
+      },
+      {
+        "name": "Mathew Hislop",
+        "character": "Australian POW"
+      },
+      {
+        "name": "Matthew McConnell",
+        "character": "American P.O.W"
+      },
+      {
+        "name": "Dougal Walker",
+        "character": "British POW"
+      },
+      {
+        "name": "Jack Alcock",
+        "character": "American POW"
+      },
+      {
+        "name": "Darren Wyer",
+        "character": "Infirmary p.o.w"
+      },
+      {
+        "name": "Andy de Lore",
+        "character": "Infirmary POW"
+      },
+      {
+        "name": "Mitch Christen",
+        "character": "British POW (uncredited)"
+      },
+      {
+        "name": "Matt Clayton",
+        "character": "US Enlisted POW (uncredited)"
+      },
+      {
+        "name": "Darren Gallagher",
+        "character": "Soldier (uncredited)"
+      },
+      {
+        "name": "Kent Lee",
+        "character": "Olympic spectator / Japanese Olympic team member (uncredited)"
+      },
+      {
+        "name": "Beau Paley",
+        "character": "American POW (uncredited)"
+      },
+      {
+        "name": "Craig Walker",
+        "character": "Berlin Olympics Spectator (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Roger Deakins",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Roger Deakins",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "William Goldenberg",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Francine Maisler",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "William Nicholson",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Joel Coen",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Ethan Coen",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Tim Squyres",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Richard LaGravenese",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Jon Hutman",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Alexandre Desplat",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Clayton Townsend",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Louise Frogley",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Joseph P. Reidy",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Erwin Stoff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Glenn Boswell",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Charlie Revai",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Charlie Revai",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Angelina Jolie",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Angelina Jolie",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Rick Findlater",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Laura Hillenbrand",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "name": "Thomas Tull",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Lisa Thompson",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Steve Gaub",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Nik Dorning",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Eric A. Norris",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Andrew DeCristofaro",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Toni G",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Nancy MacLeod",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Matthew Barr",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Phil Eagles",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "John Casey",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Ty Teiger",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Ross Perkin",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jocelyn Thomas",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Simon Christidis",
+        "department": "Camera",
+        "job": "Underwater Director of Photography"
+      },
+      {
+        "name": "Karen Vassar Triest",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Jay Wilkinson",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Bill Booth",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Jacinta Leong",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Frank A. Montaño",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Jon Taylor",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Kenneth Karman",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Vince Valitutti",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Jennifer Stanfield",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Duncan Jones",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Becky Sullivan",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Laura Harris Atkinson",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Dan Hegeman",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Bob Booker",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Jenni O'Byrne",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Denise Okimoto",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Nicholas Dare",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Kristin Witcombe",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Lauren Hadaway",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Lexie Busby",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Jeff Driver",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Erik Baker",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "name": "Alexis Forni",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "John Higgins",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Elly Kamal",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Bernie Childs",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "John Bowring",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Erin D. O'Connor",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Catherine Chase",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "Selena Carrillo",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Pascal Rigaud",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "name": "Andrew AJ Johnson",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Shane Thomas",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Peter Beeh",
+        "department": "Camera",
+        "job": "Aerial Camera"
+      },
+      {
+        "name": "David Lee",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "Allan Mowbray",
+        "department": "Crew",
+        "job": "Armorer"
+      },
+      {
+        "name": "Bronwyn Doughty",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "name": "Andrew Kattie",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Karen Kelly",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Belinda Nicoll",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Mark Diggins",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "Nic Gribben",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Helen O'Loan",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Evan Shipard",
+        "department": "Art",
+        "job": "Conceptual Illustrator"
+      },
+      {
+        "name": "Eddy Taylor",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Ron Wallekers",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Jack Whiddon",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Peter Wyborn",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Mark van Kool",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Fahed Alhabib",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Vaughn Arnup",
+        "department": "Visual Effects",
+        "job": "Roto Supervisor"
+      },
+      {
+        "name": "Patrick Hernandez",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Georgina Lovering",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Jane Reynolds",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "Jamella Hassan",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Tony Velasco",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Concepcion Alicino-Saucedo",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Nicholas Copping",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Peter Kent",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "name": "Scott Menzies",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Marieke Spence",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "name": "Hiroshi Mori",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      }
+    ]
+  },
+  "keywords": [
+    "japan",
+    "berlin, germany",
+    "based on novel or book",
+    "sports",
+    "world war ii",
+    "prisoner of war",
+    "u.s. air force",
+    "biography",
+    "pacific war",
+    "raft",
+    "shark",
+    "woman director",
+    "olympic athlete"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "After a near-fatal plane crash in WWII, Olympian Louis Zamperini spends a harrowing 47 days in a raft with two fellow crewmen before he's caught by the Japanese navy and sent to a prisoner-of-war camp.",
+    "The life of Louis Zamperini, an Olympic athlete who joined the armed forces during the second world war. Only to be captured by the Japanese navy after a plane crash in the Pacific. During his capture, Louie must continue his fight by surviving through the war.—Tristanmerkler01",
+    "Chronicles the life of Louie Zamperini, an Olympic athlete in the 1936 Berlin Olympics-turned-WWII plane crash survivor and prisoner in two Japanese POW camps. From a rebellious childhood to a life of glory, bravery, and triumph, Louie finds his strength, his fight, and his faith.—jadendb",
+    "A young Olympian name Louis, goes in the army during the war where his plane crashes, therefore Louis and some other soldiers are obliged to live on a life boat until being found and captured by the Japanese navy. They have been held in a prisoner camp and forced to work for Japan.—Ozhan Yazdani",
+    "Tale of Louis Zamperini, the Olympic track star who survived a plane crash in World War II, only to fight for his life against nature and eventually as a prisoner of war. Joel and Ethan Coen provide the script. Louis (Jack O'Connell) grows up a rough-hew kid on the verge of becoming a full-on delinquent, until his brother starts training him to be a track star. Louis excels at the sport, and eventually represents America at the 1936 Summer Olympics in Berlin. During his training, he learns to become resilient and disciplined; his brother's words of advice, \"If you can take it, you can make it,\" push him to overcome any adversity. He must live up to that adage under the most extreme circumstances after his plane is shot down during another bombing raid. He is stranded at sea for more than a month, only to be found by the Japanese and forced to endure constant physical abuse at the hands of sadistic prison-camp guard Mutsuhiro Watanabe (Japanese pop star Miyavi), who wants to break Louis' indomitable spirit.."
+  ],
+  "synopsis": "In the opening scene shows a World War II US Air Corps B-24 Liberator bomber flying somewhere over the Pacific Ocean. Louie Zamperini (Jack O'Connell) is a bombardier and he and his crew are engaged in a bombing mission against a Japanese-held island. Due to flack from enemy AAA ground batteries, many are injured but with their pilot, Phil (Domhnall Gleeson), and Louis's skill, they successfully land the plane even though its been shot hundreds of times.Flashback to a young Louie, living in Torrance, California. He is escorted home by police officers after defending himself against some bullies. We meet his family briefly a traditional Italian family now living in America.At a baseball game, he is caught under the bleachers and ends up running away to avoid trouble; this is how his older brother realizes he is a fast runner. He begins training him. Years later, he becomes the fastest runner in his high school's history and ends up going to the 1936 Summer Olympics in Berlin, Germany. At the Games, he ends up in last place but manages to speed ahead to set an American world record.In current day, the crew who flew on the shot down plane have been transferred to Hawaii to await reassignment. Louie impresses his fellow army men by continuing to train and beating the four-minute-mile. The men are sent on a mission to search for a lost aircraft and crew. They are given another B-24 but it is notorious as being defective. While on the search, mechanical difficulties cause the plane to crash into the ocean of Oahu, killing eight of the eleven men aboard. The only three to survive are Louie, Phil, and a man named Mac (Finn Wittrock) who make their way onto lifeboats.The three struggle to survive, noting that they have limited rations (they can have one piece of chocolate in the morning and at night, only a few drops of water per day, etc.) On Day 3, an airplane flies overhead and they try to signal it with dye and a flare gun but they go unnoticed.As time goes on, their situation gets more and more bleak. They are bitten by bugs and completely dehydrated. They continue to fight although Mac feels more and more hopeless eventually exhausting their supplies. Amongst the long journey to survive, they clobber an albatross that has landed in their boat and try to eat it but quickly vomit it up. They then instead use the albatross as bait to attract fish and eat it raw. Eventually, sharks begin to circle the boat and they learn to stay low.The men are fatigued and awaken one morning to find a rainstorm. They happily fill up containers with fresh water and drink the drops from the sky. Later, after a treacherous storm, Louie makes a deal with God that if he can survive, he will serve Him for the rest of his days. They all manage to hold on. At one point, Louie finally stabs a shark from the boat and they begin to feast on its meat.After 29 days, another plane flies above and they shoot their flare gun to attack attention. The plane circles around and all are in disbelief that they will finally be rescued after a harrowing four weeks. But then the plane begins firing at them. They all quickly jump into the water and hide from the bullets, kicking sharks away. They resurface back on the life raft but the firing continues. Louie dives back into the water but Mac and Phil huddle back on the boat. When Louie returns to them, he thinks they are dead but they have dodged all of the bullets by staying hunkered in the raft. The plane disappears and they patch up the holes so they can remain afloat.Time continues on nearing 50 days and Mac finally takes a turn for the worse. They wrap his body up and give him a burial at sea. Shortly after, Phil and Louie awaken to both good news and bad news. The good news is a boat has discovered them; the bad news is it is the Japanese and they are now being held prisoner.Louie and Phil are taken to a P.O.W. camp and told they are the enemy and will be treated accordingly by a man who speaks English. He forces them to strip and then begins beating them. He is Mutsushiro Watanabe (Miyavi), nicknamed the Bird, because the prisoners cannot call him what they want to. He is sadistic and it is said that he comes from a military background and is sadistic in an attempt to live up to his father's expectations. He takes special interest in Louie after spotting him looking at him while he is speaking to the prisoners outside. He tells him to look at him and then whacks his nose with a cane. When he stands up again and looks at the Bird on request, he is whacked again. It's only when he tells Louie not to look at him that he leaves him alone.The prisoners are complacent surrounded by the armed Japanese. They are forced to clean out the latrines (Louie says its funny they shit so much considering they have nothing to eat). One day, the Bird says they have some renowned people in their midst and has an opera singer identify himself and then asks who is the Olympic athlete amongst them. Louie reluctantly identifies himself and is forced to run against a young Japanese boy. Because he is fatigued from lack of food, he collapses on the ground; the Bird says he is not so tough and beats him.The sadistic cruelty continues on and on for a long while. Louie is often held in solitary confinement. The prisoners point out that if the Allies ever get to the POW to rescue them, they will be killed on sight. They aren't sure what to root for.One day, a man tells Louie that he wants him to go on the radio and tell his family that he is still alive and that he is being treated fairly, to appease Americans. He agrees, telling his family he is alive which they hear from their home in California. He is then taken to a restaurant where he is asked to make another announcement where he applauds Japan as a culture and to live the rest of his life in the country, as a traitor. He cannot do this and is taken back to the POW camp.The Bird singles Louie out from the crowd and orders every single prisoner (about 200) to punch him in the face. When the first prisoner refuses, the Bird has a weakened Phil beaten. Louie convinces the prisoners to go along with it and is punched over and over, always getting up to take the next punch despite his face being bruised and battered.During an outdoor production of Cinderella, with the prisoners playing all the roles, the Bird sits next to Louie and tells him he is being promoted and transferred to another camp. He tells Louie that this is unfortunate news because he is a friend who took interest in him because of how much strength he exhibited when he first arrived. He prompts Louie to congratulate him on the promotion but Louie stays silent.Life at camp gets immensely better. But then the Allies bomb the neighboring city so the prisoners are relocated to another camp. When they arrive, the Bird appears and Louie passes out at the sight. The cruelty continues. The men are forced to carry large bags of coal up many flights of stairs. The weight of the bags and their fatigue combined causes some men to fall over the railing. One day in April 1945, the prisoners are also informed that President Roosevelt has died. One man breaks down in tears.One day, the Bird orders Louie to pick up a very large steel beam. Louie struggles but the Bird is persistent, telling him he has to hold it over his head. He tells the guards, who are surrounding Louie, to shoot him if he should drop the beam. Louie holds the beam over his head for hours, much to the admiration of his other prisoners. Finally, at nightfall, he is able to lower the beam.The men are told that they have to bathe in the ocean. They are sure they will be executed. When they get into the water, the Allied planes fly overhead; the war is over. They all cheer at having survived.Louie goes into the bathroom of the camp now that they are no longer prisoners; he sees a picture of the Bird as a child with his dictator father. He is disgusted.Louie is flown home to his family and embraced by them. This is juxtaposed with a real life photo of the scene. End credits tell us that the Japanese were held accountable for war crimes but eventually the charges were dropped to assure good relations with the Japanese. Louie kept his promise to obey God and remained religious throughout his life. He forgives all the men who wronged him and meets all of them in person, years later only the Bird refuses to acknowledge him. He also returns to the Olympics, in 1998, to carry a torch when the games are held in Japan.A memorial card reveals he passed away in 2014 (three months prior to the film's release)."
+}

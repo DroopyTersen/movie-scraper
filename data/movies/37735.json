@@ -1,0 +1,774 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/7RKUNTLzTaQSA8XgDasl0BjKWqS.jpg",
+  "id": 37735,
+  "title": "Easy A",
+  "poster_path": "https://image.tmdb.org/t/p/w500/spOqvK66GBWF3rPBXhUogyCIWHQ.jpg",
+  "release_date": "2010-09-16",
+  "vote_average": 6.8,
+  "vote_count": 6608,
+  "popularity": 24.875,
+  "overview": "Olive, an average high school student, sees her below-the-radar existence turn around overnight once she decides to use the school's gossip grapevine to advance her social standing. Now her classmates are turning against her and the school board is becoming concerned, including her favorite teacher and the distracted guidance counselor. With the support of her hilariously idiosyncratic parents and a little help from a long-time crush, Olive attempts to take on her notorious new identity and crush the rumor mill once and for all.",
+  "imdb_id": "tt1282140",
+  "budget": 8000000,
+  "homepage": "http://www.sonypictures.com/movies/easya",
+  "revenue": 75026327,
+  "runtime": 93,
+  "tagline": "Let's not and say we did.",
+  "genres": [
+    "Comedy"
+  ],
+  "production_companies": [
+    "Screen Gems",
+    "Olive Bridge Entertainment"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Emma Stone",
+        "character": "Olive Penderghast"
+      },
+      {
+        "name": "Penn Badgley",
+        "character": "\"Woodchuck\" Todd"
+      },
+      {
+        "name": "Amanda Bynes",
+        "character": "Marianne Bryant"
+      },
+      {
+        "name": "Dan Byrd",
+        "character": "Brandon"
+      },
+      {
+        "name": "Thomas Haden Church",
+        "character": "Mr. Griffith"
+      },
+      {
+        "name": "Patricia Clarkson",
+        "character": "Rosemary Penderghast"
+      },
+      {
+        "name": "Cam Gigandet",
+        "character": "Micah"
+      },
+      {
+        "name": "Lisa Kudrow",
+        "character": "Mrs. Griffith"
+      },
+      {
+        "name": "Malcolm McDowell",
+        "character": "Principal Gibbons"
+      },
+      {
+        "name": "Aly Michalka",
+        "character": "Rhiannon Abernathy"
+      },
+      {
+        "name": "Stanley Tucci",
+        "character": "Dill Penderghast"
+      },
+      {
+        "name": "Fred Armisen",
+        "character": "Pastor Bryant"
+      },
+      {
+        "name": "Juliette Goglia",
+        "character": "Eighth Grade Olive"
+      },
+      {
+        "name": "Jake Sandvig",
+        "character": "Anson"
+      },
+      {
+        "name": "Morgan Rusler",
+        "character": "Mr. Abernathy"
+      },
+      {
+        "name": "Nikki Tyler-Flynn",
+        "character": "Mrs. Abernathy"
+      },
+      {
+        "name": "Braeden Lemasters",
+        "character": "Eighth Grade Kid"
+      },
+      {
+        "name": "Mahaley Patel",
+        "character": "Nina Howell"
+      },
+      {
+        "name": "Jameson Moss",
+        "character": "Evan"
+      },
+      {
+        "name": "Blake Hood",
+        "character": "Kennedy Peters-Booth"
+      },
+      {
+        "name": "Bryce Clyde Jenkins",
+        "character": "Chip Penderghast"
+      },
+      {
+        "name": "Neil Soni",
+        "character": "Zia"
+      },
+      {
+        "name": "Stacey Travis",
+        "character": "Marianne's Mom"
+      },
+      {
+        "name": "Bonnie Burroughs",
+        "character": "Micah's Mom"
+      },
+      {
+        "name": "Eddie Applegate",
+        "character": "Micah's Grandfather"
+      },
+      {
+        "name": "Norma Michaels",
+        "character": "Micah's Grandmother"
+      },
+      {
+        "name": "Yolanda Snowball",
+        "character": "Receptionist"
+      },
+      {
+        "name": "Andrew Fleming",
+        "character": "Doctor"
+      },
+      {
+        "name": "Johanna Braddy",
+        "character": "Melody Bostic"
+      },
+      {
+        "name": "David Gore",
+        "character": "Pre-Teen Kid"
+      },
+      {
+        "name": "Lalaine",
+        "character": "Gossipy Girl"
+      },
+      {
+        "name": "D'Anthony Palms",
+        "character": "Josh Wisniewski"
+      },
+      {
+        "name": "Ryan Parker",
+        "character": "Kurt"
+      },
+      {
+        "name": "Rawson Marshall Thurber",
+        "character": "Quiznos Guy"
+      },
+      {
+        "name": "Chris De Lorenzo",
+        "character": "Spectator In The Gym"
+      },
+      {
+        "name": "Jillian Johnston",
+        "character": "Server"
+      },
+      {
+        "name": "Nancy Karr",
+        "character": "Singing Server"
+      },
+      {
+        "name": "Clay Black",
+        "character": "Singing Server"
+      },
+      {
+        "name": "Brad Etheridge",
+        "character": "Singing Server"
+      },
+      {
+        "name": "Veerta Motiani",
+        "character": "Singing Server"
+      },
+      {
+        "name": "Michael Strauss",
+        "character": "Singing Server"
+      },
+      {
+        "name": "Lance Kerfuffle",
+        "character": "Clerk"
+      },
+      {
+        "name": "Drew Koles",
+        "character": "Boy"
+      },
+      {
+        "name": "Max Crumm",
+        "character": "Pontius"
+      },
+      {
+        "name": "Jeremiah Hu",
+        "character": "Judas"
+      },
+      {
+        "name": "Jessica Jann",
+        "character": "Jezebel"
+      },
+      {
+        "name": "Danni Katz",
+        "character": "Harlot"
+      },
+      {
+        "name": "Jason Kropik",
+        "character": "Mortimer"
+      },
+      {
+        "name": "Micah Van Hove",
+        "character": "Stoner (uncredited)"
+      },
+      {
+        "name": "Yoshi Sudarso",
+        "character": "Eric Ling (uncredited)"
+      },
+      {
+        "name": "Julianne Celeste",
+        "character": "Gossip Girl Jogger (uncredited)"
+      },
+      {
+        "name": "Bobby C. King",
+        "character": "Man Watching Skateboarders (uncredited)"
+      },
+      {
+        "name": "Kristin Quick",
+        "character": "Nerd (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Vincent Guisetti",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Scott G.G. Haller",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Steve Bowen",
+        "department": "Editing",
+        "job": "Digital Colorist"
+      },
+      {
+        "name": "Michael Klastorin",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Zanne Devine",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Michael Grady",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Glenn S. Gainor",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Susan Littenberg",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Geoffrey Haley",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Geoffrey Haley",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "name": "Will Gluck",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Will Gluck",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Bobby C. King",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "John Scott Mills",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "name": "Bert V. Royal",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "name": "Marcia Hinds",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Brad Segal",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "name": "Meg Goodwin",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Michelle Vittone",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "name": "Bo Johnson",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Gregg Landaker",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mark B. Johnson",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Carol Kiefer",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Tim Tuchrello",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "name": "David Lombard",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Jody Blose",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Rocco Passionino",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Raoul Bolognini",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Deb Adair",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mark Larry",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Pamela Kahn",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "name": "Guillaume DeLouche",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Adruitha Lee",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "name": "Jose Zamora",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Tracy Manzo",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Kyle Rochlin",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Debra L. Tennant",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Andrea Horta",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "name": "Mike Karasick",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Lori Jean Sacks",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "La Shan Knox",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Clifford L. Rogers",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Adam L. Taylor",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Lisa Miller Katz",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Sherry Whitfield",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Linda Huse",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "name": "Herwig Maurer",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "name": "Karen Agresti",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Patrick Rousseau",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "name": "Jennifer Hamilton",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "name": "Alicia Emmrich",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Mynka Draper",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Desiree Dizard",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Donna-Lou Henderson",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Maynard Matthews",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "David Waterman",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Todd Amateau",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Heather Kritzer",
+        "department": "Directing",
+        "job": "Additional Second Assistant Director"
+      },
+      {
+        "name": "Anthony J. Nahar",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Troy Hope",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "James P. Meehan",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "C.J. Pyles",
+        "department": "Costume & Make-Up",
+        "job": "On Set Dresser"
+      },
+      {
+        "name": "John Risso",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Taylor Vaughan",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Dan Brizendine",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Harrison D. Marsh",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "name": "David C. Bernat",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Jacob Riehle",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Joseph Wisniewski",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Jon Wakeham",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Wende Crowley",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "name": "Michael P. Catanzarite",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Michael Uva",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Cassidy Vick Hice",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Brian Morena",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "name": "Arturo Rojas",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "name": "F. Ulysses Domalaon",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Cory Gunter",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "name": "Lisa Wujick",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Rosemary Bengele Sater",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Elaine McGhee",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "John Linares",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "George Sugar",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Aubrey Husar",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Derek K. Cunningham",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Tom Fox",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Tyler Matson",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Darin O'Neill",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Bret Barrett",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "name": "Fermin Davalos",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "William T. Wesley",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Kevin Magee",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Shadow Kingsley",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "name": "Ryan Whan",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "name": "Nick Costantino",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Will Sandoval",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Bruce A. Simon",
+        "department": "Directing",
+        "job": "Additional Second Assistant Director"
+      },
+      {
+        "name": "James Andrews",
+        "department": "Crew",
+        "job": "Transportation Co-Captain"
+      },
+      {
+        "name": "Brian Smith",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Carolyn Martin",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      }
+    ]
+  },
+  "keywords": [
+    "high school",
+    "small town",
+    "lie",
+    "loss of virginity",
+    "coming of age",
+    "teen movie",
+    "school",
+    "female protagonist",
+    "high school student",
+    "teen comedy",
+    "intelligent",
+    "duringcreditsstinger",
+    "small town girl",
+    "rumor",
+    "teen drama",
+    "pretend relationship",
+    "gay friend",
+    "teenager"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A clean-cut high school student relies on the school's rumor mill to advance her social and financial standing.",
+    "After a little white lie about losing her virginity gets out, a clean cut high school girl sees her life paralleling Hester Prynne's in \"The Scarlet Letter,\" which she is currently studying in school - until she decides to use the rumor mill to advance her social and financial standing.—Sony Pictures",
+    "High school student Olive Penderghast (Emma Stone) finds herself the victim of her school's \"rumor mill\" when she lies to her best friend Rhiannon (Alyson Michalka) about a weekend tryst with a fictional college freshman. Word quickly spreads of Olive's promiscuity and, much to her surprise, she welcomes the attention. When she agrees to help out a bullied friend by pretending to sleep with him, her image rapidly degrades to a more lascivious state and her world begins to spin out of control. As she helps more and more of her classmates and her lies continue to escalate, Olive must find a way to save face before the school's religious fanatic Marianne (Amanda Bynes) gets her expelled and she loses a shot at attaining her own happiness.—The Massie Twins",
+    "In California, the virgin student Olive Penderghast feels anonymous in the high school where she studies. When her best friend Rhiannon invites her to spend the weekend with her family, Olive lies and tells that she will have a date with a nonexistent community college student. On the next Monday, Rhiannon goes to the bathroom with Olive and asks how her encounter was and Olive lies, telling that she lost her virginity in the weekend with her fictitious boyfriend. However, one school mate overhears their conversation and spreads the rumor about Olive's promiscuity. The religious fanatic Marianne blames her and out of the blue. Olive becomes a notorious student. Meanwhile, Olive is studying \"The Scarlet Letter\" in the English class and she identifies herself like Hester Prynne, the woman condemned by her Puritan neighbors in Nathaniel Hawthorne's novel. Olive discloses the truth to her bullied gay friend Brandon and suggests him to also lie that he had slept with a girl. Brandon asks Olive to help him and she pretends to have sex with him in a party. Then other outcast boys offer to pay Olive to improve their images while Olive's reputation degrades. When Olive loses control of the situation, she needs to take an attitude to revert it.—Claudio Carvalho, Rio de Janeiro, Brazil",
+    "All clean-cut high schooler Olive did was lie about losing her virginity to her friend Rhiannon. However, a little lie has drastic consequences, for her peers believe that she is promiscuous. She eventually embraces this reputation by wearing a red A (for adulterer) like Hester Prynne in The Scarlet Letter. Meanwhile, the rumor mill, which spreads lies about her sexual activities with her peers, comes to her advantage. She improves her social standing. Whoever other students erroneously believe had sex with her enjoy more popularity, which in turn improves her reputation. She receives monetary gifts. However, her reputation takes a toll as she is held liable for something that would cause her to be hated, even when she was not involved in the incident.—Ken"
+  ],
+  "synopsis": "Olive Penderghast (Emma Stone) lies to her best friend Rhiannon Abernathy (Aly Michalka) about going on a date in order to get out of camping with Rhiannon's hippie parents. Instead, she hangs around the house all weekend listening to Natasha Bedingfield's \"Pocketful of Sunshine\". The following Monday, pressed by Rhiannon, Olive lies about losing her virginity to a college guy.Marianne Bryant (Amanda Bynes), a strictly religious girl at their school, overhears her telling the lie and soon it spreads like wildfire. The school's conservative church group run by Marianne decides Olive will be their next project. Olive confides the truth to her friend Brandon (Dan Byrd), and he explains how others bully him because he is gay. Brandon later asks Olive to pretend to sleep with him so that he will be accepted by everyone.Brandon convinces Olive and they pretend to have sex at a party. After having a fight with Rhiannon over Olive's new identity as a \"Dirty Skank\", Olive decides to counteract the harassment by embracing her new image as the school tramp. She begins to wear more provocative clothing and stitches a red \"A\" to everything she wears. Boys who usually have had no luck with girls in the past beg Olive to say they have had sex with her in order to increase their own popularity, in exchange for money, in turn increasing her reputation. Things get worse when Micah (Cam Gigandet), Marianne's 22-year-old boyfriend, contracts chlamydia from sleeping with Mrs. Griffith (Lisa Kudrow), the school guidance counselor, and blames it all on Olive. Olive agrees to lie to cover up the affair so that the marriage of her favorite teacher, Mr. Griffith (Thomas Haden Church), would be spared.Marianne's religious clique, which now includes Rhiannon, begins harassing Olive in order to get her to leave school. After an ill-fated date with Anson (Jake Sandvig), a boy who wants to pay her to actually sleep with him and not just pretend she did, Olive reconnects with Todd (Penn Badgley), her old crush, who is also the school's mascot. Todd then tells her that he does not believe the rumors because he remembers when she lied for him when he was not ready for his first kiss years ago. Olive then begins to ask everyone she lied for to help her out by telling the truth, but Brandon and Micah have abruptly left town and everyone else is enjoying their newfound popularity and do not want the truth to get out. Mrs. Griffith also refuses to tell the truth and when Olive threatens to expose her, Mrs. Griffith rebuffs her, saying no one would believe her.Olive, out of spite, then immediately tells Mr. Griffith, who believes her and separates from Mrs. Griffith. After a friendly talk with her eccentric, open-minded mother Rosemary (Patricia Clarkson), Olive comes up with a plan to get everything finally out in the open. She then does a song and dance number at a school pep rally to get people's attention to watch her via web cam, where she confesses what she has done. The various boys whose reputations Olive helped improve are also shown watching. Later, Olive texts Rhiannon apologizing for lying to her. When she is finishing up her web cast, Todd comes by riding a lawnmower and tells her to come outside. She goes outside to meet him, they kiss and the two are shown riding off on the lawnmower."
+}

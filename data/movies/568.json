@@ -1,0 +1,2049 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/32zua2oKjn2EaRk7am3qK8zAlEj.jpg",
+  "id": 568,
+  "title": "Apollo 13",
+  "poster_path": "https://image.tmdb.org/t/p/w500/oYUZHYMwNKnE1ef4WE5Hw2a9OAY.jpg",
+  "release_date": "1995-06-30",
+  "vote_average": 7.452,
+  "vote_count": 5103,
+  "popularity": 32.892,
+  "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+  "imdb_id": "tt0112384",
+  "budget": 52000000,
+  "homepage": "",
+  "revenue": 355237933,
+  "runtime": 140,
+  "tagline": "Houston, we have a problem.",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "production_companies": [
+    "Imagine Entertainment",
+    "Universal Pictures"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Tom Hanks",
+        "character": "Jim Lovell"
+      },
+      {
+        "name": "Bill Paxton",
+        "character": "Fred Haise"
+      },
+      {
+        "name": "Kevin Bacon",
+        "character": "Jack Swigert"
+      },
+      {
+        "name": "Gary Sinise",
+        "character": "Ken Mattingly"
+      },
+      {
+        "name": "Ed Harris",
+        "character": "Gene Kranz"
+      },
+      {
+        "name": "Kathleen Quinlan",
+        "character": "Marilyn Lovell"
+      },
+      {
+        "name": "David Andrews",
+        "character": "Pete Conrad"
+      },
+      {
+        "name": "Xander Berkeley",
+        "character": "Henry Hurt"
+      },
+      {
+        "name": "Christian Clemenson",
+        "character": "Dr. Chuck"
+      },
+      {
+        "name": "Brett Cullen",
+        "character": "CAPCOM 1"
+      },
+      {
+        "name": "Loren Dean",
+        "character": "John Aaron - EECOM Arthur"
+      },
+      {
+        "name": "Clint Howard",
+        "character": "Sy Liebergot - EECOM White"
+      },
+      {
+        "name": "Ben Marley",
+        "character": "John Young"
+      },
+      {
+        "name": "Marc McClure",
+        "character": "Glynn Lunney"
+      },
+      {
+        "name": "Tracy Reiner",
+        "character": "Mary Haise"
+      },
+      {
+        "name": "Joe Spano",
+        "character": "NASA Director"
+      },
+      {
+        "name": "Mary Kate Schellhardt",
+        "character": "Barbara Lovell"
+      },
+      {
+        "name": "Emily Ann Lloyd",
+        "character": "Susan Lovell"
+      },
+      {
+        "name": "Miko Hughes",
+        "character": "Jeffrey Lovell"
+      },
+      {
+        "name": "Max Elliott Slade",
+        "character": "Jay Lovell"
+      },
+      {
+        "name": "Jean Speegle Howard",
+        "character": "Blanch Lovell"
+      },
+      {
+        "name": "Michele Little",
+        "character": "Jane Conrad"
+      },
+      {
+        "name": "Chris Ellis",
+        "character": "Deke Slayton"
+      },
+      {
+        "name": "Tom Wood",
+        "character": "EECOM Gold"
+      },
+      {
+        "name": "Googy Gress",
+        "character": "RETRO White"
+      },
+      {
+        "name": "Patrick Mickler",
+        "character": "RETRO Gold"
+      },
+      {
+        "name": "Ray McKinnon",
+        "character": "Jerry Bostick - FIDO White"
+      },
+      {
+        "name": "Max Grodénchik",
+        "character": "FIDO Gold"
+      },
+      {
+        "name": "Ned Vaughn",
+        "character": "CAPCOM 2"
+      },
+      {
+        "name": "Andy Milder",
+        "character": "GUIDO White"
+      },
+      {
+        "name": "Geoffrey Blake",
+        "character": "GUIDO Gold"
+      },
+      {
+        "name": "Wayne Duvall",
+        "character": "LEM Controller White"
+      },
+      {
+        "name": "Jim Meskimen",
+        "character": "TELMU White"
+      },
+      {
+        "name": "Joseph Culp",
+        "character": "TELMU Gold"
+      },
+      {
+        "name": "John Short",
+        "character": "INCO White"
+      },
+      {
+        "name": "Ben Bode",
+        "character": "INCO Gold"
+      },
+      {
+        "name": "Todd Louiso",
+        "character": "FAO White"
+      },
+      {
+        "name": "Gabriel Jarret",
+        "character": "GNC White"
+      },
+      {
+        "name": "Christopher John Fields",
+        "character": "Booster White"
+      },
+      {
+        "name": "Kenneth White",
+        "character": "Grumman Rep"
+      },
+      {
+        "name": "James Ritz",
+        "character": "Ted"
+      },
+      {
+        "name": "Andrew Lipschultz",
+        "character": "Launch Director"
+      },
+      {
+        "name": "Mark Wheeler",
+        "character": "Neil Armstrong"
+      },
+      {
+        "name": "Larry Williams",
+        "character": "Buzz Aldrin"
+      },
+      {
+        "name": "Endre Hules",
+        "character": "Guenter Wendt"
+      },
+      {
+        "name": "Karen Martin",
+        "character": "Tracey"
+      },
+      {
+        "name": "Maureen Hanley",
+        "character": "Woman"
+      },
+      {
+        "name": "Meadow Williams",
+        "character": "Kim"
+      },
+      {
+        "name": "Walter von Huene",
+        "character": "Technician"
+      },
+      {
+        "name": "Brian Markinson",
+        "character": "Pad Rat"
+      },
+      {
+        "name": "Steve Rankin",
+        "character": "Pad Rat"
+      },
+      {
+        "name": "Austin O'Brien",
+        "character": "Whiz Kid"
+      },
+      {
+        "name": "Louisa Marie",
+        "character": "Whiz Kid Mom"
+      },
+      {
+        "name": "Thom Barry",
+        "character": "Orderly"
+      },
+      {
+        "name": "Arthur Senzy",
+        "character": "SIM Tech"
+      },
+      {
+        "name": "Carl Gabriel Yorke",
+        "character": "SIM Tech"
+      },
+      {
+        "name": "Ryan Holihan",
+        "character": "SIM Tech"
+      },
+      {
+        "name": "Rance Howard",
+        "character": "Reverend"
+      },
+      {
+        "name": "Jane Jenkins",
+        "character": "Neighbor"
+      },
+      {
+        "name": "Todd Hallowell",
+        "character": "Noisy Civilian"
+      },
+      {
+        "name": "Matthew Michael Goodall",
+        "character": "Stephen Haise"
+      },
+      {
+        "name": "Taylor Goodall",
+        "character": "Fred Haise Jr."
+      },
+      {
+        "name": "Misty Dickinson",
+        "character": "Margaret Haise"
+      },
+      {
+        "name": "Roger Corman",
+        "character": "Congressman"
+      },
+      {
+        "name": "Lee Anne Matusek",
+        "character": "Loud Reporter"
+      },
+      {
+        "name": "Mark D. Newman",
+        "character": "Loud Reporter"
+      },
+      {
+        "name": "Mark McKeel",
+        "character": "Suit Room Assistant"
+      },
+      {
+        "name": "Patty Raya",
+        "character": "Patty"
+      },
+      {
+        "name": "Jack Conley",
+        "character": "Science Reporter"
+      },
+      {
+        "name": "Jeffrey Kluger",
+        "character": "Science Reporter"
+      },
+      {
+        "name": "Bruce Wright",
+        "character": "Anchor"
+      },
+      {
+        "name": "Ivan Allen",
+        "character": "Anchor"
+      },
+      {
+        "name": "Jon Bruno",
+        "character": "Anchor"
+      },
+      {
+        "name": "Reed Rudy",
+        "character": "Roger Chaffee"
+      },
+      {
+        "name": "Steve Bernie",
+        "character": "Virgil Grissom"
+      },
+      {
+        "name": "Steve Ruge",
+        "character": "Edward White"
+      },
+      {
+        "name": "Herbert Jefferson Jr.",
+        "character": "Reporter"
+      },
+      {
+        "name": "John Dullaghan",
+        "character": "Reporter"
+      },
+      {
+        "name": "John Wheeler",
+        "character": "Reporter"
+      },
+      {
+        "name": "Paul Mantee",
+        "character": "Reporter"
+      },
+      {
+        "name": "Julie Rowen",
+        "character": "Reporter"
+      },
+      {
+        "name": "Thomas Crawford",
+        "character": "Reporter"
+      },
+      {
+        "name": "Frank Cavestani",
+        "character": "Reporter"
+      },
+      {
+        "name": "John M. Mathews",
+        "character": "Reporter"
+      },
+      {
+        "name": "Jim Lovell",
+        "character": "Captain of USS Iwo Jima (uncredited)"
+      },
+      {
+        "name": "Neil Armstrong",
+        "character": "Himself (archive footage)"
+      },
+      {
+        "name": "Jules Bergman",
+        "character": "Himself - ABC News (archive footage)"
+      },
+      {
+        "name": "Pope Paul VI",
+        "character": "Himself (archive footage)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "William Broyles Jr.",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Brian Grazer",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Brian Grazer",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "name": "David J. Bomba",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Richard L. Anderson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Dean Cundey",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "James Horner",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "James Horner",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "James Cameron",
+        "department": "Crew",
+        "job": "Visual Effects Design Consultant"
+      },
+      {
+        "name": "Janet Hirshenson",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Jane Jenkins",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "name": "Colin Hanks",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Michael Bostick",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Anthony J. Ciccolini III",
+        "department": "Sound",
+        "job": "Supervising Dialogue Editor"
+      },
+      {
+        "name": "Dean Beville",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Ron Howard",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Ron Howard",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "name": "Todd Hallowell",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Todd Hallowell",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "name": "Kathleen McGill",
+        "department": "Crew",
+        "job": "Production Controller"
+      },
+      {
+        "name": "Aldric La'Auli Porter",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Aldric La'Auli Porter",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Louisa Velis",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Daniel P. Hanley",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Mike Hill",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Rita Ryack",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Al Reinert",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Michael Corenblith",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Bruce Alan Miller",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Merideth Boswell",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Larry Abbott",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Matt Sweeney",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "name": "Shoshana Abrass",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "name": "Shoshana Abrass",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Jeffrey Kluger",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Jeffrey Kluger",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "Jim Lovell",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Jim Lovell",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "Heather Burton",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "William M. Connor",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "name": "Michael Wilmot",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Ezra Dweck",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Don Givens",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "name": "Bruce Moriarty",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "name": "Daniel C. Striepeke",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "name": "Dan Sable",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Lynn Sable",
+        "department": "Sound",
+        "job": "Assistant Dialogue Editor"
+      },
+      {
+        "name": "Marjorie McCown",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "name": "Lila Yacoub",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "name": "Tim Silano",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Carl Clifford",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "name": "Gavin Grazer",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Scott Fuller",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Raymond Stella",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Raymond Stella",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "name": "John Sayles",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "name": "Matt Rebenkoff",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Kim Robert Koscki",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Luke Halpin",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Annie Lennox",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "name": "Gary Zink",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Walter Cronkite",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "name": "Shawn Murphy",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "name": "Jeff 'Moose' Howery",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Clyde E. Bryan",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "John Robotham",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Joseph Sullivan",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Stephen Hunter Flick",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Christopher Duskin",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Joe Finnegan",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jimmy Lindsey",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Vincent Mazella Jr.",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Alan D. Purwin",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Roger Tweten",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "name": "Dave Scott",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "Gerry Griffin",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "Jerry Bostick",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "Angela O'Neill",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "name": "Ronald Batzdorff",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "name": "Erik Bork",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      },
+      {
+        "name": "Ricardo F. Delgado",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "name": "Warren Hamilton Jr.",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Robert 'Bobby Z' Zajonc",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "Patrick McClung",
+        "department": "Visual Effects",
+        "job": "Modelling Supervisor"
+      },
+      {
+        "name": "David T. Cannon",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "name": "Steve Graves",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Hallie D'Amore",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Dan Bronson",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Elaine Ramires",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Donald Flick",
+        "department": "Crew",
+        "job": "Special Sound Effects"
+      },
+      {
+        "name": "Eric Lindemann",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Joy Zapata",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Louis Cerborino",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Patricio A. Libenson",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Steven M. Levine",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "name": "Dan Dorfer",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "name": "Scott Millan",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Hazel Catmull",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Andy Ryan",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Pablo Helman",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Steve Pederson",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Susan Pickett",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Douglas Murray",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "Andrew L. Ullman",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "name": "Karen E. Goulekas",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Bob Moore Jr.",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Eva Z. Cabrera",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Kelly L'Estrange",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Glenn Allen",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Richard Friedlander",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Jenny Fulle",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Joseph Hodges",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Jim Henrikson",
+        "department": "Sound",
+        "job": "Supervising Music Editor"
+      },
+      {
+        "name": "Joel Marrow",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "name": "Michelle Morrissey",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "name": "Lori Rowbotham",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "name": "Wayne Shepherd",
+        "department": "Art",
+        "job": "Leadman"
+      },
+      {
+        "name": "Thomas A. Gulino",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Bitty O'Sullivan-Smith",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "name": "Bob Olari",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "name": "Rick Dior",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Debra Wolff",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "name": "James M. Halty",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Mickey Gilbert",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Josh Bleibtreu",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Casey Hotchkiss",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "David Norris",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "name": "Mary Elizabeth Still",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "name": "Elise Ganz",
+        "department": "Crew",
+        "job": "Studio Teachers"
+      },
+      {
+        "name": "Andrew Lipschultz",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "name": "Andrew Lipschultz",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "name": "Ned R. Shapiro",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "name": "Erik Nash",
+        "department": "Visual Effects",
+        "job": "VFX Director of Photography"
+      },
+      {
+        "name": "Jason Vanover",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Bryan Grill",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Kathryn Blondell",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "name": "Carolyn Elias",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Robert Legato",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Bob Chefalas",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Harry Peck Bolles",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Frank Smathers",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Audrey L. Anzures",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "name": "Lisa J. Levine",
+        "department": "Sound",
+        "job": "Supervising ADR Editor"
+      },
+      {
+        "name": "Elliott Koretz",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "name": "Kathryn Mindala",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "name": "Bobby Amor",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Jammie Friday",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Glenn E. Moran",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Larry L. Fuentes",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Dana Gustafson",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "name": "John Pospisil",
+        "department": "Crew",
+        "job": "Special Sound Effects"
+      },
+      {
+        "name": "Linda Yeaney",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "name": "Martine Tomczyk",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Steven Bramson",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "name": "Roger C. Johnson",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "name": "Bruce Y. Kuroyama",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Janna Stern",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "name": "Geoffrey Patterson",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Chip Byrd",
+        "department": "Camera",
+        "job": "Additional Second Assistant Camera"
+      },
+      {
+        "name": "Trevor Loomis",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Thomas S. Drescher",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "name": "Leslie Weir",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Paul J. Zydel",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "David O. Krupnick",
+        "department": "Crew",
+        "job": "Set Medic"
+      },
+      {
+        "name": "Randy Cantor",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "name": "Glenn DiVincenzo",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "name": "Michole Bergstrom",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Joe McCloskey",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "Rich E. Cordobes",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Dylan K. Massin",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Dean Drabin",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "name": "Matthew C. Beville",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "name": "Gary Brostrom",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Scott Smith",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "name": "Ron Cardarelli",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Stephen Sfetku",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Mark Lohff",
+        "department": "Visual Effects",
+        "job": "Digital Effects Producer"
+      },
+      {
+        "name": "David MacMillan",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Kirk Douglas",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Darren Langer",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Tony Anderson",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "name": "David S. Campbell",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "name": "Craig Woods",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Gary Burritt",
+        "department": "Editing",
+        "job": "Negative Cutter"
+      },
+      {
+        "name": "Dan Brizendine",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Jonathan McGarry",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Kieran Woo",
+        "department": "Crew",
+        "job": "Production Controller"
+      },
+      {
+        "name": "David Jobe",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "name": "Rodney Lee Bennett",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Larry A. Cornick",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Stuart Stanley",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "name": "Carolyn Calvert",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "Yvette Nabel",
+        "department": "Sound",
+        "job": "Assistant Dialogue Editor"
+      },
+      {
+        "name": "Steve Lee",
+        "department": "Crew",
+        "job": "Special Sound Effects"
+      },
+      {
+        "name": "Jerry Hall",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Michael Tamburro",
+        "department": "Crew",
+        "job": "Pilot"
+      },
+      {
+        "name": "George Stevens",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Paulie DiCocco",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Susanna Griffith",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "name": "Joshua A. Sipe",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "name": "David A. Weinman",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "name": "William Matzner",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Scott Johnson",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "name": "Marty Dobkousky",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Carmen Mazarow",
+        "department": "Costume & Make-Up",
+        "job": "Seamstress"
+      },
+      {
+        "name": "Beverly Burton",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "name": "Johnny Bartlet",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "John Hynes",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "name": "Matthew Martin",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "name": "Stephanie Axe",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "William Pine",
+        "department": "Editing",
+        "job": "Color Timer"
+      },
+      {
+        "name": "Rick Petretti",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "name": "Mark Soucie",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "name": "Steve Bowerman",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Feliciano di Giorgio",
+        "department": "Visual Effects",
+        "job": "Digital Compositors"
+      },
+      {
+        "name": "John Palmer",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "name": "Chad Merriam",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "name": "John Lisman",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "name": "John Maskovich",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Lucinda Strub",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Josh Margolies",
+        "department": "Visual Effects",
+        "job": "Visual Effects Assistant Editor"
+      },
+      {
+        "name": "Dave Wachtman",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "name": "Ann Hadsell",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "name": "J. Steven Latham",
+        "department": "Camera",
+        "job": "Additional First Assistant Camera"
+      },
+      {
+        "name": "Greg Wilkinson",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Jolanda R. Wipfli",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "name": "Guy Barresi",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "name": "O'Shana Walker",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Troy Webb",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "John Sutton",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "name": "Eric Ramsey",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "name": "Steve Chandler",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Tommy Dorsett",
+        "department": "Visual Effects",
+        "job": "Visual Effects Assistant Editor"
+      },
+      {
+        "name": "Kevin Edwards",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Scott G. Jones",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Jan Aaris",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Bryan Ashford",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jane Paul",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "name": "Wendi Haas",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Mark A. Lasoff",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Ethan Ormsby",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "Amy Jupiter",
+        "department": "Visual Effects",
+        "job": "Digital Effects Producer"
+      },
+      {
+        "name": "Michael Lorenz",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Hope Shaw",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Rosario Aguirre",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Keri Weisblum",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "Susan Giordano",
+        "department": "Production",
+        "job": "Assistant Accountant"
+      },
+      {
+        "name": "James Robinson II",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "name": "Terry Odem",
+        "department": "Crew",
+        "job": "Actor's Assistant"
+      },
+      {
+        "name": "Bill J. DiDonna",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "name": "Danna Edwards",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "name": "William Esparza",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Bud Lacy",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "James E. Vargas",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "name": "Ajay Dass",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "name": "Anthony Vitagliano",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "name": "Matthew Pook",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Anthony J. Saenz",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "name": "Alfred Cervantes",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Chris Clifton",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Dennis Clay",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Lars Sloan",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Michael Barson",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Michael McDevitt",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Misty Conn",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Paul Swen",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Susan Jamison",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "K. Marshall Smith",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Jeffray C. Eagle",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "name": "Lisa J. Watters",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Virginia Dнaz",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Brooke Rand McDonald",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "name": "Chris Pascuzzo",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Edward J. McCarthy",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Richard M. Jones",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "name": "Eddee Kolos",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Laurel Robinson",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "name": "Fred Tessaro",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Jeffrey Machit",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Kent D'Huet",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Paul Sabourin",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "R. Michael Bisetti",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Rocky Severy",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Steve Luport",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Tony Centonze",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "William Centonze",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Donald Krause",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Harold Selig",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "James M. Hart",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Manuel S. Epstein",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "name": "Max L. Ary",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "name": "Lynne Redding",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "name": "Jim Fine",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Keith Roverud",
+        "department": "Lighting",
+        "job": "Assistant Chief Lighting Technician"
+      },
+      {
+        "name": "Michael Orefice",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Joseph J. Orefice",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "name": "Ben O. Graham",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Keith Orefice",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Atillio Orefice",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Dennis Hus",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Gary Ware",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Peter Eisner",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "name": "Larry D. Davis",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "name": "Michael D. Hightower",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Ron Peebles",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Jimmy Giacona",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Eugene Siegmund",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "name": "Steven Cardarelli",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "name": "Randy Troyanek",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "name": "Laurie Resnick",
+        "department": "Visual Effects",
+        "job": "Digital Compositor"
+      },
+      {
+        "name": "John McLaughlin",
+        "department": "Crew",
+        "job": "Digital Effects Supervisor"
+      },
+      {
+        "name": "Bradford Plows",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Brian Ripley",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Eugene P. Rizzardi",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Gerald McClung",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Gordon Forkert",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Greg Bryant",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "John Ferrari",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Sabine Meyer zu Recendorf",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Felix Ojeda",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Michael Possert Jr.",
+        "department": "Visual Effects",
+        "job": "Modeling"
+      },
+      {
+        "name": "Matt Coohill",
+        "department": "Crew",
+        "job": "Systems Administrators & Support"
+      },
+      {
+        "name": "Brian Marincic",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "name": "Stephen Sobisky",
+        "department": "Editing",
+        "job": "Project Manager"
+      },
+      {
+        "name": "Scott Ross",
+        "department": "Production",
+        "job": "General Manager"
+      },
+      {
+        "name": "Kevin E. Patterson",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "name": "Felisa Finn",
+        "department": "Art",
+        "job": "Set Painter"
+      }
+    ]
+  },
+  "keywords": [
+    "rescue",
+    "florida",
+    "race against time",
+    "moon",
+    "nasa",
+    "spaceman",
+    "based on true story",
+    "houston",
+    "survival",
+    "space",
+    "disaster",
+    "explosion",
+    "astronaut",
+    "hypothermia",
+    "apollo program",
+    "lunar mission",
+    "spacecraft accident"
+  ],
+  "mpaa": "PG",
+  "summaries": [
+    "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+    "This Hollywood drama is based on the events of the Apollo 13 lunar mission, astronauts Jim Lovell, Fred Haise and Jack Swigert find everything going according to plan after leaving Earth's orbit. However, when an oxygen tank explodes, the scheduled moon landing is called off. Subsequent tensions within the crew and numerous technical problems threaten both the astronauts' survival and their safe return to Earth.—Jwelch5742",
+    "On board a NASA spacecraft that is on route to the moon, three astronauts experience problematic difficulties that put their lives in danger. They must do everything to get back to Earth safely before they experience more damage that could potentially kill them.—RECB3",
+    "A movie based on what was to be the third lunar-landing mission. This film shows the trials and tribulations of the Apollo 13 crew, mission control, and families after a near-fatal accident cripples the space vehicle. A mission that couldn't get TV airtime because space flights had become routine to the American public suddenly grabbed the national spotlight. This is a tale of averted tragedy, heroism and shows a testament to the creativity of the scientists who ran the early space missions.—FMJ_Joker",
+    "It had been less than a year since man first walked on the Moon, but as far as the American public was concerned, Apollo 13 was just another \"routine\" space flight--until these words pierced the immense void of space: \"Houston, we have a problem.\" Stranded 205,000 miles from Earth in a crippled spacecraft, astronauts Jim Lovell, Fred Haise and Jack Swigert fight a desperate battle to survive. Meanwhile, at Mission Control, astronaut Ken Mattingly, flight director Gene Kranz and a heroic ground crew race against time--and the odds--to bring them home.—Robert Lynch <docrlynch@yahoo.com>"
+  ],
+  "synopsis": "The story opens on July 20, 1969, in the home of astronaut Jim Lovell (Tom Hanks). Jim and a number of other NASA families are gathered to watch the moon walk by Apollo 11's astronauts. Later on, Jim contemplates how close he came to the moon when he was orbiting it on Apollo 8, and thinks about one day setting foot on the moon, as his wife Marilyn (Kathleen Quinlan) tries to keep from thinking of her husband going off on another mission.Some months later, Jim is informed that due to an ear infection by one of the Apollo 13 crew, he and his crew members have been bumped up to become the Prime Crew for the mission. Marilyn has some misgivings, given the shortened schedule (and that the mission number is 13), but Jim is confident they'll be ready.Jim works with his crew members Fred Haise (Bill Paxton) and Ken Mattingly (Gary Sinise), and the three seem well-prepared for their mission. It is shortly before the launch, that Marilyn hints to Jim about her misgivings about the flight, but Jim assures her she's going to miss a great show.After their discussion, Jim and his crew members attend a small press conference, where they discuss the different ways that the number '13' has worked into the launch (Apollo 13, launching at 1300 hours and 13 minutes, and orbiting the moon on April 13th). Jim also surprises the press and the crew, when he declares that the mission will also be his last.With days before the mission, the Flight Surgeon reveals that a member of the backup crew has the measles, and the primary crew has been exposed to it. The Flight Surgeon feels that since Ken Mattingly has not had the measles before, he is at serious risk of becoming sick during the mission. Jim is then given a choice: he can have Ken Mattingly replaced with his backup, Jack Swigert (Kevin Bacon), or the Apollo 13 crew as a whole can be pushed back to a later mission. Though he is upset by the choices, Jim chooses to replace Ken. Jack is called and celebrates when he finds out but Ken is devastated when both Jim and Fred give him the news.The crew continues to train in the simulator with Swigert, though they are not as confident in Jack's piloting skills as Ken's. Even so, Jim promises they'll be ready for the launch.On the day of the launch, Ken watches from a distance as the rocket takes off, with Marilyn Lovell and Fred Haise's wife Mary (Tracy Reiner) in attendance near the launch site. The launch is a success and Marilyn and Mary are relieved when the Saturn V rocket carrying their husbands makes it into space.Eventually, the crew are able to successfully dock the Command Module with the LEM (Lunar Excursion Module), Swigert's piloting skills being up to the task, and the mission continues toward the Moon. The crew also broadcasts a video of being inside the craft, but due to feelings that moon missions aren't exciting anymore, none of the television networks carry the transmission.Shortly after the video feed, the crew makes some 'housekeeping procedures' on the ship, and Jim Swigert is asked to stir the oxygen tanks. Suddenly, a loud bang is heard, and the ship begins to pitch out of control, with the system buttons lighting up, and the oxygen tanks beginning to fail.Mission Control (led by Gene Kranz (Ed Harris)) springs into action, attempting to work the problem from the ground. Lovell reports, amid all the confusion, that the service module is leaking oxygen. At the insistence of EECOM member Sy Liebergot (Clint Howard), it is suggested to shut down the fuel cells to prevent further leakage. However, this move comes at a price: if the fuel cells are closed they cannot be reopened and the moon landing will not happen. The procedure is met with some trepidation by Jim Lovell, but the crew makes the move...only for the oxygen level in the Command Module to continue to plummet. With 15 minutes of oxygen remaining in the Command Module, an emergency transfer is made to transfer the flight computer's information and the astronauts into the LEM, utilizing it as a lifeboat. The crew moves through the 3-hour power-up procedure for the LEM in record time, relying on data they have to draw from the Odyssey's flight computer and help from the Mission Control ground crew to check their arithmetic for their course headings.Eventually, the crew are secure in the LEM and control is reestablished to the Odyssey, and Gene Kranz and his men attempt to figure out the best way to bring the men home. While some are for a 'direct abort' (having the crew turn the ship around and head back to Earth immediately) using the Command Module, Gene says it's too risky to light its engine, as they don't know to what extent the 'explosion' that was reported has affected the craft. The plan is for the moon's gravity to slingshot the crew around, and once they come around, they'll fire up the LEM's engine to send them home. The men who designed the LEM do caution that their craft was not designed for what is being proposed, let alone holding 3 men instead of 2. Even so, Gene insists it's the only option they have that's workable.Meanwhile, Marilyn Lovell attempts to keep herself together and be strong for her family. At one point NASA media spokesman Henry Hunt (Xander BerkeleyXander Berkeley) asks Marilyn if the news stations can set up an antenna on her front lawn. She harshly refuses, saying that they can talk to Jim himself after he comes home.On the craft, the crew passes into the dark side of the moon and soon passes back around. Though Haise and Swigert are excited to see their landing site below and Jim imagines his own walk on the moon's surface, Jim informs them that they still need to prepare to return home.It is during this time, that the men at Mission Control have determined that there's only 45 hours worth of power left on the craft, which is not enough to bring them home. This information is corrected by John Aaron (Loren Dean), who insists that they are using more power than the calculations have estimated and that it will be drained completely in 15 hours. John says that the crew has to shut off nearly everything, including their navigational computer, and get the use of power down to 12 Amps (aka amperes). Gene approves but then tells the others to do further research, including simulator time to work on a power-up procedure for re-entry.Ken Mattingly, who'd isolated himself at home and had missed all the news about the mission being crippled, is called in, and begins to do simulator work. Ken figures that if they can eliminate unneeded procedures from the checklist, he can most likely get the men back with the limited power they have. He orders the simulator team to give him the same conditions and equipment that the Odyssey crew has and begins to work long hours without any breaks to figure out a procedure.Shortly after, a new problem is found when it is determined that all three men in the LEM are using up more oxygen and producing more carbon dioxide than expected. Fred Haise realizes that he made an error when he calculated oxygen reserves for only himself and Jim since they were going to be the only 2 using the LEM. The ground team realizes that the LEM filters are round, and the only other filters on the craft (for the Command Module) are square. A team is put together to create a filtration system from the limited supplies on the craft itself. The team works feverishly to build a new filter.On the spacecraft, the crew gets into a short argument when Jack brings up a distant re-entry factor and Fred suggests that Jack had caused the accident when he stirred the oxygen tanks. Lovell gets them both to back down, saying that arguing and blaming each other will get them nowhere. They receive a call from Houston alerting them to the oxygen problem just as the CO2 saturation light comes on and work together quickly to build the filter the ground team designed. The procedure is a success and the filter cleanses the air supply in the ship.When it is determined the crew needs to do a 'manual burn' to correct their trajectory back to Earth, Jim and the crew time a difficult 30-second burn using only rudimentary physics: the course computer had to be shut down to conserve battery power and they can only navigate by using one of the LEM's windows by keeping the Earth positioned in it. All 3 work together to pilot the ship and the burn is successful.With their course corrected, Jim and the crew are eager for the power-up procedure but are told that it is still being completed. However, there is some hope when Mission Control mentions that Ken Mattingly is working on the problem. The crew are cold since the heaters had to be shut down and Haise begins to feel ill and runs a moderate fever.Ken has streamlined his work as best he can, but the procedure is still going over by 4 amps. It is then that Ken proposes that some of the excess power still in LEM can be reversed into the Command Module. Though power will be lost in the transfer, the amperage needed is found to be enough to complete the procedure without the system losing power.Ken and his comrades quickly rush over to Mission Control with the procedure. Ken helps guide the exhausted Jack Swigert through the power-up, while Jim and Fred add ballast into the Command Module pod, which is underweight since the planned addition of moon rock samples from the mission did not happen. With Ken's instruction, Jack gets the Odyssey's systems up and running again.The crew then jettisons the service module from the ship. As it drifts off, the astronauts record and comment on what they see: an entire panel of the craft was blown out and may have damaged the heat shield of the Command Module pod, creating a new potential problem that the Odyssey won't be able to survive the intense temperature of re-entry into Earth's atmosphere.Eventually, the LEM is cut loose, and the crew prepares for re-entry. For a brief moment, Jack thinks Jim will pilot the Odyssey himself but Jim returns control of it to Jack, saying he'd only sat in the pilot's seat out of habit. Meanwhile, around the world, numerous people wait to see if the three men will make it back. Friends and relatives of Marilyn gather at her home to watch the news coverage.As the men begin their re-entry, contact is lost, and a countdown to 3 minutes begins (the average time it takes astronauts to emerge from 'black out'). However, after 3 minutes, no word is heard when Ken Mattingly radios the crew. The time then stretches agonizingly into 4 1/2 minutes, before suddenly Jim Lovell's voice is heard, and a video feed shows the capsule with its parachutes deployed. The men are quickly recovered, and taken aboard the USS Iwo Jima, to the cheers of numerous crew.In a voice-over, Jim explains that their mission was called \"a successful failure,\" in that they returned safely, but didn't make it to the moon. It is also revealed that the cause of the explosion was a damaged coil in the oxygen tank that exploded which had been determined a 'minor defect' two years before Lovell was named captain of the ship.A summary is then given of the lives of several other people:Fred Haise was scheduled to be on Apollo 18, but due to budget cuts, his mission never happened.Jack Swigert left NASA and was elected to Congress for the State of Colorado, but died of cancer before taking office.Ken Mattingly orbited the moon as command module pilot of Apollo 16 and flew the Space Shuttle (having never gotten the measles).Gene Kranz retired as head of Mission Control in the mid-90's.As stated to the press, Jim's time aboard Apollo 13 was his last space mission. Even so, he hopes that one day, NASA will return to the moon."
+}

@@ -1,0 +1,827 @@
+{
+  "backdrop_path": "https://image.tmdb.org/t/p/w500/kmuSGNlF9mfNHIDOEVEWPj6f3Ak.jpg",
+  "id": 337404,
+  "title": "Cruella",
+  "poster_path": "https://image.tmdb.org/t/p/w500/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+  "release_date": "2021-05-26",
+  "vote_average": 8.037,
+  "vote_count": 8764,
+  "popularity": 79.858,
+  "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+  "imdb_id": "tt3228774",
+  "budget": 200000000,
+  "homepage": "https://movies.disney.com/cruella",
+  "revenue": 233503234,
+  "runtime": 134,
+  "tagline": "Hello Cruel World",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "production_companies": [
+    "Walt Disney Pictures",
+    "Gunn Films",
+    "Marc Platt Productions"
+  ],
+  "production_countries": [
+    "US"
+  ],
+  "credits": {
+    "cast": [
+      {
+        "name": "Emma Stone",
+        "character": "Estella / Cruella"
+      },
+      {
+        "name": "Emma Thompson",
+        "character": "The Baroness"
+      },
+      {
+        "name": "Joel Fry",
+        "character": "Jasper"
+      },
+      {
+        "name": "Paul Walter Hauser",
+        "character": "Horace"
+      },
+      {
+        "name": "Mark Strong",
+        "character": "John the Valet"
+      },
+      {
+        "name": "Tipper Seifert-Cleveland",
+        "character": "Estella (12 yrs)"
+      },
+      {
+        "name": "Kirby Howell-Baptiste",
+        "character": "Anita Darling"
+      },
+      {
+        "name": "Emily Beecham",
+        "character": "Catherine"
+      },
+      {
+        "name": "John McCrea",
+        "character": "Artie"
+      },
+      {
+        "name": "Kayvan Novak",
+        "character": "Roger"
+      },
+      {
+        "name": "Jamie Demetriou",
+        "character": "Gerald"
+      },
+      {
+        "name": "Abraham Popoola",
+        "character": "George"
+      },
+      {
+        "name": "Leo Bill",
+        "character": "Headmaster"
+      },
+      {
+        "name": "Javone Prince",
+        "character": "Ipswich Manor Security Guard"
+      },
+      {
+        "name": "Steve Edge",
+        "character": "Steven the Jewellery Shop Assistant"
+      },
+      {
+        "name": "Paul Chowdhry",
+        "character": "Restaurant Owner"
+      },
+      {
+        "name": "Ziggy Gardner",
+        "character": "Jasper (12 yrs)"
+      },
+      {
+        "name": "Joseph MacDonald",
+        "character": "Horace (12 yrs)"
+      },
+      {
+        "name": "Niamh Lynch",
+        "character": "Liberty Shop Girl"
+      },
+      {
+        "name": "Andrew Leung",
+        "character": "Jeffrey"
+      },
+      {
+        "name": "Ed Birch",
+        "character": "Baroness Head of Security"
+      },
+      {
+        "name": "Dylan Lowe",
+        "character": "Mean Ginger"
+      },
+      {
+        "name": "Paul Bazely",
+        "character": "Police Commissioner"
+      },
+      {
+        "name": "Ninette Finch",
+        "character": "Lady"
+      },
+      {
+        "name": "Sarah Crowden",
+        "character": "Beehive Lady"
+      },
+      {
+        "name": "Harrison Willmott",
+        "character": "Mean Kid"
+      },
+      {
+        "name": "Jack Barry",
+        "character": "Restaurant Valet"
+      },
+      {
+        "name": "Asmara Gabrielle",
+        "character": "Teacher"
+      },
+      {
+        "name": "Tom Turner",
+        "character": "The Baron"
+      },
+      {
+        "name": "Haruka Abe",
+        "character": "Liberty Woman"
+      },
+      {
+        "name": "Thomas Padden",
+        "character": "Viking Gala Security Guard"
+      },
+      {
+        "name": "Carl Rice",
+        "character": "Viking Gala Security Guard"
+      },
+      {
+        "name": "Chris Ryman",
+        "character": "Viking Gala Security Guard"
+      },
+      {
+        "name": "Hannah Stokely",
+        "character": "Rich Woman"
+      },
+      {
+        "name": "Richard David-Caine",
+        "character": "Dog Groomer"
+      },
+      {
+        "name": "Waleed Akhtar",
+        "character": "Policeman"
+      },
+      {
+        "name": "Janet Henfrey",
+        "character": "Society Maven"
+      },
+      {
+        "name": "Elizabeth Marcano-Mortlock",
+        "character": "Society Maven"
+      },
+      {
+        "name": "Camilla Roholm",
+        "character": "Society Maven"
+      },
+      {
+        "name": "Joey Akubeze",
+        "character": "French Speaking Ipswich Manor Guard"
+      },
+      {
+        "name": "Linette Beaumont",
+        "character": "Posh Guest 2"
+      },
+      {
+        "name": "Conor Moloney",
+        "character": "Rich Man"
+      },
+      {
+        "name": "Robert Cawsey",
+        "character": "Swanky Bar Waiter"
+      },
+      {
+        "name": "Ed Kear",
+        "character": "Interviewer"
+      },
+      {
+        "name": "Sid Sagar",
+        "character": "Mark"
+      },
+      {
+        "name": "Jacqueline Chan",
+        "character": "Jewellery Shop Assistant"
+      },
+      {
+        "name": "Hermione Gulliford",
+        "character": "Posh Guest"
+      },
+      {
+        "name": "Surinder Duhra",
+        "character": "Lawyer"
+      },
+      {
+        "name": "Peter Singh",
+        "character": "Country Constable"
+      },
+      {
+        "name": "Geoffrey Burton",
+        "character": "Elderly Man"
+      },
+      {
+        "name": "Helena Dowling",
+        "character": "Fashion Reporter"
+      },
+      {
+        "name": "Tim Steed",
+        "character": "Frederick"
+      },
+      {
+        "name": "John Mackay",
+        "character": "House of Baroness Men"
+      },
+      {
+        "name": "Nathan Amzi",
+        "character": "House of Baroness Men"
+      },
+      {
+        "name": "Trevor Laird",
+        "character": "Asthma Man"
+      },
+      {
+        "name": "Joshua Hill",
+        "character": "Viking Gala Guard"
+      },
+      {
+        "name": "Michelle Greenidge",
+        "character": "Viking Gala Guard"
+      },
+      {
+        "name": "Jane How",
+        "character": "Society Maven"
+      },
+      {
+        "name": "Angela Sims",
+        "character": "Society Maven"
+      },
+      {
+        "name": "Geraldine Fitzgerald",
+        "character": "Society Maven"
+      },
+      {
+        "name": "Maeve Chadwick",
+        "character": "Estella (Toddler)"
+      },
+      {
+        "name": "Nell Chadwick",
+        "character": "Estella (Toddler)"
+      },
+      {
+        "name": "Billie Gadsdon",
+        "character": "Estella (Age 5)"
+      },
+      {
+        "name": "Florisa Kamara",
+        "character": "Anita (12 yrs)"
+      },
+      {
+        "name": "Crystal Wingx",
+        "character": "Head Seamstress With Newspaper (uncredited)"
+      },
+      {
+        "name": "John Wolfe",
+        "character": "Guard (uncredited)"
+      },
+      {
+        "name": "Robert Ryan",
+        "character": "Ball Guest (uncredited)"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Glenn Close",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Tina Turner",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Kim McGarrity",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tatiana S. Riegel",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "name": "Aline Brosh McKenna",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Lucy Allen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ron Bartlett",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Mark P. Stoeckinger",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "name": "Jenny Beavan",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "name": "Marc Platt",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Steve Zissis",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Sarita Allison",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "name": "Craig Gillespie",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "name": "Emma Stone",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Dana Fox",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Marvin Campbell",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Andrew Gunn",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Dodie Smith",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "name": "Tony McNamara",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "name": "Florence Welch",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Nicolas Karakatsanis",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "name": "Kelly Marcel",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "name": "Nina Simone",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "name": "Nina Armstrong",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Mark Mostyn",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "name": "Lori Korngiebel",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "name": "Fiona Crombie",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "name": "Stephanie Carey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nick Chopping",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Clare Spragge",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "name": "Alan Rankin",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Laura Swift",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "David Cheung",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Paul Heasman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christoph Roth",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "name": "Ann Scibelli",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Kenny Knight",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nadia Stacey",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "name": "Douglas Robson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Ben Dimmock",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Massimiliano Ubaldi",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Martyn Zub",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "name": "Martyn Zub",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "name": "Martin Foley",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "name": "Alice Felton",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "name": "Nicholas Britell",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "name": "Lydia Fry",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Michelle Wright",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "name": "Levan Doran",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Sarah Franzl",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lloyd Bass",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Max Wood",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "name": "Zoe Midgley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jazz Peters",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Stuart Boother",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kevin Timon Hill",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Chris Pollard",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jason Hunjan",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "name": "Erol Ismail",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Claire Lawrence",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Justin Pearson",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Luke Whitelock",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Andrew Burford",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Kristin Burr",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Juliette Cheveley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Arran Topham",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bradley Farmer",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Rob Hunt",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Gary Kane",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Elizabeth Donker Curtius",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Elizabeth Donker Curtius",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "name": "Jonathan Cohen",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Blake Sporne",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Hasit Savani",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Adam Basil",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Calvin Warrington-Heasman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Nic Goodey",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Guy List",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Georgia Warner",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Grace Franzl",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Karen Teoh",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Olivia Slee",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Adam Bowman",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Zach Roberts",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Bogdan Kumšackij",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "André Layne",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "George Harris",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Christian Cole",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Dom Dumaresq",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Jared leboff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "name": "Alice Walker",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "name": "Paul Joseph",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Steven Whitley",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Stuart James",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lucy Fowl",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Doren John Farmer",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Emma Ennis",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Tom Crowley Ellis",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Marco Bertagna",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Matt Crook",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "name": "Lucy Scarfe",
+        "department": "Crew",
+        "job": "Stand In"
+      }
+    ]
+  },
+  "keywords": [
+    "1970s",
+    "anti hero",
+    "villain",
+    "punk rock",
+    "fashion designer",
+    "fashion",
+    "origin story",
+    "live action remake"
+  ],
+  "mpaa": "PG-13",
+  "summaries": [
+    "A live-action prequel feature film following a young Cruella de Vil.",
+    "Before she becomes Cruella de Vil, teenage Estella has a dream. She wishes to become a fashion designer, having been gifted with talent, innovation, and ambition all in equal measures. But life seems intent on making sure her dreams never come true. Having wound up penniless and orphaned in London at 12, 10 years later Estella runs wild through the city streets with her best friends and partners-in-(petty)-crime, Horace and Jasper, two amateur thieves. When a chance encounter vaults Estella into the world of the young rich and famous, however, she begins to question the existence she's built for herself in London and wonders whether she might, indeed, be destined for more after all.—Katie",
+    "\"Cruella,\" which is set in 1970s London amidst the punk rock revolution, follows a young grifter named Estella, a clever and creative girl determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they're able to build a life for themselves on the London streets. One day, Estella's flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute, played by 2-time Oscar® winner Emma Thompson. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable, and revenge-bent Cruella.",
+    "Estella is a young and clever grifter who's determined to make a name for herself in the fashion world. She soon meets a pair of thieves who appreciate her appetite for mischief, and together they build a life for themselves on the streets of London. However, when Estella befriends fashion legend Baroness von Hellman, she embraces her wicked side to become the raucous and revenge-bent Cruella.—avenueviera",
+    "Against the backdrop of 1970s London emerging punk scene, Estella, a creative and rapaciously ambitious fashion genius, finds herself in the right place at the right time. Then, after catching the eye of narcissistic Baroness, an icy haute-couture icon and undisputed queen of fashion, Estella lands the perfect job, and just like that, the sassy girl starts to live out her dreams of becoming a top fashionista. However, the road to success and empowerment is fraught with struggles, doubts, and uncertainties, and before long, something utterly different and entirely dangerous awakens. Indeed, living in the shadows is such a waste, and only God knows how much Estella has tried to be kind and sweet. Now, bold, confident, jet-black-snow-white-coiffed Cruella emerges, eager to take over, and she takes no prisoners. Has evil ever looked so good?—Nick Riganas"
+  ],
+  "synopsis": "Estella was born in the early 1950s England with black and white hair which was already considered unusual (a medical condition called poliosis). In 1964, at age 12, Estella attends school but is ostracized by the other students for her unusual hair-color and nefarious attitude. Catherine (Emily Beecham), Estella's mother, immediately sees potential in her due to her creativity in fashion and her affinity for dogs, especially a stray she picks up named Buddy. Due to her rebellious nature, Catherine pulls Estella from school and they decide to move to London to make a fresh start.Catherine attends a party hosted by Baroness von Hellman (Emma Thompson) and tells Estella to stay in the car. However, Estella ends up chasing Buddy and runs afoul of the Baroness' ferocious Dalmatians. As she runs outside, she sees Catherine speaking to the Baroness and the Dalmatians end up running Catherine over a landing and off a cliff to her death. Believing that she killed her mother, Estella takes Buddy and flees into the city, though not before losing her mother's important necklace. Estella is found by two street urchins named Jasper and Horace, as well as their one eyed dog Wink, who reluctantly invite her to stay with them as she dyes her hair red.Ten years later in 1974, the adult Estella (Emma Stone), Jasper (Joel Fry) and Horace (Paul Walter Hauser) make a living as petty thieves and pick-pockets to make ends meet while Estella continues making designs for extravagant clothing at the local stores on Savill Row. For her 22nd birthday, Jasper and Horace get her an entry level job as a janitor for a Liberty fashion store. Her manager continues to belittle her as she tries to make suggestions that are swiftly ignored. While staying late one night, an inebriated Estella \"fixes\" one of the window displays which is seen by the Baroness in the morning. Impressed, she hires Estella to join her elite team of clothing designers. To expand her creativity, Estella also befriends the owner of a vintage clothing store named Artie (John McCrea) who admires her taste in fashion. Estella rises in the ranks and acts as a supervisor of sorts for the Baroness, but upon seeing her necklace being worn by her, and hears the Baroness' claims that it was previously stolen from her, Estella resorts to getting Jasper and Horace to help steal the necklace.Estella, wearing her natural hair color, and adopting the guise of \"Cruella\", crashes the Baroness' party while Jasper and Horace try to steal the necklace. However, the Baroness is wearing it and Jasper releases rats to distract the party goers. As the Baroness uses a dog whistle to command her Dalmatians, Estella comes to the realization that she used the same whistle to direct her dogs to kill Catherine. One of the Dalmatians ends up swallowing the necklace as Estella, Jasper and Horace flee in a stolen Panther de Ville.Now with a proper motive for revenge, Estella continues to taunt the Baroness by appearing at her lavish gatherings in over-the-top and stylish outfits and recruiting her childhood school friend Anita Darling (Kirby Howell-Baptiste) to use her journalistic connections to spread her publicity. Jasper and Horace begin to feel abused by \"Cruella\", but continue to aid her. The Baroness, growing more and more angered at Cruella, fires her lawyer Roger (Kayvan Novak) who returns to his side work as a pianist. Estella continues her taunting by kidnapping the Baroness' Dalmatians until one of the them gives up the necklace.Estella's schemes get more daring as she has Artie create more outfits and together they put on a fashion show in the Regent's Park. The Baroness, finally figuring out that Cruella is Estella, finds her hideout and captures Jasper and Horace. Estella is tied up as she burns the place to the ground while Jasper and Horace are arrested and blamed for her death. However, Estella is rescued by John (Mark Strong), the Baroness' valet, who had managed to secure the necklace which is a key to a box containing Estella's birth records. Estella finds out she is actually the Baroness' daughter. Being vain, the Baroness was disappointed with her pregnancy and asked that Estella be gotten rid of; her husband died of grief believing the baby (Estella) had died. John had the baby be taken by Catherine, who worked for the Baroness as her personal maid, and raised in secret. Angered over being lied to, Estella eventually makes peace with the truth by announcing her intent to avenge Catherine by defeating the Baroness and finally adopting the name Cruella.Cruella breaks out Jasper and Horace from jail and apologizes for not giving them credit while also recruiting Artie for one final scheme. They trick the Baroness' guests into wearing Cruella wigs and break into her party where Cruella, adopting her Estella appearance for one final time, has the Baroness come out to see her and reveals that she knows everything. The Baroness feigns being happy to reunite with her and approaches for a hug. John, Artie, Jasper and Horace have the guests go outside where they witness the Baroness shoving Estella off the landing and over the cliff. The police, having arrived thanks to Cruella, come and arrest the Baroness. Cruella uses a parachute as she fell and returns to witness the Baroness being taken away. Now having adopted the full name of Cruella de Vil, she acquires Hellman Hall (shortening it to Hell Hall) and takes her rightful place as the iconic villain.In a mid-credits scene, Cruella delivers two Dalmatian puppies named Pongo and Perdita to Roger and Anita, respectively (thus stetting the stage for the '101 Dalmatians' story). Admiring her name, Roger begins to write the song \"Cruella de Vil\" as a tribute to her."
+}
