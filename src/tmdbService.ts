@@ -1,8 +1,7 @@
 import { z } from "zod";
-import { GENRES } from "./tmdb.genres";
 import { getImdbMovie } from "./imdbScraper";
 
-const API_KEY = "9bc8fa1df47f3dde957bbd7f9dd5b48a";
+const API_KEY = process.env.TMDB_API_KEY!;
 
 export const BaseTmdbMovie = z.object({
   backdrop_path: z
@@ -77,13 +76,15 @@ export const TmdbMovieDetails = BaseTmdbMovie.extend({
     cast: z.array(
       z.object({ name: z.string(), character: z.string().nullable() })
     ),
-    crew: z.array(
-      z.object({
-        name: z.string(),
-        department: z.string().nullable(),
-        job: z.string().nullable(),
-      })
-    ),
+    crew: z
+      .array(
+        z.object({
+          name: z.string(),
+          department: z.string().nullable(),
+          job: z.string().nullable(),
+        })
+      )
+      .optional(),
   }),
   keywords: z
     .object({
