@@ -23,7 +23,7 @@ export const prepMovieSearchDocument = (movie: TmdbMovieDetails) => {
 export type MovieSearchDocument = ReturnType<typeof prepMovieSearchDocument>;
 
 export const movieSearchIndexDefinition = {
-  name: "idx-movie-search",
+  name: "idx-movies",
   fields: [
     {
       name: "id",
@@ -223,6 +223,19 @@ export const movieSearchIndexDefinition = {
       filterable: false,
       sortable: false,
       facetable: false,
+    },
+  ],
+  scoringProfiles: [
+    {
+      name: "boostTitle",
+      textWeights: {
+        weights: {
+          title: 5,
+          overview: 1.5,
+          "cast/name": 1.5,
+          keywords: 1,
+        },
+      },
     },
   ],
 } as SearchIndex;
